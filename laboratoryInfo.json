@@ -1,0 +1,4814 @@
+[
+  {
+    "laboratory_id": 1043,
+    "nome": "Identificação de Grupos Funcionais I",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 518,
+    "nome": "Hibridização",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 1027,
+    "nome": "Sistemas de Classificação e Citologia Vegetal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 212,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 353,
+    "nome": "Geoaromoterapia (Argilas e Óleos Essenciais)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 323,
+    "nome": "Extração de Ácido Desoxirribonucleico (DNA) de Células Humanas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PLATAFORMAS MOLECULARES"
+  },
+  {
+    "laboratory_id": 609,
+    "nome": "Identificação de Lipídios",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 438,
+    "nome": "Raiz e Caule: Morfologia e Adaptações",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1098,
+    "nome": "Gastronomia Vegetariana",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GASTRONOMIA"
+  },
+  {
+    "laboratory_id": 5,
+    "nome": "Ensaio de Chamas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 57,
+    "nome": "Reações Perigosas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 86,
+    "nome": "Ponto de Ebulição de Hidrocarbonetos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 88,
+    "nome": "Estudo de Algumas Propriedades dos Metais Alcalinos Terrosos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 311,
+    "nome": "Coloração de Gram",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 314,
+    "nome": "Microscopia de Fungos Filamentosos (bolores) e Fungos Leveduriformes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 321,
+    "nome": "Identificação de Staphylococcus sp.",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 324,
+    "nome": "Identificação de Streptococcus sp.",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 408,
+    "nome": "Eficácia de Agentes Antissépticos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 409,
+    "nome": "Identificação de Escherichia Coli em Alimentos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 411,
+    "nome": "Identificação de Fungos Filamentosos e Leveduras em Suco de Frutas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 421,
+    "nome": "Preparo de Esfregaço e Coloração de Gram",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 533,
+    "nome": "Tipos de Semeadura e Urinocultura",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 534,
+    "nome": "Antibiograma",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 561,
+    "nome": "Macroscopia e Microscopia de Fungos Filamentosos (Fusarium Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 562,
+    "nome": "Macroscopia e Microscopia de Fungos Filamentosos (Aspergillus Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 563,
+    "nome": "Macroscopia e Microscopia de Fungos Filamentosos (Penicillium Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 564,
+    "nome": "Macroscopia e Microscopia de Fungos Leveduriformes (Cryptococcus Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 565,
+    "nome": "Macroscopia e Microscopia de Fungos Leveduriformes (Candida Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 683,
+    "nome": "Sedimentoscopia: Sedimento Corado – Gram",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 747,
+    "nome": "Exigências dos Materiais Utilizados em Engenharia",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1036,
+    "nome": "Identificação de Grupos Funcionais II",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1069,
+    "nome": "Da Preparação do Ambiente à Técnica de Massagem Relaxante",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "TEORIAS E TÉCNICAS DE MASSAGEM"
+  },
+  {
+    "laboratory_id": 602,
+    "nome": "Baciloscopia Direta",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 71,
+    "nome": "Estequiometria",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 571,
+    "nome": "Transformação de Bactérias Competentes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 635,
+    "nome": "Candle Massage",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1191,
+    "nome": "Design Mobiliário: Guarda-roupa Planejado",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "DESIGN DE INTERIORES"
+  },
+  {
+    "laboratory_id": 1068,
+    "nome": "Reatividade Química de Aldeídos e Cetonas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 529,
+    "nome": "Síntese da 4-Nitroanilina",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 542,
+    "nome": "Determinação da Capacidade Calorífica Frasco Dewar e Determinação do Calor de Neutralização do NaOH",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA"
+  },
+  {
+    "laboratory_id": 73,
+    "nome": "Cromatografia em Coluna e em Camada Delgada",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 416,
+    "nome": "Análise de Densidade",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 309,
+    "nome": "Saponificação de Lipídios",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 7,
+    "nome": "Condutividade Elétrica em Líquidos e Sólidos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 39,
+    "nome": "Condutividade Elétrica e Suas Interações Atômicas e Moleculares",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 449,
+    "nome": "Microscopia e Preparação de Lâmina Histológica Vegetal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANAT. VEG. BÁS. E PARA O ENS. DE CIÊNCIAS E BIOLOGIA"
+  },
+  {
+    "laboratory_id": 544,
+    "nome": "Princípio de Le Chatelier e Equilíbrio Químico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 537,
+    "nome": "Anatomia de Raiz",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOBOTÂNICA"
+  },
+  {
+    "laboratory_id": 538,
+    "nome": "Anatomia de Caule",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOBOTÂNICA"
+  },
+  {
+    "laboratory_id": 539,
+    "nome": "Anatomia de Folha",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOBOTÂNICA"
+  },
+  {
+    "laboratory_id": 545,
+    "nome": "Regras de Solubilidade",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 36,
+    "nome": "Evidências Experimentais de uma Reação Química",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1003,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 790,
+    "nome": "Bomba Calorimétrica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1005,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 40,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 41,
+    "nome": "Determinação do Ponto de Fusão de Substâncias Orgânicas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 77,
+    "nome": "Extração com Solventes Reativos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 317,
+    "nome": "Análise de Proteínas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 459,
+    "nome": "Solução Oral de Paracetamol",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 656,
+    "nome": "Formulando um Condicionador",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 462,
+    "nome": "Pó Antiácido Efervescente",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 6,
+    "nome": "Caráter Oxidante dos Halogênios",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 65,
+    "nome": "Deslocamento do Equilíbrio Químico",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 78,
+    "nome": "Comparação Entre Carbonatos e Silicatos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 79,
+    "nome": "Observação das Propriedades do Carbono e Seus Derivados",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 749,
+    "nome": "Temperabilidade - Ensaio Jominy",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 84,
+    "nome": "Determinação de Ferro em Leite em Pó Por Espectrometria de Absorção Atômica",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 303,
+    "nome": "Solubilidade de Proteínas e Desnaturação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 413,
+    "nome": "Padrão de Identidade e Qualidade do Leite",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 1309,
+    "nome": "Solubilidade de Proteínas e Desnaturação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 339,
+    "nome": "Análise de Carboidratos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 43,
+    "nome": "Determinação do Caráter Ácido-básico de Amostras",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1102,
+    "nome": "Peeling Químico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 366,
+    "nome": "Uso do Vapor de Ozônio – Alta Frequência",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 368,
+    "nome": "Protocolo de Tratamento de Acne e Hidratação Facial + Rugas e Linhas de Expressão",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 369,
+    "nome": "Protocolo de Tratamento de Flacidez Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1183,
+    "nome": "Preenchimento com Ácido Hialurônico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA"
+  },
+  {
+    "laboratory_id": 657,
+    "nome": "Formulando um Sabonete",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 531,
+    "nome": "Síntese do Ácido Acetilsalicílico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 532,
+    "nome": "Síntese do Salicilato de Metila",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 59,
+    "nome": "Produção do Alúmen",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 306,
+    "nome": "Caracterização, Identificação e Poder Redutor de Carboidratos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 423,
+    "nome": "Propriedades e Reatividades dos Alcanos e Alcenos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 476,
+    "nome": "Determinação de Peróxido de Hidrogênio em Água Oxigenada Comercial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 1091,
+    "nome": "Preparo e Padronização de Solução de Tiossulfato de Sódio 0,1 Molar",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1024,
+    "nome": "Identificação de Insaturações em Compostos Orgânicos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1169,
+    "nome": "Quantificação Sérica de Paracetamol",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "TOXICOLOGIA"
+  },
+  {
+    "laboratory_id": 2000,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 479,
+    "nome": "Processos Fermentativos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOTECNOLOGIA"
+  },
+  {
+    "laboratory_id": 527,
+    "nome": "Coleta de Sangue Venoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CLÍNICAS E BIOSSEGURANÇA"
+  },
+  {
+    "laboratory_id": 661,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 430,
+    "nome": "Sequenciamento Automático de DNA",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GENÉTICA FORENSE"
+  },
+  {
+    "laboratory_id": 344,
+    "nome": "Avaliação Corporal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1327,
+    "nome": "Execução de Traço do Concreto",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1025,
+    "nome": "Curva do Aerogerador à Vazio e com Carga",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 312,
+    "nome": "Preparação de Meio de Cultura",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 429,
+    "nome": "Reação em Cadeia da Polimerase (PCR) e Eletroforese em Gel de Agarose",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GENÉTICA FORENSE"
+  },
+  {
+    "laboratory_id": 117,
+    "nome": "Classificação dos Solos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 465,
+    "nome": "Cápsulas de Guaraná em Pó",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 463,
+    "nome": "Talco Desodorante e Antisséptico para os Pés",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 80,
+    "nome": "Determinação da Capacidade Tamponante de Um Sistema Tampão",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 322,
+    "nome": "Análise de pH",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 414,
+    "nome": "Padrão de Identidade e Qualidade do Óleo de Fritura",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 474,
+    "nome": "Determinação de Cálcio em Leite em Pó",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 477,
+    "nome": "Determinação do Teor de Hidróxido de Magnésio no Leite de Magnésia e Ácido Acetilsalicílico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 524,
+    "nome": "Equipamentos e Vidrarias Laboratoriais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CLÍNICAS E BIOSSEGURANÇA"
+  },
+  {
+    "laboratory_id": 660,
+    "nome": "Testando a Qualidade do Batom",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1083,
+    "nome": "Determinação de Alcalinidade",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1084,
+    "nome": "Determinação de Acidez",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 543,
+    "nome": "Fatores que Influenciam na Velocidade de uma Reação Química",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA"
+  },
+  {
+    "laboratory_id": 111,
+    "nome": "Agregados - Composição Granulométrica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 634,
+    "nome": "Preparo de Emulsão Hidratante",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 636,
+    "nome": "Formulando uma Emulsão Cosmética",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 643,
+    "nome": "Gel Iônico (Carbopol) e Gel de Diclofenaco de Sódio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 645,
+    "nome": "Preparo de Creme Lanete/Creme de Ureia de 10% (p/p)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 654,
+    "nome": "Desenvolvendo um Xampu",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1022,
+    "nome": "Formulando uma Nanoemulsão Cosmética",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 570,
+    "nome": "Análises de Restrição",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 573,
+    "nome": "VDRL",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 315,
+    "nome": "Análise de Lipídios",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 15,
+    "nome": "Hidrostática",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 17,
+    "nome": "Calorimetria",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 42,
+    "nome": "Determinação dos Tipos de Dispersões pelo Efeito Tyndall",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 110,
+    "nome": "Determinação da Viscosidade de Fluidos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "MECÂNICA DOS FLUIDOS"
+  },
+  {
+    "laboratory_id": 114,
+    "nome": "Agregado Miúdo - Determinação da Massa Específica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 119,
+    "nome": "Execução do Traço do Concreto",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 120,
+    "nome": "Preparação de Argamassas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 121,
+    "nome": "Ensaio de Abatimento do Tronco de Cone - Slump Test",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 125,
+    "nome": "Teor de Inchamento da Areia",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 132,
+    "nome": "Concreto Autoadensável: Método do Cone de Abrams",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 137,
+    "nome": "Concreto Autoadensável: Método do Anel J",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 152,
+    "nome": "Locação de Obra",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 307,
+    "nome": "Ácidos Nucleicos – Extração do DNA do Morango",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 346,
+    "nome": "Tratamento de Estrias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 456,
+    "nome": "Formação do Amido: Efeito da Clorofila e da Luz",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANAT. VEG. BÁS. E PARA O ENS. DE CIÊNCIAS E BIOLOGIA"
+  },
+  {
+    "laboratory_id": 1001,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 1189,
+    "nome": "Materiais e Revestimentos - Prática I",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "DESIGN DE INTERIORES"
+  },
+  {
+    "laboratory_id": 1227,
+    "nome": "Produção de Biocombustíveis",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 1328,
+    "nome": "Ensaio de Abatimento do Tronco de Cone (Slump Test)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 85,
+    "nome": "Determinação de Sódio e Potássio em Bebida Isotônica Por Fotometria de Chama",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 326,
+    "nome": "Coloração da Lâmina Hematológica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 1205,
+    "nome": "Gestão de Museus: Conservação Preventiva",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MUSEOLOGIA"
+  },
+  {
+    "laboratory_id": 34,
+    "nome": "Ação de um Campo Elétrico",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 35,
+    "nome": "Ensaio de Solubilidade dos Compostos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 45,
+    "nome": "Cromatografia em Papel - Tintas de Canetas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 68,
+    "nome": "Reações Químicas Metalográficas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 74,
+    "nome": "Determinação da Pressão de Vapor e da Entalpia de Vaporização",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 83,
+    "nome": "Cinética Química da Oxidação da Vitamina C",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 118,
+    "nome": "Agregado Miúdo - Determinação de Impurezas Orgânicas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 302,
+    "nome": "Caracterização de Aminoácidos e Proteínas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 308,
+    "nome": "Solubilidade e Insaturação em Lipídios",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 313,
+    "nome": "Microcultivo de Bolores (fusarium sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 318,
+    "nome": "Análise de Sólidos Solúveis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 388,
+    "nome": "Análise de Fibras",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 412,
+    "nome": "Padrão de Identidade e Qualidade do Mel",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 428,
+    "nome": "Extração de DNA, Quantificação e Análise de Pureza por Espectrofotometria",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GENÉTICA FORENSE"
+  },
+  {
+    "laboratory_id": 454,
+    "nome": "Observação de Movimento de Água em Diferentes Tipos de Solos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANAT. VEG. BÁS. E PARA O ENS. DE CIÊNCIAS E BIOLOGIA"
+  },
+  {
+    "laboratory_id": 473,
+    "nome": "Calibração de Vidrarias Volumétricas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 536,
+    "nome": "Identificação de Monocotiledôneas e Eudicotiledôneas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOBOTÂNICA"
+  },
+  {
+    "laboratory_id": 557,
+    "nome": "Microcultivo de Bolores (Aspergillus Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 558,
+    "nome": "Microcultivo de Bolores (Penicillium Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 559,
+    "nome": "Cultura de Leveduras (Cryptococcus Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 560,
+    "nome": "Cultura de Leveduras (Candida Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 566,
+    "nome": "Método de Faust e Willis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 620,
+    "nome": "HDL Colesterol",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 662,
+    "nome": "Fibrinogênio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 699,
+    "nome": "Medição do pH de um Creme Hidratante Corporal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1057,
+    "nome": "Preparo de Álcool em Homeopatia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1059,
+    "nome": "Escala Cinquenta-Milesimal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1066,
+    "nome": "Extração do Óleo Essencial da Camomila Alemã (Matricaria Recutita)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1067,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 1081,
+    "nome": "Determinação do Teor de Ácido Acético em Vinagre Comercial",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1097,
+    "nome": "Controle de Qualidade de Matéria-prima de Paracetamol – Parte I",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1099,
+    "nome": "Controle de Qualidade de Matéria-prima de Paracetamol – Parte II",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1101,
+    "nome": "Controle de Qualidade de Forma Farmacêutica Líquida",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1170,
+    "nome": "Método de Trinder para Quantificação de Ácido Acetilsalicílico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "TOXICOLOGIA"
+  },
+  {
+    "laboratory_id": 1385,
+    "nome": "Determinação da capacidade antioxidante por dpph",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "NUTRIÇÃO"
+  },
+  {
+    "laboratory_id": 1035,
+    "nome": "DNA e Fotossíntese",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 151,
+    "nome": "Escavação de Fundações",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1019,
+    "nome": "Higienização Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1028,
+    "nome": "Argiloterapia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 327,
+    "nome": "Verificação da Concentração e Qualidade do DNA após a Extração",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PLATAFORMAS MOLECULARES"
+  },
+  {
+    "laboratory_id": 1034,
+    "nome": "Florais de Bach",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 305,
+    "nome": "Enzimas – Catalisadores e Inibidores de Reação Química",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 461,
+    "nome": "Xarope Sugar Free e Xarope de Cetirizine",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1058,
+    "nome": "Escala Centesimal para Drogas Insolúveis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1090,
+    "nome": "Determinação da Concentração de Cloro Ativo em Hipoclorito",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 362,
+    "nome": "Desintoxicação Metabólica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 511,
+    "nome": "RT-PCR",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 1072,
+    "nome": "Carboxiterapia no Tratamento da FEG",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1145,
+    "nome": "Nutrição Parenteral",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 1244,
+    "nome": "Punção e Manutenção de Cateter Totalmente Implantado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 1108,
+    "nome": "Curativo Simples",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 392,
+    "nome": "Tempo de Coagulação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 599,
+    "nome": "Exposição de Vida ou Saúde à Perigo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA FORENSE"
+  },
+  {
+    "laboratory_id": 600,
+    "nome": "Duplo Homicídio Qualificado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA FORENSE"
+  },
+  {
+    "laboratory_id": 601,
+    "nome": "Entomologia Forense de Produtos Estocados",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA FORENSE"
+  },
+  {
+    "laboratory_id": 127,
+    "nome": "Ensaio de Tempo de Pega",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 76,
+    "nome": "Bancada de Reatores Químicos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. QUÍMICA"
+  },
+  {
+    "laboratory_id": 638,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 417,
+    "nome": "Quantificação Bacteriana",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 517,
+    "nome": "Método de Faust",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 328,
+    "nome": "Pós-operatório de Cirurgia Plástica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1054,
+    "nome": "Escala Centesimal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1056,
+    "nome": "Escala Decimal para Drogas Solúveis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 329,
+    "nome": "Tipagem Sanguínea",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 336,
+    "nome": "Tratamento de Flacidez Tissular e Gordura Localizada",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 341,
+    "nome": "Celulite e Gordura Localizada",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 342,
+    "nome": "Redução de Estrias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 355,
+    "nome": "Drenagem Linfática Manual do Pós-Operatório de Mentoplastia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 357,
+    "nome": "Drenagem Linfática Manual do Pós-Operatório de Blefaroplastia e Rinoplastia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 391,
+    "nome": "Tempo de Sangramento",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 393,
+    "nome": "Prova do Laço",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 419,
+    "nome": "Imunocromatografia e Aglutinação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 572,
+    "nome": "Homicídio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA FORENSE"
+  },
+  {
+    "laboratory_id": 576,
+    "nome": "Posicionamento, Cobertura e Movimentos Essenciais da Massagem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RECURSOS TERAPÊUTICOS MANUAIS"
+  },
+  {
+    "laboratory_id": 577,
+    "nome": "Sequenciamento da Massagem Clássica (Coluna Vertebral)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RECURSOS TERAPÊUTICOS MANUAIS"
+  },
+  {
+    "laboratory_id": 594,
+    "nome": "Drenagem Linfática Manual - Membros Superiores e Membros Inferiores",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RECURSOS TERAPÊUTICOS MANUAIS"
+  },
+  {
+    "laboratory_id": 595,
+    "nome": "Fisioterapia Manipulativa – Mobilização (Coluna Vertebral)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RECURSOS TERAPÊUTICOS MANUAIS"
+  },
+  {
+    "laboratory_id": 637,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 640,
+    "nome": "Bambuterapia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 666,
+    "nome": "Pesquisa de Antígeno COVID-19",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 672,
+    "nome": "Avaliação Bioquímica da Urina: Fita Reagente",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 674,
+    "nome": "Triagem e Preparo da Amostra para Sedimentoscopia",
+    "areaConhecimento": "INDISPONIVEIS PT-BR",
+    "grupoArea": "INDISPONIVEIS"
+  },
+  {
+    "laboratory_id": 1040,
+    "nome": "Aspectos Biológicos das Espécies Vegetais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1053,
+    "nome": "Preparo de Tintura-Mãe Homeopática",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1055,
+    "nome": "Método Korsakoviano",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1073,
+    "nome": "Luz Intensa Pulsada",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1112,
+    "nome": "Verificação de Sinais Vitais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 1137,
+    "nome": "Acolhimento e Escala de Manchester",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 1198,
+    "nome": "Tomografia Computadorizada de Tórax",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "DIAGNÓSTICO POR IMAGEM"
+  },
+  {
+    "laboratory_id": 1200,
+    "nome": "Tomografia Computadorizada de Crânio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "DIAGNÓSTICO POR IMAGEM"
+  },
+  {
+    "laboratory_id": 1201,
+    "nome": "Ressonância Magnética de Crânio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "DIAGNÓSTICO POR IMAGEM"
+  },
+  {
+    "laboratory_id": 1202,
+    "nome": "Ressonância Magnética – Angio-RM Vasos Cervicais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "DIAGNÓSTICO POR IMAGEM"
+  },
+  {
+    "laboratory_id": 1241,
+    "nome": "Acolhimento e Escala Maschester Pediatria",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 1387,
+    "nome": "Administração de Medicamento pela via oral",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE MENTAL"
+  },
+  {
+    "laboratory_id": 1110,
+    "nome": "Sondagem Nasogástrica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 435,
+    "nome": "Sistema Digestório Comparado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANATOMOFISIOLOGIA ANIMAL COMPARADA"
+  },
+  {
+    "laboratory_id": 516,
+    "nome": "Etanol 70% e Lavagem das Mãos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 356,
+    "nome": "Drenagem Linfática Manual do Pós-Operatório de Lifting Cérvico-Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1100,
+    "nome": "Higienização das Mãos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 46,
+    "nome": "Experimento de Síntese do Cloreto de Hexaaminoníquel (II)",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 47,
+    "nome": "Síntese do Cloreto de Pentaaminoclorocobalto (III)",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 310,
+    "nome": "Conhecendo um Microscópio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROSCOPIA"
+  },
+  {
+    "laboratory_id": 424,
+    "nome": "Neoplasias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CITOPATOLÓGICAS E ANATOMIA PATOLÓGICA"
+  },
+  {
+    "laboratory_id": 425,
+    "nome": "Lesões Celulares Reversíveis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CITOPATOLÓGICAS E ANATOMIA PATOLÓGICA"
+  },
+  {
+    "laboratory_id": 426,
+    "nome": "Lesões Celulares Irreversíveis (Necrose)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CITOPATOLÓGICAS E ANATOMIA PATOLÓGICA"
+  },
+  {
+    "laboratory_id": 427,
+    "nome": "Alterações Inflamatórias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CITOPATOLÓGICAS E ANATOMIA PATOLÓGICA"
+  },
+  {
+    "laboratory_id": 547,
+    "nome": "Sistema Reprodutor Feminino e Masculino",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 548,
+    "nome": "Tecido Epitelial de Revestimento e Conjuntivo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 549,
+    "nome": "Observação em Lâminas Permanentes de Tecido Muscular e Nervoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 550,
+    "nome": "Dípteros (Culex Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 551,
+    "nome": "Protozoário (Amoeba Proteus)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 554,
+    "nome": "Nematelmintos (Ascaris Lumbricoides)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 658,
+    "nome": "Tecido Epitelial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 663,
+    "nome": "Alterações de Tamanho e Colorações Eritrocitárias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 665,
+    "nome": "Contagem e Alterações Plaquetárias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 667,
+    "nome": "Diferencial Leucocitário e Leucemias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 670,
+    "nome": "Alterações de Forma Eritrocitárias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 675,
+    "nome": "Análise Microscópica: Lesão Intaepitelial de Baixo Grau (LSIL)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 677,
+    "nome": "Sedimentoscopia – Cristais de Ácido Úrico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 679,
+    "nome": "Análise Microscópica: Lesão Intraepitelial de Alto Grau (HSIL)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 682,
+    "nome": "Análise Microscópica: Microbiologia - Clue Cell (Célula Guia)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 1075,
+    "nome": "Tecido Conjuntivo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 1094,
+    "nome": "Infarto Pulmonar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ODONTOLOGIA"
+  },
+  {
+    "laboratory_id": 1095,
+    "nome": "Neoplasias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ODONTOLOGIA"
+  },
+  {
+    "laboratory_id": 1096,
+    "nome": "Reparo Tecidual",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ODONTOLOGIA"
+  },
+  {
+    "laboratory_id": 1141,
+    "nome": "Gastronomia Hospitalar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GASTRONOMIA"
+  },
+  {
+    "laboratory_id": 1286,
+    "nome": "Histolab - Tecido muscular",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HISTOLOGIA E EMBRIOLOGIA"
+  },
+  {
+    "laboratory_id": 1307,
+    "nome": "Neoplasias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CITOPATOLÓGICAS E ANATOMIA PATOLÓGICA"
+  },
+  {
+    "laboratory_id": 530,
+    "nome": "Oxidação do Etanol com Dicromato de Potássio e Permanganato de Potássio",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 673,
+    "nome": "Coloração de Papanicolau",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 255,
+    "nome": "Marcação das Linhas Estruturais",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MODA"
+  },
+  {
+    "laboratory_id": 350,
+    "nome": "Avaliação Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 351,
+    "nome": "Registro Fotográfico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 352,
+    "nome": "Limpeza de Pele e Hidratação Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 354,
+    "nome": "Peeling Químico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 358,
+    "nome": "Bombeamento e Drenagem Linfática da Face",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 365,
+    "nome": "Peeling de Diamante",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 367,
+    "nome": "Protocolo de Hidratação e Revitalização Facial – Permeação de Ativos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 469,
+    "nome": "Ultrassom Terapêutico (US)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ELETROTERMOFOTOTERAPIA"
+  },
+  {
+    "laboratory_id": 552,
+    "nome": "Platelmintos (Schistosoma Mansoni)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 553,
+    "nome": "Platelmintos (Taenia Sp.)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 555,
+    "nome": "Preparação da Pele para Maquiagem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 614,
+    "nome": "Respiração em Insetos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 633,
+    "nome": "Cromatografia em Camada Delgada do Óleo Essencial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 1038,
+    "nome": "Massagem Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1064,
+    "nome": "Radiofrequência no Tratamento de Fibroses Resistentes Pós-Operatórias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1065,
+    "nome": "Ozônioterapia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 1154,
+    "nome": "Avaliação Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 126,
+    "nome": "Manutenção Preventiva de Uma Bomba Centrífuga",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 145,
+    "nome": "Tratamentos Térmicos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 200,
+    "nome": "Enogastronomia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GASTRONOMIA"
+  },
+  {
+    "laboratory_id": 1048,
+    "nome": "Composição Espacial no Design de Interiores",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DESIGN"
+  },
+  {
+    "laboratory_id": 464,
+    "nome": "Granulado de Dipirona Sódica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 646,
+    "nome": "Preparo de Suspensão de Enxofre",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 647,
+    "nome": "Preparo de Óxido de Zinco (Pasta de Lassar)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 64,
+    "nome": "Equação Termométrica",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 748,
+    "nome": "Caracterização de Ferros Fundidos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 775,
+    "nome": "Descrição e Identificação dos Cristais",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 113,
+    "nome": "Massa Unitária e Volume de Vazios",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 124,
+    "nome": "Material Pulverulento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 128,
+    "nome": "Concreto - Ensaio de Tração de Corpos de Prova Cilíndricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 129,
+    "nome": "Concreto: Ensaio de Compressão de Corpos de Prova Cilíndricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1329,
+    "nome": "Concreto: Ensaio de Compressão de Corpos de Provas Cilíndricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 139,
+    "nome": "Concreto Autoadensável: Método do Funil V",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 650,
+    "nome": "Caracterização das Cumarinas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 1165,
+    "nome": "Sequenciamento",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 1166,
+    "nome": "Eletroforese em Gel de Agarose",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 575,
+    "nome": "Teste de Estabilidade em Cosméticos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 451,
+    "nome": "Identificação de Farinhas através dos Grãos de Amido",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANAT. VEG. BÁS. E PARA O ENS. DE CIÊNCIAS E BIOLOGIA"
+  },
+  {
+    "laboratory_id": 515,
+    "nome": "Método de Hoffmann",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 519,
+    "nome": "Método de Kato-Katz",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 520,
+    "nome": "Método de Willis",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 522,
+    "nome": "Método Direto a Fresco",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 567,
+    "nome": "Exame Direto a Fresco e Exame de Sedimentação Espontânea - Método de Hoffmann",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 1050,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 603,
+    "nome": "D-Dímero",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 343,
+    "nome": "Velocidade de Hemossedimentação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 390,
+    "nome": "Contagem Manual de Eritrócitos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 116,
+    "nome": "Caracterização de Solos em Laboratório - Determinação da Umidade Natural",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 155,
+    "nome": "Consistência dos Solos - Limite de Plasticidade",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 902,
+    "nome": "Coleta, Preparo e Análise Microbiológica do Solo",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 668,
+    "nome": "FTA-Abs",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 669,
+    "nome": "Imunocromatografia para HCV",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 680,
+    "nome": "Sedimentoscopia - Cristais de Oxalato de Cálcio + Fungos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "URINÁLISE E CITOPATOLOGIA"
+  },
+  {
+    "laboratory_id": 122,
+    "nome": "Identificação de Tipos de Blocos e Tijolos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 671,
+    "nome": "Teste de Aglutinação: Fator Reumatoide",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 1252,
+    "nome": "Teste de Aglutinação: Anticorpo Antiestreptolisina O",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 1253,
+    "nome": "Teste de Aglutinação: Proteína C-Reativa",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 146,
+    "nome": "Sondagens - SPT",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 176,
+    "nome": "Acionamento e Parâmetros de Geração",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 780,
+    "nome": "Efeito Fotoelétrico",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1222,
+    "nome": "Estudo de Comportamento do Painel Fotovoltaico",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 664,
+    "nome": "Imunoensaio para IgG e IgM SARS-CoV2 - COVID-19",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 158,
+    "nome": "Ensaio de Adensamento Unidimensional",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 148,
+    "nome": "Ensaio de Compressão Não Confinada",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 746,
+    "nome": "Reconhecimento dos Elementos Mecânicos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 482,
+    "nome": "Metrologia Dimensional: Paquímetro",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 185,
+    "nome": "Transferência de Calor Por Convecção",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "TRANSFERÊNCIA DE CALOR"
+  },
+  {
+    "laboratory_id": 1223,
+    "nome": "Energia e Potência do Vento: Medição e Cálculo da Potência do Vento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 3,
+    "nome": "Separação de uma Mistura Homogênea - Destilação Simples",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 25,
+    "nome": "Difração por Fenda Dupla",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 123,
+    "nome": "Ensaio de Aderência",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 340,
+    "nome": "Protocolo de Tonificação Muscular e Combate à Flacidez – Corrente Russa e Aussie",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1133,
+    "nome": "Criolipólise",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 596,
+    "nome": "Intervenção Fisioterapêutica em Paciente com Disfunção Ortopédica em Membro Inferior",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA ORTOPÉDICA E TRAUMATOLOGIA"
+  },
+  {
+    "laboratory_id": 134,
+    "nome": "Determinação da Finura do Cimento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 470,
+    "nome": "Fototerapia: Laser e LED",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ELETROTERMOFOTOTERAPIA"
+  },
+  {
+    "laboratory_id": 556,
+    "nome": "Maquiagem Festa",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 184,
+    "nome": "Condução Linear",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "TRANSFERÊNCIA DE CALOR"
+  },
+  {
+    "laboratory_id": 316,
+    "nome": "Pedras Quentes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 764,
+    "nome": "Utilização de Termopares",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 766,
+    "nome": "Troca de Rolamento de um Ventilador Industrial",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1031,
+    "nome": "Chás Medicinais: Decocção e Infusão",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 642,
+    "nome": "Gel Não Iônico (Natrosol) e Gel Antipruriginoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 644,
+    "nome": "Supositórios com Glicerina",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 651,
+    "nome": "Identificação Química de Flavonoides em Plantas Medicinais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 652,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 653,
+    "nome": "Identificação Química de Alcaloides em Plantas Medicinais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 1226,
+    "nome": "Produção e Caracterização de Etanol",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 1190,
+    "nome": "Materiais e Revestimentos - Prática II",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "DESIGN DE INTERIORES"
+  },
+  {
+    "laboratory_id": 250,
+    "nome": "Técnicas de Escultura",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "ARTES"
+  },
+  {
+    "laboratory_id": 361,
+    "nome": "Clareamento de Axilas e Virilha",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1049,
+    "nome": "Minissistema Aquapônico e Técnicas de Amostragem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 363,
+    "nome": "Tratamento de Redução de Medida",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 512,
+    "nome": "Radiografia de Cabeça e Tronco",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOLOGIA"
+  },
+  {
+    "laboratory_id": 1136,
+    "nome": "Instalação de Dispositivo Urinário Externo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 617,
+    "nome": "Cauterização Capilar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 359,
+    "nome": "Localização e Marcação dos Linfonodos Faciais e do Pescoço",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 431,
+    "nome": "Análise de Eletroferograma",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GENÉTICA FORENSE"
+  },
+  {
+    "laboratory_id": 436,
+    "nome": "Sistema Reprodutor Comparado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANATOMOFISIOLOGIA ANIMAL COMPARADA"
+  },
+  {
+    "laboratory_id": 489,
+    "nome": "Movimentos da Coluna Cervical",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MOVIMENTO FUNCIONAL HUMANO"
+  },
+  {
+    "laboratory_id": 491,
+    "nome": "Fases da Marcha Humana",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MOVIMENTO FUNCIONAL HUMANO"
+  },
+  {
+    "laboratory_id": 579,
+    "nome": "Testes Especiais que Podem Ser Aplicados no Exame Físico dos Membros Inferiores",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA ORTOPÉDICA E TRAUMATOLOGIA"
+  },
+  {
+    "laboratory_id": 580,
+    "nome": "Tipos de Tórax",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 581,
+    "nome": "Escala Visual Analógica (EVA)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 583,
+    "nome": "Saturação Periférica de Oxigênio e Pressão Arterial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 585,
+    "nome": "Movimentos da Articulação do Punho",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MOVIMENTO FUNCIONAL HUMANO"
+  },
+  {
+    "laboratory_id": 587,
+    "nome": "Movimentos da Articulação do Cotovelo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MOVIMENTO FUNCIONAL HUMANO"
+  },
+  {
+    "laboratory_id": 589,
+    "nome": "Alongamentos Passivos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CINESIOTERAPIA"
+  },
+  {
+    "laboratory_id": 591,
+    "nome": "Exercícios Isométricos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CINESIOTERAPIA"
+  },
+  {
+    "laboratory_id": 592,
+    "nome": "Teste de Flexibilidade",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CINESIOTERAPIA"
+  },
+  {
+    "laboratory_id": 604,
+    "nome": "Avaliação do Tórax",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 616,
+    "nome": "Reconstrução Capilar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 623,
+    "nome": "Abordagens Fisioterapêuticas no TCE",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NEUROFUNCIONAL"
+  },
+  {
+    "laboratory_id": 626,
+    "nome": "Abordagens Fisioterapêuticas na Prevenção de Quedas",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 627,
+    "nome": "Abordagens Fisioterapêuticas na Doença de Parkinson",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NEUROFUNCIONAL"
+  },
+  {
+    "laboratory_id": 630,
+    "nome": "Bad Ragaz",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA AQUÁTICA"
+  },
+  {
+    "laboratory_id": 631,
+    "nome": "Watsu",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA AQUÁTICA"
+  },
+  {
+    "laboratory_id": 632,
+    "nome": "Ai Chi",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA AQUÁTICA"
+  },
+  {
+    "laboratory_id": 655,
+    "nome": "Escalda-Pés: Desintoxicação e Harmonização",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 676,
+    "nome": "Uso da Microcorrentes no Pós Operatório Facial",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 678,
+    "nome": "Fisioterapia Aplicada às Afecções Neurológicas (Paralisia Cerebral)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DA CRIANÇA"
+  },
+  {
+    "laboratory_id": 681,
+    "nome": "Fisioterapia Aplicada à Síndrome de Down",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DA CRIANÇA"
+  },
+  {
+    "laboratory_id": 914,
+    "nome": "Processos de Imantação – Magnetização por Indução",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1063,
+    "nome": "Conduta de Atendimento no Pós-Operatório Imediato de Abdominoplastia Clássica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1082,
+    "nome": "Determinação de pH",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1148,
+    "nome": "Subtom",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 1159,
+    "nome": "Movimentos da Articulação do Punho",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 1160,
+    "nome": "Exame Físico dos Membros Superiores",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 1161,
+    "nome": "Exame Físico dos Membros Inferiores",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 1206,
+    "nome": "Enfermagem na Realização do Teste de BHCG",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER"
+  },
+  {
+    "laboratory_id": 236,
+    "nome": "Descrição Arquivística",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "BIBLIOTECONOMIA"
+  },
+  {
+    "laboratory_id": 750,
+    "nome": "Montando o Sistema do Parafuso de Arquimedes Automático",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 761,
+    "nome": "Testando o Sistema de Acionamento do Parafuso de Arquimedes",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 971,
+    "nome": "Raleio de Frutos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "AGRONOMIA"
+  },
+  {
+    "laboratory_id": 797,
+    "nome": "Teste de Partículas Magnéticas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 360,
+    "nome": "Tratamento de Fibroedema Gelóide e Lipodistrofia Localizada",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 330,
+    "nome": "Cálculo da Camada Semirredutora",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOLOGIA"
+  },
+  {
+    "laboratory_id": 999,
+    "nome": "EPI-EPC",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 1007,
+    "nome": "EPI-EPC 2",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 271,
+    "nome": "Construção de Volume",
+    "areaConhecimento": "INDISPONIVEIS PT-BR",
+    "grupoArea": "INDISPONIVEIS"
+  },
+  {
+    "laboratory_id": 1106,
+    "nome": "Utilização de EPIs para Enfermagem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 525,
+    "nome": "Microscopia de Luz",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CLÍNICAS E BIOSSEGURANÇA"
+  },
+  {
+    "laboratory_id": 149,
+    "nome": "Ensaio de Compactação dos Solos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 178,
+    "nome": "Projeto de Fundição",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 52,
+    "nome": "Lançamentos Horizontais e Colisões",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 58,
+    "nome": "Reações Químicas e Trocas de Energia",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 81,
+    "nome": "Extração com Soxhlet",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 136,
+    "nome": "Metalurgia do Pó - Confecção de Uma Peça Cilíndrica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 494,
+    "nome": "Avaliação da Composição Corporal – Antropometria",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "NUTRIÇÃO MATERNO INFANTIL / AVALIAÇÃO NUTRICIONAL"
+  },
+  {
+    "laboratory_id": 649,
+    "nome": "Identificação Química de Antraquinonas Livres em Plantas Medicinais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOGNOSIA"
+  },
+  {
+    "laboratory_id": 1032,
+    "nome": "Preparação de Glóbulos Homeopáticos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 1104,
+    "nome": "Controle de Qualidade de Formas Farmacêuticas Sólidas - Parte 1",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1107,
+    "nome": "Controle de Qualidade de Formas Farmacêuticas Sólidas – Parte 2",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1109,
+    "nome": "Controle de Qualidade de Formas Farmacêuticas Sólidas – Parte 3",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "GARANTIA E CONTROLE DE QUALIDADE"
+  },
+  {
+    "laboratory_id": 1144,
+    "nome": "Avaliação Corporal para Enfermagem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 1,
+    "nome": "Medidas de Massa e Volume de Líquidos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 48,
+    "nome": "Algarismos Significativos, Erros e Calibração de Vidrarias",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 50,
+    "nome": "Preparo e Diluição de Soluções",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 82,
+    "nome": "Preparo e Propriedades de Solução Tampão",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 131,
+    "nome": "Massa Específica do Cimento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 301,
+    "nome": "Acidez Total do Suco de Laranja",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 319,
+    "nome": "Análise de Umidade e Sólidos Totais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 415,
+    "nome": "Análise de Cinzas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 540,
+    "nome": "Comprovação da Lei de Hess",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA"
+  },
+  {
+    "laboratory_id": 541,
+    "nome": "Classificação das Reações Químicas: Endotérmicas e Exotérmicas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FÍSICO-QUÍMICA APLICADA À FARMÁCIA"
+  },
+  {
+    "laboratory_id": 568,
+    "nome": "Peso Médio de Comprimidos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 648,
+    "nome": "Preparo de Pomada Simples/Pomada Própolis 5% (p/p)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOTÉCNICA"
+  },
+  {
+    "laboratory_id": 755,
+    "nome": "Mini Estação de Tratamento de Água",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1089,
+    "nome": "Determinação da Concentração de Amônia em Tintura de Cabelo",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 23,
+    "nome": "Estática",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 62,
+    "nome": "Calor Específico de Corpos Sólidos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 63,
+    "nome": "Calor Específico de Líquidos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 535,
+    "nome": "Identificação da Qualidade de Chás Medicinais",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FARMACOBOTÂNICA"
+  },
+  {
+    "laboratory_id": 569,
+    "nome": "Ensaio de Friabilidade em Comprimidos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 72,
+    "nome": "Destilação Fracionada",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 751,
+    "nome": "Medição com Trena",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 75,
+    "nome": "Termodinâmica da Célula Eletroquímica",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 395,
+    "nome": "Macroalgas Verdes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 765,
+    "nome": "Verificação de Ângulo e Planicidade",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 782,
+    "nome": "A Velocidade da Luz",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1257,
+    "nome": "Bancada Didática de Controle de Processos - Sintonia de PID",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 513,
+    "nome": "ELISA para Detecção de Doenças Virais (HIV)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 177,
+    "nome": "Retificadores",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 164,
+    "nome": "Sintonia de PID",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 183,
+    "nome": "Transformadores e Linhas de Transmissão",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 106,
+    "nome": "Instalações Elétricas Industriais",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "INSTALAÇÕES ELÉTRICAS"
+  },
+  {
+    "laboratory_id": 173,
+    "nome": "Acionamento de Motores Elétricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 172,
+    "nome": "Automação Residencial e Telecomunicações",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "INSTALAÇÕES ELÉTRICAS"
+  },
+  {
+    "laboratory_id": 190,
+    "nome": "Perda de Carga Localizada",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "MECÂNICA DOS FLUIDOS"
+  },
+  {
+    "laboratory_id": 163,
+    "nome": "Identificação da Função de Transferência",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 105,
+    "nome": "Instalações Elétricas Residenciais - Circuitos Básicos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "INSTALAÇÕES ELÉTRICAS"
+  },
+  {
+    "laboratory_id": 762,
+    "nome": "Experimento de Reynolds",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 259,
+    "nome": "Cerimonial e Protocolo em Eventos Solenes",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "EVENTOS"
+  },
+  {
+    "laboratory_id": 1138,
+    "nome": "Administração de Hemocomponentes Emergência",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 619,
+    "nome": "Colesterol Total",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 621,
+    "nome": "Triglicerídeos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 641,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 383,
+    "nome": "Avaliação do Rendimento do Tubo de Raios X",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 1234,
+    "nome": "Tipos de Turbinas (Energia Eólica)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 377,
+    "nome": "Maquiagem do Dia a Dia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CABELO E BELEZA"
+  },
+  {
+    "laboratory_id": 1023,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 32,
+    "nome": "Pêndulo Físico",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 597,
+    "nome": "Intervenção Fisioterapêutica em Paciente com Disfunção Ortopédica no Ombro",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA ORTOPÉDICA E TRAUMATOLOGIA"
+  },
+  {
+    "laboratory_id": 2,
+    "nome": "Separação de Mistura Heterogênea - Filtração Simples",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 4,
+    "nome": "Separação de uma Mistura Heterogênea - Decantação",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 498,
+    "nome": "Processos de Transformação de Alimentos: Identificação de Operações de Transformação",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BROMATOLOGIA / TECNOLOGIA DE ALIMENTOS"
+  },
+  {
+    "laboratory_id": 528,
+    "nome": "Análise Macroscópica de Fezes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 613,
+    "nome": "Cultivo de Microrganismos Comuns no Meio Ambiente",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1310,
+    "nome": "Análise Macroscópica de Fezes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 332,
+    "nome": "Avaliação Capilar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "TRICOLOGIA"
+  },
+  {
+    "laboratory_id": 16,
+    "nome": "Dilatômetro",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 29,
+    "nome": "Máxima Transferência de Pôtencia",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1061,
+    "nome": "Projeto e Dimensionamento de um Sistema de Geração Fotovoltaico",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 28,
+    "nome": "Leds e Diodos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 30,
+    "nome": "Resistividade",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 37,
+    "nome": "Indicadores Ácido-Base",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 44,
+    "nome": "Reatividade dos Metais: Síntese do Gás Hidrogênio",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 51,
+    "nome": "Espectroscopia Eletrônica Aplicada a Compostos de Coordenação",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 54,
+    "nome": "Caracterização de Complexos Via Análise Condutométrica",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 304,
+    "nome": "Proteínas, Aminoácidos e Enzimas – Verificação da Atividade Proteolítica de Enzimas em Frutos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 1004,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 708,
+    "nome": "Identificação de Minerais Destrutivos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 758,
+    "nome": "Detecção de Vazamentos por Formação de Bolhas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 523,
+    "nome": "Visualização de Células Sanguíneas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 612,
+    "nome": "Sistema Abo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 8,
+    "nome": "Pilha de Daniell",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 300,
+    "nome": "Medição de pH do Suco de Laranja",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOQUÍMICA"
+  },
+  {
+    "laboratory_id": 922,
+    "nome": "Análise de Ferrografia de Lubrificante",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 9,
+    "nome": "Estudo da Espontaneidade de uma Reação",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 226,
+    "nome": "Diagnóstico Organizacional de Bibliotecas",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "BIBLIOTECONOMIA"
+  },
+  {
+    "laboratory_id": 1129,
+    "nome": "Conhecendo as Ilhas de Calor",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "CLIMATOLOGIA"
+  },
+  {
+    "laboratory_id": 109,
+    "nome": "Jatos Livres",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "MECÂNICA DOS FLUIDOS"
+  },
+  {
+    "laboratory_id": 256,
+    "nome": "Observação e Registro da Fauna e Flora do Cerrado",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "AGRONOMIA"
+  },
+  {
+    "laboratory_id": 257,
+    "nome": "Observação e Registro da Fauna e Flora da Mata Atlântica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "AGRONOMIA"
+  },
+  {
+    "laboratory_id": 1077,
+    "nome": "Assoreamento e Poluição dos Recursos Hídricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1230,
+    "nome": "Produção de Eletricidade a partir de Biomassa",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 345,
+    "nome": "Hidratação Corporal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 364,
+    "nome": "Tratamento de Flacidez Dérmica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 379,
+    "nome": "Levantamento Radiométrico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOBIOLOGIA E DOSIMETRIA"
+  },
+  {
+    "laboratory_id": 210,
+    "nome": "Relacionando Números e Quantidades",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "EDUCAÇÃO"
+  },
+  {
+    "laboratory_id": 1130,
+    "nome": "Conhecendo Uma Estação Meteorológica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "CLIMATOLOGIA"
+  },
+  {
+    "laboratory_id": 104,
+    "nome": "Eletropneumática",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1085,
+    "nome": "Movimentos de Massas e os Fatores Antrópicos e Naturais",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 481,
+    "nome": "Metrologia Dimensional: Micrômetro",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 422,
+    "nome": "Metrologia Dimensional: Régua Graduada",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 70,
+    "nome": "Indução Mútua entre Duas Bobinas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 781,
+    "nome": "Razão E/M do Elétron",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 193,
+    "nome": "Instalações Hidrossanitárias",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 904,
+    "nome": "Instalação Hidráulica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 598,
+    "nome": "Intervenção Fisioterapêutica em Paciente em Pós-operatório de Fratura de Membro Inferior",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA ORTOPÉDICA E TRAUMATOLOGIA"
+  },
+  {
+    "laboratory_id": 108,
+    "nome": "Perda de Carga Distribuída",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "MECÂNICA DOS FLUIDOS"
+  },
+  {
+    "laboratory_id": 135,
+    "nome": "Associação de Bombas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "MECÂNICA DOS FLUIDOS"
+  },
+  {
+    "laboratory_id": 188,
+    "nome": "Trocador de Calor",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "TRANSFERÊNCIA DE CALOR"
+  },
+  {
+    "laboratory_id": 786,
+    "nome": "Canal Aberto",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 100,
+    "nome": "Ensaio de Tração",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ESTRUTURAS"
+  },
+  {
+    "laboratory_id": 101,
+    "nome": "Ensaio de Compressão",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ESTRUTURAS"
+  },
+  {
+    "laboratory_id": 102,
+    "nome": "Ensaio de Dureza",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 420,
+    "nome": "Metrologia Dimensional: Blocos Padrão",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 191,
+    "nome": "Braço Robótico",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ROBÓTICA"
+  },
+  {
+    "laboratory_id": 199,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 546,
+    "nome": "Reações de Óxido-Redução: Titulação do Ácido Ascórbico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "QUÍMICA FARMACÊUTICA APLICADA"
+  },
+  {
+    "laboratory_id": 27,
+    "nome": "Campo Eletromagnético",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 61,
+    "nome": "Campo Magnético em Um Fio Retilíneo",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 13,
+    "nome": "Queda Livre",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 10,
+    "nome": "Movimento Retilíneo Uniforme - MRU",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 11,
+    "nome": "Movimento Retilíneo Uniformemente Variado - MRUV",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 160,
+    "nome": "Práticas de IOT - Saída Digital",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 162,
+    "nome": "Práticas de IOT - Entrada Analógica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 197,
+    "nome": "Método de Levantamento GNSS",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 230,
+    "nome": "Políticas de RH",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "laboratory_id": 232,
+    "nome": "Plano de Negócio",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "laboratory_id": 370,
+    "nome": "Retoque de Raiz em Cabelos Brancos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "COLORIMETRIA"
+  },
+  {
+    "laboratory_id": 371,
+    "nome": "Colorindo os Cabelos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "COLORIMETRIA"
+  },
+  {
+    "laboratory_id": 372,
+    "nome": "Técnica de Descoloração Global dos Cabelos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "COLORIMETRIA"
+  },
+  {
+    "laboratory_id": 373,
+    "nome": "Técnica de Mechas em Cabelos (Luzes)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "COLORIMETRIA"
+  },
+  {
+    "laboratory_id": 376,
+    "nome": "Higienização e Tratamento dos Cabelos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CABELO E BELEZA"
+  },
+  {
+    "laboratory_id": 584,
+    "nome": "Frequência Cardíaca e Frequência Respiratória",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 588,
+    "nome": "Exercícios Resistidos para Ombros",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CINESIOTERAPIA"
+  },
+  {
+    "laboratory_id": 607,
+    "nome": "Teste de Sentar e Levantar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 688,
+    "nome": "Atuação Fisioterapêutica na Reabilitação Cardiovascular no Idoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 690,
+    "nome": "Atuação Fisioterapêutica nas Doenças Locomotoras (Osteoporose)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 691,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 692,
+    "nome": "Atuação Fisioterapêutica nas Doenças do Sistema Nervoso (Parkinson)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 1039,
+    "nome": "Ressonância Magnética Nuclear de 1H e 13C",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1046,
+    "nome": "Infravermelho e CG-MS",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 1117,
+    "nome": "Relação da Escrita e Leitura com a Psicomotricidade",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPEDAGOGIA: ESTRATÉGIAS DE LEITURA E ESCRITA"
+  },
+  {
+    "laboratory_id": 1118,
+    "nome": "Operações Fundamentais Aritméticas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPEDAGOGIA: CONSTRUÇÃO LÓGICO MATEMÁTICA"
+  },
+  {
+    "laboratory_id": 1119,
+    "nome": "Discalculia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL"
+  },
+  {
+    "laboratory_id": 1120,
+    "nome": "Estratégias de Trabalho do Psicopedagogo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL"
+  },
+  {
+    "laboratory_id": 1121,
+    "nome": "Dificuldades de Aprendizagem",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL"
+  },
+  {
+    "laboratory_id": 1122,
+    "nome": "Dificuldades de Aprendizagem e a Concepção Psicanalista",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICANÁLISE APLICADA A PSICOPEDAGOGIA"
+  },
+  {
+    "laboratory_id": 1124,
+    "nome": "Transtornos do Neurodesenvolvimento",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICANÁLISE APLICADA A PSICOPEDAGOGIA"
+  },
+  {
+    "laboratory_id": 1125,
+    "nome": "Desenvolvimento das Sinapses",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE"
+  },
+  {
+    "laboratory_id": 1127,
+    "nome": "Influência dos Sentidos na Percepção Cerebral",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE"
+  },
+  {
+    "laboratory_id": 141,
+    "nome": "Levantamento de Curvas de Nível",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 274,
+    "nome": "Arquivos Correntes e Arquivos Intermediários",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "BIBLIOTECONOMIA"
+  },
+  {
+    "laboratory_id": 1123,
+    "nome": "Caixa de Areia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICANÁLISE APLICADA A PSICOPEDAGOGIA"
+  },
+  {
+    "laboratory_id": 140,
+    "nome": "Concreto Autoadensável: Método da Caixa L",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 803,
+    "nome": "Prática Jurídica Constitucional - Habeas Corpus - Com Petição",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 804,
+    "nome": "Prática Jurídica Constitucional - Habeas Corpus - Sem Petição",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 1052,
+    "nome": "Mediação - Atendimento ao Cliente - Sessão de Abertura",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 629,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 724,
+    "nome": "Identificação de Minerais: Parâmetros Visuais",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "QUÍMICA"
+  },
+  {
+    "laboratory_id": 756,
+    "nome": "Determinação de Vazamento com a Calha Parshall",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 521,
+    "nome": "Método de Rugai",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PARASITOLOGIA"
+  },
+  {
+    "laboratory_id": 348,
+    "nome": "Calibração de Dosímetro",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOLOGIA"
+  },
+  {
+    "laboratory_id": 378,
+    "nome": "Teste de Fuga de Cabeçote",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOBIOLOGIA E DOSIMETRIA"
+  },
+  {
+    "laboratory_id": 382,
+    "nome": "Avaliação da Linearidade e Reprodutibilidade da Taxa de Kerma no Ar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 386,
+    "nome": "Verificação da Qualidade do Feixe de Raios X em Função da Camada Semirredutora",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 387,
+    "nome": "Estimativa da Dose Recebida pelos Pacientes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 389,
+    "nome": "Contagem Manual de Leucócitos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 331,
+    "nome": "Influência da Atenuação do Feixe",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOLOGIA"
+  },
+  {
+    "laboratory_id": 1093,
+    "nome": "Gestão de Museus: Plano Museológico",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MUSEOLOGIA"
+  },
+  {
+    "laboratory_id": 171,
+    "nome": "Fotografia",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PUBLICIDADE E PROPAGANDA / COMUNICAÇÃO"
+  },
+  {
+    "laboratory_id": 273,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 150,
+    "nome": "Dinâmica Lean Manufacturing",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 606,
+    "nome": "Avaliação do Pico de Fluxo Expiratório",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 608,
+    "nome": "Manovacuoterapia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 615,
+    "nome": "Avaliação Capilar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 625,
+    "nome": "Abordagens Fisioterapêuticas na Marcha",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NEUROFUNCIONAL"
+  },
+  {
+    "laboratory_id": 685,
+    "nome": "Atuação Fisioterapêutica nas Doenças Locomotoras (Osteoartrite)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 844,
+    "nome": "Perfil Socioecônomico",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "SERVIÇO SOCIAL"
+  },
+  {
+    "laboratory_id": 1103,
+    "nome": "Exame Físico",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 1126,
+    "nome": "Anamnese",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE"
+  },
+  {
+    "laboratory_id": 639,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 186,
+    "nome": "Utilização de Decibelímetro",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 26,
+    "nome": "Capacitores",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 733,
+    "nome": "Amplificador de Emissor Comum",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 727,
+    "nome": "Estudo de Retificadores de Tensão",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 734,
+    "nome": "Equação do NIOSH para Manuseio de Carga",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 726,
+    "nome": "Detector de Gases",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 468,
+    "nome": "Termoterapia: Hipotermoterapia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ELETROTERMOFOTOTERAPIA"
+  },
+  {
+    "laboratory_id": 1280,
+    "nome": "Escala de Coma de Glasgow",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 182,
+    "nome": "Substituição de Pastilha de Freio",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. AUTOMOTIVA"
+  },
+  {
+    "laboratory_id": 103,
+    "nome": "Ensaio de Torção",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ESTRUTURAS"
+  },
+  {
+    "laboratory_id": 1021,
+    "nome": "Classificação de Risco dos Cosméticos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 440,
+    "nome": "Estruturas Reprodutivas: Estróbilos, Flores e Inflorescências",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 441,
+    "nome": "Estruturas Reprodutivas: Frutos e Sementes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 442,
+    "nome": "Sistemática de Espermatófitas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 439,
+    "nome": "Filotaxia e Folha: Morfologia e Adaptações",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 800,
+    "nome": "Documentoscopia",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 166,
+    "nome": "Curvas de Escoamento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ESTRUTURAS"
+  },
+  {
+    "laboratory_id": 791,
+    "nome": "Teste de Desempenho de um Motor",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 825,
+    "nome": "Licitações e Contratos Administrativos – Redação Jurídica – Parecer Jurídico",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 1299,
+    "nome": "Fisiologia Articular da Coluna Lombar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1002,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 1079,
+    "nome": "Desgaste Abrasivo de Rochas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 799,
+    "nome": "Brasagem",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 399,
+    "nome": "Plantas Avasculares",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 433,
+    "nome": "Sistema Cardiovascular Comparado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANATOMOFISIOLOGIA ANIMAL COMPARADA"
+  },
+  {
+    "laboratory_id": 434,
+    "nome": "Sistema Respiratório Comparado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANATOMOFISIOLOGIA ANIMAL COMPARADA"
+  },
+  {
+    "laboratory_id": 380,
+    "nome": "Avaliação dos Desvios entre o Campo Luminoso e o Campo Irradiado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOBIOLOGIA E DOSIMETRIA"
+  },
+  {
+    "laboratory_id": 973,
+    "nome": "Portas Lógicas Digitais Básicas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 974,
+    "nome": "Portas Lógicas Digitais Secundárias",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 1041,
+    "nome": "Circuitos Lógicos Somadores",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 789,
+    "nome": "Desmontagem de um Motor de Combustão Interna",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 161,
+    "nome": "Práticas de IOT - Entrada e Saída Digital",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 1219,
+    "nome": "Levantamente ao Cumprimento das Exigências da NR17 (Check List)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 398,
+    "nome": "Microalgas Eucariontes",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 611,
+    "nome": "Árvore Filogenética de Folhas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1143,
+    "nome": "Orientações de Enfermagem na Prevenção de Quedas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FUNDAMENTOS DE ENFERMAGEM"
+  },
+  {
+    "laboratory_id": 189,
+    "nome": "Portas Lógicas e Circuitos Digitais",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 618,
+    "nome": "Tempo de Protrombina",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 1078,
+    "nome": "Identificação de Rochas (Análise Petrográfica)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 1297,
+    "nome": "Fisiologia Articular da Coluna Cervical",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1163,
+    "nome": "Avaliação de Urina: Fita Reagente",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER"
+  },
+  {
+    "laboratory_id": 716,
+    "nome": "Agricultura de Precisão - Análise de Informações do Computador de Bordo da Colhetadeira",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "AGRONOMIA"
+  },
+  {
+    "laboratory_id": 760,
+    "nome": "Construindo Bissetriz",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "DESENHO GEOMÉTRICO E GEOMETRIA DESCRITIVA"
+  },
+  {
+    "laboratory_id": 67,
+    "nome": "Força Magnética entre Dois Fios Paralelos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 179,
+    "nome": "Utilização da Ferramenta MASP",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 202,
+    "nome": "Configurações de Mão - Parte I",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "LIBRAS"
+  },
+  {
+    "laboratory_id": 204,
+    "nome": "Libras e Expressões Faciais",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "LIBRAS"
+  },
+  {
+    "laboratory_id": 209,
+    "nome": "Jogo da Memória",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "EDUCAÇÃO"
+  },
+  {
+    "laboratory_id": 214,
+    "nome": "Escrita de Sinais - Palavras",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "LIBRAS"
+  },
+  {
+    "laboratory_id": 215,
+    "nome": "Tradução e Interpretação em Língua de Sinais",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "LIBRAS"
+  },
+  {
+    "laboratory_id": 220,
+    "nome": "Postura e Relaxamento",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 227,
+    "nome": "Sistema de Catalogação",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "BIBLIOTECONOMIA"
+  },
+  {
+    "laboratory_id": 233,
+    "nome": "Arte Brasileira",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "ARTES"
+  },
+  {
+    "laboratory_id": 235,
+    "nome": "Organização de Museus",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MUSEOLOGIA"
+  },
+  {
+    "laboratory_id": 238,
+    "nome": "Harmonia",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 242,
+    "nome": "Teoria Musical - Percepção de Intervalos",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 245,
+    "nome": "Vocalise",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 248,
+    "nome": "Perspectiva no Desenho",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "ARTES"
+  },
+  {
+    "laboratory_id": 252,
+    "nome": "Sistema de Gestão de Reservas Hoteleiras",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "HOTELARIA"
+  },
+  {
+    "laboratory_id": 260,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 262,
+    "nome": "Redação - Mídias Audiovisuais - TV",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PUBLICIDADE E PROPAGANDA / COMUNICAÇÃO"
+  },
+  {
+    "laboratory_id": 263,
+    "nome": "Redação - Mídias Gráficas",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PUBLICIDADE E PROPAGANDA / COMUNICAÇÃO"
+  },
+  {
+    "laboratory_id": 269,
+    "nome": "Técnicas Empregadas na Entrevista Jornalística",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "JORNALISMO"
+  },
+  {
+    "laboratory_id": 270,
+    "nome": "Entrevista Jornalística na Prática",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "JORNALISMO"
+  },
+  {
+    "laboratory_id": 700,
+    "nome": "Algoritmos de Hash",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 703,
+    "nome": "Autenticação",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 737,
+    "nome": "Diferenças entre SIG e CAD",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 745,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 767,
+    "nome": "Pesquisa Operacional",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 820,
+    "nome": "Direito Tributário - Execução Fiscal - Entrevista",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 835,
+    "nome": "Direito do Consumidor – Responsabilidade do Fornecedor – Entrevista",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 840,
+    "nome": "Carta-Convite",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 918,
+    "nome": "Assinatura Digital II",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 950,
+    "nome": "Identificando Oportunidades e Demandas Regionais Relacionadas com o Associativismo e Cooperativismo",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "AGRONOMIA"
+  },
+  {
+    "laboratory_id": 1026,
+    "nome": "Licitações e Contratos Administrativos - Entrevista",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "DIREITO"
+  },
+  {
+    "laboratory_id": 1033,
+    "nome": "Negociação",
+    "areaConhecimento": "HUMANIDADES",
+    "grupoArea": "TÉCNICAS DE NEGOCIAÇÃO"
+  },
+  {
+    "laboratory_id": 1070,
+    "nome": "Software de Nutrição",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "NUTRIÇÃO"
+  },
+  {
+    "laboratory_id": 1088,
+    "nome": "Lançamentos Contábeis e Elaboração de Demonstrações Financeiras",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "CONTABILIDADE"
+  },
+  {
+    "laboratory_id": 1092,
+    "nome": "Elementos da Dramaturgia",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "ARTES"
+  },
+  {
+    "laboratory_id": 1113,
+    "nome": "Métodos Quantitativos: Variáveis Quantitativas e Qualitativas",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "laboratory_id": 1114,
+    "nome": "Fake News",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÍDIAS DIGITAIS"
+  },
+  {
+    "laboratory_id": 1140,
+    "nome": "Língua Portuguesa e Língua Brasileira de Sinais",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "LIBRAS"
+  },
+  {
+    "laboratory_id": 1231,
+    "nome": "Estudo do Capital de Giro da Empresa",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "CIÊNCIAS CONTÁBEIS"
+  },
+  {
+    "laboratory_id": 1295,
+    "nome": "Processo de ensino e aprendizagem da leitura e escrita para alunos com autismo",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "EDUCAÇÃO"
+  },
+  {
+    "laboratory_id": 1298,
+    "nome": "Fisiologia Articular da Coluna Dorsal",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1301,
+    "nome": "Fisiologia Articular Coxofemural",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1302,
+    "nome": "Fisiologia Articular do Joelho",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1304,
+    "nome": "Fisiologia Articular da Escápula",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1305,
+    "nome": "Fisiologia Articular do Cotovelo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 1306,
+    "nome": "Fisiologia Articular da Mão",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOMECÂNICA FUNCIONAL"
+  },
+  {
+    "laboratory_id": 335,
+    "nome": "Calibração de Monitores de Área",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "RADIOLOGIA"
+  },
+  {
+    "laboratory_id": 60,
+    "nome": "Lei da Indução de Faraday",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 53,
+    "nome": "Oscilações",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 347,
+    "nome": "Estética Corporal - Tratamento de Estrias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 783,
+    "nome": "Atenuação das Radiações Ionizantes",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 138,
+    "nome": "Ensaios Não Destrutivos - Líquidos Penetrantes",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 170,
+    "nome": "Ensaio do Anel",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 798,
+    "nome": "Efeito da Corrente Elétrica sobre Solda",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 12,
+    "nome": "Princípio da Conservação da Energia",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 912,
+    "nome": "Processos de Imantação - Magnetização por Contato",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 514,
+    "nome": "Cariótipo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "BIOLOGIA MOLECULAR / GENÉTICA"
+  },
+  {
+    "laboratory_id": 153,
+    "nome": "Indisponível",
+    "areaConhecimento": "INDISPONIVEIS PT-BR",
+    "grupoArea": "INDISPONIVEIS"
+  },
+  {
+    "laboratory_id": 1213,
+    "nome": "Avaliação do Agente Físico - Ruído",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 1214,
+    "nome": "Levantamento de Iluminância",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 779,
+    "nome": "Radiação de Corpo Negro",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 712,
+    "nome": "Ressonância e Batimento em Diapasões",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 731,
+    "nome": "O Diodo Zener",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 1045,
+    "nome": "Eletroterapia - Eletrolipoforese na Adiposidade",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 788,
+    "nome": "Heliodon",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 115,
+    "nome": "Elementos de Máquinas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 381,
+    "nome": "Avaliação da Exatidão e Reprodutibilidade da Tensão do Tubo de Raios X",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 384,
+    "nome": "Avaliação da Exatidão e Reprodutibilidade do Tempo de Exposição",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS"
+  },
+  {
+    "laboratory_id": 659,
+    "nome": "Β-HCG: Quanti e Qualitativo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 400,
+    "nome": "Plantas Vasculares sem Semente",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 1167,
+    "nome": "Exame Físico de Enfermagem no Paciente Cardiovascular do Idoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 1168,
+    "nome": "Atuação de Enfermagem Nas Doenças Locomotoras do Idoso",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO IDOSO"
+  },
+  {
+    "laboratory_id": 725,
+    "nome": "Avaliação do Stress Térmico",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 24,
+    "nome": "Pêndulo Balístico",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 22,
+    "nome": "Espelhos Planos",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 624,
+    "nome": "Abordagens Fisioterapêuticas na Paralisia Facial Periférica",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NEUROFUNCIONAL"
+  },
+  {
+    "laboratory_id": 989,
+    "nome": "TCC - Comandos Elétricos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 406,
+    "nome": "Hexápodes (Dípteros, Coleópteros, Lepidópteros e Hemípteros)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 487,
+    "nome": "Hexápodes (Dípteros, Coleópteros, Lepidópteros e Hemípteros)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 198,
+    "nome": "Estereoscopia Óptica",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 33,
+    "nome": "Ondas Mecânicas",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 605,
+    "nome": "Ausculta Pulmonar",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 752,
+    "nome": "Instalação de Teodolito Eletrônico",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 142,
+    "nome": "Projeto de Sistema Preventivo de Incêndio",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 1011,
+    "nome": "Combate a Incêndio",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 719,
+    "nome": "Medindo e Classificando Ângulos",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "DESENHO GEOMÉTRICO E GEOMETRIA DESCRITIVA"
+  },
+  {
+    "laboratory_id": 1047,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 1051,
+    "nome": "Tradução Literária",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "TRADUÇÃO"
+  },
+  {
+    "laboratory_id": 753,
+    "nome": "Locação de Obra (Cavalete)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 754,
+    "nome": "Locação de Obra (Gabarito)",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 206,
+    "nome": "Prática de Flauta I - Escalas Musicais",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 207,
+    "nome": "Prática de Flauta II - Tocando as Primeiras Músicas",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 213,
+    "nome": "Flauta Doce - Duas Vozes",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 18,
+    "nome": "Lei de Ohm",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1000,
+    "nome": "",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 728,
+    "nome": "Divisores de Tensão e Divisores de Corrente",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 729,
+    "nome": "Transformação Triângulo Estrela",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 730,
+    "nome": "Princípio da Superposição e Equivalente de Thévenin",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 732,
+    "nome": "Iluminação de Emergência com Transistor",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 792,
+    "nome": "Determinação da Potência de Atrito",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1224,
+    "nome": "Eficiência Energética na Iluminação",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENERGIAS RENOVÁVEIS"
+  },
+  {
+    "laboratory_id": 14,
+    "nome": "Lei de Hooke",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 1216,
+    "nome": "Primeiros Socorros em um Acidente de Trânsito",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "laboratory_id": 66,
+    "nome": "Autoindução",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 254,
+    "nome": "Xilogravura de Cordel",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "ARTES"
+  },
+  {
+    "laboratory_id": 582,
+    "nome": "Goniometria do Joelho",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "AVALIAÇÃO FÍSICO FUNCIONAL E IMAGINOLOGIA / FISIOLOGIA DO EXERCÍCIO E AVALIAÇÃO CARDIORRESPIRATÓRIA"
+  },
+  {
+    "laboratory_id": 69,
+    "nome": "Interação entre Dois Ímãs Permanentes",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 443,
+    "nome": "Estrutura e Funcionamento do Sistema Filtrador de uma Ascídia",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 447,
+    "nome": "Como Identificar uma Ave",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 446,
+    "nome": "Identificação de Crânios de Vertebrados",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 320,
+    "nome": "Esfregaço Sanguíneo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "HEMATOLOGIA"
+  },
+  {
+    "laboratory_id": 325,
+    "nome": "Massagem Relaxante",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ESTÉTICA"
+  },
+  {
+    "laboratory_id": 375,
+    "nome": "Escova e Penteado",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CABELO E BELEZA"
+  },
+  {
+    "laboratory_id": 394,
+    "nome": "Cianobactérias",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 396,
+    "nome": "Macroalgas Vermelhas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 397,
+    "nome": "Algas Pardas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 401,
+    "nome": "Fungos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 402,
+    "nome": "Filos Porifera e Cnidaria",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 403,
+    "nome": "Platelmintos, Quetognatos, Anelídeos e Nematoda",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 404,
+    "nome": "Mollusca (Gastrópodes, Bivalves e Cefalópodes)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 405,
+    "nome": "Artrópodes (Chelicerata e Crustacea)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 407,
+    "nome": "Seres Deuterostomados",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ZOOLOGIA DOS INVERTEBRADOS"
+  },
+  {
+    "laboratory_id": 483,
+    "nome": "Filos Porifera e Cnidaria",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 484,
+    "nome": "Platelmintos, Quetognatos, Anelídeos e Nematoda",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 485,
+    "nome": "Mollusca (Gastrópodes, Bivalves e Cefalópodes)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 488,
+    "nome": "Seres Deuterostomados",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 492,
+    "nome": "Parâmetros Espaciais com Relação ao Pé Durante a Marcha",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MOVIMENTO FUNCIONAL HUMANO"
+  },
+  {
+    "laboratory_id": 574,
+    "nome": "Imunocromatografia de IGG e IGM para Toxoplasmose",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "MICROBIOLOGIA E IMUNOLOGIA"
+  },
+  {
+    "laboratory_id": 578,
+    "nome": "Testes Especiais que Podem ser Aplicados no Exame Físico dos Membros Superiores",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA ORTOPÉDICA E TRAUMATOLOGIA"
+  },
+  {
+    "laboratory_id": 689,
+    "nome": "Crescimento e Desenvolvimento no Primeiro Ano de Vida (Reflexos Primitivos)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DA CRIANÇA"
+  },
+  {
+    "laboratory_id": 757,
+    "nome": "Psicrômetro Giratório",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1249,
+    "nome": "Depreciação de Ativos",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "CIÊNCIAS CONTÁBEIS"
+  },
+  {
+    "laboratory_id": 1275,
+    "nome": "Exame Clínico das Mamas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER"
+  },
+  {
+    "laboratory_id": 1282,
+    "nome": "Exame Físico do Joelho",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ASSISTÊNCIA DE ENFERMAGEM NA URGÊNCIA E EMERGÊNCIA"
+  },
+  {
+    "laboratory_id": 19,
+    "nome": "Associação de Resistores",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 21,
+    "nome": "Lei de Kirchhoff",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 738,
+    "nome": "Nivelamento com Mangueira",
+    "areaConhecimento": "",
+    "grupoArea": ""
+  },
+  {
+    "laboratory_id": 31,
+    "nome": "Ângulo Limite e Refração da Luz",
+    "areaConhecimento": "CIÊNCIAS NATURAIS",
+    "grupoArea": "FÍSICA"
+  },
+  {
+    "laboratory_id": 526,
+    "nome": "Mapa de Riscos",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "ANÁLISES CLÍNICAS E BIOSSEGURANÇA"
+  },
+  {
+    "laboratory_id": 684,
+    "nome": "Fisioterapia Aplicada às Afecções Ortopédicas (Luxação Congênita do Quadril e Pé Torto Congênito)",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA NA SAÚDE DA CRIANÇA"
+  },
+  {
+    "laboratory_id": 628,
+    "nome": "Entradas e Saídas",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "FISIOTERAPIA AQUÁTICA"
+  },
+  {
+    "laboratory_id": 133,
+    "nome": "Ciclo de Refrigeração por Compressão de Vapor",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 1020,
+    "nome": "Costurando uma Camiseta",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MODA"
+  },
+  {
+    "laboratory_id": 1037,
+    "nome": "Treinamento e Desenvolvimento",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "laboratory_id": 237,
+    "nome": "Segurança e Acessibilidade em Eventos: Práticas Inclusivas na Organização de Eventos",
+    "areaConhecimento": "INDISPONIVEIS PT-BR",
+    "grupoArea": "INDISPONIVEIS"
+  },
+  {
+    "laboratory_id": 244,
+    "nome": "Respiração",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 784,
+    "nome": "Vibrações por Defeitos em Engrenagens",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 978,
+    "nome": "Motor Trifasico 6 Terminais",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. ELÉTRICA"
+  },
+  {
+    "laboratory_id": 240,
+    "nome": "Recrutamento e Seleção",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "PROCESSOS ADMINISTRATIVOS"
+  },
+  {
+    "laboratory_id": 1044,
+    "nome": "Tradução Jurídica",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "TRADUÇÃO"
+  },
+  {
+    "laboratory_id": 1258,
+    "nome": "Treliças e Flexão em Vigas",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 239,
+    "nome": "Teoria Musical - Leitura de Pentagrama",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  },
+  {
+    "laboratory_id": 374,
+    "nome": "Cortes de Cabelo",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CABELO E BELEZA"
+  },
+  {
+    "laboratory_id": 196,
+    "nome": "Montagem de Equipamento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 194,
+    "nome": "Animações 2D e 3D",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "ENGENHARIA DA COMPUTAÇÃO"
+  },
+  {
+    "laboratory_id": 192,
+    "nome": "Construindo uma EAP",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. MECÂNICA E PRODUÇÃO"
+  },
+  {
+    "laboratory_id": 159,
+    "nome": "Resistência ao Cisalhamento",
+    "areaConhecimento": "ENGENHARIAS, COMPUTAÇÃO E ARQUITETURA",
+    "grupoArea": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL, GEOLOGIA E ARQUITETURA"
+  },
+  {
+    "laboratory_id": 448,
+    "nome": "Estudo Comportamental de Vertebrados",
+    "areaConhecimento": "SAÚDE",
+    "grupoArea": "CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "laboratory_id": 221,
+    "nome": "Prática de Violão I",
+    "areaConhecimento": "HUMANAS",
+    "grupoArea": "MÚSICA"
+  }
+]

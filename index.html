@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Materiais de Laboratório</title>
+    <!-- Exemplo de uso do Bootstrap 5 para layout moderno (opcional) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        /* Estilos customizados para dar aparência moderna e simples */
+        body {
+            background-color: #f8f9fa;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #003366;
+            color: #fff;
+            padding: 1.5rem;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 1.75rem;
+        }
+
+        .container {
+            padding: 2rem;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        .filter-section,
+        .table-responsive {
+            margin-bottom: 1.5rem;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+
+        .material-name {
+            font-weight: bold;
+            color: #003366;
+        }
+
+        .badge-lab {
+            background-color: #6c757d;
+            margin-right: 0.25rem;
+        }
+
+        .quantity-badge {
+            background-color: #0d6efd;
+        }
+
+        /* Hover e efeito para linhas da tabela */
+        table tbody tr:hover {
+            background-color: #f2f2f2;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Materiais e Equipamentos de Laboratório</h1>
+    </header>
+
+    <div class="container">
+        <!-- Seção de filtros e ordenação -->
+        <div class="row filter-section">
+            <!-- Filtro por nome -->
+            <div class="col-12 col-md-4 mb-3">
+                <label for="searchInput">Filtrar por nome:</label>
+                <input type="text" id="searchInput" class="form-control" placeholder="Ex.: béquer"
+                    oninput="updateView()" />
+            </div>
+            <!-- Filtro por laboratório (numérico) -->
+            <div class="col-12 col-md-4 mb-3">
+                <label for="labInput">Filtrar por laboratório (ID):</label>
+                <input type="number" id="labInput" class="form-control" placeholder="Ex.: 1043"
+                    oninput="updateView()" />
+            </div>
+            <!-- Ordenação -->
+            <div class="col-12 col-md-4 mb-3">
+                <label for="sortSelect">Ordenar:</label>
+                <select id="sortSelect" class="form-select" onchange="updateView()">
+                    <option value="">-- Selecione --</option>
+                    <option value="quantityAsc">Quantidade (Cresc.)</option>
+                    <option value="quantityDesc">Quantidade (Decresc.)</option>
+                    <option value="nameAsc">Nome (A-Z)</option>
+                    <option value="nameDesc">Nome (Z-A)</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Novos filtros por área e grupo -->
+        <div class="row filter-section">
+            <div class="col-12 col-md-6 mb-3">
+                <label for="areaFilter">Área:</label>
+                <select id="areaFilter" class="form-select" onchange="updateView()">
+                    <!-- Preenchido dinamicamente após carregar laboratoryInfo.json -->
+                </select>
+            </div>
+            <div class="col-12 col-md-6 mb-3">
+                <label for="groupFilter">Grupo:</label>
+                <select id="groupFilter" class="form-select" onchange="updateView()">
+                    <!-- Preenchido dinamicamente após carregar laboratoryInfo.json -->
+                </select>
+            </div>
+        </div>
+
+        <!-- Tabela onde exibiremos os materiais -->
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover" id="materialsTable">
+                <thead class="table-light">
+                    <tr>
+                        <th>Nome do Material</th>
+                        <th class="text-center">Quantidade</th>
+                        <th>Labs onde é utilizado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Conteúdo gerado dinamicamente via JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Armazenará os dados dos materiais e infos de laboratório
+        let materialsData = [];
+        let labInfoMap = {};   // lab_id -> { laboratory_id, nome, areaConhecimento, grupoArea, ... }
+
+        // Conjuntos para popular os seletores de área e grupo
+        let areasSet = new Set();
+        let groupsSet = new Set();
+
+        window.onload = () => {
+            // Carrega ambos os arquivos JSON em paralelo
+            // Ajuste os nomes/caminhos conforme necessário
+            Promise.all([
+                fetch("./grouped_materials.json").then(r => r.json()),
+                fetch("./laboratoryInfo.json").then(r => r.json())
+            ])
+                .then(([materialsJson, labInfoJson]) => {
+                    // Carrega dados de materiais
+                    materialsData = materialsJson.materials;
+
+                    // Prepara o map e identifica áreas/grupos possíveis
+                    labInfoJson.forEach(lab => {
+                        // Cria o map para lookup rápido
+                        labInfoMap[lab.laboratory_id] = lab;
+
+                        // Verifica se temos área e grupo
+                        const area = lab.areaConhecimento.trim();
+                        const group = lab.grupoArea.trim();
+
+                        // Trata vazio como "<vazio>" no seletor
+                        if (area === "") {
+                            areasSet.add("<vazio>");
+                        } else {
+                            areasSet.add(area);
+                        }
+                        if (group === "") {
+                            groupsSet.add("<vazio>");
+                        } else {
+                            groupsSet.add(group);
+                        }
+                    });
+
+                    // Popula selects de área e grupo
+                    populateAreaAndGroupFilters();
+
+                    // Renderiza a página inicialmente sem filtros adicionais
+                    updateView();
+                })
+                .catch(error => {
+                    console.error("Erro ao ler os arquivos JSON:", error);
+                });
+        };
+
+        // Popula os selects de área e grupo
+        function populateAreaAndGroupFilters() {
+            const areaSelect = document.getElementById('areaFilter');
+            const groupSelect = document.getElementById('groupFilter');
+
+            // Opção padrão
+            areaSelect.innerHTML = '<option value="">Todas as áreas</option>';
+            groupSelect.innerHTML = '<option value="">Todos os grupos</option>';
+
+            areasSet.forEach(area => {
+                // Exibe "<vazio>" como "Sem área"
+                const label = (area === "<vazio>") ? "Sem área" : area;
+                areaSelect.innerHTML += `<option value="${area}">${label}</option>`;
+            });
+
+            groupsSet.forEach(grupo => {
+                // Exibe "<vazio>" como "Sem grupo"
+                const label = (grupo === "<vazio>") ? "Sem grupo" : grupo;
+                groupSelect.innerHTML += `<option value="${grupo}">${label}</option>`;
+            });
+        }
+
+        // Aplica filtros e ordenação, e então renderiza a tabela
+        function updateView() {
+            const searchValue = document.getElementById('searchInput').value.toLowerCase().trim();
+            const labValue = document.getElementById('labInput').value.trim();
+            const sortValue = document.getElementById('sortSelect').value;
+
+            const areaValue = document.getElementById('areaFilter').value;
+            const groupValue = document.getElementById('groupFilter').value;
+
+            // 1. Filtro por nome
+            let filteredData = materialsData.filter(mat =>
+                mat.name.toLowerCase().includes(searchValue)
+            );
+
+            // 2. Filtro por ID de laboratório, se estiver preenchido
+            if (labValue !== '') {
+                const labId = parseInt(labValue);
+                if (!isNaN(labId)) {
+                    filteredData = filteredData.filter(mat =>
+                        mat.laboratory_ids.includes(labId)
+                    );
+                }
+            }
+
+            // 3. Filtro por área (se alguma estiver selecionada diferente de "")
+            if (areaValue !== "") {
+                filteredData = filteredData.filter(mat => {
+                    // Verifica se algum dos labs desse material tem a área selecionada
+                    return mat.laboratory_ids.some(labId => {
+                        const info = labInfoMap[labId];
+                        if (!info) return false;
+
+                        // Se a área filtrada for "<vazio>", significa áreaConhecimento === ""
+                        if (areaValue === "<vazio>") {
+                            return (info.areaConhecimento.trim() === "");
+                        } else {
+                            return info.areaConhecimento.trim() === areaValue;
+                        }
+                    });
+                });
+            }
+
+            // 4. Filtro por grupo (se algum estiver selecionado diferente de "")
+            if (groupValue !== "") {
+                filteredData = filteredData.filter(mat => {
+                    // Verifica se algum dos labs desse material tem o grupo selecionado
+                    return mat.laboratory_ids.some(labId => {
+                        const info = labInfoMap[labId];
+                        if (!info) return false;
+
+                        // Se o grupo filtrado for "<vazio>", significa grupoArea === ""
+                        if (groupValue === "<vazio>") {
+                            return (info.grupoArea.trim() === "");
+                        } else {
+                            return info.grupoArea.trim() === groupValue;
+                        }
+                    });
+                });
+            }
+
+            // 5. Ordenar pelos critérios selecionados
+            switch (sortValue) {
+                case 'quantityAsc':
+                    filteredData.sort((a, b) => a.quantity - b.quantity);
+                    break;
+                case 'quantityDesc':
+                    filteredData.sort((a, b) => b.quantity - a.quantity);
+                    break;
+                case 'nameAsc':
+                    filteredData.sort((a, b) => a.name.localeCompare(b.name));
+                    break;
+                case 'nameDesc':
+                    filteredData.sort((a, b) => b.name.localeCompare(a.name));
+                    break;
+                default:
+                    // Sem ordenação adicional
+                    break;
+            }
+
+            // Renderiza a tabela
+            renderTable(filteredData);
+            // Inicia tooltips do Bootstrap (necessário chamar após inserir elementos dinâmicos)
+            initTooltips();
+        }
+
+        // Constrói a tabela em <tbody>
+        function renderTable(dataArray) {
+            const tbody = document.querySelector('#materialsTable tbody');
+            tbody.innerHTML = '';
+
+            dataArray.forEach(item => {
+                const row = document.createElement('tr');
+
+                // Coluna: Nome
+                const nameCell = document.createElement('td');
+                nameCell.classList.add('material-name');
+                nameCell.textContent = item.name;
+                row.appendChild(nameCell);
+
+                // Coluna: Quantidade
+                const quantityCell = document.createElement('td');
+                quantityCell.classList.add('text-center');
+                const quantityBadge = document.createElement('span');
+                quantityBadge.classList.add('badge', 'quantity-badge');
+                quantityBadge.textContent = item.quantity;
+                quantityCell.appendChild(quantityBadge);
+                row.appendChild(quantityCell);
+
+                // Coluna: Labs
+                const labsCell = document.createElement('td');
+                item.laboratory_ids.forEach(labId => {
+                    // Badge para cada lab
+                    const labBadge = document.createElement('span');
+                    labBadge.classList.add('badge', 'badge-lab', 'me-1');
+                    labBadge.textContent = 'Lab ' + labId;
+
+                    // Verifica se há informações detalhadas sobre este lab no mapa
+                    const info = labInfoMap[labId];
+                    if (info) {
+                        // Normaliza strings com trim
+                        const nomeLab = info.nome.trim() || "Nome não informado";
+                        const areaLab = info.areaConhecimento.trim() || "Área não informada";
+                        const grupoLab = info.grupoArea.trim() || "Grupo não informado";
+
+                        // Tooltip em HTML
+                        const tooltipText = `
+            <strong>Nome:</strong> ${nomeLab}<br>
+            <strong>Área:</strong> ${areaLab}<br>
+            <strong>Grupo:</strong> ${grupoLab}
+          `;
+                        labBadge.setAttribute('data-bs-toggle', 'tooltip');
+                        labBadge.setAttribute('data-bs-html', 'true');
+                        labBadge.setAttribute('data-bs-title', tooltipText);
+                    } else {
+                        // Caso não exista info no JSON, exibe algo genérico
+                        const tooltipText = "Informações não encontradas para este Lab";
+                        labBadge.setAttribute('data-bs-toggle', 'tooltip');
+                        labBadge.setAttribute('data-bs-html', 'true');
+                        labBadge.setAttribute('data-bs-title', tooltipText);
+                    }
+
+                    labsCell.appendChild(labBadge);
+                });
+                row.appendChild(labsCell);
+
+                tbody.appendChild(row);
+            });
+        }
+
+        // Função para (re)inicializar os tooltips do Bootstrap
+        function initTooltips() {
+            // Disponível a partir do Bootstrap 5
+            // Precisamos iterar sobre todos elementos que tiverem data-bs-toggle="tooltip"
+            const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+            tooltipTriggerList.forEach(el => {
+                // Cria uma instância de Tooltip para cada elemento
+                new bootstrap.Tooltip(el);
+            });
+        }
+    </script>
+
+    <!-- Script do Bootstrap 5 (necessário para tooltips) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js">
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+{
+    "type": "module",
+    "dependencies": {
+        "cli-progress": "^3.12.0",
+        "dotenv": "^16.4.7",
+        "fs-extra": "^11.3.0",
+        "glob": "^11.0.1",
+        "openai": "^4.85.4",
+        "pdf-parse": "^1.1.1",
+        "zod": "^3.24.2"
+    },
+    "name": "processarroteiros",
+    "version": "1.0.0",
+    "main": "baixarPdfs.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
