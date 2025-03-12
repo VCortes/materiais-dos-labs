@@ -1238,24 +1238,6 @@
     }
   },
   {
-    "id": ",",
-    "nome": "ENGENHARIAS",
-    "areaConhecimento": "COMPUTAÇÃO E ARQUITETURA",
-    "grupoArea": ",",
-    "status": "ESTRUTURAS",
-    "idiomas": {
-      "portugues": false,
-      "ingles": false,
-      "espanhol": false
-    },
-    "plataformas": {
-      "web": true,
-      "android": false,
-      "ios": true
-    },
-    "link": ","
-  },
-  {
     "id": "1020",
     "nome": "Costurando uma Camiseta",
     "areaConhecimento": "HUMANAS",
@@ -39916,24 +39898,6 @@
     }
   },
   {
-    "id": ",",
-    "nome": "SAÚDE",
-    "areaConhecimento": ",",
-    "grupoArea": "FISIOTERAPIA NEUROFUNCIONAL",
-    "status": ",",
-    "idiomas": {
-      "portugues": false,
-      "ingles": false,
-      "espanhol": true
-    },
-    "plataformas": {
-      "web": false,
-      "android": true,
-      "ios": false
-    },
-    "link": "Sim"
-  },
-  {
     "id": "627",
     "nome": "Abordagens Fisioterapêuticas na Doença de Parkinson",
     "areaConhecimento": "SAÚDE",
@@ -42214,24 +42178,6 @@
       "android": false,
       "ios": false
     }
-  },
-  {
-    "id": ",",
-    "nome": "ENGENHARIAS",
-    "areaConhecimento": "COMPUTAÇÃO E ARQUITETURA",
-    "grupoArea": ",",
-    "status": "PRÁTICAS ESPECÍFICAS DE ENG. CIVIL",
-    "idiomas": {
-      "portugues": false,
-      "ingles": false,
-      "espanhol": false
-    },
-    "plataformas": {
-      "web": false,
-      "android": true,
-      "ios": false
-    },
-    "link": "Sim"
   },
   {
     "id": "739",
@@ -45145,24 +45091,6 @@
       "android": false,
       "ios": false
     }
-  },
-  {
-    "id": ",",
-    "nome": "ENGENHARIAS",
-    "areaConhecimento": "COMPUTAÇÃO E ARQUITETURA",
-    "grupoArea": ",",
-    "status": "AGRONOMIA",
-    "idiomas": {
-      "portugues": false,
-      "ingles": false,
-      "espanhol": false
-    },
-    "plataformas": {
-      "web": true,
-      "android": false,
-      "ios": true
-    },
-    "link": ","
   },
   {
     "id": "946",
