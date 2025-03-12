@@ -1,5 +1,4 @@
 import fs from 'fs/promises';
-import path from 'path';
 
 /**
  * Tipo que representa um material agrupado

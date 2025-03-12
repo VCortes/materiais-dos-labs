@@ -100,6 +100,9 @@ const main = () => {
     });
 
     // Exibe os resultados
+    console.log(
+        'Presença de materiais nos labs por uso. Exemplo: Critério quantity = 3: 71.43% indica que materiais usados em exatamente 3 labs distintos estão presentes em 71.43% dos labs."'
+    );
     resultados.forEach((resultado) => {
         console.log(`Critério "${resultado.criterio}": ${resultado.porcentagem.toFixed(2)}%`);
     });

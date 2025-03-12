@@ -11,7 +11,7 @@
  * - Preferência por recursão em vez de loops imperativos
  */
 
-import extrairIdsDoCatalogo from './extrairIds.js';
+import extrairIdsDoCatalogo from './extrairIdsCatalogo.js';
 import { extrairIdsPdfs } from './extrairIdsPdfs.js';
 
 /**
