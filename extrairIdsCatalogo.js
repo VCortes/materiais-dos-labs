@@ -69,9 +69,10 @@ const processarEntradasRecursivamente = (entradas, indice, idsAcumulados, diagno
     }
 
     // Adicionar o ID ao acumulador somente se for válido e não duplicado
-    const novosIds = idExtraido && !idsAcumulados.includes(idExtraido) 
-        ? [...idsAcumulados, idExtraido] 
-        : idsAcumulados;
+    const novosIds =
+        idExtraido && !idsAcumulados.includes(idExtraido)
+            ? [...idsAcumulados, idExtraido]
+            : idsAcumulados;
 
     // Chamada recursiva para a próxima entrada
     return processarEntradasRecursivamente(entradas, indice + 1, novosIds, diagnostico);
@@ -88,7 +89,7 @@ const extrairIdsDoJson = (entradas) => {
         entradasInvalidas: [],
         idsDuplicados: []
     };
-    
+
     return processarEntradasRecursivamente(entradas, 0, [], diagnostico);
 };
 
@@ -119,32 +120,41 @@ const extrairIdsDoCatalogo = async () => {
         console.log(`\n========= Estatísticas =========`);
         console.log(`Total de entradas no catálogo: ${diagnostico.totalEntradas}`);
         console.log(`Total de IDs únicos válidos: ${ids.length}`);
-        
+
         // Relatório de problemas
         console.log(`\n========= Diagnóstico =========`);
         console.log(`Entradas sem ID válido: ${diagnostico.entradasInvalidas.length}`);
         if (diagnostico.entradasInvalidas.length > 0) {
             console.log('Exemplo de entradas inválidas:');
-            diagnostico.entradasInvalidas.slice(0, 3).forEach(item => {
-                console.log(`  Índice ${item.indice}:`, JSON.stringify(item.entrada).substring(0, 100) + (JSON.stringify(item.entrada).length > 100 ? '...' : ''));
+            diagnostico.entradasInvalidas.slice(0, 3).forEach((item) => {
+                console.log(
+                    `  Índice ${item.indice}:`,
+                    JSON.stringify(item.entrada).substring(0, 100) +
+                        (JSON.stringify(item.entrada).length > 100 ? '...' : '')
+                );
             });
         }
-        
+
         console.log(`IDs duplicados encontrados: ${diagnostico.idsDuplicados.length}`);
         if (diagnostico.idsDuplicados.length > 0) {
             console.log('Duplicatas encontradas:');
-            diagnostico.idsDuplicados.forEach(item => {
+            diagnostico.idsDuplicados.forEach((item) => {
                 console.log(`  ID "${item.id}" duplicado no índice ${item.indice}`);
             });
         }
-        
+
         console.log(`\nDiscrepância total: ${diagnostico.totalEntradas - ids.length} entradas`);
-        console.log(`(${diagnostico.entradasInvalidas.length} inválidas + ${diagnostico.idsDuplicados.length} duplicadas)`);
+        console.log(
+            `(${diagnostico.entradasInvalidas.length} inválidas + ${diagnostico.idsDuplicados.length} duplicadas)`
+        );
 
         return { ids, diagnostico };
     } catch (erro) {
         console.error('Erro ao processar o arquivo:', erro.message);
-        return { ids: [], diagnostico: { totalEntradas: 0, entradasInvalidas: [], idsDuplicados: [] } };
+        return {
+            ids: [],
+            diagnostico: { totalEntradas: 0, entradasInvalidas: [], idsDuplicados: [] }
+        };
     }
 };
 
