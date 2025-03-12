@@ -1,0 +1,778 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre o  tecido 
+conjuntivo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico; 
+• Algodão; 
+• Cotonete; 
+• Gaze; 
+• Lâmina; 
+• Lamínula; 
+• Microscópio óptico; 
+• Notebook; 
+• Solução de limpeza. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco e luvas 
+de procedimento  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+  
+2. APRENDENDO CONCEITOS 
+ 
+Ligue  o  notebook. Clique  no  ícone  “Histolab”  na  área  de  trabalho. Acesse  a  aba 
+“Vídeos” e assista  o  vídeo  disponível  sobre  o  conteúdo.  Em  seguida,  acesse  a  aba 
+“Mapa Mental” e realize a leitura dos mapas mentais disponíveis. Acesse a aba “Atlas” 
+e observe as ilustrações dos tecidos e suas respectivas informações. 
+ 
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue  o  microscópio. Abra  o  laminário. Mova  uma  das  lâminas  para  o  microscópio. 
+Habilite o menu ocular e observe a lâmina nas objetivas de 4x, 10x e 40x. Retorne a 
+lâmina para o laminário. Repita os passos anteriores com as outras lâminas. 
+ 
+4. REALIZANDO PROCEDIMENTO FINAL 
+ 
+Desligue o microscópio. Mova as soluções de álcool etílico e a solução de limpeza para 
+a  bancada. Umedeça  o  algodão  com  álcool  etílico. Limpe  a  platina  do  microscópio. 
+Descarte o algodão. Umedeça o cotonete com a solução de limpeza. Limpe as oculares 
+do microscópio. Descarte o cotonete. Limpe as objetivas com a gaze. Descarte a gaze.  
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais os tipos de tecido conjuntivo? 
+ 
+ 
+ 
+2. Quais as principais funções do tecido conjuntivo? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+2. APRENDENDO CONCEITOS 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse sobre o botão de ligar. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Acesse o “Histolab” clicando com o botão esquerdo do mouse sobre o ícone na área de 
+trabalho. 
+ 
+ 
+ 
+Abra a aba “Atlas” clicando com o botão esquerdo do mouse sobre o botão “Atlas”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Escolha o tipo de tecido clicando com o botão esquerdo do mouse sobre uma das opções 
+indicadas. 
+ 
+ 
+ 
+Amplie a imagem clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Diminua o tamanho da imagem clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Mova  a  imagem  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste com o mouse a imagem. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Visualize  as  informações clicando  com  o  botão  esquerdo  do  mouse  sobre  o botão 
+indicado. 
+ 
+ 
+ 
+Repita os procedimentos anteriores com os demais tecidos. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Abra a aba “Vídeos” clicando com o botão esquerdo do mouse sobre o botão “Vídeos”. 
+ 
+ 
+ 
+Selecione o vídeo clicando com o botão esquerdo do mouse sobre o vídeo. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Reinicie o vídeo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Pause o vídeo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Visualize todo o texto clicando com o botão esquerdo do mouse sobre o local indicado 
+e arraste o mouse para cima. 
+ 
+ 
+ 
+Abra  a  aba  “Mapa  Mental”  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Mapa Mental”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Visualize o mapa mental clicando com o botão esquerdo do mouse sobre um dos mapas 
+mentais. 
+ 
+ 
+ 
+Amplie a imagem clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Diminua o tamanho da imagem clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Mova  a imagem  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste com o mouse a imagem. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Repita os procedimentos anteriores com os demais mapas mentais. 
+ 
+ 
+ 
+Retorne para a área de trabalho clicando com o botão esquerdo do mouse sobre o botão 
+“Sair”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Desligue  o  notebook  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+desligar. 
+ 
+ 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Visualize a frente do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Abra o laminário clicando com o botão esquerdo do mouse sobre a tampa do laminário. 
+ 
+ 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse sobre uma lâmina. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Habilite  o  menu  ocular clicando  com  o  botão  esquerdo  do  mouse  sobre  o  ícone “Ver 
+ocular”. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, visualize as demais lâminas. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+4. REALIZANDO PROCEDIMENTO FINAL 
+ 
+Feche as oculares clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Desligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Mova a solução de álcool etílico clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova a solução de limpeza clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Umedeça o algodão com álcool etílico clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Limpe  a  platina  do  microscópio clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+algodão. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Umedeça  o  cotonete  com  a  solução  de  limpeza clicando  com  o  botão  esquerdo  do 
+mouse sobre ele. 
+ 
+ 
+ 
+Limpe  as  oculares  do  microscópio clicando  com  o  botão direito  do  mouse  sobre  o 
+cotonete. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+Limpe  as  objetivas do  microscópio clicando  com  o  botão esquerdo  do  mouse  sobre o 
+cotonete.  
+ 
+ 
+ 
+Limpe  as  objetivas do  microscópio clicando  com  o  botão esquerdo  do  mouse  sobre  a 
+gaze.  
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA 
+HISTOLAB - TECIDO CONJUNTIVO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

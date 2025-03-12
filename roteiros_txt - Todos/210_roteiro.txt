@@ -1,0 +1,395 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   aprender   sobre atividades   com   propostas 
+interdisciplinares que possuem o objetivo de orientar o educador a refletir sobre 
+as   possibilidades   educacionais   ao   trabalhar   com   conceitos   distintos.   O 
+desenvolvimento    de atividades    interligando    duas    ou    mais    áreas    do 
+conhecimento  expande  a  perspectiva  do  aluno.  Permite  possibilidades  de 
+contextualização social sobre os conhecimentos, interagindo com o dia a dia do 
+aluno,   essa   modalidade   interacional   desperta   maior   curiosidade   sobre   as 
+propostas educativas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. AMBIENTE VIRTUAL 
+ 
+As  atividades  interdisciplinares  auxiliam  na  ampliação  de  possibilidades  ao  educador  e  ao 
+aluno  ao  trabalhar  conceitos  distintos.  A  importância  das  práticas  interdisciplinares  para 
+alunos nativos digitais é determinante no processo de aprendizagem por ampliar os fatores 
+determinantes  para  uma  educação  com  abordagem  contemporânea  e  atualizada  a  nova 
+realidade das salas de aula. 
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 06 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que são práticas pedagógicas, de acordo com Pletsch (2014)? 
+ 
+ 
+2. Por que é importante que as práticas pedagógicas abarquem a diversidade? 
+ 
+ 
+3. O que é a Zona de Desenvolvimento Proximal (ZDP) de acordo com Vygotsky 
+ 
+ 
+4. Qual é o papel do professor na Zona de Desenvolvimento Proximal (ZDP)? 
+ 
+ 
+5. Como  o  jogo  pode  contribuir  para  a aprendizagem  de  alunos  com  Deficiência 
+Intelectual? 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AMBIENTE VIRTUAL 
+ 
+Pegue os blocos clicando com o botão esquerdo do mouse sobre os blocos posicionados 
+no chão e arraste para a caixa com a cor igual ao do bloco.  
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+Solte  o  bloco  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  bloco. Respeite a 
+quantidade de blocos por caixa, indicado pelo número à frente da caixa. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+2. INTEGRAÇÃO PEDAGÓGICA 
+ 
+O principal objetivo da interdisciplinaridade é estimular nos alunos a busca por mais 
+conhecimento e como aplicar os saberes no cotidiano.  
+Objetivos principais ao trabalhar interdisciplinaridade:  
+1. Contextualizar os conhecimentos com a vida cotidiana: a nova geração de 
+alunos da educação contemporânea é estimulada por critérios diferentes da educação 
+tradicional, é necessário que esses alunos visualizem a importância daquilo que 
+aprendem enquanto aprendem;  
+2. Estimular a investigação: os alunos nativos digitais cresceram cercados pela 
+tecnologia e a busca independente, são estudantes habituados a encontrar nos 
+dispositivos respostas instantâneas. O processo de aprendizagem deve seguir o hábito 
+desse perfil de aluno e estimular em cima disso uma investigação mais criteriosa e com 
+benefícios educacionais;  
+3. Estimular a aplicação do conhecimento aprendido em sala: os alunos devem 
+ser capazes de associar aquilo que foi aprendido em sala e a utilização no cotidiano, 
+essa associação permite que o estudante compreenda a relevância dos conhecimentos 
+e habilidades trabalhados nas propostas de atividade para o desenvolvimento de sua 
+autonomia como cidadão. 
+ 
+QUESTÃO REFLEXIVA 1: Como as atividades interdisciplinares podem trabalhar 
+as habilidades investigativas dos alunos? Como contextualizar as atividades com o 
+cotidiano?  
+Os estímulos necessários para despertar o interesse da nova geração de alunos 
+diferem principalmente do modelo de ensino tradicional no nível de envolvimento com 
+o processo de aprendizagem.  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+O estudante contemporâneo precisa reconhecer na atividade proposta como o 
+conhecimento pode ser utilizado no seu contexto social e qual a relevância do seu 
+papel para o desenvolvimento da proposta.  
+Vislumbrar os resultados do seu aprendizado é o principal elemento para 
+motivar os estudantes atuais a identificarem as habilidades que estão sendo 
+desenvolvidas e os benefícios de cada aprendizado, são esses critérios que estimulam 
+o envolvimento e participação dos estudantes   
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+3. COMO   TRABALHAR   A   PRÁTICA   “NÚMERO     E 
+QUANTIDADES”  NO  AMBIENTE  ESCOLAR  OU  FORA 
+DELE? 
+ 
+Este roteiro apresenta algumas possibilidades 
+ 
+1. Propostas para realizar em casa:] 
+Identificar em suas casas a presença de números. 
+a) Quais objetos possuem números? 
+b) Quantas vezes foram encontrados números na casa? 
+2. Propostas para realizar na brinquedoteca: 
+• Quantificar elementos do ambiente de aprendizagem; 
+• Identificar os elementos que possuem números. 
+ 
+Utilizar os ambientes comuns do aluno para identificar onde ocorre a presença ou 
+ausência dos números. O objetivo principal não é acertar ou quantificar 
+aleatoriamente os elementos, mas despertar a curiosidade das situações em que 
+ocorre a necessidade de numeração de elementos concretas e qual a importância 
+desse sistema 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+4. ATIVIDADE 
+ 
+Utilizar o ambiente de aprendizagem e conhecimentos prévios, para desenvolver as 
+habilidades dos alunos aumenta o aproveitamento do aprendizado.  
+A criança reconhece seus saberes prévios, sendo estimulada a trabalhar com seu 
+próprio conhecimento, à medida que desenvolve outras habilidades. O educador deve 
+utilizar o ambiente de aprendizado no desenvolvimento das propostas, dessa forma o 
+ambiente deve estar preparado com materiais dispostos no ambiente que possibilitem 
+a interação durante as atividades.  
+Alguns critérios necessários que devem ser observados:  
+• A altura dos materiais: os objetos ou brinquedos devem ter a altura máxima 
+que permita a criança alcançá-lo sem a necessidade do educador;  
+• A disponibilidade de brinquedos: o ambiente deve possuir brinquedos variados 
+e com texturas e cores diversas, o espaço deve estimular a curiosidade;  
+• Diversidade de materiais: os materiais devem possuir um repertório e 
+variedade de sons, cores e formatos, ampliando as possibilidades de 
+brincadeiras; 
+• A disponibilidade de material de qualidade na brinquedoteca viabiliza as 
+atividades classificadas como atividades instrumentais, apesar de não 
+possuírem objetivos de aprendizagem mais objetivos, estimulam a curiosidade 
+e descoberta do ambiente que o cerca. 
+ 
+QUESTÃO REFLEXIVA 2: Como o ambiente de aprendizagem pode ser 
+construído com qualidade e elementos para que seja parte do processo de 
+aprendizagem? Qual a importância de utilizar o ambiente nas propostas de atividades? 
+Os espaços de aprendizagem possuem um papel importante para o processo 
+educativo, muitas vezes esses ambientes são construídos sem considerar a relação 
+deles com os alunos.  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+É necessário pensar na seleção dos objetos, nas fases iniciais objetos que permitam 
+maior interação tátil são ideais para as crianças, que ainda descobrem o mundo 
+principalmente através do toque e descoberta.  
+Avaliar a qualidade dos materiais escolhidos garantindo que a brinquedoteca possua 
+alguns brinquedos mais complexos e que despertam a curiosidade, a autoestima da 
+criança cresce ao descobrir como funciona os brinquedos adaptados para interação.  
+A disposição dos objetos deve manter-se na altura das crianças, caso seja necessário 
+recorrer ao educador para que a criança consiga interagir com um elemento da sala, 
+ocorre uma quebra do processo da busca da autonomia da criança 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+RELACIONANDO NÚMEROS E QUANTIDADES 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

@@ -1,0 +1,1377 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você irá aprender  sobre  o princípio  de Le  Chatelier e 
+equilíbrio químico. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”. 
+ 
+  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ 
+  
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido acético (CH
+3
+COOH); 
+• Ácido clorídrico (HCl); 
+• Ácido nítrico (HNO
+3
+); 
+• Ácido sulfúrico (H
+2
+SO
+4
+); 
+• Cromato de potássio (K
+2
+CrO
+4
+); 
+• Dicromato de potássio (K
+2
+Cr
+2
+O
+7
+); 
+• Etanol (C
+2
+H
+5
+OH); 
+• Hidróxido de amônio (NH
+4
+OH); 
+• Hidróxido de cálcio (Ca(OH)
+2
+); 
+• Hidróxido de potássio (KOH); 
+• Hidróxido de sódio (NaOH); 
+• Jaleco; 
+• Luvas de procedimento; 
+• Nitrato de bário (Ba(NO
+3
+)
+2
+); 
+• Óculos de proteção; 
+• Tubo de ensaio. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção individual  localizados  no  “Armário  de  EPIs”, 
+antes de iniciar o procedimento. Para esse experimento será necessário a utilização 
+do jaleco, luvas e óculos de proteção. 
+ 
+2. EQUILIBRANDO OS ÍONS CROMATO E DICROMATO 
+ 
+Abra o frasco conta-gotas contendo cromato de potássio e pingue 10 gotas nos tubos 
+de  ensaio  1 e  3.  Em  seguida,  faça  o  mesmo  processo  com  o  frasco  contendo  o 
+dicromato  de  potássio,  mas  agora  pingue  nos  tubos  de  ensaio  2  e  4.  Abra  o frasco 
+conta-gotas contendo NaOH e pingue 15 gotas nos tubos de ensaio 1 e 2. Abra o frasco 
+conta-gotas contendo HCl e pingue 15 gotas nos tubos de ensaio 3 e 4. Por fim, pingue 
+15 gotas de NaOH no tubo de ensaio 3 e 15 gotas de HCl no tubo de ensaio 2. 
+ 
+3. EQUILIBRANDO O CROMATO DE BÁRIO COM SOLUÇÃO SATURADA DE ÍONS 
+ 
+Abra o frasco conta-gotas contendo cromato de potássio e pingue 10 gotas nos tubos 
+de  ensaio  1  e  3.  Em  seguida,  faça  o  mesmo  processo  com  o  frasco  contendo  o 
+dicromato  de  potássio,  mas  agora  pingue  nos  tubos  de  ensaio  2  e  4.  Abra  o  frasco 
+conta-gotas contendo HCl e pingue 4 gotas no tubo de ensaio 2. Em seguida, abra o 
+frasco conta-gotas contendo nitrato de bário e pingue 15 gotas nos tubos de ensaio 
+1, 2, 3 e 4. Abra o frasco conta-gotas contendo NaOH e pingue 25 gotas no tubo de 
+ensaio 2. Pingue 15 gotas de HCl no tubo de ensaio 1. 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+  
+4. VERIFICANDO A MUDANÇA NO EQUILÍBRIO QUÍMICO 
+ 
+Abra o frasco conta-gotas contendo cromato de potássio e pingue 10 gotas nos tubos 
+de  ensaio 1,  3,  5,  7,  9,  11  e  13. Em  seguida, faça  o  mesmo  processo  com  o  frasco 
+contendo o dicromato de potássio, mas agora pingue nos tubos de ensaio 2, 4, 6, 8, 
+10, 12 e 14. Abra o frasco conta-gotas contendo KOH e pingue 15 gotas nos tubos de 
+ensaio 1 e 2. Abra o frasco conta-gotas contendo ácido acético e pingue 15 gotas nos 
+tubos de ensaio 3 e 4. Abra o frasco conta-gotas contendo ácido sulfúrico e pingue 15 
+gotas nos  tubos  de  ensaio  5  e  6.  Abra  o frasco  conta-gotas  contendo hidróxido  de 
+cálcio e pingue 15 gotas nos tubos de ensaio 7 e 8. Abra o frasco conta-gotas contendo 
+hidróxido  de  amônio e  pingue 15  gotas nos  tubos  de  ensaio  9  e  10.  Abra  o frasco 
+conta-gotas contendo etanol e pingue 15 gotas nos tubos de ensaio 11 e 12. Abra o 
+frasco conta-gotas contendo ácido nítrico e pingue 15 gotas nos tubos de ensaio 13 e 
+14. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. No que se baseia o princípio de Le Chatelier? 
+ 
+ 
+ 
+2. Qual reação a solução saturada de íons pode fazer com o cromato de bário? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Abra o armário, clicando com o botão esquerdo do mouse sobre suas portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+2. EQUILIBRANDO OS ÍONS CROMATO E DICROMATO 
+ 
+Visualize a bancada 1 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento 1” ou através do atalho do teclado “Alt+2”.  
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com o  botão  esquerdo  do  mouse sobre  o  conta-gotas 
+contendo cromato de potássio. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 10 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+  
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita  os procedimentos anteriores,  aspire o  conteúdo do  conta-gotas  contendo 
+cromato de potássio e despeja 10 gotas no tubo de ensaio 3. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo dicromato de potássio. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 10 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+dicromato de potássio e despeja 10 gotas no tubo de ensaio 4. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo NaOH. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo NaOH 
+e despeja 15 gotas no tubo de ensaio 2. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo HCl. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 3”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo HCl e 
+despeja 15 gotas no tubo de ensaio 4. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo NaOH. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 3”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+  
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo HCl. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+  
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+3. EQUILIBRANDO O CROMATO DE BÁRIO COM SOLUÇÃO 
+SATURADA DE ÍONS 
+ 
+Visualize a bancada 2 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento 2” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo cromato de potássio. 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 10 gotas no tubo de ensaio 1 clicando com o botão esquerdo do mouse sobre o 
+conta gotas. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+cromato de potássio e despeje 10 gotas no tubo de ensaio 3. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo dicromato de potássio. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 10 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+dicromato de potássio e despeja 10 gotas no tubo de ensaio 4. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo HCl. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+ 
+Pingue 4 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo nitrato de bário. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo nitrato 
+de bário e despeja 15 gotas nos tubos de ensaio 2, 3 e 4.  
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo NaOH. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 25 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo HCl. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+4. VERIFICANDO A MUDANÇA NO EQUILÍBRIO QUÍMICO 
+ 
+Visualize a bancada 3 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento 3” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo cromato de potássio. 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 10 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+cromato de potássio e despeja 10 gotas nos tubos de ensaio 3, 5, 7, 9, 11 e 13. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo dicromato de potássio. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 2”. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 10 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+dicromato de potássio e despeja 10 gotas nos tubos de ensaio 4, 6, 8, 10, 12 e 14. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo KOH. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo KOH e 
+despeja 15 gotas no tubo de ensaio 2. 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo ácido acético. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 3”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo ácido 
+acético e despeja 15 gotas no tubo de ensaio 4. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo ácido sulfúrico. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 5”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo ácido 
+sulfúrico e despeja 15 gotas no tubo de ensaio 6. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo hidróxido de cálcio. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 7”. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+hidróxido de cálcio e despeja 15 gotas no tubo de ensaio 8. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo hidróxido de amônio. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 9”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  aspire o  conteúdo  do  conta-gotas  contendo 
+hidróxido de amônio e despeja 15 gotas no tubo de ensaio 10. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo etanol. 
+ 
+ 
+ 
+Mova  o  conta  gotas  clicando  com  botão  direito  do mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 11”. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+ 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo etanol 
+e despeja 15 gotas no tubo de ensaio 12. 
+ 
+ 
+ 
+Aspire  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conta-gotas 
+contendo ácido nítrico. 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta  gotas  clicando  com  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para tubo de ensaio 13”. 
+ 
+ 
+ 
+Pingue 15 gotas clicando com o botão esquerdo do mouse sobre o conta gotas. 
+ 
+ 
+  
+ 
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, aspire o conteúdo do conta-gotas contendo ácido 
+nítrico e despeja 15 gotas no tubo de ensaio 14. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA E FARMACÊUTICA 
+PRINCÍPIO DE LE CHATELIER E EQUILÍBRIO QUÍMICO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,945 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesse experimento você irá aprender como ocorre o processo de MRUV. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Plano Inclinado; 
+• Sensor Fotoelétrico; 
+• Multicronômetro.  
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. MONTANDO E AJUSTANDO O EXPERIMENTO 
+ 
+Posicione o nível bolha no plano inclinado.  
+ 
+2. NIVELANDO A BASE 
+ 
+Nivele a base, ajustando os “pés” da base do plano inclinado, deixando a bolha 
+do nível centralizada. 
+ 
+3. POSICIONANDO ÍMÃ 
+ 
+Posicione o ímã no seu ponto de fixação no plano inclinado. Esse ímã será usado 
+posteriormente para fixar o carrinho. 
+ 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+4. POSICIONANDO FUSO ELEVADOR 
+ 
+Neste  experimento  usaremos  a  posição  para  grandes  inclinações. Portanto, 
+posicione o fuso elevador na posição mais próxima do transferidor. 
+ 
+5. POSICIONANDO SENSOR 
+ 
+Posicione o sensor em 300 mm na régua. O sensor será utilizado para medir o 
+tempo decorrido no movimento do carrinho.  
+ 
+6. AJUSTANDO INCLINAÇÃO DA RAMPA 
+ 
+Inicie a etapa de regulagem do ângulo da rampa, girando o fuso.  
+Com  o  fuso  na  posição  de  grandes  inclinações e  observando  o  transferidor, 
+ajuste o ângulo para 10°. 
+ 
+7. LIGANDO O MULTICRONÔMETRO 
+ 
+Conecte a fonte de alimentação do multicronômetro na tomada. 
+ 
+8. CONECTANDO O CABO NO MULTICRONÔMETRO 
+ 
+Conecte o cabo do sensor na porta S0 do multicronômetro.  
+ 
+9. OPERANDO O MULTICRONÔMETRO  
+ 
+Caso não possua familiaridade com a operação do multicronômetro, siga para o 
+passo 9 do Tutorial VirtuaLab deste roteiro. 
+ 
+10. POSICIONANDO O CARRINHO 
+ 
+Para que não desça a rampa antes do desejado, arraste o carrinho até o ímã. 
+O  carrinho  permanecerá  em  repouso  até  que  o  ímã,  que  o  mantém  nesta 
+posição, seja retirado.  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+11. RETIRANDO O ÍMÃ 
+ 
+Solte o carrinho, retirando o ímã da posição. O carrinho será solto, descerá pelo 
+plano  inclinado e  o sensor  medirá  o  intervalo  de  tempo  entre as marcações 
+existentes sobre o carrinho. 
+ 
+12. REALIZANDO A LEITURA DOS RESULTADOS 
+ 
+Realize a leitura dos resultados, utilizando as funções do multicronômetro. Caso 
+não possua familiaridade com a leitura dos resultados no multicronômetro, siga 
+para o passo 12 do Tutorial VirtuaLab deste roteiro. 
+Devido às marcações existentes sobre o carrinho, o sensor captará medidas de 
+tempo nas marcações 0 mm, 18 mm, 36 mm, 54 mm, 72 mm, 90 mm, 108 mm, 
+126 mm, 144 mm, 162 mm e 180 mm. 
+ 
+13. ANOTANDO OS DADOS 
+ 
+Crie  uma  tabela  semelhante  à  apresentada  e  anote  os valores encontrados 
+durante a passagem do carrinho pelas 11 marcações.  
+ 
+S (m) t (s) t
+2 
+(s
+2
+)
+ 
+   
+   
+ 
+ 
+14. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  de  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+  
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Construa o gráfico S x t (Espaço x Tempo). 
+ 
+ 
+ 
+ 
+2. Com base em seus conhecimentos, qual o tipo de função representada pelo gráfico 
+“Espaço  x  Tempo”?  Qual  o  significado  do  coeficiente  angular  (declividade  da 
+tangente) do gráfico construído?  
+ 
+ 
+ 
+ 
+3. Construa o gráfico S x t
+2
+ (Espaço x Tempo
+2
+). 
+ 
+ 
+ 
+ 
+4. Com base em seus conhecimentos, qual o tipo de função representada pelo gráfico 
+“Espaço x Tempo2”? Qual o significado do coeficiente angular do gráfico construído?  
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+5. Calcule as velocidades para os pontos medidos t
+2
+, t
+4
+, t
+6
+, t
+8
+ e t
+10 
+e anote em uma tabela 
+semelhante à demonstrada a seguir. 
+ 
+       Utilize a fórmula v
+m(trecho)
+= 
+∆S
+∆t
+  para encontrar as velocidades. 
+       Onde: 
+       ∆S
+2
+=S
+2
+−S
+0
+;∆t
+2
+=t
+2
+−t
+0
+ 
+       ∆S
+4
+=S
+4
+−S
+2
+;∆t
+4
+=t
+4
+−t
+2
+ 
+       ∆S
+6
+=S
+6
+−S
+4
+;∆t
+6
+=t
+6
+−t
+4
+ 
+       ∆S
+8
+=S
+8
+−S
+6
+;∆t
+8
+=t
+8
+−t
+6
+ 
+      ∆S
+10
+=S
+10
+−S
+8
+;∆t
+10
+=t
+10
+−t
+10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Construa o gráfico v
+m
+ x t (velocidade x tempo). 
+ 
+ 
+ 
+7. Com base em seus conhecimentos, qual o tipo de função representada pelo gráfico 
+“velocidade  x  tempo”?  Qual  o  significado  do  coeficiente  angular  do  gráfico 
+construído? (Lembre-se que no MRUV, a velocidade é dada por v=v
+o
++at) 
+ 
+ 
+Intervalos v
+m 
+(m/s)
+ 
+S
+0
+ a S
+2 
+ 
+S
+2
+ a S
+4 
+ 
+S
+4
+ a S
+6 
+ 
+S
+6
+ a S
+8 
+ 
+S
+8
+ a S
+10 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+8. Qual a aceleração média deste movimento? 
+ 
+ 
+ 
+9. Ainda utilizando o gráfico, encontre a velocidade inicial do carrinho no t
+0. 
+Para isso, 
+basta extrapolar o gráfico e verificar o valor da velocidade quando a curva “cruza” o 
+eixo y. 
+ 
+ 
+ 
+10. Diante dos dados obtidos e dos gráficos construídos: 
+ 
+ 
+ 
+11. Monte a função horária do experimento. 
+S =  So+vo t+
+1
+2
+ a t
+2
+ 
+Onde:  
+• a = Aceleração (m/s²); 
+• t = Tempo (s); 
+• V
+0 
+= Velocidade inicial (Instante t
+0
+); 
+• S
+0 
+= Posição inicial (lembre-se da marcação onde o sensor foi posicionado). 
+ 
+ 
+12. Por que é possível afirmar que esse movimento é uniformemente variado? 
+ 
+ 
+ 
+13. Faça o experimento com a inclinação de 20° e compare os resultados. 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MONTANDO E AJUSTANDO O EXPERIMENTO 
+ 
+Arraste o nível bolha até o plano inclinado, clicando com o botão esquerdo do mouse e 
+sobre ele e arrastando-o. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+2. NIVELANDO A BASE 
+ 
+Nivele a base, clicando com o botão direito do mouse no nível bolha e selecionando a 
+opção “Nivelar base”. 
+ 
+ 
+ 
+ 
+ 
+Os  “pés”  da  base  do  plano  inclinado  serão ajustados,  deixando  a  bolha  do  nível 
+centralizada. 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+3. POSICIONANDO O ÍMÃ 
+ 
+Arraste  o  ímã  até  a  indicação  em  vermelho  no  plano  inclinado,  clicando com  o  botão 
+esquerdo do mouse. Esse ímã será usado posteriormente para fixar o carrinho. 
+ 
+ 
+ 
+   
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+4. POSICIONANDO FUSO ELEVADOR 
+ 
+Posicione  o  fuso  elevador,  clicando com  o  botão  esquerdo  do  mouse  sobre  o  fuso  e 
+arrastando-o para uma das posições em destaque. A posição destacada em verde é para 
+pequenas inclinações e a posição destacada em amarelo é para grandes inclinações. 
+ 
+ 
+ 
+Neste experimento usaremos a posição para grandes inclinações. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+5. POSICIONAR O SENSOR 
+ 
+ 
+Posicione o sensor em  300 mm  na  régua,  clicando  com botão  esquerdo  do  mouse  no 
+sensor. O  sensor  será  utilizado  para  medir  o  tempo  decorrido  no  movimento  do 
+carrinho.  
+ 
+ 
+ 
+Observe a escala que aparece no canto da tela 
+O  ponto  branco  que  aparece  no  sensor,  como  destacado  em  vermelho,  é  o  ponto  de 
+ativação.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+6. AJUSTANDO A INCLINAÇÃO DA RAMPA 
+ 
+Inicie a etapa de regulagem do ângulo da rampa, clicando com o botão 
+Inicie a etapa de regulagem do ângulo da rampa, clicando com o botão direito do mouse 
+no fuso elevador e selecionando a opção “Girar fuso”. 
+ 
+ 
+ 
+Com o fuso na posição de grandes inclinações, ajuste o ângulo para 10° clicando com o 
+botão esquerdo do mouse nas setas “Subir” e “Descer”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+7. LIGANDO O MULTICRONÔMETRO 
+ 
+ 
+Visualize o cronômetro, em detalhes, acessando a câmera “Cronômetro”, clicando com 
+o botão esquerdo do mouse sobre o menu lateral esquerdo. 
+ 
+ 
+ 
+Conecte a fonte de alimentação do multicronômetro na tomada, clicando e arrastando 
+com o botão esquerdo do mouse sobre a fonte. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+Funcionamento do multicronômetro: 
+ 
+Para ligar o multicronômetro, clique com o botão esquerdo do mouse no botão “Power”. 
+ 
+ 
+ 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  no  botão  “Reset”  para  voltar  à  seleção  de 
+funções. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+Para selecionar uma das funções que aparecem no visor, clique com o botão esquerdo 
+do mouse nos botões azuis. 
+ 
+ 
+ 
+ 
+Para ajustar valores, clique com o botão esquerdo do mouse nas setas. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+8. CONECTANDO O CABO NO MULTICRONÔMETRO 
+ 
+ 
+Conecte o cabo do sensor na porta S0 do multicronômetro, clicando e arrastando com 
+o botão esquerdo do mouse, conforme demonstrado abaixo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+9. OPERANDO O MULTICRONÔMETRO 
+ 
+ 
+Selecionando idioma: 
+ 
+ 
+ 
+Selecionando função: 
+ 
+Clique no botão destacado em verde até que apareça a função “F3 10PASS 1SEN”. Em 
+seguida, clique no botão destacado em vermelho para selecionar a função. 
+ 
+ 
+ 
+ 
+  
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+Número de intervalos: 
+ 
+Clique  na  seta  destacada  em  amarelo  para  escolher  o  número  de  intervalos  (dez)  e, 
+então, no botão destacado em verde para confirmar. 
+ 
+ 
+ 
+ 
+Você está pronto para começar o experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+ 
+ 
+Acesse a câmera “Plano inclinado”.  
+ 
+ 
+ 
+Para que não desça a rampa antes do desejado, arraste o carrinho até o ímã, clicando 
+com o botão esquerdo do mouse sobre ele.  
+ 
+  
+ 
+ 
+10.  POSICIONANDO O CARRINHO 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+O carrinho permanecerá em repouso até que o ímã, que o mantém nesta posição, seja 
+retirado.  
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+11. RETIRANDO O ÍMÃ 
+ 
+ 
+Acesse a câmera “Bancada”.  
+ 
+ 
+ 
+Solte o carrinho, clicando com o botão esquerdo do mouse sobre o ímã. O carrinho será 
+solto  e  descerá  pelo  plano  inclinado.  O  sensor  medirá  o  intervalo  de  tempo  entre 
+marcações existentes sobre o carrinho. 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+9. REALIZANDO A LEITURA DOS RESULTADOS 
+ 
+ 
+Clique com o botão esquerdo do mouse no botão destacado em amarelo para verificar 
+os resultados e no botão destacado em verde para repetir o experimento. 
+ 
+ 
+ 
+Leia o resultado do experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+Clique  nas  setas  destacadas  em  amarelo  para  ver  os pontos  de  medidas  e  seus 
+resultados. 
+ 
+ 
+ 
+Devido às marcações existentes sobre o carrinho, o sensor captará medidas de tempo 
+nas marcações 0 mm, 18 mm, 36 mm, 54 mm, 72 mm, 90 mm, 108 mm, 126 mm, 144 
+mm, 162 mm e 180 mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORMEMENTE VARIADO - MRUV 
+ 
+10.  ANOTANDO OS DADOS 
+ 
+ 
+Crie uma tabela semelhante à apresentada e anote os valores encontrados. 
+ 
+S (m) t (s) t
+2 
+(s
+2
+)
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+11. AVALIANDO OS RESULTADOS  
+ 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  

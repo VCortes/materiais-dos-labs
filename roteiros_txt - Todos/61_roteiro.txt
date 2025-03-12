@@ -1,0 +1,507 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre o  campo 
+magnético gerado por uma corrente que percorre um condutor retilíneo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bússola; 
+• Carga resistiva; 
+• Fio condutor; 
+• Fonte de corrente; 
+• Interruptor. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. VERIFICANDO A DEFLEXÃO DA BÚSSOLA 
+ 
+Posicione  a  bússola  em  todas  as  posições  disponíveis  e  verifique  a  deflexão  da  agulha  da 
+bússola. 
+ 
+2. ANALISANDO A INTERFERÊNCIA DO CAMPO MAGNÉTICO I 
+ 
+Acione  o  interruptor  do circuito  e  mova  a  bússola  para  cada  uma  das  posições  disponíveis. 
+Analise a interferência do campo magnético na posição da agulha da bússola. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+  
+3. INVERTENDO A CONEXÃO DA FONTE 
+ 
+Desative o interruptor do circuito e inverta a conexão da fonte de corrente do circuito. 
+ 
+4. ANALISANDO A INTERFERÊNCIA DO CAMPO MAGNÉTICO II 
+ 
+Acione  o  interruptor  do  circuito  e  mova  a  bússola  para  cada  uma  das  posições  disponíveis. 
+Analise a interferência do campo magnético na posição da agulha da bússola. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique  por  que  a  bússola  aponta  para  o  norte  geográfico  sem  que  tenha 
+necessidade de aplicar as cargas na mesma. 
+ 
+ 
+ 
+2. Descreva  o  comportamento  da  agulha  da  bússola nas  diferentes  posições 
+enquanto o circuito está fechado. A deflexão da agulha da bússola corrobora com 
+o comportamento físico esperado? 
+ 
+ 
+ 
+3. Descreva  o  comportamento  da  agulha  da  bússola  nas  diferentes  posições 
+enquanto o circuito está aberto. Justifique. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. VERIFICANDO A DEFLEXÃO DA BÚSSOLA 
+ 
+Avance a tela inicial clicando com o botão esquerdo do mouse sobre o botão “Começar”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+ 
+ 
+ 
+Destaque a bússola clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Observe as possíveis posições da bússola. 
+ 
+ 
+ 
+Mova a bússola clicando com o botão esquerdo do mouse sobre a posição desejada. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Visualize a bússola clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bússola”. 
+ 
+ 
+ 
+Observe a deflexão da agulha da bússola. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais posições. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+2. ANALISANDO A INTERFERÊNCIA DO CAMPO 
+MAGNÉTICO I 
+ 
+Ligue o sistema clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Ative  a  função  inspecionar  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Inspecionar”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Observe o sentido das linhas do campo magnético. 
+ 
+ 
+ 
+Destaque a bússola clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Mova a bússola clicando com o botão esquerdo do mouse sobre a posição desejada. 
+ 
+ 
+ 
+Visualize a bússola clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bússola”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Observe a deflexão da agulha da bússola. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais posições. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+3. INVERTENDO A CONEXÃO DA FONTE 
+ 
+Desligue o sistema clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Inverta a polaridade da fonte de alimentação clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+4. ANALISANDO A INTERFERÊNCIA DO CAMPO 
+MAGNÉTICO II 
+ 
+Ligue o sistema clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Ative  a  função  inspecionar  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Inspecionar”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Observe o sentido das linhas do campo magnético. 
+ 
+ 
+ 
+Mova a bússola clicando com o botão esquerdo do mouse sobre a posição desejada. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Visualize a bússola clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bússola”. 
+ 
+ 
+ 
+Observe a deflexão da agulha da bússola. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+Repita os procedimentos anteriores para as demais posições. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAMPO MAGNÉTICO EM UM FIO RETILÍNEO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

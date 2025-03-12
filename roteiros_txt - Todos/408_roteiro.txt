@@ -1,0 +1,626 @@
+
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá realizar a avaliação de eficácia de agentes químicos 
+(antissépticos) sobre as bactérias do polegar e meio ambiente.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se estiver   em   100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Estufa bacteriológica 37°C; 
+• Caneta permanente; 
+• Álcool 70%; 
+• Sabão; 
+• Swab; 
+• Placa de ágar sangue de carneiro; 
+• Placa de ágar simples; 
+• Bico de Bunsen. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+  
+2. INOCULANDO A AMOSTRA EM CULTURA  
+ 
+Em seguida, identifique as placas e pressione ligeiramente o dedo antes de lavar na 
+superfície do meio do ágar simples. Em seguida, lave o polegar com sabão e pressione 
+o  dedo  novamente sobre  outra  região  do  mesmo  ágar.  Feito  isso,  lave  o  dedo  com 
+sabão e álcool 70% e pressione-o mais uma vez sobre o ágar na terceira região. 
+ 
+3. INOCULANDO A AMOSTRA AMBIENTAL EM CULTURA 
+ 
+Passe o swab na maçaneta da porta e, posteriormente, espalhe-o uniformemente em 
+placa de ágar sangue. 
+ 
+4. INCUBANDO AS CULTURAS EM ESTUFA 
+ 
+Incube  as  culturas  em  estufa  bacteriológica (37°C)  por  72  horas.  Após  a  incubação, 
+observe as colônias que cresceram nas culturas no contador de colônias. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual é a importância do uso de antisséptico na manipulação de alimentos? 
+ 
+ 
+ 
+ 
+ 
+2. Após  a  lavagem  do  polegar  e  o  uso  de  antisséptico  (álcool  70%),  foi  possível 
+observar colônias presente no meio de cultura? Avalie se o antisséptico é eficaz. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”, que está disponível dentro do painel de visualização localizado 
+no  canto  superior  esquerdo  da  tela.  Se  preferir,  pode  também  utilizar  o atalho do 
+teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara e óculos 
+de proteção. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+ 
+2. INOCULANDO A AMOSTRA EM CULTURA 
+ 
+Inicialmente,  visualize  o  bico  de Bunsen  acessando  a  câmera  “Visão  Geral”  e,  em 
+seguida, abra o registro de gás clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Depois, acesse os controles para ajuste o bico de Bunsen clicando com o botão esquerdo 
+do mouse sobre ele. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Realize  a  configuração  da  chama arrastando  com o botão  esquerdo  do  mouse  os 
+controles  disponíveis no  canto  inferior  esquerdo da  tela.  Certifique-se  de que  a 
+configuração utilizada é para chama azul, redutora. 
+ 
+ 
+ 
+Agora,  acenda  o  bico  de  Bunsen clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+acendedor posicionado sobre a mesa. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Identifique as culturas na tampa das placas selecionando a caneta permanente com o 
+botão esquerdo do mouse. 
+ 
+ 
+ 
+Pressione o polegar sem  lavar sobre  a  região  1  do  ágar  simples  clicando com o botão 
+direito do mouse sobre este e selecionando o comando “Pressionar região 1”. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a pia acessando a câmera “Pia” e lave o polegar com sabão clicando sobre este 
+com o botão  esquerdo  do  mouse.  Note  que  após  passar  o  sabão  no  dedo,  a  torneira 
+abre automaticamente para lavagem. 
+ 
+ 
+ 
+Feito  isso,  visualize  a  placa  de  ágar  simples acessando  a  câmera  “Visão  Geral” e 
+pressione o polegar lavado com sabão sobre a região 2 do ágar simples clicando com o 
+botão direito do mouse sobre este e selecionando o comando “Pressionar região 2”. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a pia acessando a câmera “Pia” e lave novamente o polegar com sabão clicando 
+sobre  este  com  o  botão  esquerdo  do  mouse.  Em seguida,  lave-o com  álcool clicando 
+sobre este com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Feito isso, visualize a placa de ágar simples acessando a câmera “Mesa” e pressione o 
+polegar lavado com sabão e álcool sobre a região 3 do ágar simples clicando com o botão 
+direito do mouse sobre este e selecionando o comando “Pressionar região 3”. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+ 
+3. INOCULANDO A AMOSTRA AMBIENTAL EM CULTURA 
+ 
+Colete a amostra da maçaneta clicando sobre o swab com o botão esquerdo do mouse. 
+Note que o swab se direciona à maçaneta e coleta a amostra automaticamente. 
+ 
+ 
+ 
+Em seguida, inocule a amostra da maçaneta em cultura clicando no swab com o botão 
+esquerdo do mouse. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+4. INCUBANDO AS CULTURAS EM ESTUFA 
+ 
+Após   inoculação   das   amostras,   desligue   o   registro   de   gás do   bico   de   Bunsen 
+pressionando com botão esquerdo do mouse.  
+ 
+ 
+ 
+Visualize  a  estufa bacteriológica acessando  a  câmera  “Visão  Geral”  e,  em  seguida, 
+abra-a clicando com botão esquerdo do mouse sobre a porta.  
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Leve o ágar simples para estufa bacteriológica clicando sobre ele com o botão direito do 
+mouse e selecionando o comando “Colocar na estufa”. 
+ 
+ 
+ 
+Depois, coloque o ágar sangue na estufa bacteriológica clicando sobre ele com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Feito isso, feche a porta da estufa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Aguarde o  tempo  de  incubação  clicando  com botão  direito  do  mouse sobre a  estufa 
+bacteriológica. Note que aparecerá um cronômetro contando as 72 horas de incubação. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Após  a  incubação  das  72  horas,  abra  a  estufa  bacteriológica  clicando  sobre  ela  com o 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Coloque as culturas na mesa clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Depois, coloque o ágar simples no contador de colônia clicando sobre o primeiro com o 
+botão direito do mouse e selecionando o comando “coloca no contador de colônia”. 
+ 
+ 
+ 
+Agora, visualize o contador de colônias acessando a câmera “Contador de colônias” e, 
+em  seguida, ligue-o clicando  com  botão  esquerdo  do  mouse  no botão localizado no 
+canto inferior direito do contador. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Visualize as colônias clicando na caneta com botão esquerdo do mouse. 
+ 
+ 
+ 
+Marque e conte as colônias clicando sobre elas com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Ao finalizar, visualize o contador de colônias novamente acessando a câmera “contador 
+de colônias” e retorne o ágar simples à mesa clicando sobre ele com o botão esquerdo 
+do mouse.  
+ 
+ 
+ 
+Reinicie  a  contagem  e  limpe  as  marcações  do  contador  de  colônias  clicando  sobre  o 
+botão “RESET” do contador. 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Agora, visualize o ágar sangue acessando a câmera “mesa” e coloque-o no contador de 
+colônia clicando sobre o primeiro com o botão direito do mouse.  
+ 
+ 
+ 
+Visualize mais  uma  vez o  contador  de  colônias  acessando  a  câmera  “Contador  de 
+colônias”  e,  em  seguida,  observe as  colônias no  ágar  sangue clicando  na  caneta  com 
+botão esquerdo do mouse.  
+ 
+  
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Marque e conte as colônias clicando sobre elas com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Ao finalizar, visualize o contador de colônias novamente acessando a câmera “contador 
+de colônias” e retorne o ágar sangue à mesa clicando sobre ele com o botão esquerdo 
+do mouse.  
+ 
+  
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Reinicie  a  contagem  e  limpe  as  marcações  do  contador  de  colônias  clicando  sobre  o 
+botão “RESET” do contador. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS  
+EFICÁCIA DE AGENTES ANTISSÉPTICOS 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 

@@ -1,0 +1,773 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá aprender  a  determinar  a  concentração  de  cloro 
+ativo em hipoclorito. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água sanitária; 
+• Bastão de vidro; 
+• Béquer de 50 mL; 
+• Béquer de 100 mL; 
+• Bureta de 50 mL; 
+• Erlenmeyer de 25 mL; 
+• Garras; 
+• Pera; 
+• Pipeta volumétrica de 5 mL; 
+• Pipeta volumétrica de 20 mL; 
+• Proveta de 50 mL; 
+• Solução Kl 10%; 
+• Solução de ácido acético glacial; 
+• Solução de amido solúvel a 1,0% (m/v); 
+• Solução padronizada de tiossulfato de sódio 0,1 M; 
+• Suporte universal. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e máscara. 
+ 
+2. DILUINDO A AMOSTRA DE ÁGUA SANITÁRIA 
+ 
+Abra a garrafa contendo a amostra de água sanitária e transfira o líquido para o béquer de 50 
+mL. Utilizando  a pipeta volumétrica,  pipete 5  mL  da  amostra  de  água  sanitária do  béquer e 
+transfira  para  o Erlenmeyer 1.  Retorne  a  pipeta  para  o  suporte.  Adicione  25  mL  de  água 
+destilada da pisseta na proveta de 50 mL e transfira o conteúdo da proveta para o Erlenmeyer 
+1. 
+ 
+3. ADICIONANDO OS REAGENTES 
+ 
+Abra o frasco contendo a solução de Kl 10% e despeje o conteúdo em um novo béquer de 50 
+mL.  Utilizando  a  pipeta  volumétrica,  pipete 20  mL  da  solução  de  Kl  10%  e transfira  para  o 
+Erlenmeyer 1. Retorne a pipeta para o suporte. Abra o frasco de ácido acético glacial e, com 
+auxílio  do  bastão  de  vidro,  transfira  10  mL  da  solução  para  a  proveta  de  50  mL.  Transfira  o 
+conteúdo da proveta para o Erlenmeyer 1. Limpe o bastão de vidro. 
+ 
+4. TITULANDO O CLORO ATIVO 
+ 
+Abra o frasco contendo a solução de tiossulfato de sódio e, com auxílio do bastão de vidro, 
+transfira 50 mL da solução para o béquer de 100 mL. Limpe o bastão de vidro. Mova o béquer 
+até a bureta e despeje o conteúdo até a marca de 0 mL. Posicione o Erlenmeyer 1 no suporte 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+  
+universal abaixo da bureta e abra a torneira da bureta. Feche a torneira assim que a cor da 
+solução mudar. Abra o frasco de conta gotas contendo a solução de amido 1% e adicione 5 
+gotas  ao Erlenmeyer 1.  Abra  a  torneira  da  bureta  novamente e  feche  assim  que  a  solução 
+voltar a ser incolor. Anote o volume gasto da solução titulante. 
+ 
+5. REALIZANDO A TITULAÇÃO EM TRIPLICATA 
+ 
+Repita os procedimentos anteriores, utilizando a pipeta volumétrica, pipete 5 mL da amostra 
+de água sanitária do béquer e transfira para o Erlenmeyer 2. Retorne a pipeta para o suporte. 
+Adicione 25 mL de água destilada da pisseta na proveta de 50 mL e transfira o conteúdo da 
+proveta para o Erlenmeyer 2. Abra o frasco contendo a solução de Kl 10% e despeje o conteúdo 
+em um novo béquer de 50 mL. Utilizando a pipeta volumétrica, pipete 20 mL da solução de Kl 
+10% e transfira para o Erlenmeyer 2. Retorne a pipeta para o suporte. Abra o frasco de ácido 
+acético glacial e, com auxílio do bastão de vidro, transfira 10 mL da solução para a proveta de 
+50 mL. Transfira o conteúdo da proveta para o Erlenmeyer 2. Limpe o bastão de vidro. Abra o 
+frasco contendo a solução de tiossulfato de sódio e, com auxílio do bastão de vidro, transfira 
+50  mL da  solução  para o  béquer de  100 mL.  Limpe o bastão de  vidro. Mova  o  béquer  até  a 
+bureta  e  despeje  o  conteúdo  até  a  marca  de  0  mL.  Posicione  o  Erlenmeyer 2 no  suporte 
+universal abaixo da bureta e abra a torneira da bureta. Feche a torneira assim que a cor da 
+solução mudar. Abra o frasco de conta gotas contendo a solução de amido 1% e adicione 5 
+gotas  ao  Erlenmeyer 2.  Abra  a  torneira  da  bureta  novamente  e  feche  assim  que  a  solução 
+voltar  a  ser  incolor.  Anote  o  volume  gasto  da  solução  titulante. Repita  as  etapas  anteriores 
+para realizar a titulação do Erlenmeyer 3. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Na titulação, qual a diferença entre a solução titulante e a solução titulada? 
+ 
+ 
+ 
+2. Por que a titulação deve ser realizada em triplicata? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e 
+máscara. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+2. DILUINDO A AMOSTRA DE ÁGUA SANITÁRIA 
+ 
+Transfira a amostra de água sanitária clicando com o botão esquerdo do mouse sobre a 
+garrafa indicada. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o béquer”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre o botão “A”. 
+ 
+ 
+ 
+Aspire 5  mL  da  amostra  de  água  sanitária clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão “S”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Mova a pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Visualize  a  pera clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar a pera”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o botão “E”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Adicione 25 mL de água destilada clicando com o botão direito do mouse sobre a pisseta 
+e selecione a opção “Mover para a proveta”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+3. ADICIONANDO OS REAGENTES 
+ 
+Despeje a solução de Kl 10% clicando com o botão esquerdo do mouse sobre a garrafa 
+âmbar. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o béquer”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre o botão “A”. 
+ 
+ 
+ 
+Aspire 20 mL da solução de Kl 10% clicando com o botão esquerdo do mouse sobre o 
+botão “S”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Mova a pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar a pera”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o botão “E”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Limpe o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Limpar o bastão de vidro”. 
+ 
+ 
+ 
+Mova  o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Mover para a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Transfira 10 mL de ácido acético glacial clicando com o botão esquerdo do mouse sobre 
+a garrafa âmbar indicada. 
+ 
+ 
+ 
+Mova  o  bastão  de  vidro  clicando  com  o  botão direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Transfira  o  conteúdo  da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+proveta. 
+ 
+ 
+ 
+Limpe  o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse  sobre  o bastão  e 
+selecione a opção “Limpar o bastão de vidro”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+4. TITULANDO O CLORO ATIVO 
+ 
+Mova  o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Mover para o béquer”. 
+ 
+ 
+ 
+Transfira  50  mL da  solução clicando  com  o  botão  esquerdo  do  mouse  sobre  a  garrafa 
+âmbar indicada. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Mova  o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Limpe  o  bastão  de  vidro clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Limpar o bastão de vidro”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Visualize o  béquer  clicando  com  o  botão  esquerdo  do  mouse na  câmera com  o nome 
+“Béquers” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Despeje o conteúdo do béquer clicando com o botão esquerdo do mouse sobre o béquer 
+indicado. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Posicione  o  Erlenmeyer 1 clicando  com  o  botão direito do  mouse  sobre o  Erlenmeyer 
+indicado e selecione a opção “Mover para a bureta”. 
+ 
+ 
+ 
+Abra a torneira da bureta clicando com o botão esquerdo do mouse sobre a torneira e 
+pressione. Feche a torneira assim que a cor da solução mudar. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Mova o frasco contendo a solução de amido 1% clicando com o botão direito do mouse 
+sobre o frasco indicado e selecione a opção “Mover para o Erlenmeyer”. 
+ 
+ 
+ 
+Adicione 5 gotas clicando com o botão esquerdo do mouse sobre o conta-gotas. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  o  conta-gotas  e 
+selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Abra a torneira da bureta clicando com o botão esquerdo do mouse sobre a torneira e 
+pressione. Feche a torneira assim que a cor da solução mudar. Anote o volume gasto da 
+solução titulante. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+5. REALIZANDO A TITULAÇÃO EM TRIPLICATA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer clicando  com  o  botão  direito  do  mouse  sobre Erlenmeyer  1 e 
+selecione a opção “Mover para a bancada”. 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+Repita  os  procedimentos  anteriores,  utilizando  a  pipeta  volumétrica,  pipete  5  mL  da 
+amostra de água sanitária do béquer e transfira para o Erlenmeyer 2. Retorne a pipeta 
+para  o  suporte.  Adicione  25  mL  de  água  destilada  da pisseta  na  proveta  de  50  mL  e 
+transfira o conteúdo da proveta para o Erlenmeyer 2. Abra o frasco contendo a solução 
+de  Kl  10%  e  despeje  o  conteúdo  em  um  novo  béquer  de  50  mL.  Utilizando  a  pipeta 
+volumétrica, pipete 20 mL da solução de Kl 10% e transfira para o Erlenmeyer 2. Retorne 
+a pipeta para o suporte. Limpe o bastão de vidro. Abra o frasco de ácido acético glacial 
+e, com auxílio do bastão de vidro, transfira 10 mL da solução para a proveta de 50 mL. 
+Transfira o conteúdo da proveta para o Erlenmeyer 2. Limpe o bastão de vidro. Abra o 
+frasco  contendo  a  solução  de  tiossulfato  de  sódio  e,  com  auxílio  do  bastão  de  vidro, 
+transfira 50 mL da solução para o béquer de 100 mL. Limpe o bastão de vidro. Mova o 
+béquer até a bureta e despeje o conteúdo até a marca de 0 mL. Posicione o Erlenmeyer 
+2  no  suporte  universal  abaixo da bureta  e abra  a  torneira  da bureta.  Feche  a  torneira 
+assim que a cor da solução mudar. Abra o frasco de conta gotas contendo a solução de 
+amido 1% e adicione 5 gotas ao Erlenmeyer 2. Abra a torneira da bureta novamente e 
+feche  assim  que  a  solução  voltar  a  ser  incolor.  Anote  o  volume  gasto  da  solução 
+titulante. Repita as etapas anteriores para realizar a titulação do Erlenmeyer 3. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA 
+DETERMINAÇÃO DA CONCENTRAÇÃO DE CLORO ATIVO EM HIPOCLORITO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada  na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

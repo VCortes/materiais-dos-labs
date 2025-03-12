@@ -1,0 +1,1097 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá explorar as associações de resistores em um painel 
+elétrico e suas propriedades. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Quadro elétrico; 
+• Pontes; 
+• Lâmpadas; 
+• Multímetro. 
+ 
+  
+PROCEDIMENTOS 
+ 
+FASE 1 – ASSOCIAÇÃO DE RESISTORES EM SÉRIE 
+ 
+1. MONTANDO O EXPERIMENTO 
+ 
+Posicione a ponte no borne 1 e as lâmpadas nos bornes 3, 5, 6 e 7. Ligue o quadro elétrico. 
+ 
+2. AJUSTANDO O MULTÍMETRO 
+ 
+Configure o equipamento para medir tensão contínua. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+3. MEDINDO A TENSÃO 
+ 
+Conecte a ponta de prova vermelha e a ponta de prova preta em 3A e 3B, respectivamente. 
+Verifique a tensão na lâmpada no borne 3. Reposicione as pontas de prova no quadro elétrico 
+de forma a verificar a tensão nas lâmpadas dos bornes 5, 6 e 7. Remova a lâmpada do borne 
+6 do quadro e posicione neste borne uma ponte. Verifique os valores da tensão nas lâmpadas 
+nos soquetes 3, 5 e 7. 
+ 
+4. MEDINDO A CORRENTE ELÉTRICA 
+ 
+Posicione na mesa as pontas de prova do multímetro que estiverem conectadas ao quadro. 
+Ajuste o multímetro para medir corrente contínua. Remova a ponte do soquete 6, posicione 
+as pontas neste soquete e verifique a corrente. Remova as pontas do soquete 6, reposicione 
+a lâmpada do soquete 3 para o soquete 6 e posicione as pontas de prova no soquete 3 para 
+verificar a corrente neste ponto. Utilize as instruções deste passo para realizar a leitura das 
+correntes nos soquetes 5 e 7. 
+ 
+5. DESMONTANDO AS LIGAÇÕES 
+ 
+Retorne  todos  os  componentes  utilizados  até  então  para  suas  posições  iniciais  na  mesa. 
+Desligue o quadro elétrico. 
+ 
+FASE 2 – ASSOCIAÇÃO DE RESISTORES EM PARALELO 
+ 
+6. MONTANDO O EXPERIMENTO 
+ 
+Posicione as pontes nos bornes 1, 5, 6 e 7 e as lâmpadas nos soquetes 2, 3 e 4. Ligue o quadro 
+elétrico. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+7. AJUSTANDO O MULTÍMETRO 
+ 
+Configure o equipamento para medir tensão contínua. 
+ 
+8. MEDINDO A TENSÃO 
+ 
+Conecte a ponta de prova vermelha e a ponta de prova preta em 2A e 2B, respectivamente. 
+Verifique a tensão na lâmpada no borne 2. Reposicione as pontas de prova no quadro elétrico 
+de forma a verificar a tensão nas lâmpadas dos bornes 3 e 4. Posicione a lâmpada do borne 3 
+do quadro na mesa e verifique o que ocorre com as lâmpadas restantes. 
+ 
+9. DESMONTANDO AS LIGAÇÕES 
+ 
+Retorne  todos  os  componentes  utilizados  até  então  para  suas  posições  iniciais  na  mesa. 
+Desligue o quadro elétrico. 
+ 
+FASE 3 – ASSOCIAÇÃO MISTA DE RESISTORES 
+ 
+10. MONTANDO O EXPERIMENTO 
+ 
+Posicione as pontes nos bornes 1, 6 e 7 e as lâmpadas nos soquetes 2, 3, 4 e 5. Ligue o quadro 
+elétrico. 
+ 
+11. ANALISANDO O CIRCUITO 
+ 
+Remova e recoloque a lâmpada do borne 3 e verifique a luminosidade das outras lâmpadas 
+durante este processo. Remova as lâmpadas dos bornes 2 e 4. Verifique a luminosidade das 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+  
+lâmpadas restantes no circuito ao realizar estas ações. Reposicione as lâmpadas nos bornes 2 
+e 4. 
+ 
+12. MEDINDO A TENSÃO 
+ 
+Conecte a ponta de prova vermelha e a ponta de prova preta em 2A e 2B, respectivamente. 
+Verifique a tensão na lâmpada no borne 2. Reposicione as pontas de prova no quadro elétrico 
+de forma a verificar a tensão nas lâmpadas dos bornes 3, 4 e 5. Posicione a ponta de prova 
+vermelha  e  a  ponta  de  prova  preta  em  3A  e  5B,  respectivamente.  Verifique  a  tensão  entre 
+estes pontos. 
+ 
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 09 a 12 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+FASE 1 – ASSOCIAÇÃO DE RESISTORES EM SÉRIE 
+ 
+1. Preencha  a  tabela  1  com  os resultados  obtidos  durante  o  passo  3  (Medindo  a 
+tensão). 
+Lâmpada Tensão (V) 
+3  
+5  
+6  
+7  
+Tabela 1 – Dados experimentais de tensão com quatro resistores em série 
+ 
+ 
+ 
+2. Preencha  a  tabela  2  com  os  resultados  obtidos  durante  o passo  3  (Medindo  a 
+tensão) após a remoção da lâmpada do borne 6. 
+ 
+Lâmpada Tensão (V) 
+3  
+5  
+7  
+Tabela 2 – Dados experimentais de tensão com três resistores em série 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+3. Com  base  em  suas  observações,  comente  a  veracidade  da  seguinte  afirmação: 
+“Em  uma associação   em   série   a   soma   das   tensões   elétricas   sobre   cada 
+componente (lâmpada) é igual a tensão elétrica total atuante no circuito.” 
+ 
+ 
+ 
+4. Caso   um   circuito   possuísse   20   lâmpadas   em   série   e   uma   das   lâmpadas 
+“queimasse”, o que aconteceria com as demais lâmpadas do circuito? Justifique 
+a sua resposta. 
+ 
+ 
+ 
+5. Qual a corrente equivalente que percorre este circuito? 
+ 
+ 
+ 
+6. Como  é  o  comportamento  da  corrente  elétrica  no  circuito  que  você  montou? 
+Explique. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+FASE 2 – ASSOCIAÇÃO DE RESISTORES EM PARALELO 
+ 
+1. Preencha  a  tabela  3  com  os  resultados  obtidos  durante  o  passo  3  (Medindo  a 
+tensão). 
+ 
+Lâmpada Tensão (V) 
+2  
+3  
+4  
+Tabela 3 – Dados experimentais de tensão com resistores em paralelo 
+ 
+ 
+ 
+2. Com base em suas medições, comente a veracidade da seguinte afirmação: “Em 
+uma associação  em  paralelo  os  componentes  do  circuito  ficam  submetidos  a 
+uma mesma tensão elétrica”. 
+ 
+ 
+ 
+3. Com  base  em  suas  observações,  comente  a  veracidade  da  seguinte  afirmação: 
+“Em uma associação em paralelo, a retirada de um dos componentes do circuito 
+(lâmpadas) não interrompe o funcionamento dos demais componentes.”  
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+FASE 3 – ASSOCIAÇÃO MISTA DE RESISTORES 
+ 
+1. Em  relação  a  luminosidade  observada  pelas  lâmpadas  ao  final  do  passo  1 
+(montado o experimento), foi possível observar alguma diferença entre elas? Em 
+caso afirmativo, qual foi a diferença? Justifique. 
+ 
+ 
+ 
+2. Preencha  a  tabela  5  com  os  resultados  obtidos  durante  o  passo  3  (Medindo  a 
+tensão). 
+ 
+Lâmpada Tensão (V) 
+2  
+3  
+4  
+5  
+Tabela 5 – Dados experimentais de tensão com associação mista de resistores  
+ 
+ 
+ 
+3. Qual   foi   a   tensão   medida   entre   os   terminais   2A   e   5B?   Utilizando   seus 
+conhecimentos  sobre  circuitos  elétricos  e  associação  de  resistores,  explique 
+como  a  tensão  fornecida  pela fonte  é  dividida  entre  as  lâmpadas  do  circuito 
+montado no passo 1. 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+FASE 1 - ASSOCIAÇÃO DE RESISTORES EM SÉRIE 
+ 
+1. MONTANDO O EXPERIMENTO 
+ 
+Posicione a ponte no quadro elétrico clicando com o botão direito do mouse na ponte 
+desejada e selecione a opção “Posicionar no borne”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione a  ponte  no  borne  clicando com  o  botão  esquerdo  do  mouse  na  posição 
+desejada. Para associação em série, posicione a ponte no borne 1. 
+ 
+ 
+ 
+Posicione as  lâmpadas  no  quadro  elétrico  clicando com  o  botão  direito  do  mouse  na 
+lâmpada desejada e selecione a opção “Posicionar no borne”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione as lâmpadas no borne clicando com o botão esquerdo do mouse na posição 
+desejada. Para este experimento, será posicionado nos bornes 3, 5, 6 e 7. 
+ 
+ 
+ 
+Visualize o quadro elétrico clicando com o botão esquerdo do mouse na câmera com o 
+nome “Quadro” localizada dentro do painel de visualização no canto superior esquerdo 
+da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre a chave no quadro 
+elétrico. 
+ 
+ 
+ 
+Observe o resultado das lâmpadas. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+2. AJUSTANDO O MULTÍMETRO 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ajuste  o  multímetro  clicando  com  o  botão  direito  do  mouse sobre  ele e  selecione  a 
+opção “Medir tensão contínua”. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+3. MEDIÇÃO DE TENSÃO 
+ 
+Posicione  as  pontas  de  prova  clicando  com  o  botão  direito  do  mouse  sobre  elas  e 
+selecione  a  opção  “Posicionar  no  quadro”.  Repita  o  procedimento  para  a  ponteira 
+negativa. 
+ 
+ 
+ 
+Meça a tensão na lâmpada 3 clicando com o botão esquerdo do mouse sobre os pontos 
+3A e 3B. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Observe o valor de tensão no multímetro. 
+ 
+ 
+ 
+Repita o procedimento anterior de medição para as lâmpadas 5, 6 e 7. 
+ 
+Retire a lâmpada 6 clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Posicionar na mesa”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Posicione  a  ponte  no  borne  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  e 
+selecione a opção “Posicionar no borne”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione a ponte no borne 6 do circuito clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Meça novamente a tensão nas lâmpadas 3, 5 e 7. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+4. MEDIÇÃO DE CORRENTE ELÉTRICA 
+ 
+Retire  as  ponteiras  de  prova  clicando  com  o  botão  direito  do  mouse  sobre  elas  e 
+selecione  a  opção  “Posicionar  na  mesa”.  Repita  o  procedimento  para  a  ponteira 
+negativa. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Ajuste o multímetro para medir corrente elétrica clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Medir corrente contínua”. 
+ 
+ 
+ 
+Visualize  o quadro clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Quadro” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Retire  a  ponte  clicando  com  o  botão  direito  do  mouse  sobre  o  borne  6  e  selecione  a 
+opção “Posicionar na mesa”. Observe o resultado. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione a ponta de prova no quadro clicando com o botão direito do mouse sobre ela 
+e  selecione  a  opção  “Posicionar  no  quadro”.  Repita  o  procedimento  para  a  ponteira 
+negativa. 
+ 
+ 
+ 
+Posicione as ponteiras no borne clicando com o botão esquerdo do mouse sobre 6A e 
+6B. Observe o resultado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Após a medição, posicione na mesa clicando com o botão direito do mouse nas pontas 
+de prova do multímetro e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+Em seguida, reposicione a lâmpada clicando com o botão direito do mouse na lâmpada 
+posicionada no borne 3 e selecione a opção “Reposicionar no borne”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Reposicione a lâmpada clicando com o botão esquerdo do mouse sobre o borne 6. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione a ponteira de prova no quadro clicando com o botão direito do mouse sobre 
+a ponteira e selecione a opção “Posicionar no quadro”. 
+ 
+ 
+ 
+Posicione as pontas de prova do multímetro clicando com o botão esquerdo do mouse 
+no borne 3. Observe o resultado. 
+ 
+ 
+ 
+Repita o procedimento anterior para os bornes 5 e 7. 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+5. DESMONTANDO O EXPERIMENTO 
+ 
+Posicione  as  pontas  de  prova clicando  com  o  botão  direito  do  mouse  sobre  elas  e 
+selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+Posicione todas as lâmpadas clicando com o botão direito do mouse nelas e selecione a 
+opção “Posicionar na mesa”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione  a  ponte  conectada  no  quadro  de  volta  para  a  mesa clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+Desligue o quadro clicando com o botão esquerdo do mouse no botão “Liga-Desliga” do 
+quadro elétrico. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+FASE 2 - ASSOCIAÇÃO DE RESISTORES EM PARALELO 
+ 
+6. MONTANDO O EXPERIMENTO 
+ 
+Posicione a ponte no borne clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Posicionar no borne”. 
+ 
+ 
+ 
+Posicione a  ponte  no  borne clicando com  o  botão  esquerdo  do  mouse  na  posição 
+desejada. Para a associação em paralelo, posicione nos bornes 1, 5, 6 e 7. 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione  a  lâmpada  no  borne  clicando  com  o  botão  direito  do  mouse  sobre  ela e 
+selecione a opção “Posicionar no borne”. 
+ 
+ 
+ 
+Posicione a  ponte  no  borne  clicando com  o  botão  esquerdo  do  mouse  na  posição 
+desejada. Para a associação em paralelo serão usados os bornes 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Visualize o quadro elétrico clicando com o botão esquerdo do mouse na câmera com o 
+nome “Quadro” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue o quadro elétrico clicando com o botão esquerdo do mouse sobre o botão “Liga-
+Desliga”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+7. AJUSTANDO O MULTÍMETRO 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” localizada no menu de câmeras ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Meça  tensão  com  o  multímetro  clicando com  o  botão  direito  do  mouse sobre  ele e 
+selecione a opção “Medir tensão contínua”. 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+8. MEDINDO A TENSÃO 
+ 
+Posicione as ponteiras de prova no quadro clicando com o botão direito do mouse sobre 
+elas e selecione a opção “Posicionar no quadro”. Repita o procedimento para a ponteira 
+negativa. 
+ 
+ 
+ 
+Posicione  as ponteiras  de  prova  no quadro  clicando  com o  botão  esquerdo do mouse 
+sobre os pontos 2A e 2B respectivamente. Observe o resultado no multímetro. 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Repita o procedimento anterior para as lâmpadas 4 e 3. 
+ 
+Retire a lâmpada 3 clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Posicionar na mesa”. Observe o resultado. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+9. DESMONTANDO O EXPERIMENTO 
+ 
+Realize  o  mesmo procedimento  apresentado  na  no  passo  5  da  fase  1  para  posicionar 
+todas as lâmpadas e pontes de volta para a mesa e desligar o quadro elétrico. Também 
+posicione as pontas de prova do multímetro de volta para a mesa. 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+FASE 3 - ASSOCIAÇÃO MISTA DE RESISTORES 
+ 
+10. MONTANDO O EXPERIMENTO 
+ 
+Posicione  as  pontes  no  quadro  elétrico  clicando  com  o  botão  direito  do  mouse  sobre 
+elas e selecione a opção “Posicionar no borne”. 
+ 
+ 
+ 
+Posicione  as  pontes  nos  bornes  1,  6  e  7  do  quadro  elétrico clicando  com  o  botão 
+esquerdo do mouse sobre eles. 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione as lâmpadas no quadro elétrico clicando com o botão direito do mouse sobre 
+elas e selecione a opção “Posicionar no borne”. 
+ 
+ 
+ 
+Posicione as lâmpadas nos bornes 2, 3, 4 e 5 do quadro elétrico clicando com o botão 
+esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Visualize o quadro elétrico clicando com o botão esquerdo do mouse na câmera com o 
+nome “Quadro” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue o quadro elétrico clicando com o botão esquerdo do mouse sobre o botão “Liga-
+Desliga”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+11. ANALISANDO O CIRCUITO 
+ 
+Posicione a lâmpada do borne 3 na mesa clicando com o botão direito do mouse sobre 
+ela  e  selecione  a  opção  “Posicionar  na  mesa”.  Observe  o  que  acontece  com  a 
+luminosidade. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Posicione novamente  a  lâmpada  no  borne  3  clicando  com  o  botão direito  do  mouse 
+sobre ela e selecione a opção “Posicionar no Borne”. 
+ 
+ 
+ 
+Posicione  novamente  a  lâmpada  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+borne 3. 
+ 
+ 
+ 
+Repita o procedimento anterior e retire as lâmpadas 2 e 4, em seguida observe o que 
+acontece com a luminosidade. Depois, devolva as lâmpadas ao borne.  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+12. MENDINDO A TENSÃO 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Posicione a ponteira de prova no borne clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Posicionar no quadro”. Repita o procedimento para a ponteira 
+negativa. 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+Meça a tensão nos terminais do borne 2 clicando com o botão esquerdo do mouse sobre 
+os pontos 2A e 2B respectivamente. 
+ 
+ 
+ 
+Verifique  a  tensão medida  no  multímetro. Reposicione  as  pontas  de  prova  no  quadro 
+elétrico para verificar a tensão nas lâmpadas dos bornes 3, 4 e 5. 
+ 
+Em seguida, verifique as tensões entre os terminais 4A e 5B. Observe o resultado. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+ASSOCIAÇÃO DE RESISTORES 
+ 
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 09 a  12 deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

@@ -1,0 +1,514 @@
+
+
+  
+ 
+1 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática você irá realizar o procedimento conhecido como teste de Molisch, 
+que permite identificar a presença de carboidratos em uma solução. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido sulfúrico; 
+• Água destilada; 
+• Pipeta Pasteur de 1mL; 
+• Reativo de Molisch (alfa-naftol 5% em etanol); 
+• Solução de amido (0,1 M); 
+• Solução de frutose (0,1 M); 
+• Solução de glicose (0,1 M; 
+• Solução de sacarose (açúcar de mesa) (0,1 M); 
+• Suporte para tubos de ensaio; 
+• Tubos de ensaio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  o  equipamento  de  proteção individual  localizado no  “Armário  de  EPIs”.  Nesse 
+experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos de proteção.  
+ 
+
+  
+ 
+6 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+  
+2. PREPARANDO A CAPELA 
+ 
+Prepare  a  capela  para  ser  utilizada  no  experimento.  Os  materiais  necessários  devem  ser 
+retirados dos armários, a luz interna ligada e o exaustor deve ser acionado. 
+ 
+3. ADICIONANDO O REAGENTE DE MOLISCH 
+ 
+Utilize o frasco conta-gotas para adicionar três gotas do reagente de Molisch a cada um dos 
+tubos de ensaio e homogeneíze as soluções. Os tubos de ensaio, numerados de 1 a 5, contêm 
+água destilada, frutose, glicose, sacarose e amido, respectivamente. 
+ 
+4. ADICIONANDO O ÁCIDO SULFÚRICO 
+ 
+Adicione, cuidadosamente, 1 ml de ácido sulfúrico em cada uma das amostras, evitando que 
+os dois líquidos se misturem. 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Observe, anote e analise os resultados obtidos durante o experimento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Na   reação   de   Molisch,   os   monossacarídeos   presentes   em   solução   são 
+submetidos   à   ação   de   um   forte   agente   desidratante   (ácido   sulfúrico 
+concentrado), originando hidroximetilfurfurais e furfurais a partir de hexoses e 
+pentoses,   respectivamente.   O   que   você   observou   nos   tubos   de   ensaio, 
+numerados de 1 a 5, que foram submetidos a reação de Molisch? 
+ 
+ 
+ 
+ 
+ 
+2. Conceitue  o  termo  “açúcar  redutor”.  Quais  das  soluções  utilizadas  neste 
+laboratório podem ser descritas por este termo? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Abra  o  armário  de  EPIs  clicando  com  o  botão esquerdo do  mouse  sobre  a  porta  do 
+armário. 
+ 
+ 
+ 
+Selecione os  EPIs necessários  para  a  realização do  experimento clicando com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, 
+máscara e óculos de proteção. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Feche a porta do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Capela”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Ligue  o  exaustor  da  capela  clicando  com  o  botão  esquerdo  do mouse  no  interruptor 
+indicado. 
+ 
+ 
+ 
+Ligue  a  luz  interna  da  capela  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+interruptor indicado. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Abra a capela clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Abra a porta  do armário  da  capela clicando com  o  botão esquerdo  do  mouse sobre  a 
+porta. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Visualize o armário inferior clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário inferior”. 
+ 
+ 
+ 
+Mova os itens clicando com o botão esquerdo do mouse no objeto. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Repita os procedimentos anteriores, abra as outras duas portas do armário e coloque 
+na mesa os objetos necessários. 
+ 
+ 
+ 
+Feche as portas dos armários clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+3. ADICIONANDO O REAGENTE DE MOLISCH 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Interior da capela”. 
+ 
+ 
+ 
+Posicione o reagente de Molisch clicando com o botão direito do mouse sobre o conta-
+gotas e selecione a opção “Tubo de ensaio 1”. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Goteje com  o conta-gotas clicando com  o  botão  esquerdo  do mouse sobre  o  local 
+indicado. Repita este procedimento até que três gotas tenham sido adicionadas ao tubo 
+de ensaio. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, posicione o conta-gotas sobre os demais tubos de 
+ensaio (2, 3, 4 e 5) e despeje 3 gotas do reagente de Molisch. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Após adicionar gotas de reagente de Molisch nos tubos de ensaio 1 a 5, mova o conta-
+gotas posicionando o curso do mouse sobre o conta-gotas e pressione a tecla B através 
+do teclado da sua máquina. 
+ 
+ 
+ 
+Misture  o tubo  de  ensaio clicando  com  o  botão  esquerdo  do  mouse  sobre o  suporte 
+indicado e selecione a opção “Tubo de ensaio 1”;. Repita o procedimento com os tubos 
+2, 3, 4 e 5. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+4. ADICIONANDO O ÁCIDO SULFÚRICO 
+ 
+Coloque o ácido sulfúrico no béquer 1 clicando com o botão esquerdo do mouse sobre 
+o frasco da solução. 
+ 
+ 
+ 
+Utilize a pipeta para pipetar o conteúdo do béquer 1 clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+  
+
+  
+ 
+19 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+Adicione ácido sulfúrico com a pipeta clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Tubo de ensaio 1”. Repita o procedimento nos tubos 2, 3, 4 e 5. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Observe as reações que ocorreram nos tubos de ensaio e anote as suas observações. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC - SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+C.P.: 40260-215  Teléfono: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+CARBOIDRATOS - CARACTERIZAÇÃO, IDENTIFICAÇÃO E PODER REDUTOR 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

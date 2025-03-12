@@ -1,0 +1,687 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá compreender os procedimentos necessários para a 
+coleta de sangue venoso com seringa e tubo à vácuo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Adaptador para coleta a vácuo; 
+• Agulha; 
+• Álcool 70%; 
+• Algodão; 
+• Curativo; 
+• Descarte perfuro cortante; 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Seringa de 5 mL; 
+• Torniquete ou Garrote; 
+• Tubo de coleta EDTA – 3mL; 
+• Tubo de coleta seco – 3mL. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+  
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Selecione à prática a ser iniciada: Coleta com seringa ou Coleta a vácuo. 
+ 
+COLETA DE SANGUE VENOSO COM SERINGA 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras, 
+touca e óculos. 
+ 
+3. COLETANDO A AMOSTRA 
+ 
+Direcione-se  para a  sala  de  coleta  e  chame  o  paciente. O  tubo  de  coleta  está 
+previamente identificado. Coloque o garrote no braço do paciente. Higienize a região 
+com algodão e álcool a 70%. Descarte o algodão o lixo biológico. Selecione a seringa 
+e  introduza  a  agulha  com  angulação  de  30°.  Colete  o  sangue  puxando  o  êmbolo  da 
+seringa.  Solte  o  garrote.  Com  a  seringa  completa,  retire  a  seringa  do  paciente  e 
+descarte a agulha. Com o tubo de coleta aberto, transfira a amostra da seringa para o 
+tubo de coleta, tampe o tubo e homogeneíze por inversão. Coloque o tubo de coleta 
+no suporte, descarte a seringa e coloque o curativo no braço do paciente. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+  
+4. REINICIANDO O EXPERIMENTO 
+ 
+Ao  finalizar  o  experimento  retorne  ao  menu  inicial  de  seleção  clicando  no  botão 
+“Retornar ao menu inicial” e selecione a prática desejável. 
+ 
+COLETA DE SANGUE VENOSO À VÁCUO 
+ 
+5. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras, 
+touca e óculos. 
+ 
+6. COLETANDO A AMOSTRA 
+ 
+Direcione-se  par  a  sala  de  coleta  e  chame  o  paciente.  O  tubo  de  coleta  está 
+previamente identificado. Coloque o garrote no braço do paciente. Higienize a região 
+com  algodão  e  álcool  a  70%.  Descarte  o  algodão  no  lixo  biológico. Em  seguida, 
+selecione o suporte de coleta a vácuo (canhão) e encaixe a agulha. Introduza a agulha 
+com angulação de 30° no braço do paciente. Coloque o tubo de tampa vermelha no 
+canhão, retire  o  garrote,  troque  o  tubo  de  coleta  (tampa  vermelha)  pelo  tubo  de 
+coleta de tampa roxa. Retire o tubo de tampa roxa, homogeneize o tubo por inversão 
+e  coloque  o  tubo  no  suporte.  Retire  o  canhão  com  a  agulha  do  braço  do  paciente, 
+descarte a agulha do canhão e descarte. Coloque o curativo no paciente 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+  
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O  posicionamento  do  paciente  no  momento  da  coleta  pode influenciar  o 
+resultado dos exames? 
+ 
+ 
+ 
+2. O que pode ocorrer caso o tempo de garroteamento ultrapasse 1 minuto?  
+ 
+ 
+ 
+3.  Em coletas múltiplas, qual a ordem correta da utilização dos tubos?  
+ 
+ 
+ 
+4. Por que agulhas e seringas não devem ser reencapadas após o uso? 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize os tipos de coleta disponíveis e com o botão esquerdo do mouse selecione à 
+prática desejável. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+COLETA DE SANGUE VENOSO COM SERINGA 
+ 
+2. SEGURANÇA DO EXPERMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras, 
+touca e óculos. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Feche o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize o paciente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Paciente”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+3. COLETANDO A AMOSTRA 
+ 
+Chame  o  paciente  clicando  com  o  botão  esquerdo  do  mouse  sobre  o box “Chamar 
+paciente”. 
+ 
+  
+ 
+O tubo de coleta está previamente identificado. Coloque o garrote no paciente clicando 
+com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Higienize o local de punção clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+ 
+Mova a seringa clicando com o botão esquerdo do mouse sobre a seringa. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Selecione  o ângulo  correto clicando  com  o  botão  esquerdo  do  mouse  sobre  o box 
+“Possibilidades de angulação”. 
+ 
+ 
+ 
+Insira a agulha no paciente clicando com o botão esquerdo do mouse sobre a seringa. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Puxe o êmbolo da seringa clicando com o botão esquerdo do mouse sobre a seringa. 
+ 
+ 
+ 
+Coloque o sangue coletado no tubo de coleta clicando com o botão esquerdo do mouse 
+sobre a seringa. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Descarte a seringa no lixo biológico clicando com o botão esquerdo do mouse sobre a 
+seringa. 
+ 
+ 
+ 
+Coloque o curativo no local da punção clicando com o botão esquerdo do mouse sobre 
+a bandagem de fácil aplicação. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+4. REINICIANDO O EXPERIMENTO 
+ 
+Retorne ao menu inicial de seleção clicando com o botão esquerdo do mouse no botão 
+“Retornar ao menu inicial”. 
+ 
+ 
+ 
+Selecione a prática clicando com o botão esquerdo do mouse em “Coleta a vácuo”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+COLETA DE SANGUE VENOSO À VÁCUO 
+ 
+5. SEGURANÇA DO EXPERMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras, 
+touca e óculos. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Feche o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize o paciente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Paciente”. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+6. COLETANDO A AMOSTRA 
+ 
+Chame  o  paciente clicando  com  o  botão  esquerdo  do  mouse  sobre  o box “Chamar 
+paciente”. 
+ 
+ 
+ 
+Coloque o garrote no paciente clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Higienize o local de punção clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+ 
+Mova o adaptador para o braço do paciente clicando com o botão esquerdo do mouse 
+sobre o adaptador. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Selecione  o  ângulo  correto clicando  com  o  botão  esquerdo  do  mouse  sobre  o box 
+“Possibilidades de angulação”. 
+ 
+ 
+ 
+Insira a agulha no paciente clicando com o botão esquerdo do mouse sobre o adaptador. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Visualize a  mesa  auxiliar clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa auxiliar”. 
+ 
+ 
+ 
+Mova o tubo de coleta clicando com o botão esquerdo do mouse sobre o tubo de coleta 
+seco. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Mova o tubo de coleta clicando com o botão esquerdo do mouse sobre o tubo de coleta 
+com EDTA. 
+ 
+ 
+ 
+Descarte o adaptador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+Coloque o curativo no local da punção clicando com o botão esquerdo do mouse sobre 
+o curativo de fácil aplicação. 
+ 
+ 
+ 
+Ao finalizar o experimento, retorne ao menu de seleção e reinicie a prática sempre que 
+necessário. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+COLETA DE SANGUE VENOSO 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

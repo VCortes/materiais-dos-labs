@@ -1,0 +1,979 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    o 
+procedimento de desmontagem de uma bomba centrífuga. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Alicate para anel elástico; 
+• Bancada industrial para manutenção; 
+• Bomba centrífuga; 
+• Chave combinada no 10; 
+• Chave combinada no 13; 
+• Chave combinada no 19; 
+• Chave de fenda; 
+• Martelo de nylon; 
+• Saca rolamento externo. 
+ 
+PROCEDIMENTOS 
+ 
+1. DESMONTANDO A BOMBA 
+ 
+Com a chave combinada n°13, retire os parafusos M8 e, com o auxílio do martelo de 
+nylon, retire o bocal de sucção. Em seguida, utilize a chave combinada n° 19 retire a 
+porca de trava do impelidor e, com o martelo de nylon, retire o impelidor. Remove a 
+chaveta do eixo com o martelo. Posteriormente, retire os parafusos M8 que prendem 
+a sobreposta de gaxeta com a chave combinada n° 13. Então, retire o parafuso sem 
+cabeça  localizado  na  voluta  com  a  chave  de  fenda.  Retire  os  parafusos  M8  que 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+  
+acoplam  a  voluta  à  carcaça  com  o  auxílio  da  chave  n°  13.  Em  sequência,  remova  a 
+voluta e o mancal do eixo com o martelo e, depois, retire manualmente as gaxetas e 
+a sobreposta da gaxeta. Finalmente, com a chave combinada n° 10, retire os parafusos 
+M6  das tampas  frontal  e  traseira  dos  rolamentos.  Então,  com  o  martelo  de  nylon, 
+retire  as  tampas  frontal  e  traseira  da  carcaça.  Em  seguida,  utilize  a  chave  de  fenda 
+para remover os retentores das tampas. Com um alicate para anéis internos, retire o 
+anel elástico. Com o auxílio do martelo de nylon, bata levemente do lado oposto ao 
+acoplamento  do  eixo,  para  que  ele  se  desprenda  do  eixo.  Acople  o  saca-rolamento 
+externo no eixo e efetue a remoção do rolamento. Acople o saca-rolamento interno 
+no rolamento residual da carcaça e efetue a sua remoção. 
+ 
+2. REPETINDO O EXPERIMENTO 
+ 
+Repita a desmontagem da bomba, procurando memorizar os passos e as ferramentas 
+necessárias em cada passo. 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Agora que você acabou de desmontar a bomba, seria capaz de remontá-la sem 
+um procedimento específico? Reflita sobre eventuais dificuldades e diferenças. 
+Repita a desmontagem caso ache necessário. 
+ 
+ 
+ 
+2. Em um processo de desmontagem real, quais seriam as etapas mais difíceis de 
+realizar? Por quê? 
+ 
+ 
+ 
+3. Qual  das  ferramentas  utilizadas  você  não  conhecia?  O  que  seu  uso  difere  de 
+outras ferramentas já conhecidas? 
+ 
+ 
+ 
+4. Quanto às peças removidas, quais você já conhecia? Quais você acha que exigem 
+maiores  cuidados  e  manutenção  mais  frequente?  Por  quê?  Pesquise  sobre  as 
+diferentes partes de uma bomba centrífuga.   
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. DESMONTANDO A BOMBA 
+ 
+Selecione a chave combinada n° 13 clicando com o botão direito do mouse na chave e 
+selecione a opção “Selecionar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova os parafusos M8 localizados no bocal de sucção clicando com o botão direito 
+do mouse em um dos parafusos do bocal e selecione a opção “Remover”. 
+ 
+ 
+ 
+Selecione  o  martelo  de  nylon  clicando  com  o  botão  direito  do  mouse no  martelo  e 
+selecione a opção “Selecionar”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova o bocal de sucção clicando com o botão direito do mouse no bocal e selecione 
+a opção “Remover”. 
+ 
+ 
+ 
+Selecione  a  chave  combinada  n°  19  clicando  com  o  botão  direito  do  mouse  na  chave 
+indicada e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Visualize a  porca  de  trava  do  impelidor  clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bomba (Frontal)” localizada dentro do painel de visualização no 
+canto  superior  esquerdo  da  tela.  Se  preferir, também  pode  ser  utilizado o  atalho  do 
+teclado “Alt+2”. 
+ 
+ 
+ 
+Remova  a  porca  do  impelidor  clicando  com  o  botão  direito  do  mouse  na  porca  e 
+selecione a opção “Remover”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Selecione  o  martelo  de  nylon  clicando  com  o  botão  direito  do  mouse  no  martelo  e 
+selecione a opção “Selecionar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Visualize  o  impelidor  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  “Bomba 
+(Frontal)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Remova o impelidor clicando com o botão direito do mouse no impelidor e selecione a 
+opção “Remover”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire  a  chaveta  com  o  martelo  clicando  com  o  botão  direito  do  mouse  na  chaveta  e 
+selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  a  chave  combinada  n°  13  clicando  com  o  botão  direito  do  mouse  na  chave 
+n°13 e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize  a  parte  superior  da  bomba  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Bomba (Superior)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova os parafusos da sobreposta clicando com o botão direito do mouse em um dos 
+parafusos e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione a chave de fenda clicando com o botão direito do mouse na chave e selecione 
+a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize  a  parte  superior  da  bomba  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Bomba (Superior)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire  o  parafuso  sem  cabeça  da  voluta  clicando  com  o  botão  direito  do  mouse  no 
+parafuso e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  a  chave  combinada  n°  13  clicando  com  o  botão  direito  do  mouse  na  chave 
+n°13 e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize  a  parte  superior  da  bomba  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Bomba (Superior)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova os parafusos fixadores da voluta clicando com o botão direito do mouse em um 
+dos parafusos e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  o  martelo  de  nylon  clicando  com  o  botão  direito  do  mouse  no  martelo  e 
+selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize  a  parte  superior  da  bomba  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Bomba (Superior)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire  a  voluta  clicando  com  o  botão  direito  do  mouse  na  voluta  e selecione  a  opção 
+“Remover”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (frente)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova o mancal do eixo clicando com o botão direito do mouse no mancal e selecione 
+a opção “Remover”. 
+ 
+ 
+ 
+Remova as gaxetas clicando com o botão direito do mouse na gaxeta e selecione a opção 
+“Remover”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova a sobreposta com o botão direito do mouse na sobreposta e selecione a opção 
+“Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  a  chave  combinada  n°  10  clicando  com  o  botão  direito  do  mouse  na  chave 
+n°10 e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Frontal)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova os parafusos da tampa do rolamento frontal clicando com o botão direito do 
+mouse em um dos parafusos e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize a parte traseira da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Posterior)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova os parafusos da tampa do rolamento traseiro clicando com o botão direito do 
+mouse em um dos parafusos e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  o  martelo  de  nylon  clicando  com  o  botão  direito  do  mouse  no  martelo  e 
+selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Frontal)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire a tampa do rolamento frontal clicando com o botão direito do mouse na tampa e 
+selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize a parte traseira da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Posterior)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire a tampa do rolamento traseiro clicando com o botão direito do mouse na tampa 
+e selecione a opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione a chave de fenda clicando com o botão direito do mouse na chave e selecione 
+a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Frontal)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire os retentores da parte frontal da bomba clicando com o botão direito do mouse 
+na tampa de rolamento e selecione a opção “Retirar retentores”. 
+ 
+ 
+ 
+Visualize a parte traseira da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Posterior)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire os retentores da parte traseira da bomba clicando com o botão direito do mouse 
+na tampa de rolamento e selecione a opção “Retirar retentores”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione o alicate clicando com o botão direito do mouse no alicate e selecione a opção 
+“Selecionar”. 
+ 
+ 
+ 
+Visualize a parte traseira da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Posterior)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Remova  o  anel  elástico  clicando  com  o  botão  direito  do  mouse  no  anel  e selecione  a 
+opção “Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  o  martelo  de  nylon  clicando  com  o  botão  direito  do  mouse  no  martelo  e 
+selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Frontal)” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire  o  eixo  clicando  com  o  botão  direito  do  mouse  no  eixo  e  selecione a  opção 
+“Remover”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  o  saca-rolamento  externo  clicando  com  o  botão  direito  do  mouse  no  saca-
+rolamento e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte traseira da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Posterior)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire o rolamento traseiro clicando com o botão direito do mouse no eixo e selecione 
+a opção “Remover rolamento”. 
+ 
+ 
+ 
+Visualize as ferramentas clicando com o botão esquerdo do mouse na câmera “Geral” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Selecione  o  saca-rolamento  interno  clicando  com  o  botão  direito  do  mouse  no  saca-
+rolamento e selecione a opção “Selecionar”. 
+ 
+ 
+ 
+Visualize a parte frontal da bomba clicando com o botão esquerdo do mouse na câmera 
+“Bomba (Frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+Retire  o  rolamento  radial  clicando  com  o  botão  direito  do  mouse  no  rolamento  e 
+selecione a opção “Remover”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+2. REPETINDO O EXPERIMENTO 
+ 
+Repita os procedimentos anteriores, procurando memorizar as etapas e as ferramentas 
+necessárias  em  cada  passo  e selecione  a  opção “Refazer”.  Reflita  sobre  as partes  da 
+bomba que você não conhecia, pesquise sobre elas. Faça o mesmo com as ferramentas 
+que você ainda não estava familiarizado. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MANUTENÇÃO PREVENTIVA DE UMA BOMBA CENTRÍFUGA 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

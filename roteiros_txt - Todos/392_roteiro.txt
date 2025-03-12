@@ -1,0 +1,501 @@
+
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  explorar o  tempo  de  coagulação  (TC), teste  que 
+permite avaliar  o  tempo  em  que  o  sangue  extraído  do  corpo  de  um  indivíduo 
+leva para coagular-se completamente in vitro. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agulha de 25 x 07mm; 
+• Álcool a 70%; 
+• Algodão; 
+• Bandagem curativo (blood stopper com 25mm de diâmetro); 
+• Banho-maria; 
+• Cronômetro; 
+• Descarte de perfurocortante; 
+• Garrote ou torniquete para flebotomia; 
+• Seringa descartável de 3mL; 
+• Tubos de ensaio de vidro com tampas de borracha. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  o  equipamento  de  proteção  individual  localizado  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco e as luvas. 
+ 
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+  
+2. REALIZANDO COLETA DE SANGUE VENOSO 
+ 
+Realize  o  procedimento  comum  de  coleta  de  sangue  venoso.  Quando  a  primeira  gota  de 
+sangue aparecer na seringa, acione o cronômetro e continue a coleta. Em seguida, preencha 
+os tubos de ensaio com 1 mL de sangue em cada, e tampe-os. 
+ 
+3. MOVENDO PARA O BANHO-MARIA 
+ 
+Mantenha os tubos de ensaio imersos em banho-maria por 4 minutos. Após isso, verifique a 
+consistência. Repita esse procedimento a cada 30 segundos, até que o sangue nos três tubos 
+tenha atingido a consistência gelatinosa, ou seja, terem coagulado. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais outros exames são recomendados para uma investigação mais específica? 
+ 
+ 
+ 
+2. Quais as condições para o tempo de coagulação reduzido e prolongado? 
+ 
+ 
+ 
+3. A  fim  de  evitar  e/ou  diminuir  erros,  quais cuidados  deve-se  ter  ao  manipular 
+esses procedimentos? 
+ 
+ 
+ 
+Os valores de referência para o Tempo de Coagulação são 
+ 
+Normal 4 – 10 minutos 
+Diminuído inferior a 4 minutos 
+Aumentado superior a 10 minutos 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre suas portas.  
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e as luvas. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas.  
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse no hipoclorito de sódio. 
+ 
+ 
+ 
+Higienize com álcool clicando com o botão esquerdo do mouse sobre o álcool a 70%. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+2. REALIZANDO COLETA DE SANGUE VENOSO 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Tire as tampas de todos os tubos de ensaio clicando com o botão esquerdo do mouse 
+sobre as tampas. 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a paciente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Realize a assepsia do braço do paciente clicando com o botão esquerdo do mouse no 
+álcool a 70%. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Coloque o garrote clicando com o botão direito do mouse sobre o garrote. 
+ 
+ 
+ 
+Realize a coleta sanguínea clicando com o botão esquerdo do mouse na seringa. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Retire o garrote do braço clicando com o botão direito do mouse sobre o garrote. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de Ensaio” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+3. MOVENDO PARA O BANHO-MARIA 
+ 
+Coloque as tampas dos tubos de ensaio clicando com o botão esquerdo do mouse sobre 
+as tampas. 
+ 
+ 
+ 
+Mova  todos os  tubos de  ensaio para o  banho  maria clicando  com  o  botão  direito do 
+mouse nos tubos de ensaio e selecione a opção “Colocar no banho maria”. 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova os tubos de ensaio clicando com o botão direito do mouse nos tubos de ensaio e 
+selecione a opção “Colocar na posição inicial”. 
+ 
+ 
+ 
+Verifique a coagulação do sangue clicando com o botão direito do mouse nos tubos de 
+ensaio e selecione a opção “Verificar coagulação do sangue”. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Vizualize  a  coagulação  sanguínea clicando  com o  botão  esquerdo  do  mouse na 
+“Rotação”. 
+ 
+ 
+ 
+Retorne para posição inicial clicando com o botão direito do mouse no tubo de ensaio e 
+selecione a opção “Colocar na posição inicial”. 
+ 
+  
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Pare o experimento clicando com o botão esquerdo do mouse em “Parar”. 
+ 
+ 
+ 
+Coloque a bandagem clicando com o botão esquerdo do mouse sobre o curativo. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Responda o questionamento clicando com o botão esquerdo do mouse sobre uma das 
+opções. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+TEMPO DE COAGULAÇÃO 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também, com 
+os conhecimentos aprendidos sobre o tema. 
+ 

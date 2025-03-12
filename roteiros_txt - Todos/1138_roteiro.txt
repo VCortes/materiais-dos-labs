@@ -1,0 +1,1017 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre a 
+administração de hemocomponentes. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bandeja; 
+• Bolsa de concentrado de hemácias; 
+• Cateter intravenoso periférico; 
+• Equipo de transfusão; 
+• Esfigmomanômetro; 
+• Estetoscópio; 
+• Ficha de evolução transfusional; 
+• Prancheta; 
+• Soro fisiológico 0,9%; 
+• Suporte de soro; 
+• Termômetro. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário  de  EPIs”. Nesse  experimento,  é  obrigatório  o  uso  de jaleco  branco, luvas, touca e 
+máscara. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+  
+2. CONFERINDO OS DADOS DO PACIENTE 
+ 
+Observe  os dados  do  paciente  na  pulseira  de  identificação em  seguida confira os  dados  da 
+bolsa do hemocomponente e leia o prontuário, confira a prescrição para o paciente e faça o 
+registro na   ficha   de   evolução   transfusional   com   o   nome   do   paciente,   nome   do 
+hemocomponente, volume da bolsa, número do doador, grupo sanguíneo e fator Rh (GS/Rh) 
+e depois informe à paciente que irá avaliar o seu quadro geral de saúde. 
+ 
+3. AVALIANDO OS SINAIS VITAIS 
+ 
+Observe a frequência cardíaca do paciente na tela do monitor multiparamétrico; anote o valor 
+na  ficha  de  evolução  transfusional em  seguida  com  o  termômetro,  verifique  a  temperatura 
+axilar da paciente e anote o valor na ficha de evolução, guarde o termômetro. 
+ 
+4. VERIFICANDO A PRESSÃO ARTERIAL 
+ 
+Peça ao paciente para estender o braço esquerdo sobre a maca com a palma da mão voltada 
+para   cima e   aguarde   o   tempo   de   repouso   do   paciente. Coloque   o   manguito   do 
+esfigmomanômetro  em  torno  do  braço  do paciente  e  posicione  seus  dedos  no  pulso  do 
+paciente.  Pressione  a  pera  para  insuflar  o  manguito  até que  não  sinta  mais  o  batimento  do 
+pulso. Posicione o estetoscópio abaixo do manguito no braço do paciente e libere a pressão 
+abrindo  a  válvula  de  pressão.  Em  seguida,  observe  a  pressão  arterial  sistólica  (PAS)  quando 
+ouvir  o  primeiro  som  de  batimento,  ausculte  os  sons  através  do  estetoscópio.  Continue  a 
+deflação do manguito até que o último batimento seja auscultado e observe a pressão arterial 
+diastólica (PAD) quando ouvir o último som de batimento, remova o estetoscópio do braço do 
+paciente.  Por  fim, guarde  o  estetoscópio  e  o  esfigmomanômetro e registre  os  valores  de 
+pressão arterial do paciente no prontuário. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+5. PREPARANDO O SISTEMA DE TRANSFUSÃO 
+ 
+Posicione  a  bolsa  de  concentrado  de  hemácias  com  o  bico  voltado  para  cima e  abra  a 
+embalagem do equipo; retire o equipo, deixando a embalagem na bandeja em seguida feche 
+a pinça do equipo e remova a tampa da ponta do equipo; segurando o equipo ainda enrolado, 
+conecte  à  bolsa  de  concentrado  de  hemácias,  leve  a  bolsa  até  o  suporte  e  pendure.  Com  o 
+dedo  indicador  e  o  polegar,  aperte  a  primeira  câmara  do  equipo; depois,  aperte  a  segunda 
+câmara  do equipo; abra a  pinça  até  a  metade,  permitindo  que  o  líquido  preencha  todo  o 
+sistema do equipo depois feche a pinça novamente quando o líquido preencher todo o equipo. 
+ 
+6. SALINIZANDO O ACESSO VENOSO 
+ 
+Pegue a seringa com a agulha retire a tampa da agulha da seringa; injete a seringa no encaixe 
+do  multivia  e  aperte  o  êmbolo,  retire  a  seringa  e  coloque  na  bandeja; conecte  o  equipo  ao 
+encaixe do multivia. 
+ 
+7. INICIANDO A TRANSFUSÃO 
+ 
+Abra  a  pinça  do  equipo  até  a  metade e  registre  o  horário  de  início  na  ficha  de evolução; 
+coloque novamente  o  termômetro  na  axila  do paciente; aguarde 10  minutos e  observe  a 
+temperatura do paciente; em seguida observe o local da punção do cateter, depois aumente 
+a velocidade de infusão e aguarde 2 horas até o final da transfusão. 
+ 
+8. FINALIZANDO A TRANSFUSÃO 
+ 
+Feche  a  pinça  do equipo; desconecte o  equipo  do  multivia e  descarte  a  bolsa  e  o  equipo. 
+Registre o horário de término da transfusão na ficha de evolução e avalie novamente os sinais 
+vitais do paciente em seguida registre na ficha de evolução. 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+  
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  são  os  critérios  clínicos  e  laboratoriais  que  indicam  a  necessidade  de 
+transfusão  de  hemocomponentes  em  pacientes  em  situações  de  urgência  e 
+emergência? 
+ 
+ 
+ 
+2. Como  a  equipe  de saúde  deve  garantir  a  compatibilidade  sanguínea  e  a 
+segurança  do  paciente  durante  a  administração  de  hemocomponentes  no 
+contexto de uma assistência de urgência? 
+ 
+ 
+ 
+3. Quais  são  as  estratégias  e  procedimentos  para  monitorar  e  prevenir  reações 
+transfusionais  durante  a  administração  de  hemocomponentes,  especialmente 
+em situações críticas e emergenciais? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela.  
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, touca e máscara. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira.  
+ 
+ 
+ 
+Visualize as  luvas clicando  com  o  botão  esquerdo  do  mouse na câmera  com  o  nome 
+“Luvas”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Coloque as luvas clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a entrada do leito clicando com o botão esquerdo do mouse na câmera com o 
+nome “Entrada do leito”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+2. CONFERINDO OS DADOS DO PACIENTE 
+ 
+Confira os dados da paciente clicando com o botão esquerdo do mouse sobre o pulso 
+esquerdo da paciente. 
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Mesa”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Visualize  a  bolsa  de  sangue  clicando  com  o  botão direito  do  mouse  sobre  a  bolsa  de 
+sangue e selecione a opção “Visualizar a bolsa de sangue”. 
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Leia  atentamente  os  dados  da prancheta  clicando com  o  botão  esquerdo  do  mouse 
+sobre a prancheta.  
+ 
+ 
+ 
+Feche a prancheta clicando com o botão esquerdo do mouse no x. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Abra o prontuário clicando com o botão esquerdo do mouse em “Prontuário”. 
+ 
+ 
+ 
+Preencha os dados da paciente clicando com o botão esquerdo mouse nos campos 
+indicados e digite através do teclado da sua máquina. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Preencha os dados, nome do hemocomponente, volume da bolsa, número do doador, 
+grupo sanguíneo e fator Rh (GS/Rh) clicando com o botão esquerdo do mouse sobre os 
+campos indicados e digite utilizando o teclado numérico do seu computador.  
+ 
+ 
+ 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+3. AVALIANDO OS SINAIS VITAIS 
+ 
+Inicie a avaliação dos sinais vitais clicado com o botão esquerdo do mouse sobre “Avaliar 
+Sinais Vitais”. 
+ 
+ 
+ 
+Visualize  o monitor  miltiparamétrico clicando  com  o  botão  esquerdo  do mouse  na 
+câmera com o nome “Monitor miltiparamétrico”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Preencha o prontuário clicando com o botão esquerdo do mouse em “Prontuário”. 
+ 
+ 
+ 
+Registre o resultado clicando com o botão esquerdo do mouse sobre o campo indicado 
+e digite utilizando o teclado numérico do seu computador. 
+. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Coloque o termômetro na paciente clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Espere 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse sobre a 
+seta. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Retire o termômetro da paciente clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse em “Prontuário”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Registre o resultado clicando com o botão esquerdo do mouse sobre o campo indicado 
+e digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+ 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+4. VERIFICANDO A PRESSÃO ARTERIAL 
+ 
+Visualize o braço esquerdo clicando com o botão esquerdo do mouse na câmera com o 
+nome “Braço esquerdo”. 
+ 
+ 
+ 
+Peça  ao paciente  para estender  o  braço  esquerdo  sobre  a  maca  com  a palma da mão 
+voltada para cima clicando com o botão esquerdo do mouse no seu pulso. 
+ 
+ 
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Aguarde  o  tempo  de  repouso de  5  minutos ou  avance o  tempo  clicando com  o botão 
+esquerdo do mouse sobre a seta. 
+ 
+ 
+ 
+Afira a pressão arterial da paciente clicando com o botão esquerdo do mouse sobre o 
+pulso. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Abra o prontuário clicando com o botão esquerdo do mouse em “Prontuário”. 
+ 
+ 
+ 
+Registre o resultado clicando com o botão esquerdo do mouse sobre o campo indicado 
+e digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+5. PREPARANDO O SISTEMA DE TRANSFUSÃO 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+ 
+Pegue o equipo clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Pegar equipo de transfusão”.  
+ 
+ 
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Feche a pinça do equipo clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Fechar a pinça”. 
+ 
+ 
+ 
+Retire a tampa do equipo clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Retirar a tampa do equipo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Conecte o equipo na bolsa clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Conectar na bolsa”. 
+ 
+ 
+ 
+Aproxime das câmaras clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Pressione a primeira  câmara  do  equipo clicando  com  o botão  direito  do  mouse  sobre 
+ele e selecione a opção “Pressione a primeira câmara”. 
+ 
+ 
+ 
+Pressione a segunda câmara do equipo clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Pressione a segunda câmara”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Visualize o  acesso clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Acesso”. 
+ 
+ 
+ 
+Aproxime da pinça clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Abra a pinça até a metade clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Abrir pinça até a metade”. 
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Mesa”. 
+ 
+ 
+   
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+6. SALINIZANDO O ACESSO VENOSO 
+ 
+Retire a tampa da agulha clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Retirar a tampa da agulha”. 
+ 
+ 
+ 
+Mova  a  agulha  para  o  equipo  clicando  com  o  botão direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para o Equipo”. 
+ 
+ 
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Injete soro fisiológico clicando com o botão esquerdo do mouse sobre a agulha. 
+ 
+ 
+ 
+Mova a agulha para a mesa clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a Mesa”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+7. INICIANDO A TRANSFUSÃO 
+ 
+Conecte o equipo ao acesso clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Conectar no equipo multivia”. 
+ 
+ 
+ 
+Abra a pinça do equipo clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Abrir a pinça até a metade”. 
+ 
+ 
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Registre  o  horário  de  início  na  ficha  de  evolução clicando  com  o  botão  esquerdo  do 
+mouse   sobre   o   campo   indicado   e   digite   utilizando   o   teclado numérico   do   seu 
+computador. 
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Mova o termômetro para o paciente clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Aguarde 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse sobre 
+a seta. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Retire o termômetro da paciente clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Visualize o  acesso clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Acesso”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Aumente  a velocidade  de  infusão clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Abrir a pinça totalmente”. 
+ 
+ 
+ 
+Aguarde 2 horas ou avance o tempo clicando com o botão esquerdo do mouse na seta. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+8. FINALIZANDO A TRANSFUSÃO 
+ 
+Feche a pinça do equipo clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Fechar a pinça”. 
+ 
+ 
+ 
+Desconecte  o  equipo  do  multivia clicando com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Retirar do equipo multivia”. 
+ 
+ 
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+ 
+Descarte a bolsa e o equipo clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Descartar a bolsa de sangue”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+Abra o prontuário clicando com o botão esquerdo do mouse em “Prontuário”. 
+ 
+ 
+ 
+Registre o horário de término na ficha de evolução clicando com o botão esquerdo do 
+mouse   sobre   o   campo   indicado   e   digite   utilizando   o   teclado   numérico   do   seu 
+computador. Por fim avalie novamente os sinais vitais e pressão artéria de acordo com 
+os procedimentos demostrados anteriormente e registre no prontuário. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DO ADULTO 
+ADMINISTRAÇÃO DE HEMOCOMPONENTES EMERGÊNCIA 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada  na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

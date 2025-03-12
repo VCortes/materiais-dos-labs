@@ -1,0 +1,1070 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá ampliar seus  conhecimentos  sobre a reação  em 
+cadeia da polimerase. Essa técnica permite observar a amplificação da molécula 
+de DNA e sua observação através da eletroforese em gel de agarose. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Termociclador; 
+• Cuba de eletroforese horizontal; 
+• Fonte; 
+• Suporte para gel; 
+• Capela fluxo laminar; 
+• Micropipeta; 
+• Balança analítica; 
+• Eppendorf; 
+• Béquer; 
+• Tampão AmplF; 
+• Oligonucleotídeos; 
+• Enzima Taq DNA polimerase; 
+• Brometo de etídeo; 
+• Tampão TAE1x e TAE 5x; 
+• Padrão de corrida; 
+• Agarose. 
+ 
+  
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente, higienize  as  mãos  e coloque  os  equipamentos  de  proteção  individual 
+localizados no armário de EPIs. 
+ 
+2. PREPARANDO MIX DE REAÇÕES 
+ 
+Adicione   em   um   eppendorf 105 μl   do   tampão   de   reação   AmpF, 55 μl   de 
+oligonucleotídeos e 51 μl da enzima Taq DNA polimerase (ATENÇÃO: a quantidade de 
+cada reagente utilizado para fazer o mix de reações varia de acordo com o número 
+de amostras que serão analisadas, portanto, todos os valores citados anteriormente 
+foram calculados para o uso em 5 amostras de DNA diferentes). Transfira 30 μl do 
+mix de reações para 5 eppendorf previamente identificados (controle negativo, mãe, 
+pai 1, pai  2 e  filho).  Adicione  20 μl  da  amostra  de  DNA  de  cada  paciente  para  seu 
+respectivo eppendorf e 20 μl de água ultra pura no eppendorf do controle negativo. 
+ 
+3. AMPLIFICANDO A AMOSTRA 
+ 
+Leve os eppendorf que contém a amostra do paciente com o mix de reações para o 
+termociclador e aguarde por 3 horas. 
+ 
+4. PREPARANDO GEL DE AGAROSE 
+ 
+Pese 1,0 g de agarose na balança analítica em um béquer. Adicione 100 mL do tampão 
+TAE  1x  e  aqueça  a  solução  no  micro-ondas  por  1  minuto  e  30  segundos  até 
+homogeneizar. Acrescente 4 μl de brometo de etídeo na solução morna de agarose. 
+Transfira  a  solução  para  o  suporte,  coloque  o  pente  do  suporte  e  espere  o  gel 
+solidificar.  Após  solidificação  do  gel,  coloque  o  suporte  na  cuba  de  eletroforese  e 
+adicione o tampão TAE 1x até cobrir toda superfície. 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+  
+5. ADICIONANDO A AMOSTRA NO GEL 
+ 
+Colete  3 μl  de cada amostra  amplificada e  do  padrão  de  corrida,  transfira  para  um 
+eppendorf vazio e acrescente 1 μl do tampão de corrida 5x em cada. Pipete 4 μl de 
+cada  uma  das amostras e  transfira  para os  poços  do  gel  de  agarose respeitando  a 
+seguinte ordem: padrão de corrida, controle negativo, amostra da mãe, amostra do 
+pai,  amostra  do  outro  homem  e  amostra  do  filho.  Coloque  a  tampa  da  cuba  de 
+eletroforese e ligue a fonte de energia. 
+ 
+6. OBSERVANDO O RESULTADO 
+ 
+Retire o gel da cuba de eletroforese e observe o resultado no transiluminador. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Esquematize o resultado observado e informe qual dos suspeitos é o verdadeiro 
+pai da criança. Justifique sua resposta. 
+ 
+ 
+ 
+ 
+2. Explique o funcionamento da eletroforese. 
+ 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira da pia. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas de látex. 
+ 
+ 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+2. PREPARANDO MIX DE REAÇÕES 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  para  105 μl  clicando  com  o  botão  direito  do  mouse 
+sobre ela e selecionando a opção “Reajustar volume”. 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Perceba que irá abrir uma caixa de texto onde deve ser inserido o volume utilizado. 
+ 
+ 
+ 
+Coloque a micropipeta sobre o tampão de reação clicando com o botão direto do mouse 
+sobre ela e selecionando a opção “Colocar em tampão de reação”. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Transfira o líquido aspirado para o eppendorf clicando com o botão direito do mouse na 
+micropipeta e selecionando a opção “Colocar em tubo eppendorf”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ajuste o volume para 55 μl e coloque a micropipeta sobre o recipiente que contém os 
+oligonucleotídeos  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecionando a opção “Colocar em oligonucleotídeos”. 
+ 
+ 
+ 
+Transfira o líquido aspirado para o eppendorf clicando com o botão direito do mouse na 
+micropipeta e selecionando a opção “Colocar em tubo eppendorf”. Descarte a ponteira 
+após o uso. 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ajuste o volume da micropipeta para 5 μl e coloque-a sobre o recipiente que contém a 
+enzima Taq DNA polimerase clicando com o botão direito do mouse sobre a micropipeta 
+e selecionando a opção “Colocar em enzima Taq”. 
+ 
+ 
+ 
+Transfira o líquido aspirado para o eppendorf clicando com o botão direito do mouse na 
+micropipeta e selecionando a opção “Colocar em tubo eppendorf”. Descarte a ponteira 
+após o uso. 
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Tampe o eppendorf que contém os reagentes clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Mova  o  suporte  de  eppendorf  para  a  capela  de  fluxo  laminar  clicando  com  o  botão 
+direito do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ajuste o volume da micropipeta para 30 μl e coloque-a sobre o eppendorf que contém 
+o mix  de  reação  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecionando a opção “Colocar em tubo eppendorf”. 
+ 
+ 
+ 
+Transfira o líquido aspirado para o eppendorf do controle negativo clicando com o botão 
+direito  do  mouse  na micropipeta  e  selecionando  a  opção  “Colocar  em  eppendorf 
+controle”. Descarte a ponteira após o uso. 
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Repita  os dois  últimos passos  em  todos  os  eppendorf  localizados na  região  frontal do 
+suporte. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta para 20 μl e, em seguida, mova para o microtubo que 
+contém  a  amostra  de  DNA  da  mãe  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar em DNA da mãe”. 
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Despreze  a  amostra  de  DNA  pipetada  no  eppendorf  que  contém  o  mix  de  reações 
+correspondente clicando com o botão direito do mouse na micropipeta e selecionando 
+a opção “Colocar em eppendorf mãe”. Descarte a ponteira após o uso. 
+ 
+ 
+ 
+Repita  esse  processo com todas as  amostras  de  DNA  para seus  respectivos  tubos 
+contendo mix de reações. 
+ 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Pipete  20 μl  de  água  ultra  pura  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar em água ultra pura”. 
+ 
+ 
+ 
+Transfira o líquido pipetado para o eppendorf controle negativo clicando com o botão 
+direito na micropipeta e selecionando a opção “Colocar em eppendorf controle”. 
+ 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+3. AMPLIFICANDO A AMOSTRA 
+ 
+Leve as amostras para o termociclador clicando com o botão direito do mouse sobre o 
+suporte de eppendorf. 
+ 
+ 
+ 
+Feche  a  tampa  do  termociclador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ligue o termociclador clicando com o botão direito do mouse sobre ele e selecionando 
+a opção “Ligar”. 
+ 
+ 
+ 
+Aguarde  por  3  horas.  Se  preferir,  avance o  tempo  clicando  com  o  botão  esquerdo  do 
+mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Abra o termociclador e retira as amostras clicando com o botão direito do mouse sobre 
+o equipamento e selecionando a opção “Retirar amostra”. 
+ 
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+4. PREPARANDO O GEL DE AGAROSE 
+ 
+Mova o suporte de eppendorf para área da bancada destina ao preparo do gel clicando 
+com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+Ligue a balança analítica clicando com o botão esquerdo do mouse no botão power. 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Coloque o béquer na balança clicando com o botão direito sobre ele e selecionando a 
+opção “Colocar em balança analítica”. 
+ 
+ 
+ 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão tara. 
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Retire a tampa do recipiente que contém a agarose clicando com o botão esquerdo do 
+mouse sobre ele. 
+ 
+ 
+ 
+Coloque  a  espátula  sobre  o  recipiente  que  contém  a  agarose  clicando  com  o  botão 
+direito do mouse sobre ela e selecionando a opção “Colocar no pote”. 
+ 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Transfira a agarose  para  o  béquer  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+espátula  e  selecionando  a  opção  “Colocar  agarose  no  béquer”. Repita  esse  passo  até 
+obter a quantidade de 1,0 g. 
+ 
+ 
+ 
+Retorne  a  espátula  para  bancada  clicando  com  o  botão  direito  do  mouse sobre  ela  e 
+selecionando a opção “Colocar na posição inicial”. 
+ 
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Tampe o recipiente que contém agarose clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Coloque  o  béquer  na  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecionando a opção “Retirar objeto”. 
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Adicione 100 mL do tampão TAE 1x no béquer clicando com o botão direito do mouse 
+sobre o recipiente e selecionando a opção “Colocar no béquer”. 
+ 
+ 
+ 
+Mova  a  solução  do  béquer  para  o  microondas  clicando  com  o  botão  direito  e 
+selecionando a opção “Colocar em microondas”. 
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Feche o microondas clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Ligue  o  microondas por  30  segundos clicando  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Ligar”.  
+ 
+ 
+ 
+  
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Abra  o microondas  e  homogeneíze  a  solução  do  béquer  clicando  com  o  botão  direito 
+sobre a vidraria e selecionando a opção “Homogeneizar solução”. Repita esse processo 
+de aquecimento e homogeneização mais 2 vezes. 
+ 
+ 
+ 
+Retire  o  béquer  do  microondas  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecionando a opção “Retirar objeto”. 
+ 
+ 
+ 
+  
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Aguarde por 2 minutos. Se preferir, avance o tempo clicando com o botão esquerdo do 
+mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta para  4 μl  e  coloque-a  sobre o  recipiente  que  contém 
+brometo de etídeo clicando com o botão direito do mouse sobre ela e selecionando a 
+opção “Colocar em brometo de etídeo”. 
+ 
+ 
+ 
+  
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Despreze o líquido aspirado no béquer clicando com o botão direito do mouse sobre a 
+micropipeta e selecionando a opção “Colocar no béquer 100 mL”. Descarte a ponteira 
+após o uso. 
+ 
+ 
+ 
+Transfira a solução do béquer para a cuba de eletroforese clicando com o botão direito 
+do mouse sobre o béquer e selecionando a opção “Despejar em cuba”. 
+ 
+ 
+ 
+  
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Adicione o pente clicando com o botão direito do mouse sobre o suporte e selecionando 
+a opção “Colocar pente”. 
+ 
+ 
+ 
+Aguarde o gel solidificar. Se preferir, avance o tempo clicando com o botão esquerdo do 
+mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+  
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Desmonte o suporte clicando com o botão direito do mouse sobre ele e selecionando a 
+opção “Desmontar suporte”. 
+ 
+ 
+ 
+Coloque  o  suporte  dentro  da  cuba  de  eletroforese  clicando  com  o  botão  direito  do 
+mouse sobre ele e selecionando a opção “Colocar na cuba de eletroforese”. 
+ 
+ 
+ 
+  
+
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Adicione  o tampão  TAE  1x  na  cuba  de  eletroforese  clicando  com  o  botão  direito  do 
+mouse no recipiente e selecionando a opção “Colocar na cuba de eletroforese”. 
+ 
+ 
+ 
+  
+
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+5. ADICIONANDO A AMOSTRA NO GEL 
+ 
+Visualize as amostras amplificadas clicando com o botão esquerdo do mouse na câmera 
+“Pipetagem de eletroforese” ou através do atalho do teclado “Alt+9”. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta para 1 μl e pipete o tampão TAE 5x clicando com o botão 
+direito do mouse sobra a micropipeta e selecionando a opção “Colocar em TAE 5x”. 
+ 
+  
+
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Despreze o líquido pipetado no tubo de controle negativo clicando com o botão direito 
+do mouse na micropipeta e selecionando a opção “Colocar em tubo controle”. 
+ 
+ 
+ 
+Repita esse processo em todos os tubos. Descarte a ponteira após o uso. 
+ 
+ 
+ 
+  
+
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ajuste o volume da micropipeta para 3 μl e aspire a amostra amplificada clicando com 
+o  botão  direito  do  mouse  sobre  a  micropipeta  e  selecionando  a  opção “Colocar  em 
+eppendorf mãe”. 
+ 
+ 
+ 
+Transfira  a  amostra  para  o  tubo  que  contém  o  tampão  TAE  5x  clicando  com  o  botão 
+direito  na  micropipeta  e  selecionando  a  opção  “Colocar  em  tubo  mãe”. Repita  esse 
+processo com todas as amostras amplificadas.  
+ 
+ 
+ 
+  
+
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Pipete  3 μl  do  padrão  de corrida  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar em padrão de corrida”. 
+ 
+ 
+ 
+Transfira  o  líquido  aspirado  para  o  tubo  com  o  tampão  TAE  5x  clicando  com  o  botão 
+direito do mouse na micropipeta e selecionando a opção “Colocar no tubo padrão”. 
+ 
+ 
+ 
+  
+
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ajuste  o  volume  da  micropipeta  para  4 μl  e  transfira  a  solução  contendo  amostras  + 
+tampão  TAE  5x  para  o  poço  do  gel  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar em poço escola padrão”. 
+ 
+ 
+ 
+Repita esse processo até que todas as amostras sejam colocadas no gel de agarose. 
+ 
+ 
+ 
+  
+
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Visualize a cuba de gel e a fonte elétrica clicando com o botão esquerdo do mouse na 
+câmera “Eletroforese” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Coloque   a   tampa   da   cuba   clicando   com   o   botão   esquerdo   do   mouse   sobre   o 
+equipamento. 
+ 
+ 
+ 
+  
+
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Ligue a fonte de energia clicando com o botão esquerdo do mouse sobre o botão power. 
+ 
+ 
+ 
+Aguarde por 60 minutos. Se preferir, avance o tempo clicando com o botão esquerdo 
+do mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+  
+
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+6. OBSERVANDO O RESULTADO 
+ 
+Retire a tampa da cuba de eletroforese clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Coloque o gel no transiluminador clicando com botão direito do mouse sobre a cuba de 
+eletroforese. 
+ 
+  
+
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+Observe o resultado e selecione a opção correta. 
+ 
+ 
+ 
+  
+
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+REAÇÃO EM CADEIA DA POLIMERASE (PCR) E ELETROFORESE EM GEL DE AGAROSE 
+  
+ 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 

@@ -1,0 +1,426 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+INSTRUCCIONES GENERALES 
+ 
+ 
+1. En este experimento, usted aprenderá sobre la fisiología articular de la columna 
+lumbar y las estructuras anatómicas de las que forma parte. 
+ 
+2. Utilice la sección "Recomendaciones de acceso" para aprovechar al máximo la 
+experiencia virtual y para obtener respuestas a las preguntas frecuentes sobre el 
+VirtuaLab.  
+ 
+3. En caso de que no sepa cómo manipular el laboratorio virtual, utilice el “Tutorial 
+VirtuaLab” presente en este guión. 
+ 
+4. Si   ya   está   familiarizado   con   el   Laboratorio   virtual,   usted   encontrará   las 
+instrucciones para realizar esta práctica en la subsección “Procedimientos”. 
+ 
+5. Al final del experimento, responda las preguntas en la sección "Evaluación de los 
+resultados".  
+
+ 
+ 
+2 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+RECOMENDACIONES DE ACCESO 
+ 
+PARA ACCEDER AL VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Si usa Windows 10, dé preferencia al navegador Google Chrome; 
+2. Si usa Windows 7, dé preferencia al navegador Mozilla Firefox; 
+3. Cierre otros programas que puedan sobrecargar su computadora; 
+4. Verifica que su navegador esté actualizado; 
+5. Realice un test de velocidad de internet. 
+ 
+En la siguiente página, presentamos las dos principales dudas en el uso de los Laboratorios 
+Virtuales.  Si  no  se  aplican  a  su  problema,  consulte  nuestra  sección  de "Preguntas 
+Frecuentes", disponible en: https://algetec.movidesk.com/kb/pt-br/  
+En este mismo enlace, podrá utilizar el chat o abrir un llamado para contactar con nuestro 
+centro  de  soporte.  Si  prefiere,  utilice  los  códigos  QR  para  un  contacto  directo  por 
+Whatsapp (8h a 18h) o para ser direccionado al centro de soporte. ¡Cuenta con nosotros! 
+ATENCIÓN: 
+EL LABORATORIO  VIRTUAL DEBE  SER  ACCEDIDO  POR  UNA  COMPUTADORA.  NO  DEBE 
+SER ACCEDIDO POR UN CELULAR O TABLETA. 
+EL REQUISITO MÍNIMO PARA SU COMPUTADORA ES UNA MEMORIA RAM DE 4 GB. 
+SU  PRIMER  ACCESO  SERÁ  UN POCO  MÁS  LENTO,  YA  QUE  ALGUNOS  PLUGINS  SON 
+BUSCADOS  EN  SU  NAVEGADOR.  A  PARTIR  DEL  SEGUNDO  ACCESO,  LA  VELOCIDAD  DE 
+APERTURA DE LOS EXPERIMENTOS SERÁ MÁS RÁPIDA. 
+ 
+
+ 
+ 
+3 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+ 
+PREGUNTAS FRECUENTES 
+ 
+ 
+1)  El laboratorio virtual esta lento, ¿qué debo hacer? 
+ 
+a) En Google Chrome, haga clic en "Configuración" -> "Avanzado" -> "Sistema" -> 
+"Usar aceleración de hardware siempre que esté disponible". Habilite la opción 
+y reinicie el navegador. 
+ 
+b) Verifique  la  configuración  de  su  controlador  de  video  o  equivalente.  En  el 
+escritorio,  haga  clic  con  el  botón  derecho  del  mouse.  Elija  "Configuración  de 
+gráficos" y busque la configuración de rendimiento. Elija la opción de máximo 
+rendimiento.  
+Nota: Los atajos y los procedimientos pueden variar según el controlador 
+de video instalado en la máquina. 
+ 
+c) Cierra otras aplicaciones y pestañas que puedan sobrecargar tu computadora. 
+ 
+d) Verifique  el  uso  del  disco  en  el  administrador  de  tareas  (Ctrl  +  Shift+  Esc) -> 
+"Detalles". Si está al 100%, cierra otras aplicaciones o reinicia tu computadora. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+2) El laboratorio presentó una pantalla negra, ¿cómo proceder? 
+ 
+a) En Google Chrome, haga clic en "Configuración" -> "Avanzado" -> "Sistema" -> 
+"Usar aceleración de hardware siempre que esté disponible". Habilite la opción 
+y reinicie el navegador. Si persiste, deshabilite la opción y vuelva a intentarlo. 
+ 
+b) Verifique  la  configuración  de  su  controlador  de  video  o  equivalente.  En  el 
+escritorio,  haga  clic  con  el  botón  derecho  del  mouse.  Elija  "Configuración  de 
+gráficos" y busque la configuración de rendimiento. Elija la opción de máximo 
+rendimiento.  
+Nota: Los atajos y los procedimientos pueden variar según el controlador 
+de video instalado en la máquina. 
+ 
+c) Asegúrese de que su navegador esté actualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+5 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONOCIENDO LA INTERFAZ 
+ 
+Esta es la interfaz general. Observa que existen muchos elementos y hablaremos de la 
+función de cada uno de ellos en los ítems a continuación. 
+ 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Es importante que haya ampliado la pantalla del experimento para que las funciones de 
+navegación no entren en conflicto con las funciones del experimento. Luego, cuando la 
+pantalla  se  expande, usted  podrá rotar  el  modelo al  mantener presionado  el  botón 
+derecho del mouse y moviéndolo. 
+ 
+  
+ 
+Controle el  zoom haciendo  clic  con  el  botón  izquierdo  del  mouse  en  los botones  de 
+“Zoom +” y “Zoom -” o use el botón de desplazamiento del mouse. 
+ 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Mueva el modelo en diferentes ángulos haciendo clic con el botón izquierdo del mouse 
+en los botones indicados. 
+ 
+ 
+ 
+Mueva  el  modelo  (derecha,  izquierda,  arriba  y abajo) haciendo  clic  con  el  botón 
+izquierdo del mouse en los botones indicados. 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Restablezca  la  posición  original  haciendo  clic  con  el  botón  izquierdo  del  mouse  en  la 
+ubicación indicada. 
+ 
+ 
+ 
+Vea las opciones haciendo clic con el botón izquierdo del mouse en la ubicación indicada. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Elija  el  modo  de  modelo  haciendo  clic  con  el  botón  izquierdo  del mouse en  el  botón 
+señalado y seleccione una de las opciones: Modo instructivo o Modo cadavérico. 
+ 
+ 
+ 
+Vea el nombre de la pieza colocando el cursor del mouse sobre la pieza de interés. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Seleccione la pieza haciendo clic con el botón izquierdo del mouse en la pieza de interés. 
+ 
+ 
+ 
+Obtenga información sobre la pieza a analizar haciendo clic con el botón izquierdo del 
+mouse en “Información” y seleccione una de las opciones a estudiar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Seleccione la guía de estudio haciendo clic con el botón izquierdo del mouse en “Guía”. 
+ 
+ 
+ 
+Comience a leer el sistema, avanza o retroceda haciendo clic con el botón izquierdo del 
+mouse en las flechas.  
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+¡Presta más atención a las partes anatómicas! Aísla la pieza anatómica haciendo clic con 
+el botón izquierdo del mouse sobre la estructura y luego seleccionar “Aislar”. 
+ 
+ 
+ 
+Vuelva  a  la  visualización de  las  otras  estructuras  deshabilitando  la  funcionalidad 
+haciendo clic con el botón izquierdo en "Aislar". 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Seleccione  una pieza e  identifique  las  áreas  individuales  haciendo  clic  con  el  botón 
+izquierdo del mouse en "Punteado". 
+ 
+ 
+ 
+Visualice la  identificación  de  estructuras  con  la función  de pines al pasar  el  cursor del 
+mouse sobre el pin de interés. Cuando termine, desactive la funcionalidad haciendo clic 
+con el botón izquierdo del mouse en "Punteado". 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Seleccione un grupo  anatómico  haciendo  clic  con  el  botón  izquierdo  del  mouse  en 
+"Seleccionar grupo" y seleccione una de las opciones.  
+ 
+ 
+ 
+Después de seleccionar una pieza, elimínela del campo de visualización haciendo clic con 
+el botón izquierdo del mouse en "Ocultar". 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Vuelve a la visualización de otras estructuras deshabilitando la funcionalidad haciendo 
+clic con el botón izquierdo del mouse en "Ocultar". 
+ 
+ 
+ 
+Active la transparencia de la pieza seleccionada haciendo clic con el botón izquierdo del 
+mouse en “Transparencia”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Ajuste  la  transparencia  presionando  y  arrastrando  el  cursor  del  mouse  sobre  la  barra 
+indicada. 
+ 
+ 
+ 
+Seleccione uno de los movimientos haciendo clic con el botón izquierdo del mouse en 
+una de las opciones. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Si es necesario, pausa el movimiento haciendo clic con el botón izquierdo del mouse en 
+la ubicación indicada. 
+ 
+ 
+ 
+Vea otros ángulos de movimiento haciendo clic con el botón izquierdo del mouse en una 
+de las opciones. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+En  las  vistas  laterales,  observe  los  comandos  “Zoom”,  “Vista  de  huesos”,  “Vista  de 
+músculos” y “Vista de articulaciones” al colocar el mouse. Para activar y desactivar las 
+funciones,  haga  clic  con  el  botón  izquierdo  del  mouse  en  la función en  cuestión a 
+analizar. Tenga en cuenta que en la primera vista se activó la funcionalidad “Zoom +”. 
+ 
+ 
+ 
+Vea  el  ángulo  del  movimiento  seleccionado  haciendo  clic  con  el  botón izquierdo  del 
+mouse en "Información". 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Profundizar  en  el  conocimiento  biomecánico  realizando  funcionalidades  cuando  sea 
+necesario. Recuerda seleccionar la parte anatómica y habilitar la funcionalidad.  
+ 
+ 
+ 
+Profundizar  en  el  conocimiento  teórico  de  cada  movimiento  y  estructura  anatómica 
+ejecutando  las  funciones  de  “Información”  de  cada  pieza  anatómica  y  la  “Guía” de 
+estudio. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUCIONES TECNOLÓGICAS EN EDUCACIÓN  
+Código postal: 40260-Teléfono 215: 71 3272-3504  
+Correo electrónico: contacto@algetec.Com.Br  | Sitio web: www.algetec.com.br 
+ 
+Realiza  los  movimientos  y  activa  la Guía  para  comprender  mejor  las  estructuras 
+involucradas. 
+ 
+ 
+ 

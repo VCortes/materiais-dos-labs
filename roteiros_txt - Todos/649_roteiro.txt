@@ -1,0 +1,750 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprender  a  verificar  a  presença  de  antraquinonas 
+nas plantas medicinais, através do teste de Bornträger que possibilita identificar 
+pela mudança de coloração. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança; 
+• Caneta marcadora; 
+• Cáscara sagrada (Rhamnus purshiana); 
+• Espátula; 
+• Ginkgo biloba; 
+• Pipeta graduada com pera (5 mL); 
+• Sene folhas; 
+• Suporte para tubo de ensaio; 
+• Solução de hidróxido de amônia (NH
+4
+OH); 
+• Tesoura; 
+• Tubo de ensaio; 
+• Vidro de relógio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Faça a higienização das mãos na pia. Coloque os equipamentos de proteção individual 
+localizados no “Armário de EPIs”. Para esse experimento será necessário a utilização 
+do jaleco e luvas. 
+ 
+2. REALIZANDO A PESAGEM 
+ 
+Ligue  a  balança.  Mova  o  vidro  de  relógio  1  para  a  balança  e  tare.  Com  auxílio  da 
+espátula,  transfira  0,5  g  de  folhas  secas  de  Ginkgo  biloba  para  o  vidro  de  relógio  1. 
+Mova o vidro de relógio 1 com a amostra para a bancada. Repita os passos anteriores, 
+realizando a pesagem de 0,5 g de cascas de cáscara sagrada e de folhas secas de sene 
+para os vidros de relógio 2 e 3, respectivamente e mova os vidros de relógio com as 
+amostras para a bancada. 
+ 
+3. AUMENTANDO A SUPERFÍCIE DE CONTATO 
+ 
+Com o auxílio da tesoura, corte em pedaços pequenos as folhas do vidro de relógio 1. 
+Limpe a tesoura. Repita o procedimento anterior com os vidros de relógio 2 e 3. 
+ 
+4. TRANSFERINDO A AMOSTRA 
+ 
+Com uma caneta marcadora, identifique os tubos de ensaio com os números 1, 2 e 3. 
+Transfira a amostra do vidro de relógio 1 com auxílio da espátula para o tubo de ensaio 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+  
+1. Limpe a espátula e repita o processo anterior, transferindo as amostras dos vidros 
+de relógio 2 e 3 para os respectivos tubos de ensaio identificados 2 e 3. 
+ 
+5. PIPETANDO A SOLUÇÃO DE AMÔNIA 
+ 
+Mova a pipeta graduada para o béquer contendo solução de amônia e aspire 5 mL do 
+conteúdo.  Mova  a  pipeta  para  o  tubo  de  ensaio  1  e  despeje  a  solução. Repita  o 
+processo  anterior,  movendo  a  pipeta  graduada  para  o  béquer  contendo  solução  de 
+amônia, aspire 5 mL do conteúdo e despeje nos tubos de ensaio 2 e 3. Limpe a pipeta 
+graduada  e  mova  para  o  suporte.  Aguarde  10  segundos  para  a  reação  no  tubo  de 
+ensaio aparecer. Realize a leitura do resultado. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como podem ser classificadas as antraquinonas? Onde podem ser encontradas? 
+ 
+ 
+ 
+2. Qual  é  a  atividade  farmacológica  das  antraquinonas?  Qual  propriedade  é 
+responsável por essa ação? 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+2. REALIZANDO A PESAGEM 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Mover para a balança”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova a amostra clicando com o botão esquerdo do mouse sobre o recipiente indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para balança”. 
+ 
+ 
+ 
+Adicione 0,5 g da amostra clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Mova a amostra clicando com o botão esquerdo do mouse sobre o recipiente indicado. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para balança”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Adicione 0,5 g da amostra clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Repita os procedimentos anteriores, mova o vidro de relógio para a balança e realize a 
+pesagem de 0,5g da amostra. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+3. AUMENTANDO A SUPERFÍCIE DE CONTATO 
+ 
+Corte a amostra clicando com o botão direito do mouse sobre a tesoura e selecione a 
+opção “Cortar amostra 1”. 
+ 
+ 
+ 
+Limpe a tesoura clicando com o botão direito do mouse sobre a tesoura e selecione a 
+opção “Limpar tesoura”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Repita os procedimentos anteriores, corte as amostras 2 e 3. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+4. TRANSFERINDO A AMOSTRA 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Identifique  o  tubo  de  ensaio  clicando  com  o  botão  direito  do  mouse  sobre  o  tubo 
+indicado e selecione a opção “Marcar como 1”.  
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Repita o procedimento anterior, identifique os tubos de ensaio 2 e 3. 
+ 
+ 
+ 
+Visualize os vidros de relógio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Vidrarias” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Visualize os vidros de relógio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Vidrarias” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Limpe a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Limpar espátula”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, transferindo as amostras dos vidros de relógio 2 e 
+3 para os respectivos tubos de ensaio identificados. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+5. PIPETANDO A SOLUÇÃO DE AMÔNIA 
+ 
+Visualize os vidros de relógio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Vidrarias” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova  a  pipeta  graduada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  pipeta 
+graduada e selecione a opção “Mover para béquer com reagente”. 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  graduada  e 
+selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Introduza a pipeta clicando com o botão esquerdo do mouse sobre a pipeta e selecione 
+a opção “Introduzir pipeta no béquer”. 
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  graduada  e 
+selecione a opção “Visualizar pera”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Aspire 5 mL da amônia pressionando o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  graduada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  pipeta 
+graduada e selecione a opção “Mover para o tubo de ensaio”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  graduada  e 
+selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje 5 mL da amônia pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Limpe a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Limpar vidraria”. 
+ 
+ 
+ 
+Mova  a  pipeta  graduada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  pipeta 
+graduada e selecione a opção “Mover para béquer com reagente”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Repita os procedimentos anteriores, despeje 5 mL de amônia nos tubos de ensaio 2 e 3. 
+ 
+ 
+ 
+Aguarde por 10 segundos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Pular”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+Avalie as amostras clicando com o botão esquerdo do mouse sobre a aba resultado. 
+ 
+ 
+ 
+Classifique  cada  amostra  clicando  com  o  botão  esquerdo  do  mouse  sobre  as  regiões 
+indicadas. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOGNOSIA 
+IDENTIFICAÇÃO QUÍMICA DE ANTRAQUINONAS LIVRES EM PLANTAS MEDICINAIS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também, com 
+os conhecimentos aprendidos sobre o tema.  
+ 

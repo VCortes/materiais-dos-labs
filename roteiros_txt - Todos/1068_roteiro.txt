@@ -1,0 +1,262 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a reatividade 
+química  de  aldeídos  e  cetonas.  Esses  testes permitem  realizar a  diferenciação 
+entre aldeídos e cetonas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acetaldeído; 
+• Acetona; 
+• Banho-maria; 
+• Béquer de 500 mL; 
+• Capela com exaustor; 
+• Hidróxido de amônia (NH
+4
+OH); 
+• Nitrato de prata 10% (AgNO
+3
+); 
+• Pipeta Pasteur 3 mL; 
+• Pipeta graduada 5 mL; 
+• Reagente Fehling A; 
+• Reagente Fehling B; 
+• Solução de hidróxido de sódio (NaOH) 6,0 M/; 
+• Tubo de ensaio. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, luvas, 
+óculos e máscara. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Ligue a luz e o exaustor da capela e, em seguida, mova os materiais necessários para 
+o interior da capela. 
+ 
+3. REALIZANDO O TESTE COM REAGENTE DE TOLLENS 
+ 
+Pipete 1 mL de nitrato de prata e transfira o conteúdo para o tubo de ensaio 1. Repita 
+o procedimento anterior e transfira 1 mL de nitrato de prata para o tubo 2. Descarte 
+a pipeta Pasteur. Utilizando a pipeta graduada, pipete 1 mL do hidróxido de sódio e 
+transfira 10 gotas para o tubo 1. Repita o procedimento anterior e transfira 10 gotas 
+do  hidróxido  de  sódio para  o  tubo  2.  Limpe  a  pipeta  e  retorne-a  para  o  suporte. 
+Homogeneíze os tubos 1 e 2. Utilizando a pipeta Pasteur, pipete 1 mL de hidróxido de 
+amônia e transfira 5 gotas para o tubo 1. Repita o procedimento anterior e transfira 5 
+gotas de hidróxido de amônia para o tubo 2. Descarte a pipeta Pasteur e homogeneíze 
+os tubos 1 e 2. Com auxílio da pipeta Pasteur, pipete 2 mL de acetaldeído e transfira 
+15 gotas para o tubo de ensaio 1. Descarte a pipeta, homogeneíze o tubo 1 e observe 
+o resultado. Com auxílio da pipeta Pasteur, pipete 2 mL de acetona e transfira 15 gotas 
+para  o  tubo  de  ensaio  2.  Descarte  a  pipeta,  homogeneíze  o  tubo  2  e  observe  o 
+resultado. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+  
+4. REALIZANDO O TESTE COM O REAGENTE DE FEHLING 
+ 
+Utilizando a pipeta Pasteur, pipete 1 mL do reagente Fehling A e transfira para o tubo 
+de ensaio 3. Repita o procedimento anterior e transfira 1 mL do reagente Fehling A 
+para  o  tubo  4. Descarte  a  pipeta. Com  auxílio  da pipeta  Pasteur, pipete  1  mL  do 
+reagente Fehling B transfira para o tubo de ensaio 3. Repita o procedimento anterior 
+e transfira 1 mL do reagente Fehling B para o tubo 4. Descarte a pipeta. Homogeneíze 
+os  tubos de  ensaio  1  e  2, até  obter  uma  dissolução  completa. Pipete  2  mL  do 
+acetaldeído,  com  a  pipeta  Pasteur  e  transfira  15  gotas para  o  tubo  3. Descarte  a 
+pipeta. Pipete 1 mL da acetona, com a pipeta Pasteur e transfira 10 gotas para o tubo 
+4. Descarte  a  pipeta.  Ligue  o  banho-maria  e  mova  os  tubos  para  o  equipamento. 
+Observe o resultado. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+REATIVIDADE QUÍMICA DE ALDEÍDOS E CETONAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O    que    faz    com    que    o    líquido    do    tubo    1    apresente    um    aspecto 
+prateado/espelhado? 
+ 
+ 
+ 
+2. Por que o conteúdo dos tubos 3 e 4 mudam a coloração ao adicionar acetaldeído 
+e acetona respectivamente? 
+ 
+ 
+ 

@@ -1,0 +1,1215 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá aprender  a  realizar  uma  técnica  de  controle  de 
+qualidade de formas farmacêuticas sólidas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança; 
+• Balão volumétrico de 50 mL; 
+• Balão volumétrico de 100 mL; 
+• Bastão de vidro; 
+• Béquer de 250 mL; 
+• Comprimido de furosemida; 
+• Cubeta; 
+• Espátula metálica; 
+• Espectrofotômetro; 
+• Funil; 
+• Gral e pistilo; 
+• Papel de pesagem; 
+• Papel filtro; 
+• Pinça metálica; 
+• Pipeta volumétrica de 1 mL; 
+• Proveta de 50 mL; 
+• Solução NaOH 0,1 M. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e máscara. 
+ 
+2. PESANDO A AMOSTRA 
+ 
+Ligue a balança e mova o papel de pesagem para ela. Tare a balança. Pegue um comprimido 
+de furosemida  com  a pinça  metálica  e  mova-o  para  a  balança.  Observe o  peso  e transfira o 
+comprimido com a pinça para o gral. 
+ 
+3. PREPARANDO A AMOSTRA 
+ 
+Triture  a  amostra  que  está  no  gral  com  o  pistilo e transfira  com  a  espátula  para  o  balão 
+volumétrico de 100 mL. Mova a garrafa com NaOH para a proveta e mensure 50 mL do líquido. 
+Mova o funil para o balão volumétrico e, com o auxílio dele, transfira o NaOH da proveta para 
+o balão. Limpe o funil. Homogeneíze o conteúdo do balão volumétrico por 10 minutos. Mova 
+o recipiente com NaOH para o balão volumétrico e complete o volume da vidraria até a marca 
+de aferição, com auxílio do funil. Limpe o funil. Homogeneíze o conteúdo do balão volumétrico 
+por 10 minutos. 
+ 
+4. DILUINDO A AMOSTRA 
+ 
+Mova o funil para o béquer de 250 mL e posicione o papel filtro sobre ele. Em seguida, filtre 5 
+mL  da  solução  do  balão  volumétrico  para  o  béquer. Descarte  o  papel  filtro  e  retire  o  funil. 
+Despreze o conteúdo que foi filtrado no béquer. Repita o procedimento anterior e filtre todo 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+  
+o conteúdo do balão volumétrico para o béquer de 250 mL. Descarte o papel filtro e limpe o 
+balão volumétrico. Mova a pipeta volumétrica de 1 mL para o béquer, aspire 1 mL do conteúdo 
+e transfira-o para o balão volumétrico de 50 mL. Mova o recipiente com NaOH para o balão 
+volumétrico de 50 mL e, com auxílio do funil, complete o volume da vidraria até a marca de 
+aferição. Tampe o balão e homogeneíze o conteúdo por 10 minutos. 
+ 
+5. ANALISANDO A AMOSTRA 
+ 
+Mova a pipeta volumétrica para a garrafa de NaOH e aspire 1 mL do conteúdo. Em seguida, 
+transfira  o  conteúdo da pipeta  para  a  cubeta  1. Limpe  a  pipeta  volumétrica. Mova a  pipeta 
+para o balão volumétrico, aspire 1 mL do conteúdo do balão e transfira para a cubeta 2. Ligue 
+o   espectrofotômetro   e   configure   o   comprimento   de   onda   em   271   nm.   Abra   o 
+espectrofotômetro,  coloque  a  cubeta  1  e  feche-o.  Zere  o  equipamento,  abra-o  e retire  a 
+cubeta 1. Mova a cubeta 2 para o equipamento e feche-o. Realize a leitura da amostra e repita 
+a leitura mais duas vezes. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por    que    é    necessário    realizar    mais    de    uma    leitura    da    amostra    no 
+espectrofotômetro?  
+ 
+ 
+ 
+2. Por qual motivo os primeiros 5 mL filtrados no béquer foram desprezados? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+2. PESANDO A AMOSTRA 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” localizada  dentro  do  painel  de  visualização  no  canto  superior esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova o papel de pesagem clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a balança”. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Abra o frasco do comprimido de furosemida clicando com o botão esquerdo do mouse 
+sobre a tampa. 
+ 
+ 
+ 
+Mova  o  frasco  clicando  com o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Coloque um comprimido na balança clicando com o botão esquerdo do mouse sobre a 
+pinça. 
+ 
+ 
+ 
+Transfira o comprimido para o gral clicando com o botão direito do mouse sobre o papel 
+de pesagem e selecione a opção “Transferir para o gral”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+3. PREPARANDO A AMOSTRA 
+ 
+Triture o comprimido clicando com o botão direito do mouse sobre o pistilo e selecione 
+a opção “Triturar conteúdo do gral”. 
+ 
+ 
+ 
+Aguarde  por  3  minutos  ou avance  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão “Avançar”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+Mova o frasco clicando com o botão direito do mouse sobre o frasco e selecione a opção 
+“Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova  o  papel  de  pesagem  clicando  com  o  botão  direito  do  mouse  sobre  o  papel  de 
+pesagem e selecione a opção “Mover para a balança”. 
+ 
+ 
+ 
+Visualize o   menu   de câmeras clicando   com   o   botão   esquerdo   do   mouse   em 
+“Visualização”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a tampa clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Retirar tampa”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para o balão de 100 mL”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Transfira o conteúdo do gral clicando com o botão esquerdo do mouse sobre o gral. 
+ 
+ 
+ 
+Mova a garrafa com NaOH clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Mover para a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mensure  50  mL da  solução  clicando  com  o botão  esquerdo do  mouse  sobre a  garrafa 
+âmbar. 
+ 
+ 
+ 
+Mova  a  garrafa  de  NaOH  clicando  com  o  botão  direito  do  mouse  sobre  a  garrafa  e 
+selecione a opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Transfira o NaOH clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Transferir para o balão 100 mL”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Limpe o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Limpar funil”.  
+ 
+ 
+ 
+Coloque  a  tampa  clicando  com  o  botão  direito  do  mouse  sobre  o  balão  e  selecione  a 
+opção “Colocar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Homogeneíze o conteúdo do balão clicando com o botão direito do mouse sobre o balão 
+volumétrico e selecione a opção “Homogeneíze o conteúdo”.  
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a tampa clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Retirar tampa”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para o balão 100 mL”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova  o  recipiente  com NaOH clicando  com o botão  direito  do  mouse  sobre  a  garrafa 
+âmbar e selecione a opção “Mover para o balão 100 mL”. 
+ 
+ 
+ 
+Complete o volume da vidraria até a marca de aferição clicando com o botão esquerdo 
+do mouse sobre a garrafa âmbar.  
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a garrafa de NaOH clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Limpe o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Limpar funil”. 
+ 
+ 
+ 
+Coloque  a  tampa  clicando  com  o  botão  direito  do  mouse  sobre  o  balão  e  selecione  a 
+opção “Colocar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Homogeneíze   o   conteúdo clicando   com   o   botão   direito   do   mouse   sobe balão 
+volumétrico e selecione a opção “Homogeneíze o conteúdo”. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+4. DILUINDO A AMOSTRA 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para o béquer”. 
+ 
+ 
+ 
+Posicione  o  papel  filtro clicando  com  o  botão  direito  do  mouse  sobre  o  papel  filtro  e 
+selecione a opção “Mover para o funil”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire  a  tampa clicando  com  o  botão  direito  do  mouse  sobre  o  balão  volumétrico  e 
+selecione a opção “Retirar tampa”. 
+ 
+ 
+ 
+Filtre 5 mL da solução clicando com o botão direito do mouse sobre o balão volumétrico 
+e selecione a opção “Transferir para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Descarte  o  papel  filtro clicando  com  o  botão  direito  do  mouse  sobre  o  papel  filtro  e 
+selecione a opção “Descartar papel”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Limpe o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Limpar funil”. 
+ 
+ 
+ 
+Despreze  o  conteúdo  que  foi  filtrado clicando  com  o  botão  direito  do  mouse  sobre  o 
+béquer e selecione a opção “Limpar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Repita os procedimentos anteriores, mova o funil e papel filtro para o béquer, mova o 
+balão volumétrico de 100 mL e filtre todo o conteúdo do balão no béquer de 250 mL. 
+Descarte  o  papel  filtro,  mova  o  funil  para  a  bancada  e  limpe  o  funil. Limpe  o  balão 
+volumétrico.  
+ 
+ 
+ 
+Mova a pipeta volumétrica de 1 mL clicando com botão direito do mouse sobre a pipeta 
+e selecione a opção “Mover para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar a pera”. 
+ 
+ 
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre o centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Desça a pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Aspire 1 mL do conteúdo clicando com o botão esquerdo do mouse sobre a válvula S. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o balão 50 mL”. 
+ 
+ 
+ 
+Retire  a  tampa  do  balão  clicando  com  o  botão  direito  do  mouse  sobre  o balão  e 
+selecione a opção “Retirar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Desça a pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Visualize  a  pera clicando  com  o  botão direito  do  mouse  sobre  a  pipeta e  selecione  a 
+opção “Visualizar a pera”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a válvula E. 
+ 
+ 
+ 
+Limpe a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Limpar a pipeta”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para o balão 50 mL”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a garrafa com NaOH clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Mover para o balão 50 mL”. 
+ 
+ 
+ 
+Complete o volume da vidraria até a marca de aferição clicando com o botão esquerdo 
+do mouse sobre a garrafa âmbar. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a garrafa com NaOH clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Repita os procedimentos citados anteriormente, mova o funil para a bancada e limpe o 
+funil. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Tampe o balão clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Colocar tampa”. 
+ 
+ 
+ 
+Homogeneíze o conteúdo por 10 minutos clicando com o botão direito do mouse sobre 
+o balão e selecione a opção “Homogeneíze o conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+5. ANALISANDO A AMOSTRA 
+ 
+Mova  a  pipeta volumétrica clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e 
+selecione a opção “Mover para a garrafa NaOH”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, visualize a pera, esvazie o centro da pera, desça a 
+pipeta, aspire 1 mL do conteúdo e mova a pipeta para a cubeta 1. 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a tampa clicando com o botão direito do mouse sobre a cubeta 1 e selecione a 
+opção “Retirar tampa”. 
+ 
+ 
+ 
+Repita os procedimentos citados anteriormente, desça a pipeta e transfira o conteúdo. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Limpe  a pipeta  volumétrica clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e 
+selecione a opção “Limpar a pipeta”.  
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o balão 50 mL”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a tampa clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Retirar tampa”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  visualize  a  pera,  esvazie  a  pera,  desça  a  pipeta, 
+aspire 1 mL do conteúdo do balão e mova para a cubeta 2. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a tampa clicando com o botão direito do mouse sobre a cubeta 2 e selecione a 
+opção “Retirar tampa”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, desça a pipeta e transfira o conteúdo para a cubeta 
+2. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Repita os procedimentos citados anteriormente, limpe a pipeta e mova para o suporte. 
+ 
+ 
+ 
+Ligue   o   espectrofotômetro clicando   com   o   botão   direito   do   mouse   sobre   o 
+espectrofotômetro e selecione a opção “Ligar espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Ajuste o comprimento de onda clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Configure o  comprimento  de  onda para 271 nm utilizando  o  seu  teclado  numérico  e 
+confirme clicando com o botão esquerdo do mouse em “Ajustar”. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Abra   o   espectrofotômetro clicando   com   o   botão   direito   do   mouse   sobre   o 
+espectrofotômetro e selecione a opção “Abrir tampa”. 
+ 
+ 
+ 
+Feche  a  cubeta  1 clicando  com  o  botão  direito  do  mouse  sobre a  cubeta  indicada e 
+selecione a opção “Colocar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a  cubeta 1 clicando  com  o  botão  direito  do  mouse  sobre a  cubeta  indicada e 
+selecione a opção “Mover para o espectrofotômetro”. 
+ 
+ 
+ 
+Feche o equipamento clicando    com    o    botão    direito    do    mouse    sobre    o 
+espectrofotômetro e selecione a opção “Fechar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Zere o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra o equipamento clicando com o botão direito do mouse sobre o espectrofotômetro 
+e selecione a opção “Abrir tampa”. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Retire a cubeta 1 clicando com o botão direito do mouse sobre a cubeta e selecione a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Coloque a tampa da cubeta 2 clicando com o botão direito do mouse sobre a cubeta 2 e 
+selecione a opção “Colocar tampa”. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Mova a cubeta 2 clicando com o botão direito do mouse sobre a cubeta 2 e selecione a 
+opção “Mover para o espectrofotômetro”. 
+ 
+ 
+ 
+Feche o equipamento clicando    com    o    botão    direito    do    mouse    sobre    o 
+espectrofotômetro e selecione a opção “Fechar tampa”.  
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+Realize  a  leitura da  amostra clicando com o  botão esquerdo do  mouse  sobre  o botão 
+indicado. 
+ 
+ 
+ 
+Repita a leitura mais duas vezes. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE FORMAS FARMACÊUTICAS SÓLIDAS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

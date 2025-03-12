@@ -1,0 +1,490 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste     experimento,    você     irá     aprender    a realizar     uma     tomografia 
+computadorizada de crânio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Almofadas laterais; 
+• Álcool 70%; 
+• Jaleco; 
+• Luvas; 
+• Máscara descartável; 
+• Papel toalha; 
+• Suporte de crânio; 
+• Tomógrafo. 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO AS ETAPAS DO PROTOCOLO 
+ 
+Inicie o laboratório e enumere as etapas que são necessárias para executar corretamente o 
+protocolo. 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Veja a lista de EPIs necessários para este procedimento. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+  
+3. ORGANIZANDO O AMBIENTE 
+ 
+Higienize os equipamentos com álcool 70%, em seguida chame o paciente. 
+ 
+4. EXECUTANDO O EXAME 
+ 
+Solicite  que  o  paciente  deite em  decúbito  dorsal, posicione  a  mesa.  Inicie  o  procedimento, 
+selecione a região anatômica e a posição do paciente. Verifique as imagens capturadas.  
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Dispense o paciente e higienize os equipamentos. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como a TC de Crânio é realizada e qual é a duração típica do procedimento? 
+ 
+ 
+ 
+2. Quais  são  as  principais  estruturas  anatômicas  que  podem  ser  avaliadas  com 
+precisão por meio da Tomografia Computadorizada de Crânio? 
+ 
+ 
+ 
+3. Quais  são  as  vantagens da  Tomografia  Computadorizada de  Crânio  em termos 
+de  rapidez  e  acessibilidade  em  comparação  com  outros  métodos  de  imagem 
+cerebral? 
+ 
+ 
+ 
+4. Como  a  Tomografia  Computadorizada  de  Crânio  difere  de  outros métodos  de 
+imagem,  como  a  ressonância  magnética,  no  que  diz  respeito  à  visualização  do 
+cérebro? 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO AS ETAPAS DO PROTOCOLO 
+ 
+Inicie o laboratório clicando com o botão esquerdo do mouse em “Começar”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Visualize as etapas do procedimento clicando com o botão esquerdo do mouse sobre a 
+caixa indicada. 
+ 
+ 
+ 
+Selecione  o  procedimento equivalente  a  etapa  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele. Enumere todas as 5 etapas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Avance no experimento clicando com o botão esquerdo do mouse em “Concluir”. 
+ 
+ 
+ 
+Visualize todos  os  EPIs  que  serão  utilizados e  leia a  descrição  clicando  com  o  botão 
+esquerdo do mouse na barra de rolagem. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+3. ORGANIZANDO O AMBIENTE 
+ 
+Feche a janela de EPIs clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Visualize o carrinho clicando com o botão esquerdo do mouse na câmera com o nome 
+“Carrinho” localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Higienize  os  equipamentos  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  álcool 
+70%. 
+ 
+ 
+ 
+Chame o paciente clicando com o botão esquerdo do mouse em “Chamar Paciente”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+4. EXECUTANDO O EXAME 
+ 
+Visualize a sala de imagem clicando com o botão esquerdo do mouse na câmera com o 
+nome “Sala de imagem” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Solicite que o paciente sente na mesa clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Sentar”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Solicite  que  o  paciente  deite  clicando com o  botão  direito  do  mouse  sobre ele e 
+selecione a opção “Deitar”. 
+ 
+ 
+ 
+Posicione a mesa para o exame clicando com o botão esquerdo do mouse no tomógrafo. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Vá para a sala técnica clicando com o botão esquerdo do mouse na câmera com o nome 
+“Sala técnica” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Inicie o exame clicando com o botão esquerdo do mouse sobre o computador. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Preencha  os  dados  do paciente  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado e utilizando o teclado do seu computador digite as informações. 
+ 
+ 
+ 
+Salve os dados clicando com o botão esquerdo do mouse em “Salvar dados”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Preencha as configurações do aparelho clicando com o botão esquerdo do mouse sobre 
+cada configuração e selecione uma das opções. 
+ 
+ 
+ 
+Inicie o exame clicando com o botão esquerdo do mouse em “INICIAR EXAME”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+Feche a página clicando com o botão esquerdo do mouse no “X”. 
+ 
+ 
+ 
+Visualize a sala de imagem clicando com o botão esquerdo na câmera com o nome “Sala 
+de imagem” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Dispense o paciente clicando com o botão direito do mouse no paciente e selecione a 
+opção “Dispensar”. 
+ 
+ 
+ 
+Higienize os equipamentos clicando com o botão esquerdo do mouse no álcool 70%. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIAGNÓSTICO POR IMAGEM 
+TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

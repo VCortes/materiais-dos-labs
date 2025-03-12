@@ -1,0 +1,451 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a utilização da 
+fita reagente na avaliação da urina. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Coletor de urina; 
+• Fita reagente; 
+• Papel toalha. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, luvas, óculos e 
+máscara. 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide o paciente a entrar e realize a anamnese. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+  
+3. PREPARANDO O PACIENTE 
+ 
+Entregue ao paciente o recipiente para a coleta da urina e o oriente sobre como ela deve ser 
+feita. Em seguida, encaminhe o paciente para o banheiro, onde ele irá realizar a coleta. 
+ 
+4. REALIZANDO A AVALIAÇÃO 
+ 
+Receba  o  coletor  contendo  a  amostra  do  paciente  e  destampe-o.  Pegue  a  fita  reagente  e 
+introduza  na  amostra.  Em  seguida,  retire  a  fita  da  urina,  remova  o  excesso  de  líquido 
+encostando  a  fita  em  um  papel  toalha  e,  compare  os  resultados  da  fita  com  a  tabela  do 
+fabricante. Explique o resultado para o paciente e registre-o no prontuário. Por fim, descarte 
+a  fita  reagente  no  lixo  para  risco  biológico.  Chame  o  próximo  paciente  e  repita  as  etapas 
+anteriores. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais instruções devem ser dadas ao paciente antes de realizar a coleta?  
+ 
+ 
+ 
+2. Por  que  a fita  reativa  deve  ser  descartada em  lixo  de  risco biológico  e  não  em 
+resíduo comum?  
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir utilize o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize  a  mesa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa de atendimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide a paciente para entrar clicando com o botão esquerdo do mouse em “Convidar 
+paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse sobre a prancheta. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Peça que o paciente assine o termo de consentimento clicando com o botão direito do 
+mouse sobre ela e selecione a opção “Assinar consentimento”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+3. PREPARANDO O PACIENTE 
+ 
+Entregue o coletor para a paciente clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Entregar a paciente”. 
+ 
+ 
+ 
+Solicite que a paciente realize a coleta clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Fazer a coleta de urina”. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+4. REALIZANDO A AVALIAÇÃO 
+ 
+Mova  a  amostra  para  a mesa  auxiliar  clicando  com  o  botão  direito do mouse sobre o 
+coletor e selecione a opção “Mover para mesa auxiliar”. 
+ 
+ 
+ 
+Realize  a  avaliação  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  caixa  de  fita 
+reagente. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Seque a fita no papel toalha clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Preencha a avaliação da fita reagente de acordo com a tabela de coloração clicando com 
+o botão esquerdo do mouse sobre cada campo indicado e digite através do teclado da 
+sua máquina. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Feche a prancheta clicando com o botão esquerdo do mouse no “X”. 
+ 
+ 
+ 
+Chame  a  próxima paciente  clicando  com  o  botão  esquerdo  do  mouse  em  “Convidar 
+paciente”.  
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+Repita os procedimentos anteriores para a nova paciente. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+AVALIAÇÃO DA URINA: FITA REAGENTE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção “Avaliação dos Resultados”, localizada  na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,906 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre dosagem 
+bioquímica do  colesterol  total  por  meio  de  uma reação  colorimétrica. Esta 
+técnica é realizada através de um método analítico que se baseia na interação 
+da matéria com a radiação eletromagnética, calculando o quanto é absorvido e 
+quanto é transmitido, com o uso do espectrofotômetro. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Banho-maria; 
+• Caneta marcadora; 
+• Cubeta; 
+• Espectrofotômetro; 
+• Kit Colesterol total (reagente de trabalho e solução padrão de colesterol); 
+• Micropipeta de 100 μL; 
+• Micropipeta de 1000 μL; 
+• Ponteira para micropipeta; 
+• Recipiente de descarte; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Suporte para tubo de ensaio; 
+• Tubo de coleta com amostra de soro; 
+• Tubo de ensaio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário  de  EPIs”. Nesse  experimento,  é  obrigatório  o  uso  de jaleco,  luvas  e  óculos  de 
+proteção. 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Identifique o primeiro tubo de ensaio com a sigla A. Identifique o segundo tubo de ensaio com 
+a sigla B, o terceiro tubo de ensaio com a sigla P. Em seguida faça a identificação das cubetas. 
+Identifique a primeira cubeta com a sigla A; identifique a segunda cubeta com a sigla B, e por 
+fim, identifique a terceira cubeta com a sigla P. 
+ 
+3. ADICIONANDO A AMOSTRA 
+ 
+Pipete 1000 μL do reagente de trabalho. Transfira a solução pipetada para o tubo de ensaio B 
+(branco). Em seguida, pipete 1000 μL do reagente de trabalho e transfira para o tubo B. Repita 
+as etapas  de  pipetagem  e  transfira  o  reagente  de  trabalho  para  o  tubo  de  ensaio  P  e  A. 
+Descarte a ponteira. Ajuste o volume da micropipeta de 100 μL para 20 μL. Pipete 20 μL da 
+solução  padrão  e transfira  a  solução  pipetada para  o  tubo  de  ensaio  P  (padrão).  Descarte  a 
+ponteira  e  pipete  20  μL  da  amostra  de  soro.  Transfira  a  amostra  pipetada  para  o  tubo  de 
+ensaio  A  (amostra)  e  descarte  a  ponteira.  Homogeneíze  a  solução  agitando  o  tubo  por  20 
+segundos. Mova os tubos para o banho-maria. Ligue o banho-maria e aguarde por 10 minutos. 
+Retire os tubos de ensaio do banho-maria. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+  
+4. REALIZANDO A LEITURA NO ESPECTROFOTÔMETRO 
+ 
+Ligue  o  espectrofotômetro  e  configure  o  comprimento  de  onda  para  505  nm.  Abra  o 
+equipamento. Pipete 1000 μL do conteúdo do tubo B e transfira o conteúdo para a cubeta B. 
+Descarte a ponteira. Coloque a cubeta do branco (B) no equipamento e feche o equipamento. 
+Zere o equipamento. Abra e retire a cubeta do espectrofotômetro. Em seguida, pipete 1000 
+μL do conteúdo do tubo P e transfira o conteúdo para a cubeta P. Descarte a ponteira. Coloque 
+a  cubeta  com  a  solução  padrão  (P)  no  espectrofotômetro,  feche  o  equipamento  e  realize  a 
+leitura. Retire a cubeta P. Pipete 1000 μL do conteúdo do tubo A e transfira o conteúdo para 
+a cubeta A. Descarte a ponteira. Coloque a cubeta com a amostra (A) e realize a leitura. Abra 
+o equipamento e retire a cubeta. Feche o equipamento. Calcule a concentração de colesterol 
+na amostra utilizando a seguinte fórmula: Colesterol (mg/dL) = Abs. amostra / Abs. padrão x 
+200. Preencha o laudo com o resultado encontrado. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual é o conceito da espectrofotometria? 
+ 
+ 
+ 
+2. O que é absorbância e transmitância? 
+ 
+ 
+ 
+3. Explique o tipo de reação bioquímica que ocorreu na realização do teste? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas.  
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre ele. Nesse experimento, é obrigatório o uso de: jaleco, luvas e óculos. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas.  
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Identifique  a  cubeta  e  os  tubos  de  ensaio clicando  com  o  botão  esquerdo  do  mouse 
+sobre a caneta marcadora.  
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+3. ADICIONANDO A AMOSTRA 
+ 
+Pipete 1000 μL do reagente de trabalho clicando com o botão direito do mouse sobre a 
+micropipeta e selecione a opção “Colocar em reagente de trabalho”.  
+ 
+ 
+ 
+Transfira a solução pipetada clicando com o botão direito do mouse sobre a micropipeta 
+e selecione a opção: “Colocar em tubo de ensaio B”. 
+ 
+   
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Repita os procedimentos anteriores, pipete 1000 μL do reagente de trabalho e transfira 
+para o tubo de ensaio B.  
+ 
+ 
+ 
+Repita os procedimentos anteriores, pipete 1000 μL do reagente de trabalho, transfira 
+para o tubo de ensaio P, pipete 1000 μL do reagente de trabalho e transfira para o tubo 
+de ensaio P.  
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Repita os procedimentos anteriores, pipete 1000 μL do reagente de trabalho, transfira 
+para o tubo de ensaio A, pipete 1000 μL do reagente de trabalho e transfira para o tubo 
+de ensaio A.  
+ 
+ 
+ 
+Descarte  a  ponteira  clicando com  o  botão direito do  mouse  sobre  a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão direito do  mouse  sobre a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 20 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “OK”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Pipete  20  μL  da  solução  padrão  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Colocar em solução padrão”. 
+ 
+ 
+ 
+Transfira a solução pipetada clicando com o botão direito do mouse sobre a micropipeta 
+e selecione a opção “Colocar em tubo de ensaio P”.  
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Descarte  a  ponteira  clicando  com  o  botão direito do  mouse  sobre  a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Pipete  20  μL  da  amostra  de  soro  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Colocar em amostra de soro”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Transfira a solução pipetada clicando com o botão direito do mouse sobre a micropipeta 
+e selecione a opção “Colocar em tubo de ensaio A”.  
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Homogeneíze o tubo A clicando com o botão esquerdo do mouse sobre o tubo indicado.  
+ 
+ 
+ 
+Repita o procedimento anterior, homogeneíze o tubo de ensaio P. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o banho-maria. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão direito do mouse sobre o tubo indicado e 
+selecione a opção “Colocar no banho-maria”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Repita o procedimento anterior, mova os tubos de ensaio B e P para o banho-maria. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”.  
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Mova o tubo de ensaio clicando com o botão direito do mouse sobre o tubo de ensaio 
+indicado e selecione a opção “Colocar no suporte”.  
+ 
+ 
+ 
+Repita o procedimento anterior, mova os tubos de ensaio B e P para o suporte. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+4. REALIZANDO A LEITURA NO ESPECTROFOTÔMETRO 
+ 
+Visualize o espectrofotômetro clicando com o botão esquerdo do mouse na câmera com 
+o nome “Espectrofotômetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Ligue o espectrofotômetro clicando com o botão direito do mouse sobre o aparelho.  
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Ajuste o comprimento de onda clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Configure o  comprimento  de  onda para 505 nm utilizando  o  seu  teclado  numérico  e 
+confirme clicando com o botão esquerdo do mouse em “OK”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Abra a tampa do espectrofotômetro clicando com o botão esquerdo do mouse sobre o 
+aparelho. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Pipete 1000 μL do tubo B clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Colocar em tubo de ensaio B”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em cubeta B”.  
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Descarte  a  ponteira  clicando  com  o  botão direito do  mouse  sobre  a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova a cubeta B clicando com o botão direito do mouse sobre a cubeta B e selecione a 
+opção “Colocar no espectrofotômetro”.  
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Tampe  o  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Zere o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Abra   o   espectrofotômetro   clicando   com   o   botão   esquerdo   do   mouse   sobre o 
+equipamento. 
+ 
+ 
+ 
+Mova a cubeta para a bancada clicando com o botão direito do mouse sobre a cubeta e 
+selecione a opção “Colocar na bancada”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Pipete 1000 μL do tubo P clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Colocar em tubo de ensaio P”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  clicando  com  o  botão direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em cubeta P”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Descarte  a  ponteira  clicando  com  o  botão direito do  mouse  sobre  a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova a cubeta P clicando com o botão direito do mouse sobre a cubeta P e selecione a 
+opção “Colocar no espectrofotômetro”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Tampe  o  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+  
+ 
+Realize a leitura clicando com o botão esquerdo do mouse sobre o botão indicado. Anote 
+o valor do resultado da leitura que aparecer no visor do espectrofotômetro. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Abra   o   espectrofotômetro   clicando   com   o   botão   esquerdo   do   mouse   sobre   o 
+equipamento. 
+ 
+ 
+ 
+Mova a cubeta para a bancada clicando com o botão direito do mouse sobre a cubeta e 
+selecione a opção “Colocar na bancada”.  
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Pipete 1000 μL do tubo A clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Colocar em tubo de ensaio A”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em cubeta A”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Descarte a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova a cubeta A clicando com o botão direito do mouse sobre a cubeta A e selecione a 
+opção “Colocar no espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Tampe  o  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Realize a leitura clicando com o botão esquerdo do mouse sobre o botão indicado. Anote 
+o valor do resultado da leitura que aparecer no visor do espectrofotômetro. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Abra   o   espectrofotômetro   clicando   com   o   botão   esquerdo   do   mouse   sobre   o 
+equipamento. 
+ 
+ 
+ 
+Mova a cubeta para a bancada clicando com o botão direito do mouse sobre a cubeta e 
+selecione a opção “Colocar na bancada”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+Visualize o laudo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Insira  o  resultado  do  laudo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  campo 
+indicado   e   digite utilizando   seu   teclado   numérico,   em   seguida,   confirme   em 
+“Responder”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+COLESTEROL TOTAL 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 

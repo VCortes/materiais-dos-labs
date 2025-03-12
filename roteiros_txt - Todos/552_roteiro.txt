@@ -1,0 +1,515 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá identificar características   morfológicas   do 
+Schistosoma mansoni. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Kit de lâminas; 
+• Microscópio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia. Coloque  os equipamentos de  proteção  individual  localizado no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+2. ESCOLHENDO A LÂMINA 
+ 
+Abra o laminário, selecione uma lâmina e mova para o microscópio. No laminário contém 6 
+lâminas:  ovo  de S. mansoni,  miracídio  de S. mansoni,  cercaria  de S. mansoni,  fêmea  de S. 
+mansoni, macho de S. mansoni e cópula de macho e fêmea de S. mansoni. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+  
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue o microscópio. Visualize a lâmina na objetiva de 4x, 10x e 40x. Atente-se à instrução que, 
+para  movimentação  do  revólver  ou  para  efetuar  as  configurações  de  posicionamento  dos 
+parafusos, condensador ou diafragma, deve-se clicar com o botão esquerdo do mouse sobre 
+a área desejada e movimentar o cursor do mouse para direita ou esquerda. 
+ 
+4. REPETINDO A VISUALIZAÇÃO 
+ 
+Retorne a lâmina para o laminário. Selecione as demais lâminas para observação. Desligue o 
+microscópio e higienize-o após concluir as observações. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Dentro   do   ciclo   biológico   deste   parasita,   qual   a   importância   das formas 
+evolutivas? 
+ 
+ 
+ 
+2. Quais os mecanismos de profilaxia para o parasito estudado? 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+2. ESCOLHENDO A LÂMINA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Abra  o  laminário  clicando com  o  botão  esquerdo  do  mouse na  parte  superior  do 
+laminário. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Selecione a primeira lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Visualize  o  interruptor  do  microscópio clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Microscópio Esquerdo” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+ 
+Visualize  a parte frontal do microscópio clicando  com  o  botão  esquerdo do mouse na 
+câmera com o nome “Microscópio Frontal” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Visualize a lâmina nas objetivas de 4x, 10x e 40x pressionando com o botão esquerdo 
+do mouse sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+4. REPETINDO A VISUALIZAÇÃO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores e visualize as demais lâminas.  
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Ao finalizar a visualização das lâminas, feche o laminário clicando com o botão esquerdo 
+do mouse na tampa do laminário. 
+ 
+ 
+ 
+Visualize  o  interruptor  do  microscópio clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Microscópio Esquerdo” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Desligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+Limpe o microscópio clicando com o botão esquerdo do mouse no cotonete, algodão e 
+lenço e papel filtro. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA  
+PLATELMINTOS (SCHISTOSOMA MANSONI) 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

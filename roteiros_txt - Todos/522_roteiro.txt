@@ -1,0 +1,523 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá aprender a realizar o método direto à fresco. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Amostra de Fezes; 
+• Solução Salina 0,85%; 
+• Bastão de vidro; 
+• Hipoclorito de sódio; 
+• Lâmina; 
+• Lamínula; 
+• Pipeta de Pasteur; 
+• Lugol. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+  
+2. DILUINDO A AMOSTRA 
+ 
+Abra o coletor e dilua com solução salina da pisseta no próprio coletor. Em seguida, 
+homogeneíze com bastão de vidro. 
+ 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Transfira uma gota (1 mL) da amostra diluída para a lâmina, com auxílio da pipeta de 
+Pasteur. Em seguida, adicione uma gota de lugol na lâmina e coloque a lamínula por 
+cima. 
+ 
+4. FOCANDO O MICROSCÓPIO 
+ 
+Leve  a  lâmina  para  o  microscópio  e  foque-o  com  auxílio  do  macrométrico  e  do 
+micrométrico 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Para quais ovos é mais indicado esse método? 
+ 
+ 
+ 
+2. Há diferença no tipo de ovo encontrado se a amostra estiver diarreica? 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+2. DILUINDO A AMOSTRA 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra o pote clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Colete a amostra clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Dilua a amostra clicando com o botão esquerdo do mouse sobre a solução de salina. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Homogeneíze a amostra clicando com o botão esquerdo do mouse sobre o bastão de 
+vidro. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Coloque  uma  gota  da  amostra  diluída  na  lâmina clicando  com  o  botão  esquerdo  do 
+mouse sobre a pipeta de Pasteur. 
+ 
+ 
+ 
+Pingue  uma  gota  de  Lugol  sobre  a  lâmina clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Coloque a lamínula sobre a lâmina clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Leve a lâmina ao microscopio clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+4. FOCANDO O MICROSCÓPIO 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue o  microscópio clicando  com  o  botão  esquerdo  do  mouse  sobre  o interruptor 
+localizado no canto inferior direito dele. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Caso o nome das peças do microscópio não esteja aparecendo ao colocar o cursor sobre 
+elas, clique com o botão esquerdo do mouse sobre o box “Habilitar nomes”. 
+ 
+ 
+ 
+Visualize a frente do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Rotacione  as  lentes  objetivas  clicando  com  o  botão  esquerdo  do  mouse  sobre  elas  e 
+movimentando o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+ 
+Ajuste o diafragma clicando com o botão esquerdo do mouse sobre ele e movimentando 
+o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Ajuste  os  parafusos macro  e  micrométrico clicando  com  o  botão  esquerdo  do  mouse 
+sobre eles e movimentando o cursor à esquerda ou à direita enquanto mantém o botão 
+pressionado. 
+ 
+ 
+ 
+Movimente   o   charriot clicando   com   o   botão   esquerdo   do   mouse   sobre   ele   e 
+movimentando o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Lembre-se  que  o  charriot  possui  dois  botões,  superior  e  inferior,  que  permitem 
+movimentar a lâmina para frente/trás e esquerda/direita, respectivamente. Portanto, é 
+necessário   manter   o   cursor   pressionado   no   local   adequado   de   acordo   com   a 
+movimentação que deve ser realizada.  
+ 
+ 
+ 
+Ative o uso do microscópio com as setas do teclado clicando com o botão esquerdo do 
+mouse sobre o box “Usar microscópio com as setas”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+Para  selecionar  a  peça  do  microscópio  que  deseja  movimentar,  utilize  as  setas  do 
+teclado “para cima e para baixo”. Observe que a região selecionada ficará destacada em 
+vermelho  tanto  no  microscópio  como no  esquemático  no  canto  inferior  esquerdo  da 
+tela.  Em  seguida,  realize  a  movimentação  da  peça  destacada  utilizando  as  setas 
+“esquerda e direita” do teclado. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone circular no 
+canto direito da tela. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DIRETO À FRESCO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 

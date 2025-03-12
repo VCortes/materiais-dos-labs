@@ -1,0 +1,400 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a aplicação de 
+técnicas  de  planejamento  e  controle  da  produção  no  desenvolvimento  de  um 
+plano de produção. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. COMPREENDENDO O PROBLEMA 
+ 
+Leia  os  conceitos,  as  instruções  e  os  dados  do problema.  Atente-se  para  as  principais 
+informações a serem utilizadas no desenvolvimento do plano de produção. 
+ 
+2. DESENVOLVENDO O PLANO DE PRODUÇÃO 
+ 
+Escolha o ritmo de produção trimestral de forma a manter o total de custos e o estoque médio 
+acumulado menor que as metas de R$ 9.840,00 e 520 unidades, respectivamente. 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  06  deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Defina, com suas palavras, o que é um plano de produção? 
+ 
+ 
+ 
+2. Quais  são  os  principais  pontos  que  devem  estar  contidos  em  um  plano  de 
+produção? 
+ 
+ 
+ 
+3. Comente  a importância  de  gerir  as  demandas  para  o  desenvolvimento  de  um 
+plano de produção eficiente. 
+ 
+ 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. COMPREENDENDO O PROBLEMA 
+ 
+Após ler os conceitos na introdução, avance para a próxima etapa clicando com o botão 
+esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Leia  os  dados  do  problema  e  avance  para  a  próxima  etapa  clicando  com  o  botão 
+esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Leia os dados para a montagem do plano de produção e, depois, passe para a área de 
+montagem  do  plano clicando  com  o  botão  esquerdo  do  mouse  no  botão  indicado 
+abaixo. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+2. DESENVOLVENDO O PLANO DE PRODUÇÃO 
+ 
+Na aba “Período e estoque” visualize as informações sobre a demanda, a produção e o 
+estoque dos produtos. 
+ 
+ 
+ 
+Nas duas primeiras linhas estão as previsões de demanda para cada trimestre. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Na seção “Produção” as três primeiras linhas deverão ser preenchidas com o ritmo da 
+produção trimestral normal,  em turno  extra  ou com  subcontratado,  respectivamente. 
+As células não preenchidas com os valores do ritmo de produção devem ser preenchidas 
+com “0”. 
+ 
+ 
+ 
+Caso  necessário,  visualize  novamente  os  dados  sobre  os  custos  de  produção  clicando 
+com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Feche  a  aba  de  dados  clicando  com  o  botão esquerdo  do  mouse  no  botão  indicado 
+abaixo. 
+ 
+ 
+ 
+Na  quarta  linha  da  seção  “Produção”  é  calculada  automaticamente  a  subtração  da 
+demanda do trimestre da produção no mesmo período. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Na  seção  “Estoque”,  observe  que  o  estoque  inicial  no  primeiro  trimestre  é  de  50 
+unidades. 
+ 
+ 
+ 
+As outras células da seção “Estoque” serão preenchidas de forma automática, à medida 
+que  os  dados  de  produção  forem  colocados,  com  os  cálculos  do  estoque  inicial,  final, 
+médio e os atrasos. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Na célula em amarelo estará o resultado do estoque médio acumulado. Lembre-se que 
+ele deve ser menor que 520 unidades. 
+ 
+ 
+ 
+Abra a aba de “Custos - Produção” clicando com o botão esquerdo do mouse no botão 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Nas primeiras linhas da seção “Custo $ - Produção” serão calculados, automaticamente, 
+os custos de produção e estoque com base nos dados do custo unitário de produção e 
+estocagem. 
+ 
+ 
+ 
+Na última linha da seção “Custo $ - Produção” serão calculados, de forma automática, 
+os custos totais a cada período. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+Na célula em amarelo será exibido o custo total da produção ao longo dos 8 trimestres. 
+Observe que o valor indicado deve ser abaixo de R$ 9.840,00. Caso o valor da meta tenha 
+sido ultrapassado, altere o ritmo de produção de forma a diminuir os custos e manter a 
+eficiência da produção. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO 
+JOGO SIMULADO ATRAVÉS DO PLANEJAMENTO DE UMA FAMÍLIA DE PRODUTOS 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

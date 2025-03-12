@@ -1,0 +1,694 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprender  a realizar  um  preenchimento  facial  com 
+ácido  hialurônico,  conhecer  as  áreas  de  aplicação  e  identificar  as  disfunções 
+estéticas que podem ser corrigidas com esse procedimento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido hialurônico; 
+• Água destilada; 
+• Agulha 0,3x13mm; 
+• Agulha 0,7x25mm; 
+• Agulha 0,8x25mm; 
+• Álcool 70º; 
+• Clorexidina 0,2%; 
+• Descarte perfurocortante; 
+• Disco de algodão; 
+• Gaze; 
+• Jaleco; 
+• Lápis corporal; 
+• Lençol descartável; 
+• Lidocaína 2% sem vasoconstritor; 
+• Luva de procedimento; 
+• Máscara; 
+• Microcânula 22G; 
+• Óculos; 
+• Papel toalha; 
+• Sabonete líquido facial; 
+• Seringa 3mL; 
+• Touca. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize os equipamentos de proteção individual. Nesse experimento, é obrigatório o uso de 
+jaleco, luvas, máscara e touca. 
+ 
+2. ACOMODANDO A PACIENTE 
+ 
+Chame a paciente para a sala de atendimento e realize a anamnese. Solicite que a paciente 
+assine  o  “Termo  de  Consentimento”.  Coloque  a  touca  na  paciente,  posicione-a  deitada  na 
+maca e realize a avaliação. Aplique o sabonete líquido facial na paciente e em seguida realize 
+a antissepsia com clorexidina.  
+ 
+3. PREPARANDO A PELE 
+ 
+Posicione a paciente sentada na maca. Faça marcações nas regiões da face da paciente com 
+lápis corporal. Higienize o frasco ampola de lidocaína. Aspire 2 mL de lidocaína. Realize o botão 
+anestésico. Com a agulha 0,3x13mm realize o pertuito. 
+ 
+4. REALIZANDO A APLICAÇÃO 
+ 
+Abra a caixa do ácido hialurônico. Conecte a seringa do ácido com a cânula de 22G. Injete o 
+ácido hialurônico na pele da paciente. Repita as etapas anteriores em todas as áreas marcadas 
+na face da paciente. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+  
+5. FINALIZANDO O PROCEDIMENTO 
+ 
+Passe  um  disco  de  algodão umedecida  com  clorexidina  no  rosto  da  paciente.  Oriente  a 
+paciente sobre os cuidados pós procedimento. Descarte os materiais utilizados. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 08 e 09 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é ácido hialurônico e como ele é utilizado na estética facial? 
+ 
+ 
+ 
+2. Quais são os principais benefícios da aplicação de ácido hialurônico na face? 
+ 
+ 
+ 
+3. Quais áreas da face podem ser tratadas com ácido hialurônico? 
+ 
+ 
+ 
+4. Quais   são   os   riscos   e   efeitos   colaterais   associados   à   aplicação   de   ácido 
+hialurônico na face? 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+5. Qual é a duração típica dos resultados da aplicação de ácido hialurônico na face? 
+ 
+ 
+ 
+6. Quem são os candidatos ideais para receber tratamento com ácido hialurônico 
+na face? 
+ 
+ 
+ 
+7. Quais são as diferenças entre o ácido hialurônico e outros preenchedores faciais 
+disponíveis no mercado? 
+ 
+ 
+ 
+8. Existe alguma preparação especial necessária antes de receber tratamento com 
+ácido hialurônico na face? 
+ 
+ 
+ 
+9. Quais   são   os   cuidados   pós-tratamento   recomendados   para   maximizar   os 
+resultados da aplicação de ácido hialurônico na face? 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicie o experimento clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Visualize os EPIs selecionados para este experimento. Nesse experimento, é obrigatório 
+o uso de jaleco, luvas, máscara e touca. 
+ 
+ 
+ 
+Visualize  as  demais  opções  clicando  com  o  botão  esquerdo  do  mouse sobre  a  barra 
+lateral e arraste o mouse para baixo. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Continue o experimento clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse no recipiente contendo 
+“Álcool 70%”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Seque a bancada clicando com o botão esquerdo do mouse no “Papel toalha”. 
+ 
+ 
+ 
+Forre a maca clicando com o botão esquerdo do mouse sobre o “Lençol descartável”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+2. ACOMODANDO A PACIENTE 
+ 
+Chame a paciente clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse na prancheta. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Peça a paciente para assinar o termo de consentimento clicando com o botão esquerdo 
+do mouse em “Assinar termo de consentimento”. 
+ 
+ 
+ 
+Acomode a paciente na maca clicando com o botão esquerdo do mouse em “Mover para 
+a maca”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Coloque  a  touca  descartável  na  paciente  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o local indicado. 
+ 
+ 
+ 
+Deite a paciente na maca clicando com o botão esquerdo do mouse em “Deitar”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Visualize a bancada clicando com o botão esquerdo do mouse em “Bancada” no menu 
+visualização. 
+ 
+ 
+ 
+Higienize o rosto da paciente clicando com o botão esquerdo do mouse no “Sabonete 
+facial”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Remova  o  sabonete  facial  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  “Água 
+destilada”. 
+ 
+ 
+ 
+Realize a antissepsia na face da paciente clicando com o botão esquerdo do mouse na 
+“Clorexidina 0,2%”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+3. PREPARANDO A PELE 
+ 
+Visualize  a  maca  clicando  com  o  botão  esquerdo  do  mouse  em  “Maca”  no  menu 
+visualização. 
+ 
+ 
+ 
+Posicione a paciente sentada clicando com o botão esquerdo do mouse em “Sentar”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Visualize a bancada clicando com o botão esquerdo do mouse em “Bancada” no menu 
+visualização. 
+ 
+ 
+ 
+Realize as marcações no rosto da paciente clicando com o botão esquerdo do mouse em 
+“Lápis corporal”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Observe as marcações na face da paciente. 
+ 
+ 
+ 
+Posicione a paciente em decúbito dorsal clicando com o botão esquerdo do mouse em 
+“Deitar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Visualize a bancada clicando com o botão esquerdo do mouse em “Bancada” no menu 
+visualização. 
+ 
+ 
+ 
+Higienize  o  frasco  ampola  contendo  a  lidocaína  clicando  com  o  botão  esquerdo  do 
+mouse sobre o local indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Retire a seringa de 3mL da embalagem clicando com o botão esquerdo do mouse sobre 
+a “Seringa”. 
+ 
+ 
+ 
+Aspire a lidocaína clicando com o botão esquerdo do mouse sobre a “Lidocaína”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Realize  o  botão  anestésico  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado.  
+ 
+ 
+ 
+Realize  o  pertuito  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  “Agulha 
+0,8x25mm”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+4. REALIZANDO A APLICAÇÃO 
+ 
+Abra  a  embalagem  contendo  o  Ácido Hialurônico  clicando  com  o  botão  esquerdo  do 
+mouse em “Ácido Hialurônico”. 
+ 
+ 
+ 
+Conecte  a  cânula  de  22G  à  seringa  contendo  Ácido  Hialurônico  clicando  com  o  botão 
+esquerdo do mouse no local indicado. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Inicie a aplicação clicando com o botão esquerdo do mouse em “Laterais da boca” 
+ 
+ 
+ 
+Realize as aplicações nas demais regiões clicando com o botão esquerdo do mouse no 
+local indicado e selecione uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+5. FINALIZANDO O PROCEDIMENTO 
+ 
+Visualize   a   bancada   clicando   com   o   botão   esquerdo   em   “Bancada”   no   menu 
+visualização. 
+ 
+ 
+ 
+Higienize o rosto da paciente clicando com o botão esquerdo do mouse na “Clorexidina”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+Oriente   a   paciente   quanto   aos   cuidados   necessários   pós   aplicação   e   finalize   o 
+experimento clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCEDIMENTOS INJETÁVEIS EM BIOMEDICINA ESTÉTICA 
+PREENCHIMENTO COM ÁCIDO HIALURÔNICO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 08 e  09 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

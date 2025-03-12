@@ -1,0 +1,412 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática, você  irá  realizar  o  ensaio  para  determinar  a  consistência  do 
+concreto pelo abatimento do tronco de cone, seguindo os parâmetros definidos 
+pela NBR NM 67. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água; 
+• Concha; 
+• Concreto fresco; 
+• Espátula; 
+• Haste de compactação; 
+• Molde de ensaio; 
+• Placa de base; 
+• Régua graduada. 
+ 
+  
+PROCEDIMENTOS 
+ 
+Segundo a norma, o tempo total para realização deste procedimento é de 150 segundos. Caso 
+não consiga concluir neste tempo, reinicie o experimento. 
+ 
+1. UMEDECENDO O MOLDE E A PLACA DE BASE 
+ 
+Umedeça  o  molde  de  ensaio  e  a  placa  de  base.  O  molde  deve  estar  posicionado  firmemente 
+sobre a placa. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+  
+2. PREENCHENDO O MOLDE DE ENSAIO 
+ 
+Preencha o molde com a amostra de concreto fresco, formando três camadas de igual altura, 
+compactando cada uma das camadas com 25 golpes da haste de compactação. Após a terceira 
+compactação, adicione a quantidade de concreto necessária para preencher completamente o 
+molde de ensaio e utilize uma espátula para rasar a superfície do molde. Remova o molde de 
+ensaio em menos de 10 segundos, garantindo que o concreto não seja submetido a movimentos 
+de torção lateral. 
+ 
+3. MEDINDO O ABATIMENTO DO CONCRETO 
+ 
+Posicione o molde de ensaio ao lado do cone de concreto e, com ajuda da haste de compactação 
+e da régua graduada, meça a abatimento do concreto em milímetros, aproximando aos 5 mm 
+mais próximos. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e responda 
+de acordo com o que foi observado no experimento, associando também com os conhecimentos 
+aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais características do concreto podem ser inferidas ao aplicar o Slump Test em 
+uma amostra de concreto? 
+ 
+ 
+ 
+2. Qual norma da ABNT define os parâmetros que devem ser seguidos ao realizar 
+este ensaio? 
+ 
+ 
+ 
+3. Qual foi o valor obtido para o abatimento do tronco de cone? 
+ 
+ 
+ 
+4. Caso  seja  necessário  alterar  a  amostra  de  concreto  fresco  para  aumentar  o 
+abatimento, qual deve ser a medida tomada? 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. UMEDECENDO O MOLDE E A PLACA DE BASE 
+ 
+Escolha  o  traço  de  concreto  que  deseja  trabalhar  clicando  com  o  botão  esquerdo  do 
+mouse no tipo escolhido. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+Umedeça o molde de ensaio clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+O procedimento deve  durar 150  segundos.  Caso  não  consiga  concluir  neste  tempo, 
+reinicie o experimento. 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+2. PREENCHENDO O MOLDE DE ENSAIO 
+ 
+Adicione 3 conchas de concreto fresco clicando com o botão esquerdo do mouse sobre 
+a concha. 
+ 
+ 
+ 
+Compacte o concreto clicando com o botão direito do mouse na haste de compactação 
+e selecione a opção “Compactar concreto”. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+Repita os procedimentos de adicionar o concreto e compactá-lo mais duas vezes, até a 
+compactação  da  terceira  camada  de  concreto. Insira  a última  concha  de  concreto  no 
+molde clicando com o botão esquerdo do mouse na concha. 
+ 
+ 
+ 
+Posicione o tronco cônico no chão clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Posicionar no chão”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+Nivele a camada clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Remova o molde clicando com o botão esquerdo do mouse sobre o mesmo. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+3. MEDINDO O ABATIMENTO DO CONCRETO 
+ 
+Visualize o recipiente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Recipiente  de  ensaio” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque a haste na posição de medição clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Posicionar para medição”. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+Meça o assentamento clicando com o botão esquerdo do mouse sobre a régua. 
+ 
+ 
+ 
+Visualize o recipiente na  vista  frontal clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Recipiente  de  ensaio  (Vista  frontal)” ou  através  do  atalho  do 
+teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+Observe a medida de assentamento que ocorreu neste tipo de concreto. 
+ 
+ 
+ 
+Repita o experimento para os outros tipos de traços de concreto e observe a diferença 
+entre as medidas. 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ABATIMENTO DO TRONCO DE CONE (SLUMP TEST) 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

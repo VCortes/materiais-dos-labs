@@ -1,0 +1,436 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você irá determinar o  pH de  diferentes amostras de substâncias 
+utilizadas no cotidiano. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Tubos de ensaio; 
+• Papel de tornassol; 
+• Água destilada; 
+• Água com gás; 
+• Vinagre (4% ácido acético); 
+• Álcool etílico; 
+• Detergente com amoníaco; 
+• Ácido de bateria; 
+• Soda cáustica concentrada. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Prepare a capela de exaustão abrindo a janela, acendendo a luz interna e ligando 
+o  exaustor. Perceba  que  todos  os  itens  necessários  ao  experimento  estarão 
+posicionados no interior da capela. 
+ 
+3. SUBMETENDO AS AMOSTRAS ÀS SOLUÇÕES 
+ 
+Observe  que,  dentro  de  cada  tubo  de  ensaio,  as  soluções já  se  encontram 
+preparadas.  Foram  adicionados  2  mL  de  água  destilada  em  cada  tubo.  Em 
+seguida, aproximadamente 20 gotas de cada amostra foram acrescentadas nos 
+tubos  de  ensaio,  portanto,  cada  tubo  de  ensaio  possui  H2O  +  uma  solução 
+específica. 
+Escolha  um  tubo  de  ensaio  para  iniciar  o  experimento  e  coloque  o  papel  de 
+tornassol  no  tubo  de  ensaio. O  papel  ficará  dentro  do  tubo  por  cerca  de  5 
+segundos.  
+Compare a nova coloração  do  papel de tornassol, com os padrões numerados 
+de 1 a 14 no próprio indicador. 
+Feito   isso,   substitua   a   fita   utilizada   por   uma   nova e   repita   o   mesmo 
+procedimento para os outros tubos de ensaio. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Feche a janela da capela, desligue a luz e exaustor e encerre o experimento.   
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Preencha a tabela abaixo com os resultados obtidos no experimento. 
+ 
+Amostra Cor observada Faixa de pH pH literatura 
+Tubo 1    
+Tubo 2    
+Tubo 3    
+Tubo 4    
+Tubo 5    
+Tubo 6    
+ 
+ 
+2. Qual substância apresentou a maior concentração de íons H
++
+?  
+ 
+ 
+3. Qual substância apresentou a maior concentração de íons OH
+-
+?  
+ 
+ 
+4. Alguma das substâncias utilizadas no experimento possui pH neutro? 
+ 
+5. Qual o valor do pH da soda cáustica? E qual é o valor do seu pOH? 
+ 
+6. De acordo com o experimento realizado, qual o pH da água com gás? Ela é um ácido 
+ou uma base? 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “Armário de EPIs”, clicando com o botão esquerdo do mouse no menu 
+esquerdo superior. 
+ 
+ 
+Abra as portas do armário de EPI’s, clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+Selecione  os  EPI’s,  clicando com  o  botão  esquerdo  do  mouse  sobre eles. Os  EPIs 
+utilizados serão: jaleco, luvas de látex e óculos de proteção. 
+ 
+ 
+ 
+Perceba  que  ao  clicar  no  botão  do escudo,  os  equipamentos  de  proteção  individual 
+foram marcados, indicando que você está devidamente protegido. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Acesse a câmera “Capela”. 
+Abra o vidro da capela, clicando com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Acesse a câmera “Painel de Controle”.  
+Acenda a luz e ligue o exaustor da capela, clicando com o botão esquerdo do mouse nos 
+respectivos interruptores.  
+ 
+ 
+Acesse  a  câmera  “Capela” e  perceba  que  todos  os  itens  necessários  ao  experimento 
+estarão posicionados no interior da capela. 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+ 
+3. SUBMETENDO AS AMOSTRAS ÀS SOLUÇÕES 
+ 
+Acesse a câmera “Tubos de ensaio”, clicando com o botão esquerdo do mouse sobre o 
+menu superior esquerdo.  
+ 
+ 
+Observe que, dentro de cada tubo de ensaio, as soluções já se encontram preparadas. 
+Foram adicionados 2 mL de água destilada em cada tubo. Em seguida, aproximadamente 
+20 gotas de cada amostra foram acrescentadas nos tubos de ensaio, portanto, cada tubo 
+de ensaio possui H2O + uma solução específica. 
+Posicione  o  mouse  sobre  cada  tubo  de  ensaio  para  ver  qual  solução está  contida. Os 
+componentes de cada solução aparecerão na parte inferior da tela. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+Visualize o papel de tornassol, acessando a câmera “Indicador”. 
+ 
+ 
+ 
+Coloque o  papel  de  tornassol  no  tubo  de  ensaio,  clicando  com  o  botão  esquerdo  do 
+mouse sobre o papel. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+Escolha em qual tubo de ensaio quer colocar o papel de tornassol. 
+ 
+ 
+ 
+Acesse a câmera “Tubos de ensaio” para analisar o processo.  
+O papel ficará dentro do tubo por cerca de 5 segundos. Em seguida, ele voltará para a 
+sua posição inicial com uma coloração diferente da original. 
+ 
+ 
+ 
+Acesse a câmera “Indicador” e compare a nova coloração do papel de tornassol, com os 
+padrões numerados de 1 a 14 no próprio indicador. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+DETERMINAÇÃO DO CARÁTER 
+ÁCIDO-BASE DE AMOSTRAS 
+Feito isso, substitua a fita utilizada por uma nova, clicando na tecla “C”.  
+Repita o mesmo procedimento para os outros tubos de ensaio. 
+ 
+ 
+ 
+Observe, análise e anote os resultados. 
+ 
+ 
+4. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. Caso seja necessário, retorne ao experimento para 
+auxiliar a avaliação dos resultados.  
+ 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Feche a janela da capela, desligue a luz e exaustor e encerre o experimento.   
+ 

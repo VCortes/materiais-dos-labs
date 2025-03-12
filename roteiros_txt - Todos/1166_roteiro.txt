@@ -1,0 +1,1347 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a preparação 
+do  gel  de  agarose  e  as  técnicas  para  a realização  da  eletroforese  em  gel  de 
+agarose. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra de DNA; 
+• Balança analítica; 
+• Brometo de etídio; 
+• Buffer TBE; 
+• Cuba de eletroforese; 
+• Erlenmeyer de 250 mL; 
+• Espátula de metal; 
+• Fonte de energia; 
+• GelRed; 
+• Microondas; 
+• Micropipeta de 10 μL; 
+• Padrão de corrida; 
+• Pó de agarose; 
+• Suporte gel de agarose; 
+• Transiluminador. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, luvas, óculos e 
+máscara. 
+ 
+2. PESANDO A AGAROSE 
+ 
+Ligue  a  balança  analítica,  abra  a  porta  lateral  e  mova  o  vidro  de  relógio  para  o  interior  da 
+balança.  Feche  a  porta  lateral  e  tare  a  balança.  Abra  a  porta  da  balança  e,  com  auxílio  da 
+espátula,  despeje  a  agarose  no  vidro  de  relógio.  Feche  a  porta  da  balança  para  o  peso 
+estabilizar. Pese 1 grama de agarose. Em seguida, limpe a espátula, abra a porta da balança e 
+mova  o  vidro  de  relógio  com  a  agarose  para  a bancada.  Depois,  transfira  a  agarose  pesada 
+para o Erlenmeyer. 
+ 
+3. DISSOLVENDO A AGAROSE 
+ 
+Transfira o tampão TBE para a proveta de 100 mL e meça 100 mL dele. Em seguida, com auxílio 
+do  bastão  de  vidro, transfira  o  tampão  da  proveta  para  o Erlenmeyer contendo  agarose. 
+Homogeneíze a solução com o bastão até dissolver a agarose completamente. Abra o micro-
+ondas e mova o Erlenmeyer para seu interior. Feche o equipamento e configure o tempo de 1 
+minuto. Ligue o micro-ondas e aguarde a solução aquecer. Desligue o equipamento, retire o 
+Erlenmeyer e aguarde a solução esfriar. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+  
+4. SOLIDIFICANDO O GEL 
+ 
+Ajuste o volume da micropipeta de 10 μL para 7 μL. Mova –a para o recipiente com brometo 
+de etídio e pipete 7 μL da solução. Transfira a solução para o Erlenmeyer. Descarte a ponteira 
+e mova a micropipeta para o suporte. Em seguida, transfira o conteúdo do Erlenmeyer para o 
+suporte  horizontal para gel e  aguarde  20 minutos  até  o  gel  se  solidificar.  Após  isso,  retire  o 
+pente do suporte horizontal e mova o suporte para a cuba de eletroforese. Encha a cuba com 
+o tampão TBE até cobrir o gel.  
+ 
+5. ADICIONANDO A AMOSTRA 
+ 
+Ajuste o volume da micropipeta de 10 μL para 2 μL. Pipete 2 μL do tampão GelRed e transfira 
+para  o  tubo Eppendorf  1  contendo  a  amostra  de  DNA.  Descarte  a  ponteira.  Repita  o 
+procedimento anterior para adicionar o tampão nos tubos 2, 3 e 4. Após isso, ajuste o volume 
+da  micropipeta  para  5 μL,  mova-a  para  o  recipiente  com  padrão  de  corrida,  pipete  5 μL da 
+solução  e  transfira  para  o  primeiro  poço  do  gel  de  agarose.  Descarte  a  ponteira.  Mova  a 
+micropipeta para o Eppendorf, pipete 5 μL da solução e transfira para o segundo poço do gel 
+de agarose. Repita o procedimento anterior para transferir as demais amostras para os poços 
+3, 4 e 5. Em seguida, tampe a cuba de eletroforese.  
+ 
+6. REALIZANDO A CORRIDA 
+ 
+Ligue a fonte de energia e configure-a para 100 volts por 45 minutos. Conecte os eletrodos na 
+cuba.  Aperte  o  “start”  da  fonte  de  energia.  Aguarde  o  tempo  de  execução  da  corrida 
+eletroforética. Após isso, desligue a fonte de energia, retire os eletrodos e abra a tampa da 
+cuba. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+  
+7. OBSERVANDO O RESULTADO 
+ 
+Abra a tampa do transiluminador e mova o gel para ele. Feche a tampa do equipamento. Por 
+fim, ligue o aparelho e visualize o resultado da amostra. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Cites as aplicações da eletroforese com gel de agarose na biologia molecular. 
+ 
+ 
+ 
+2. Como é realizada a interpretação dos resultados desse método?  
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+2. PESANDO A AGAROSE 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Abra a porta lateral da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para balança”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Feche a porta lateral da balança clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Abra a porta lateral da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Abra o frasco contendo pó de agarose clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova a espátula para o pó de agarose clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para pó de agarose”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para balança”. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Feche a porta lateral da balança clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Abra a porta lateral da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Feche a porta lateral da balança clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Desligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para Erlenmeyer”. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+3. DISSOLVENDO A AGAROSE 
+ 
+Abra o recipiente contendo o tampão clicando com o botão esquerdo do mouse sobre 
+a tampa. 
+ 
+ 
+ 
+Mova o tampão clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para proveta”. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Transfira 100  mL do  tampão  para proveta clicando com o  botão  esquerdo  do  mouse 
+sobre ele e pressionando. 
+ 
+ 
+ 
+Mova o tampão clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para Erlenmeyer”. 
+ 
+ 
+ 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para Erlenmeyer”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Transfira  o  conteúdo clicando com o  botão  esquerdo  do mouse  sobre  a  proveta e 
+pressione. 
+ 
+ 
+ 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Homogeneíze o  gel  clicando  com  o  botão  direito  do mouse  sobre  o  bastão  de  vidro  e 
+selecione a opção “Homogeneizar Erlenmeyer”. 
+ 
+ 
+ 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize o micro-ondas clicando  com  o  botão  esquerdo  do  mouse na  câmera com  o 
+nome “Micro-ondas” ou através do atalho do teclado “Alt+9”. 
+ 
+ 
+ 
+Abra a porta do micro-ondas clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para micro-ondas”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Feche a porta do micro-ondas clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+Configure o tempo para 1  minuto clicando  com o  botão  esquerdo  do  mouse  sobre  os 
+números no painel. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Ligue o micro-ondas clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Abra a porta do micro-ondas clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para bancada”. 
+ 
+ 
+ 
+Aguarde a solução esfriar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+4. SOLIDIFICANDO O GEL 
+ 
+Abra o recipiente de brometo de etídio clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize a  micropipeta  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Micropipeta” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Configure  o  volume  para 7 μL  utilizando  seu  teclado  numérico,  em  seguida,  confirme 
+clicando com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para brometo de etídio”. 
+ 
+ 
+ 
+Mova a micropipeta para o Erlenmeyer clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para Erlenmeyer”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova a micropipeta para o suporte clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para suporte de gel”. 
+ 
+ 
+ 
+Transfira o conteúdo para o suporte clicando com o botão esquerdo do mouse sobre o 
+Erlenmeyer e pressionando. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o Erlenmeyer para a bancada clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Aguarde por 20 minutos a solidificação do gel ou avance o tempo clicando com o botão 
+esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Remova o pente clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova o suporte para a cuba clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para cuba”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova o tampão para a cuba clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para cuba”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o tampão. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+5. ADICIONANDO A AMOSTRA 
+ 
+Abra os tubos de amostra de DNA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Configure  o  volume  para 2 μL  utilizando  seu  teclado  numérico,  em  seguida,  confirme 
+clicando com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+ 
+Abra o recipiente contendo GelRed clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova  a micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para GelRed”. 
+ 
+ 
+ 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para eppendorf 1”. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Troque a ponteira clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para transferir o GelRed para os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra  o  recipiente  contendo  o  padrão  de  corrida  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize a  micropipeta  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Micropipeta” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Configure  o  volume  para 5 μL  utilizando  seu  teclado  numérico,  em  seguida,  confirme 
+clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para padrão de corrida”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover poço 1”. 
+ 
+ 
+ 
+Troque a ponteira clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para Eppendorf 1”. 
+ 
+ 
+ 
+Mova a micropipeta para o poço de gel de agarose 2 clicando com o botão direito do 
+mouse sobre ela e selecione a opção “Mover poço 2”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Repita os procedimentos anteriores para transferir os conteúdos dos Eppendorfs 2, 3 e 
+4 para os poços 3, 4 e 5, respectivamente. 
+ 
+ 
+ 
+Visualize o equipamento de eletroforese clicando com o botão esquerdo do mouse na 
+câmera  com  o  nome “Equipamento  eletroforese”  ou  através  do  atalho  do  teclado 
+“Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Tampe a cuba de eletroforese clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+6. REALIZANDO A CORRIDA 
+ 
+Ligue  a  fonte  de  energia  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Abra as configurações da fonte clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Selecione o tempo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Ajuste  o  tempo para 45  minutos clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Selecione a tensão clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Ajuste e tensão para 100 volts clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Conecte  os  cabos  clicando  com  o  botão  direito  do  mouse  sobre  a  fonte  e selecione  a 
+opção “Conectar cabos”. 
+ 
+ 
+ 
+Inicie a corrida clicando com o botão esquerdo do mouse sobre o botão “START”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Avance o tempo da corrida clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+Desligue a fonte clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Remova  os  cabos  clicando  com  o  botão  direito  do  mouse  sobre  a  fonte  e  selecione  a 
+opção “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+7. OBSERVANDO O RESULTADO 
+ 
+Visualize o transiluminador clicando com o botão esquerdo do mouse na câmera com o 
+nome “Transiluminador” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Abra o transiluminador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize o equipamento de eletroforese clicando com o botão esquerdo do mouse na 
+câmera  com  o  nome “Equipamento  eletroforese”  ou  através  do  atalho  do  teclado 
+“Alt+6”. 
+ 
+ 
+ 
+Mova o gel para o transiluminador clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Mover gel para transiluminador”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Visualize o transiluminador clicando com o botão esquerdo do mouse na câmera com o 
+nome “Transiluminador” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Feche o transiluminador clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+Ligue o aparelho clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Observe o resultado. 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+ELETROFORESE EM GEL DE AGAROSE 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

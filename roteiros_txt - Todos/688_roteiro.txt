@@ -1,0 +1,834 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá realizar a  avaliação de  um  paciente idoso com 
+histórico de cardiopatia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cadeira; 
+• Caneleiras de 1 kg; 
+• Cicloergômetro portátil; 
+• Escala da percepção subjetiva do esforço (BORG); 
+• Escala Visual Analógica (EVA); 
+• Esfigmomanômetro; 
+• Espaldar; 
+• Estetoscópio; 
+• Faixa elástica; 
+• Mesa; 
+• Oxímetro; 
+• Prancheta. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia   e   coloque   os   equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide o paciente para entrar no consultório. Realize a anamnese e leia o relato feito 
+por ele. Peça que o paciente assine o termo de consentimento. 
+ 
+3. REALIZANDO A TRIAGEM 
+ 
+Peça para o paciente estender o braço direito com a palma da mão virada para cima. 
+Coloque o esfigmomanômetro em torno do braço e posicione o estetoscópio na fossa 
+cubital.  Insufle  o  manguito  até o  valor  de  alta  pressão.  Libere  a  pressão  abrindo 
+devagar a válvula e ausculte os sons através do estetoscópio. Anote a pressão arterial 
+sistólica quando ouvir o primeiro som de batimento e continue liberando a pressão. 
+Anote a pressão arterial diastólica quando ouvir o último som de batimento. Retire o 
+estetoscópio  e  o  esfigmomanômetro  do  braço  do  paciente.  Peça  para  o  paciente 
+estender  o  dedo  indicador.  Posicione  o  oxímetro  no  dedo  indicador  do  paciente  e 
+aguarde 10 segundos. Observe o valor de saturação. 
+ 
+4. REALIZANDO A AVALIAÇÃO COM AS ESCALAS 
+ 
+Conduza  o  paciente até  a  parede  onde  está  a  escala  visual  analógica  (EVA).  Em 
+seguida, peça que ele aponte o nível de dor que ele sente. Conduza o paciente até a 
+escala da percepção subjetiva do esforço (BORG). Em seguida, peça que ele aponte o 
+nível de cansaço que ele sente. 
+ 
+5. REALIZANDO A AVALIAÇÃO COM A CADEIRA 
+ 
+Conduza o paciente para a cadeira de avaliação. Peça ao paciente para que cruze os 
+braços  no  tórax,  na  altura  do  peito. Em  seguida, peça  para  que  ele  se  levante  e  se 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+sente na cadeira 5 vezes. Acione o cronômetro quando o paciente iniciar o movimento 
+e pare o cronômetro quando ele concluir as 5 repetições. Anote o tempo encontrado. 
+Posicione o paciente sentado na cadeira e solicite que ele coloque as mãos atrás da 
+cabeça. Em seguida, peça para que ele realize o exercício de mobilidade, juntando os 
+cotovelos e afastando-os. Acione o cronômetro e aguarde por 3 minutos. Posicione o 
+paciente sentado na cadeira e solicite que ele cruze os braços no tórax, na altura do 
+peito.  Peça  para  que  ele  se  levante  e  se  sente  na  cadeira.  Acione  o  cronômetro e 
+aguarde por 3 minutos. 
+ 
+6. REALIZANDO A AVALIAÇÃO NO ESPALDAR 
+ 
+Posicione  o  paciente  no  espaldar  e  solicite  que  ele  realize  o  exercício  de  marcha 
+estacionária. Acione o cronômetro e aguarde por 3 minutos. Coloque a caneleira no 
+paciente e solicite que ele mova os pés de forma alternada, para frente e para trás. 
+Aguarde por 3 minutos. 
+ 
+7. REALIZANDO A AVALIAÇÃO COM O CICLOERGÔMETRO 
+ 
+Posicione o paciente sentado de frente para o cicloergômetro e solicite que ele realize 
+o exercício utilizando o equipamento. Acione o cronômetro e aguarde por 3 minutos. 
+ 
+8. AVALIANDO OS MEMBROS SUPERIORES 
+ 
+Posicione o paciente em pé e entregue a faixa elástica para ele. Solicite que ele estique 
+a  faixa  e  mova  para esquerda  e  para  direita.  Acione  o  cronômetro  e  aguarde  por  3 
+minutos. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+  
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento associando, também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da fisioterapia na promoção da qualidade de vida do idoso? 
+ 
+ 
+ 
+2. Quais as indicações para reabilitação cardiovascular para pacientes idosos? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a  pia clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Lavagem  das  mãos”  localizada  dentro  do painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Armário de EPIs” do menu “Visualização” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Abra  o  armário  clicando  com  o  botão  esquerdo  do  mouse  sobre  cada  uma  de  suas 
+portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo  do  mouse  sobre  eles.  Nesse  experimento,  é  obrigatório  o  uso  de jaleco e 
+máscara. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Chame  o  paciente  clicando  com  o  botão esquerdo  do  mouse  no  botão  “Convidar 
+paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse na prancheta. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Visualize a mesa clicando com o botão esquerdo do mouse na câmera “Mesa” do menu 
+“Visualização” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Solicite que o paciente assine o termo de consentimento clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Assinar termo de consentimento”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+3. REALIZANDO A TRIAGEM 
+ 
+Solicite que o paciente estenda o braço direito clicando com o botão direito do mouse 
+sobre o paciente e selecione a opção “Estender o braço”. 
+ 
+ 
+ 
+Mova  o  esfigmomanômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+esfigmomanômetro. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Mova o estetoscópio clicando com o botão esquerdo do mouse sobre o estetoscópio. 
+ 
+ 
+ 
+Visualize  o  esfigmomanômetro  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Esfigmomanômetro” do menu “Visualização” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Visualize a escala clicando com o botão esquerdo do mouse sobre o manômetro. 
+ 
+ 
+ 
+Visualize a válvula clicando com o botão direito do mouse sobre a pera. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Insufle o manguito clicando com o botão esquerdo do mouse sobre a pera até o valor 
+de alta pressão. 
+ 
+ 
+ 
+Libere  a  pressão  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado e 
+movimente o cursor à direita. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Mova   o   esfigmomanômetro   clicando   com   o   botão   direito   do   mouse   sobre   o 
+esfigmomanômetro. 
+ 
+ 
+ 
+Mova o estetoscópio clicando com o botão direito do mouse sobre o estetoscópio. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Peça para o paciente estender o dedo indicador clicando com o botão direito do mouse 
+sobre o paciente e selecione a opção “Estender o dedo indicador”. 
+ 
+ 
+ 
+Visualize a mesa clicando com o botão esquerdo do mouse na câmera “Mesa” do menu 
+“Visualização” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Mova o oxímetro clicando com o botão esquerdo do mouse sobre o oxímetro. 
+ 
+ 
+ 
+Ligue  o  oxímetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado e 
+aguarde 10 segundos. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+4. REALIZANDO A AVALIAÇÃO COM AS ESCALAS 
+ 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para escala EVA”. 
+ 
+ 
+ 
+Solicite que  o paciente  indique o  nível  de  dor  clicando  com  o botão direito do  mouse 
+sobre o paciente e selecione a opção “Indicar nível de dor”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para escala de BORG”. 
+ 
+ 
+ 
+Solicite que o paciente indique o nível de cansaço clicando com o botão direito do mouse 
+sobre o paciente e selecione a opção “Indicar nível de esforço”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para área de avaliação”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+5. REALIZANDO A AVALIAÇÃO COM A CADEIRA 
+ 
+Peça  ao  paciente que  realize o  movimento de  sentar/levantar 5  vezes  clicando  com  o 
+botão   direito   do   mouse   sobre   o   paciente   e   selecione   a   opção   “Exercício 
+sentar/levantar”. 
+ 
+ 
+ 
+Aguarde o paciente concluir as 5 repetições e observe o tempo em que foi realizado. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Peça ao paciente que realize o exercício de mobilidade clicando com o botão direito do 
+mouse sobre o paciente e selecione a opção “Exercício mobilidade”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Peça  ao  paciente que  realize  o  exercício funcional clicando  com  o  botão  direito  do 
+mouse sobre o paciente e selecione a opção “Exercício funcional”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para espaldar”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+6. REALIZANDO A AVALIAÇÃO NO ESPALDAR 
+ 
+Peça ao paciente que realize o exercício de marcha estacionária clicando com o botão 
+direito do mouse sobre o paciente e selecione a opção “Exercício marcha estacionária”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera “Mesa 
+auxiliar” do menu “Visualização” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Mova as caneleiras clicando com o botão esquerdo do mouse sobre as caneleiras. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Peça  ao  paciente que  realize  o  exercício  de  fortalecimento  do  membros inferiores 
+clicando com o botão direito do mouse sobre o paciente e selecione a opção “Exercício 
+fortalecimento MMII”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Mova as caneleiras clicando com o botão direito do mouse sobre as caneleiras. 
+ 
+ 
+ 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para mesa auxiliar”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+7. REALIZANDO A AVALIAÇÃO COM O 
+CICLOERGÔMETRO 
+ 
+Peça ao paciente que realize o exercício no cicloergômetro clicando com o botão direito 
+do mouse sobre o paciente e selecione a opção “Exercício cicloergômetro”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Conduza o paciente clicando com o botão direito do mouse sobre o paciente e selecione 
+a opção “Mover para posição em pé”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+8. AVALIANDO OS MEMBROS SUPERIORES 
+ 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse na  câmera  “Mesa 
+auxiliar” do menu “Visualização” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Mova a faixa elástica clicando com o botão esquerdo do mouse sobre a faixa elástica. 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+Peça  ao  paciente que  realize  o  exercício  de  fortalecimento  do  membros  superiores 
+clicando com o botão direito do mouse sobre o paciente e selecione a opção “Exercício 
+fortalecimento MMSS”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DO IDOSO 
+ATUAÇÃO FISIOTERAPÊUTICA NA REABILITAÇÃO CARDIOVASCULAR NO IDOSO 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

@@ -1,0 +1,660 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá investigar o local de um homicídio, realizar coleta 
+de amostras para exames de DNA, identificar o culpado e absolver os inocentes.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool 70%; 
+• Caneta; 
+• Disco de algodão; 
+• Lençóis; 
+• Lubrificantes; 
+• Maca; 
+• Prancheta; 
+• Toalhas. 
+ 
+PROCEDIMENTOS 
+ 
+1. INSTRUÇÕES GERAIS 
+ 
+Antes  do  início  do  jogo,  o(a)  jogador(a)  poderá  acompanhar  a  contextualização  do  caso  e 
+conhecer um pouco dos personagens. Ao iniciar o jogo o(a) jogador(a) terá 3 vidas. Para cada 
+erro cometido, uma vida será perdida. Marcando pontos para cada acerto obtido durante o 
+jogo (+100) e pendendo pontos para cada erro cometido (-50). Ao finalizar o jogo o receberá 
+um feedback sobre os seus erros e acertos e o score final. O jogador recebe e-mails com as 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+notificações,  que  podem  ser  acessados  através  do  tablet,  podendo  acessar  a  “Bios”  com 
+resumo de cada personagem, configurações de controle e evolução do jogo. 
+ 
+2. ACESSANDO O E-MAIL 
+ 
+Acesse  o  e-mail  e  leia  atentamente  as  informações:  “Para  resolver  este  caso  você  deve 
+investigar  o  local  do  homicídio,  realizar  coleta de  amostras  para  exames  de  DNA  assim 
+identificando  o  culpado  e  absolver  os  inocentes.  Após  a  descrição  dos  policiais  da  cena  do 
+crime, a fim de realizar os exames necessários para a elucidação do crime, monte um kit de 
+coleta para atender à demanda.”. 
+ 
+3. MONTANDO O KIT DE COLETA 
+ 
+Acesse a sala dos materiais, abra a maleta anti-impacto. Selecione os itens que serão utilizados 
+na cena do crime e feche a maleta anti-impacto. Prossiga para o local do crime. 
+ 
+4. COLETANDO AS AMOSTRAS NA CENA DO CRIME 
+ 
+Selecione uma das rotas da cena do crime. Inicie a coleta dos vestígios clicando no símbolo do 
+objeto e selecione o vestígio na cena do crime. Troque de luva a cada coleta e prossiga pela 
+rota da cena do crime. Os vestígios coletados ficam disponíveis na aba “Amostras”, localizada 
+próximo ao inventário. 
+ 
+5. ANALISANDO AS AMOSTRAS COLETADAS 
+ 
+Retorne com as amostras para o escritório de criminalística. Distribua os materiais coletados 
+nas caixas para o respectivo setor de análise: Toxicologia forense, Genética forense e Escritório 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+  
+de  criminalística.  Aguarde  o  resultado  da  análise  forense,  observe  o  laudo  do  tablet  e  com 
+base nos resultados indique o culpado pelo crime. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da Toxicologia e genética forense? 
+ 
+ 
+ 
+2. Quais outros métodos de investigação forense podem ser incorporados ao caso? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. INSTRUÇÕES GERAIS 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Digite  o  seu  nome  clicando  com  o  botão  esquerdo  do  mouse  sobre  o sobre  campo 
+indicado e digite através do teclado da sua máquina. 
+ 
+ 
+ 
+Confirme clicando com o botão esquerdo do mouse no botão “Iniciar”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Você  poderá  acompanhar  um  pouco  do  que  ocorreu  antes  do  assassinato  e  poderá 
+conhecer  um  pouco  dos personagens,  assim  que  concluir  a  leitura  de  uma  parte, 
+prossiga clicando com o botão esquerdo do mouse em “Próx.”. 
+ 
+ 
+ 
+Caso não queira acompanhar essa parte, pule esse procedimento clicando com o botão 
+esquerdo do mouse em “Pular”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Ao final de cada etapa, receberá um feedback sobre os seus erros e acertos, atente-se a 
+eles e prossiga clicando com o botão esquerdo do mouse sobre o botão “Ok”. 
+ 
+ 
+ 
+Ao iniciar  o  jogo  o(a)  jogador(a)  terá  3  vidas.  Para  cada  erro  cometido, uma  vida  será 
+perdida. A quantidade de vidas pode ser verificada através da quantidade de corações 
+no canto superior direito da tela. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Para  cada  acerto  obtido  durante  o  jogo,  você  será  pontuado  com  100  pontos  e,  para 
+cada erro, perderá 50. A pontuação fica no canto superior direito da tela. 
+ 
+ 
+ 
+Durante   o   jogo   o(a)   jogador(a)   receberá   alguns   e-mails   sobre   o   andamento   da 
+investigação  e os  passos  que devem  ser  seguidos,  esses  e-mails podem  ser  acessados 
+através  do  tablet.  Sempre  que  tiver e-mail  não lido, a  caixa  de  e-mails  ficará  marcada 
+com um pontinho vermelho. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+O(A) jogador(a) poderá acessar a “Bios” com resumo de cada personagem. 
+configurações de controle e salvar o jogo acessando os outros ícones do tablet. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+2. ACESSANDO O E-MAIL 
+ 
+Acesse o e-mail e leia atentamente as informações para saber os próximos passos que 
+devem ser seguidos clicando com o botão esquerdo do mouse no e-mail e selecione o 
+e-mail “Unidade Criminalística”. 
+ 
+ 
+ 
+Minimize o menu clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+3. MONTANDO O KIT DE COLETA 
+ 
+Acesse  a  sala  dos  materiais  clicando com  o  botão  esquerdo do  mouse sobre uma  das 
+esferas verdes. 
+ 
+ 
+ 
+Abra a maleta anti-impacto clicando com o botão esquerdo do mouse sobre ela. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Selecione os itens que serão utilizados na cena do crime clicando com o botão esquerdo 
+do mouse sobre eles. Alguns itens são essenciais para a coleta de vestígios e devem ser 
+pegos para que a investigação possa ser continuada, caso pegue itens desnecessários e 
+que  possam  atrapalhar  a  coleta,  pontos  serão  descontados.  Alguns  itens  não  irão 
+interferir em nada e podem ser pegos sem causar prejuízos ou acréscimos a pontuação. 
+ 
+ 
+ 
+No  máximo  10  itens  podem  ser  colocados  na  maleta,  caso  queira,  remova  algum  dos 
+itens colocados clicando com o botão esquerdo do mouse sobre ele dentro da maleta. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Após colocar todos os itens necessários, luvas cirúrgicas, envelope, seringa, swab, bisturi 
+e  coletor  de  urina,  feche  a  maleta  anti-impacto  clicando  com o botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Logo ao fechar a maleta um e-mail chegará. Abra o menu clicando com o botão esquerdo 
+do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Feche o e-mail clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Verifique  a  caixa  de  entrada  clicando  com  o  botão  esquerdo  do  mouse  sobre  o local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Abra o e-mail clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Leia o e-mail e prossiga para a cena do crime clicando com o botão esquerdo do mouse 
+em “Sim”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Minimize o menu clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+4. COLETANDO AS AMOSTRAS NA CENA DO CRIME 
+ 
+Selecione  uma  das  rotas  da  cena  do  crime  clicando com  o  botão  esquerdo  do  mouse 
+sobre uma das esferas verdes. 
+ 
+ 
+ 
+Selecione  um  dos  equipamentos  para  coleta  dos  vestígios  clicando  com  o  botão 
+esquerdo do mouse sobre um deles. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Lembre-se   de   colocar  as   luvas   e   trocá-las   entre   as   coletas,  para  que  não   haja 
+contaminação cruzada. Após colocar as luvas e estar com o devido equipamento realize 
+a coleta dos vestígios clicando com o botão esquerdo do mouse sobre os vestígios. 
+ 
+ 
+ 
+Visualize a cena inteira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Os  vestígios  coletados  ficam  disponíveis  na  aba  “Amostras”,  localizada  próximo  ao 
+inventário. 
+ 
+ 
+ 
+Colete os líquidos dos copos e das taças utilizando a seringa 
+ 
+ 
+ 
+Colete todos os vestígios. Após isso, verifique o e-mail e retorne para o escritório.  
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+5. ANALISANDO AS AMOSTRAS COLETADAS 
+ 
+Retorne  com  as  amostras  para  o  escritório  de  criminalística  clicando com  o  botão 
+esquerdo do mouse em “Sim” no e-mail recebido.  
+ 
+ 
+ 
+Todos  os  materiais  coletados  ficarão  sobre  a  mesa,  distribua-os  nas  devidas  caixas 
+clicando com o botão direito do mouse sobre o material e selecione a opção condizente.  
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Após distribuir as amostras, visualize as caixas clicando com o botão esquerdo do mouse 
+sobre umas das esferas verdes. 
+ 
+ 
+ 
+Envie as caixas para os escritórios correspondentes clicando com o botão esquerdo do 
+mouse sobre as caixas. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Após  a  realização  do envio  das  caixas,  você  será  notificado  com  o  laudo. Verifique 
+clicando com o botão esquerdo do mouse em “Verificar laudos”. 
+ 
+ 
+ 
+Leia  atentamente  cada  um  dos  laudos. Visualize  os  laudos clicando  com  o  botão 
+esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+Com  base nos  resultados,  indique o  culpado  pelo  crime  clicando  em  “PROSSEGUIR”  e 
+depois no suspeito que acha ser o culpado, se errar, leia novamente os laudos e tente 
+descobrir o culpado novamente. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA FORENSE 
+ASSASSINATO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também, 
+com os conhecimentos aprendidos sobre o tema. 

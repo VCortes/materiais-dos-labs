@@ -1,0 +1,308 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre assembleia de 
+constituição  de  associações  ou  cooperativas,  entendendo seus  processos,  os 
+principais documentos relacionados e a responsabilidade daqueles presentes.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. ESCOLHENDO O PERSONAGEM 
+ 
+Nomeie o personagem e selecione homem ou mulher. Após isso, siga para início da 
+assembleia. 
+ 
+2. PARTICIPANDO DA ASSEMBLEIA 
+ 
+Participe da assembleia seguindo pelas diferentes etapas. 
+ 
+3. RESPONDENDO O QUESTIONÁRIO 
+ 
+Após finalizar a assembleia responda as questões. Por fim, gere um relatório sobre o 
+que foi respondido. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como se dá o início da assembleia de constituição ou fundação? 
+ 
+ 
+ 
+2. O que é estatuto social? 
+ 
+ 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ESCOLHENDO O PERSONAGEM 
+ 
+Escolha o personagem clicando com botão esquerdo do mouse no nome “Masculino” 
+ou “Feminino”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+Insira  o  nome  do  personagem  clicando  com  o  botão  esquerdo  do  mouse  na  caixa  de 
+texto e digite através do teclado de seu computador. 
+ 
+ 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse sobre a seta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+2. PARTICIPANDO DA ASSEMBLEIA 
+ 
+Leia a frase contida na janela de texto. Logo depois, dê continuidade a prática clicando 
+com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Leia a  frase  que  apresenta  o  comportamento  dos  participantes.  Em  seguida,  dê 
+continuidade a prática clicando com o botão esquerdo do mouse sobre o botão. 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+3. RESPONDENDO O QUESTIONÁRIO 
+ 
+Responda à questão clicando com o botão esquerdo do mouse na caixa de resposta e 
+digite sua resposta através do teclado de seu computador. 
+ 
+ 
+ 
+Siga para a próxima questão clicando com o botão esquerdo do mouse na seta indicada. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+Gere o relatório clicando com o botão esquerdo do mouse em “Gerar relatório”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DO AGRONEGÓCIO – COOPERATIVISMO E ASSOCIATIVISMO 3 
+ASSEMBLEIA DE CONSTITUIÇÃO DE ASSOCIAÇÕES OU COOPERATIVAS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

@@ -1,0 +1,1121 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você compreenderá os conceitos que envolvem os lipídios e 
+a análise de lipídios.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador rotativo para tubos; 
+• Balão volumétrico; 
+• Béquer; 
+• Centrífuga; 
+• Clorofórmio P.A; 
+• Dessecador; 
+• Erlenmeyer; 
+• Estufa com circulação de ar; 
+• Funil; 
+• Metanol P.A; 
+• Papel Filtro; 
+• Pipeta graduada; 
+• Pipeta volumétrica; 
+• Placas de Petri; 
+• Solução de sulfato de sódio 1,5%; 
+• Sulfato de sódio anidro; 
+• Tubos de vidro; 
+• Vidro de relógio. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Selecione  a  amostra  que  deseja  começar  o  experimento. Coloque  os  equipamentos  de 
+proteção individual localizados no “Armário de EPIs”. Para esse experimento será necessário 
+a utilização do jaleco, luvas e máscara. 
+ 
+2. PREPARANDO A AMOSTRA PARA ANÁLISE 
+ 
+Mova a amostra para o gral e triture, para que a granulometria uniforme seja alcançada. Ligue 
+a balança. Mova a placa de Petri para a balança e tare o equipamento. Pese a amostra moída. 
+Adote 2,0 g para o leite em pó e o amendoim. Adote 3,0 g para o café moído. Anote a massa 
+pesada e transfira a amostra para o tubo de ensaio 1, com o auxílio da espátula. 
+ 
+3. PREPARANDO PARA ANÁLISE 
+ 
+Utilizando  a  pipeta  volumétrica,  pipete  10  mL  da  solução  de  clorofórmio  (ChCl
+3
+)  e  transfira 
+para  o  tubo  de  ensaio 1.  Limpe  a  pipeta.  Pipete  20  mL  da  solução  de  metanol  (CH
+3
+OH)  e 
+transfira  para  o  tubo  de  ensaio 1.  Utilizando  a  pipeta  graduada,  pipete  8  mL  da  solução  de 
+água destilada e transfira para o tubo de ensaio 1. Tampe o tubo de ensaio 1 e mova para a 
+centrífuga  por  aproximadamente  30  minutos.  Retire  o  tubo  da  centrífuga  e mova  para o 
+suporte. Destampe o tubo e adicione, com a pipeta volumétrica, 10 mL de clorofórmio e 10 
+mL  da  solução  de  sulfato  de  sódio  (Na
+2
+SO
+4
+).  Tampe  o  tubo  de  ensaio  e  agite  o  tubo  por 
+aproximadamente 2 minutos. Centrifugue o tubo por 2 minutos para acelerar o processo de 
+separação das camadas de óleos dos solventes. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+  
+4. ANALISANDO O RESULTADO 
+ 
+Retire o tubo da centrifuga. Com a pipeta graduada do suporte 2, pipete 10 mL da solução do 
+tubo  centrifugado. Filtre  a  solução,  transferindo  para  o filtro posicionado  sobre  o  tubo  de 
+ensaio. Mova o filtro para a bancada. Pipete 5 mL do filtrado e transfira para a placa de Petri 
+previamente  pesada. Ligue  a  estufa  e  pré-aqueça. Mova a  placa  de  Petri  para  a  estufa  de 
+circulação de ar, para que ocorra a total evaporação dos solventes. Ligue a estufa e aguarde o 
+tempo necessário para que a temperatura chegue à recomendada. Abra o dessecador. Retire 
+a placa da estufa, mova para o dessecador e aguarde a amostra resfriar. Retire a amostra do 
+dessecador e pese a massa obtida. Anote o resultado. 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Retire  a  placa  de  Petri  da  balança,  desligue  os  equipamentos  utilizados.  Limpe  e  remova  o 
+conteúdo de todos os instrumentos usados no experimento. Clique no menu de ferramentas 
+e  reinicie  o  experimente.  Desta  vez,  selecione  uma  amostra  diferente  para  realizar  o 
+procedimento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a relação entre o percentual de gordura das amostras analisadas e a massa 
+que deve ser usada? 
+ 
+ 
+ 
+2. Com base nos seus conhecimentos, como você justifica a mudança de coloração 
+da mistura após passar pela centrífuga. No caso do leite em pó. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Selecione a amostra que deseja utilizar clicando com o botão esquerdo do mouse sobre 
+a amostra e confirme em “Selecionar”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e máscara. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+2. PREPARANDO A AMOSTRA PARA ANÁLISE 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Triture a amostra clicando com o botão esquerdo do mouse sobre o pistilo. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa indicada e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão tara. 
+ 
+ 
+ 
+Mova  o  gral  clicando  com  o  botão  direito  do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a balança”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para a balança”. 
+ 
+ 
+ 
+Despeje 2,0 g da amostra clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova  o  gral  clicando  com  o  botão  direito  do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa indicada e 
+selecione a opção “Mover para os tubos de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Adicione a amostra clicando com o botão direito do mouse sobre a espátula e selecione 
+a opção “Adicionar conteúdo – Tubo de ensaio 1”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+3. PREPARANDO PARA ANÁLISE 
+ 
+Visualize a pipeta volumétrica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Béqueres” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova  a  pipeta  volumétrica  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta 
+volumétrica e selecione a opção “Béquer - 2”. 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta volumétrica e 
+selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre o centro da pera. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Aspire 10 mL da solução de clorofórmio clicando e pressionando com o botão esquerdo 
+do mouse sobre o botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  volumétrica  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta 
+volumétrica e selecione a opção “Tubo de ensaio - 1”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta volumétrica e 
+selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje a  solução  de  clorofórmio clicando  e  pressionando  com  o  botão  esquerdo  do 
+mouse sobre o botão “E”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Remova o conteúdo e limpe a pipeta clicando com o botão esquerdo do mouse sobre a 
+pipeta volumétrica e selecione a opção “Remover conteúdo interno e limpar vidraria”. 
+ 
+ 
+ 
+Mova  a  pipeta  volumétrica  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta 
+volumétrica e selecione a opção “Mover para suporte”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a pipeta volumétrica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Béqueres” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores de pipetagem com a solução de metanol, mova a 
+pipeta  volumétrica  para  o  béquer  3, visualize  a  pera, pipete  10  mL da  solução  de 
+metanol, mova a pipeta para o tubo de ensaio 1, transfira o conteúdo, realize a limpeza 
+da pipeta e mova a pipeta para o suporte. Ao final desse procedimento, o tubo de ensaio 
+deve conter 20 mL da solução de metanol. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Repita os procedimentos anteriores de pipetagem, utilizando a pipeta graduada, mova 
+a pipeta para o béquer 1, visualize a pera, pipete 8 mL de água destilada, mova a pipeta 
+para o tubo de ensaio 1, transfira o conteúdo, realize a limpeza da pipeta e mova a pipeta 
+para o suporte. 
+ 
+ 
+ 
+Tampe o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de ensaio 
+1 e selecione a opção “Tampar/Destampar tubo de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a centrifuga clicando com o botão esquerdo do mouse na câmera com o nome 
+“Centrifuga” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra a tampa da centrifuga clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de ensaio 
+1 e selecione a opção “Mover para centrifuga”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Feche a tampa da centrifuga clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Ligue a centrifuga clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Aguarde por 30 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão “Avançar”. 
+ 
+ 
+ 
+Abra a tampa da centrifuga clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova o tubo de ensaio 1 clicando com o botão esquerdo do mouse sobre a centrifuga. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Destampe o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de 
+ensaio 1 e selecione a opção “Tampar/Destampar tubo de ensaio”. 
+ 
+ 
+ 
+Visualize a pipeta volumétrica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Béqueres” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Repita  os  procedimentos  anteriores  de  pipetagem,  utilizando  a  pipeta  volumétrica, 
+mova a pipeta para o béquer 2, visualize a pera, pipete 10 mL de clorofórmio, mova a 
+pipeta para o tubo de ensaio 1, transfira o conteúdo, realize a limpeza da pipeta e mova 
+a pipeta para o suporte. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  de  pipetagem,  utilizando  a  pipeta  volumétrica, 
+mova a pipeta para o béquer 4, visualize a pera, pipete 10 mL da solução de sulfato de 
+sódio (Na
+2
+SO
+4
+), mova a pipeta para o tubo de ensaio 1, transfira o conteúdo, realize a 
+limpeza da pipeta e mova a pipeta para o suporte. 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Tampe o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de ensaio 
+1 e selecione a opção “Tampar/Destampar tubo de ensaio”. 
+ 
+ 
+ 
+Agite o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de ensaio 
+1 e selecione a opção “Agitar tubo de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de ensaio 
+1 e selecione a opção “Mover para centrifuga”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, feche a tampa da centrifuga, ligue o equipamento, 
+aguarde por 2 minutos ou avance, abra a tampa e mova o tubo de ensaio para a bancada. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Destampe o tubo de ensaio 1 clicando com o botão direito do mouse sobre o tubo de 
+ensaio 1 e selecione a opção “Tampar/Destampar tubo de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a pipeta graduada clicando com o botão esquerdo do mouse na câmera com o 
+nome “Suporte de pipeta” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+4. ANALISANDO O RESULTADO 
+ 
+Repita os procedimentos anteriores de pipetagem, utilizando a pipeta graduada, mova 
+a pipeta para o tubo de ensaio 1, visualize a pera, pipete 10 mL, mova a pipeta para o 
+tubo de ensaio filtrado, transfira o conteúdo, realize a limpeza da pipeta e mova a pipeta 
+para o suporte. 
+ 
+ 
+ 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa indicada e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa indicada e 
+selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Visualize  o  filtro  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova o suporte com o funil clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+ 
+Repita os procedimentos anteriores de pipetagem, utilizando a pipeta graduada, mova 
+a pipeta para o tubo de ensaio com amostra filtrada, visualize a pera, pipete 5 mL, mova 
+a pipeta para a placa de petri, transfira o conteúdo, realize a limpeza da pipeta e mova 
+a pipeta para o suporte. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize  a estufa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Aguarde o pré-aquecimento por 1 minuto ou avance clicando com o botão esquerdo do 
+mouse sobre o botão “Avançar”. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a placa de petri clicando com o botão esquerdo do mouse na câmera com o 
+nome “Suporte de pipeta” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Mova a placa de petri clicando com o botão direito do mouse sobre a placa de petri e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova a placa de petri clicando com o botão direito do mouse sobre a placa de petri e 
+selecione a opção “Mover para a estufa”. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Ligue a estufa clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Aguarde  o  aquecimento  por  1  minuto  ou  avance  clicando  com  o  botão  esquerdo  do 
+mouse sobre o botão “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Abra o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+ 
+Visualize  a estufa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova a placa de petri clicando com o botão esquerdo do mouse sobre a estufa. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Feche o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Aguarde a amostra resfriar por 30 segundos ou avance clicando com o botão esquerdo 
+do mouse sobre o botão “Avançar”. 
+ 
+ 
+ 
+Abra o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+Mova a placa de petri clicando com o botão direito do mouse sobre o dessecador. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Acesse o menu de opções clicando com o botão esquerdo do mouse no ícone “Opções”. 
+ 
+ 
+ 
+Reinicie o experimento clicando com o botão esquerdo do mouse na opção “Reiniciar o 
+experimento” e realize o teste com uma amostra diferente. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE LIPÍDIOS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

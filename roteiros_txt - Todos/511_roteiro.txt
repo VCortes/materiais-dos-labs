@@ -1,0 +1,1663 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você irá realizar transcrição  reversa  seguida  de reação  em 
+cadeia da polimerase (RT-PCR). 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas; 
+• Máscara; 
+• Óculos; 
+• Tubo Eppendorf; 
+• Tubo Eppendorf contendo amostra de RNA; 
+• Oligo Dt; 
+• dNTP; 
+• Buffer RT; 
+• DTT; 
+• RNAse inibidor; 
+• Transcriptase reversa; 
+• Termociclador; 
+• Buffer amplificação 10x; 
+• Primer F; 
+• Primer R; 
+• Taq DNA polimerase; 
+• Água ultrapura; 
+• Micropipeta; 
+• Ponteira. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. 
+ 
+2. REALIZANDO O MIX 
+ 
+Na capela, pipete no Eppendorf: 1 μL de oligo dT, 7 μL da amostra de RNA, 1 μL de 
+dNTP, 4 μL de água ultrapura e leve ao termociclador. Configure-o da seguinte forma: 
+1  ciclo  a  5  minutos a  65°C.  Na  segunda  parte,  coloque  “off”  no  Hot  Lid,  selecione 
+“tube” e 13 μL no volume da amostra. 
+ 
+3. EXECUTANDO A TRANCRIPÇÃO REVERSA 
+ 
+Retire o tubo do termociclador e coloque no suporte. Em seguida, coloque no tubo: 4 
+μL de Buffer RT, 1 μL do DTT, 1 μL de RNAse inibidor, 1 μL de transcriptase reversa e 
+leve ao termociclador. Configure-o da seguinte forma: 1 ciclo a 25°C por 5 minutos, 1 
+ciclo  a  50°C  por 60  minutos  e  1  ciclo  de  70°C  por  15  minutos.  Na  segunda  parte, 
+coloque “off” no Hot Lid, selecione “tube” e 20 μL no volume da amostra. 
+ 
+4. REALIZANDO A POLIMERIZAÇÃO 
+ 
+Retire o tubo do termociclador. Em seguida, coloque no tubo: 5 μL de Buffer 10x, 2,5 
+μL de MgCl
+2
+, 0,5 μL de primer F, 0,5 μL de primer R, 8 μL de dNTP, 0,5 μL de Taq DNA 
+polimerase,  5 μL da  amostra  e  28 μL de água ultrapura,  e  leve  ao  termociclador. 
+Configure-o da seguinte forma: 1 ciclo a 95°C por 11 minutos, 28 ciclos a 94°C por 1 
+minuto, 28 ciclos de 59°C por 1 minuto, 28 ciclos a 72°C por 1 minuto e 1 ciclo de 60°C 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+  
+por 60 minutos. Na segunda parte, coloque off no Hot Lid, selecione tube e 50 μL no 
+volume da amostra. Feche o termociclador e os recipientes abertos na capela. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a diferença do RT-PCR para um PCR convencional? 
+ 
+ 
+ 
+2. O que são os dNTPs? 
+ 
+ 
+ 
+3. Explique como ocorre a ação da trancripitase reversa e da Taq DNA polimerase? 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Higienize as mãos passando o mouse pela água. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luva, máscara e 
+óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+2. REALIZANDO O MIX 
+ 
+Visualize  a capela clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 1 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo e digite  o  volume com  auxílio  do  seu  teclado e, em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo de Oligo dT clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Oligo dT”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+ 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 7 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a  pipeta  no  tubo  com  a  amostra  de  RNA clicando  com  o  botão direito do 
+mouse na pipeta e selecione “Colocar em Amostra de RNA”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 1 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo com dNTPs clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em dNTPs”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+ 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 4 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a  pipeta  no  recipiente  de  água  ultrapura clicando  com  o  botão direito do 
+mouse na pipeta e selecione “Colocar em Água Ultra Pura”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Leve o Eppendorf para o termociclador clicando com o botão esquerdo do mouse sobre 
+o suporte de tubos Eppendorf. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Feche a tampa do termociclador clicando com o botão esquerdo do mouse sobre a tama 
+do termociclador. 
+ 
+ 
+ 
+Visualize o visor do termociclador clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor termociclador” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “File” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Selecione o box “Test” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “Open” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Selecione o box “Edit” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Configure  o  termociclador  clicando  com  o  botão esquerdo  do  mouse  sobre  o  visor 
+dentro dos boxs. Você pode utilizar os números do visor do termociclador ou, se preferir, 
+pode digitar. 
+ 
+ 
+ 
+Adicione a configuração clicando com o botão esquerdo do mouse sobre o “+” no visor. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+ 
+Desligue o Hot Lid clicando com o botão esquerdo do mouse sobre o “Off” no visor. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione “tube” clicando com o botão esquerdo do mouse sobre o mesmo no visor. 
+ 
+ 
+ 
+Configure o volume da amostra clicando com o botão esquerdo do mouse sobre o visor 
+dentro do box. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+ 
+Corra o PCR clicando com o botão esquerdo do mouse sobre o box “Run”no visor. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Avance o tempo clicando com o botão esquerdo do mouse sobre o box “Pular tempo”. 
+ 
+ 
+ 
+Confirme o processo executado clicando com o botão esquerdo do mouse sobre o box 
+“OK” no visor. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+3. EXECUTANDO A TRANCRIPÇÃO REVERSA 
+ 
+Visualize o termociclador clicando com o botão esquerdo do mouse na câmera com o 
+nome “Termociclador” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra a tampa do termociclador clicando com o botão esquerdo do mouse na tampa do 
+termociclador. 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Retire   a   amostra  do  termociclador clicando  com   o   botão direito do   mouse no 
+termociclador e selecione “Retirar amostra”. 
+ 
+ 
+ 
+Leve o suporte para a estufa clicando com o botão direito do mouse no suporte de tubos 
+eppendorf. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a  pipeta  no  tubo  de  Buffer  RNA clicando  com  o  botão direito do  mouse na 
+pipeta e selecione “Colocar em Buffer RNA”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 1 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo com DTT clicando com o botão direito do mouse na pipeta e 
+selecione “Colocar em DTT”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Pocisione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+ 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo com RNAse inibidor clicando com o botão direito do mouse 
+na pipeta e selecione “Colocar em RNAse inibidor”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Posicione a pipeta no recipiente com Transcriptase reversa clicando com o botão direito 
+do mouse na pipeta e selecione “Colocar em Transcriptase reversa”. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf RNA”. 
+ 
+ 
+ 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Leve o Eppendorf para o termociclador clicando com o botão esquerdo do mouse sobre 
+o suporte de tubos Eppendorf. 
+ 
+ 
+ 
+Feche a tampa do termociclador clicando com o botão esquerdo do mouse na tampa do 
+termociclador. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Visualize o visor do termociclador clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor termociclador” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Selecione o box “File” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “Test” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Selecione o box “Open” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “Edit” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Configure  o  termociclador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  visor 
+dentro dos boxs. Você pode utilizar os números do visor do termociclador ou, se preferir, 
+pode digitar. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Adicione a configuração clicando com o botão esquerdo do mouse sobre o “+” no visor. 
+ 
+ 
+ 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Desligue o Hot Lid clicando com o botão esquerdo do mouse sobre o “Off” no visor. 
+ 
+ 
+ 
+Selecione “tube” clicando com o botão esquerdo do mouse sobre o mesmo no visor. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Configure o volume da amostra clicando com o botão esquerdo do mouse sobre o visor 
+dentro do box  
+ 
+ 
+ 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Corra o PCR clicando com o botão esquerdo do mouse sobre o box “Run”no visor. 
+ 
+ 
+ 
+Avance o tempo clicando com o botão esquerdo do mouse sobre o box “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Confirme a etapa clicando com o botão esquerdo do mouse sobre o box “OK” no visor. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+4. REALIZANDO A POLIMERIZAÇÃO 
+ 
+Visualize o termociclador clicando com o botão esquerdo do mouse na câmera com o 
+nome “Termociclador” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra a tampa do termociclador clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Retire  a  amostra  de  dentro  do  termociclador clicando  com  o  botão direito do  mouse 
+sobre o mesmo e em seguida selecione “Retirar amostra”. 
+ 
+ 
+ 
+Leve o suporte para a estufa clicando com o botão direito do mouse sobre o suporte. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 5 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a  pipeta  no  tubo  de  Buffer  RNA clicando  com  o  botão direito do  mouse na 
+pipeta e selecione “Colocar em Buffer RNA”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 2,5 μL da pipeta clicando com o botão esquerdo do mouse sobre 
+o  box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo com MgCl
+2
+ clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em MgCl
+2
+”. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5 mL”. 
+ 
+ 
+ 
+Troque  a  ponteira  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste  o  volume  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 0,5 μL da pipeta clicando com o botão esquerdo do mouse sobre 
+o  box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a  pipeta  no  tubo  com  Primer  F clicando  com  o  botão direito do  mouse na 
+pipeta e selecione “Colocar em Primer F”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque  a  ponteira  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Trocar ponteira”. 
+ 
+ 
+ 
+Posicione a pipeta no recipiente com Primer R clicando com o botão direito do mouse 
+na pipeta e selecione “Colocar em Primer R”. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+ 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste o volume da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 8 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo com dNTPs clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em dNTPs”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque a ponteira da pipeta clicando com o botão direito do mouse na pipeta e selecione 
+“Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 0,5 μL da pipeta clicando com o botão esquerdo do mouse sobre 
+o  box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a pipeta no recipiente com Taq DNA polimerase clicando com o botão direito 
+do mouse na pipeta e selecione “Colocar em Taq DNA polimerase”. 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse na pipeta 
+e selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+ 
+Troque  a  ponteira  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Ajuste  o  volume  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Reajustar volume”. 
+ 
+ 
+ 
+Altere o volume para 5 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no recipiente com amostra de DNA clicando com o botão direito do 
+mouse sobre ela e, em seguida, selecione “Colocar em Amostra de DNA”. 
+ 
+ 
+ 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse sobre ela 
+e, em seguida, selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Troque  a  ponteira  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Altere o volume para 28 μL da pipeta clicando com o botão esquerdo do mouse sobre o 
+box  no  canto  inferior  esquerdo  e  digite  o  volume  com  auxílio  do  seu  teclado  e,  em 
+seguida, clique em “OK”. 
+ 
+ 
+ 
+Posicione a  pipeta  no  recipiente  com  água  ultrapura clicando  com  o  botão direito do 
+mouse na pipeta e selecione “Colocar em Água Ultra Pura”. 
+ 
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Posicione a pipeta no tubo Eppendorf clicando com o botão direito do mouse sobre ela 
+e, em seguida, selecione “Colocar em Eppendorf 0,5mL”. 
+ 
+ 
+ 
+Troque  a  ponteira  da  pipeta clicando  com  o  botão direito do  mouse sobre ela e, em 
+seguida, selecione “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Leve o Eppendorf para o termociclador clicando com o botão esquerdo do mouse sobre 
+o suporte de tubos Eppendorf. 
+ 
+ 
+ 
+Feche  a  tampa  do  termociclador  clicando com  o  botão  esquerdo  do  mouse  sobre  o 
+mesmo. 
+ 
+ 
+  
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Visualize o visor do termociclador clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor termociclador” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Selecione o box “File” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “Test” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Selecione o box “Open” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+  
+
+  
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione o box “Edit” clicando com o botão esquerdo do mouse sobre o visor. 
+ 
+ 
+ 
+Configure  o  termociclador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  visor 
+dentro dos boxs. Você pode utilizar os números do visor do termociclador ou, se preferir, 
+pode digitar. 
+ 
+ 
+  
+
+  
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Adicione a configuração clicando com o botão esquerdo do mouse sobre o “+” no visor. 
+ 
+ 
+ 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+  
+
+  
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Desligue o Hot Lid clicando com o botão esquerdo do mouse sobre o “Off” no visor. 
+ 
+ 
+ 
+Selecione “tube” clicando com o botão esquerdo do mouse sobre o mesmo no visor. 
+ 
+ 
+  
+
+  
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Configure o volume da amostra clicando com o botão esquerdo do mouse sobre o visor 
+dentro do box  
+ 
+ 
+ 
+Salve a configuração clicando com o botão esquerdo do mouse sobre o “Save” no visor. 
+ 
+ 
+  
+
+  
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Corra o PCR clicando com o botão esquerdo do mouse sobre o box “Run”no visor. 
+ 
+ 
+ 
+Avance o tempo clicando com o botão esquerdo do mouse sobre o box “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+Selecione OK clicando com o botão esquerdo do mouse sobre o box “OK” no visor. 
+ 
+ 
+  
+
+  
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+RT-PCR 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

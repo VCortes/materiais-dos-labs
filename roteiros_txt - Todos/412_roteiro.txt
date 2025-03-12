@@ -1,0 +1,1239 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+‘ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá determinar o padrão de identidade e qualidade do 
+mel. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada; 
+• Balança; 
+• Bastão de vidro; 
+• Béquer 250 mL contendo éter etílico; 
+• Béquer 250 mL contendo lugol; 
+• Béquer 250 mL contendo mel; 
+• Béquer 50 mL; 
+• Conta-gotas contendo solução clorídrica de resorcina a 1% m/v; 
+• Pera; 
+• pHmetro; 
+• Pipeta graduada 10 mL; 
+• Pipeta graduada 2 mL; 
+• Pisseta 500 mL; 
+• Proveta 50 mL; 
+• Suporte para pipetas; 
+• Suporte para tubo de ensaio; 
+• Tubo de ensaio. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque o equipamento de proteção individual localizado no “Armário de EPIs”. 
+ 
+2. ANALISANDO A ACIDEZ 
+ 
+Pese 2 g da amostra de mel no béquer de 50 mL. Adicione 20 mL de água destilada na proveta 
+e transfira para o béquer de 50 mL. Homogeneíze a amostra com auxílio do bastão de vidro. 
+Transfira o béquer com solução de mel para o pHmetro. Posicione os eletrodos no suporte e 
+em seguida posicione na vidraria. Ligue o pHmetro no botão e realize a medição. Visualize o 
+resultado no visor. 
+ 
+3. REALIZANDO A REAÇÃO DE FIEHE 
+ 
+Adicione 5 mL de água destilada na proveta. Com o auxílio da pipeta graduada, pipete 5 mL da 
+amostra de mel e transfira para a proveta. Homogeneíze o conteúdo da proveta com o bastão 
+de vidro até total solubilização da amostra. Com o auxílio da pipeta graduada, pipete 5 mL de 
+éter etílico e transfira para a proveta. Agite a proveta realizando movimentos circulares até 
+separar as camadas. Transfira com auxílio da pipeta graduada 2 mL da camada etérea para o 
+tubo de ensaio. Adicione 2 gotas de solução clorídrica de resorcina a 1%m/v. Agite o tubo de 
+ensaio em movimentos circulares e aguarde de 5 a 10 minutos. Observe o resultado. 
+ 
+4. OBSERVANDO A REAÇÃO DO LUGOL 
+ 
+Transfira com auxílio da pipeta graduada 10 mL da amostra de mel para o béquer de 50 mL. 
+Adicione 10 mL de água destilada na proveta e transfira para o béquer de 50 mL. Utilizando 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+  
+pipeta graduada, transfira 1 mL da solução de lugol para o béquer de 50 mL. Com auxílio do 
+bastão de vidro, homogeneíze o conteúdo do béquer. Observe a coloração desenvolvida. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o padrão de qualidade para o mel? 
+ 
+ 
+ 
+2. De acordo com os resultados encontrados no laboratório, o mel analisado está 
+dentro dos padrões preconizados? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+9”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco e luvas 
+de procedimento. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+2. ANALISANDO A ACIDEZ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção "Mover para a balança”. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova o béquer com a amostra clicando com o botão direito do mouse sobre o béquer 
+indicado e selecione a opção “Balança”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Pese 2 g da amostra clicando com o botão esquerdo do mouse sobre o béquer indicado. 
+ 
+ 
+ 
+Mova o béquer com a amostra clicando com o botão direito do mouse sobre o béquer 
+indicado e selecione a opção “Mesa”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Proveta”. 
+ 
+ 
+ 
+Adicione  20 mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mesa”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Transfira  a  água  destilada  clicando  com  o  botão  direito  do  mouse  sobre  a  proveta  e 
+selecione a opção “Adicionar conteúdo ao béquer”. 
+ 
+ 
+ 
+Homogeneíze a amostra clicando com o botão direito do mouse sobre o bastão de vidro 
+e selecione a opção “Dissolver a amostra no béquer”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Mover para o pHmetro”. 
+ 
+ 
+ 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova os eletrodos clicando com o botão esquerdo do mouse sobre os eletrodos. 
+ 
+ 
+ 
+Posicione os  eletrodos  clicando  com  o  botão  direito  do  mouse  sobre  os  eletrodos  e 
+selecione a opção “Posicionar na vidraria”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Ligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Realize a medição clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a tela do pHmetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Tela do pHmetro” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+3. REALIZANDO A REAÇÃO DE FIEHE 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Proveta”. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Adicione 5  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mesa”. 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova a pipeta graduada clicando com o botão direito do mouse sobre a pipeta indicada 
+e selecione a opção “Béquer com mel”. 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Aspire 5 mL da amostra de mel pressionando o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para a proveta”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje a amostra pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Limpe o bastão de vidro clicando com o botão esquerdo do mouse sobre o bastão de 
+vidro e selecione a opção “Limpar vidraria”. 
+ 
+ 
+ 
+Homogeneíze  o conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  de 
+vidro e selecione a opção “Dissolver amostra na proveta”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Limpe a pipeta clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Limpar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Béquer com éter etílico”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 5 mL de éter etílico pressionando o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para proveta”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Despeje o éter etílico pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Agite a proveta clicando com o botão esquerdo do mouse sobre a proveta e selecione a 
+opção “Agitar”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize  a pipeta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Proveta”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Aspire 2 mL da camada etérea pressionando o botão esquerdo do mouse no botão “S. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Tubo de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje a camada etérea pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+ 
+Visualize o tubo de ensaio clicando com o botão esquerdo do mouse na câmera com o 
+nome “Tubo de ensaio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Adicione 2 gotas de solução clorídrica de resorcina clicando com o botão esquerdo do 
+mouse sobre o conta-gotas indicado. 
+ 
+ 
+ 
+Agite o tubo de ensaio clicando com o botão esquerdo do mouse sobre o tubo de ensaio. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+4. OBSERVANDO A REAÇÃO DO LUGOL 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre o béquer e selecione a 
+opção “Limpar vidraria”. 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  o  béquer  clicando com o  botão direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Limpe a pipeta clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Limpar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Béquer com mel”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 10 mL da  amostra de  mel pressionando  o botão  esquerdo  do  mouse  no  botão 
+“S”. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Béquer da amostra”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Despeje a amostra pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Limpe a proveta clicando com o botão esquerdo do mouse sobre a proveta e selecione 
+a opção “Limpar vidraria e remover conteúdo”. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  a pisseta  clicando com o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Proveta”. 
+ 
+ 
+ 
+Adicione 10  mL  de água  destilada clicando com o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova  a  pisseta  clicando com o  botão  direito  do  mouse  sobre  a pisseta  e  selecione  a 
+opção “Mesa”. 
+ 
+ 
+ 
+Adicione o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Adicionar conteúdo ao béquer”. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize  a pipeta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o nome 
+“Suporte de pipeta” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Limpe a pipeta clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Limpar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Béquer de lugol”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 1 mL do lugol pressionando o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Béquer da amostra”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Despeje o lugol pressionando o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para suporte”. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Muestra” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Limpe o bastão de vidro clicando com o botão esquerdo do mouse sobre o bastão de 
+vidro e selecione a opção “Limpar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+Homogeneíze  o  conteúdo clicando com o  botão  direito  do  mouse  sobre o  bastão  de 
+vidro e selecione a opção “Dissolver amostra no béquer”. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+PADRÃO DE IDENTIDADE E QUALIDADE DO MEL 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

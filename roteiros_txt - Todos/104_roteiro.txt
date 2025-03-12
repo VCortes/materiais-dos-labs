@@ -1,0 +1,1828 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática serão  montados  circuitos  que  apresentam  o  funcionamento  de 
+diferentes componentes eletropneumáticos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bloco distribuidor; 
+• Botão de pulso (elétrico); 
+• Chave seletora de duas posições (elétrica); 
+• Cilindro de dupla ação; 
+• Cilindro de simples ação; 
+• Fonte 24 V; 
+• Relé temporizador (elétrico); 
+• Sensor magnético; 
+• Válvula 5/2 vias duplo solenoide; 
+• Válvula 5/2 vias retorno por mola; 
+• Válvula 5/2 vias simples solenoide retorno por mola; 
+• Válvula de acionamento manual; 
+• Válvula de escape rápido; 
+• Válvula de fechamento; 
+• Válvula direcional tipo fim de curso; 
+• Válvula E; 
+• Válvula OU. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+  
+PROCEDIMENTOS 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Antes de realizar a montagem de qualquer circuito eletropneumático no laboratório virtual, é 
+necessário  que  você  reconheça  os  principais  recursos  da  bancada.  Nesta  etapa  serão 
+apresentadas  algumas  funcionalidades  deste  laboratório,  permitindo  que  os  experimentos 
+sejam realizados sem dificuldades. 
+ 
+ESQUEMÁTICO 1 - ACIONAMENTO DO CILINDRO DE AÇÃO SIMPLES 
+ 
+1. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Conecte a saída da unidade de conservação à entrada do bloco distribuidor. Conecte qualquer 
+saída do bloco distribuidor à entrada da válvula de fechamento S1. Conecte a saída da válvula 
+de fechamento à entrada do cilindro de ação simples. 
+ 
+2. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione a válvula manual da unidade de conservação de ar. Acione o cilindro através da válvula 
+de fechamento S1. Feche a válvula da unidade de conservação de ar. Remova as mangueiras 
+de  conexão  clicando  em  cada  uma  delas  ou  removendo  tudo  com  o  atalho  “Remover 
+mangueiras”. 
+ 
+ESQUEMÁTICO 2 - ACIONAMENTO CILINDRO DE DUPLA AÇÃO 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+  
+3. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Conecte a saída da unidade de conservação à entrada do bloco distribuidor. Conecte qualquer 
+saída do bloco distribuidor à entrada da válvula de fechamento S1. Conecte a saída da válvula 
+de  fechamento  S1  à  conexão  piloto  da  válvula  5/2  vias  de  retorno  por  mola  V3. Conecte  o 
+terminal  tipo  “L”  inferior  da  válvula  V3  a  qualquer  saída  do  bloco  distribuidor. Conecte  a 
+válvula  V3  com  o  cilindro  de  dupla  ação  ligando  a  saída  4  da  válvula  com  a  entrada  de 
+acionamento de avanço do cilindro e a saída 2 com a entrada de acionamento de recuo. 
+ 
+4. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione a válvula manual da unidade de conservação de ar. Pressione o botão verde da válvula 
+de fechamento S1 para comandar a válvula V3 e acionar o cilindro. Pode ser feita através da 
+tecla “D” do teclado. Feche a válvula da unidade de conservação de ar. Remova as mangueiras 
+de  conexão  clicando  em  cada  uma  delas  ou  removendo  tudo  com  o  atalho  “Remover 
+mangueiras”. 
+ 
+ESQUEMÁTICO 3 - UTILIZAÇÃO DA VÁLVULA “E” 
+ 
+5. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Conecte a saída da unidade de conservação à entrada do bloco distribuidor. Conecte qualquer 
+saída do bloco distribuidor à entrada da válvula de fechamento S1. Conecte qualquer saída do 
+bloco  distribuidor  à  entrada  da  válvula  de  fechamento  S2. Conecte a  saída  da  válvula  de 
+fechamento  S1  a  uma  das  entradas  da  válvula  “E”  V6.  Conecte  a  saída  da  válvula  de 
+fechamento S2 à outra entrada da válvula “E” V6. Conecte a saída da válvula “E” V6 à conexão 
+piloto da válvula 5/2 vias de retorno por mola V3. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+  
+6. CONECTANDO A VÁLVULA V3 
+ 
+Conecte  o terminal  tipo  “L”  inferior  da  válvula  V3  a  qualquer  saída  do  bloco  distribuidor. 
+Conecte a saída 4 de V3 com a entrada de acionamento de avanço do cilindro de ação simples. 
+ 
+7. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione a válvula manual da unidade de conservação de ar. Utilize os botões de acionamento 
+das válvulas de fechamento para acionar o cilindro de ação simples e ateste o funcionamento 
+da válvula “E”. Feche a válvula da unidade de conservação de ar. Remova as mangueiras de 
+conexão   clicando   em   cada   uma   delas   ou   removendo   tudo   com   o   atalho   “Remover 
+mangueiras”. 
+ 
+ESQUEMÁTICO 4 - SISTEMA ELETROPNEUMÁTICO 
+ 
+8. ANALISANDO O ESQUEMÁTICO 
+ 
+Analise  o  esquemático  “Experimento  4”  presente  no  laboratório  virtual  e  perceba  a  forma 
+como são feitas as ligações entre os componentes elétricos e pneumáticos. Monte os circuitos 
+pneumáticos e elétricos de acordo com o diagrama “Experimento 4”. 
+ 
+9. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Teste os comandos do circuito e perceba a forma como as botoeiras e sensores magnéticos 
+(componentes elétricos) atuam em conjunto com o sistema pneumático. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+  
+ESQUEMÁTICO 5 - UTILIZAÇÃO DO RELÉ TEMPORIZADOR 
+ 
+10. ANALISANDO O ESQUEMÁTICO 
+ 
+Analise  o  esquemático  “Experimento  5”  presente  no  laboratório  virtual  e  perceba  a  forma 
+como são feitas as ligações entre os componentes elétricos e pneumáticos. Monte os circuitos 
+pneumáticos e elétricos de acordo com o diagrama “Experimento 5”. 
+ 
+11. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Teste os comandos do circuito e perceba a forma como o relé temporizador atua em conjunto 
+com o sistema pneumático. 
+ 
+ESQUEMÁTICO 6 - UTILIZAÇÃO DO CONTATOR 
+ 
+12. ANALISANDO O ESQUEMÁTICO 
+ 
+Analise  o  esquemático  “Experimento 6”  presente  no  laboratório  virtual  e  perceba  a  forma 
+como são feitas as ligações entre os componentes elétricos e pneumáticos. Monte os circuitos 
+pneumáticos e elétricos de acordo com o diagrama “Experimento 6”. 
+ 
+13. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Teste os comandos do circuito e perceba a forma como o relé temporizador atua em conjunto 
+com  o  sistema  pneumático.  Monte  os  circuitos  pneumáticos  e  elétricos  de  acordo  com  o 
+diagrama  “Experimento 6”.  Teste  os  comandos  do  circuito  e  perceba  a  forma  como  o  relé 
+temporizador atua em conjunto com o sistema pneumático. 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+  
+14. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 11 a 13 deste roteiro, e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Com relação ao experimento 1, o que ocorre quando o botão S1 é pressionado? 
+Justifique esse comportamento explicando o funcionamento da 
+ 
+ 
+ 
+2. Com relação ao experimento 4, o que ocorre quando o botão B1 é pressionado 
+enquanto a haste do cilindro está na posição mais recuada? 
+ 
+ 
+ 
+3. Com relação ao experimento 4, o que ocorre quando o botão B2 é pressionado 
+enquanto a haste do cilindro está na posição mais avançada? 
+ 
+ 
+ 
+4. Com relação ao experimento 4, o que ocorre quando o botão B2 é pressionado 
+enquanto a haste do cilindro está na posição mais recuada? 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+5. Com relação ao experimento 4, o que ocorre quando o botão B1 é pressionado 
+enquanto a haste do cilindro está na posição mais avançada? 
+ 
+ 
+ 
+6. Com  relação  ao  experimento  4,  qual  a  função  dos  sensores  magnéticos  neste 
+tipo de circuito? Cite uma aplicação onde este arranjo é útil.  
+ 
+ 
+ 
+7. Com relação ao experimento 5, o que ocorreu com o cilindro utilizado quando a 
+válvula de acionamento manual foi acionada? Justifique. 
+ 
+ 
+ 
+8. Com relação ao experimento 5, o que ocorreu quando a chave de Power Supply 
+foi acionada? Justifique. 
+ 
+ 
+ 
+9. Com relação ao experimento 5, caso eu queira alterar o circuito para que o recuo 
+da  haste  seja  feito  após  um  tempo  predeterminado,  qual  deve  ser  a  mudança 
+que deve ser realizada no circuito? 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+10. Com relação ao experimento 6, o que ocorreu com o cilindro utilizado quando a 
+válvula de acionamento manual foi acionada? Justifique. 
+ 
+ 
+ 
+11. Com relação ao experimento 6, o que ocorreu quando a chave de Power Supply 
+foi acionada? Justifique. 
+ 
+ 
+ 
+12. Com relação ao experimento 6, qual estado do contator a lâmpada de sinalização 
+H1 indica? Justifique. 
+ 
+ 
+ 
+13. Com  relação  ao  experimento  6,  quais  alterações  devem  ser  feitas  no  circuito 
+elétrico  para  que  as  hastes  de  3A  e  4A  entrem  em  avanço  simultaneamente 
+quando a chave seletora B3 for acionada? 
+ 
+ 
+14. Com  relação  ao  experimento  6,  quais  alterações  devem  ser  feitas  no  circuito 
+elétrico  para  que  as  hastes  de  3A  e  4A  entrem  em  avanço  simultaneamente 
+quando a chave seletora B3 for acionada? 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Na  tela  inicial  é  possível ver a  bancada  para experimentos  de  eletropneumática. No 
+canto  superior  esquerdo  é  possível  acessar  as  opções  de  câmera.  Nelas  você  pode 
+visualizar os componentes das gavetas do armário e os componentes sobre a bancada 
+de forma mais detalhada. 
+Importante: No modo de visualização do Painel Pneumático o mouse pode ser utilizado 
+para deslocar o ponto de observação e o botão de rolagem do mouse pode ser utilizado 
+para  aproximar  ou  distanciar  o  modo  de  visualização.  Utilize  esta  ferramenta  para 
+facilitar na realização da montagem dos esquemáticos e para identificar a simbologia e 
+nomenclatura dos terminais de conexão. 
+Na  parte  superior  direita  é  possível  selecionar  o  painel  de  esquemáticos,  a  caixa  de 
+anotações e o menu do experimento. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Acesse os  esquemáticos clicando  com o  botão  esquerdo  do  mouse sobre  o  menu 
+indicado. 
+ 
+ 
+ 
+Troque de circuito clicando com o botão esquerdo do mouse no botão destacado. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Feche o esquemático clicando com o botão esquerdo do mouse no “X”. 
+ 
+ 
+ 
+Visualize  o  painel eletropneumático clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Painel Eletropneumático” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 1 - ACIONAMENTO DO CILINDRO DE AÇÃO 
+SIMPLES 
+ 
+1. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Neste   experimento   será   utilizado   o diagrama “Experimento 1”,   na janela   de 
+esquemáticos. Visualize o painel pneumático clicando com o botão esquerdo do mouse 
+na câmera “Painel eletropneumático”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe o painel pneumático. 
+ 
+ 
+ 
+Conecte  a  saída  da  unidade  de conservação de  ar  na  entrada  do  bloco  distribuidor 
+clicando com  o  botão  esquerdo  do  mouse  sobre  a  saída  da válvula  de  acionamento 
+manual. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte  as  partes clicando com  o  botão  esquerdo  do  mouse na  entrada  do  bloco 
+distribuidor. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte o  bloco  distribuidor  à  válvula  S1 clicando com  o  botão  esquerdo  do  mouse 
+sobre uma das saídas do bloco distribuidor. 
+ 
+ 
+ 
+Conecte   as   partes clicando com   o   botão  esquerdo  do   mouse   sobre   a   conexão 
+pneumática de entrada da válvula S1. 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que as partes são conectadas. 
+ 
+ 
+ 
+Conecte a  saída da  válvula  S1  à  conexão  de  entrada  do  cilindro clicando com  o  botão 
+esquerdo do mouse sobre a saída (2) da válvula S1. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte as partes clicando com o botão esquerdo do mouse sobre a conexão de entrada 
+do cilindro de ação simples. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+2. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione  a  válvula  da  unidade  de conservação de ar (botão  azul) clicando  com  o  botão 
+esquerdo mouse sobre ela. 
+ 
+ 
+ 
+Observe que a válvula se abre e um aviso é exibido na parte superior da tela. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Acione o  cilindro  de  ação  simples  clicando com  o  botão  esquerdo  do  mouse  sobre  o 
+botão  verde da válvula S1,  como indicado na imagem abaixo ou aperte a tecla “S” do 
+teclado. 
+ 
+ 
+ 
+Observe que o cilindro é acionado. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Feche a  válvula  da  unidade  de  conservação  de  ar clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Remova as ligações feitas clicando com o botão esquerdo do mouse sobre as ligações. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que a ligação é removida. 
+ 
+ 
+ 
+Remova as ligações também clicando com o botão esquerdo do mouse sobre o botão 
+“Remover mangueiras”, caso prefira. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 2 - ACIONAMENTO CILINDRO DE DUPLA 
+AÇÃO 
+ 
+3. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Neste   experimento   será   utilizado   o diagrama “Experimento 2”,   na janela de 
+esquemáticos. Para  melhor  visualizar  o painel  pneumático,  acesse  a  opção  de  câmera 
+“Painel pneumático”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte  a  saída  da  unidade  de conservação de  ar  na  entrada  do  bloco  distribuidor 
+clicando com o botão esquerdo do mouse sobre a saída da unidade de conservação de 
+ar.  
+ 
+ 
+ 
+Conecte  as  partes clicando com  o  botão  esquerdo  do  mouse na  entrada  do  bloco 
+distribuidor. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que as partes são conectadas. 
+ 
+ 
+ 
+Conecte o  bloco  distribuidor  à  válvula  S1 clicando com  o  botão  esquerdo  do  mouse 
+sobre uma das saídas do bloco distribuidor. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte   as   partes clicando com   o   botão  esquerdo  do   mouse   sobre   a   conexão 
+pneumática de entrada da válvula S1. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a  saída  da  válvula  S1  à  conexão  piloto  da  válvula  V3 clicando com  o  botão 
+esquerdo do mouse sobre a saída (2) da válvula S1 indicada na imagem abaixo. 
+ 
+ 
+ 
+Conecte as partes clicando com o botão esquerdo do mouse sobre a conexão piloto da 
+válvula V3. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que as partes são conectadas. 
+ 
+ 
+ 
+Conecte a  válvula  V3  ao bloco distribuidor, clicando com o botão  esquerdo  do mouse 
+sobre a conexão tipo “L” inferior, indicada na imagem abaixo. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte  a  válvula  V3  ao  bloco  distribuidor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o bloco distribuidor. 
+ 
+ 
+ 
+Observe que a válvula V3 se conecta ao bloco distribuidor. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a saída 4 de V3 com a entrada de acionamento de avanço do cilindro de dupla 
+ação clicando com o botão esquerdo do mouse sobre a saída 4 da válvula. 
+ 
+ 
+ 
+Conecte  as  partes  clicando com o botão  esquerdo  do  mouse  sobre  a  entrada  de 
+acionamento de avanço do cilindro de dupla ação. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe a ligação. 
+ 
+ 
+ 
+Conecte  a  outra  saída  da  válvula  V3  ao  cilindro  de  dupla  ação  clicando  com  o  botão 
+esquerdo  do  mouse sobre  a  entrada  de  acionamento  de  avanço  do  cilindro  de dupla 
+ação.  
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+4. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione  a  válvula  da unidade de  conservação de ar  clicando  com o  botão  esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Observe que a válvula se abre. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Acione o cilindro de dupla ação clicando com o botão esquerdo do mouse sobre o botão 
+verde da válvula S1, como indicado na imagem abaixo, ou aperte a tecla “S” do teclado. 
+ 
+ 
+ 
+Observe que o cilindro é acionado. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Feche a válvula da unidade de conservação clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+ 
+Remova as  ligações de  componentes  feitas clicando com  o botão  esquerdo do  mouse 
+sobre a ligação. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que a ligação é removida. 
+ 
+ 
+ 
+Outra opção é acionar o botão “Remover mangueiras”, que todas as ligações do sistema 
+são removidas. 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 3 - UTILIZAÇÃO DA VÁLVULA “E” 
+ 
+5. PREPARANDO O BLOCO DISTRIBUIDOR 
+ 
+Neste experimento será utilizado o circuito 3, na janela de esquemáticos. Para melhor 
+visualizar painel pneumático, acesse a opção de câmera “Painel pneumático”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe o painel pneumático. 
+ 
+ 
+ 
+Conecte  a  saída  da  unidade  de conservação de  ar  na  entrada  do  bloco  distribuidor 
+clicando com o botão esquerdo do mouse sobre a saída da unidade de conservação de 
+ar. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte as partes clicando com o botão esquerdo do mouse sobre a entrada do bloco 
+distribuidor. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte o  bloco  distribuidor  à  válvula  S1 clicando com  o  botão  esquerdo  do  mouse 
+sobre alguma das saídas do bloco distribuidor. 
+ 
+ 
+ 
+Conecte   as   partes clicando com   o   botão  esquerdo  do   mouse   sobre   a   conexão 
+pneumática de entrada da válvula S1. 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que as partes são conectadas. 
+ 
+ 
+ 
+Conecte o  bloco  distribuidor  à  válvula  S2 clicando com  o  botão  esquerdo  do  mouse 
+sobre alguma das saídas do bloco distribuidor. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte   as   partes clicando com   o   botão  esquerdo  do   mouse   sobre   a   conexão 
+pneumática de entrada da válvula S2. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a saída da válvula S1 à entrada da válvula V6 clicando com o botão esquerdo do 
+mouse sobre a saída (2) da válvula S1 indicada na imagem abaixo. 
+ 
+ 
+ 
+Conecte  os  componentes clicando com  o  botão  esquerdo  do  mouse  sobre  uma  das 
+entradas de V6, que é uma válvula E. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que os componentes são conectados.  
+ 
+ 
+ 
+Conecte a  saída  da  válvula  S2  à  entrada  restante  da  válvula  V6 clicando com  o  botão 
+esquerdo do mouse sobre a saída (2) da válvula S2 indicada na imagem abaixo. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte as partes clicando com o botão esquerdo do mouse sobre a entrada restante 
+de V6, que é uma válvula E. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a  saída  da  válvula  V6  à  conexão  piloto  da  válvula  V3 clicando com  o  botão 
+esquerdo do mouse sobre a saída da válvula V6 indicada na imagem abaixo. 
+ 
+ 
+ 
+Selecione a conexão piloto da válvula V3 clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe que a saída da válvula V6 foi ligada com a conexão piloto da válvula V3. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+6. CONECTANDO A VÁLVULA V3 
+ 
+Conecte o bloco  distribuidor  à  válvula  V3 clicando com  o  botão  esquerdo  do  mouse 
+sobre alguma das saídas restantes do bloco distribuidor. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte   as   partes clicando com   o   botão  esquerdo  do   mouse   sobre   a   conexão 
+pneumática de entrada (1) da válvula V3. 
+ 
+ 
+ 
+Observe que as partes são conectadas. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a saída (4) de V3 com a entrada de acionamento de avanço do cilindro de ação 
+simples clicando com o botão esquerdo do mouse sobre a saída 4 da válvula. 
+ 
+ 
+ 
+Conecte  as  partes clicando com o botão  esquerdo  do  mouse  sobre  a  entrada  de 
+acionamento de avanço do cilindro de ação simples. 
+ 
+ 
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe a ligação. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+7. REALIZANDO OS ACIONAMENTOS 
+ 
+Acione  a  válvula  da unidade de  conservação de ar  clicando  com o  botão  esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Observe que a válvula se abre. 
+ 
+ 
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Para acionar o cilindro de ação simples, é preciso que o ar comprimido seja fornecido ao 
+cilindro pela válvula E (V6). Esta válvula só é acionada quando ela recebe ar comprimido 
+em ambas entradas.  
+Os botões S1 e S2 controlam o funcionamento das válvulas S1 e S2. Para acionar o botão 
+S1  você  pode  utilizar  a  tecla “S” do  seu  teclado  e  para  acionar  o  botão  S2  você  pode 
+utilizar  a  tecla “D” do  seu  teclado.  Você  também  pode  acionar  esses  botões  clicando 
+neles. 
+ 
+ 
+ 
+Observe que a haste do cilindro se desloca para a direita quando S1 e S2 são acionados 
+simultaneamente. 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Feche  a válvula  da  unidade  de  conservação  de  ar clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Note que a válvula da unidade de conservação de ar foi fechada. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe  que  mesmo  que  você  tente  acionar  o  cilindro  utilizando  S1  e  S2  nada  vai 
+acontecer, pois o fluxo de ar comprimido para o resto do circuito foi interrompido. 
+Remova as ligações clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Observe que a ligação é removida. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Outra opção é acionar o botão “Remover mangueiras”, que todos as ligações do sistema 
+são removidas. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 4 - SISTEMA ELETROPNEUMÁTICO 
+ 
+8. ANALISANDO O ESQUEMÁTICO 
+ 
+Selecione  o  diagrama “Experimento 4”  na  janela  de  esquemáticos,  nele  você  poderá 
+encontrar o seguinte diagrama. 
+ 
+ 
+ 
+Observe  que  existem  dois  circuitos.  No  circuito  da  esquerda  são  utilizadas  apenas 
+ligações  pneumáticas,  por  onde haverá  passagem  de  ar  comprimido de acordo  com o 
+estado dos equipamentos. Já o funcionamento do circuito da direita opera com energia 
+elétrica em uma tensão contínua de 24 V.  
+Ao  contrário  das  válvulas  V1,  V2,  V3  e  V4  que  seu  acionamento  é  dado  por  um  sinal 
+pneumático, o acionamento das válvulas V8, V9, V10 e V11 é dado por um solenoide, 
+que é acionado quando submetida a uma tensão de 24 V. No Esquemático 4 são exibidos 
+2 solenoides, Y1 e Y2, que serão utilizados para definir a posição dos contatos da válvula. 
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe também que serão utilizados no circuito elétrico dois sensores magnéticos que 
+identificam se o pistão se encontra em uma determinada posição. O sensor 2B1 somente 
+permite a passagem de corrente quando o pistão se encontra completamente recuado, 
+já o sensor 2B2 somente permite a passagem de corrente quando o pistão se encontra 
+completamente avançado. 
+Com  os  experimentos  realizados  anteriormente,  você  já  é  capaz  de  compreender  as 
+principais funcionalidades dos equipamentos deste laboratório virtual. A montagem do 
+circuito será iniciada pela parte pneumática. Note que no esquemático não especifica 
+qual válvula direcional 5/2 vias com duplo solenoide deve ser utilizada, então durante a 
+montagem  do  circuito  você  pode  escolher entre  V9  e  V11  sem  que  haja  diferença  na 
+operação eletropneumática realizada. 
+ 
+ 
+ 
+Observe  que, de  acordo  com  o  esquemático, a  saída  4  da  válvula  fornece  o  sinal 
+pneumático de avanço da haste enquanto a saída 2 da válvula fornece o sinal de recuo 
+da haste. 
+Agora que a montagem da parte pneumática foi realizada, o circuito elétrico deve ser 
+montado. Seguindo a montagem do primeiro ramo temos: 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  a 
+entrada 13 do sensor magnético 2B1. 
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+• Conectar  a  saída  14  do  sensor  magnético  2B1  com  o  terminal  13  do  botão  de 
+pulso B1. 
+• Conectar  a  saída  14  do  botão  de  pulso  B1  com  o  terminal  A1  do solenoide  Y1 
+encontrada na válvula direcional V9. 
+• Conectar o terminal A2 do solenoide Y1 encontrada na válvula direcional V9 com 
+um dos terminais de Power Supply de 0 V (borne azul). 
+Realizando as conexões de acordo com as instruções acima é possível chegar ao circuito 
+abaixo, onde o primeiro ramo do circuito elétrico foi montado. 
+ 
+ 
+ 
+Para realizar a montagem do segundo ramo do circuito elétrico siga as instruções abaixo: 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  a 
+entrada 13 do sensor magnético 2B2. 
+• Conectar  a  saída  14  do  sensor  magnético  2B2  com  o  terminal  13  do  botão  de 
+pulso B2. 
+• Conectar  a  saída  14  do  botão  de  pulso  B2  com  o  terminal  A1  do solenoide  Y2 
+encontrada na válvula direcional V9. 
+• Conectar o terminal A2 do solenoide Y2 encontrada na válvula direcional V9 com 
+um dos terminais de Power Supply de 0 V (borne azul). 
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Realizando as conexões de acordo com as instruções acima é possível chegar ao circuito 
+abaixo, onde o circuito elétrico foi completamente montado. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+9. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Para que o circuito eletropneumático entre em operação, é necessário que a válvula de 
+acionamento manual conectada a unidade de condicionamento seja acionada para que 
+a  parte  pneumática  do  sistema  seja  alimentada.  Quando  esta  válvula  se  encontra 
+acionada seu botão se encontra na horizontal, como pode ser visto na figura abaixo. 
+Também é necessário que a chave da alimentação elétrica (Power Supply) seja acionada 
+para   que   os terminais   com   tensão   contínua   entre   em   funcionamento.   Este 
+comportamento  pode  ser  observado  quando  a  chave  da  alimentação  e  o  LED  branco 
+entre os terminais de alimentação acendem. 
+ 
+ 
+ 
+Com a alimentação pneumática e elétrica estabelecidas é possível realizar os testes de 
+operação  com  o  circuito  do  esquemático. Depois  de  finalizado,  além  de  remover  as 
+mangueiras,  agora  vocês  removeram  os  cabos  vermelhos,  clicando  no  lado  direito 
+superior na opção “Remover cabos”. 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 5 - UTILIZAÇÃO DO RELÉ TEMPORIZADOR 
+ 
+10.ANALISANDO O ESQUEMÁTICO 
+ 
+Neste  experimento  será  utilizado  um  relé  temporizador.  Um  equipamento que  só 
+comuta seus terminais após um determinado intervalo de tempo, definido pelo usuário, 
+em  que  seus  terminais  de  comando  devem  se  manter  acionados  o  tempo  todo. O 
+contato  15/16  é  normalmente  fechado  enquanto  o  contato  15/18  é  normalmente 
+aberto. 
+Selecione  o  diagrama  “Experimento  5”  na  janela  de  esquemáticos,  nele  você  poderá 
+encontrar o seguinte diagrama. 
+ 
+ 
+ 
+O circuito pneumático é semelhante ao circuito montado no experimento anterior, onde 
+é   utilizada   uma   válvula   direcional   5/2   vias   com   duplo   solenoide   e   um   cilindro 
+pneumático de ação dupla. Fique atento quando for realizar a conexão entre a válvula e 
+o cilindro para conectar de acordo com o esquemático. 
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+No circuito elétrico a bobina do relé temporizador está em série com uma chave seletora 
+de  duas  posições.  Uma  vez  que  a  bobina  seja  energizada  o  equipamento  realizará  a 
+contagem  e  comutará  seus  contatos  internos.  Os  solenoides  que  definem  a  ligação 
+interna da válvula estão conectados nos terminais de saída do temporizador 
+ 
+Com  os  experimentos  realizados  anteriormente,  você  já  é  capaz  de  compreender  as 
+principais funcionalidades dos equipamentos deste laboratório virtual. A montagem do 
+circuito será iniciada pela parte pneumática. Note que no esquemático não especifica 
+qual válvula direcional 5/2 vias com duplo solenoide deve ser utilizada, então durante a 
+montagem  do  circuito  você  pode  escolher  entre  V9  e  V11  sem  que  haja  diferença  na 
+operação eletropneumática realizada. 
+ 
+ 
+ 
+Observe  que  de  acordo  com  o  esquemático  a  saída  2  da  válvula  fornece  o  sinal 
+pneumático de avanço da haste enquanto a saída 4 da válvula fornece o sinal de recuo 
+da haste. 
+Agora que a montagem da parte pneumática foi realizada, o circuito elétrico deve ser 
+montado. Seguindo a montagem do primeiro ramo temos: 
+• Conectar  um  dos  terminais  de Power  Supply de 24  V  (borne  vermelho)  com  a 
+entrada 13 da chave seletora B4. 
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+• Conectar a saída 14 da chave seletora B4 com o terminal A1 do relé temporizador 
+T1. 
+• Conectar o terminal A2 do relé temporizador T1 com um dos terminais de Power 
+Supply de 0 V (borne azul). 
+Realizando as conexões de acordo com as instruções acima é possível chegar ao circuito 
+abaixo, onde o primeiro ramo do circuito elétrico foi montado. 
+ 
+ 
+ 
+Para realizar a montagem do segundo ramo do circuito elétrico siga as instruções abaixo: 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  o 
+terminal 15 do relé temporizador T1. 
+• Conectar o terminal 16 do relé temporizador T1 com o terminal A1 do solenoide 
+Y1 encontrada na válvula direcional V9. 
+• Conectar o terminal A2 do solenoide Y1 encontrada na válvula direcional V9 com 
+um dos terminais de Power Supply de 0 V (borne azul). 
+• Conectar o terminal 18 do relé temporizador T1 com o terminal A1 do solenoide 
+Y2 encontrada na válvula direcional V9. 
+• Conectar o terminal A2 do solenoide Y2 encontrada na válvula direcional V9 com 
+um dos terminais de Power Supply de 0 V (borne azul). 
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Realizando as conexões de acordo com as instruções acima é possível chegar ao circuito 
+abaixo, onde o circuito elétrico foi completamente montado. 
+ 
+‘ 
+ 
+Siga para o próximo passo clicando com o botão esquerdo do mouse em Temporizador 
+no menu. 
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+11. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Agora  que  o  circuito  do  experimento  foi  devidamente  montado,  o  relé  temporizador 
+deve  ser  configurado para  definir quanto tempo  após  a  energização  de  sua bobina  os 
+seus contatos internos vão comutar. 
+ 
+ 
+ 
+Desloque o slider destacado na imagem acima para regular o tempo que é medido em 
+segundos. Observe que o knob do equipamento se desloca de acordo com a posição do 
+slider,  permitindo  a  configuração  do  equipamento.  Ajuste  o  tempo  do  relé  para  5 
+segundos. 
+Para que o circuito eletropneumático entre em operação, é necessário que a válvula de 
+acionamento manual conectada a unidade de conservação de ar seja acionada para que 
+a  parte  pneumática  do  sistema  seja  alimentada.  Quando  esta  válvula  se  encontra 
+acionada  seu  botão  se  encontra  na horizontal. Também é  necessário  que  a  chave  da 
+alimentação  elétrica  (Power  Supply)  seja  acionada  para  que  os  terminais  com  tensão 
+contínua entrem em funcionamento. Este comportamento pode ser observado quando 
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+a  chave  da  alimentação  e  o  LED  branco  entre  os  terminais  de  alimentação  acendem. 
+Depois de finalizado a montagem, remova os cabos e as mangueiras.  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+ESQUEMÁTICO 6 - UTILIZAÇÃO DO CONTATOR 
+ 
+12. ANALISANDO O ESQUEMÁTICO 
+ 
+Neste experimento será utilizado um contator, um equipamento amplamente utilizado 
+no ambiente industrial. Quando a bobina de um contato recebe um determinado nível 
+de  tensão, o  estado  de  seus  contatos  internos  muda,  contatos  que  são  normalmente 
+fechados se abrem e contatos que são normalmente abertos se fecham. Uma vez que a 
+tensão na bobina cessa, os contatos internos retornam ao seu estado inicial. 
+Selecione  o  diagrama  “Experimento  6”  na  janela  de  esquemáticos,  nele  você  poderá 
+encontrar o seguinte diagrama. 
+ 
+ 
+ 
+O circuito pneumático neste esquemático utiliza dois cilindros de simples ação e retorno 
+por mola. O deslocamento da haste destes cilindros é definido por duas válvulas 5/2 vias 
+com solenoide e retorno por mola. Fique atendo quando for realizar a conexão entre a 
+válvula e o cilindro para conectar de acordo com o esquemático. 
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Na  parte  elétrica  do  esquemático  é  possível  ver  que  a  nomenclatura  utilizada  para 
+diferenciar os solenoides das válvulas. Em série com os contatos 13/14 (normalmente 
+aberto) de K1 está o solenoide Y1_(V8), que significa que está é o solenoide Y1 da válvula 
+V8. A mesma análise se adequa a Y1_(V10). 
+No circuito elétrico a bobina do contator está em série com uma chave seletora de duas 
+posições.  Uma  vez  que a  bobina  seja  energizada  os  contatos  interno  do equipamento 
+comutam de estado.  
+Antes de iniciar essa parte do experimento, minimize o menu de visualização clicando 
+com  o  botão  esquerdo sobre  ele, para ter  uma  maior  área  de  visão  do  painel 
+eletropneumático. 
+ 
+ 
+ 
+Com  os  experimentos  realizados  anteriormente,  você  já  é  capaz  de  compreender  as 
+principais funcionalidades dos equipamentos deste laboratório virtual. A montagem do 
+circuito  será  iniciada  pela  parte  pneumática.  Note  que  no  esquemático  são  utilizadas 
+duas válvulas 5/2 vias com solenoide e retorno por mola, sendo elas V8 e V10. 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Conecte a saída 4 da válvula V8 com o cilindro 3A e conecte a saída 4 da válvula V10 com 
+o cilindro 4A. 
+ 
+ 
+ 
+Agora que a montagem da parte pneumática foi realizada, o circuito elétrico deve ser 
+montado. Seguindo a montagem do primeiro ramo temos: 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  a 
+entrada 13 da chave seletora B3. 
+• Conectar a saída 14 da chave seletora B3 com o terminal A1 do contator K1. 
+• Conectar o terminal A2 do contator K1 com um dos terminais de Power Supply 
+de 0 V (borne azul). 
+  
+
+  
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Realizando as conexões de acordo com as instruções acima é possível chegar ao circuito 
+abaixo, onde o primeiro ramo do circuito elétrico foi montado. 
+ 
+ 
+ 
+Para  realizar  a  montagem  do  segundo  e  terceiro  ramo  do  circuito  elétrico  siga  as 
+instruções abaixo: 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  o 
+terminal 13 do contator K1. 
+• Conectar  o  terminal  14  do  contato  K1  com  o  terminal  A1  do solenoide  Y1 
+encontrada na válvula direcional V8. 
+• Conectar o terminal A2 do solenoide Y1 encontrada na válvula direcional V8 com 
+um dos terminais de Power Supply de 0 V (borne azul). 
+• Conectar  um  dos  terminais  de Power  Supply de 24 V (borne  vermelho)  com  o 
+terminal 21 do contator K1. 
+• Conectar  o  terminal  22  do  contato  K1  com  o  terminal  A1  do solenoide  Y1 
+encontrada na válvula direcional V10. 
+• Conectar  o  terminal  A2  do solenoide  Y1  encontrada  na  válvula  direcional  V10 
+com um dos terminais de Power Supply de 0 V (borne azul). 
+
+  
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Observe na  imagem  abaixo  as  conexões  dos  três  primeiros  ramos  do  circuito  elétrico. 
+Os cabos pneumáticos foram retirados apenas para que a imagem seja mais didática. 
+ 
+ 
+ 
+No  último  ramo será  utilizada  uma  lâmpada  de  sinalização  em  série  com  um  dos 
+contatos do contator. 
+Perceba que mesmo que os três terminais de 24 V de Power Supply já estejam em uso, 
+assim como os três terminais de 0V, é possível realizar ligações utilizando estes terminais 
+ao conectar um cabo encaixado sobre os conectores já utilizados. 
+Para realizar a montagem do quarto ramo do circuito elétrico siga as instruções abaixo: 
+• Conectar  um  dos  terminais  de Power  Supply de  24  V  (borne  vermelho)  com  o 
+terminal 43 do contator K1. 
+• Conectar  o  terminal  44  do  contator  K1  com  o  terminal  A1  da  lâmpada  de 
+sinalização H1 (localizada juntamente com o botão de pulso B1). 
+  
+
+  
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+• Conectar o terminal A2 da lâmpada de sinalização H1 com um dos terminais de 
+Power Supply de 0 V (borne azul). 
+ 
+ 
+  
+
+  
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+13. OPERANDO COM O CIRCUITO ELETROPNEUMÁTICO 
+ 
+Para que o circuito eletropneumático entre em operação, é necessário que a válvula de 
+acionamento manual conectada a unidade de condicionamento seja acionada para que 
+a  parte  pneumática  do  sistema  seja  alimentada.  Quando  esta  válvula  se  encontra 
+acionada seu botão se encontra na horizontal. 
+Também é necessário que a chave da alimentação elétrica (Power Supply) seja acionada 
+para   que   os   terminais   com   tensão   contínua   entrem em   funcionamento.   Este 
+comportamento  pode  ser  observado  quando  a  chave  da  alimentação  e  o  LED  branco 
+entre os terminais de alimentação acendem. 
+ 
+ 
+  
+
+  
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+Depois de finalizado a montagem, remova os cabos e as mangueiras. 
+ 
+ 
+  
+
+  
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ELETROPNEUMÁTICA 
+ 
+14. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 11 a  13 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,565 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá aprender a realizar o método de Willis. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Amostra de Fezes; 
+• Sulfato de zinco; 
+• Bastão de vidro; 
+• Hipoclorito de sódio; 
+• Lâmina; 
+• Lamínula; 
+• Cuba de vidro; 
+• Béquer de 50 mL; 
+• Funil; 
+• Gaze. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+  
+2. DILUINDO A AMOSTRA 
+ 
+Abra o coletor e transfira 50 g da amostra para o béquer contendo sulfato de zinco 
+com auxílio do bastão de vidro. 
+ 
+3. FILTRANDO A AMOSTRA 
+ 
+Coloque o funil e a gaze no béquer de 50 mL e despeje a amostra diluída no funil. Em 
+seguida, descarte o funil e a gaze. 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Transfira  a  amostra  filtrada  para  a  cuba  de  vidro,  depois  coloque  a  lâmina  de  vidro 
+sobre a cuba e espere 20 minutos. Em seguida, retire a lâmina e coloque a lamínula. 
+ 
+5. FOCANDO O MICROSCÓPIO 
+ 
+Leve  a  lâmina  para  o microscópio  e  foque-o  com  auxílio  do  macrométrico  e  do 
+micrométrico 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Para quais ovos o método de Willis é utilizado? 
+ 
+ 
+ 
+2. Qual o princípio da técnica de Willis? 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscaras 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+2. DILUINDO A AMOSTRA 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra o pote clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Dilua a amostra clicando com o botão esquerdo do mouse sobre o bastão de vidro. 
+ 
+ 
+ 
+Feche o pote clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+2. FILTRANDO A AMOSTRA 
+ 
+Coloque o funil no béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque a gaze no béquer clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Transfira  a  amostra  diluída  para  o  béquer  com  o  funil  e  a  gaze clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Descarte o funil e a gaze no béquer clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Transfira  a  amostra filtrada  para  a  cuba  de  vidro clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Coloque a lâmina na cuba de vidro clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Pule o tempo clicando com o botão esquerdo do mouse sobre o box “Pular”. 
+ 
+ 
+ 
+Coloque a lamínula sobre a lâmina clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Leve a lâmina ao microscopio clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+4. FOCANDO O MICROSCÓPIO 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue o  microscópio clicando  com  o  botão  esquerdo  do  mouse  sobre  o interruptor 
+localizado no canto inferior direito dele. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Caso o nome das peças do microscópio não esteja aparecendo ao colocar o cursor sobre 
+elas, clique com o botão esquerdo do mouse sobre o box “Habilitar nomes”. 
+ 
+ 
+ 
+Visualize a frente do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Rotacione  as  lentes  objetivas  clicando  com  o  botão  esquerdo  do  mouse  sobre  elas  e 
+movimentando o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+ 
+Ajuste o diafragma clicando com o botão esquerdo do mouse sobre ele e movimentando 
+o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Ajuste  os  parafusos macro  e  micrométrico clicando  com  o  botão  esquerdo  do  mouse 
+sobre eles e movimentando o cursor à esquerda ou à direita enquanto mantém o botão 
+pressionado. 
+ 
+ 
+ 
+Movimente   o   charriot clicando   com   o   botão   esquerdo   do   mouse   sobre   ele   e 
+movimentando o cursor à esquerda ou à direita enquanto mantém o botão pressionado. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Lembre-se  que  o  charriot  possui  dois  botões,  superior  e  inferior,  que  permitem 
+movimentar a lâmina para frente/trás e esquerda/direita, respectivamente. Portanto, é 
+necessário   manter   o   cursor   pressionado   no   local   adequado   de   acordo   com   a 
+movimentação que deve ser realizada.  
+ 
+ 
+ 
+Ative o uso do microscópio com as setas do teclado clicando com o botão esquerdo do 
+mouse sobre o box “Usar microscópio com as setas”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+Para  selecionar  a  peça  do  microscópio  que  deseja  movimentar,  utilize  as  setas  do 
+teclado “para cima e para baixo”. Observe que a região selecionada ficará destacada em 
+vermelho  tanto  no  microscópio  como no  esquemático  no  canto  inferior  esquerdo  da 
+tela.  Em  seguida,  realize  a  movimentação  da  peça  destacada  utilizando  as  setas 
+“esquerda e direita” do teclado. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone circular no 
+canto direito da tela. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+MÉTODO DE WILLIS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

@@ -1,0 +1,494 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá aprender sobre o sistema  nervoso  central  e  as 
+estruturas anatômicas com as quais faz parte. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O esqueleto craniano é dividido em duas partes, quais são elas? 
+ 
+ 
+ 
+2. Quais são as três meninges que protegem o encéfalo? 
+ 
+ 
+ 
+3. O que é a substância branca e quais são os seus funículos? 
+ 
+ 
+ 
+4. Qual a importância da vascularização para o tecido nervoso e quantos sistemas 
+arteriais compõem a vascularização encefálica? 
+ 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+5. Quais as estruturas irrigadas pelas artérias cerebrais posteriores? 
+ 
+ 
+ 
+6. Qual a função e localização das estruturas do diencéfalo? 
+ 
+ 
+ 
+7. Quais são as informações sensoriais que se tornam conscientes a nível talâmico? 
+ 
+ 
+ 
+8. Defina o tronco encefálico: 
+ 
+ 
+ 
+9. Qual a função do bulbo e quais seus componentes? 
+ 
+ 
+ 
+10. O que é o IV ventrículo? 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+11. Existe quantos pares cranianos? Cite-os: 
+ 
+ 
+ 
+12. Qual  a  função  do  colículo  superior  e  do  colículo  inferior  presentes  no  teto  do 
+mesencéfalo? 
+ 
+ 
+ 
+13. Qual a função, localização e divisões do cerebelo? 
+ 
+ 
+ 
+14. Quais  são  os pedúnculos  cerebelares  que  conectam  o  cerebelo  ao  sistema 
+segmentar? 
+ 
+ 
+ 
+15. De acordo com a divisão filogenética do cerebelo, qual é a região mais antiga do 
+cerebelo e por qual lobo é constituída?  
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+16. Conceitue a medula espinhal, nervos espinhais e segmentos medulares: 
+ 
+ 
+ 
+17. O que são as vias ascendentes e descendentes? 
+ 
+ 
+ 
+18. Qual a função da substância branca? 
+ 
+ 
+ 
+19. Quais são as regiões da substância cinzenta? 
+ 
+ 
+ 
+20. Qual a função do trato corticoespinhal lateral? 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO A INTERFACE 
+ 
+Essa é a interface geral. Veja que há muitos elementos e iremos falar a função de cada 
+um deles nos itens a seguir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+É importante que você tenha expandido a tela do experimento, para que as funções do 
+navegar  não  conflitem  com  as  funções  do  experimento.  Assim,  quando  a  tela  é 
+expandida, você poderá rotacionar o modelo, ao deixar pressionado o botão direito do 
+mouse e movê-lo. 
+ 
+ 
+ 
+Controle o  zoom clicando  com  o  botão  esquerdo  do  mouse nos  botões  “Zoom -” e 
+“Zoom +” ou utilize o botão de rolagem do mouse. 
+ 
+ 
+  
+c 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Movimente o  modelo em  diferentes  angulações clicando  com  o botão esquerdo  do 
+mouse nos botões indicados. 
+ 
+ 
+ 
+Realize movimentações no modelo (direita, esquerda, para cima e para baixo) clicando 
+com o botão esquerdo do mouse nos botões indicados. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Pesquise uma peça anatômica clicando com o botão esquerdo do mouse sobre a caixa 
+indicada e digite através do teclado da sua máquina. 
+ 
+ 
+ 
+Escolha  o  modo  do  modelo  clicando  com  o  botão esquerdo  do  mouse  sobre  o  botão 
+indicado e selecione uma das opções: Modo instrucional ou Modo cadavérico. 
+ 
+ 
+  
+c 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Visualize o nome da peça passando o cursor do mouse sobre a peça de interesse. 
+ 
+ 
+ 
+Desfaça  a  seleção  da  peça  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Obtenha informações sobre a peça a ser analisada clicando com o botão esquerdo do 
+mouse sobre “Informações” e selecione uma das opções a ser estudada. 
+ 
+ 
+ 
+Selecione o “Guia de estudos” ativado clicando com o botão esquerdo do mouse sobre 
+o “Guia” e selecione uma das opções de estudo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Inicie  a  leitura  do  sistema  selecionado. Avance  ou  retorne clicando  com  o  botão 
+esquerdo do mouse sobre as setas.  
+ 
+ 
+ 
+Caso  precise  dar mais  atenção  na  peça  anatômica,  isole-a  das  demais clicando com  o 
+botão esquerdo do mouse na estrutura e, em seguida, selecione em “Isolar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Retorne  a  visualização  das  demais  estruturas  desabilitando a  funcionalidade clicando 
+com o botão esquerdo sobre “Isolar” 
+ 
+ 
+ 
+Selecione uma peça para identificar as áreas individuais clicando com o botão esquerdo 
+do mouse sobre “Pinagem”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Visualize a identificação das estruturas com o recurso de pinagem passando o cursor do 
+mouse sobre o pino de interesse. Ao finalizar desabilite a funcionalidade clicando com 
+o botão esquerdo do mouse sobre “Pinagem”. 
+ 
+ 
+ 
+Selecione um grupo anatômico clicando com o botão esquerdo do mouse sobre o botão 
+sobre “Selecionar Grupo” e selecione uma das opções. Observe na imagem abaixo que 
+o sistema escolhido foi o grupo dentário. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+Após  selecionar  uma  peça, retire-a  do  campo  de  visualização clicando  com  o  botão 
+esquerdo  do  mouse  sobre “Esconder”.  Observe na  imagem  abaixo que após  aplicar  o 
+recurso podemos visualizar a dura-máter. 
+ 
+ 
+ 
+Ative a  transparência  da peça selecionada clicando  com  o  botão  esquerdo  do  mouse 
+sobre “Transparência”.  Regule pressionando e  arrastando  o  cursor  do  mouse sobre 
+barra indicada. Observe que a peça selecionada foi o manúbrio do esterno e podemos 
+observar o arco da aorta. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+NEUROANATOMIA  
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 05 até  08 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento  associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

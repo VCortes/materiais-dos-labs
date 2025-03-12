@@ -1,0 +1,505 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a produção e 
+caracterização  de etanol. O  etanol  pode  ser  obtido  através  da  fermentação  de 
+matérias-primas  ricas  em  açúcares,  como cana-de-açúcar,  milho,  beterraba  e 
+mandioca, ou por meio da hidratação do etileno, obtido a partir do petróleo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Aquecedor magnético; 
+• Balão de destilação; 
+• Banho de gelo; 
+• Béquer de 300 mL; 
+• Béquer de 500 mL; 
+• Caldo de cana; 
+• Colher metálica; 
+• Fermento biológico seco; 
+• Funil; 
+• Kitasato de 250mL com rolha para vedamento; 
+• Mangueira de 30 cm; 
+• Manta aquecedora; 
+• Papel coador de café; 
+• Tubo de Ensaio; 
+• Vidro de relógio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, máscara, óculos de proteção e as luvas. 
+ 
+2. FILTRANDO E AQUECENDO 
+ 
+Transfira o caldo de cana para o béquer. Mova o béquer para o agitador magnético. Aqueça o 
+caldo enquanto agita com a colher metálica. Mova o béquer para o banho de gelo. 
+ 
+3. REALIZANDO A FERMENTAÇÃO 
+ 
+Mova  o  béquer  para  o  kitasato.  Retire  o  funil  do  kitasato.  Adicione  fermento  ao  kitasato  e 
+tampe. Em seguida, aguarde a fermentação. 
+ 
+4. DESTILANDO E PURIFICANDO 
+ 
+Destampe o kitasato e transfira o conteúdo para o balão e remova o funil. Em seguida, feche 
+o balão e inicie o processo de destilação e condensação. Por fim, mova o acendedor para o 
+béquer e ligue-o. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+  
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  são  as  principais matérias-primas  utilizadas  na  produção  de  etanol  de 
+primeira geração e de segunda geração? 
+ 
+ 
+ 
+2. Além  das propriedades físico-químicas, quais  outros  aspectos  são  avaliados  na 
+caracterização   do   etanol,   especialmente   em   relação   ao   seu   uso   como 
+biocombustível? 
+ 
+ 
+ 
+3. Além  das propriedades físico-químicas, quais  outros  aspectos  são  avaliados  na 
+caracterização   do   etanol,   especialmente   em   relação   ao   seu   uso   como 
+biocombustível? 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, óculos 
+de proteção e as luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+2. FILTRANDO E AQUECENDO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Transfira o caldo de cana para o béquer clicando com o botão direito do mouse sobre o 
+frasco âmbar e selecione a opção “Transferir conteúdo para o béquer”. 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Mova o béquer para o agitador magnético clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Posicionar no agitador magnético”. 
+ 
+ 
+ 
+Aqueça o caldo de cana clicando com o botão esquerdo do mouse no agitador. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Mova o béquer aquecido para o banho de gelo clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Posicionar no banho de gelo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+3. REALIZANDO A FERMENTAÇÃO 
+ 
+Transfira o conteúdo do béquer para o kitasato clicando com o botão direito do mouse 
+sobre o béquer e selecione a opção “Transferir conteúdo para o kitasato”. 
+ 
+ 
+ 
+Retire  o  funil  de  cima  do  kitasato  clicando  com  o  botão  direito  do  mouse  sobre  ele e 
+selecione a opção “Remover”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Adicione fermento ao kitasato clicando com o botão direito do mouse sobre o fermento 
+e selecione a opção “Adicionar fermento”. 
+ 
+ 
+ 
+Tampe o kitasato clicando com o botão direito do mouse sobre a tampa localizada na 
+bancada e selecione a opção “Tampar kitasato”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Aguarde  a  fermentação  clicando  com  o  botão  direito  do  mouse  sobre  o  kitasato  e 
+selecione a opção “Aguardar fermentação”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+4. DESTILANDO E PURIFICANDO 
+ 
+Destampe  o  kitasato  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  dele  e 
+selecione a opção “Destampar kitasato”. 
+ 
+ 
+ 
+Transfira o conteúdo do kitasato para o balão clicando com o botão direito do mouse 
+sobre o kitasato e selecione a opção “Transferir para balão”. 
+ 
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Remova  o  funil  clicando com  o  botão direito  do mouse  sobre  ele  e  selecione  a opção 
+“Remover”. 
+ 
+ 
+ 
+Tampe  o  balão  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  do  balão  e 
+selecione a opção “Tampar balão”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+Inicie a destilação e a condensação clicando com o botão direito do mouse sobre o balão 
+e selecione a opção “Iniciar destilação e condensação”. 
+ 
+ 
+ 
+Por  fim  aqueça  o etanol  clicando  com o  botão  direito do  mouse  sobre  o  aquecedor e 
+selecione a opção “Posicionar sobre o béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO E CARACTERIZAÇÃO DO ETANOL 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

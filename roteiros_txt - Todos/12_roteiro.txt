@@ -1,0 +1,546 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender como ocorre o processo de conservação 
+de energia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+3) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Nível bolha; 
+• Fuso elevador; 
+• Multicronômetro; 
+• Sensor fotoelétrico; 
+• Plano inclinado; 
+• Corpo de prova cilíndrico oco; 
+• Corpo de prova cilíndrico maciço. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO O EXPERIMENTO 
+ 
+Com o auxílio do nível bolha, nivele a base. Ajuste o sensor na posição desejada 
+e regule a inclinação da rampa.  
+ 
+2. LIGANDO O MULTICRONÔMETRO 
+ 
+Ligue o multicronômetro e selecione a função “F2 VM 1 SENSOR”, inserindo  o 
+diâmetro do corpo de prova cilíndrico. 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+3. ENSAIANDO O CORPO DE PROVA OCO 
+ 
+Posicione o corpo de prova oco na rampa e solte-o. Verifique os resultados de 
+tempo  e  velocidade  no  display  do  multicronômetro.  Repita  o  procedimento 
+mais 2 vezes. 
+ 
+4. REPETINDO COM O CORPO DE PROVA MACIÇO 
+ 
+Refaça  o  passo  3  para  realizar  o  experimento 3  vezes com  o  corpo  de  prova 
+maciço.  
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos. 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Anote na Tabela 1 os valores obtidos no experimento. Houve diferença entre as 
+velocidades dos corpos de prova ensaiados? Se sim, intuitivamente, qual seria o 
+motivo? 
+Velocidade linear (m/s) Cilindro oco Cilindro maciço 
+Descida 1   
+Descida 2   
+Descida 3   
+Média   
+Tabela 1 – Valores de velocidade linear obtidos no experimento 
+ 
+ 
+2. Utilizando as informações da Tabela 2 e as equações apresentadas no sumário 
+teórico, e sabendo que o corpo de prova foi solto na posição 60 mm da régua, 
+calcule e preencha a Tabela 3 com os valores obtidos para as grandezas. 
+Especificações Cilindro oco Cilindro maciço 
+Massa – m (g) 110 300 
+Diâmetro interno – d
+i 
+(mm) 40 - 
+Diâmetro externo – d
+e 
+(mm) 50 50 
+Densidade do aço (
+품
+풄풎
+ퟑ
+) 
+7,86 7,86 
+Tabela 2 – Especificações dos corpos de prova 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Grandezas Cilindro oco Cilindro maciço 
+Momento de inércia – I (kg.m
+2
+)   
+Velocidade linear média – V (m/s)   
+Velocidade angular – ω (rad/s)   
+Energia cinética de translação - K
+t
+ (푱=풌품 
+풎
+ퟐ
+풔
+ퟐ
+) 
+  
+Energia cinética de rotação – K
+r
+ (푱=풌품 
+풎
+ퟐ
+풔
+ퟐ
+) 
+  
+Energia cinética total – K (푱=풌품 
+풎
+ퟐ
+풔
+ퟐ
+) 
+  
+Energia potencial gravitacional – U (푱=풌품 
+풎
+ퟐ
+풔
+ퟐ
+) 
+  
+Erro relativo percentual em relação à energia 
+inicial do cilindro – ER% (%) 
+  
+Tabela 3 – Grandezas relacionadas à conservação da energia 
+ 
+ 
+ 
+3. É certo afirmar que a energia potencial gravitacional é igual a soma das energias 
+cinéticas de translação e rotação? Por quê? 
+ 
+ 
+4. Calcule o erro relativo entre a energia envolvida quando o corpo de prova está 
+no  topo  do  plano  e  a  energia  quando  ele  passa  pelo  sensor. Caso  o  erro  seja 
+maior que zero, qual seria o motivo para isto? 
+ 
+ 
+5. Como   você   definiria   a   conservação   da   energia   em   termos   das   energias 
+envolvidas neste experimento? 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AJUSTANDO O EXPERIMENTO 
+ 
+Nivele a base, com o auxílio do nível bolha. Para isso, clique sobre o nível que está sobre 
+a bancada (1) e arraste até a posição destacada em vermelho no plano inclinado (2).  
+ 
+  
+ 
+Para nivelar, basta clicar com o botão direito do mouse sobre o nível bolha e selecionar 
+a opção “Nivelar base”. 
+ 
+  
+2 
+1 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Ajuste a posição do sensor para a distância desejada. Para isso, clique sobre o sensor e 
+arraste  o  mouse.  Perceba  que,  no  canto  inferior  esquerdo  da  tela,  surgirá  uma janela 
+com a escala graduada do plano inclinado e a indicação da posição do sensor. Coloque-
+o na posição 300 mm da régua. 
+ 
+  
+ 
+Regule  a  inclinação  da  rampa,  utilizando  o  fuso  elevador.  É  possível  posicionar  o  fuso 
+elevador  para  grandes  inclinações  (1)  ou  pequenas  (2).  Nesse  experimento,  deve-se 
+posicionar o fuso para grandes inclinações. 
+ 
+ 
+  
+1 
+2 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Gire o fuso elevador, clicando com o botão direito do mouse sobre fuso e selecionando 
+a opção “Girar fuso”. 
+ 
+ 
+ 
+Altere o ângulo de inclinação do plano para 20°, utilizando as setas “Subir” e “Descer” 
+para aumentar e diminuir o ângulo. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+2. LIGANDO O MULTICRONÔMETRO 
+ 
+Para  ligar  o multicronômetro,  acesse  a  câmera  “Cronômetro”.  Coloque  a  fonte  de 
+alimentação na tomada, clicando sobre ela e arrastando até a posição desejada. 
+ 
+ 
+ 
+Conecte o cabo do sensor na porta S
+0
+ do cronômetro, clicando sobre ele e arrastando 
+até a posição desejada.  
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Ligue o cronômetro, clicando no botão “Power”. Selecione o idioma, clicando no botão 
+azul da esquerda. 
+ 
+ 
+ 
+Selecione a função “F2 VM 1 SENSOR”, utilizando o botão azul da direita para procurar 
+a função e o botão central para selecionar. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Insira a largura do corpo de prova. Para isso, clique sobre o botão azul da direita. 
+ 
+ 
+ 
+Ajuste o valor para 50 mm. Para isso, utilize as setas esquerda/direita para alterar a casa 
+decimal e as setas cima/baixo para alterar o valor. Em seguida, confirme o valor, clicando 
+sobre o botão azul da direita.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+3. ENSAIANDO O CORPO DE PROVA OCO 
+ 
+Posicione o corpo de prova oco no plano inclinado. Para isso, clique sobre ele e arraste 
+até a posição desejada.  
+ 
+ 
+ 
+Verifique os resultados no display do multicronômetro, clicando sobre o botão azul da 
+esquerda. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+Observe o resultado exibido. 
+ 
+ 
+ 
+Verifique também o  resultado da velocidade linear no intervalo, clicando sobre a seta 
+direita. Para repetir o experimento, clique no botão azul central. 
+ 
+ 
+ 
+Repita o procedimento mais 2 vezes com o corpo de prova oco. 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PRINCÍPIO DA CONSERVAÇÃO DA ENERGIA 
+ 
+4. REPETINDO COM O CORPO DE PROVA MACIÇO 
+ 
+Repita o procedimento do passo 3 para realizar o ensaio com o corpo de prova maciço, 
+também repetindo 3 vezes.  
+ 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 
+ 

@@ -1,0 +1,673 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá definir  e  conhecer  as  principais  funções dos 
+epitélios  e  tecidos  conjuntivos  (adiposo,  sanguíneo,  cartilaginoso  e  ósseo) e 
+identificar  as  diferenças  histológicas  das  fibras  do  tecido  conjuntivo  denso  e 
+frouxo, assim como onde encontrar cada tipo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Lâmina; 
+• Lamínula; 
+• Swab estéril descartável; 
+• Azul de metileno; 
+• Microscópio óptico; 
+• Kit de lâminas; 
+• Laminário; 
+• Óleo de imersão; 
+• Solução de limpeza (50% éter sulfúrico e 50% clorofórmio); 
+• C
+2
+H
+6
+O (álcool etílico); 
+• Cotonete; 
+• Algodão; 
+• Papel macio. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+TUTOR VIRTUAL 
+ 
+1. PRIMEIROS PASSOS 
+ 
+É  a  sua  primeira  vez  utilizando  o  microscópio?  Caso  sua  resposta  seja  sim, 
+recomendamos  que  inicie  o  laboratório  com  o  auxílio do  “Tutor  Virtual”.  Essa 
+ferramenta é autoexplicativa e irá te guiar por todos os passos para utilização 
+do laboratório e do microscópio. 
+ 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco e luvas. 
+ 
+2. COLETANDO A AMOSTRA DE CÉLULA DA BOCHECHA 
+ 
+Selecione o swab estéril e colete amostra de célula da bochecha. Em seguida, transfira 
+a amostra para a lâmina de vidro. Feito isso, descarte o swab no lixo biológico. 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Adicione uma gota de azul de metileno na lâmina. Em seguida, selecione a lamínula e 
+coloque-a sobre a lâmina. Leve a lâmina ao microscópio. 
+ 
+4. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue  o  microscópio. Visualize  a  lâmina  na  objetiva  de  4x,  10x  e  40x. Atente-se  à 
+instrução que, para movimentação do revólver ou para efetuar as configurações de 
+posicionamento  dos  parafusos,  condensador  ou  diafragma, deve-se  clicar  com  o 
+botão esquerdo do mouse sobre a área desejada e movimentar o cursor do mouse 
+para direita ou esquerda. Coloque uma gota do óleo de imersão sobre a lâmina no 
+microscópio e mude para a objetiva de 100x. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+  
+5. VISUALIZANDO OUTRAS LÂMINAS NO MICROSCÓPIO 
+ 
+Retire  a  lâmina  do  microscópio  e  selecione  as  outras  lâminas  no  laminário  para 
+análise. No laminário contém as seguintes lâminas: língua, traqueia, osso esponjoso, 
+tecido adiposo, tendão e pele. 
+ 
+6. FINALIZANDO A PRÁTICA 
+ 
+Retire a lâmina do microscópio. Desligue o microscópio e higienize-o após concluir as 
+observações. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  características  observadas  podem auxiliar a  classificar  essas  células  como 
+epiteliais? 
+ 
+ 
+ 
+2. Qual o formato e a posição do núcleo de cada célula? 
+ 
+ 
+ 
+3. Você verificou a presença do material genético em cada célula? 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando na torneira com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+2. COLETANDO A AMOSTRA DE CÉLULA DA BOCHECHA 
+ 
+Visualize o paciente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Mesa auxiliar” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Colete a amostra da bochecha clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Fixe a amostra na lâmina de vidro clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+ 
+Descarte o swab na lixeira clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Adicione  uma  gota  de  azul  de  metileno  na  lâmina  clicando  com  o  botão  esquerdo  do 
+mouse no conta gotas. 
+ 
+ 
+ 
+Coloque a lamínula na lâmina clicando com o botão esquerdo do mouse na lamínula. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Mova a lâmina para a bancada clicando com o botão esquerdo do mouse na bancada. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+4. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Visualize  o  interruptor  do  microscópio clicando  com  o  botão esquerdo  do  mouse na 
+câmera com o nome “Microscópio Esquerdo” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+ 
+ 
+Visualize  a parte frontal do microscópio clicando  com  o  botão  esquerdo do mouse na 
+câmera com o nome “Microscópio Frontal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Visualize a lâmina nas objetivas de 4x, 10x e 40x pressionando com o botão esquerdo 
+do mouse sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Visualize a lâmina na objetiva de 100x pressionando com o botão esquerdo do mouse 
+sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Goteje o óleo de imersão na lâmina clicando com o botão esquerdo do mouse no conta 
+gotas. 
+ 
+ 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+5. VISUALIZANDO OUTRAS LÂMINAS NO MICROSCÓPIO 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra  o  laminário  clicando  na  parte  superior  do  laminário  com  o  botão  esquerdo  do 
+mouse. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Selecione as lâminas do laminário clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Visualize a lâmina na objetiva de 4x, 10x, 40x e 100x. Para movimentação do revólver, 
+posicionamento  dos  parafusos  ou  charriot  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a área desejada e movimentar o cursor do mouse para direita ou esquerda.  
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+6. FINALIZANDO PRÁTICA 
+ 
+Feche o laminário clicando na tampa do laminário com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize  o  interruptor  do  microscópio clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Microscópio Esquerdo” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Desligue o microscópio clicando no interruptor com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+Limpe o microscópio clicando com o botão esquerdo do mouse no cotonete, algodão e 
+lenço e papel filtro. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HISTOLOGIA E EMBRIOLOGIA 
+TECIDO EPITELIAL DE REVESTIMENTO E CONJUNTIVO 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

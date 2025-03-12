@@ -1,0 +1,795 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  aprimorará  seus  conhecimentos  sobre  análise de 
+umidade e sólidos totais de alimentos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança analítica; 
+• Cadinho de porcelana; 
+• Dessecador com sílica gel; 
+• Espátula de metal; 
+• Estufa; 
+• Funil; 
+• Gral; 
+• Pinça; 
+• Pistilo. 
+ 
+PROCEDIMENTOS 
+ 
+1. ESCOLHENDO A AMOSTRA 
+ 
+Inicialmente, escolha a amostra que deseja realizar o experimento. 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas de procedimento e óculos. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+  
+3. PREPARANDO OS CADINHOS 
+ 
+Ligue a estufa e aguarde o equipamento pré-aquecer até 105 °C. Mova os 3 cadinhos para a 
+estufa  e  aguarde  por  1  hora  o  aquecimento. Retire  os  cadinhos  da  estufa  e  coloque-os  no 
+dessecador, um por vez. Aguarde 40 minutos até o cadinho esfriar. Mova os cadinhos para a 
+bancada. 
+ 
+4. PREPARANDO A AMOSTRA PARA ANÁLISE 
+ 
+Ligue a balança. Mova o cadinho para a balança e anote o peso do cadinho. Tare o recipiente. 
+Com auxílio do pistilo, triture a amostra no gral. Pese 2 a 5 g da amostra no cadinho e anote o 
+peso. Mova o cadinho para a bancada. Repita os procedimentos anteriores com os outros 2 
+cadinhos, adotando massas diferentes em cada cadinho e anote o peso de cada um. 
+ 
+5. MONTANDO O EXPERIMENTO 
+ 
+Homogeneíze  as  amostras  nos  cadinhos  com  a  espátula.  Mova  os  cadinhos  para  a  estufa e 
+aguarde por 1 hora o aquecimento. Retire os cadinhos da estufa e coloque-os no dessecador, 
+um por vez. Aguarde 40 minutos até o cadinho esfriar. Mova os cadinhos para a bancada. 
+ 
+6. ANALISANDO O RESULTADO 
+ 
+Mova o cadinho para a balança e anote o peso. Compare a nova massa com a massa inicial. 
+Repita esse procedimento com os outros cadinhos. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+  
+7. REPETINDO O EXPERIMENTO 
+ 
+Reinicie  o  experimento  e  selecione  uma  nova  amostra  para  realizar  a  análise.  Siga  todo  o 
+procedimento descrito acima para as outras amostras. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada na  página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da análise de umidade dos alimentos? 
+ 
+ 
+ 
+2. De  maneira  geral,  em  quais  condições  o  produto  alimentício  analisado  deve  ser 
+armazenado para preservar suas propriedades e sua qualidade? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ESCOLHENDO A AMOSTRA 
+ 
+Selecione a  amostra clicando  com o  botão esquerdo do  mouse e  selecione  a  amostra 
+escolhida. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento e óculos. 
+ 
+ 
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Visualize a  estufa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+3. PREPARANDO OS CADINHOS 
+ 
+Ligue  a  estufa clicando  com  o  botão esquerdo  do  mouse  sobre o  botão  indicado e 
+aguarde o equipamento pré-aquecer até 105 °C. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o cadinho clicando  com  o  botão  direito  do  mouse  sobre  a  pinça  e  selecione  a 
+opção “Mover cadinho para a estufa”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova utilizando a pinça os cadinhos 2 e 3 para a 
+estufa. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+ 
+Ligue  a  estufa clicando  com  o  botão esquerdo  do  mouse  sobre o  botão  indicado e 
+aguarde por 1 hora o aquecimento. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Abra o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+ 
+Mova os cadinhos clicando com o botão direito do mouse sobre a pinça e selecione a 
+opção “Mover cadinho da estufa para o dessecador”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Feche  o  dessecador clicando  com  o  botão esquerdo  do  mouse  sobre  o dessecador  e 
+aguarde por 40 minutos até o cadinho esfriar. 
+ 
+ 
+ 
+Abra o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Mova os cadinhos clicando com o botão direito do mouse sobre a pinça e selecione a 
+opção “Retornar cadinho do dessecador para a mesa”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova utilizando a pinça os cadinhos 2 e 3 para o 
+dessecador, aguarde por 40 minutos e retorne os cadinhos para a bancada. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+4. PREPARANDO A AMOSTRA PARA ANÁLISE 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova o cadinho clicando com o botão direito do mouse sobre o cadinho e selecione a 
+opção “Mover para a balança”. 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Triture a amostra no gral clicando com o botão esquerdo do mouse sobre o pistilo. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para a balança”. 
+ 
+ 
+ 
+Mova  o  gral  clicando com  o  botão direito  do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a balança”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Adicione a amostra clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Mova o cadinho clicando com o botão direito do mouse sobre o cadinho e selecione a 
+opção “Retornar para a mesa”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Repita  os  procedimentos  anteriores,  mova  os  cadinhos  2  e  3  para  a  balança,  pese  a 
+amostra e retorne os cadinhos para a bancada. 
+ 
+ 
+ 
+Mova  o  gral  clicando com  o  botão direito  do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+5. MONTANDO O EXPERIMENTO 
+ 
+Homogeneíze  a  amostra  clicando  com  o  botão  direito  do  mouse  sobre  a  espátula  e 
+selecione a opção “Homogeneizar – Cadinho – 1”. 
+ 
+ 
+ 
+Repita o procedimento anterior, homogeneíze a amostra dos cadinhos 2 e 3. 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Mova  o  cadinho  clicando  com  o  botão  direito  do  mouse  sobre  a  pinça  e  selecione  a 
+opção “Mover cadinho para a estufa”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Repita os procedimentos anteriores, mova utilizando a pinça os cadinhos 2 e 3 para a 
+estufa. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Ligue  a  estufa clicando  com  o  botão esquerdo  do  mouse  sobre o  botão  indicado e 
+aguarde por 1 hora o aquecimento. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova os cadinhos clicando com o botão direito do mouse sobre a pinça e selecione a 
+opção “Mover cadinho da estufa para o dessecador”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Feche  o  dessecador clicando  com  o  botão esquerdo  do  mouse  sobre  o  dessecador  e 
+aguarde por 2 horas até o cadinho esfriar. 
+ 
+ 
+ 
+Abra o dessecador clicando com o botão esquerdo do mouse sobre o dessecador. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Mova os cadinhos clicando com o botão direito do mouse sobre a pinça e selecione a 
+opção “Retornar cadinho do dessecador para a mesa”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova utilizando a pinça os cadinhos 2 e 3 para o 
+dessecador, aguarde por 2 horas e retorne os cadinhos para a bancada. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+6. ANALISANDO O RESULTADO 
+ 
+Mova o cadinho clicando com o botão direito do mouse sobre o cadinho e selecione a 
+opção “Mover para a balança”. 
+ 
+ 
+ 
+Observe o resultado e retorne o cadinho clicando com o botão direito do mouse sobre 
+o cadinho e selecione a opção “Retornar para a mesa”. 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+Repita  os  procedimentos  anteriores,  mova  os  cadinhos  2  e  3  para  a  balança,  pese  a 
+amostra e retorne os cadinhos para a bancada. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+ 
+7. REPETINDO O EXPERIMENTO 
+ 
+Reinicie o experimento e selecione uma nova amostra para realizar a análise. Siga todo 
+o procedimento descrito anteriormente para as outras amostras. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE UMIDADE E SÓLIDOS TOTAIS 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

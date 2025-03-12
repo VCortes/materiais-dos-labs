@@ -1,0 +1,658 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  irá  aprender  o  processo  de  destilação  simples.  Vai 
+compreender  como  as  temperaturas  de  ebulição  influenciam  no  processo, 
+conhecer as vidrarias utilizadas no processo e entender suas funções. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Aparato de destilação;  
+• Espátula de aço inox;  
+• Jaleco; 
+• Luvas; 
+• Óculos de proteção; 
+• Pérolas de vidro;  
+• Proveta de capacidade volumétrica de 100 mL; 
+• Solução aquosa de Sulfato de Cobre II (CuSO
+4
+). 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas e óculos. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Mova a proveta, a espátula de aço inox e a solução de Sulfato de Cobre II para a bancada. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+  
+3. PROMOVENDO O PROCESSO NO BALÃO 
+ 
+Coloque as pérolas de vidro no balão de destilação, utilizando a espátula de aço. Despeje 50 
+mL  da  solução  de  Sulfato  de  Cobre  II  na  proveta  e,  em  seguida,  despeje  esse  conteúdo  no 
+balão. Coloque a rolha no anteparo, posicione o termômetro na rolha e ajuste a temperatura 
+da manta aquecedora (posição 4). Ligue amanta aquecedora clicando sobre o botão de ligar. 
+A manta quando devidamente ligada aciona uma lâmpada vermelha no painel, indicando que 
+está em funcionamento. 
+ 
+4. ACOMPANHANDO O PROCESSO 
+ 
+Acompanhe  a  temperatura  indicada  no  termômetro  que  está  preso  ao  balão  de  destilação. 
+Observe a formação do vapor condensado que vai se formando dentro do condensador reto. 
+Faça o controle do tempo para ocorrer o processo da destilação. Verifique o ponto de ebulição 
+do  destilado  (que  é  a  substância  líquida  que  foi  coletada  no  Erlenmeyer,  que  neste 
+experimento se trata da água que estava contida na solução de Sulfato de cobre II). Ao final, 
+veja o quanto de cada substância permaneceu no balão e no Erlenmeyer. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 07, 08 e 09 deste roteiro, 
+e responda de acordo com o que foi observado no experimento, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a função das pérolas de vidro no balão de destilação? 
+ 
+ 
+ 
+2. A solução de Sulfato de Cobre II é preparada com quais substâncias? 
+ 
+ 
+ 
+3. Com  base  nos  seus  conhecimentos,  justifique  o  porquê  desta  mistura  ser 
+denominada como homogênea e se o processo de destilação simples é ideal para 
+efetuar a separação entre os componentes. 
+ 
+ 
+ 
+4. Com base nos seus conhecimentos, por que é necessário aquecer a mistura para 
+que ocorra o processo? 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+5. Em seu entendimento do processo, por que é necessário possuir um termômetro 
+no balão? 
+ 
+ 
+ 
+6. Com   base   nos   seus   conhecimentos,   como   irá   ocorrer   o   processo   de 
+condensação? Descreva. 
+ 
+ 
+ 
+7. Caso  não  houvesse  água  circulando  no  condensador, ocorreria  o  processo  de 
+condensação? Justifique. 
+ 
+ 
+ 
+8. Descreva o comportamento da mistura dentro do balão. 
+ 
+ 
+ 
+9. Qual o ponto de ebulição da água pura? 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+10. Em seu entendimento, qual a substância que irá permanecer no balão e qual irá 
+para o Erlenmeyer? Justifique. 
+ 
+ 
+ 
+11. Os    estados    físicos    destas    duas    substâncias    em    condições    ambientes 
+influenciaram nos resultados? Explique. 
+ 
+ 
+ 
+12. Caso  estivéssemos  trabalhando  com  duas  substâncias  líquidas  onde  os  pontos 
+de  ebulição  fossem  próximos,  seria  possível  utilizar  a destilação  simples  para 
+realizar o processo de separação da mistura? Explique. 
+ 
+ 
+ 
+13. Justifique  com  base  nos  seus  conhecimentos  possíveis  perdas  ocorridas  no 
+processo. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+9”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a  gaveta  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Gavetas” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Abra a gaveta clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Mova a proveta para a mesa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Feche a gaveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Abra o armário clicando com o botão esquerdo do mouse sobre a porta.  
+ 
+ 
+ 
+Mova a espátula e o sulfato de cobre para a mesa clicando com o botão esquerdo do 
+mouse sobre eles.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Feche o armário clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Remova o termômetro do anteparo clicando com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Remova a tampa do anteparo clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+3. PROMOVENDO O PROCESSO NO BALÃO 
+ 
+Abra o pote de pérola clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque  as pérolas  de  vidro no anteparo clicando  com  o  botão  esquerdo  do  mouse 
+sobre a espátula.  
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Despeje o sulfato de cobre na proveta clicando com o botão esquerdo do mouse sobre 
+ele.  
+ 
+ 
+ 
+Despeje o conteúdo da proveta no anteparo clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Coloque a tampa no anteparo clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Abra a torneira clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Posicione o termômetro no anteparo clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize a manta aquecedora clicando com o botão esquerdo do mouse na câmera com 
+o nome “Manta aquecedora” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Ajuste a temperatura desejada na chave selecionadora clicando com o botão esquerdo 
+do mouse sobre ela e arraste até a posição 4. 
+ 
+ 
+ 
+Ligue  a  manta  aquecedora  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+4. ACOMPANHANDO O PROCESSO 
+ 
+Visualize o aparato de destilação clicando com o botão esquerdo do mouse na câmera 
+com o nome “Aparato de destilação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Note que no canto direito da tela possui um termômetro indicando a temperatura, essa 
+indicação é referente ao termômetro que se encontra no balão.  
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+O  condensador  irá  condensar  o  vapor  vindo  do  processo.  Isto  é  possível  devido  ao 
+resfriamento  que  ocorre no  condensador  com  a  passagem  da  água  que  circula  no 
+mesmo, resfriando todo o vapor da substância volátil que sai pelo condensador. 
+ 
+ 
+ 
+Controle a escala de tempo no cronometro clicando com o botão esquerdo do mouse 
+sobre o local indicado e arraste o mouse para direita. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Despeje  o  conteúdo  do  Erlenmeyer  na  proveta passando o cursor do  mouse  sobre o 
+Erlenmeyer e digite através do teclado da sua máquina “Q”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+Verifique o quanto de água foi obtido no processo passando o cursor do mouse sobre a 
+proveta e digite através do teclado da sua máquina “E”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HOMOGÊNEA - DESTILAÇÃO SIMPLES 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 07, 08 e 09 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 

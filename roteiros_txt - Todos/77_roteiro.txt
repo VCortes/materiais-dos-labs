@@ -1,0 +1,1662 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste   experimento, você   irá   compreender   os   conceitos   da   extração   com 
+solventes e extração reativa. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido benzóico; 
+• Ácido clorídrico (HCl) 10%; 
+• Ácido clorídrico (HCl) concentrado; 
+• Agente secante (Na
+2
+SO
+4
+); 
+• Água destilada; 
+• Balança analítica; 
+• Banho-maria; 
+• Béquer 50 mL; 
+• Bicarbonato de sódio (NaHCO
+3
+); 
+• Bomba de vácuo; 
+• Dessecador à vácuo; 
+• Erlenmeyer; 
+• Éter etílico; 
+• Funil de haste curta; 
+• Funil de separação; 
+• Hidróxido de sódio (NaOH) concentrado; 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Naftaleno; 
+• Óculos; 
+• Papel de filtro; 
+• P-nitroanilina; 
+• Provetas de 50 mL; 
+• Vidro de relógio. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+2. FAZENDO A SOLUÇÃO 
+ 
+Abra a capela, ligue a luz e o exaustor. No Erlenmeyer 1, coloque 50 mL da solução 
+éter etílico com auxílio da proveta, depois dissolva os compostos – naftaleno, ácido 
+benzóico e p-nitroanilina, no mesmo Erlenmeyer. Transfira a solução etérea para um 
+funil de separação, utilizando um funil de haste curta. 
+ 
+3. FAZENDO A EXTRAÇÃO 
+ 
+Coloque o Erlenmeyer 1 no funil de separação e extraia a solução primeiro com 15 mL 
+de  HCl  10%  (3x),  com  auxílio  da  proveta.  Transfira  as  frações  aquosas  para  o 
+Erlenmeyer 1 e neutralize com 15 mL de NaOH concentrado com auxílio da proveta. 
+Coloque o algodão no filtro à vácuo e recupere o precipitado. Depois extraia com 15 
+mL  de  NaHCO
+3
+ 10%  (3x).  Transfira  as  frações  aquosas  para  um  Erlenmeyer  e 
+neutralize, vagarosamente, com 15 mL de HCl concentrado, e com agitação branda. 
+Recupere o precipitado por filtração à vácuo. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+  
+4. SECANDO A FASE ORGÂNICA 
+ 
+Lave a solução etérea com água, seque a fase orgânica com Na
+2
+SO
+4
+, filtre para outro 
+Erlenmeyer  e  evapore  o  éter  no  banho-maria.  Seque  os  produtos  sólidos  em 
+dessecador  à  vácuo, pese  todos  os  compostos  e calcule  a  porcentagem  de  material 
+recuperado. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que foi  observado no  experimento associando, também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o princípio básico do processo de extração com solventes? 
+ 
+ 
+ 
+2. Por  que  a  água  é  geralmente  usada  como  um  dos solventes  na  extração  líquido-
+líquido? 
+ 
+ 
+ 
+3. Quais as características de um bom solvente para que possa ser usado na extração 
+de um composto orgânico em uma solução aquosa? 
+ 
+ 
+ 
+4. Pode-se  usar  etanol  para  extrair  uma  substância que  se  encontra  dissolvida  em 
+água? 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira e passe o mouse 
+sobre a água. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos e luvas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+2. FAZENDO A SOLUÇÃO 
+ 
+Ligue a luz ultravioleta clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Ligue a ventilação e luz de led clicando com o botão esquerdo do mouse sobre cada um 
+dos botões indicados. 
+ 
+ 
+ 
+Abra a capela clicando com o botão esquerdo do mouse sobre a porta da capela. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  éter  etílico  clicando  com  o  botão  direito  do  mouse  sobre  a  garrafa  âmbar  e 
+selecione a opção “Mover para proveta”. 
+ 
+ 
+ 
+Transfira 50 mL de Éter Etílico para a proveta clicando com o botão esquerdo do mouse 
+sobre a garrafa âmbar. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova a garrafa de éter etílico clicando com o botão direito do mouse sobre a garrafa 
+âmbar e selecione a opção “Retornar posição”. 
+ 
+ 
+ 
+Despeje o conteúdo da proveta clicando com o botão direito do mouse sobre a proveta 
+e selecione a opção “Despejar no Erlenmeyer 1”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Adicione naftaleno clicando com o botão esquerdo do mouse sobre o vidro de relógio 
+indicado. 
+ 
+ 
+ 
+Adicione  ácido  benzoico  clicando  com  o botão  esquerdo  do  mouse  sobre  o  vidro  de 
+relógio indicado. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Adicione  p-nitroanilina  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  vidro  de 
+relógio indicado. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal”  localizada  dentro  do  painel  de  visualização no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Abra o funil de separação clicando com o botão direito do mouse sobre a tampa indicada 
+e selecione a opção “Abrir funil de separação”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar no funil de separação”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  1  e 
+selecione a opção “Despejar no funil de separação”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+3. FAZENDO A EXTRAÇÃO 
+ 
+Higienize a proveta clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Higienizar proveta”. 
+ 
+ 
+ 
+Mova a garrafa de HCl clicando com o botão direito do mouse sobre a garrafa âmbar e 
+selecione a opção “Mover para proveta”. 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Transfira 15 mL de HCL para a proveta clicando com o botão esquerdo do mouse sobre 
+a garrafa âmbar. 
+ 
+ 
+ 
+Mova a garrafa de HCl clicando com o botão direito do mouse sobre a garrafa âmbar e 
+selecione a opção “Retornar posição”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Despejar no funil de separação”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar na capela”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Feche  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  e 
+selecione a opção “Fechar funil de separação”. 
+ 
+ 
+ 
+Mova  o  funil  de  separação  clicando  com  o  botão  direito  do mouse  sobre  o  funil  e 
+selecione a opção “Retirar do suporte”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Homogeneíze  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  funil  de 
+separação e selecione a opção “Homogeneizar conteúdo”. 
+ 
+ 
+ 
+Mova  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  o  funil  e 
+selecione a opção “Retornar ao suporte”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Higienize  o  Erlenmeyer  clicando  com o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Higienizar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Posicionar no funil de separação”. 
+ 
+ 
+ 
+Abra  o  funil  de separação  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  e 
+selecione a opção “Abrir funil de separação”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Abra a válvula clicando com o botão direito do mouse sobre a válvula do funil e selecione 
+a opção “Abrir válvula”. 
+ 
+ 
+ 
+Visualize  a  capela clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o funil clicando com o botão direito do mouse sobre o funil indicado e selecione 
+a opção “Posicionar no funil de separação”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores 2 vezes, transferindo 15 mL de HCl para o funil de 
+separação, homogeneizando e despejando o conteúdo no Erlenmeyer. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Retornar posição inicial”. 
+ 
+ 
+ 
+Visualize  o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje NaOH clicando com o botão esquerdo do mouse sobre o béquer indicado. 
+ 
+ 
+ 
+Visualize  o  filtro  a  vácuo  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Filtrador a vácuo” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o filtro clicando com o botão direito do mouse sobre o filtro e selecione a opção 
+“Mover para funil de Buchner”. 
+ 
+ 
+ 
+Ligue  a  bomba  a  vácuo  clicando  com  o  botão  direito  do  mouse  sobre  a  bomba  e 
+selecione a opção “Ligar a bomba”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Despejar no filtrador a vácuo”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Desligue  a  bomba  a  vácuo  clicando  com  o  botão  direito  do  mouse  sobre  a  bomba  e 
+selecione a opção “Desligar a bomba”. 
+ 
+ 
+ 
+Despeje o conteúdo do filtro clicando com o botão esquerdo do mouse sobre o filtro e 
+selecione a opção “Despejar no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Higienize  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Higienizar a vidraria”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Posicionar no funil de separação”. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar no funil de separação”. 
+ 
+ 
+ 
+Higienize a proveta clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Higienizar a proveta”. 
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova a garrafa de NaHCO
+3
+ clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Mover para proveta”.  
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a garrafa âmbar. 
+ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova a garrafa de NaHCO
+3
+ clicando com o botão direito do mouse sobre a garrafa âmbar 
+e selecione a opção “Retornar posição”. 
+ 
+ 
+ 
+Despeje a solução clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Despejar no funil de separação”. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar na capela”. 
+ 
+ 
+ 
+Feche  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  e 
+selecione a opção “Fechar funil de separação”. 
+ 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  funil  de  separação  clicando  com  o  botão direito  do  mouse  sobre  o  funil  e 
+selecione a opção “Retirar do suporte”. 
+ 
+ 
+ 
+Homogeneíze  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  funil  e 
+selecione a opção “Homogeneizar conteúdo”. 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  o  funil  e 
+selecione a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Abra  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  e 
+selecione a opção “Abrir funil de separação”. 
+ 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Abra a válvula clicando com o botão direito do mouse sobre a válvula do funil e selecione 
+a opção “Abrir válvula”. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o funil clicando com o botão direito do mouse sobre o funil indicado e selecione 
+a opção “Posicionar no funil de separação”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores 2 vezes, transferindo 15 mL de NaHCO
+3
+ para o funil 
+de separação, homogeneizando e despejando o conteúdo no Erlenmeyer. 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Retornar posição inicial”. 
+ 
+ 
+ 
+Visualize  o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje HCl clicando com o botão esquerdo do mouse sobre o béquer indicado. 
+ 
+ 
+ 
+Agite  suavemente  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Agitar suavemente”. 
+ 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  o  filtro  a vácuo  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Filtrador a vácuo” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o filtro clicando com o botão direito do mouse sobre o filtro e selecione a opção 
+“Mover para funil de Buchner”. 
+ 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Ligue  a  bomba  a  vácuo  clicando  com  o  botão  direito  do  mouse  sobre  a  bomba  e 
+selecione a opção “Ligar a bomba”. 
+ 
+ 
+ 
+Visualize  o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Despejar no filtrador a vácuo”. 
+ 
+ 
+ 
+Desligue  a  bomba  a  vácuo  clicando  com  o  botão  direito  do  mouse  sobre  a  bomba  e 
+selecione a opção “Desligar a bomba”. 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Despeje o conteúdo do filtro clicando com o botão esquerdo do mouse sobre o filtro e 
+selecione a opção “Despejar no béquer 2”. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+4. SECANDO A FASE ORGÂNICA 
+ 
+Higienize o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer e 
+selecione a opção “Higienizar vidraria”. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Posicionar no funil de separação”. 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil indicado e selecione 
+a opção “Posicionar no funil de separação”. 
+ 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para funil de separação”. 
+ 
+ 
+ 
+Despeje água destilada clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Retornar posição”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar na capela”. 
+ 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Feche  o  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  a  tampa  e 
+selecione a opção “Fechar funil de separação”. 
+ 
+ 
+ 
+Mova o funil de separação clicando com o botão de direito sobre o funil e selecione a 
+opção “Retirar do suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Homogeneíze  o  conteúdo  clicando  com  o  botão  de  direito  sobre  o  funil  e  selecione  a 
+opção “Homogeneizar conteúdo”. 
+ 
+ 
+ 
+Mova o funil de separação clicando com o botão de direito sobre o funil e selecione a 
+opção “Retornar ao suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Abra o funil clicando com o botão direito do mouse sobre ele e selecionando a opção 
+“Abrir válvula”. 
+ 
+ 
+ 
+Abra a válvula clicando com o botão direito do mouse sobre a válvula e selecione a opção 
+“Abrir válvula”. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Retire primeiro a água do funil de separação. 
+ 
+ 
+ 
+Realize a higienização da vidraria clicando com o botão direito do mouse sobre o 
+Erlenmeyer e selecionando a opção “Retornar posição inicial”.  
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Posicione a vidraria no funil de separação clicando com o botão direito do mouse sobre 
+o Erlenmeyer e selecione a opção “Posicionar funil de separação”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abra  a válvula do  funil  de  separação  clicando  com  o  botão  direito  do  mouse  sobre  a 
+válvula e selecionando a opção “Abrir Válvula”. Faça a retirada da fase orgânica do funil 
+de separação. 
+ 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o Erlenmeyer  e 
+selecione a opção “Retornar posição inicial”. 
+ 
+ 
+ 
+Adicione Na
+2
+SO
+4
+ clicando com o botão esquerdo do mouse sobre o pote indicado. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar no Erlenmeyer 2”. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize o filtrador a vácuo clicando com o botão esquerdo do mouse na câmera com o 
+nome “Filtrador a vácuo” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o filtro clicando com o botão direito do mouse sobre o filtro e selecione a opção 
+“Encaixar no funil”. 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  1  e 
+selecione a opção “Despejar no Erlenmeyer 2”. 
+ 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Descarte o filtro clicando com o botão direito do mouse sobre o filtro e selecione a opção 
+“Descartar conteúdo”. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Posicionar na capela”. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para banho-maria”. 
+ 
+ 
+ 
+Abra a tampa do dessecador clicando com o botão direito do mouse sobre o dessecador 
+e selecione a opção “Abrir tampa”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o béquer 1 clicando com o botão direito do mouse sobre o béquer 1 e selecione a 
+opção “Posicionar no dessecador”. 
+ 
+ 
+ 
+Mova o béquer 2 clicando com o botão direito do mouse sobre o béquer 2 e selecione a 
+opção “Posicionar no dessecador”. 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Posicionar no dessecador”. 
+ 
+ 
+ 
+Feche  a  tampa  do  dessecador  clicando  com  o  botão  direito  do  mouse  sobre  o 
+dessecador e selecione a opção “Fechar tampa”. 
+ 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Ligue  o  equipamento  clicando  com  o  botão  direito  do  mouse  sobre  o dessecador  e 
+selecione a opção “Ligar equipamento”. 
+ 
+ 
+ 
+Abra a tampa do dessecador clicando com o botão direito do mouse sobre o dessecador 
+e selecione a opção “Abrir tampa”. 
+ 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o béquer 1 clicando com o botão direito do mouse sobre o béquer 1 e selecione a 
+opção “Retornar para bancada”. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer indicado 
+e selecione a opção “Retornar para bancada”. 
+ 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize o dessecador clicando com o botão esquerdo do mouse na câmera com o nome 
+“Dessecador a vácuo” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Mova o béquer 2 clicando com o botão direito do mouse sobre o béquer 2 e selecione a 
+opção “Retornar para bancada”. 
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Visualize a balança analítica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Balança analítica” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  béquer  3  clicando  com  o  botão  direito  do  mouse  sobre o  béquer  indicado  e 
+selecione a opção “Mover para balança”. 
+ 
+ 
+ 
+Realize  a  tara  da  balança  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Retornar para bancada”. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Posicionar na balança”. 
+ 
+ 
+  
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Retornar para bancada”. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Posicionar na balança”. 
+ 
+ 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Retornar para bancada”. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer indicado 
+e selecione a opção “Posicionar na balança”. 
+ 
+ 
+  
+
+  
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Realize  a  tara  da  balança  clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer indicado 
+e selecione a opção “Retornar para bancada”. 
+ 
+ 
+  
+
+  
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer indicado 
+e selecione a opção “Posicionar na balança”. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer indicado 
+e selecione a opção “Retornar para bancada”. 
+ 
+ 
+  
+
+  
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO COM SOLVENTES E EXTRAÇÃO REATIVA 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

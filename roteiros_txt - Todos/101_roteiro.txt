@@ -1,0 +1,523 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá determinar as propriedades dos materiais quando 
+submetidos a esforços mecânicos de compressão.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Paquímetro; 
+• Relógio comparador; 
+• Bomba hidráulica manual; 
+• Manômetro; 
+• Máquina universal de ensaios em materiais; 
+• Corpos de prova (Nylon, Teflon e Poliacetal). 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS DO CORPO DE PROVA 
+ 
+Posicione  a  placa  de  compressão  na  máquina.  Mova  um  dos  corpos  de  prova 
+para a mesa e, com o auxílio do paquímetro, meça suas dimensões iniciais. Em 
+seguida, posicione o corpo de prova na máquina. 
+ 
+2. APLICANDO A CARGA 
+ 
+Ajuste  o  relógio  comparador  para  a  posição  zero  e  aplique  a  pré-carga  com  a 
+bomba  manual. Zere  novamente  o  relógio  comparador  e  aplique  a  carga  no 
+material, até que o comprimento do corpo de prova seja reduzido pela metade. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+3. RETIRANDO O CORPO DE PROVA DA MÁQUINA 
+ 
+Alivie a carga aplicada pela bomba e mova o corpo de prova para a mesa. Repita 
+todos os procedimentos com os outros corpos de prova disponíveis.  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Crie uma tabela semelhante à apresentada abaixo para cada um dos materiais. 
+Anote os valores da carga e alongamento sofrido pelo corpo, para intervalos de 
+5  kgf/cm².  Note  que  a carga  é  dada  pelo  manômetro  em  kgf/cm² e  a unidade 
+requerida  para  a  análise  dos  dados  é  MPa. Converta  os  valores  obtidos  no 
+experimento utilizando a relação abaixo. 
+ 
+1kgf/cm² = 0.098067 MPa 
+ 
+Ensaio de compressão – Material XX 
+CP 01 
+CP 02 
+CP 03 
+Carga 
+(kgf/cm²) 
+Carga 
+(MPa) 
+Alongamento 
+(mm) 
+Carga 
+(kgf/cm²) 
+Carga 
+(MPa) 
+Alongamento 
+(mm) 
+Carga 
+(kgf/cm²) 
+Carga 
+(MPa) 
+Alongamento 
+(mm) 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+Tabela 1 – Dados obtidos no experimento 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+2. Utilizando  os  dados  das tabelas  criadas,  construa  o  gráfico  “Tensão  (MPa)  x 
+Deformação” para o material ensaiado. 
+ 
+ 
+ 
+3. Com base nos gráficos construídos, realize os cálculos do módulo de elasticidade 
+e tensão de compressão para os materiais ensaiados.  
+ 
+A Módulo de Elasticidade (GPa) Tensão de Escoamento (Mpa) 
+Nylon   
+Teflon   
+Poliacetal   
+Tabela 2 – Propriedades dos materiais 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS DO CORPO DE PROVA 
+ 
+Antes  de posicionar  o  corpo  de  prova  na  máquina  universal  de  ensaios  é  necessário 
+posicionar os acessórios corretos para a realização do ensaio. Para acessar os corpos de 
+prova e acessórios da máquina, abra a maleta clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+  
+Para melhor visualizar os corpos de prova, acesse a opção de câmera “Corpos de prova”. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Então, posicione a seta do mouse sobre os acessórios e observe qual é o apropriado para 
+o ensaio. 
+ 
+ 
+ 
+Para posicionar a placa de compressão, clique com botão direito do mouse sobre ela e 
+selecione a opção “Mover para a máquina”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Observe a disposição dos corpos de prova na maleta.  
+ 
+ 
+ 
+Atenção: Neste ensaio serão utilizados os corpos de prova de nylon, teflon e poliacetal. 
+Você  pode  identificar  a  composição  de  cada  material  posicionando  a  seta  do  mouse 
+sobre os corpos de prova e observando as informações que aparecem. 
+Para posicionar o corpo de prova na mesa, clique com o botão direito do mouse sobre 
+ele e selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Observe que o corpo de prova é removido da maleta. 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Utilizando o paquímetro localizado em cima da mesa, efetue a medição do diâmetro e 
+do comprimento do corpo de prova antes de inseri-lo na máquina universal. 
+Clique com o botão direito do mouse sobre o paquímetro e selecione a opção “Medir 
+comprimento”. 
+ 
+ 
+ 
+Observe seu valor. 
+ 
+ 
+ 
+Ao finalizar a medida, clique no “X” ao canto superior da tela para retornar o paquímetro 
+para a sua posição inicial. Em seguida, realize a medição para o diâmetro do corpo de 
+prova. 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Após realizar as medidas iniciais, clique com o botão direito do mouse sobre o corpo de 
+prova e selecione a opção “Mover para a máquina”. 
+ 
+ 
+ 
+Observe que o corpo de prova é posicionado na máquina universal. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+2. APLICANDO A CARGA 
+ 
+O relógio comparador é utilizado para que as deformações sofridas pelo corpo de prova 
+ao longo do ensaio sejam medidas. 
+Para visualizar o relógio comparador, acesse a opção de câmera “Relógio comparador”. 
+ 
+ 
+ 
+Posicione  o  relógio  comparador  na  superfície  da  parte  móvel  da  máquina  universal 
+clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conjunto  de  fixação  do  relógio 
+comparador. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Para  zerar  a  escala  de  medida  do  relógio  comparador,  posicione  a  seta  e  pressione  o 
+botão esquerdo do mouse sobre a escala do relógio e arraste-a nos sentidos horário e 
+anti-horário. 
+ 
+ 
+ 
+Faça o movimento da escala até que o ponteiro coincida com o zero, como mostrado na 
+imagem abaixo. 
+ 
+ 
+ 
+A bomba manual é responsável por empregar carga ao material ensaiado. Para visualizar 
+a bomba manual, acesse a opção de câmera “Bomba manual”. 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Para  fechar  a  bomba  manual,  clique  com  o  botão esquerdo  do  mouse  na  válvula  da 
+bomba. 
+ 
+ 
+ 
+Observe que ao canto da tela surge a escala de medida da bomba manual. 
+Clique com o botão esquerdo sobre a alavanca para aplicar a carga até que o ponteiro 
+do manômetro se mova para o primeiro ponto de medida. 
+ 
+ 
+ 
+Em  seguida,  zere  a  escala  do  relógio  comparador  e  retorne  para  a  opção  de  câmera 
+“Bomba manual”. 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Aplique a carga no material, realizando o movimento da alavanca da bomba manual até 
+que o comprimento do corpo de prova seja reduzido pela metade com relação ao inicial. 
+Observe o alongamento sofrido pelo corpo mostrado pela escala do relógio comparador. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+ 
+3. RETIRANDO O CORPO DE PROVA DA MÁQUINA 
+ 
+Alivie a carga conferida pela bomba manual para que o sistema se acomode novamente. 
+Para isso, clique com o botão esquerdo do mouse sobre a válvula da bomba manual. 
+ 
+ 
+ 
+Observe que a carga empregada pela bomba manual é removida. 
+Em  seguida,  acesse  a  opção  de  câmera  “Prato  de  pressão”  para  visualizar  o  corpo  de 
+prova. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS  
+ENSAIO DE COMPRESSÃO 
+Para retirar o corpo de prova da máquina universal e posicioná-lo na mesa, clique com 
+o botão direito do mouse sobre ele e selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Observe que o corpo de prova é removido da máquina universal. 
+Siga  as  instruções  dos  passos  anteriores  para  os  outros  corpos  de  prova  e  materiais 
+restantes. Colete todos os dados necessários para identificar o comportamento desses 
+materiais  quando  submetidos  a  esforços  mecânicos  de  compressão  e  comparar as 
+propriedades destes materiais. 
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  

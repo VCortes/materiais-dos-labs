@@ -1,0 +1,406 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá realizar o ensaio para determinar a viscosidade do 
+concreto autoadensável utilizando o método do funil V.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Funil V; 
+• Recipiente metálico; 
+• Pisseta com água; 
+• Escova; 
+• Amostra de concreto autoadensável; 
+• Concha metálica; 
+• Cronômetro; 
+• Espátula. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+Os passos 1 e 2 devem ser realizados em menos de 5 minutos de acordo com a norma 
+NBR 15823-5:2017. 
+ 
+1. PREPARANDO O FUNIL V 
+ 
+Abra a comporta do funil V. Realize a limpeza do funil e umedeça sua superfície 
+interna. Feche a comporta do equipamento. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+2. PREENCHENDO O FUNIL V 
+ 
+Utilize a concha metálica para preencher o funil V com a amostra de concreto 
+autoadensável recém coletada de forma uniforme e sem adensamento. Utilize 
+a espátula para remover resíduos de concreto e rasar a superfície do funil V. 
+ 
+3. MEDINDO O TEMPO DE ESCOAMENTO (T
+10seg
+) 
+ 
+Abra a comporta em até 10 segundos ± 2 segundos após o preenchimento do 
+funil V. O cronômetro inicia a contagem automaticamente assim que a comporta 
+é aberta e deve ser parado quando o escoamento do concreto para o recipiente 
+metálico for concluído. 
+ 
+4. MEDINDO O TEMPO DE ESCOAMENTO (T
+5min
+) 
+ 
+Feche  a  comporta  do  funil  V  e  repita  o  procedimento  do  passo  2.  Aguarde  5 
+minutos ± 5 segundos após o preenchimento do funil. Abra a comporta do funil 
+V. O cronômetro inicia a contagem automaticamente assim que a comporta é 
+aberta e deve ser parado quando o escoamento do concreto para o recipiente 
+metálico for concluído. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a característica de CAA que que deve ser encontrado a partir do ensaio com 
+funil V? Explique a importância dessa característica para o concreto.  
+ 
+ 
+2. Quais  foram  os  valores  encontrados  para  T
+10seg
+ e  T
+5min
+?  A  partir  dos  dados 
+encontrados, qual a classe do CAA de acordo com a NBR 15823-1? 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. PREPARANDO O FUNIL V 
+ 
+Perceba que o funil V foi posicionado em uma superfície plana, rígida e horizontal, como 
+a norma NBR 15823-5:2017 requer para a realização do ensaio. A limpeza e umidificação 
+do funil V devem ser feitos com a comporta aberta.  
+Para abrir a comporta do funil V, clique com o botão direito do mouse no equipamento. 
+Uma janela com as opções do funil é exibida, clique com o botão esquerdo do mouse 
+em abrir comporta. 
+ 
+ 
+ 
+Dica: Lembre  de  selecionar  a  câmera  de  visualização  mais  adequada  para  cada  ação 
+realizada. Alterne  entre  as  câmeras  utilizando  os  atalhos  indicados  na  janela  de 
+visualização. 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+Realize a ação de umidificar e limpar o funil que está disponível da pisseta ou na escova. 
+ 
+ 
+ 
+Feche a comporta do funil V. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+2. PREENCHENDO O FUNIL V 
+ 
+Uma  concha  é  disponibilizada  para  realizar  o  preenchimento  do  funil  V.  A  ação  de 
+adicionar a amostra de concreto autoadensável ao funil deve ser repetida até que o funil 
+esteja cheio. Utilize a concha para colocar amostra no funil V. 
+ 
+  
+ 
+Repita a ação anterior até que o funil V esteja cheio.  
+Utilize a espátula para remover o excesso de concreto da borda superior do funil. 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+De acordo com a norma, as ações realizadas até o momento devem ser realizadas em 
+menos  de  5  minutos.  Caso  você  tenha levado  mais  tempo  que  o  estabelecido  pela 
+norma, reinicie o experimento e siga as instruções no tempo adequado. 
+Caso você tenha realizado as ações anteriores em menos de 5 minutos, o cronômetro 
+será reiniciado automaticamente. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+3. MEDINDO O TEMPO DE ESCOAMENTO (T
+10seg
+) 
+ 
+Importante: A ação de abrir a comporta deve ser realiza em 10 segundos ± 2 segundos 
+após o preenchimento do funil V. Fique atento ao cronômetro para realizar a ação no 
+tempo estabelecido pela norma. 
+Abra a comporta no intervalo entre 8 segundos e 12 segundos. 
+ 
+ 
+ 
+Perceba  que  no  cronômetro  passam  a  ser  exibidos  dois  botões.  O  botão  da  esquerda 
+deve  ser  utilizado  para  parar  a  contagem  do  cronômetro  quando  o  escoamento  do 
+concreto  for  finalizado.  O  botão  da  direita  reinicia  o  cronômetro. Pare  o  cronômetro 
+quando o escoamento do concreto for concluído. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+ 
+4. MEDINDO O TEMPO DE ESCOAMENTO (T
+5min
+) 
+ 
+Feche a comporta do funil V.  
+ 
+ 
+ 
+Repita o procedimento apresentado no passo 2 para preencher o funil V e rasar sua 
+superfície com a espátula.  
+Perceba  que  após  rasar  a  superfície  do  funil  V  com  a  espátula,  o  cronômetro  será 
+reiniciado. 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CONCRETO AUTOADENSÁVEL: MÉTODO DO FUNIL V 
+Importante: A  ação  de  abrir  a  comporta  deve  ser  realiza  em  5  minutos  ±  5  segundos 
+após o preenchimento do funil V. Fique atento ao cronômetro para realizar a ação no 
+tempo estabelecido. 
+Abra a comporta no intervalo adequado. 
+ 
+ 
+ 
+Pare o cronômetro quando o escoamento do concreto for concluído. 
+ 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Com os dados obtidos durante o experimento e com os conhecimentos relacionados ao 
+tema deste laboratório virtual, é possível analisar os resultados obtidos. 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 

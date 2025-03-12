@@ -1,0 +1,544 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar o controle do nível de um tanque utilizando 
+diferentes  técnicas  de  sintonia  para  definir  os  valores  dos  parâmetros  do 
+controlador PID. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bancada de controle de processos industriais; 
+• Notebook com programa supervisório. 
+ 
+PROCEDIMENTOS 
+ 
+1. ALTERANDO AS VÁLVULAS DA BANCADA 
+ 
+Feche as válvulas 2, 6 e 7 da bancada. 
+ 
+2. DEFININDO O SETPOINT DO TANQUE 1 
+ 
+Ligue o notebook e defina o valor de setpoint LT102 para 15 centímetros. 
+ 
+3. REALIZANDO OS CÁLCULOS DOS PARÂMETROS DE CONTROLE 
+ 
+Sabendo que a função de transferência da malha de nível é dada por: 
+ 
+푔
+(
+푡
+)
+=28,2(1−푒
+−(푡−1)/86
+) 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+Realize  os  cálculos  necessários  com  o  auxílio  do  Resumo  Teórico  desta  prática  para 
+preencher as tabelas 1, 2 e 3. 
+ 
+Controlador 푲풑 푻풊 푻풅 
+P 3,18 - - 
+PI 2,86 3,33 - 
+PID 3,82 2 0,5 
+Tabela 1 – Parâmetros do controlador utilizando Ziegler e Nichols (ZN). 
+ 
+Controlador 푲풑 푻풊 푻풅 
+P  - - 
+PI   - 
+PID   
+ 
+Tabela 2 - Parâmetros do controlador utilizando Cohen e Coon (CC). 
+ 
+Controlador 푲풑 푻풊 푻풅 
+PI   - 
+PID   
+ 
+Tabela 3 – Parâmetros do Controlador utilizando IMC com 휆=2. 
+ 
+4. INSERINDO OS PARÂMETROS DE CONTROLE NO SUPERVISÓRIO 
+ 
+Acesse a tela de Controle no supervisório e escolha a opção “Controlar LT102”. Insira 
+os  valores  de  ganho  proporcional,  tempo integrativo  e  tempo  derivativo  de  acordo 
+com as tabelas montadas anteriormente. 
+ 
+5. VERIFICANDO A OPERAÇÃO DO SISTEMA 
+ 
+Retorne para a tela da Planta do supervisório e habilite a bomba centrífuga P1. Siga 
+para a tela de Registro e acompanhe o comportamento da variável de processo e da 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+  
+variável manipulada para identificar o tempo de subida, sobressinal e erro em regime 
+permanente. 
+ 
+6. UTILIZANDO OUTROS PARÂMETROS DE CONTROLE 
+ 
+Retorne  para  a  tela  da  Planta  do  supervisório  e  desabilite  a  bomba  centrífuga  P1  e 
+aguarde até que o nível do tanque 1 retorne para zero. Repita os passos 4 e 5 deste 
+roteiro  para  definir  novos  parâmetros  de  controle  e  verificar  o  comportamento  do 
+sistema para cada um dos controladores das tabelas 1, 2 e 3. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  foram  o  tempo  de  subida,  sobressinal  e  erro  de  regime  permanente 
+encontrado  em  cada  uma  das técnicas  de  sintonia  de  PID  utilizadas  nesta 
+prática? 
+ 
+ 
+ 
+2. Qual o controlador com menor tempo de subida? 
+ 
+ 
+ 
+3. Qual o controlador com menor sobressinal? 
+ 
+ 
+ 
+4. Em um determinado processo industrial é necessário que o sistema chegue em 
+regime permanente rapidamente, qual controlador de nível com erro de regime 
+permanente de no máximo 10% que é mais indicado para essa aplicação?  
+ 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+5. Em  um  determinado  processo  industrial  é  necessário  que  o  nível  chegue  em 
+regime permanente com erro menor que 1% e sobressinal menor que 2%, para 
+que não ocorra acidentes, qual desses controladores você indicaria? 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ALTERANDO AS VÁLVULAS DA BANCADA 
+ 
+Feche  a  válvula  2  clicando  sobre  ela com  o  botão direito do  mouse  e  selecionando  a 
+opção “Fechar válvula”.  
+ 
+ 
+ 
+Repita esse mesmo procedimento com a válvulas 6 e 7.  
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+2. DEFININDO O SETPOINT DO TANQUE 1 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue o notebook clicando no botão direito com o botão esquerdo do mouse.  
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+Aproxime a visualização da tela do notebook seguindo as recomendações indicadas.  
+ 
+ 
+ 
+Defina o valor do setpoint LT102 para 15 cm clicando no espaço indicado e digitando o 
+valor com o teclado.  
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+3. REALIZANDO OS CÁLCULOS DOS PARÂMETROS DE 
+CONTROLE 
+ 
+ 
+ 
+Sabendo que a função de transferência da malha de nível é dada por: 
+ 
+푔
+(
+푡
+)
+=28,2(1−푒
+−(푡−1)/86
+) 
+ 
+Realize  os cálculos  necessários  com  o  auxílio  do  Resumo  Teórico  desta  prática  para 
+preencher as tabelas 1, 2 e 3. 
+ 
+Controlador 푲풑 푻풊 푻풅 
+P 3,18 - - 
+PI 2,86 3,33 - 
+PID 3,82 2 0,5 
+Tabela 4 – Parâmetros do controlador utilizando Ziegler e Nichols (ZN). 
+ 
+Controlador 푲풑 푻풊 푻풅 
+P  - - 
+PI   - 
+PID   
+ 
+Tabela 5 - Parâmetros do controlador utilizando Cohen e Coon (CC). 
+ 
+Controlador 푲풑 푻풊 푻풅 
+PI   - 
+PID   
+ 
+Tabela 6 – Parâmetros do Controlador utilizando IMC com 휆=2. 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+4. INSERINDO OS PARÂMETROS DE CONTROLE NO 
+SUPERVISÓRIO 
+ 
+Acesse a tela de controle clicando no ícone indicado com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Escolha a opção “Controlar LT102” clicando no menu de opções com o botão direito do 
+mouse e selecionando a opção indicada.  
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+Insira os valores de ganho proporcional, tempo integrativo e tempo derivativo de acordo 
+com as tabelas preenchidas no passo anterior.  
+ 
+ 
+ 
+Observação: Esses valores são hipotéticos, serviram apenas para ilustrar a ação.  
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+ 
+5. VERIFICANDO A OPERAÇÃO DO SISTEMA 
+ 
+Retorne a visualização para a tela da Planta do supervisório clicando no ícone indicado 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Habilite  a  bomba  centrífuga  1  clicando  no ícone indicado  com  o  botão  esquerdo  do 
+mouse.  
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+Visualize o comportamento da variável de processo e da variável manipulada clicando 
+no ícone indicado com o botão esquerdo do mouse.  
+ 
+ 
+ 
+É  possível  ter  uma  visualização  mais  detalhada  do  comportamento  das  variáveis 
+selecionando a área que você deseja visualizar. Preencha os dados de acordo com a área 
+que deseja observar em relação a X e/ou Y.  
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+  
+6. UTILIZANDO OUTROS PARÂMETROS DE CONTROLE 
+ 
+Retorne para a tela da Planta do supervisório clicando no ícone indicado com o botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Desabilite a bomba centrífuga P1 clicando sobre o ícone indicado com o botão esquerdo 
+do mouse.  
+ 
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+Aguarde até que o nível do tanque 1 retorne para zero.  
+ 
+ 
+ 
+Repita os passos 4 e 5 deste roteiro para definir novos parâmetros de controle e verificar 
+o comportamento do sistema para cada um dos controladores das tabelas 1, 2 e 3. 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SINTONIA DE PID 
+  
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 
+ 
+ 

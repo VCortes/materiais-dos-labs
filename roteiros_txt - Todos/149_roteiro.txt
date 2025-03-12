@@ -1,0 +1,681 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você  irá  realizar  um procedimento  para  encontrar  a curva 
+de compactação de uma amostra de solo.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Papel filtro; 
+• Medidor de amostra; 
+• Bacia com amostra de solo; 
+• Soquete; 
+• Espátula; 
+• Régua biselada; 
+• Balança; 
+• Extrator; 
+• Bacia vazia; 
+• Cápsulas; 
+• Peneiras; 
+• Proveta com água destilada. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+Verifique a Tabela 1 e, durante a realização dos procedimentos experimentais, realize a 
+coleta dos dados necessários quando for necessário. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+1. PREPARANDO O CILINDRO DE PROCTOR 
+ 
+Insira o papel filtro no cilindro de proctor e mova-o para o chão. 
+ 
+2. ADICIONANDO AMOSTRA DE SOLO AO CILINDRO 
+ 
+Utilize  o  medidor  de  amostra  para  adicionar  duas  vezes  a  amostra  de  solo  no 
+cilindro. Mova o soquete para o cilindro e aplique 26 golpes para compactar a 
+amostra contida no cilindro. 
+ 
+3. COMPLETANDO O CILINDRO COM AMOSTRA DE SOLO 
+ 
+Repita duas vezes o passo 2 e mova o cilindro para a bacia. 
+ 
+4. REMOVENDO EXCESSOS 
+ 
+Utilize  a  espátula  para  escarificar  a  superfície  interna  do  cilindro.  Remova  o 
+colarinho do cilindro e utilize uma régua biselada para remover o excesso de 
+solo compactado do cilindro. 
+ 
+5. AVALIANDO A MASSA 
+ 
+Ligue a balança e mova o molde cilíndrico para ela. Verifique a massa da amostra 
+úmida compactada com o molde. 
+ 
+6. EXTRAINDO O CORPO DO MOLDE 
+ 
+Remova a tampa do extrator. Então mova o molde cilíndrico para o extrator e 
+coloque  a  tampa do  equipamento.  Utilize  a  avalancha  para  extrair  o  corpo  de 
+prova do molde. Mova o corpo de prova para a bacia vazia e quebre a amostra 
+em pedaços 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+7. PREPARANDO UMA AMOSTRA 
+ 
+Mova a cápsula 1 para a balança e verifique a massa desta cápsula. Utilize a 
+cápsula 1 para coletar uma amostra do solo compactado. Mova a cápsula para 
+a balança e determine a massa da amostra úmida com a cápsula. Por fim, abra 
+a porta da estufa e mova a cápsula 1 para seu interior. 
+ 
+8. DESMONTANDO O MOLDE DO EXTRATOR 
+ 
+Remova a tampa do extrator e mova o molde cilíndrico de volta para a base que 
+se encontra na bacia. Utilize a alavanca para retornar o extrator para sua posição 
+inicial. 
+ 
+9. PREPARANDO NOVAMENTE O SOLO 
+ 
+Conecte o colarinho de volta no molde cilíndrico e mova o conjunto de volta 
+para  a  mesa.  Utilize  as  peneiras  para  destorroar  o  solo  compactado.  Adicione 
+água destilada na amostra de solo. 
+ 
+10. SECANDO TODAS AS AMOSTRAS 
+ 
+Repita  os  passos  anteriores  quatro  vezes  seguidas  para  que  sejam  obtidos  os 
+dados necessários. Com as cinco cápsulas no interior da estufa, feche a porta, 
+ligue o equipamento e aguarde a secagem das amostras. 
+ 
+11. PESANDO O SOLO SECO 
+ 
+Desligue a estufa e abra sua porta. Remova as cinco cápsulas do seu interior e 
+determine a massa de solo seco em cada uma delas. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Preencha  a  tabela  1  de  acordo  com  os  dados  obtidos  durante  a  realização  do 
+ensaio. 
+ 
+ 
+Água adicionada (g) 
+0 120 240 360 480 
+Solo Úmido Compactado + Molde (g)      
+Molde (g) 
+5310 5310 5310 5310 5310 
+Solo Úmido Compactado (g)      
+Volume do Cilíndro (cm³) 
+2086 2086 2086 2086 2086 
+Peso Aparente Úmido (g/cm³) 
+     
+Solo Úmido + Cápsula (g) 
+     
+Solo Seco + Cápsula (g) 
+     
+Cápsula (g) 
+     
+Água (g) 
+     
+Solo Seco (g) 
+     
+Umidade (%) 
+     
+Massa Específica Aparente Seca 
+(g/cm³) 
+     
+Tabela 1 – Dados experimentais de compactação dos solos 
+ 
+2. Utilize os dados da tabela 1 para construir um gráfico da curva de compactação 
+com coordenadas cartesianas normais onde, os valores de umidade devem ser 
+marcados no eixo das abscissas e os valores de massa específica aparente seca 
+correspondentes a cada umidade devem ser marcados no eixo das ordenadas. A 
+curva traçada deve possuir um formato semelhante a uma parábola. 
+ 
+3. Para  elaboração  da  curva  de  compactação,  quantas  vezes  foram  necessárias 
+repetir o ensaio? 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+4. O que significa o ramo seco e o ramo úmido encontrados no gráfico da curva de 
+compactação? 
+ 
+ 
+5. Determine  a  massa  específica  aparente  máxima  de  acordo  com  o  gráfico da 
+curva de compactação. Este valor corresponde ao máximo valor obtido no eixo 
+das ordenadas. 
+ 
+6. Determine a umidade ótima de acordo com o gráfico da curva de compactação. 
+Este valor corresponde valor da umidade no ponto da curva com valor da massa 
+específica aparente máxima. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. PREPARANDO O CILINDRO DE PROCTOR 
+ 
+Insira o papel filtro no cilindro, clicando com o botão esquerdo do mouse sobre o papel. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+2. ADICIONANDO AMOSTRA DE SOLO AO CILINDRO 
+ 
+Mova o cilindro para o chão, clicando com o botão direito do mouse sobre o cilindro e 
+escolhendo a opção “Mover para o chão”. 
+ 
+ 
+ 
+Adicione amostra de solo duas vezes, clicando sobre o medidor com o botão esquerdo 
+para  coletar  a  amostra  de  solo  e  em  seguida  com  o  botão  direito  para  levar  para  o 
+cilindro. 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Mova o soquete para o cilindro, clicando com o botão direito sobre ele. 
+ 
+ 
+ 
+Alterne a visualização para o chão, pela janela a esquerda de Visualização ou o atalho 
+“Alt+3”. 
+Golpeie  26  vezes  a  amostra  de  solo  do  cilindro,  clicando  com  o  botão  esquerdo  do 
+mouse sobre o soquete. 
+ 
+ 
+ 
+Retorne  o  soquete  para  a  mesa,  clicando  com  o  botão  direito  sobre  ele.  Assim,  será 
+possível adicionar mais amostra de solo. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+3. COMPLETANDO O CILINDRO COM AMOSTRA DE SOLO 
+ 
+Repita duas vezes o passo 2 para completar o cilindro com amostra de solo. 
+Retorne o cilindro para a mesa, clicando com o botão direito sobre ele. 
+ 
+ 
+Mova o cilindro para a bacia, clicando com o botão direito sobre ele e selecionando a 
+opção “Mover para a bacia”. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+4. REMOVENDO EXCESSOS 
+ 
+Visualize as bacias. 
+Escarifique  a  superfície  interna  do  cilindro,  clicando  com o  botão  esquerdo  do  mouse 
+sobre a espátula. 
+ 
+ 
+ 
+Remova o colarinho do cilindro, clicando com o botão esquerdo sobre o cilindro. 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Remova o excesso de solo, clicando sobre a régua com o botão esquerdo. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+5. AVALIANDO A MASSA 
+ 
+Visualize a balança sobre a bancada. 
+Ligue a balança, clicando no botão de ligar indicado. 
+ 
+ 
+ 
+Retorne para o molde, e mova-o para a balança, clicando com o botão direito sobre o 
+cilindro e selecionando a opção “Mover para a balança”. 
+ 
+ 
+ 
+Com o molde sobre a balança, anote o valor da massa. 
+Retorne o cilindro para a bacia, clicando com o botão direito sobre o cilindro. 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+6. EXTRAINDO O CORPO DO MOLDE 
+ 
+Remova a tampa do extrator, clicando com o botão esquerdo sobre o extrator. 
+ 
+ 
+ 
+Mova o molde cilíndrico para o extrator, clicando com o botão direito do mouse sobre 
+o cilindro e selecionando a opção “Mover para o extrator”. 
+ 
+ 
+ 
+Coloque a tampa do extrator novamente, clicando sobre o extrator. 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Remova o solo compactado, clicando com o botão esquerdo na alavanca. 
+ 
+ 
+ 
+Mova o corpo de prova para a bacia vazia, clicando com o botão esquerdo sobre o corpo. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Quebre o corpo em pedaços, clicando com o botão esquerdo sobre o solo. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+7. PREPARANDO UMA AMOSTRA 
+ 
+Mova a cápsula 1 para  a  balança,  clicando  com  o  botão  direito  sobre  a  cápsula  e 
+selecionando a opção “Mover para a balança”. 
+ 
+ 
+ 
+Avalie a massa da cápsula. 
+Retorne a cápsula para a mesa, clicando com o botão direito sobre a cápsula. 
+Colete uma amostra do solo, clicando com o botão esquerdo sobre a cápsula. 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Avalie a massa de solo úmido adicionada na cápsula. 
+Abra a estufa, clicando com o botão esquerdo sobre ela. 
+ 
+ 
+ 
+Mova a cápsula com solo para dentro da estufa, clicando com o botão direito sobre a 
+cápsula e selecionando a opção “Mover para a estufa”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+8. DESMONTANDO O MOLDE DO EXTRATOR 
+ 
+Remova a tampa do extrator, e retorne o molde cilíndrico para a base que se encontra 
+na bacia, clicando com o botão esquerdo sobre o molde. 
+Retorne o extrator para a posição inicial, clicando sobre sua alavanca. 
+ 
+ 
+9. PREPARANDO NOVAMENTE O SOLO 
+ 
+Conecte  o  colarinho  novamente  para  o  molde,  clicando  com  o  botão  esquerdo  sobre 
+ele. 
+ 
+ 
+ 
+Retorne o cilindro para a mesa. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+Destorroe o solo compactado sobre a bacia de origem, clicando sobre as peneiras. 
+ 
+ 
+ 
+Adicione água destilada ao solo da bacia, clicando com o botão esquerdo sobre a proveta 
+graduada. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+10.  SECANDO TODAS AS AMOSTRAS 
+ 
+Repita os passos de 1 a 9 mais quatro vezes, para ter os dados necessários. 
+Com  as  5  cápsulas  dentro  da  estufa,  ligue-a,  clicando  com  o  botão  esquerdo  sobre  o 
+botão de ligar. 
+ 
+ 
+ 
+Aguarde a secagem dos solos. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+COMPACTAÇÃO DE SOLOS 
+ 
+11. PESANDO O SOLO SECO 
+ 
+Ao final da secagem, desligue a estufa e retorne todas as cápsulas para a mesa. 
+Avalie a massa de cada cápsula com solo seco e anote os valores das massas. 
+ 
+ 
+12.  AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 

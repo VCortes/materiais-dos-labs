@@ -1,0 +1,520 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá praticar o uso da câmera profissional e as funções 
+principais da câmera, tais como retirar a foto, selecionar a lente ideal e ajustar 
+as  configurações  para o  ambiente.  Além  das  funções  básicas,  o  experimento 
+permite o estudo da escolha do modo da fotografia, possibilitando a visualização 
+entre as diferentes resoluções de cada configuração disponível. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O EXPERIMENTO 
+ 
+Na  lateral  superior  direita  da  tela,  é  possível  identificar  os  botões  de  “Opções”  e 
+“Bloco  de  Notas”.  O  botão  de  “Opções”  permite  reiniciar  o  experimento  para  as 
+definições  padrões  ou  retornar  ao  laboratório, sem  alteração.  O  bloco  de  notas 
+permite inserir anotações ao longo do experimento, permanecendo armazenadas até 
+o final da atividade. 
+ 
+2. TOMANDO DECISÕES 
+ 
+O  laboratório  de  fotografia  apresenta  uma  câmera  fotográfica profissional. Faça  os 
+ajustes das configurações de zoom e foco da câmera. Em seguida, selecione o modo 
+de visualização para manuseio da câmera (visor, superior ou frontal). 
+ 
+3. ESCOLHENDO A VISUALIZAÇÃO DO VISOR DA CÂMERA 
+ 
+Após selecionar o modo de visualização, comandos estarão disponíveis, a depender 
+do modo escolhido. No modo “visor da câmera”, você poderá tirar a foto e visualizar 
+a foto. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+  
+4. ESCOLHENDO A VISTA SUPERIOR DA CÂMERA 
+ 
+No modo de visualização da parte superior da câmera, é possível tirar a foto e escolher 
+o modo de captura da fotografia. 
+ 
+5. ESCOLHENDO A VISTA FRONTAL DA CÂMERA 
+ 
+Na visualização  frontal  da  câmera,  estão  disponíveis  os  comandos  de  tirar  foto  e 
+selecionar lente. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 07 e  08 deste 
+roteiro, e responda de acordo com o que foi observado no experimento, associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais etapas devem ser seguidas para realizar um bom enquadramento fotográfico? 
+ 
+ 
+ 
+2. Quais as formas de organizar os componentes de uma foto? 
+ 
+ 
+ 
+3. A  fotografia  pode  ser  utilizada  para  representar  a  percepção subjetiva de  um 
+indivíduo,   sobre   um   acontecimento,   espaço   ou   evento. Como   você   poderia 
+transmitir  sua  perspectiva  sobre  um  momento? Quais  aspectos  você  poderia 
+considerar para atribuir originalidade as suas fotos? 
+ 
+ 
+ 
+4. “No auge do Positivismo, na primeira metade do século XIX, o surgimento da 
+fotografia colocou em xeque a hegemonia das artes plásticas como ferramenta de 
+documentação  da  realidade.  Para  o  Jornalismo,  a  prerrogativa  de  reprodução  do 
+real, por parte da fotografia, responde a um preceito básico da profissão: o da busca 
+da objetividade dos fatos.” 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+Partindo  desse  pensamento  acerca  da  Fotografia  como  maneira  de  registrar  e 
+documentar    a    realidade    dos    acontecimentos,    escolha    um    dos    grandes 
+fotojornalistas da história desse estilo fotográfico e faça uma análise do seu trabalho 
+em  uma  imagem  realizada  por  ele.  Sugerimos  a  análise  de  fotografias  de  Henry 
+Cartier-Bresson, Sebastião Salgado, José Medeiros ou Robert Capa.  
+A  análise deverá  ser de acordo  com o  caráter  interpretativo  estudado  na  primeira 
+aula, respondendo a seguinte questão: o que entendo do fato retratado na imagem 
+fotográfica. 
+A  apresentação  deve  ter  a  reprodução  da  imagem  escolhida  e  o  texto  com  a  sua 
+análise em Word. 
+Para   os   alunos   de   Publicidade   e   Propaganda,   pede-se   criar   uma   campanha 
+publicitária  em  que  a  Fotografia  seja  a  mídia.  Deve-se  estar  atento  ao  conteúdo 
+ministrado nas  aulas  8, 9  e  10.  No  trabalho, deverá  constar uma  análise crítica  do 
+que foi produzido, explicando sua intenção, composição e estética.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. CONHECENDO O EXPERIMENTO 
+ 
+Localizado na lateral superior direita da tela, estão disponíveis os botões de “Opções” e 
+“Bloco de Notas”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+O botão de “Configuração” permite retornar, sem alterar o experimento, ao laboratório 
+ou reiniciar as configurações ao modo padrão.  
+ 
+ 
+ 
+O  botão de  “Bloco  de  Notas” permite  inserir  anotações,  permanecendo armazenadas 
+até o final da atividade. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+2. TOMANDO DECISÕES 
+ 
+Inicie   o   experimento ajustando as   configurações   de   zoom   e   foco da   câmera 
+apresentadas na lateral inferior esquerda da tela. 
+ 
+ 
+ 
+Após realizar o ajuste, na lateral superior direita da tela é possível selecionar o modo de 
+visualização. Cada alternativa permite uma perspectiva do manuseio da câmera: Alt + 1 
+(visor): visualização da parte de trás da câmera; Alt + 2 (vista superior): visualização dos 
+comandos  da  parte  superior  da  câmera;  Alt+3  (vista  frontal):  visualização  da  parte  da 
+frente da câmera. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+3. ESCOLHENDO A VISUALIZAÇÃO DO VISOR DA CÂMERA 
+ 
+Na visualização do visor da câmera (Alt+1), dois comandos estão disponíveis: tirar foto 
+e visualizar foto. Para tirar foto, clique no botão apresentado na lateral inferior direita e 
+a captura será realizada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+Para visualizar a fotografia, clique sobre o botão representado pelo símbolo de “Play”. 
+Para retornar ao modo de fotografia, clique novamente sobre ele. 
+ 
+ 
+ 
+As fotos são numeradas abaixo do visor, sendo possível avançar para a próxima foto ou 
+retornar à anterior pelas setas ao lado direito do visor. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+4. ESCOLHENDO A VISTA SUPERIOR DA CÂMERA 
+ 
+Na visualização superior da câmera (Alt+2), dois comandos estão disponíveis: tirar foto 
+e escolher modo de captura. 
+Para tirar foto, clique com o botão esquerdo do mouse sobre o botão: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+Para configurar o modo de captura da fotografia, ao deslizar a seta de navegação sobre 
+as opções disponíveis, a descrição das alternativas será apresentada na legenda. Basta 
+clicar sobre o modo escolhido para selecioná-lo. 
+ 
+ 
+ 
+O modo Foto Panorâmica realiza a captura de duas fotos, para cobrir as áreas próximas. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+5. ESCOLHENDO A VISTA FRONTAL DA CÂMERA 
+ 
+Na visualização frontal da câmera (Alt+3), dois comandos estão disponíveis: tirar foto e 
+selecionar lente. 
+Para tirar foto, clique com o botão esquerdo do mouse sobre o botão. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+Para  escolher  entre  as  opções  de  lentes  disponíveis,  clique sobre  a  lente  atual  e 
+selecione uma das opções. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PUBLICIDADE E PROPAGANDA 
+FOTOGRAFIA 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 07 e  08 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 

@@ -1,0 +1,584 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta   prática,   você   vai   conectar   e   analisar   o   comportamento   de   um 
+transformador,  equipamento  que  funciona  utilizando  o  princípio  da  indução 
+mútua. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bobina; 
+• Lâmpada; 
+• Multímetro; 
+• Placa de ensaio; 
+• Transformador. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. CONECTANDO OS FIOS DO TRANSFORMADOR 
+ 
+Conecte os fios do transformador na placa de ensaio e conecte o multímetro nos terminais 1 
+e 2 da placa de ensaio. Ligue o multímetro em 200 VAC.  
+ 
+2. ACIONANDO O INTERRUPTOR S1 
+ 
+Acione  o  interruptor  S1  e  observe  o  nível de  tensão  fornecida  para  a  bobina  1.  Desative  o 
+interruptor S1.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+  
+3. TROCANDO A CONEXÃO DO MULTÍMETRO 1 
+ 
+Desconecte  os  cabos  do  multímetro  e  conecte-os  nos  terminais  3  e  4  da  placa  de  ensaio. 
+Acione o interruptor S1 e verifique o nível de tensão exibido no multímetro. 
+ 
+4. CONECTANDO A LÂMPADA 
+ 
+Desative o interruptor S1 e desconecte os cabos do multímetro. Conecte a lâmpada na placa 
+de  ensaio.  Conecte  os  cabos  do  multímetro  em  1  e  2  e  acione  o  interruptor  S1.  Verifique  a 
+tensão no primário do transformador.  
+ 
+5. TROCANDO A CONEXÃO DO MULTÍMETRO 2 
+ 
+Desative  o  interruptor  S1  e  desconecte  os  cabos  do  multímetro.  Conecte  os  cabos  do 
+multímetro  em  3  e  4  e  acione  o  interruptor  S1.  Verifique  a  tensão  no  secundário  do 
+transformador. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Existe diferença entre o valor exibido no multímetro com o interruptor S1 ligado 
+e desligado? Em caso afirmativo, qual é essa diferença e explique o motivo dela 
+existir. 
+ 
+ 
+2. Qual a tensão exibida no secundário do transformador a vazio? O transformador 
+montado  com  as  bobinas  1  e  2  na  placa  de  ensaio  é  do  tipo  elevador  ou 
+abaixador? Justifique. 
+ 
+ 
+3. Dada  a  relação  de  espiras  entre  o  primário  e  o  secundário,  qual  deveria  ser  a 
+tensão exibida no multímetro caso o transformador utilizado no ensaio fosse um 
+transformador ideal? 
+ 
+ 
+4. Qual  a  tensão  exibida  no  secundário  do  transformador  com  a  carga  (lâmpada) 
+conectada   nele?   Explique   a   diferença   entre   a   tensão   no   secundário   do 
+transformador a vazio e com a carga. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONECTANDO OS FIOS DO TRANSFORMADOR 
+ 
+Conecte  os  fios  do  transformador  clicando  com  o  botão  direito  do  mouse  sobre  o 
+transformador e selecione a opção “Conectar fios”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Ligue os conectores do multímetro na placa de ensaio clicando com o botão direito do 
+mouse sobre os conectores do multímetro e selecione a opção “Ligar fios em 1 e 2”. 
+ 
+ 
+ 
+Ligue o multímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+2. ACIONANDO O INTERRUPTOR S1 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Observe o nível de tensão no display do multímetro clicando com o botão esquerdo do 
+mouse na câmera com o nome “Multímetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Desligue o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+3. TROCANDO A CONEXÃO DO MULTÍMETRO 1 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Troque a conexão do multímetro clicando com o botão direito do mouse nos conectores 
+e selecione a opção “Ligar fios em 3 e 4”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Observe o nível de tensão no display do multímetro clicando com o botão esquerdo do 
+mouse na câmera com o nome “Multímetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+4. CONECTANDO A LÂMPADA 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Desligue o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Desconecte o multímetro clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Desconectar fios”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Conecte a lâmpada clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Conectar fios”. 
+ 
+ 
+ 
+Conecte o multímetro nos terminais 1 e 2 clicando com o botão direito do mouse sobre 
+os conectores e selecione a opção “Ligar fios em 1 e 2”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ative o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Observe o nível de tensão no display do multímetro clicando com o botão esquerdo do 
+mouse na câmera com o nome “Multímetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+5. TROCANDO A CONEXÃO DO MULTÍMETRO 2 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Desligue o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Troque a conexão do multímetro clicando com o botão direito do mouse nos conectores 
+e selecione a opção “Ligar fios em 3 e 4”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Medições” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o interruptor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+Observe o nível de tensão no display do multímetro, clicando com o botão esquerdo do 
+mouse na câmera com o nome “Multímetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+INDUÇÃO MÚTUA ENTRE DUAS BOBINAS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  

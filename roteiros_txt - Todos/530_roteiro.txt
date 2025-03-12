@@ -1,0 +1,702 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar a oxidação do etanol, empregando soluções 
+aquosas de dicromato de potássio e permanganato de potássio em meio ácido. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico 99,5% (C
+2
+H
+6
+O); 
+• Bastão de vidro; 
+• Béquer de 10 mL; 
+• Béquer de 600 mL; 
+• Capela de exaustão; 
+• Chapa aquecedora; 
+• Pinça para tubo de ensaio; 
+• Pipeta volumétrica de 1 mL;  
+• Pipeta volumétrica de 2 mL; 
+• Pipetador; 
+• Proveta graduada de 10 mL; 
+• Solução aquosa de ácido sulfúrico; 
+• Solução aquosa de dicromato de potássio 0,5 M (K
+2
+Cr
+2
+O
+7
+); 
+• Solução aquosa de permanganato de potássio 0,5 M (KMnO
+4
+); 
+• Suporte para tubo de ensaio. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”:  jaleco, 
+luvas, óculos de proteção e máscara.  
+ 
+2. OXIDANDO COM DICROMATO DE POTÁSSIO  
+ 
+Ligue  a  capela  de  exaustão.  Coloque  no  béquer  a solução  de  dicromato  de  potássio  0,5  M 
+armazenada no frasco conta-gotas. Com auxílio da pipeta volumétrica e pera, pipete 2 mL de 
+dicromato de potássio do béquer para o tubo de ensaio. Desligue a capela de exaustão. Mova 
+o  suporte  de  tubo  de  ensaio  para  a bancada.  Ligue  a  chapa  aquecedora  e  mantenha  o 
+aquecimento por 5 minutos, até que a água do béquer entre em ebulição. Transfira 10 mL de 
+ácido  sulfúrico para o  béquer,  em  seguida,  pipete 1 mL do  ácido no tubo  de ensaio.  Goteje 
+etanol 99,5% contido no frasco conta-gotas no tubo de ensaio. Mova o tubo de ensaio para a 
+chapa  aquecedora  com  auxílio  da  pinça.  Mantenha  o  tubo  de  ensaio  contendo  solução  de 
+dicromato de potássio, ácido sulfúrico e etanol no banho de aquecimento durante 5 minutos, 
+até que o meio reacional mude de cor. Em seguida, retire do aquecimento e desligue a placa 
+de aquecimento. 
+ 
+3. OXIDANDO COM PERMANGANATO DE POTÁSSIO  
+ 
+Direcione-se  à  capela  de  exaustão  e  ligue-a.  Coloque  no  tubo  de  ensaio  a solução  de 
+permanganato  de  potássio  0,5  M  armazenada  no  frasco  conta-gotas,  10  gotas  da  solução. 
+Desligue a capela de exaustão e direcione o tubo de ensaio para a bancada. Despeje na proveta 
+3 mL de ácido sulfúrico e direcione para o tubo de ensaio. Goteje 5 gostas de etanol no tubo 
+de ensaio. Ligue a chapa aquecedora. Mova o tubo de ensaio para a chapa aquecedora com 
+auxílio da pinça.  Mantenha o tubo de ensaio contendo solução de permanganato de potássio, 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+  
+ácido  sulfúrico  e  etanol  no  banho  de  aquecimento  durante  5  minutos,  até  que  o  meio 
+reacional mude de cor. Em seguida, retire do aquecimento e desligue a placa de aquecimento. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a principal funcionalidade dessa reação no cotidiano? 
+ 
+ 
+ 
+2. Faça um breve resumo da reação de oxidação, relatando os compostos oxidantes 
+e redutores. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e 
+máscara. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+2. OXIDANDO COM DICROMATO DE POTÁSSIO 
+ 
+Visualize a capela clicando com o botão esquerdo do mouse na câmera com o nome 
+“Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue a ventilação e a luz da capela clicando com o botão esquerdo do mouse nos botões 
+indicados. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Abra a capela clicando com o botão esquerdo do mouse sobre o vidro da capela. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Interior da capela” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Transfira  o  dicromato  de  potássio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+conta gotas contendo dicromato de potássio. 
+ 
+ 
+ 
+Visualize a escala da pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Aspire 2 mL pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  na pipeta  e  selecione  a  opção 
+“Mover para tubo de ensaio”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Despeje 2 mL pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a  opção 
+“Mover para suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova  o tubo  de  ensaio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tubo  de 
+ensaio. 
+ 
+ 
+ 
+Ligue  a  chapa  aquecedora pressionando  com  o  botão  esquerdo  do  mouse  sobre  os 
+botões indicados e movimente o cursor à direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Aqueça a chapa clicando com o botão esquerdo do mouse sobre o béquer e aguarde 5 
+minutos. 
+ 
+ 
+ 
+Despeje ácido sulfúrico clicando com o botão esquerdo do mouse na garrafa contendo 
+ácido sulfúrico. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Visualize a escala da pipeta clicando com o botão esquerdo sobre a pipeta. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 1 mL pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a  opção 
+“Mover para tubo de ensaio”. 
+ 
+ 
+ 
+Despeje 1 mL pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova  a pipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a  opção 
+“Mover para suporte”. 
+ 
+ 
+ 
+Adicione o etanol clicando com o botão esquerdo do mouse no conta gotas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova  o  tubo  de  ensaio  clicando  com  o  botão  direito  do  mouse  no  tubo  de  ensaio  e 
+aguarde até mudar de cor. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse no tubo de ensaio. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+3. OXIDANDO PERMANGANATO DE POTÁSSIO 
+ 
+Mova  o  tubo  de  ensaio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tubo  de 
+ensaio. 
+ 
+ 
+ 
+Remova o conteúdo clicando com o botão direito do mouse no tubo de ensaio. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Adicione  o  permanganato  de  potássio  clicando  com  o  botão  esquerdo  do  mouse  no 
+conta gotas. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse sobre o tubo ensaio. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Despeje o ácido sulfúrico clicando com o botão direito do mouse na garrafa contendo 
+ácido sulfúrico. 
+ 
+ 
+ 
+Visualize a escala da proveta clicando com o botão esquerdo sobre a proveta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Despeje  3  mL clicando  com  o  botão  esquerdo  do  mouse  na  garrafa  contendo  ácido 
+sulfúrico. 
+ 
+ 
+ 
+Mova o ácido sulfúrico clicando com o botão direito do mouse na garrafa contendo ácido 
+sulfúrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova a proveta clicando com o botão direito do mouse na proveta e selecione a opção 
+“Mover para tubo de ensaio”. 
+ 
+ 
+ 
+Adicione o etanol clicando com o botão esquerdo do mouse no conta gotas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+Mova  o  tubo  de  ensaio  clicando  com  o  botão  direito  do  mouse  no  tubo  de  ensaio  e 
+aguarde até mudar de cor. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse no tubo de ensaio. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA 
+OXIDAÇÃO DO ETANOL COM DICROMATO DE POTÁSSIO E PERMENGANATO DE POTÁSSIO 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

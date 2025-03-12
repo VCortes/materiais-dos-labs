@@ -1,0 +1,587 @@
+
+
+ 
+VIRTUALAB – ROTEIRO DO LABORATÓRIO DE MATERIAIS 
+ 
+ 
+ENSAIO DE TORÇÃO 
+Neste experimento você irá determinar as 
+propriedades dos materiais quando 
+submetidos à esforços de torção. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PASSO 1  
+ Selecionando corpo de prova 
+Abra  a  maleta  de  corpos  de  prova  clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe  os  corpos  de  prova  dispostos  na  maleta  acessando  a  opção  de 
+câmera “Corpos de prova”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Você  pode  verificar  informações  sobre  os  corpos  de  prova  posicionando  a 
+seta do mouse sobre ele. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atenção: Neste experimento serão   utilizados   os   corpos   de   prova   de 
+alumínio, latão, cobre, aço carbono e ferro fundido. 
+ 
+Para  posicionar  o  corpo  de  prova  na  mesa,  clique  com  o  botão  direito  do 
+mouse  sobre  o  material  desejado  e  selecione  a  opção “Posicionar  na 
+mesa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que o corpo de prova é posicionado na mesa. 
+ 
+PASSO 2  
+ Medindo dimensões iniciais do corpo de prova 
+Antes  de  posicionar  o  corpo  de  prova  na  máquina  de  ensaio  é  necessário 
+que se realize medidas das suas dimensões. 
+ 
+ 
+ 
+ 
+
+Utilize o paquímetro localizado em cima da mesa para efetuar as medidas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Para medir o diâmetro inicial do corpo de prova, clique com o botão direito 
+do mouse e selecione a opção “Medir diâmetro”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe o valor na escala do paquímetro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anote o valor. 
+Ø
+o
+ = _____________ mm 
+ 
+ 
+
+Em seguida, clique com o botão esquerdo do mouse no “X” vermelho  ao 
+canto da tela para retornar o paquímetro e o corpo de prova para a mesa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Realize  a  medida  do  comprimento  inicial  clicando  com  o  botão  direito  do 
+mouse sobre o paquímetro e selecionando a opção “Medir comprimento”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Você deverá utilizar as setas para visualizar o restante da escala de medida. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Leia o valor apresentado na escala de medida e anote-o. 
+ 
+L
+o
+ = _____________ mm 
+ 
+Então, retorne o paquímetro para a mesa. 
+ 
+Atenção: Você utilizará esses valores na construção da curva “Tensão x 
+Deformação”. 
+ 
+PASSO 3  
+ Posicionando  o  corpo  de  prova  na  máquina de 
+ensaio de torção 
+Antes  de  posicionar  o  corpo  de  prova  na  máquina  de  ensaio  é  necessário 
+desacoplar uma das partes de fixação.  
+Acesse a opção de câmera “Bancada” para visualizar a máquina de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe a máquina de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Clique com o botão direito do mouse sobre o carro deslizante e selecione a 
+opção “Desacoplar carro deslizante”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que a parte móvel se desloca. 
+ 
+Em seguida, acesse a opção de câmera “Mesa” para visualizar novamente o 
+corpo de prova. 
+ 
+Insira  o  corpo  de  prova  na  garra  móvel, clicando  com  o  botão  direito  do 
+mouse sobre o corpo de prova e selecionando a opção “Mover para a 
+máquina”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Em  seguida  encoste  a  parte  fixa  na  outra  extremidade  livre  do  corpo  de 
+prova  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecionando  a 
+opção “Acoplar carro deslizante”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PASSO 4 
+Ligando o sistema de medição 
+Acesse a opção de câmera “Bancada” para  poder  visualizar  o  sistema  de 
+medição. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acesse a opção de câmera “Bancada” para poder visualizar o sistema de 
+medição. 
+ 
+ 
+ 
+
+ 
+Clique  com  o  botão  direito,  sobre  o  componente  do  sistema  de  medição 
+sinalizado  pela  seta  vermelha  e  selecione  a  opção  “Ligar  sistema  de 
+medição”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que ao canto a caixa de informações. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PASSO 5 
+ Aplicando a pré-carga 
+Faz-se  necessário  a  aplicação  de  uma  pré-carga  no  sistema  para  que  as 
+folgas  inerentes  à  montagem  sejam  eliminadas,  não  exercendo  influência 
+sobre os resultados obtidos. 
+ 
+Gire  o  volante  da  máquina  até  que  o  sistema  de  medidas  acuse  valores 
+mínimos  para  o momento  torsor e ângulo. Para  isso,  clique  com  o  botão 
+esquerdo do mouse no volante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe atentamente as medidas apresentadas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anote esse valor. 
+MT
+inicial
+ = _____________ N/m 
+ 
+Ângulo
+inicial
+ = _____________ ° 
+ 
+
+Em  seguida,  zere  o  sistema  de  medida. Primeiramente,  zere  o  valor  do 
+torque apresentado no display “Momento”, para isso, clique com o botão 
+direito do mouse sobre o sistema de medição e selecione a opção “Zerar 
+sensor de torque”. 
+ 
+ 
+ 
+Faça  o  mesmo  procedimento  para  o  valor  do  ângulo  de  rotação  do  corpo 
+de prova. 
+ 
+ 
+ 
+Observe que os valores apresentados nos displays são zerados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PASSO 6 
+ Aplicando torque no corpo de prova 
+Aplique o  torque  no  corpo  de  prova,  realizando  o giro  no  volante  da 
+máquina de ensaio de tração. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atenção: Gire o volante da caixa redutora até que o corpo de prova atinja a 
+ruptura. 
+ 
+Anote  os  valores  do  momento  para  cada  variação  de  ângulo  apresentada 
+pelo corpo de prova. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ensaio de torção – Latão 
+CP 01 CP 02 CP 03 
+Ângulo (°) Momento (Nm) Ângulo (°) Momento (Nm) Ângulo (°) Momento (Nm) 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+Observe o aviso de rompimento do corpo de prova.  
+ 
+ 
+ 
+Atenção: Anote na tabela os valores de momento e ângulo em que ocorreu 
+o rompimento do corpo de prova. 
+ 
+Por  fim,  zere  os  valores  de  momento  e  ângulo  apresentados  pelo  sistema 
+de medida. 
+ 
+PASSO 7 
+ Retirando corpo de prova 
+Após o  rompimento  do  corpo  de  prova, desacople  o  carro deslizante, 
+afastando-o, em seguida, retire o corpo de prova da máquina de ensaio. 
+ 
+Para  folgar  o  carro  deslizante,  clique  com  o  botão  direito  do  mouse  sobre 
+ele e selecione a opção “Desacoplar carro deslizante”. 
+ 
+ 
+ 
+
+Observe  que  ao  folgar  o  carro  deslizante,  o  corpo  de  prova  é  removido  e 
+posicionado na mesa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PASSO 8 
+ Descartando corpo de prova 
+Para  ensaiar  um novo  corpo de  prova,  é  necessário  que  o  já  ensaiado  seja 
+descartado.  Para  descartá-lo,  clique  com  o  botão  direito  do  mouse  sobre 
+ele e selecione a opção “Descartar este espécime”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PASSO 9 
+ Análise dos dados 
+ 
+ 
+ 
+ 
+U
+t
+i
+l
+i
+z
+a
+n
+d
+o
+ 
+o
+s
+ dados  da  tabela acima,  construa  o  gráfico “Tensão (MPa)  x  Deformação 
+(ɣ)” para o material ensaiado. 
+ 
+Com  base  no  gráfico  construído,  determine  os  valores  do  módulo  de 
+elasticidade, limite de escoamento e o limite de resistência à torção. 
+ 
+PASSO 10 
+ Repetindo o experimento 
+Realize  os  passos  acima  listados  para  ensaiar  os  outros  corpos  de  prova  e 
+materiais restantes. 
+  
+Ensaio de torção – Latão 
+CP 01 CP 02 CP 03 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      

@@ -1,0 +1,420 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá  aprimorar  seus  conhecimentos  sobre as ilhas  de 
+calor. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bicicleta; 
+• Bloco de anotações; 
+• Caneta; 
+• Sensor Digital. 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO AS ILHAS DE CALOR 
+ 
+Inicie a prática e verifique em qual local será a trilha. Identifique o que serão observados e o 
+tempo de duração da trilha. Em seguida, pegue os itens necessários para início da trilha. Inicie 
+a trilha e faça a primeira parada após 5 minutos. 
+ 
+2. REGISTRANDO A TEMPERATURA 
+ 
+Anote  a  temperatura  registrada  pelo  sensor.  Siga  na  trilha  e  faça  a  segunda  parada  após  5 
+minutos. Anote a temperatura registrada pelo sensor. Siga na trilha e faça a terceira parada 
+após  5  minutos.  Anote  a  temperatura  registrada  pelo  sensor.  Siga  na  trilha  e  faça  a  quarta 
+parada  após  5  minutos. Anote  a  temperatura  registrada  pelo  sensor.  Siga  na  trilha  e  faça  a 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+  
+quinta parada após 5 minutos. Anote a temperatura registrada pelo sensor. Troque o cenário 
+para o modo noturno e repita o percurso das 5 paradas. 
+ 
+3. RESPONDENDO O QUESTIONÁRIO 
+ 
+Responda todas as questões para testar os conhecimentos obtidos ao longo desta atividade 
+prática 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que são ilhas de calor? 
+ 
+ 
+ 
+2. Como as ilhas de calor afetam as áreas rurais e a agricultura? 
+ 
+ 
+ 
+3. Qual papel da vegetação na mitigação das ilhas de calor na zona rural? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO AS ILHAS DE CALOR 
+ 
+Leia as informações  sobre  a trilha  que será  realizada e prossiga clicando com  o botão 
+esquerdo do mouse em “OK”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Leia o aviso sobre a trilha e prossiga clicando com o botão esquerdo do mouse em “OK”.  
+ 
+ 
+ 
+Leia o aviso que indica o que será observado durante a trilha e prossiga clicando com o 
+botão esquerdo do mouse em “OK”.  
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Selecione  os itens que  serão  utilizados  durante  o  experimento clicando  com  o  botão 
+esquerdo do mouse no material.  
+ 
+ 
+ 
+Após selecionar todos os itens e confirme clicando com o botão esquerdo do mouse em 
+“CONFIRMAR” 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+2. REGISTRANDO A TEMPERATURA 
+ 
+Visualize o sensor clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Sensor”  localizada  no  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho “Alt+2”. 
+ 
+ 
+ 
+Verifique a temperatura clicando com o botão esquerdo do mouse na opção “Medir”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Anote a temperatura medida no sensor e prossiga clicando com o botão esquerdo do 
+mouse em “OK” 
+ 
+ 
+ 
+Vá  para  o  próximo ponto  de  medição  clicando com  o  botão  esquerdo  do  mouse  em 
+“Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Repita o processo de medição para os outros pontos de paradas da trilha. Após medir a 
+temperatura  na 5º  parada,  avance clicando com  o  botão  esquerdo  do  mouse  em 
+“Avançar”. 
+ 
+ 
+ 
+Analise  o  gráfico  que  associa  a  temperatura  com o  horário  da  medição e  prossiga 
+clicando com o botão esquerdo do mouse em “OK”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Repita todos os processos do item 2 para medir as temperaturas no modo noturno, após 
+fazer  a  medição  na  5º  parada,  avance clicando com  o  botão  esquerdo  do  mouse  em 
+“Avançar”. 
+ 
+ 
+ 
+Analise  o  gráfico  que  associa  a  temperatura  com  o  horário  da  medição e  prossiga 
+clicando com o botão esquerdo do mouse em “OK”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+3. RESPONDENDO O QUESTIONÁRIO 
+ 
+Visualize o questionário clicando com o botão esquerdo do mouse em “Iniciar”. 
+ 
+ 
+ 
+Responda  o  questionário  clicando  com  o  botão  esquerdo  do  mouse sobre  uma  das 
+alternativas. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+Confirme sua resposta clicando com o botão esquerdo do mouse em “Continuar”. 
+ 
+ 
+ 
+Repita o procedimento anterior, responda as questões seguintes e finalize a prática. 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CLIMATOLOGIA 
+CONHECENDO AS ILHAS DE CALOR 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  

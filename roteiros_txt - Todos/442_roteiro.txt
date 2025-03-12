@@ -1,0 +1,517 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá preparar uma prensa para herborização de material 
+botânica, reconhecer   as   características   morfológicas   dos   principais   grupos 
+vegetais (Gimnospermas, Angiospermas Basais, Monocotiledôneas e 
+Eudicotiledôneas) e identificar as principais famílias botânicas através da chave 
+dicotômica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Flor para herborização; 
+• Prensa de madeira; 
+• Corda para amarrar a prensa; 
+• Papelão; 
+• Catálogo de  Espermatófitas: Pinus  sp.,  Cycas  sp.; Caesalpinia  pulcherrima; 
+Cupressus  sp.; Hippeastrum  sp.; Magnolia  grandiflora; Ludwigia  octovalvis; 
+Victoria amazônica; Eichhornia crassipes; 
+• Catálogo  para  chave  dicotômica: Hibiscus  rosa-sinensis (brinco-de-princesa), 
+Casuarina  equisetifolia (casuarina), Pinus  sp.; Piper  nigrum;  Riccinus  communis 
+(mamona); Hemerocallis flava (lírio). 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque o equipamento de proteção individual localizado no “Armário de EPIs”. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+  
+2. PREPARANDO A HERBORIZAÇÃO 
+ 
+Acomode a planta em jornal. Em seguida, dobre o jornal e mova o jornal para prensa 
+de  madeira. Depois,  coloque o papelão  sobre  a  prensa  de  madeira com  jornal e 
+amarre a prensa com a corda. 
+ 
+3. CLASSIFICANDO OS GRUPOS VEGETAIS 
+ 
+Abra o catálogo posicionado na bancada, visualize as espécies clicando nelas e escolha 
+cada  uma.  Em  seguida, escolha a  classificação  morfológica  dos  principais  grupos 
+vegetais segundo o APG IV (Gimnospernas, Angiospermas basais, Monocotiledônea, 
+Eudicotiledônea) da espécie correspondente. 
+ 
+4. IDENTIFICANDO AS PRINCIPAIS FAMÍLIAS BOTÂNICAS 
+ 
+Abra  outro  catálogo  posicionado  na  bancada,  visualize  as  espécies  clicando  nelas  e 
+escolha    cada    uma.    Em    seguida, selecione a    família    botânica    da    espécie 
+correspondente. 
+ 
+5. REPETINDO O PROCEDIMENTO 
+ 
+Após  realizar  todo  o  procedimento,  realize  o  mesmo procedimento  para  outras 
+espécies no catálogo. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+  
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância de realizar a herborização? 
+ 
+ 
+ 
+2. Diferencie as plantas monocotiledôneas de eudicotiledôneas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”, que está disponível dentro do painel de visualização localizado 
+no  canto  superior  esquerdo  da  tela.  Se  preferir,  pode  também  utilizar  o  atalho  do 
+teclado “Alt+4”.  
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione  o  EPI  necessário  para  a  realização  do  procedimento  clicando  com  o  botão 
+esquerdo do mouse sobre ele. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+2. PREPARANDO A HERBORIZAÇÃO 
+ 
+Visualize  a  espécie  utilizada  para  herborização  acessando  a  câmera  “Jornal” e,  em 
+seguida, mova a espécie presente no recipiente clicando sobre ela com botão esquerdo 
+do mouse. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Selecione o jornal para dobrar sobre a espécie clicando sobre ele com botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+Mova o jornal dobrado para a prensa clicando sobre ele com botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Visualize a prensa acessando a câmera “Prensa” e, em seguida, coloque o papelão sobre 
+o jornal acomodada na prensa clicando sobre ele com botão esquerdo do mouse. 
+ 
+ 
+ 
+Coloque  a  prensa  por  cima  do  papelão  clicando  sobre  ela  com  botão  esquerdo  do 
+mouse. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Amarre a prensa com a corda clicando sobre ela com botão esquerdo do mouse.  
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+3. CLASSIFICANDO OS GRUPOS VEGETAIS 
+ 
+Visualize  os  catálogos  acessando  a  câmera  “Visão  da  bancada” e,  em  seguida,  abra  o 
+catálogo clicando sobre ele com botão esquerdo do mouse. 
+ 
+ 
+ 
+Selecione a espécie para visualizar melhor e escolher a classificação adequada clicando 
+sobre ela com botão esquerdo do mouse. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Poderá  aumentar  ou diminuir  o  zoom  da  imagem  do  catálogo  clicando  os  ícones, 
+respectivamente, + e - com botão esquerdo do mouse. 
+ 
+ 
+ 
+Movimente a imagem para direita e esquerda nas laterais e para cima e para baixo na 
+navegação clicando com botão esquerdo do mouse.  
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Selecione   a   classificação   morfológica   segundo   o   APG   IV   (2016):   Gimnospermas, 
+Angiospermas  basais,  Monocotiledôneas,  Eudicotiledôneas  das  espécies  presentes  no 
+catálogo clicando sobre a opção adequada com botão esquerdo do mouse.  
+ 
+ 
+ 
+Retorne ao catálogo para visualização de outra espécie clicando na opção “Voltar” com 
+botão esquerdo do mouse.  
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Depois,  coloque  o  catálogo  na  bancada  clicando  sobre  ele  com  botão  esquerdo  do 
+mouse.  
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+4. IDENTIFICANDO AS PRINCIPAIS FAMÍLIAS BOTÂNICAS 
+ 
+Abra o segundo catálogo clicando sobre ele com botão esquerdo do mouse. 
+ 
+ 
+ 
+Selecione a espécie para visualizar melhor e escolher a família correta clicando sobre ela 
+com botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Realize a movimentação da imagem e pode aumentar ou diminuir o zoom da imagem 
+do catálogo conforme explicado anteriormente. 
+ 
+ 
+ 
+Selecione a família adequada para espécie determinada clicando sobre a opção correta 
+com   botão   esquerdo   do   mouse. As   opções   incluem   Malvaceae,   Casuarinaceae, 
+Pinaceae, Piperaceae e Euphorbiaceae.  
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+Retorne ao catálogo clicando na opção “Voltar” com botão esquerdo do mouse.  
+ 
+ 
+ 
+Depois,  coloque  o  catálogo  na  bancada  clicando  sobre  ele  com  botão  esquerdo  do 
+mouse.  
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESPERMATÓFITAS: MORFOLOGIA E SISTEMÁTICA  
+SISTEMÁTICA DE ESPERMATÓFITAS 
+ 
+5.  REPETINDO O PROCEDIMENTO 
+ 
+Após realizar todo o procedimento, realize o mesmo procedimento para outras espécies 
+no catálogo. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

@@ -1,0 +1,717 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   executar   os   procedimentos   adequados   para 
+promover  reações  perigosas.  Dessa  forma,  você  poderá  analisar  os  resultados 
+dessas reações e se precaver de eventuais resultados inesperados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de 50 mL; 
+• Pinça metálica; 
+• Acendedor; 
+• Espátula; 
+• Bastão de vidro; 
+• Sódio metálico (mergulhado em óleo mineral); 
+• Carbureto de cálcio (CaC
+2
+); 
+• Ácido sulfúrico (H
+2
+SO
+4
+) 98%; 
+• Sacarose (C
+12
+H
+22
+O
+11
+);  
+• Água destilada (H
+2
+O); 
+• Permanganato de potássio (KMnO
+4
+);  
+• Solução alcóolica de fenolftaleína 3%. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+2. PREPARANDO A CAPELA 
+ 
+Prepare a capela abrindo a janela, acendendo a luz interna e ligando o exaustor. 
+Feito isso, coloque sobre a mesa todos os itens necessários para a realização do 
+experimento que estão situados no armário inferior da capela. 
+ 
+3. REAGINDO O SÓDIO MÉTALICO COM ÁGUA  
+ 
+No primeiro béquer, acrescente água destilada. Em seguida, adicione três gotas 
+de  fenolftaleína.  Com  o  auxílio  de  uma  pinça, colete  uma  esfera  de  sódio 
+metálico e coloque no béquer. Observe a reação resultante da mistura. 
+ 
+4. REAGINDO CARBURETO DE CÁLCIO COM ÁGUA 
+ 
+No  segundo  béquer,  adicione  água  destilada.  Utilizando  a  espátula,  colete  o 
+carbureto  de  cálcio  e  deposite-o  no  béquer.  Depois  que  o  sólido  efervescer, 
+aproxime o acendedor da superfície do béquer e observe o resultado. 
+ 
+5. REAGINDO O ÁCIDO SULFÚRICO E A SACAROSE  
+ 
+No terceiro béquer, adicione a sacarose. Logo após, adicione o ácido sulfúrico e 
+misture a solução com a ajuda de um bastão de vidro e observe a reação. 
+ 
+6. REAGINDO O ÁCIDO SULFÚRICO E O PERMANGANATO DE POTÁSSIO 
+ 
+No  quarto  béquer,  adicione  o  permanganato  de  potássio.  Posteriormente, 
+acrescente  o  ácido  sulfúrico  e  misture-o  com  a  ajuda  do  bastão  de  vidro. 
+Observe o resultado da mistura. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  os  materiais  utilizados e guarde-os para  finalizar o 
+experimento. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Para  a  reação  entre  o  sódio  metálico  e  a  água,  3  gotas  de  fenolftaleína  foram 
+adicionadas ao béquer. Durante a  reação, a solução ficou rosa. Explique por que a 
+presença do indicador foi importante nesta etapa. 
+ 
+ 
+ 
+2. Explique por  que na  reação  do  carbureto  de  cálcio  com  a  água,  após  aproximar  o 
+acendedor, a solução começa a pegar fogo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ 
+ 
+Acesse  a  câmera  “EPI”,  clicando  com  o  botão  esquerdo  do  mouse  no  menu  superior 
+esquerdo. Abra o armário, clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPI’s necessários, clicando com o botão esquerdo o mouse sobre eles.  
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Os  EPIs  utilizados  serão:  jaleco,  luvas  de  látex, óculos  de  proteção e  máscara para 
+vapores. Após ter selecionado todos os EPIs, eles aparecerão no comando “EPI”.  
+ 
+ 
+ 
+Acesse  a  câmera  “Capela”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu 
+superior esquerdo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+ 
+ 
+Abra a janela da capela, clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Acesse a câmera “Painel de Controle”. 
+Acenda a luz interna e ligue o exaustor, clicando com o botão esquerdo do mouse sobre 
+os respectivos interruptores. 
+ 
+ 
+ 
+2. PREPARANDO A CAPELA 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Acesse a câmera “Armário Inferior”.  
+ 
+ 
+ 
+Abra a porta dos armários, clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Selecione todos os itens necessários para a realização do experimento, clicando com o 
+botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Acesse a câmera “Interior da Capela”  e note que todos os itens selecionados já estão 
+posicionados no interior da capela. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+  
+  
+ 
+Acesse a câmera “Soluções”.  
+ 
+ 
+ 
+Despeje a água, da pisseta, no béquer, clicando com o botão esquerdo do mouse sobre 
+a pisseta e selecionando a opção “Colocar no béquer 1“.  
+ 
+ 
+ 
+3. REAGINDO O SÓDIO MÉTALICO COM ÁGUA 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Em seguida, acesse a câmera “Interior da Capela”. 
+ 
+ 
+ 
+Preencha o béquer com água até aproximadamente a última marcação, clicando com o 
+botão esquerdo do mouse sobre a pisseta.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Selecione o indicador fenolftaleína, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Deposite  três  gotas  de  fenolftaleína  no  béquer  1,  selecionando  a  opção  “Colocar  no 
+béquer 1”.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Acrescente uma  esfera  de  sódio à mistura, clicando com  o  botão  esquerdo  do  mouse 
+sobre a pinça e selecionando a opção “No béquer 1”. 
+ 
+ 
+ 
+Acesse a câmera “Béquer” para observar o fenômeno resultante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+ 
+ 
+Acesse a câmera “Soluções”. 
+ 
+ 
+ 
+Despeje a água, da pisseta, no béquer, clicando com o botão esquerdo do mouse sobre 
+a pisseta e selecionando a opção “Colocar no béquer 2“.  
+ 
+ 
+  
+4. REAGINDO O CARBURETO DE CÁLCIO COM ÁGUA 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Em seguida, a câmera “Interior da Capela”.  
+ 
+ 
+ 
+Preencha o béquer com água até aproximadamente a última marcação, clicando com o 
+botão esquerdo do mouse na pisseta até preencher o volume desejado.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Abra  o  pote  de  carbureto  de  cálcio  (CaC
+2
+),  clicando com  o  botão  esquerdo  do  mouse 
+sobre o pote.  
+ 
+ 
+ 
+Acrescente o carbureto de sódio ao béquer 2, clicando com o botão esquerdo do mouse 
+sobre ele e selecione o béquer desejado. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Coloque o acendedor sobre a mistura, clicando com o botão esquerdo do mouse sobre 
+o acendedor e selecionando a opção “Acender béquer 2”. 
+ 
+ 
+ 
+Acesse a câmera “Béquer” para observar o fenômeno resultante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+  
+Destampe o pote de sacarosa, clicando com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Adicione a sacarose até que ¼ do béquer 3, clicando no pote contendo a sacarose e 
+selecionando o béquer que deseja adicionar. Repita a ação até atingir a quantidade 
+desejada. 
+ 
+ 
+5. REAGINDO O ÁCIDO SULFÚRICO E A SACAROSE  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Adicione o ácido sulfúrico (H
+2
+SO
+4
+) ao béquer, clicando com o botão esquerdo sobre a 
+solução e selecionando a opção “Colocar no béquer 3”.  
+ 
+ 
+ 
+Promova a mistura com o bastão de vidro, clicando com o botão esquerdo do mouse 
+sobre o bastão e selecionando a opção “Misturar béquer 3”. 
+ 
+ 
+ 
+Acesse a câmera “Béquer” para observar o fenômeno resultante. 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+ 
+ 
+Destampa  o  pote  de  permanganato  de  potássio,  clicando  com o  botão esquerdo do 
+mouse sobre ele. 
+ 
+ 
+ 
+Deposite uma amostra do permanganato de potássio no béquer 4, clicando com o 
+botão esquerdo do mouse sobre o pote e selecionando o béquer 4. 
+ 
+ 
+6. REAGINDO O ÁCIDO SULFÚRICO COM O PERMANGANATO 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+Adicione o ácido sulfúrico (H
+2
+SO
+4
+), clicando com o botão esquerdo do mouse na solução 
+e selecionando a opção “Colocar no béquer 4”. 
+ 
+ 
+ 
+Promova a mistura com o bastão de vidro, clicando com o botão esquerdo do mouse 
+sobre o bastão e selecionando a opção “Misturar béquer 4”. 
+ 
+ 
+ 
+Acesse a câmera “Béquer” para observar o fenômeno resultante. 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+REAÇÕES PERIGOSAS 
+ 
+ 
+ 
+Siga para a seção “Avaliação de Resultados” neste roteiro e responda de acordo com o 
+que foi observado no experimento. Caso seja necessário, retorne ao experimento, para 
+auxílio da avaliação de resultados.  
+ 
+ 
+ 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os e encerre o experimento.   
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+8. FINALIZANDO O EXPERIMENTO 

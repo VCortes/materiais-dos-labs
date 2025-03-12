@@ -1,0 +1,1113 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da 
+experiência virtual e para respostas às perguntas frequentes a respeito do 
+VirtuaLab.  
+ 
+2. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+3. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir, apresentamos  as  duas principais  dúvidas na  utilização  dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte.  Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o uso do disco no Gerenciador de Tarefas (Ctrl + Shift + Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros  aplicativos  ou  reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção  e  reinicie  o  navegador.  Caso  persista,  desative  a  opção  e  tente 
+novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+x Béquer; 
+x Bastão de vidro; 
+x Vidro de relógio; 
+x Pipeta Pasteur; 
+x Espátula; 
+x Proveta; 
+x Kitassato; 
+x Funil de Büchner; 
+x Bomba à vácuo; 
+x Papel filtro; 
+x Balança; 
+x Recipiente para banho de gelo; 
+x Banho-maria; 
+x Pisseta com água destilada; 
+x Pisseta com água oxigenada 30%; 
+x Gelo; 
+x CoCl2.6H2O; 
+x NH4Cl; 
+x NH4OH concentrado; 
+x HCl concentrado; 
+x Álcool etílico; 
+x Éter etílico. 
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no ͞Armário de 
+EPIs͟. 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Em seguida, prepare a capela abrindo a janela, acendendo a luz interna e ligando 
+o exaustor. Feito isso, coloque todos os itens necessários ao experimento, que 
+se encontram no Armário inferior, dentro da capela. 
+ 
+3. DISSOLVENDO NH
+4
+Cl EM NH
+4
+OH 
+ 
+Dissolva 1,25 g de NH
+4
+Cl em 7,5 mL de NH
+4
+OH concentrado. Para isso, coloque 
+a solução de NH
+4
+OH concentrado na proveta para medição, e depois no béquer. 
+Em seguida, meça 1,25 g de NH
+4
+Cl utilizando a balança analítica. Primeiramente, 
+a função TARA deve ser utilizada para desprezar o peso do vidro de relógio. 
+Após  esse  processo,  coloque  o  NH
+4
+Cl  no  béquer  que  contém  a  solução  de 
+NH
+4
+OH. 
+ 
+4. MEDINDO E DILUINDO O SAL CoCl
+2
+.6H
+2
+O 
+ 
+Meça 2,5 g de CoCl
+2
+.6H
+2
+O. Em seguida, coloque o bastão de vidro no béquer 
+para agitação contínua, e adicione o CoCl
+2
+.6H
+2
+O, anteriormente pesado, ao 
+béquer. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+5. ACRESCENTANDO H
+2
+O
+2
+ E HCl À SOLUÇÃO 
+ 
+Mantendo  a  agitação,  adicione  3,0  mL de  água  oxigenada  30%  ao  béquer. 
+Primeiro  transfira  para  a  proveta  para  medição  do  volume  e,  em  seguida, 
+transfira para o béquer. 
+CUIDADO: a água oxigenada nesta concentração produz queimaduras graves. 
+Quando cessar a efervescência, adicione 7,5 mL de HCl concentrado ao béquer. 
+Faça o mesmo procedimento de primeiro colocar na proveta para medição e, 
+em seguida, transferir para o béquer. 
+ 
+6. FORMAÇÃO DO PRECIPITADO 
+ 
+Aqueça a mistura em banho-maria até reduzir o volume à metade, sempre 
+agitando com o bastão de vidro para evitar que o sal cristalize nas bordas do 
+béquer. Após a redução do volume, o bastão de vido já pode ser retirado do 
+béquer.  
+Retire o béquer do banho-maria, resfrie à temperatura ambiente e, em seguida, 
+em banho de gelo. 
+ 
+7. SEPARAÇÃO DOS CRISTAIS 
+ 
+Separe  os  cristais  vermelhos  obtidos  utilizando  filtração  à  vácuo.  Para  isso, 
+coloque o papel filtro no conjunto de filtração e ligue a bomba à vácuo. Em 
+seguida, despeje os cristais, que estão no béquer, no filtro, e lave os cristais, 
+primeiro com água fria, seguida de uma pequena porção de etanol e finalmente 
+de éter  etílico, utilizando  o  béquer e  a  pipeta  Pasteur como recipientes 
+intermediários. Lembre-se de higienizar e a pipeta Pasteur a cada etapa.  
+Quando finalmente o éter for utilizado para lavar os cristais, seque os cristais o 
+máximo possível no próprio funil, deixando o sistema de vácuo funcionando por 
+aproximadamente 5 minutos. 
+Depois de secos, meça a massa dos cristais obtidos. Anote o resultado. 
+ 
+
+  
+ 
+8 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaůiaçãŽ de ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ 
+com o que foi observado nos experimentos.  
+ 
+9. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os no armário, feche a 
+janela da capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre 
+o experimento.   
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Calcule o rendimento teórico para a massa de CoCl
+2
+.6H
+2
+O que foi usada. Compare o 
+rendimento experimental da obtenção com o rendimento teórico (esperado). 
+ 
+ 
+2. Por qual motivo ocorreu uma efervescência ao adicionar água oxigenada 30% ao 
+béquer contendo CoCl
+2
+.6H
+2
+O, NH
+4
+OH e NH
+4
+Cl? 
+ 
+ 
+ 
+3. Após a separação dos cristais do [Co(NH
+3
+)
+5
+]Cl
+2
+ estes são lavados com água fria, álcool 
+etílico e finalmente com éter. Por que foi possível utilizar estes solventes nesse 
+processo e por que foram utilizados nesta ordem? 
+ 
+ 
+4. Qual o rendimento prático do processo quando se obtém apenas 1,5 g do composto? 
+ 
+  
+
+  
+ 
+10 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+AceƐƐe a câŵeƌa ͞AƌŵáƌiŽ de EPIƐ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+menu superior esquerdo.  
+ 
+ 
+ 
+Abra as portas do armário, clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Selecione os EPIs necessários ao experimento, clicando com o botão esquerdo do mouse 
+sobre eles. Os EPIs utilizados serão: jaleco, luvas de látex, óculos de proteção e máscara.  
+ 
+ 
+ 
+Após ter ƐeůeciŽŶadŽ ƚŽdŽƐ ŽƐ EPIƐ͕ eůeƐ aƉaƌeceƌãŽ ŶŽ cŽŵaŶdŽ ͞EPI͘͟ CůicaŶdŽ ƐŽbƌe 
+seu ícone com o botão esquerdo do mouse. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+2. PREPARANDO A CAPELA 
+ 
+AceƐƐe a câŵeƌa ͞CaƉeůa͘͟ 
+Abra a janela da capela, clicando com o botão esquerdo do mouse sobre o vidro. 
+  
+ 
+ 
+Abra a porta do primeiro armário da capela, clicando com o botão esquerdo do mouse 
+sobre a porta. 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+AceƐƐe a câŵeƌa ͞AƌŵáƌiŽ IŶfeƌiŽƌ͘͟  
+Posicione o mouse sobre os itens exibidos nos armários e coloque na mesa aqueles que 
+fazem parte do experimento, clicando com o botão esquerdo do mouse sobre o objeto.   
+ 
+ 
+ 
+Abra  os  outros  dois  armários  e  coloque  na  mesa todos os  objetos  necessários o 
+experimento. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+AceƐƐe a câŵeƌa ͞PaiŶeů de CŽŶƚƌŽůe͘͟  
+Ligue a luz e o exaustor, clicando com o botão esquerdo do mouse sobre os respectivos 
+interruptores. 
+ 
+ 
+ 
+AceƐƐe a câŵeƌa ͞IŶƚeƌiŽƌ da CaƉeůa͘͟  
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+3. DISSOLVENDO O NH
+4
+Cl EM NH
+4
+OH 
+ 
+Deposite uma amostra de NH
+4
+OH, clicando com o botão direito do mouse sobre a 
+solução e selecionando a opção ͞CŽůŽcaƌ Ŷa ƉƌŽǀeƚa͘͟ 
+ 
+ 
+ 
+Despeje a solução sobre a proveta, clicando com o botão direito do mouse sobre a 
+garrafa de solução. Note que a graduação da proveta apareceu no lado esquerdo da 
+tela para facilitar a visualização. 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Depois que 7,5 mL de NH
+4
+OH forem medidos na proveta, retorne à solução para a mesa, 
+clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Transfira a solução, da proveta para o béquer, clicando com o botão direito do mouse 
+sobre a proveta e selecionando a ŽƉçãŽ ͞CŽůŽcaƌ ŶŽ béƋƵeƌ͘͟ 
+ 
+ 
+ 
+AceƐƐe a câŵeƌa ͞BaůaŶça͘͟  
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Ligue a balança e abra a porta lateral, clicando com o botão esquerdo do mouse sobre 
+o botão em destaque e sobre a porta, respectivamente. 
+ 
+ 
+ 
+Em seguida, coloque o vidro do relógio sobre a balança, clicando com o botão direito do 
+mouse sobre o vidro de relógio e selecionando a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa baůaŶça͘͟ Essa 
+etapa é muito importante, pois a massa do vidro de relógio deve ser desprezada para 
+realizar a pesagem corretamente. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Feche a porta lateral da balança, clicando com o botão esquerdo do mouse sobre ela. 
+Despreze a massa do vidro do relógio, clicando com o botão esquerdo do mouse sobre 
+o botão TARA da balança. 
+ 
+ 
+ 
+ATENÇÃO:  Não  desligue  a  balança! Caso  isso  seja  feito,  ela  será  reiniciada  e  o 
+procedimento anterior deverá ser realizado novamente. 
+Abra a porta lateral da balança e retorne o vidro do relógio para a mesa, clicando com o 
+botão esquerdo do mouse sobre o vidro do relógio.  
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+AceƐƐe a câŵeƌa ͞IŶƚeƌiŽƌ da CaƉeůa͘͟ 
+Destampe o pote que contém o NH
+4
+Cl, clicando com o botão esquerdo do mouse sobre 
+ele.  
+ 
+ 
+ 
+Despeje uma amostra de NH
+4
+Cl no vidro de relógio, clicando com o botão esquerdo do 
+mouse sobre o pote, já destampado.  
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Coloque o vidro do relógio, com o NH
+4
+Cl, sobre a balança, clicando com o botão direito 
+do mouse sobre o vidro de relógio e ƐeůeciŽŶaŶdŽ a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa baůaŶça͘͟ 
+ 
+ 
+ 
+AceƐƐe a câŵeƌa ͞BaůaŶça͕͟ feche a porta lateral da balança e anote a massa observada. 
+Retire o vidro de relógio da balança, clicando com o botão esquerdo do mouse sobre 
+ele. 
+AceƐƐe a câŵeƌa ͞IŶƚeƌiŽƌ da CaƉeůa͘͟  
+Transfira a quantidade de NH
+4
+Cl, já pesado, para o béquer, clicando com o botão direito 
+do mouse sobre o vidro de relógio e ƐeůeciŽŶaŶdŽ a ŽƉçãŽ ͞DeƉŽƐiƚaƌ ŶŽ béƋƵeƌ͘͟ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+4. MEDINDO E DILUINDO O SAL CoCl
+2
+.6H
+2
+0 
+ 
+AceƐƐe a câŵeƌa ͞BaůaŶça͟.  
+ 
+ 
+ 
+A balança já está ligada e a massa do vidro de relógio já foi desprezada. 
+Abra a porta lateral para que se torne possível efetuar a nova pesagem. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ReƚŽƌŶe a câŵeƌa ͞IŶƚeƌiŽƌ da caƉeůa͘͟ 
+Destampar o pote que contém o CoCl
+2
+.6H
+2
+O, clicando com o botão esquerdo do mouse 
+sobre ele.  
+ 
+ 
+ 
+Despeje uma amostra de CoCl
+2
+.6H
+2
+O no vidro de relógio, clicando com o botão esquerdo 
+do mouse o pote, já destampado. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Coloque o vidro do relógio sobre a balança, clicando com o botão direito do mouse sobre 
+o vidro de relógio e selecionando a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa baůaŶça͘͟ 
+ 
+ 
+ 
+AceƐƐe a câŵeƌa ͞BaůaŶça AŶaůíƚica͕͟ feche aƐ ƉŽƌƚaƐ da baůaŶça e ƌeaůinje a ƉeƐageŵ͘ 
+Anote a massa encontrada.  
+Retire Ž ǀidƌŽ dŽ ƌeůsgiŽ da baůaŶça e ƌeƚŽƌŶe Ɖaƌa a câŵeƌa ͞IŶƚeƌiŽƌ da CaƉeůa͘͟  
+Nessa etapa, é muito importante manter a solução em agitação contínua. Dessa forma, 
+homogeneíze a solução no béquer, clicando com o botão esquerdo do mouse sobre o 
+bastão de vidro. 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Enquanto o conteúdo continua sendo agitado no béquer, transfira a quantidade pesada 
+de CoCl
+2
+.6H
+2
+O para o béquer, clicando com o botão direito do mouse sobre o vidro de 
+relógio e transfira a quantidade pesada de CoCl
+2
+.6H
+2
+O para o béquer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+5. ACRESCENTANDO H
+2
+0
+2
+ E HCl À SOLUÇÃO 
+ 
+Mantenha a agitação no béquer.   
+AceƐƐe a câŵeƌa ͞SŽůƵçƁeƐ͘͟  
+Transfira 3,0 mL de água oxigenada (H
+2
+O
+2
+) 30% para a proveta, clicando com o botão 
+direito do mouse sobre a pisseta com a solução.  
+ 
+ 
+ 
+Acompanhe  a transferência  da  água  oxigenada  (H
+2
+O
+2
+)  30%  na  graduação  lateral  e 
+pressionando a pisseta com o botão direito do béquer. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+CUIDADO: A água oxigenada nesta concentração produz queimaduras graves. 
+Ao final desse processo, coloque a pisseta novamente sobre a mesa, clicando com o 
+botão direito do mouse sobre a pisseta.  
+ 
+ 
+ 
+Após colocar 3,0 mL de água oxigenada na proveta, clique com o botão direito do mouse 
+ƐŽbƌe a ƉƌŽǀeƚa e eƐcŽůha a ŽƉçãŽ ͞CŽůŽcaƌ ŶŽ béƋƵeƌ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Note que, neste momento, uma efervescência surgirá no béquer. Para acelerar essa 
+efervescência e cessá-la, clique no botão que aparece na parte inferior ao lado direito 
+da tela. 
+ 
+ 
+ 
+É importante que a agitação seja mantida constante durante todo esse processo. 
+Quando a efervescência acabar, retorne o bastão de vidro para a mesa, clicando com o 
+botão direito do mouse sobre o bastão de vidro para retorná-lo à mesa. 
+ 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Agora que a água oxigenada 30% já foi adicionada ao béquer, adicione também 7,5 mL 
+de HCl à proveta, clicando com o botão esquerdo do mouse sobre a solução que contém 
+o HCl. 
+ 
+ 
+ 
+Transfira a solução da proveta para o béquer, clicando com o botão direito do mouse 
+sobre a proveta e selecionando a ŽƉçãŽ ͞CŽůŽcaƌ ŶŽ béƋƵeƌ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+6. FORMANDO O PRECIPITADO 
+ 
+Aqueça a mistura em banho-maria até reduzir o volume da solução à metade, clicando 
+com o botão direito do mouse sobre o béquer e selecionando a ŽƉçãŽ ͞AƋƵeceƌ eŵ 
+banho-ŵaƌia͘͟ 
+ 
+ 
+ 
+ATENÇÃO: nesta etapa é muito importante manter a agitação com o bastão de vidro 
+constante, para evitar que o sal cristalize nas bordas do béquer. 
+Logo em seguida, coloque o bastão de vidro no béquer, já no banho-maria, clicando com 
+o botão direito do mouse sobre o bastão de vidro. 
+Note que, caso o clique com o botão esquerdo do mouse sobre o bastão, ele ficará 
+sobre a mesa, portanto, tome cuidado nessa etapa. 
+  
+
+  
+ 
+31 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+AceƐƐe a câŵeƌa ͞BaŶhŽ-ŵaƌia͘͟ 
+ 
+ 
+ 
+Acelere o processo de aquecimento, clicando com o botão esquerdo do mouse na opção 
+em destaque ͞AǀaŶçaƌ aƋƵeciŵeŶƚŽ͟. 
+ 
+ 
+  
+  
+
+  
+ 
+32 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Note que o volume reduzirá à metade. 
+ 
+ 
+ 
+Neste momento, o bastão de vidro já pode ser retirado do béquer, clicando sobre ele 
+com o botão direito do mouse. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Em seguida, retire também o béquer do banho-maria, clicando sobre ele com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+AceƐƐe a câŵeƌa ͞IŶƚeƌiŽƌ da CaƉeůa͘͟  
+Agora, resfrie a solução em temperatura ambiente, clicando com o botão esquerdo do 
+mouse sobre a ŽƉçãŽ eŵ deƐƚaƋƵe ͞ReƐfƌiaƌ à ƚeŵƉeƌaƚƵƌa aŵbieŶƚe͟. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Para tornar possível a formação do precipitado, resfrie a solução no banho de gelo, 
+clicando com o botão direito do mouse sobre o béquer e selecionando a ŽƉçãŽ ͞CŽůŽcaƌ 
+ŶŽ ƉŽƚe de geůŽ͘͟ 
+ 
+ 
+ 
+Um cronômetro aparecerá na tela. Aguarde até o fim da contagem e coloque novamente 
+o béquer sobre a mesa, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ 
+7. SEPARANDO OS CRISTAIS 
+ 
+Coloque o papel filtro no conjunto de filtração à vácuo, clicando com o botão esquerdo 
+do mouse sobre o papel filtro. 
+ 
+ 
+ 
+Ligue a bomba à vácuo, clicando com o botão direito do mouse sobre o botão em 
+destaque.  
+ 
+ 
+
+  
+ 
+36 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Em seguida, despeje o conteúdo béquer no filtro, clicando com o botão direito do mouse 
+sobre o béquer e selecionando a ŽƉçãŽ ͞DeƐƉeũaƌ ŶŽ fiůƚƌŽ͘͟ 
+ 
+ 
+ 
+Lave os cristais, primeiro com uma porção de água, seguida de uma pequena porção de 
+etanol e finalmente de éter etílico. Para isso, coloque uma amostra da água no béquer, 
+clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  com  água  e,  em  seguida, 
+selecionando a ŽƉçãŽ ͞CŽůŽcaƌ ŶŽ béƋƵeƌ͘͟ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Pipete o béquer que contém a água, clicando com o botão esquerdo do mouse sobre a 
+pipeta. 
+ 
+ 
+ 
+Em seguida, para despeje a amostra no filtro, para lavar os cristais, clicando com o botão 
+esquerdo do mouse sobre a pipeta.  
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+ATENÇÃO: Se faz necessário higienizar a pipeta e o béquer antes de utilizá-los para 
+outra solução. Com o mouse sobre cada um deles, aperte a tecla ͞C͟ do teclado para 
+realizar a higienização. 
+ 
+ 
+ 
+ 
+ 
+Repita os mesmos procedimentos anteriores utilizados para lavagem dos cristais com 
+água, para o álcool etílico e para o éter. 
+  
+
+  
+ 
+39 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Quando finalmente o éter for utilizado para lavar os cristais, o cronômetro aparecerá 
+para marcar 5 minutos, tempo que a bomba deve permanecer ligada para que os cristais 
+sequem ao máximo.  
+ 
+ 
+ 
+Desligue a bomba à vácuo. 
+Em seguida, deposite os cristais no vidro de relógio, clicando com o botão direito do 
+mouse sobre o papel filtro. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+SÍNTESE DO CLORETO DE 
+PENTAAMINOCLOROCOBALTO (III) 
+Verifique se a porta lateral da balança está aberta e mova o vidro de relógio para a 
+balança, clicando com o botão direito do mouse sobre o vidro do relógio e selecionando 
+a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa baůaŶça͟. 
+ 
+ 
+ 
+Lembre-se que a massa do vidro do relógio precisa ser desprezada, portanto a balança 
+ƉƌeciƐa cŽŶƚiŶƵaƌ cŽŵ a fƵŶçãŽ ͞TARA͕͟ cŽŶfigƵƌada aŶƚeƌiŽƌŵeŶƚe͕ aƚiǀada͘ 
+Feche a porta lateral da balança, realize a pesagem, e anote o resultado. 
+ 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaůiaçãŽ de ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ cŽŵ Ž 
+que foi observado no experimento.  
+ 
+ 
+9. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os no armário, feche a janela da 
+capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre o experimento.   

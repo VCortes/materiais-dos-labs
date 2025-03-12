@@ -1,0 +1,740 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender como utilizar adequadamente os blocos 
+padrão e como realizar o empilhamento deles. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado.  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+● Conjunto de blocos padrão no sistema métrico; 
+● Conjunto de blocos padrão no sistema inglês; 
+● Par de blocos protetores com dimensão de 2 mm; 
+● Par de blocos protetores com dimensão de 0,5 mm; 
+● Borrifador com óleo; 
+● Borrifador com solvente; 
+● Papel de limpeza; 
+● Pano de camurça. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Inicialmente,  coloque  sobre  a  mesa  os  seguintes  materiais  disponíveis  no 
+“Armário de Ferramentas”:  maleta com blocos padrão no sistema métrico  e a 
+maleta com blocos protetores de espessura 2 mm. 
+ 
+3. PREPARANDO O EXPERIMENTO 
+ 
+Inicialmente,  coloque  sobre  a  mesa  os  seguintes  materiais  disponíveis  no 
+“Armário de Ferramentas”:  maleta com blocos padrão no sistema métrico  e a 
+maleta com blocos protetores de espessura 2 mm. 
+ 
+4. SELECIONANDO OS BLOCOS PADRÃO MÉTRICOS 
+ 
+Utilize a ferramenta de gerar medida para criar um valor possível de ser obtido 
+através  da  combinação  dos  blocos  padrão  nas  maletas.  Identifique  quais  são 
+esses blocos padrão e coloque-os sobre o pano de camurça. Ponha também os 
+blocos protetores sobre o mesmo pano. Anote o valor da medida e dos blocos 
+padrão que foram selecionados. 
+ 
+5. EMPILHANDO OS BLOCOS PADRÃO 
+ 
+Umedeça  o  pano  de  limpeza  com  solvente  e  limpe  os  blocos  padrão  e 
+protetores. Em seguida, empilhe os blocos iniciando com um bloco protetor e 
+terminando  com  outro. Utilize  a  ferramenta  de  verificação  para  checar  se  a 
+combinação realizada corresponde à medida pretendida. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+6. ARMAZENANDO OS BLOCOS PADRÃO 
+ 
+Desmonte  a  pilha  de  blocos  padrão.  Depois,  troque  o  pano  por  outro  limpo, 
+umedeça-o com óleo e unte os blocos padrão e protetores antes de guardá-los 
+novamente nas maletas. 
+ 
+7. SELECIONANDO OS BLOCOS PADRÃO EM POLEGADA 
+ 
+Substitua as maletas de blocos padrão e de blocos protetores pelas respectivas 
+no  sistema  inglês.  Utilize  a  ferramenta  de  gerar  medida  para criar  um  valor 
+possível  de  ser  obtido  através  da  combinação  dos  blocos  padrão  nas  maletas. 
+Identifique  quais  são  esses  blocos  padrão  e  coloque-os  sobre  o  pano  de 
+camurça.  Em  seguida,  repita  os  procedimentos  feitos  nos  passos  4  e  5  para 
+limpar e empilhar os blocos padrão. Utilize a ferramenta de verificar para checar 
+se a combinação realizada corresponde à medida pretendida. 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Desmonte  a  pilha  de  blocos  padrão.  Depois,  troque  o  pano  por  outro  limpo, 
+umedeça-o com óleo e unte os blocos padrão e protetores antes de guardá-los 
+novamente   nas   maletas.   Coloque   as   maletas   de   volta   no   armário   de 
+ferramentas. 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  foram  as  medidas  geradas  em  milímetros  e  em  polegadas  quais  foram  os 
+blocos utilizados para alcançar essa dimensão? 
+ 
+ 
+ 
+2. Seria possível obter esse comprimento a partir de outra combinação blocos? 
+ 
+ 
+ 
+3. Quais critérios devem ser considerados quando existe mais de uma combinação para 
+compor uma dimensão pretendida? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+4. Qual  a  importância  dos  processos  realizados  antes  do  empilhamento  dos  blocos 
+padrão e antes de armazená-los de volta na maleta? 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Neste experimento é obrigatório o uso de luvas. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize o armário de ferramentas clicando com o botão esquerdo do mouse na câmera 
+com o nome “Armário de ferramentas (meio)” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra  o  armário  de ferramentas clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+portas. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Coloque a maleta com os blocos padrão no sistema métrico sobre a mesa clicando com 
+o  botão  esquerdo  do  mouse sobre  ela. Ponha  também  a  maleta  com  os  blocos 
+protetores no sistema métrico sobre a mesa. 
+ 
+ 
+ 
+Feche as portas do armário de ferramentas clicando com o botão esquerdo do mouse 
+sobre elas. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+3. SELECIONANDO OS BLOCOS PADRÃO MÉTRICOS 
+ 
+Visualize as maletas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Maletas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Clique no botão “Gerar Medida” para criar uma dimensão possível de ser obtida através 
+da combinação dos blocos padrão nas maletas. 
+ 
+ 
+ 
+Abra as maletas clicando com o botão esquerdo do mouse sobre a tampa delas. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Coloque  o  cursor  do  mouse  sobre  os blocos  padrão para  verificar qual  a dimensão de 
+cada um deles. Identifique quais blocos padrão, em conjunto com os blocos protetores, 
+devem ser combinados para obter a dimensão indicada no painel de medidas. Lembre-
+se de que cada bloco protetor possui 2 mm de espessura. 
+ 
+ 
+ 
+Coloque os blocos selecionados sobre o pano de camurça clicando com o botão direito 
+do mouse sobre eles e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Clique no  ícone de “Medidas” com o botão  esquerdo  do  mouse para  ocultar  o  menu. 
+Você pode clicar novamente sobre ele sempre que quiser para ver a combinação gerada. 
+ 
+ 
+ 
+Coloque os dois blocos protetores sobre o pano de camurça clicando com o botão direito 
+do mouse sobre eles e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+4. EMPILHANDO OS BLOCOS PADRÃO 
+ 
+Visualize os blocos que estão sobre o pano de camurça clicando com o botão esquerdo 
+do  mouse na  câmera  com  o  nome “Mesa  (Limpeza)” ou  através do  atalho  do  teclado 
+“Alt+3”. 
+ 
+ 
+ 
+Borrife solvente sobre o pano de limpeza clicando com o botão direito do mouse sobre 
+o borrifador branco e selecionando a opção “Aplicar solvente”. 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Limpe os blocos padrão e os protetores que estão sobre a mesa clicando com o botão 
+direito do mouse sobre eles e selecionando a opção “Usar a flanela umedecida”. 
+ 
+ 
+ 
+Inicie  o  processo  de  empilhamento  clicando com  o  botão  direito do  mouse  sobre um 
+dos blocos protetores e selecionando a opção “Encaixar blocos padrão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Continue o processo de empilhamento clicando com o botão direito do mouse sobre os 
+outros  blocos  padrão  e  selecionando  a  opção  “Encaixar  bloco  padrão” até  que  sobre 
+apenas um bloco protetor sobre o pano. 
+ 
+  
+ 
+Finalize o  processo  de  empilhamento  clicando  com  o  botão direito  do mouse  sobre  o 
+último bloco protetor e selecionando a opção “Encaixar bloco padrão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse para exibir novamente 
+o menu. 
+ 
+ 
+ 
+Verifique se a montagem dos blocos possui a dimensão indicada no painel de medidads 
+clicando com o botão esquerdo do mouse sobre o botão “Verificar”. 
+ 
+ 
+ 
+Se a medida não estiver correta, verifique se os blocos foram selecionados corretamente 
+e refaça a combinação deles. Caso seja necessário, revise o processo de combinação de 
+blocos padrão no resumo teórico.  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse para ocultar o menu. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+5. ARMAZENANDO OS BLOCOS PADRÃO 
+ 
+Desencaixe  os  blocos  padrão  clicando  com  o  botão  direito  do  mouse  sobre  eles  e 
+selecionando  a  opção  “Desencaixar  bloco  padrão”.  Faça  esse  procedimento  com  os 
+blocos da equerda para a direita. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Substitua o  pano  de  limpeza por  outro limpo clicando  com  o botão  direito do  mouse 
+sobre ele e selecionando a opção “Trocar a flanela”. 
+ 
+ 
+ 
+Borrife  óleo  sobre o  pano  de  limpeza  clicando  com  o  botão  direito  do  mouse  sobre o 
+borrifador amarelo e selecionando a opção “Aplicar óleo”. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Unte com óleo os blocos padrão e os protetores que estão sobre a mesa clicando com o 
+botão direito do mouse sobre eles e selecionando a opção “Usar a flanela umedecida”. 
+ 
+ 
+ 
+Substitua  o  pano  de  limpeza  por  outro  limpo  clicando  com  o  botão  direito  do  mouse 
+sobre ele e selecionando a opção “Trocar a flanela”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Guarde os blocos padrão e os protetores que estão sobre a mesa em suas respectivas 
+maletas  clicando  com  o  botão  direito  do  mouse  sobre  eles  e  selecionando  a  opção 
+“Mover para a maleta”. 
+ 
+ 
+ 
+Visualize as maletas que estão sobre a mesa clicando com o botão esquerdo do mouse 
+na câmera com o nome “Maletas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Feche as maletas abertas clicando com o botão esquerdo do mouse sobre as tampas. 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+7. SELECIONANDO OS BLOCOS PADRÃO EM POLEGADA 
+ 
+Visualize o armário de ferramentas clicando com o botão esquerdo do mouse na câmera 
+com o nome “Armário de ferramentas (meio)” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra  o  armário  de ferramentas clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+portas. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+Substitua  as  duas  maletas  que  estão  sobre  a  mesa  com  os  blocos  padrão  no  sistema 
+métrico  pelas  duas  que  estão  no  armário  com  os  blocos  padrão  no  sistema  inglês 
+clicando com o botão esquerdo do mouse sobre estas. 
+ 
+ 
+ 
+Repita os procedimentos executados  até  aqui,  porém usando os  blocos  padrão  no 
+sistema inglês. 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+METROLOGIA DIMENSIONAL: BLOCOS PADRÃO 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Ao  final  do  processo,  desencaixe  os  blocos  padrão,  unte-os  com  óleo  e  guarde-os  de 
+volta em suas respectivas maletas. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 
+1.4-TAC2_TV1 

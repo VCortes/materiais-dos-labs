@@ -1,0 +1,502 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar testes para executar a avaliação do quadril 
+em   paciente   com   disfunção   ortopédica.   Para   isso,   aplicará   a   técnica   da 
+laserterapia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Aparelho de laser; 
+• Caneleiras; 
+• Jaleco; 
+• Óculos de proteção. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque o equipamento de proteção individual localizado no “Armário de 
+EPIs”. Para esse experimento será necessário a utilização do jaleco branco. 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide  o  paciente  para  entrar  e  realize  a  anamnese  da  paciente  pegando  a  prancheta  em 
+cima da mesa. Peça ao paciente que assine o termo de consentimento. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+  
+3. REALIZANDO A LASERTERAPIA 
+ 
+Coloque o papel descartável na maca. Solicite que o paciente retire a calça e se deite na maca. 
+Coloque  os  óculos  de  proteção  no  paciente.  Ligue  o  aparelho  de  laser  e  pegue  a  caneta  do 
+aparelho. Aplique o laser no joelho direito utilizando a caneta, ao finalizar, direcione a caneta 
+para  o  joelho  esquerdo.  Ao  finalizar  o  processo,  retorne  a  caneta  e  desligue  o  aparelho  de 
+laserterapia. 
+ 
+4. REALIZANDO A MOBILIZAÇÃO PATELAR 
+ 
+Ainda com o paciente deitado na maca, posicione as mãos no joelho direito do paciente, mova 
+a patela para os lados, para cima e para baixo. Realize os movimentos com o joelho esquerdo. 
+ 
+5. REALIZANDO O ALONGAMENTO DO QUADRICEPS 
+ 
+Peça ao paciente que fique em pé. Instrua o paciente a levantar o pé direito para trás e segurar 
+no  tornozelo,  levando  o  pé  em direção  ao  quadril.  Retorne  a  perna  para  a  posição  inicial  e 
+realize o procedimento com a perna esquerda. 
+ 
+6. REALIZANDO O FORTALECIMENTO DO QUADRICEPS 
+ 
+Peça  ao  paciente  que  sente  na  cadeira.  Coloque  as  caneleiras  no  paciente.  Solicite  o 
+movimento de extensão do joelho levantando a perna direita à sua frente, realizando 3 séries 
+de  10  repetições.  Ao  finalizar  os  movimentos  com  a  perna  direita,  realize  o  movimento  de 
+extensão com a perna esquerda. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+  
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são os benefícios da utilização do laser no tratamento fisioterapêutico? 
+ 
+ 
+ 
+2. Cite as situações em que o tratamento com laser é recomendado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira e passe o 
+mouse sobre a água. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Abra o armário clicando com o botão esquerdo do mouse sobre cada uma das portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Chame  o  paciente  clicando  com  o  botão  esquerdo  do  mouse  no  botão  “Convidar 
+paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse na prancheta. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Visualize a prancheta clicando com o botão esquerdo do mouse na câmera com o nome 
+“Prancheta”  
+ 
+ 
+ 
+Visualize a  mesa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Solicite que o paciente assine o termo de consentimento clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Assinar termo de consentimento”. 
+ 
+ 
+ 
+Visualize  a  maca  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Avaliação”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+3. REALIZANDO A LASERTERAPIA 
+ 
+Coloque o  papel descartável clicando  com o  botão  esquerdo  do mouse  sobre  o  papel 
+descartável. 
+ 
+ 
+ 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa”. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+Mova o paciente clicando com o botão direito do mouse sobre o paciente e selecione a 
+opção “Maca”. 
+ 
+ 
+ 
+Realize a terapia com laser clicando com o botão direito do mouse sobre o paciente e 
+selecione a opção “Laserterapia”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+4. REALIZANDO A MOBILIZAÇÃO PATELAR 
+ 
+Realize os movimentos com o joelho esquerdo clicando com o botão direito do mouse 
+sobre o paciente e selecione a opção “Realizar Mobilização Patelar”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+5. REALIZANDO O ALONGAMENTO DO QUADRÍCEPS 
+ 
+Mova o paciente clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Cadeira”. 
+ 
+ 
+ 
+Peça ao paciente que realize o movimento de alongamento clicando com o botão direito 
+do mouse sobre o paciente e selecione a opção “Alongamento quadríceps”. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+6. REALIZANDO O FORTALECIMENTO DO QUADRICEPS 
+ 
+Solicite que o paciente realize o movimento de extensão do joelho clicando com o botão 
+direito do mouse sobre o paciente e selecione a opção “Fortalecer Quadríceps”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA ORTOPÉDICA E TRAUMATOLÓGICA  
+INTERVENÇÃO FISIOTERAPÊUTICA EM PACIENTE COM DISFUNÇÃO ORTOPÉDICA EM MEMBRO INFERIOR  
+ 
+7. AVALIAÇÃO DOS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

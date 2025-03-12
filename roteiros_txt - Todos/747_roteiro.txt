@@ -1,0 +1,580 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre as exigências 
+dos materiais utilizados em engenharia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 4 corpos de prova; 
+• Alicate amperímetro; 
+• Bico de Bunsen; 
+• Durômetro portátil; 
+• Gerador de DDP; 
+• Suporte isolante térmico; 
+• Termômetro. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco, óculos, luvas de procedimento e máscara. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+  
+2. MEDINDO A CONDUTIVIDADE ELÉTRICA 
+ 
+Posicione  o  corpo  de  prova 01  no  gerador  de  DDP  e  meça  com  o  alicate  amperímetro  a 
+condutividade  elétrica  do  corpo  de  prova,  registrando  os  valores  encontrados.  Repita  os 
+mesmos procedimentos para os corpos de prova 02, 03 e 04. 
+ 
+3. MEDINDO A CONDUTIVIDADE TÉRMICA 
+ 
+Posicione o corpo de prova 01 no suporte isolante térmico, ligue a válvula de gás e acenda o 
+bico  de  Bunsen. Aguarde por  60  segundos  ou  acelere o  aquecimento  da  peça.  Em  seguida, 
+utilize o termômetro para medir a temperatura na extremidade aquecida e na extremidade 
+oposta, registrando os valores encontrados. Por fim, devolva o corpo utilizado para a bancada 
+e desligue a válvula de gás. Repita os procedimentos, caso seja possível, utilizando os demais 
+corpos de prova. 
+ 
+4. REALIZANDO TESTE DE DUREZA 
+ 
+Mova o corpo de prova 01 para o ensaio de dureza. Em sequência, posicione o durômetro para 
+medição da dureza Brinell e registre o valor encontrado. Repita o procedimento com os corpos 
+de prova 02,03 e 04. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais materiais são considerados condutores de eletricidade? 
+ 
+ 
+ 
+2. Quais materiais são considerados condutores de calor? 
+ 
+ 
+ 
+3. Faça um comparativo entre as durezas dos materiais. 
+ 
+ 
+ 
+4. Faça um comparativo entre as deformações dos materiais. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os  EPIs necessários  para  a  realização do  experimento  clicando com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, 
+óculos, luvas de procedimento e máscara. 
+ 
+  
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Corpos de prova” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+2. MEDINDO A CONDUTIVIDADE ELÉTRICA 
+ 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a bateria”. 
+ 
+ 
+ 
+Visualize a medição de condutividade elétrica clicando com o botão esquerdo do mouse 
+na  câmera  com  o  nome “Condutividade  elétrica”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Realize a medição clicando com o botão direito do mouse sobre o alicate amperímetro 
+e selecione a opção “Posicionar para medição”. 
+ 
+ 
+ 
+Devolva o alicate clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Devolver à bancada”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Desconecte  o  corpo  de  prova clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Devolver para a bancada”. 
+ 
+ 
+ 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Corpos de prova” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Repita os procedimentos anteriores com os demais corpos de prova. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+3. MEDINDO A CONDUTIVIDADE TÉRMICA 
+ 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a garra”. 
+ 
+ 
+ 
+Visualize a medição de condutividade térmica clicando com o botão esquerdo do mouse 
+na  câmera  com  o  nome “Condutividade térmica”  ou  através  do  atalho  do  teclado 
+“Alt+3”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Ligue a válvula de gás clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Acenda o bico de Bunsen clicando com o botão esquerdo do mouse sobre o isqueiro. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Aguarde por 60 segundos ou acelere o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado e arrastando-o para a direita. 
+ 
+ 
+ 
+Meça  a  temperatura  clicando  com  o  botão  direito  do  mouse  sobre  o  termômetro  e 
+selecione a opção “Extremidade aquecida”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Meça  a  temperatura  clicando  com  o  botão  direito  do  mouse  sobre  o  termômetro  e 
+selecione a opção “Extremidade oposta”. 
+ 
+ 
+ 
+Devolva o corpo de prova clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Devolver para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Desligue  a  válvula  de  gás  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+ 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Corpos de prova” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Repita os procedimentos anteriores, caso seja possível, para os demais corpos de prova. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+4. REALIZANDO TESTE DE DUREZA 
+ 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para o durômetro”. 
+ 
+ 
+ 
+Visualize o durômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Teste de dureza” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Realize a medição clicando com o botão direito do mouse sobre o durômetro e selecione 
+a opção “Posicionar para medição”. 
+ 
+ 
+ 
+Devolva o  durômetro  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Devolver à bancada”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Devolva o corpo de prova clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Devolver para a bancada”. 
+ 
+ 
+ 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Corpos de prova” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+Repita os procedimentos anteriores com os demais corpos de prova. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+EXIGÊNCIA DOS MATERIAIS UTILIZADOS EM ENGENHARIA 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

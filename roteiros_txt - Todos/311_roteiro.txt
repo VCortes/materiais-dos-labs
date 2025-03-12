@@ -1,0 +1,767 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   executar   os   procedimentos   adequados   para 
+promover experimentos de microbiologia. Dessa forma, você poderá analisar os 
+resultados   desses   experimentos   e   se   precaver   de   eventuais resultados 
+inesperados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acendedor; 
+• Alça inoculadora; 
+• Álcool etílico; 
+• Bico de Bunsen; 
+• Fucsina; 
+• Lâminas; 
+• Lugol; 
+• Microscópio; 
+• Óleo de imersão; 
+• Pinça metálica; 
+• Pissetas; 
+• Soro fisiológico; 
+• Violeta de genciana. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas, óculos de proteção e máscara. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+  
+2. PREPARANDO A AMOSTRA 
+ 
+Goteje o soro fisiológico na lâmina. Feito isso, ligue o bico de Bunsen abrindo a válvula de gás 
+e,  com  o  acendedor,  acenda  a  chama  e  ajuste -a  até  que  se  torne  azul.  Utilizando  a  alça 
+inoculadora, perto ao bico de Bunsen, retire uma pequena porção da amostra biológica que 
+será  examinada  e  coloque-a  na  lâmina.  Depois,  passe  a  lâmina  sob  a  chama  para  fixar  o 
+material. 
+ 
+3. CORANDO A LÂMINA 
+ 
+Mova a lâmina para a pia. Em seguida, cubra a lâmina com violeta de genciana por 1 minuto. 
+Depois,  enxague em  água  corrente.  Cubra  a  lâmina  com  lugol,  também  por  1  minuto  e,  em 
+seguida, lave a lâmina com água corrente. Molhe a lâmina com álcool por aproximadamente 
+10  segundos  e  enxague  com  água  corrente.  Por  fim,  cubra  a  lâmina  com  fucsina  por  30 
+segundos e lave em água corrente. 
+ 
+4. REALIZANDO A LEITURA 
+ 
+Mova  a  lâmina  para  o  microscópio.  Execute  todas  os  ajustes  necessários  para  visualização. 
+Visualize  a  lâmina  na  objetiva  de  40x.  Goteje  o  óleo  de  imersão  sobre  a  lâmina,  para  uma 
+melhor análise, e selecione a objetiva de 100x. Observe o resultado através da lente ocular. 
+Anote suas impressões. Retire a lâmina do microscópio e desligue. 
+ 
+5. REPETINDO A COLORAÇÃO DE GRAM 
+ 
+Realize os procedimentos anteriores para as lâminas 2 e 3. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+  
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Analisando  a  coloração  obtida na  primeira  lâmina, é  possível  determinar  se  o 
+resultado   é   Gram   positivo   ou   negativo?   Caso   seja   possível,   classifique 
+justificando a resposta. 
+ 
+ 
+ 
+2. Qual  objetivo  de  realizar  o  experimento  em  3  lâminas?  O  que se  espera 
+observar? 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize os  equipamentos  de  proteção  individual  clicando  com  o  botão  esquerdo  do 
+mouse na  câmera  com  o  nome “Armário  de  EPIs” localizada  dentro  do  painel  de 
+visualização no canto superior esquerdo da tela. Se preferir, utilize o atalho do teclado 
+“Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de 
+proteção e máscara. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Goteje o soro fisiológico na lâmina clicando com o botão direito do mouse sobre o conta-
+gotas e selecione a opção “Lâmina 1”.  
+ 
+ 
+ 
+Ligue o bico de Bunsen clicando com o botão esquerdo do mouse na válvula. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Ajuste o bico de Bunsen clicando com o botão esquerdo do mouse no bico de Bunsen. 
+ 
+ 
+ 
+Configure a intensidade da chama clicando com o botão esquerdo do mouse sobre os 
+parâmetros exibidos no menu inferior esquerdo da tela.  
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Acenda o bico de Bunsen clicando com o botão esquerdo do mouse no acendedor. 
+ 
+ 
+ 
+Esterilize a alça inoculadora clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Esterilizar”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Colete  a amostra  biológica clicando com  o  botão direito do  mouse  sobre  a  alça 
+inoculadora e selecione a opção “Colocar amostra na lâmina 1”. 
+ 
+ 
+ 
+Esterilize a alça inoculadora clicando com o botão direito do mouse na alça e selecione 
+a opção “Esterilizar”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Realize a fixação da amostra na lâmina clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar no bico de Bunsen”.  
+ 
+ 
+ 
+Desligue o bico de bunsen clicando com o botão esquerdo do mouse na válvula. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+3. CORANDO A LÂMINA 
+ 
+Mova a lâmina para a pia clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Mova a pisseta com o cristal violeta clicando com o botão esquerdo do mouse sobre a 
+pisseta contendo o corante.  
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Despeje  a  violeta-de-genciana pressionando  o botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+ 
+Aguarde a fixação do corante na lâmina por 1 minuto. O cronômetro aparecerá na tela 
+para   auxiliar   o   processo. Avance a   escala   de   tempo   para acelerar o   processo 
+pressionando e arrastando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Lave a lâmina com água corrente clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Lavar em água corrente”.  
+ 
+ 
+ 
+Mova a pisseta com o lugol clicando com o botão esquerdo do mouse sobre a pisseta 
+contendo o lugol.  
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Despeje o lugol pressionando o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Aguarde a fixação do corante na lâmina por 1 minuto. Avance a escala de tempo para 
+acelerar o processo pressionando e arrastando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Lave a lâmina com água corrente clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Lavar em água corrente”.  
+ 
+ 
+ 
+Mova a pisseta com o álcool clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Despeje o álcool na lâmina pressionando o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Lave a lâmina com água corrente clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Lavar em água corrente”.  
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Mova a pisseta com a fuccina clicando com o botão esquerdo do mouse sobre a pisseta 
+contendo o corante.  
+ 
+ 
+ 
+Despeje a fuccina pressionando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Aguarde a fixação do corante na lâmina por 20 segundos. Avance a escala de tempo para 
+acelerar o processo pressionando e arrastando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+ 
+Lave a lâmina com água corrente clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Lavar em água corrente”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Mova a  lâmina  para  a  mesa clicando  com  o botão direito  do  mouse  sobre  a  lâmina  e 
+selecione a opção “Colocar na mesa”.  
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+4. REALIZANDO LEITURA 
+ 
+Mova  a  lâmina clicando com  o  botão direito do  mouse  sobre  a  lâmina e  selecione a 
+opção “Colocar no microscópio”.  
+ 
+ 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. Visualize a lâmina na objetiva 
+de 40x. 
+ 
+ 
+ 
+Realize o ajuste do foco pressionando com o botão esquerdo do mouse sobre o parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+Goteje o óleo de imersão clicando com o botão esquerdo do mouse sobre o conta gotas.  
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. Visualize a lâmina na objetiva 
+de 100x. 
+ 
+ 
+ 
+Se necessário, efetua as configurações de posicionamento dos parafusos, condensador 
+e diafragma, para auxiliar a visualização do ocular. Lembre-se que, para movimentação, 
+deve-se clicar com o botão esquerdo do mouse sobre a área desejada e movimentar o 
+cursor do mouse para direita ou esquerda. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+ 
+Visualize  o  microscópio  clicando  com  o  botão  esquerdo  do  mouse  na câmera  com  o 
+nome “Microscópio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+Desligue  o  microscópio  clicando  com  o  botão  esquerdo  do  mouse  no  interruptor 
+localizado na base do equipamento. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+5. REPETINDO A COLORAÇÃO DE GRAM 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Realize  os  processos  realizados  anteriormente  com  a  lâmina  2  e  3.  Lembre-se  de 
+esterilizar a alça de inoculação antes e após os processos. 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+COLORAÇÃO DE GRAM 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

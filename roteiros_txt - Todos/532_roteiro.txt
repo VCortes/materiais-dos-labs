@@ -1,0 +1,1712 @@
+
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a síntese do 
+salicilato de metila. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao    finalizar    o    experimento,    responda    aos    questionamentos    da    seção 
+“Avaliação de Resultados”.  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na página a seguir, apresentamos as duas principais dúvidas na utilização dos Laboratórios 
+Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção de “Perguntas 
+Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com nossa 
+central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por  Whatsapp 
+(8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O  LABORATÓRIO  VIRTUAL DEVE  SER  ACESSADO  POR  COMPUTADOR.  ELE  NÃO  DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido salicílico; 
+• Ácido sulfúrico concentrado; 
+• Agitador magnético;  
+• Almofariz de 500 mL; 
+• Balança analítica; 
+• Balão de fundo redondo de 100 mL; 
+• Balão de fundo redondo de 500 mL; 
+• Barra magnética; 
+• Bastão de vidro; 
+• Béquer de 50 mL; 
+• Béquer de 600 mL; 
+• Bicarbonato de sódio; 
+• Bomba de vácuo; 
+• Capela; 
+• Condensador de refluxo ou Allihn com tampa; 
+• Diclorometano; 
+• Erlenmeyer de 125 mL; 
+• Espátula de metal; 
+• Evaporador rotatório; 
+• Funil; 
+• Funil de separação de 125 mL; 
+• Funil de sólidos; 
+• Garra metálica com mufa; 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+• Mangueiras; 
+• Manta de aquecimento; 
+• Metanol; 
+• Papel de filtro; 
+• Pinça metálica; 
+• Pipeta volumétrica de 2mL; 
+• Pipetador; 
+• Plataforma elevatória; 
+• Proveta graduada de 50 mL; 
+• Sulfato de sódio anidro; 
+• Suporte de cortiça;  
+• Suporte universal. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia. Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário  de  EPIs”. Nesse  experimento,  é  obrigatório  o  uso  de jaleco, luvas,  máscara  e 
+óculos.  
+ 
+2. SINTETIZANDO O SALICILATO DE METILA 
+ 
+Ligue  a  balança,  mova  o béquer para  a  balança  e  tare-a.  Com  auxílio  da  espátula  de  metal, 
+pese 5 g de ácido salicílico. Transfira o béquer contendo o pó de ácido salicílico para o funil 
+de  sólidos  sobre  o  balão.  Mensure  30  mL de  metanol  na proveta,  com auxílio  do  bastão de 
+vidro.  Adicione  os  30  mL  de  metanol  da  proveta  ao  balão  de  fundo  redondo  1  através  do 
+funil, utilizando o bastão de vidro. Ligue a capela de exaustão e abra sua janela.  Direcione o 
+balão  de  vidro  para  a  capela. Transfira  ao  béquer  de  10  mL  o  ácido  sulfúrico,  utilizando 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+bastão de vidro, até a metade do recipiente. Pipete 2 mL de ácido sulfúrico e libere o ácido 
+no funil sobre o balão 1. Limpe a pipeta e retorne-a para o suporte. 
+ 
+3. UTILIZANDO O CONDENSADOR 
+ 
+Mova o balão de fundo redondo 1 (contendo ácido salicílico, metanol e ácido sulfúrico) para 
+garra  com  mufa  no  mesmo  suporte  universal  que  se  encontra  o  condensador. Dispense  o 
+funil  no  papel  toalha  sobre  a  bancada. Coloque  uma  barra  metálica  no  interior  do  balão  e 
+acople  o  condensador  de  refluxo.  Aba  a  torneira  e  libere  o  fluxo  de  água  ao  condensador 
+através  da  mangueira.  Eleve  a  altura  da  plataforma  elevatória  girando  a  rosca  para  que  a 
+manta aquecedora  entre  em  contato  com o  balão  de fundo  redondo 1, em  seguida,  ligue a 
+manta  aquecedora,  mantendo  por  2  horas.  Desligue  a  manta  aquecedora,  gire  a rosca, 
+abaixe  a  plataforma  elevatória  girando  a  rosca  e  feche  a  torneira  da  pia  conectada  à 
+mangueira. Direcione o balão 1 para o evaporador rotativo com auxílio da pinça metálica.  
+ 
+4. DESTILANDO O METANOL 
+ 
+Acople o balão de fundo redondo 1 ao evaporador, abra a torneira e ligue a bomba de vácuo, 
+feche  a  válvula  lateral  do  condensador,  ajuste  a altura  do  balão  no  banho  de aquecimento, 
+ligue  o  banho  de  aquecimento,  ligue  o  evaporador rotativo e  aguarde  a  destilação  do 
+metanol  por  10  a  15  minutos.  Desligue  o  banho  de  aquecimento,  desligue  o  evaporador 
+rotativo,  abra  a  válvula  lateral  e  restabeleça  a  pressão  normal  no  sistema.  Em  seguida, 
+desligue a bomba de vácuo. Feche a torneira conectada à mangueira. Ajuste a altura através 
+da alavanca para elevar o evaporador rotativo novamente. 
+ 
+5. PURIFICANDO O SALICILATO DE METILA 
+ 
+Mova  o  balão  1  para  o  banho  frio  com  auxílio  da  pinça  metálica.  Mantenha  o  balão  em 
+banho em frio durante 10 minutos. Remova a tampa do funil de separação e feche a torneira 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+do funil de separação na porção inferior. Mensure 40 mL de diclorometano na proveta de 50 
+mL.  Dispense  o  diclorometano  ao  balão  de  fundo  redondo  1.  Agite  o  balão  1. Transfira  o 
+líquido do balão 1 ao funil de separação e mova o balão 1 ao suporte de cortiça na bancada. 
+ 
+6. SEPARANDO SOLUÇÃO POR FILTRAÇÃO 
+ 
+Mensure 30 mL de solução de bicarbonato de sódio no béquer de 50 mL e transfira ao funil 
+de separação. Feche o funil de separação e remova-o com o auxílio da garra metálica. Abra a 
+torneira do funil de separação e agite o seu conteúdo. Feche a torneira e abra a do funil de 
+separação.  Aguarde  3  minutos  até  que  o  líquido  (misturado) separe em  duas  partes:  a 
+superior  de  coloração  amarelo-alaranjado,  e  a  inferior  de  coloração  turva  esbranquiçada. 
+Posicione  o  Erlenmeyer  de  125  mL  abaixo  do  funil  de  separação.  Abra  torneira  do  funil  de 
+separação e espere o líquido fluir. Feche a torneira do funil quando o líquido superior chegar 
+próximo ao final do funil. Mova o Erlenmeyer de 125 mL para a bancada. Posicione o béquer 
+de  600  mL  abaixo  do  funil  de  separação.  Abra  torneira  do  funil  de  separação  e  espere  o 
+líquido fluir. Feche torneira do funil quando o líquido escoar completamente. Mova o béquer 
+para  a  bancada.  Mova  o  Erlenmeyer  de  125  mL  para  o  funil  de  separação  e  transfira  o 
+produto coletado. Posicione o Erlenmeyer de 125 mL abaixo do funil de separação. 
+ 
+7. REPETINDO A SEPARAÇÃO DA SOLUÇÃO 
+ 
+Mensure 30 mL de solução de bicarbonato de sódio no béquer de 50 mL e transfira ao funil 
+de separação. Feche o funil de separação e remova-o com o auxílio da garra metálica. Abra a 
+torneira do funil de separação e agite o seu conteúdo. Feche a torneira e abra a do funil de 
+separação. Aguarde  3  minutos  até  que  o  líquido  (misturado) separe em  duas  partes:  a 
+superior  de  coloração  amarelo-alaranjado,  e  a  inferior  de  coloração  turva  esbranquiçada. 
+Posicione  o  Erlenmeyer  de  125  mL  abaixo  do  funil  de  separação.  Abra  torneira  do  funil  de 
+separação e espere o líquido fluir. Feche a torneira do funil quando o líquido superior chegar 
+próximo ao final do funil. Mova o Erlenmeyer de 125 mL para a bancada. Posicione o béquer 
+de  600  mL  abaixo  do  funil  de  separação.  Abra  torneira  do  funil  de  separação  e  espere  o 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+  
+líquido fluir. Feche torneira do funil quando o líquido escoar completamente. Mova o béquer 
+para a bancada. 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Com  auxílio  da  espátula  transfira  o  sulfato  de  sódio  anidro  para  o  Erlenmeyer  de  125  mL. 
+Agite  o  Erlenmeyer  durante  1  minuto.  Mova  o balão 2 de  fundo  redondo de  100  mL para  o 
+suporte  de  cortiça.  Mova  o  funil  ao  balão  2,  em  seguida,  direcione  o  papel  filtro  ao  funil. 
+Filtre  o  produto  contido  no  Erlenmeyer  de  125  mL.  Direcione  o  balão  2  ao  evaporador 
+rotativo.  Troque  o  balão  de  fundo  redondo  de  500  mL  contendo  metanol  (da  destilação 
+anterior)  da  porção  inferior  do  condensador  por  um  novo  balão  de  fundo  redondo  de  500 
+mL.  Abra  a  torneira  conectada  à  mangueira  e  ligue  a  bomba  de  vácuo.  Feche  a  válvula 
+lateral,  ajuste  a  altura  do  balão  no  banho  de  aquecimento  através  da  alavanca,  ligue  o 
+evaporador rotativo, ligue o banho de aquecimento e aguarde a destilação do diclorometano 
+por  cerca  de  10  a  15  minutos.  Desligue  o  banho  de  aquecimento.  Desligue  o  evaporador 
+rotativo. Abra a válvula lateral e restabelecer pressão normal no sistema. Desligue a bomba 
+de vácuo. Feche a torneira conectada à mangueira. Ajuste a altura através da alavanca para 
+elevar  o  evaporador  rotativo  novamente. Mova  o  balão  de  fundo  redondo  2  de  100  mL 
+contendo o produto purificado ao suporte de cortiça na bancada. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 10  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da etapa de separar a solução por filtração? 
+ 
+ 
+ 
+2. Por que a etapa de filtração da solução deve ser repetida? 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos passando o cursor do mouse sobre a pia. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Selecione  os  EPIs  necessários  para  a  realização  do  ensaio  clicando  com  o  botão 
+esquerdo  do  mouse  sobre  eles.  Nesse  experimento,  é  obrigatório  o  uso  de  jaleco, 
+luvas, máscara e óculos. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+2. SINTETIZANDO O SALICILATO DE METILA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão de iniciar. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra a balança clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Mova o béquer para a balança clicando com o botão direito do mouse sobre o béquer 
+e selecione a opção “Mover para balança”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Tare  a  balança  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de  tara  da 
+balança. 
+ 
+ 
+ 
+Pese 5 g de ácido salicílico clicando com o botão esquerdo do mouse sobre a espátula 
+de metal. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje  o ácido  salicílico clicando  com  o  botão  esquerdo  do  mouse  sobre  a  espátula 
+de metal. 
+ 
+ 
+ 
+Mova  a  espátula  de  metal  para  a  bancada  clicando  com  o  botão  direito  do  mouse 
+sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche  a  porta  da  balança  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  porta  da 
+balança. 
+ 
+ 
+ 
+Anote o resultado obtido no visor da balança. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra a balança clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Mova o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Para bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Transfira  o  béquer  contendo  o  pó  de  ácido  salicílico  para  o  funil  de  sólidos  clicando 
+com o botão direito do mouse sobre o béquer e selecione a opção “Mover para balão 
+volumétrico”. 
+ 
+ 
+ 
+Recolha  o  menu  de  visualização  clicando com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova  o  metanol  para  a  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+metanol. 
+ 
+ 
+ 
+Visualize a escala da proveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mensure  30  mL  de  metanol  na  proveta  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o metanol. 
+ 
+ 
+ 
+Devolva o frasco com metanol para a bancada clicando com o botão direito do mouse 
+sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Transfira o metanol de 30 mL da proveta para o balão clicando com o botão direito do 
+mouse sobre a proveta e selecione a opção “Despejar no balão”. 
+ 
+ 
+ 
+Estenda o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a  capela clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue a  ventilação  da  capela clicando  com o botão  esquerdo  do  mouse  sobre  o botão 
+no canto inferior da tela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra a janela da capela de exaustão clicando com o botão esquerdo do mouse sobre a 
+janela. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Direcione  o  balão  de  vidro redondo  para  a  capela  clicando  com  o  botão  esquerdo  do 
+mouse sobre o balão. 
+ 
+ 
+ 
+Transfira o ácido sulfúrico para o béquer de 10 mL clicando com o botão esquerdo do 
+mouse sobre o ácido sulfúrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova a pipeta clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Pressione a pera clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a escala da pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Aspire 2 mL  do ácido  sulfúrico pressionando  com  o  botão  esquerdo  do  mouse  no 
+botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  balão  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Balão volumétrico”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a  pipeta clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Interior da capela” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje 2 mL  do ácido  sulfúrico pressionando  com  o  botão  esquerdo  do  mouse  no 
+botão “E”. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  suporte  clicando  com  o  botão direito do  mouse sobre  ela  e 
+selecione a opção “Suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize o  balão  de  fundo  redondo clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Interior da capela” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova  o  balão  de  fundo  redondo  para  a  bancada  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+3. UTILIZANDO O CONDENSADOR 
+ 
+Retire o filtro de sólidos do balão de fundo redondo clicando com o botão esquerdo do 
+mouse sobre o balão. 
+ 
+ 
+ 
+Coloque a barra metálica no balão clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Coloque o balão no condensador de refluxo clicando com o botão esquerdo do mouse 
+sobre o balão. 
+ 
+ 
+ 
+Abra a torneira clicando com o botão esquerdo do mouse sobre as válvulas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Ligue a manta aquecedora clicando com o botão esquerdo do mouse sobre a manta de 
+aquecimento. 
+ 
+ 
+ 
+Aguarde a contagem do tempo de 120 minutos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Desligue a manta aquecedora clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Feche a válvula de água clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Direcione  o  balão  para  o  evaporador  rotativo  clicando  com  o  botão  esquerdo  do 
+mouse sobre o balão. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+4. DESTILANDO O METANOL 
+ 
+Abra a válvula de água clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Ligue  a  bomba  de  vácuo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  da 
+bomba de vácuo. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche  a  válvula  lateral  do condensador  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela. 
+ 
+ 
+ 
+Ligue  o  banho  de  aquecimento  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão de ligar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Ligue  o  evaporador  rotativo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+de  ligar  o  evaporador.  Observação:  Aguarde  a  destilação  do  metanol  por  10  a  15 
+minutos. 
+ 
+ 
+ 
+Desligue  o  evaporador  rotativo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão de desligar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Desligue  o  banho  de  aquecimento  clicando  com  o  botão esquerdo  do  mouse  sobre o 
+botão de desligar o banho-maria. 
+ 
+ 
+ 
+Abra a válvula lateral do condensador clicando com o botão esquerdo do mouse sobre 
+a válvula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Desligue a bomba de vácuo clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Feche  a  torneira  conectada  à  mangueira  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+5. PURIFICANDO O SALICILATO DE METILA 
+ 
+Mova  o  balão  1  para  o  banho  frio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+balão. 
+ 
+ 
+ 
+Mantenha o balão em banho em frio durante 10 minutos.  
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova o balão para a bancada clicando com o botão esquerdo do mouse sobre o balão. 
+ 
+ 
+ 
+Mova o diclorometano para a proveta clicando com o botão esquerdo do mouse sobre 
+o frasco de diclorometano. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize a escala clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+ 
+Despeje 40  mL  de  diclorometano clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+frasco com diclorometano. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova o diclorometano para a bancada clicando com o botão direito do mouse sobre o 
+frasco de diclorometano. 
+ 
+ 
+ 
+Despeje o diclorometano da proveta no balão de fundo redondo clicando com o botão 
+direito do mouse sobre a proveta e selecione a opção “Despejar no balão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Misture  o  conteúdo  do  balão de  fundo  redondo clicando  com  o  botão  direito  do 
+mouse sobre o balão. 
+ 
+ 
+ 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Remova  a  tampa  do  funil  de  separação  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a tampa. 
+ 
+ 
+ 
+Despeje o conteúdo do balão de fundo redondo no filtro de separação clicando com o 
+botão esquerdo do mouse sobre o balão. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+6. SEPARANDO SOLUÇÃO POR FILTRAÇÃO 
+ 
+Mova  o  frasco  com  a solução  de bicarbonato  de sódio para a  proveta  clicando  com o 
+botão esquerdo do mouse sobre o bicarbonato de sódio. 
+ 
+ 
+ 
+Visualize  a  escala  da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+proveta. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje 30 mL do bicabornato de sódio na proveta clicando com o botão esquerdo do 
+mouse sobre o bicarbonato. 
+ 
+ 
+ 
+Mova  o bicarbonato  de sódio para  a bancada  clicando  com o  botão direito  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Transfira  o  bicarbonato  de  sódio  da  proveta  clicando  com  o  botão  direito  do  mouse 
+sobre a proveta e selecione a opção “Despejar no filtro de separação”. 
+ 
+ 
+ 
+Feche o funil de separação clicando com o botão esquerdo do mouse sobre a tampa do 
+funil. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Misture o conteúdo do funil clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+ 
+Aguarde 3 minutos até que o líquido (misturado) separe em duas partes: a superior de 
+coloração amarelo-alaranjado, e a inferior de coloração turva esbranquiçada. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra o funil de separação clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Abra a torneira do funil de separação clicando com o botão esquerdo do mouse sobre 
+a válvula e espere o líquido fluir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche  a  torneira  do  funil  quando  o  líquido  superior  chegar  próximo  ao  final  do  funil 
+clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Mova o Erlenmeyer para a bancada clicando com o botão esquerdo do mouse sobre o 
+Erlenmeyer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Posicione  o  béquer  de  600  mL  abaixo  do  funil  clicando  com  o  botão  esquerdo  do 
+mouse sobre o béquer. 
+ 
+ 
+ 
+Abra  torneira  do  funil  de  separação  e  espere  o  líquido  fluir  clicando  com  o  botão 
+esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche torneira do funil quando o líquido escoar completamente clicando com o botão 
+esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Mova  o  béquer  para  a  bancada  clicando  com  o botão  esquerdo  do  mouse  sobre  o 
+béquer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje  o  conteúdo  do  Erlenmeyer  para  o funil  de  separação clicando  com  o  botão 
+direito do mouse sobre o Erlenmeyer e selecione a opção “Despejar no funil”  
+ 
+ 
+ 
+Mova o Erlenmeyer para a base do funil clicando com o botão direito do mouse sobre 
+o Erlenmeyer e selecione a opção “Mover para base do funil”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+7. REPETINDO A SEPARAÇÃO DA SOLUÇÃO 
+ 
+Mova  o  frasco  com  a  solução  de bicarbonato  de sódio  para  a  proveta  clicando  com o 
+botão esquerdo do mouse sobre o bicarbonato de sódio. 
+ 
+ 
+ 
+Visualize  a  escala  da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+proveta. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje 30 mL do bicabornato de sódio na proveta clicando com o botão esquerdo do 
+mouse sobre o bicarbonato. 
+ 
+ 
+ 
+Mova  o bicarbonato  de sódio para  a bancada  clicando  com o  botão direito  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Transfira  o  bicarbonato  de  sódio  da  proveta  clicando  com  o  botão  direito  do  mouse 
+sobre a proveta e selecione a opção “Despejar no filtro de separação”. 
+ 
+ 
+ 
+Feche o funil de separação clicando com o botão esquerdo do mouse sobre a tampa do 
+funil. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Misture o conteúdo do funil clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+ 
+Aguarde 3 minutos até que o líquido (misturado) separe em duas partes: a superior de 
+coloração amarelo-alaranjado, e a inferior de coloração turva esbranquiçada. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra o funil de separação clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Abra a torneira do funil de separação clicando com o botão esquerdo do mouse sobre 
+a válvula e espere o líquido fluir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche  a  torneira  do  funil  quando  o  líquido  superior  chegar  próximo  ao  final  do  funil 
+clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Mova o Erlenmeyer para a bancada clicando com o botão esquerdo do mouse sobre o 
+Erlenmeyer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Posicione  o  béquer  de  600  mL abaixo  do  funil  clicando  com  o  botão  esquerdo  do 
+mouse sobre o béquer. 
+ 
+ 
+ 
+Abra  torneira  do  funil  de  separação  e  espere  o  líquido  fluir  clicando  com  o  botão 
+esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche torneira do funil quando o líquido escoar completamente clicando com o botão 
+esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Mova  o  béquer  para  a  bancada  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+béquer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Coloque  o  sulfato  de  sódio  anidro  no  Erlenmeyer  clicando  com  o botão  esquerdo  do 
+mouse sobre a espátula. 
+ 
+ 
+ 
+Despeje o sulfato de sódio anidro clicando com o botão esquerdo do mouse sobre a 
+espátula. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova  a  espátula  para  a  bancada  clicando  com  o  botão  direito  do  mouse  sobre  a 
+espátula. 
+ 
+ 
+ 
+Agite o Erlenmeyer durante 1 minuto clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Misturar conteúdo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Filtre o  produto  contido no  Erlenmeyer  clicando com  o botão  direito  do mouse  sobre 
+ele e selecione a opção “Despejar no balão com filtro”. 
+ 
+ 
+ 
+Direcione  o  balão  ao  evaporador  rotativo  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o balão. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Estenda  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+Visualize o evaporador  rotativo clicando  com  o  botão  esquerdo  do  mouse na  câmera 
+com o nome “Evaporador rotativo” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Troque  o  balão  de  fundo  redondo  contendo  metanol  clicando  com  o  botão  esquerdo 
+do mouse sobre o balão da porção inferior do condensador. 
+ 
+ 
+ 
+Abra  a  torneira  conectada  à  mangueira clicando  com  o  botão esquerdo do  mouse 
+sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Ligue  a  bomba  de  vácuo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  da 
+bomba de vácuo. 
+ 
+ 
+ 
+Feche  a  válvula  lateral do  condensador clicando  com  o  botão esquerdo do  mouse 
+sobre a válvula lateral. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Ligue  o  banho  de  aquecimento  clicando  com  o  botão esquerdo do  mouse  sobre  o 
+botão de ligar. 
+ 
+ 
+ 
+Ligue  o  evaporador  rotativo clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão 
+do evaporador rotativo. Observação: Aguarde a destilação do diclorometano por 10 a 
+15 minutos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Desligue  o  evaporador  rotativo clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão de desligar do evaporador. 
+ 
+ 
+ 
+Desligue  o  banho  de  aquecimento  clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão de desligar o aquecimento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Abra a válvula lateral do condensador clicando com o botão esquerdo do mouse sobre 
+a válvula lateral. 
+ 
+ 
+ 
+Desligue a bomba de vácuo clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Feche  a  torneira  conectada  à  mangueira clicando  com  o  botão esquerdo do  mouse 
+sobre a válvula de água. 
+ 
+ 
+ 
+Mova o balão 2 para a bancada clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA APLICADA À FARMÁCIA  
+SÍNTESE DO SALICILATO DE METILA  
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 10 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando  também 
+com os conhecimentos aprendidos sobre o tema. 
+ 

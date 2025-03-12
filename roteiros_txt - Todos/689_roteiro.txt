@@ -1,0 +1,444 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  na  fisioterapia 
+aplicada ao crescimento e desenvolvimento no primeiro ano de vida e reflexos 
+primitivos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Maca; 
+• Prancheta. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no “Armário 
+de EPIs”. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide  o  paciente  (criança)  e  sua  mãe  para entrarem  no  consultório.  Realize  a  anamnese. 
+Peça à mãe do paciente que assine o termo de consentimento. 
+ 
+3. OBSERVANDO REFLEXOS EM DECÚBITO DORSAL 
+ 
+Mova  o  paciente  até  a  maca  e  deixe-o  deitado  em  decúbito  dorsal.  Observe  o  reflexo  de 
+preensão palmar segurando a mão direita do paciente e colocando o dedão na palma sua mão. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+  
+Observe o reflexo de preensão plantar segurando o pé direito do paciente e pressionando a 
+região plantar. Em seguida, observe o reflexo de busca tocando com o dedo indicador a lateral 
+direita da boca do paciente. Depois, repita o toque na lateral esquerda da boca do paciente. 
+Observe o reflexo tônico cervical assimétrico rotacionando a cabeça do paciente novamente 
+para a direita e para esquerda estabilizando seu tronco com a outra mão. 
+ 
+4. ANALISANDO O REFLEXO DE MORO 
+ 
+Segurando a criança na região posterior (costas) e na cabeça, deixe-a sentada na maca. Solte 
+novamente o corpo do bebê para trás e observe o movimento durante a “queda”. Retorne o 
+bebê para ficar deitado na maca. 
+ 
+5. VERIFICANDO REFLEXOS EM SUSPENSÃO 
+ 
+Observe  o  reflexo  tônico  labiríntico  segurando  o  paciente  com  as  mãos,  deixando-o  em 
+suspensão. Observe o reflexo de Landau segurando o paciente com uma mão em suspensão 
+e com a outra mão, induza a cabeça do paciente novamente para baixo. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento  associando,  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é o reflexo de Moro e o que sua falta significa no bebê? 
+ 
+ 
+ 
+2. A partir de quanto tempo ocorre o desaparecimento dos reflexos primitivos na 
+criança? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+2. REALIZANDO A ANAMNESE  
+ 
+Convide  o  paciente  e  sua  mãe  para  entrarem  no  consultório  clicando com  o  botão 
+esquerdo do mouse sobre o botão “Convidar paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse na prancheta indicada. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+Solicite que a mãe do paciente assine o termo de consentimento clicando com o botão 
+esquerdo do mouse na mãe. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+3. OBSERVANDO REFLEXOS EM DECÚBITO DORSAL 
+ 
+Mova a  paciente  até  a  maca  em  decúbito  dorsal  clicando com  o  botão  esquerdo  do 
+mouse na paciente. 
+ 
+ 
+ 
+Observe  o  reflexo  de  preensão  palmar clicando  com  o  botão  direito  do  mouse no 
+paciente e selecione a opção “Reflexo preensão palmar”.  
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+Observe  o  reflexo  de  preensão  plantar clicando  com  o  botão  direito  do  mouse  no 
+paciente e selecione a opção “Reflexo preensão plantar”. 
+ 
+ 
+ 
+Observe o reflexo de busca clicando com o botão direito do mouse sobre o paciente e 
+selecione a opção “Reflexo de busca”.  
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+Observe  o  reflexo  tônico  cervical  assimétrico clicando  com  o  botão  direito  do  mouse 
+sobre o paciente e selecione a opção “Reflexo tônico cervical”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+4. ANALISANDO O REFLEXO DE MORO 
+ 
+Segurando a criança na região posterior e na cabeça, deixe-a sentada na maca clicando 
+com o botão direito do mouse sobre o paciente e selecione a opção “Sentar”. 
+ 
+ 
+ 
+Solte o corpo do bebê para trás e observe o movimento clicando com o botão direito do 
+mouse no paciente e selecione a opção “Reflexo de Moro”. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+5. VERIFICANCO REFLEXOS EM SUSPENSÃO 
+ 
+Observe o reflexo tônico labiríntico clicando com o botão direito do mouse no paciente 
+e selecione a opção “Reflexo tônico labiríntico”. 
+ 
+ 
+ 
+Observe o reflexo de Landau clicando com o botão direto do mouse sobre o paciente e 
+selecione a opção “Reflexo de Landau”. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA  
+CRESCIMENTO E DESENVOLVIMENTO NO PRIMEIRO ANO DE VIDA (REFLEXOS PRIMITIVOS) 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

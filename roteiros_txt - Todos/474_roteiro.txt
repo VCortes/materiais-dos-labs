@@ -1,0 +1,703 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre titulometria. 
+Esta prática permite determinar a quantidade de cálcio no leite em pó por meio 
+de métodos titulométricos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Erlenmeyer de 250 mL; 
+• Proveta de 20 mL; 
+• Bureta de 50 mL; 
+• Funil; 
+• Papel absorvente; 
+• Suporte universal; 
+• Agitador magnético; 
+• Amostra de leite em pó; 
+• Solução de EDTA 0,02 mol/L; 
+• Solução tampão pH 10 (NH
+3
+/NH
+4
+CL); 
+• Ério-T (negro de eriocromo T); 
+• Balança analítica; 
+• Água destilada. 
+ 
+  
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Pese uma amostra de 2,0 g de leite em pó e transfira-a para o Erlenmeyer. Dissolva as 
+amostras em 50 mL de água destilada sobre agitação. Adicione 15 mL do tampão de 
+pH no Erlenmeyer contendo amostra dissolvida. 
+ 
+3. TITULANDO A AMOSTRA 
+ 
+Titule  a  solução com  EDTA,  usando  Ério-T  como  indicador, até  o  aparecimento  de 
+coloração azul na solução do Erlenmeyer. Repita o procedimento mais 2 vezes. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Calcular o teor de cálcio na amostra de leite em pó, expressando o resultado em 
+miligramas de Ca (II) por grama de leite em pó. 
+ 
+ 
+ 
+  
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue  a  balança  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  na 
+imagem abaixo. 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Posicione o Erlenmeyer sobre a balança clicando com o botão direito do mouse sobre a 
+vidraria e selecionando a opção “Balança”. 
+ 
+ 
+ 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão TARA. 
+ 
+ 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Despeje leite em pó no Erlenmeyer clicando com o botão esquerdo do mouse sobre a 
+espátula. 
+ 
+ 
+ 
+Despeje 2 g de leite em pó clicando e pressionando o botão esquerdo do mouse sobre 
+a espátula. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Coloque a espátula sobre a mesa clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Posicione o Erlenmeyer na bancada clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Posicione  a  pisseta  para  despejar  água  destilada  na  proveta  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a escala graduada da proveta clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Despeje 50 mL de água destilada clicando e pressionando o botão esquerdo do mouse 
+sobre a pisseta. 
+ 
+ 
+ 
+Coloque a pisseta sobre a mesa clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Transfira  o  conteúdo  da  proveta para o  Erlenmeyer  clicando  com  o  botão  direito  do 
+mouse sobre a proveta e selecionando a opção “Derramar no Erlenmeyer”. 
+ 
+ 
+ 
+Homogeneíze o conteúdo do Erlenmeyer clicando com o botão direito do mouse sobre 
+a vidraria e selecionando a opção “Homogeneizar”. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Posicione a garrafa com solução tampão de pH sobre a proveta clicando com o botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Despeje 15 mL de solução tampão de pH clicando e pressionando o botão esquerdo do 
+mouse sobre a garrafa. 
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Coloque a garrafa sobre a mesa clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Transfira  o  conteúdo  da  proveta  para  o  Erlenmeyer  clicando  com  o  botão  direito  do 
+mouse sobre a proveta e selecionando a opção “Derramar no Erlenmeyer”. 
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Feche  a  janela  com  a  escala  graduada  da  proveta  clicando  com  o  botão  esquerdo  do 
+mouse sobre o “X” vermelho no canto superior direito da janela. 
+ 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+3. TITULANDO A AMOSTRA 
+ 
+Despeje EDTA no béquer clicando com o botão esquerdo do mouse sobre a garrafa. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Adicione gotas de Ério-T no Erlenmeyer clicando com o botão esquerdo do mouse sobre 
+o frasco conta-gotas. 
+ 
+ 
+ 
+Posicione o funil sobre a bureta clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Transfira o conteúdo do béquer para a bureta clicando com o botão direito do mouse 
+sobre ele. 
+ 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Visualize a escala graduada da bureta clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Posicione o funil na bancada clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Quando o líquido atingir a marca zero da escala graduada, feche a bureta clicando com 
+o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova o Erlenmeyer para a bureta clicando com o botão direito do mouse sobre ele e 
+selecionando a opção “Bureta”. 
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue  o  agitador  magnético  clicando  com  o  botão  esquerdo  do  mouse  sobre  o botão 
+indicado na imagem abaixo. 
+ 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize  o  Erlenmeyer  de  perto  clicando  sobre  ele  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Visualizar”. 
+ 
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Após realizar a titulação, retorne o Erlenmeyer para a bancada clicando sobre ele com o 
+botão direito do mouse e selecionando a opção “Bancada”. 
+ 
+ 
+ 
+Feche  a  janela  com  a  escala  graduada  da  bureta  clicando  com  o  botão  esquerdo  do 
+mouse sobre o “X” no canto superior direito da janela. 
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+Limpe o conteúdo do Erlenmeyer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos dos passos 2 e 3 para realizar a titulação mais 2 vezes. 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+DETERMINAÇÃO DE CÁLCIO EM LEITE EM PÓ 
+   
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+IL1_TAC2_AB1 

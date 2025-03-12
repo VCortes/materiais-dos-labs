@@ -1,0 +1,442 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá realizar   um   planejamento   alimentar para o 
+paciente. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  + Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. INICIANDO O SISTEMA 
+ 
+Ligue o notebook e abra o link do programa. Preencha as informações de login e inicie 
+o atendimento ao paciente. 
+ 
+2. CADASTRANDO O PACIENTE 
+ 
+Insira os dados pessoais do paciente. 
+ 
+3. REALIZANDO A AVALIAÇÃO DO PACIENTE 
+ 
+Preencha as  informações  do  paciente  referentes  à  anamnese,  pedido  de  exames, 
+orientação  e  avaliação  corporal. Visualize  os  dados  antropométricos  do  paciente. 
+Monte um plano alimentar e de gasto energético. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+  
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais as características principais de uma alimentação saudável? 
+ 
+ 
+ 
+2. Qual a importância da alimentação ao paciente que já realiza atividade física? 
+ 
+ 
+ 
+3. Quais são os tipos de alimentos e suas características? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. INICIANDO O SISTEMA 
+ 
+Preencha os dados do usuário clicando com o botão esquerdo do mouse sobre as caixas 
+indicadas  e digite  os  dados  através  do  teclado  de  seu  computador. Para  acesso  a 
+plataforma, pode colocar um usuário e senha aleatório. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Acesse o software clicando com o botão esquerdo do mouse sobre o botão “Entrar”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+2. CADASTRANDO O PACIENTE 
+ 
+Abra  a  aba  de  cadastro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Preencha os dados do paciente clicando com o botão esquerdo do mouse sobre as caixas 
+indicadas e digite os dados através do teclado de seu computador. 
+ 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Finalize o cadastro clicando com o botão esquerdo do mouse sobre o botão “Cadastrar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+3. REALIZANDO A AVALIAÇÃO DO PACIENTE 
+ 
+Inicie  o  atendimento  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Atendimento”. 
+ 
+ 
+ 
+Abra a aba anamnese clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Preencha o quadro clicando com o botão esquerdo do mouse sobre a caixa indicada e 
+digite os dados através do teclado de seu computador. 
+ 
+ 
+ 
+Abra a aba de pedido de exames clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Adicione a caixa  de  texto  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Preencha  a  solicitação  de  exames  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+caixa indicada e digite os dados através do teclado de seu computador 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Se  necessário,  adicione  mais  informações  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Abra  a  aba de  orientação clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Adicione  caixa  de  texto  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Preencha  as  orientações  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  caixa 
+indicada e digite os dados através do teclado de seu computador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Adicione  mais  informações  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Abra a aba de avaliação corporal clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+Preencha os dados clicando com o botão esquerdo do mouse sobre as caixas indicadas 
+e digite os dados através do teclado de seu computador 
+ 
+ 
+ 
+Visualize  os  dados  antropométricos  do  paciente  clicando  com  o  botão  esquerdo  do 
+mouse no final da aba sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE NUTRIÇÃO 
+SOFTWARE DE NUTRIÇÃO 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

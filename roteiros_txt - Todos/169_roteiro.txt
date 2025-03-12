@@ -1,0 +1,308 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você analisará um ambiente produtivo a fim de identificar 
+possíveis inconformidades relativas a NR17 (Norma Regulamentadora 17). 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. OBSERVANDO O CENÁRIO 
+ 
+Observe com atenção cada ambiente produtivo, de forma geral e aproximada. 
+ 
+2. VERIFICANDO A CONFORMIDADE COM A NR17 
+ 
+Leia atentamente cada item da NR17 e observe se no cenário em questão tal item está 
+sendo seguido. Marque a alternativa  
+ 
+3. VERIFICANDO AS RESPOSTAS 
+ 
+Após assinalar todos os itens da lista, confira se as opções escolhidas estão corretas.  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado no experimento. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Em  cada  ambiente,  separe  no  mínimo  dois  aspectos  inconformes  com  a  NR17  e 
+proponha uma solução. 
+ 
+PLANO DE AÇÕES PARA MITIGAÇÃO DAS INCONFORMIDADES 
+Aspecto analisado Ambiente Ação 
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. OBSERVANDO O CENÁRIO 
+ 
+Observe  o  cenário industrial de  forma  geral  e  aproximada clicando  com  o  botão 
+esquerdo do mouse nas câmeras localizadas dentro do painel de visualização no canto 
+superior esquerdo da tela. Se preferir, também pode ser utilizado os atalhos do teclado 
+apresentados ao lado do nome da câmera. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+Esta prática conta com três ambientes que podem ser alterados clicando com o botão 
+esquerdo do mouse nas setas indicadas.  
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+2. VERIFICANDO A CONFORMIDADE COM A NR17 
+ 
+Após observar cada ambiente, visualize a lista com alguns itens da NR17 clicando com o 
+botão esquerdo do mouse sobre o ícone “Checklist” localizado no canto superior direito 
+da tela. Quando quiser fechar essa janela com a lista, clique novamente sobre o mesmo 
+ícone. 
+ 
+  
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+Lei  com  atenção e  observe  se  a  norma  descrita  está  sendo seguida  no  ambiente 
+indicado. Marque a sua resposta clicando com o botão esquerdo do mouse em um dos 
+quadrados ao lado do nome do item, na coluna “Sim” ou “Não”. 
+ 
+ 
+ 
+Caso deseje, é possível mudar a sua resposta clicando com o botão esquerdo do mouse 
+na outra opção. 
+ 
+   
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+3. VERIFICANDO AS RESPOSTAS 
+ 
+Após marcar todos os itens da lista, verifique se as alternativas escolhidas estão corretas 
+clicando com o botão esquerdo do mouse no botão “Conferir”. 
+ 
+  
+ 
+Observe  que  as  respostas  corretas  ficarão  marcadas  em  verde  e  as  erradas,  em 
+vermelho. 
+ 
+   
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ERGONOMIA E SEGURANÇA INDUSTRIAL  
+VERIFICAÇÃO DE INCONFORMIDADES EM UM AMBIENTE INDUSTRIAL  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+V 1.1 - AB1 

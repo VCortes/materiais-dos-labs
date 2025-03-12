@@ -1,0 +1,1143 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você aprimorará  seus  conhecimentos  sobre baciloscopia. 
+Esta técnica tem  a  metodologia  usual  de Zeel-Nelsen,  com  o  esfregaço  do 
+escarro  fixado  em  lâmina,  uso do  corante  fucsina e posteriormente  será 
+observada ao microscópio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao    finalizar    o    experimento,    responda    aos    questionamentos    da    seção 
+“Avaliação de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios  Virtuais.  Caso  elas  não  se  apliquem  ao  seu  problema,  consulte  a  nossa 
+seção  de “Perguntas Frequentes”,  disponível  em: https://algetec.movidesk.com/kb/pt-
+br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp  (8h  às  18h)  ou  para  direcionamento  para  a  central  de  suporte.  Conte 
+conosco! 
+ATENÇÃO: 
+O  LABORATÓRIO  VIRTUAL DEVE  SER  ACESSADO  POR  COMPUTADOR.  ELE  NÃO  DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bico de Bunsen; 
+• Acendedor automático; 
+• Solução de álcool etílico 70%; 
+• Álcool etílico comercial (absoluto); 
+• Papel toalha; 
+• Pinça metálica; 
+• Palito de madeira; 
+• Lâmina de vidro; 
+• Gaze; 
+• Fucsina Fenicada 0,3% 
+• Solução de álcool-ácido 3% 
+• Azul de metileno 0,3% 
+• Suporte para lâminas; 
+• Algodão; 
+• Microscópio óptico; 
+• Óleo de imersão; 
+• Haste de metal; 
+• Bandeja metal; 
+• Suporte para coloração; 
+• Cuba de vidro; 
+• Funil; 
+• Papel filtro. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Em  seguida,  coloque  os  equipamentos  de  proteção 
+individual localizados no “Armário de EPIs”. 
+ 
+2. HIGIENIZANDO A LÂMINA  
+ 
+Mova  a  lâmina  para  a  pia  e  abra  a  torneira  para  realizar  a  higienização  com  água. 
+Mova  o  detergente  e  passe  na  lâmina,  enxague  com  água. Em  seguida,  mova  a 
+lâmina para o recipiente com álcool etílico e, em seguida, seque passando uma gaze 
+na lâmina. 
+ 
+3. PREPARANDO O ESFREGAÇO 
+ 
+Acenda  a  chama  do  bico  de  Bunsen.  Abra  o  recipiente  com  amostra  de  escarro. 
+Quebre  o  palito  de  madeira  ao  meio  para  coletar  a  amostra e  passe  na  lâmina,  em 
+seguida, aguarde 5 minutos para a lâmina secar. Passe a lâmina no bico de Bunsen 3 
+vezes para fixar o esfregaço. 
+ 
+4. FILTRANDO OS CORANTES 
+ 
+Posicione o funil sobre o recipiente conta-gotas. Coloque o papel de filtro dentro do 
+funil. Filtre a fucsina fenicada 0,3%. Descarte o papel filtro e retire o funil do frasco 
+conta-gotas. Repita as etapas de filtração com o corante azul de metileno 0,3%  
+ 
+5. CORANDO A LÂMINA COM AMOSTRA 
+ 
+Coloque  a  lâmina  no  suporte  de  coloração e  adicione  fucsina fenicada  0,3% filtrada 
+sobre  o  esfregaço,  em  seguida  enrole  a  ponta  da  haste  de  metal  com  chumaço  de 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+algodão e  umedeça  o  algodão  com  álcool. Coloque  fogo  no  algodão e  aqueça  a 
+fucsina posicionando  o  chumaço de  algodão embaixo  da lâmina. A  fucsina  deve  ser 
+aquecida  até  iniciar  emissão  de  vapores (aproximadamente 2  minutos). Interrompa 
+o aquecimento e aguarde por 5 minutos. Repita esse processo de aquecimento mais 
+duas  vezes. Descarte  a fucsina  da  lâmina  na pia. Lave  a  lâmina  com um fio  de  água 
+corrente. Coloque  a  lâmina  no  suporte  e  adicione  solução  de  álcool  ácido  3%. O 
+corante  deve  cobrir  toda  a  superfície  da  lâmina. Aguarde  por  1  minuto. Descarte  a 
+solução  de  álcool  ácido  na  pia  e  lave  a  lâmina. Coloque  a  lâmina  no  suporte  e 
+adicione  solução  de  azul  de  metileno  0,3%  filtrado e  aguarde  por  30  segundos. 
+Descarte  a  solução  de  azul  de  metileno  na  pia  e  lave  a  lâmina. Umedeça  um 
+chumaço de algodão com álcool etílico. Limpe a lâmina no lado oposto ao esfregaço. 
+Coloque a lâmina para secar, em pé, sobre o suporte. Aguarde a lâmina secar por 2 
+minutos. 
+ 
+6. VISUALIZANDO A LÂMINA NO O MICROSCÓPIO 
+ 
+Ligue o microscópio e posicione a lâmina sobre a platina. Examinar inicialmente com 
+objetivas  de pequeno  aumento  (10x). Pingar  uma  gota  de óleo  de  imersão  e  então, 
+passar   para   objetiva   de   imersão   (100x),   ajustando   o foco   com   o   auxílio   do 
+micrométrico. Começar  a  examinar  o  esfregaço  na  porção  superior ou  inferior, 
+sistematicamente, em zig-zag em 100 campos representativos. Atente-se à instrução 
+que,   para   movimentação   do   revólver   ou   para   efetuar   as configurações   de 
+posicionamento  dos  parafusos,  condensador  ou  diafragma,  deve-se  clicar  com  o 
+botão  esquerdo  do  mouse  sobre  a  área  desejada  e  movimentar  o  cursor  do  mouse 
+para direita ou esquerda. 
+ 
+7. OBSERVANDO COM OUTRAS LENTES OBJETIVAS 
+ 
+Repita  a  observação  feita  no  passo  anterior  com  as  outras  três  lentes  objetivas 
+realizando  os  ajustes no  diafragma  no Charriot  e  nos  botões  macro  e  micrométrico 
+conforme a necessidade. Lembre-se de que para conseguir visualizar a imagem com 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+  
+a  lente  objetiva  de  maior  ampliação,  deve-se  gotejar  o  óleo  de  imersão  sobre  a 
+lâmina. 
+ 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a implicação de não seguir o tempo recomendado em cada corante? 
+ 
+ 
+ 
+2. Por que devemos secar a lâmina depois de passar pela coloração? 
+ 
+ 
+ 
+3. Qual a função do aquecimento do corante Fucsina? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Higienize  as mãos  clicando  com  o botão  esquerdo  do  mouse  sobre  a  pia no  comando 
+“Lavar as mãos”. 
+ 
+ 
+ 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Armário  de  EPIs”  localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione  os  EPIs  necessários  para  a  realização  do  ensaio  clicando  com  o  botão 
+esquerdo  do  mouse  sobre  eles. Nesse  experimento,  é  obrigatório  o  uso  de jaleco, 
+máscaras, luvas e óculos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Feche  as  portas  do  armário  de  EPIs  clicando  com  o  botão esquerdo  do  mouse  sobre 
+elas. 
+ 
+ 
+ 
+Visualize  a  bancada  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  “Bancada” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+2. HIGIENIZANDO A LÂMINA 
+ 
+Mova  a  lâmina  para  a  pia do  experimento clicando  com  o  botão  esquerdo  do  mouse 
+sobre a lâmina no comando “Mover para torneira”. 
+ 
+ 
+ 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a pia.  
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Deposite  o  detergente  na  lâmina clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+detergente.  
+ 
+ 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse sobre a lâmina e selecione a 
+opção “Mover para recipiente com álcool”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova a lâmina para a pia clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Passe a gaze na lâmina clicando com o botão direito do mouse sobre o pote de gaze.  
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+3. PREPARANDO O ESFREGAÇO 
+ 
+Mova  a  lâmina  para  a  bandeja  clicando  com  o  botão  esquerdo  do  mouse sobre  a 
+lâmina e selecionando a opção “Mover para bandeja”. 
+ 
+ 
+ 
+ Ligue  a  válvula  de  gás  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  válvula  de 
+gás. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Regule a chama do Bico de Bunsen clicando com o botão esquerdo do mouse sobre a 
+escala de regulação. 
+ 
+ 
+ 
+Acenda   o   Bico   de   Bunsen   clicando   com   o   botão   esquerdo   do   mouse   sobre   o 
+acendedor automático. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Quebre o palito de madeira clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Destampe a amostra clicando com o botão direito do mouse sobre o pote da amostra. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Colete a amostra clicando com o botão direito do mouse sobre o palito de madeira. 
+ 
+ 
+ 
+Avance o cronômetro clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Passe  a  lâmina  no  Bico  de Bunsen clicando  com  o  botão  esquerdo  do  mouse  sobre a 
+pinça metálica. 
+ 
+ 
+ 
+Mova a lâmina para o suporte de coloração clicando com o botão esquerdo do mouse 
+sobre ela e selecione a opção “Mover para suporte de coloração”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+4. FILTRANDO OS CORANTES 
+ 
+Visualize a câmera dos corantes clicando com o botão esquerdo do mouse na câmera 
+“Corantes” localizada dentro  do painel de  visualização no  canto  superior esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o funil para o conta-gotas de fucsina clicando com o botão esquerdo do mouse 
+sobre ele e selecione a opção “Mover para conta-gotas fucsina”. 
+  
+ 
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova o papel filtro para o funil clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Mover para funil”. 
+ 
+ 
+ 
+Transfira  o  Fucsina  Fenicada para  o  conta-gotas  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele na opção “Despejar em funil”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Descarte  o  papel  filtro  clicando  sobre  ele  com  o  botão  direito  do  mouse  na  opção 
+“Descartar”. 
+ 
+ 
+ 
+Higienize o funil clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova o funil para o conta-gotas de Metileno clicando com o botão esquerdo do mouse 
+sobre ele e selecione a opção “Mover para conta-gotas Metileno”. 
+ 
+ 
+ 
+Mova o papel filtro para o funil clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Mover para funil”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Transfira  o  Metileno  para  o  conta-gotas  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele na opção “Despejar em funil”. 
+ 
+ 
+ 
+Descarte  o  papel  filtro  clicando  sobre  ele  com  o  botão  direito  do  mouse  na opção 
+“Descartar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Higienize o funil clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  o  funil  para  a  bandeja  clicando  sobre  ele  com  o  botão  esquerdo  do  mouse  e 
+selecione a opção “Mover para bandeja”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Feche  todos  os  frascos  conta-gotas  clicando  com  o  botão esquerdo  do  mouse  sobre 
+eles. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+5. CORANDO A LÂMINA  
+ 
+Mova o frasco de Fucsina para a pia clicando sobre ele com o botão direito do mouse e 
+selecione a opção “Mover para pia”. 
+ 
+ 
+ 
+Despeje  o  frasco  de  fucsina  na  lâmina clicando  sobre  o  frasco  com  o  botão  esquerdo 
+do mouse e selecione a opção “Despejar na lâmina”.  
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Pegue o algodão com a haste de metal clicando com o botão esquerdo sobre a haste e 
+selecione a opção “Pegar algodão”  
+ 
+ 
+ 
+Despeje  o  álcool  a  70%  na haste  clicando  sobre  o  álcool  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Acenda   a   haste   clicando   com   o   botão   esquerdo   do   mouse   sobre   o   acendedor 
+automático. Observação: Realize esse procedimento de aquecimento 3 vezes seguidas. 
+ 
+ 
+ 
+Avance o cronômetro clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova a haste para a pia clicando com o botão direito do mouse sobre a haste. 
+ 
+ 
+ 
+Descarte o conteúdo da lâmina clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Descartar conteúdo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova  a  lâmina  para  a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e 
+selecione a opção “Mover para a torneira”.  
+ 
+ 
+ 
+Abra  a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e  selecione a 
+opção “Abrir/Fechar torneira”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Feche  a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e  selecione  a 
+opção “Abrir/Fechar torneira” 
+ 
+ 
+ 
+Visualize a câmera dos corantes clicando com o botão esquerdo do mouse na câmera 
+“Corantes” localizada dentro  do painel de  visualização no  canto  superior esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova  o  frasco  de  solução  de  álcool  ácido  para  a  pia  clicando  com  o  botão direito  do 
+mouse sobre ele e selecione a opção “Mover para pia”. 
+ 
+ 
+ 
+Despeje  a  solução de álcool  ácido clicando  sobre  ela  com o  botão  direito  do  mouse  e 
+selecione a opção “Despejar na lâmina”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Avance o cronômetro clicando com o botão esquerdo do mouse em “avançar”. 
+ 
+ 
+ 
+Descarte o conteúdo da lâmina clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Descartar conteúdo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Mova  a  lâmina  para  a  torneira  clicando  sobre ela  com  o  botão  esquerdo  do  mouse  e 
+selecione a opção “Mover para a torneira”.  
+ 
+ 
+ 
+Abra a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e  selecione  a 
+opção “Abrir/Fechar torneira”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Feche  a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e  selecione  a 
+opção “Abrir/Fechar torneira”. 
+ 
+ 
+ 
+Mova a lâmina para o suporte de coloração clicando sobre ela com o botão direito do 
+mouse e selecione a opção “Mover para suporte de coloração”.  
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Visualize a câmera dos corantes clicando com o botão esquerdo do mouse na câmera 
+“Corantes” localizada dentro  do painel de  visualização no  canto  superior esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o frasco de solução de azul de metileno para a pia clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Mover para pia”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Despeje  a  solução  de  azul  de  metileno  clicando  sobre  ela  com  o  botão  direito  do 
+mouse e selecione a opção “Despejar na lâmina”. 
+ 
+ 
+ 
+Avance o cronômetro clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Descarte o conteúdo da lâmina clicando com o botão direito do mouse sobre a lâmina 
+e selecione a opção “Descartar conteúdo”. 
+ 
+ 
+ 
+Mova a lâmina para a torneira clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Abra a  torneira  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  no  comando 
+“Abrir/Fechar torneira”. 
+ 
+ 
+ 
+Feche  a  torneira  clicando  sobre  ela  com  o  botão  esquerdo  do  mouse  e  selecione  a 
+opção “Abrir/Fechar torneira”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Passe o algodão com álcool sobre a lâmina clicando com o botão esquerdo do mouse 
+sobre o pote de algodão. 
+ 
+ 
+ 
+Mova a lâmina para o suporte de lâminas clicando com o botão direito do mouse sobre 
+a lâmina e selecione a opção “Mover para suporte lâminas”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Avance o cronômetro clicando com o botão esquerdo do mouse em “avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+6. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Mova  a  lâmina  para  o  microscópio  clicando  com  botão  direito  do  mouse sobre  ela e 
+selecione a opção “Mover para o microscópio”. 
+ 
+ 
+ 
+Ligue   o   microscópio clicando   com   o   botão   esquerdo   do   mouse   no   interruptor 
+localizado na base do equipamento. 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando com o 
+botão esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Realize  o  ajuste do  foco pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+Movimente a  lâmina  à  direita  ou  à  esquerda,  girando a  peça inferior  do  charriot 
+pressionando com o botão esquerdo do  mouse  sobre ela e movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire a  peça  superior do charriot 
+pressionando com o botão esquerdo do  mouse  sobre ela e movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+7. OBSERVANDO COM OUTRAS LENTES OBJETIVAS 
+ 
+Utilize o óleo de imersão sobre a lâmina clicando com botão esquerdo do mouse sobre 
+o conta gotas para visualizar a imagem com a lente objetiva de maior ampliação. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA CLÍNICA 
+BACILOSCOPIA DIRETA 
+ 
+8. AVALIANDO O RESULTADO 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

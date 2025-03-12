@@ -1,0 +1,1057 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  irá  conhecer  vidrarias  de  diferentes  graus  de  precisão  e, 
+através    de    medições    práticas    realizadas,    irá    se    familiarizar    com    tais 
+instrumentos,  além  de fazer  aplicações  práticas de algarismos  significativos  na 
+obtenção e apresentação dos resultados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança analítica; 
+• Béquer de 250 mL; 
+• Béquer de 50 mL; 
+• Pipeta graduada de 10 mL; 
+• Pisseta contendo água destilada; 
+• Proveta de 50 mL. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Abra as gavetas e selecione todos os materiais necessários ao experimento. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+3. COMPARANDO OS VOLUMES DO BÉQUER E PROVETA 
+ 
+Compare  volumes  medidos  com  o  béquer  de  50  mL  e  com  a  proveta  de  50  mL.  Para  isso, 
+adicione  20  mL  de  água  destilada,  com  auxílio  da  pisseta,  no  béquer  de  50  mL.  Em  seguida 
+pese  a  proveta  na  balança,  lembrando-se  de,  após  a  pesagem,  utilizar  a  função  “Tara” da 
+balança  para  desprezar  a  massa  da  proveta.  Em  seguida,  com  auxílio  da  pipeta  graduada, 
+transfira o volume de água destilada do béquer para a proveta de 50 mL. Registre a massa do 
+volume de água e anote as medidas na Tabela 1, disponível em “Avaliando os Resultados”.  
+Remova os conteúdos da proveta e do béquer e retire a função “TARA” da balança analítica. 
+ 
+4. COMPARANDO OS VOLUMES DA PROVETA E PIPETA 
+ 
+Compare  volumes  medidos  com  a  proveta  de  50  mL  e  com  a  pipeta  graduada  de  10  mL. 
+Deposite 50 mL de água no béquer de 50 mL, posicione o conjunto, formado pela pipeta e pela 
+pera, no béquer e succione 10 mL de água do béquer. Posicione a proveta na balança, pese a 
+proveta na balança. Transfira as 10 mL, da pipeta graduada para a proveta, lembrando-se de 
+utilizar a função “Tara” da balança para desprezar a massa da proveta e em seguida tome nota 
+do  valor  obtido  na  balança.  Em  seguida,  retire  a  proveta  da  balança  e  verifique  o  volume 
+medido  na  proveta.  Anote  corretamente  os  valores  medidos  na  Tabela  2,  disponível em 
+“Avaliando os Resultados”.  
+Remova os conteúdos da proveta e do béquer e retire a função “TARA” da balança analítica. 
+ 
+5. COMPARANDO AS MEDIDAS NA PROVETA 
+ 
+Posicione a proveta na balança, tare-a e, em seguida, deposite 20 mL de água no béquer de 
+50 mL. Posicione o conjunto, formado pela pipeta e pela pera, no béquer e succione todo o 
+conteúdo  do  béquer  e  transferindo-o,  com  o  auxílio  da  pipeta  graduada,  para a  proveta  já 
+posicionada  na  balança.  Deposite  50  mL  de  água  no  béquer  de  50  mL  e,  com  o conjunto 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+  
+formado pela pipeta e pela pera, succione 10 mL de água. Em seguida, transfira o conteúdo 
+succionado para a proveta ainda posicionada sobre a balança. Tome nota do valor observado 
+na  balança. Retire  a  proveta  da  balança, e  verifique  o  volume  medido  na  proveta.  Anote 
+corretamente  os  valores  medidos  na  Tabela  3,  disponível  em  “Avaliando  os  Resultados”. 
+Remova os conteúdos da proveta e do béquer e retire a função “TARA” da balança analítica. 
+ 
+6. RELIZANDO A PESAGEM 
+ 
+Treine  a  pesagem.  Pese  um  béquer  de  250  mL  de  capacidade  e  determine  a  sua  massa  em 
+gramas.  Em  seguida,  adicione  a  este  béquer  50  mL  de  água  e  determine  a  massa  deste 
+conjunto. Anote os dados na Tabela 4. 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  os  materiais  utilizados,  guarde-os  na  gaveta,  guarde  os  EPIs  no 
+armário e encerre o experimento. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 08 e 09 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Comparando os volumes do béquer e da proveta. 
+ 
+Vidraria 
+Volume 
+medido (mL) 
+Massa de água 
+pesada 
+Massa real a partir 
+do volume medido 
+Erro/Desvio 
+Proveta     
+Béquer  -   
+ 
+ 
+2. Comparando os volumes da proveta e da pipeta. 
+ 
+Vidraria 
+Volume medido 
+(mL) 
+Massa de água 
+pesada 
+Massa real a partir 
+do volume medido 
+Erro/Desvio 
+Pipeta 
+graduada 
+ -   
+Proveta     
+ 
+ 
+3. Comparando as medidas na proveta. 
+Vidraria 
+Volume medido 
+(mL) 
+Massa de água 
+pesada 
+Massa real a partir 
+do volume medido 
+Erro/Desvio 
+Pipeta 
+graduada 
+ -   
+Proveta     
+ 
+ 
+  
+Tabela 1 – Comparação entre volumes medidos em uma proveta e um béquer. 
+Tabela 2 – Comparação entre volumes medidos em uma pipeta graduada e uma proveta. 
+Tabela 3 – Somatório de volumes medidos em instrumentos diferentes. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+4. Realizando a pesagem. 
+ 
+Peso do béquer  
+Peso da água  
+Peso do béquer com água  
+Volume estimado de água  
+ 
+ 
+ 
+5. Justifique  a  diferença,  se  houver,  entre  os  valores  de  volume  medidos  durante  a 
+comparação da proveta com o béquer (PASSO 3). 
+ 
+ 
+ 
+6. A respeito dos valores de volumes observados na comparação entre a proveta e a 
+pipeta (PASSO 4) e entre medidas obtidas na proveta, quando comparando a pipeta 
+graduada  ao béquer  (PASSO  5),  calcule  e  expresse  o  valor resultante da  soma  dos 
+valores adicionados, considerando a precisão de cada instrumento.  
+ 
+ 
+ 
+7. Compare os valores calculados na questão anterior com o valor observado. 
+ 
+ 
+ 
+  
+Tabela 4 – Pesando o béquer com e sem conteúdo. 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Abra as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Abra as gavetas clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Selecione  os materiais necessários  ao  experimento  clicando  com  o  botão direito do 
+mouse sobre o béquer e selecione a opção “Colocar sobre a mesa”.  
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Repita o procedimento anterior, mova a proveta e o outro béquer. 
+ 
+ 
+ 
+Feche as gavetas clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+3. COMPARANDO OS VOLUMES DO BÉQUER E PROVETA 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e selecione a 
+opção “Colocar sobre o béquer de 50 mL”. 
+ 
+ 
+ 
+Despeje  20  mL  de  água  clicando com o  botão  esquerdo  do  mouse  sobre  a  pisseta e 
+mantenha pressionado.  
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Abra  a porta  lateral  esquerda  da  balança  analítica  clicando  com  o  botão  esquerdo  do 
+mouse sobre ela.  
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Abra  a  porta  superior  da  balança  analítica  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado.  
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Posicione  a  proveta  na  balança  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Visualize a balança analítica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Balança Analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Registre  a  massa  da  proveta  vazia  e  em  seguida  tare  a  balança  clicando  com  o  botão 
+esquerdo do mouse sobre o botão “TARA”. 
+ 
+ 
+ 
+Conecte a pera clicando com o botão esquerdo do mouse sobre a pera.  
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Mova a pipeta clicando com o botão direito do mouse sobre o conjunto e selecione a 
+opção “Colocar sobre o béquer de 50 mL”.  
+ 
+ 
+ 
+ATENÇÃO: Para utilizar a pipeta graduada, é necessário seguir a série de ações abaixo 
+que ficam disponíveis ao posicionar o mouse sobre as partes indicadas na imagem. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+4. Para iniciar a sucção, pressione a pera, clicando com o botão esquerdo do mouse 
+sobre ela.  
+ 
+5. Para succionar o conteúdo presente no béquer, pressione o botão esquerdo do 
+mouse sobre a VÁLVULA S.  
+ 
+6. Para  liberar  o  conteúdo  da  pipeta  graduada,  pressione  o  botão  esquerdo  do 
+mouse sobre a VÁLVULA E.  
+ 
+7. Para liberar a pera, clique com o botão esquerdo do mouse sobre a VÁLVULA A. 
+ 
+8. Acompanhe  o  conteúdo,  sendo  succionado  ou  liberado  da  pipeta  graduada, 
+através da graduação que será exibida na lateral esquerda da tela.  
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre o centro da pera. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Insira  a  pipeta  no  béquer  clicando  com  o  botão direito do  mouse  sobre o  béquer  e 
+selecione a opção “Inserir no recipiente”.  
+ 
+ 
+ 
+Aspire  o  conteúdo do  béquer  pressionando  com  o  botão  esquerdo  do mouse  sobre a 
+válvula “S”.  
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Remova  a  pipeta do  béquer  clicando  com  o  botão direito do  mouse  sobre a  pipeta  e 
+selecione a opção “Remover do recipiente”.  
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Colocar na balança”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Transfira  o  conteúdo  da  pipeta  graduada  pressionando  o  botão  esquerdo  do  mouse 
+sobre a Válvula E. 
+ 
+ 
+ 
+Mova a  pipeta  clicando  com  o  botão direito do  mouse  sobre  ela e selecione a  opção 
+“Colocar no suporte para pipetas”.  
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Tome  nota  da  massa  obtida  na  balança  e,  em  seguida,  retire  a  proveta  da  balança 
+clicando com o botão direito do mouse sobre ela e selecione a opção “Colocar sobre a 
+mesa”. 
+ 
+ 
+ 
+Habilite  a  graduação  da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela. 
+Preencha a Tabela 1, disponível na seção “Avaliação de resultados” desse roteiro. 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Remova  o  conteúdo  da  proveta  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Descartar conteúdo”.  
+ 
+ 
+ 
+Remova a tara da balança clicando o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+4. COMPARANDO OS VOLUMES DA PROVETA E PIPETA 
+ 
+Mova a pisseta para depositar água no béquer clicando com o botão direito do mouse 
+sobre a pisseta e selecione a opção “Colocar sobre o béquer de 50 mL”. 
+ 
+ 
+ 
+Deposite 50 mL de água no béquer clicando com o botão esquerdo do mouse sobre a 
+pisseta e mantenha pressionado. Utilize a graduação lateral para auxiliar a medição.  
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Posicione a proveta na balança, clicando com o botão esquerdo do mouse sobre ela e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Mova a pipeta clicando com o botão direito do mouse sobre o conjunto e selecione a 
+opção “Colocar sobre o béquer de 50 mL”.  
+ 
+ 
+ 
+Repita os procedimentos anteriores, esvazie a pera, insira a pipeta no béquer, aspire 10 
+mL do béquer, remova a pipeta do béquer, mova a pipeta para a balança e transfira o 
+conteúdo. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Mova a  pipeta  clicando  com  o  botão direito  do  mouse  sobre  ela e selecione a  opção 
+“Colocar no suporte para pipetas”.  
+ 
+ 
+ 
+Tome  nota  da  massa  obtida  na  balança  e,  em  seguida,  retire  a  proveta  da  balança, 
+clicando com o botão esquerdo do mouse sobre ela e selecione a opção “Colocar sobre 
+a mesa”. 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Habilite  a  graduação da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela. 
+Preencha a Tabela 2, disponível na seção “Avaliação de resultados” desse roteiro. 
+ 
+ 
+ 
+Remova  o  conteúdo  da  proveta  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Descartar conteúdo”.  
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Remova  a  tara  da  balança  clicando  o  botão  esquerdo  do  mouse  sobre  o  botão  em 
+destaque. 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+5. COMPARANDO AS MEDIDAS NA PROVETA 
+ 
+Posicione  a  proveta  na  balança  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Mova a  pisseta  clicando  com  o  botão direito do  mouse  sobre  a  pisseta  e selecione a 
+opção “Colocar sobre o béquer 50 mL”. 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Deposite 20 mL de água no béquer clicando com o botão esquerdo do mouse sobre a 
+pisseta e mantenha pressionado. Utilize a graduação lateral para auxiliar a medição.  
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre o conjunto e selecione a 
+opção “Colocar sobre o béquer de 50 mL”.  
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Repita os procedimentos anteriores, esvazie a pera, insira a pipeta no béquer, aspire 10 
+mL do béquer, remova a pipeta do béquer, mova a pipeta para a balança e transfira o 
+conteúdo. 
+ 
+ 
+ 
+Mova a pisseta para depositar água no béquer clicando com o botão direito do mouse 
+sobre a pisseta e selecione a opção “Colocar sobre o béquer de 50 mL”. Deposite 50 mL 
+de  água  no  béquer  clicando com o  botão esquerdo  do  mouse  sobre  a  pisseta e 
+mantenha pressionado. Utilize a graduação lateral para auxiliar a medição. 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Repita  os  procedimentos  anteriores,  mova  a  pipeta para  o  béquer  de  50  mL, insira  a 
+pipeta, succione 10 mL do conteúdo, remova a pipeta do béquer, mova a pipeta para a 
+balança e transfira o conteúdo. 
+ 
+ 
+ 
+Mova a  pipeta  clicando  com  o  botão direito do  mouse  sobre  ela e selecione a  opção 
+“Colocar no suporte para pipetas”.  
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Tome  nota  da  massa  obtida  na  balança  e,  em  seguida,  retire  a  proveta  da  balança 
+clicando com o botão direito do mouse sobre ela e selecione a opção “Colocar sobre a 
+mesa”. 
+ 
+ 
+ 
+Habilite  a  graduação  da  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela. 
+Anote os valores obtidos na Tabela 3, disponível na sessão Avaliação de Desempenho. 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Remova  o  conteúdo  da  proveta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Descartar conteúdo”.  
+ 
+ 
+ 
+Remova  o  conteúdo  do  béquer  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Descartar conteúdo”.  
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+6. REALIZANDO A PESAGEM 
+ 
+Posicione  o  béquer  de  250  mL  na  balança  analítica clicando  com  o  botão direito do 
+mouse sobre o béquer e selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Visualize a balança analítica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Balança Analítica” ou através do atalho do teclado “Alt+3”.  
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Retire  o  béquer  da  balança,  clicando  com  o  botão  esquerdo  sobre  ele  e selecione a 
+opção “Colocar sobre a mesa”.  
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta e selecione a 
+opção “Colocar sobre o béquer de 250 mL”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Deposite 50 mL de água no béquer de 250 mL clicando com o botão esquerdo do mouse 
+sobre  a  pisseta e  mantenha  pressionado.  Utilize  a  graduação  lateral  para  auxiliar  a 
+medição. 
+ 
+ 
+ 
+Posicione o béquer de 250 mL na balança clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Colocar na balança”. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+Visualize a balança analítica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Balança Analítica” ou através do atalho do teclado “Alt+3”. Anote o valor da 
+massa  e  preencha  a  Tabela  4,  disponível  na  seção  “Avaliação  de  resultados”  desse 
+roteiro. 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  os  materiais  utilizados,  guarde-os  na  gaveta  e  encerre  o 
+experimento. 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+ALGARISMOS SIGNIFICATIVOS, ERROS E CALIBRAÇÃO DE VIDRARIAS 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  08  e  09  deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

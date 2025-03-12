@@ -1,0 +1,496 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você determinará a área instantânea do corpo de prova e, 
+por   meio   desses  dados,   obterá   a  tensão   de   escoamento   verdadeira   e   a 
+deformação verdadeira do material. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Prensa hidráulica; 
+• Célula de carga; 
+• Tarugo: Cilindro metálico com 15 mm de altura e 10 mm de diâmetro AISI 1045; 
+• Paquímetro; 
+• Pisseta com óleo lubrificante; 
+• Pisseta com limpador; 
+• Flanela; 
+• Notebook; 
+• Termômetro.  
+ 
+PROCEDIMENTOS 
+ 
+1. PREPARANDO O CORPO DE PROVA  
+ 
+Inicialmente,  utilizando  o  termômetro,  verifique  a  temperatura  do  laboratório.  Em 
+seguida, posicione o corpo de prova e o paquímetro para a medição. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+  
+2. REALIZANDO AS MEDIÇÕES 
+ 
+Com  o  corpo de  prova já  posicionado,  use  o  paquímetro  para  medir  a  altura  e  o 
+diâmetro em dois pontos diferentes do tarugo. Anote os valores encontrados. Logo 
+depois, retorne o paquímetro e o tarugo para a bancada.  
+ 
+3. LIMPANDO E LUBRIFICANDO O CORPO DE PROVA 
+ 
+Aplique  o  limpador  na  flanela.  Depois,  limpe  o  corpo  de  prova  e  as  matrizes.  Ao 
+terminar,  troque  a  flanela. Agora,  aplique  óleo  lubrificante  na  flanela  e passe uma 
+camada no tarugo. 
+ 
+4. REALIZANDO O ENSAIO 
+ 
+Mova  o  corpo  de  provas  para  a  prensa  e  ajuste-o.  Em  seguida,  ligue  o  notebook  e 
+inicie o ensaio. Após concluir o ensaio, suba a placa móvel e retorne o corpo de prova 
+para a bancada.  Observe os resultados que serão exibidos no notebook. 
+ 
+5. REPETINDO AS MEDIÇÕES 
+ 
+Posicione novamente o corpo de provas para medição e realize novas medições de 
+altura e diâmetro em dois pontos diferentes. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  a importância  de  realizar  as  medições  de  altura  e  diâmetro  em  pontos 
+diferentes? 
+ 
+ 
+ 
+2. Qual a função do óleo lubrificante nesse ensaio? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. PREPARANDO O CORPO DE PROVA 
+ 
+Visualize o termômetro clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Termômetro” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Verifique a temperatura indicada no termômetro. Em seguida, retorne a câmera para a 
+bancada, “Alt+1”. 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Posicione  o  tarugo para  a  medição  clicando  nele  com  o  botão direito do  mouse e 
+selecionando a opção “Posicionar para a medição”. 
+ 
+ 
+ 
+Mova o paquímetro para realizar a medição clicando nele com o botão direito do mouse 
+e selecionando a opção “Medir altura”. 
+ 
+  
+ 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+2. REALIZANDO AS MEDIÇÕES 
+ 
+Realize a medição da altura clicando com o botão esquerdo do mouse na seta indicada 
+para visualizar o valor.  
+ 
+ 
+ 
+Meça  novamente  a  altura utilizando  um  ponto  diferente  do  corpo  de  prova.  Clique 
+novamente com o botão esquerdo do mouse sobre o paquímetro e selecione a opção 
+“Medir altura”.  
+ 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Agora, meça o diâmetro clicando com o botão direito do mouse no paquímetro e 
+selecionando a opção “Medir diâmetro”. 
+ 
+ 
+ 
+O  procedimento  é  análogo  ao que  foi  executado  anteriormente  para  medir  a  altura. 
+Realize a medição duas vezes e anote os valores encontrados.  
+Em seguida, retorne o corpo de prova e o paquímetro para a bancada clicando com o 
+botão direito do  mouse  sobre  o  corpo  de  prova  e  selecionando  a  opção  “Colocar  na 
+bancada”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+3. LIMPANDO E LUBRIFICANDO O CORPO DE PROVA 
+ 
+Retorne a visualização para a bancada, “Alt+1”. 
+Aplique o limpador na flanela clicando na pisseta com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Limpe o corpo de prova clicando nele com o botão direito do mouse e selecionando a 
+opção “Passar na flanela”. 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Limpe a matriz clicando na flanela com o botão direito do mouse e selecionando a opção 
+“Limpar matriz”. 
+ 
+ 
+ 
+Após  uso,  troque  a  flanela  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecionando a opção “Trocar flanela”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Aplique o óleo na flanela clicando na pisseta contendo óleo clicando nela com o botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Aplique  o  óleo  no corpo  de  prova  clicando  nele  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Passar na flanela”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+4. REALIZANDO O ENSAIO 
+ 
+Retorne a visualização para a bancada, “Alt+1”. 
+Mova o  corpo  de  prova  para  a prensa  clicando  nele  com  o  botão direito do  mouse  e 
+selecionando a opção “Colocar na prensa”. 
+ 
+ 
+ 
+Ajuste a prensa ao corpo de prova clicando com o botão esquerdo do mouse no botão 
+indicado. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Mude a visualização para o notebook, “Alt+6”. 
+Em  seguida,  ligue  o  notebook  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado.  
+ 
+ 
+ 
+Retorne a visualização para a prensa, “Alt+5”. 
+Inicie o procedimento clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Observe que tempo do ensaio será cronometrado. 
+ 
+ 
+ 
+Suspensa a placa móvel clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+  
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+Retorne o corpo de prova para a bancada clicando nele com o botão direito do mouse e 
+selecionando a opção “Colocar na bancada”. 
+ 
+  
+ 
+Mude a câmera para o notebook para visualizar o resultado do ensaio. Clique nos locais 
+indicados para mudar o gráfico exibido. 
+ 
+  
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+CURVAS DE ESCOAMENTO 
+ 
+5. REPETINDO AS MEDIÇÕES 
+ 
+Depois de realizar o ensaio, realize as medições de altura e diâmetro novamente. Repita 
+os mesmos passos executados no passo 2 deste roteiro. Anote as novas medidas.  
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

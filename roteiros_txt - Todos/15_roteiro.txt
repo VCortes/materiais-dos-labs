@@ -1,0 +1,462 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Nesse experimento você irá explorar o comportamento dos sólidos imersos em 
+líquidos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer; 
+• Água; 
+• Suporte universal; 
+• Dinamômetro; 
+• Cilindro de Arquimedes; 
+• Recipiente transparente. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. VERIFICANDO O PESO DO CILINDRO 
+ 
+Coloque o cilindro de Arquimedes na mesa e calibre o dinamômetro. Posicione 
+o  cilindro  embaixo  do  recipiente  e  verifique  o  seu  peso  indicado  na  escala  do 
+dinamômetro.  
+ 
+2. COLOCANDO O CILINDRO NO BÉQUER 
+ 
+Levante   o   dinamômetro   e   coloque   o   béquer   embaixo   dele. Retorne   o 
+dinamômetro para a posição inicial e verifique o peso novamente. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+3. PREENCHENDO O RECIPIENTE COM ÁGUA 
+ 
+Preencha  o  recipiente  transparente  com a água  que  está  na  pisseta  e,  em 
+seguida, verifique o peso outra vez. 
+ 
+4. DESMONTANDO O EXPERIMENTO 
+ 
+Levante   o   dinamômetro   para   retornar   o   béquer   para   a   mesa.   Desça   o 
+dinamômetro, posicione o cilindro na mesa e esvazie o recipiente. Siga para a 
+seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o que 
+foi observado no experimento.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Justifique a aparente diminuição ocorrida no peso do cilindro ao ser imerso na 
+água. 
+ 
+ 
+2. Por que, ao preencher o recipiente com água, o peso marcado pelo dinamômetro 
+retorna exatamente ao valor do cilindro quando não estava imerso na água? 
+ 
+ 
+3. Se o volume do  recipiente fosse consideravelmente maior que o do cilindro,  o 
+comportamento do dinamômetro seria igual ao da questão anterior? Explique.  
+ 
+ 
+4. Determine o módulo da força que provocou a aparente diminuição sofrida pelo 
+peso do corpo, denominada empuxo E. 
+E = P
+CFL
+ - P
+ACDL
+ 
+E = _____ N 
+Onde: 
+P
+ACDL
+ = Peso aparente do corpo dentro do líquido  
+P
+CFL
+ = Peso aparente do corpo fora do líquido 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+5. Justifique o motivo pelo qual usamos a expressão “aparente diminuição sofrida 
+pelo peso do corpo” e não “diminuição do peso do corpo”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. VERIFICANDO O PESO DO CILINDRO 
+ 
+Coloque o cilindro de Arquimedes na mesa. Para isso, acesse a câmera “Dinamômetro” 
+e, em seguida, clique sobre o cilindro com o botão direito do mouse e selecione a opção 
+“Colocar na mesa”. 
+ 
+  
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Calibre o dinamômetro, clicando sobre ele com o botão direito do mouse e selecionando 
+“Calibrar dinamômetro”. 
+ 
+  
+ 
+Observe que dinamômetro agora está na posição zero. 
+ 
+  
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Posicione  o  cilindro  embaixo  do  recipiente  transparente.  Para  isso,  altere  o  modo  de 
+visualização  para  “Bancada”,  clique  sobre  o  cilindro  com  o  botão  direito  do  mouse  e 
+selecione a opção “Colocar embaixo do recipiente”. 
+ 
+  
+ 
+Verifique o peso do cilindro através da escala do dinamômetro. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+2. COLOCANDO O CILINDRO NO BÉQUER 
+ 
+Para  que  seja  possível  posicionar  o  béquer  embaixo  do  dinamômetro,  é  necessário 
+levantar o dinamômetro antes. Para isso, clique com o botão direito sobre o instrumento 
+e selecione “Levantar dinamômetro”. 
+ 
+ 
+ 
+Posicione o béquer embaixo do dinamômetro, clicando com o botão direito do mouse 
+sobre ele e selecionando a opção “Colocar embaixo do dinamômetro”. 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Retorne o dinamômetro para a posição inicial. 
+ 
+ 
+ 
+Perceba que o cilindro agora está imerso na água.  
+Verifique o valor indicado na escala do dinamômetro. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+3. PREENCHENDO O RECIPIENTE COM ÁGUA 
+ 
+Com o auxílio da pisseta, preencha totalmente o recipiente transparente com água. Para 
+isso, clique com o botão direito do mouse sobre a pisseta e selecione a opção “Encher 
+cilindro”. 
+ 
+ 
+ 
+Para despejar a água, basta clicar sobre a pisseta com o botão esquerdo do mouse. 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Retorne a pisseta para a mesa, clicando com o botão direito do mouse e selecionando a 
+opção “Retornar à mesa”. 
+ 
+ 
+ 
+Verifique o valor indicado na escala do dinamômetro. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+ 
+4. DESMONTANDO O EXPERIMENTO 
+ 
+Levante o dinamômetro. 
+ 
+ 
+ 
+Retorne o béquer para a mesa. 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Desça o dinamômetro. 
+ 
+ 
+ 
+Coloque o cilindro de Arquimedes na mesa. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+HIDROSTÁTICA 
+Esvazie o recipiente transparente, clicando com  o botão  direito do mouse sobre ele  e 
+selecionando a opção “Esvaziar recipiente”. 
+ 
+ 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. 
+ 
+ 

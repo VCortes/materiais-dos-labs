@@ -1,0 +1,705 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  realizar  o  procedimento  para  verificar a  dose 
+recebida pelos pacientes em determinados exames radiológicos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Equipamento convencional de raios X; 
+• Câmara de ionização; 
+• Eletrômetro; 
+• Trena; 
+• Tripé. 
+ 
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO E POSICIONANDO A CÂMARA DE IONIZAÇÃO 
+ 
+Abra  o  armário  e  utilize  a  trena  para  verificar  a  distância  do  ponto  focal  do 
+equipamento até a câmara de ionização. Ajuste pelo tripé a distância de acordo 
+com a primeiras das projeções radiográficas da Tabela 1. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+2. AJUSTANDO A ÁREA DE COLIMAÇÃO  
+ 
+Acione  o  campo  luminoso  e  ajuste  a  posição  horizontal  e  transversal  do 
+equipamento de raios X de forma que o sensor da câmara de ionização (ponta 
+preta do equipamento) esteja no centro da região iluminada. Utilize os knobs do 
+equipamento de raios X para ajustar o campo irradiado de forma que ele cubra 
+apenas o sensor da câmara de ionização. 
+ 
+3. PARAMETRIZANDO PAINEL DE CONTROLE E ELETRÔMETRO 
+ 
+Utilize um dos valores de kVp, mA e tempo de exposição contidos na Tabela 1 
+para a primeira exposição radiográfica. Insira estes valores para cada opção de 
+tensão  na  Tabela  1.  Pressione  o  botão  preparar.  Ligue  o  eletrômetro  (botão 
+ON/OFF). 
+ 
+4. REALIZANDO A EXPOSIÇÃO 
+ 
+Pressione o botão de exposição no painel de controle e insira o valor da medição 
+exibida no eletrômetro na Tabela 1. Pressione o botão reset do eletrômetro. 
+ 
+5. REPETINDO OUTRAS EXPOSIÇÕES  
+ 
+Repita os passos 2, 3 e 4 utilizando os dados de kVp, mA, tempo de exposição e 
+distância  foco-câmara  adequados  para  cada  uma  das  projeções  radiográficas 
+presentes  na  Tabela  1.  Complete  a  Tabela  1  com  os  dados  obtidos  durante  a 
+realização deste passo. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Determine o  valor  da  camada  semirredutora  equivalente  para  cada  projeção 
+radiográfica realizada. 
+ 
+ 
+ 
+2. Realize o cálculo da dose de entrada na pele (DEP) para cada projeção radiográfica 
+realizada utilizando os dados da Tabela 2. 
+ 
+ 
+ 
+3. Compare  os  valores  obtidos  de  dose  de  entrada  na  pele  para  cada  projeção 
+radiográfica com os níveis de referência de radiodiagnóstico por radiografia para um 
+paciente adulto típico. 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+Tabela 1 – Dados experimentais. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabela 2 – Dados auxiliares. 
+  
+PROJEÇÃO 
+RADIOGRÁFICA 
+Distância 
+foco-filme 
+(m) 
+Espessura 
+(cm) 
+Distância 
+foco-câmara 
+(mm) 
+kVp mA 
+Tempo de 
+Exposição 
+(s) 
+Dose 
+(mGy) 
+Taxa de Dose 
+(mGy/min) 
+Coluna 
+Lombar 
+AP 1,8 23,0  90,0 450 0,2   
+Lateral 1,8 30,0  90,0 450 0,2   
+Junção 
+Lombo 
+Sacro 
+1,8 20,0  90,0 450 0,2   
+Abdômen AP 1,0 23,0  90,0 450 0,2   
+Tórax 
+PA 1,8 23,0  90,0 450 0,2   
+Lateral 1,8 32,0  115,0 383 0,3   
+Crânio 
+AP 1,0 19,0  90,0 450 0,2   
+Lateral 1,0 15,0  70,0 350 0,2   
+PROJEÇÃO 
+RADIOGRÁFICA 
+K
+P,T
+ BSF F
+c
+ 
+Coluna 
+Lombar 
+AP 1,000 1,314 0,998 
+Lateral 1,000 1,342 0,996 
+Junção 
+Lombo 
+Sacro 
+1,000 1,324 0,997 
+Abdômen AP 1,000 1,302 1,000 
+Tórax 
+PA 1,000 1,356 0,996 
+Lateral 1,000 1,356 0,996 
+Crânio 
+AP 1,000 1,302 1,000 
+Lateral 1,000 1,289 1,002 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AJUSTANDO A CÂMARA DE IONIZAÇÃO 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário”  localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Meça  a  distância  do  medidor  clicando  com  o  botão  direito  do  mouse  sobre  a  trena  e 
+selecionando a opção “Meça a distância do medidor”. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+Visualize  o  tripé  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ajuste a altura do tripé clicando com o botão direito do mouse sobre ele e selecionando 
+a opção “Ajustar altura”. 
+ 
+ 
+ 
+Ajuste  tripé  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  barra  de  ajuste  e 
+arrastando para os lados. 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Feche a câmera de observação de medição clicando com o botão esquerdo do mouse 
+sobre o X vermelho. 
+ 
+ 
+ 
+Guarde a trena clicando com o botão direito do mouse sobre ela e selecionando a opção 
+“Guardar no armário”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+2. AJUSTANDO A ÁREA DE COLIMAÇÃO 
+ 
+Visualize a estativa porta-tubo clicando com o botão esquerdo do mouse na câmera com 
+o nome “Estativa porta-tubo” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue  o  colimador  luminoso  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+com ícone de lâmpada. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Trave o freio longitudinal clicando com o botão esquerdo do mouse sobre o botão com 
+as setas pra esquerda e pra direita. 
+ 
+ 
+ 
+Posicione o campo luminoso horizontalmente centralizando com a marcação na parte 
+superior  do  medidor  de kVp  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  cabo 
+manopla e arrastando o mouse para os lados. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Trave o freio transversal clicando com o botão esquerdo do mouse sobre o botão com 
+as setas na diagonal. 
+ 
+ 
+ 
+Posicione o campo luminoso transversalmente centralizando com a marcação na parte 
+superior  do  medidor  de  kVp  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  cabo 
+manopla e arrastando o mouse para cima e para baixo. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ajuste o campo irradiado horizontal clicando com o botão esquerdo do mouse sobre o 
+botão de ajuste esquerdo. 
+ 
+ 
+ 
+Ajuste  o  campo  irradiado  horizontalmente  centralizando  com  a  marcação  na  parte 
+superior do medidor de kVp clicando com o botão esquerdo do mouse sobre a barra de 
+ajuste e arrastando para os lados. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ajuste o campo irradiado transversal clicando com o botão esquerdo do mouse sobre o 
+botão de ajuste direito. 
+ 
+ 
+ 
+Ajuste  o  campo  irradiado  transversalmente  centralizando  com  a  marcação  na  parte 
+superior do medidor de kVp clicando com o botão esquerdo do mouse sobre a barra de 
+ajuste e arrastando para os lados. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Feche a câmera de observação de medição clicando com o botão esquerdo do mouse 
+sobre o X vermelho. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+3. AJUSTANDO PAINEL DE CONTROLE E O ELETRÔMETRO 
+ 
+Visualize  o painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Ligue o painel clicando com o botão esquerdo do mouse sobre o botão de liga/desliga. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ajuste o valor do mA clicando com o botão esquerdo do mouse sobre o botão de mA e 
+gire-o. 
+ 
+ 
+ 
+Ajuste o valor do Kv clicando com o botão esquerdo do mouse sobre o botão de Kv e 
+gire-o. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ajuste  o  tempo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o botão  de  tempo  e 
+gire-o. 
+ 
+ 
+ 
+Visualize eletrômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Eletrômetro” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Ligue  o  eletrômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+liga/desliga. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+4. REALIZANDO A EXPOSIÇÃO 
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Prepare  o  equipamento  clicando  com  o  botão  esquerdo do  mouse  sobre  o  botão 
+preparar. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Exponha o medidor a radiação clicando com o botão esquerdo do mouse sobre o botão 
+exposição e anote o valor encontrado. 
+ 
+ 
+ 
+Resete o eletrometro clicando com o botão esquerdo do mouse sobre o botão reset. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS  
+ESTIMATIVA DA DOSE RECEBIDA PELOS PACIENTES 
+ 
+5. REPETINDO A EXPOSIÇÃO 
+ 
+Repita os passos 3 e 4 realizando um total de quatro exposições para as combinações 
+de kVp e mA que foram disponibilizadas na Tabela 1. 
+ 
+ 
+6. AVALIANDO O RESULTADO 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+JA1_LU1_TAC1 

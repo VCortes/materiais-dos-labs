@@ -1,0 +1,877 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    o 
+procedimento de determinação da alcalinidade. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador Magnético; 
+• Barras magnéticas; 
+• Béquer (250 mL) Contendo Amostra 1 de água - coloração marrom claro; 
+• Béquer (250 mL) Contendo Amostra 2 de água - coloração cinza; 
+• Béquer (250 mL) Contendo Solução tampão de pH 10 - coloração azul; 
+• Béquer (250 mL) Contendo Solução tampão de pH 4 - coloração verde; 
+• Béquer (250 mL) Contendo Solução tampão de pH 7 - coloração amarela; 
+• Bureta 50 mL; 
+• Erlenmeyer de 125 mL; 
+• Papel toalha; 
+• pHmetro; 
+• Pisseta; 
+• Provetas de 50 mL; 
+• Solução de Ácido Sulfúrico 0,02 N; 
+• Solução de Fenolftaleína; 
+• Suporte Universal. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia   e   coloque   os   equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. Para esse experimento será necessário a utilização 
+do jaleco, luvas, máscara e óculos. 
+ 
+2. CALIBRANDO O PHMETRO 
+ 
+Ligue  o  pHmetro  e  coloque-o  em  modo  de  calibração. Lave  o  eletrodo  com  a  água 
+destilada armazenada na pisseta e enxugue a parte externa do eletrodo com o papel 
+absorvente. Mova o eletrodo para o béquer contendo a solução tampão com pH 7,0 
+e calibre  o  equipamento. Lave  e  enxugue  o  eletrodo. Repita  os  procedimentos 
+anteriores, calibre o pHmetro utilizando as soluções tampão de pH 4,0 e de pH 10,0. 
+ 
+3. DETERMINANDO PH DAS AMOSTRAS 
+ 
+Lave e enxugue o eletrodo. Mova o eletrodo para o béquer com a amostra 1 e observe 
+o  pH  da  amostra.    Lave  e  enxugue  o eletrodo.  Repita  os  procedimentos  anteriores, 
+observe o pH da amostra da amostra 2, lave e enxugue o eletrodo. 
+ 
+4. REALIZANDO A TITULAÇÃO 
+ 
+Mensure  50  mL  da  amostra  de  água  1  na  proveta  e  transfira  para  o Erlenmeyer 1. 
+Insira  a  barra  magnética no Erlenmeyer 1. Mova  o Erlenmeyer para  o  agitador 
+magnético e ligue o equipamento. Adicione três gotas de fenolftaleína no Erlenmeyer 
+1 e observe o resultado. Adicione 50 mL de ácido sulfúrico 0,02N no béquer e transfira 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+  
+para  a  bureta.  Abra  a  torneira  da  bureta  vagarosamente, deixe a  solução  de  ácido 
+sulfúrico cair em gotas até a mudança de cor. Mova o Erlenmeyer 1 para a bancada. 
+Mensure 50  mL  da  amostra  2  de  água  na  proveta  e  transfira  para  o Erlenmeyer 2. 
+Insira  a  barra  magnética no Erlenmeyer 2. Mova  o Erlenmeyer para  o  agitador 
+magnético e ligue o equipamento. Adicione 50 mL de ácido sulfúrico 0,02N no béquer 
+e transfira para a bureta. Abra a torneira da bureta vagarosamente, deixe a solução 
+de  ácido  sulfúrico  cair  em  gotas  até a  mudança  de  cor.  Mova  o  eletrodo  para  o 
+Erlenmeyer 2 com a solução titulada e observe o pH da solução. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que foi observado após adicionar 3 gotas de fenolftaleína no Erlenmeyer 1? 
+ 
+ 
+ 
+2. Houve  mudança  no  pH  entre  a  amostra  de  água  2  e a solução  titulada  no 
+Erlenmeyer 2? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia 
+para  Higienização” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Higienize as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Armário de EPIs” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, a máscara, os 
+óculos e as luvas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+2. CALIBRANDO O PHMETRO 
+ 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue o phmetro clicando com o botão esquerdo do mouse no botão “On/Off”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Ative o modo de calibração clicando com o botão esquerdo do mouse no botão “Cal”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para limpeza”. 
+ 
+ 
+ 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para o eletrodo”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Lave o eletrodo clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Seque o eletrodo clicando com o botão esquerdo do mouse no papel toalha. 
+ 
+ 
+ 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para pH 7,0”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Altere  o  valor  indicado  pelo  phmetro  clicando  com  o  botão  esquerdo  do  mouse  nos 
+botões indicados. 
+ 
+ 
+ 
+Confirme o valor alterado clicando com o botão esquerdo do mouse no botão “Enter”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para limpeza”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para o eletrodo”. 
+ 
+ 
+ 
+Lave o eletrodo clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Seque o eletrodo clicando com o botão esquerdo do mouse no papel toalha. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Repita os procedimentos anteriores, calibre o pHmetro utilizando as soluções tampão 
+de pH 4,0 e de pH 10,0. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+3. DETERMINANDO PH DAS AMOSTRAS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera “Bancada” ou 
+através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para limpeza”. 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para o eletrodo”. 
+ 
+ 
+ 
+Lave o eletrodo clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova a pisseta clicando com o botão direito do mouse na pisseta e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Seque o eletrodo clicando com o botão esquerdo do mouse no papel toalha. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para água 1” e visualize o pH da solução. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Repita os procedimentos anteriores, limpe o eletrodo, determine o pH da amostra 2 e 
+limpe o eletrodo novamente. 
+ 
+ 
+ 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+4. REALIZANDO A TITULAÇÃO 
+ 
+Mensure 50  mL  da  amostra  de  água  1  clicando  com  o  botão  esquerdo  do  mouse  no 
+béquer com a amostra 1. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse na proveta. 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Coloque a barra magnética clicando com o botão esquerdo do mouse na barra. 
+ 
+ 
+ 
+Mova  o Erlenmeyer 1  clicando  com  o  botão  direito  do  mouse  no Erlenmeyer 1 e 
+selecione a opção “Mover para o agitador”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Ligue o agitador magnético clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Mova  o  frasco  de  fenolftaleína  clicando  com  o  botão  direito  do  mouse  no  frasco e 
+selecione a opção “Mover para o Erlenmeyer”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Adicione 3 gotas de fenolftaleína clicando com o botão esquerdo do mouse no conta-
+gotas. Observe o resultado. 
+ 
+ 
+ 
+Mova o frasco de fenolftaleína clicando com o botão direito do mouse no conta-gotas e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Despeje 50 mL da solução de ácido sulfúrico clicando com o botão esquerdo do mouse 
+no frasco do ácido sulfúrico. 
+ 
+ 
+ 
+Despeje o ácido sulfúrico clicando com o botão esquerdo do mouse no béquer. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Abra  a  torneira  clicando  com  o  botão  esquerdo  do  mouse  na torneira. Repita  o 
+procedimento até a mudança de cor da solução. 
+ 
+ 
+ 
+Desligue  o  agitador  magnético  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova  o Erlenmeyer 1  clicando  com  o  botão  direito  do  mouse  no Erlenmeyer 1  e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Mensure  50  mL  da  amostra  de  água  2  clicando  com  o  botão  esquerdo  do  mouse  no 
+béquer com a amostra 2. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Despeje o conteúdo clicando com o botão esquerdo do mouse na proveta. 
+ 
+ 
+ 
+Coloque a barra magnética clicando com o botão esquerdo do mouse na barra. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova  o Erlenmeyer 2  clicando  com  o  botão  direito  do  mouse  no Erlenmeyer 2 e 
+selecione a opção “Mover para o agitador”. 
+ 
+ 
+ 
+Ligue o agitador magnético clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Despeje 50 mL da solução de ácido sulfúrico clicando com o botão esquerdo do mouse 
+no frasco do ácido sulfúrico. 
+ 
+ 
+ 
+Despeje o ácido sulfúrico clicando com o botão esquerdo do mouse no béquer. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Abra  a  torneira  clicando  com  o  botão esquerdo  do  mouse  na  torneira.  Repita  o 
+procedimento até a mudança de cor da solução. 
+ 
+ 
+ 
+Desligue  o  agitador  magnético  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+Mova  o Erlenmeyer 2  clicando  com  o  botão  direito  do  mouse  no Erlenmeyer 2  e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Mova o eletrodo clicando com o botão direito do mouse no eletrodo e selecione a opção 
+“Mover para Erlenmeyer”. Observe o pH da solução titulada. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA AMBIENTAL 
+DETERMINAÇÃO DA ALCALINIDADE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

@@ -1,0 +1,263 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá realizar  o  teste  do  ELISA para  determinação  de 
+anticorpos anti-antígeno da Hepatite B.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Adhesive film; 
+• Béquer (500 ml); 
+• Conjugado; 
+• Controle negativo; 
+• Controle positivo; 
+• Cubeta; 
+• Espectrofotômetro; 
+• Estufa bacteriológica; 
+• Micropipeta de 1000 μl; 
+• Micropipeta de 50 μl; 
+• Microplaca de 96 poços; 
+• Papel toalha; 
+• Pisseta com álcool 70%; 
+• Pisseta de hipoclorito de sódio; 
+• Ponteira para micropipeta de 1000 μl; 
+• Ponteira para micropipeta de 50 μl; 
+• Solução stop; 
+• Solução-tampão lavagem; 
+• Substrato cromógeno – solução A; 
+•  Substrato cromógeno – solução B; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+• Suporte para tubo de coleta; 
+• Tubo de coleta com amostra de soro; 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia e coloque   os   equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. Higienize a bancada.  
+ 
+2. ADICIONANDO OS SOROS NA PLACA  
+ 
+Abra  os  soros  de  controle  positivo  e  negativo.  Aspire  o  controle  positivo  com  a 
+micropipeta  de  50  μl e  transfira  o  soro  para  o  poço  A2.  Repita  o  mesmo  processo, 
+transferindo para o poço A3 e descarte a ponteira. Pipete o soro de controle negativo 
+nos poços A4, A5 e A6 e descarte a ponteira. Pipete a mostra de soro no poço A7 e 
+descante a ponteira. Ajuste o volume da micropipeta multicanal para 50 μl e aspire o 
+conjugado.  Adicione  o  conjugado  nos  poços  A2  até  o  A7. Homogeneíze  a  placa 
+agitando levemente por 30 segundos. 
+ 
+3. INCUBANDO E LAVANDO A PLACA 
+ 
+Adicione o adhesive film a placa. Leve a placa para a estufa e incube por 30 minutos. 
+Remova placa da  estufa e descarte  o  adhesive film. Ajuste  o  volume  da pipeta para 
+350 μl. Pipete o conteúdo da placa dos poços A2 ao A7. Coloque o frasco contendo 
+solução-tampão na cubeta. Pipete 350 μl da solução-tampão de lavagem do poço A1 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+  
+ao A7. Aguarde 30 segundos e leve a placa a pia para esvaziá-la. Coloque papel filtro 
+na placa e bata 5 vezes na bancada. Descarte o papel filtro.  
+ 
+4. ADICIONANDO SOLUÇÕES REVELADORAS 
+ 
+Abra os frascos das soluções A e B e despeje nas cubetas. Ajuste o volume da pipeta 
+para 50 μl e aspire a solução A. Transfira a solução A para os poços A1 ao A7. Aspire a 
+solução Stop e transfira para os poços A1 ao A7. Adicione 50 μl de solução B nos poços 
+A1  ao  A7. Homogeneíze  a  placa  agitando levemente  por  30  segundos.  Adicione  o 
+adhesive film e leve para a estufa durante 15 minutos. 
+ 
+5. BLOQUEANDO A REAÇÃO E REALIZANDO A LEITURA DO TESTE 
+ 
+Abra o frasco contendo solução Stop e despeje em sua cubeta. Aspire a solução Stop 
+e transfira para os poços A1 ao A7. Ligue o espectrofotômetro, leve a placa até ele e 
+feche  o aparelho.  Ligue o  notebook e  realize  a  leitura  das  amostras,  observando  os 
+resultados na tela do notebook.  
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento associando, também 
+com os conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA  
+ ELISA HBSAG  
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que pode acontecer de errado durante a execução do ELISA? 
+ 
+ 
+ 
+2. Por que se utiliza o ELISA para a detecção de doenças como a Hepatite B?  
+ 
+ 
+ 
+ 

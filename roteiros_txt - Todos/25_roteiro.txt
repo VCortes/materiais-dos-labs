@@ -1,0 +1,705 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento você irá explorar o fenômeno da difração da luz através de 
+uma dupla fenda. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Laser; 
+• anteparo; 
+• obstáculo com fenda; 
+• transferidor. 
+ 
+PROCEDIMENTOS 
+ 
+1. LIGANDO O LASER 
+ 
+Ligue o laser e selecione a emissão de luz vermelha para o experimento. 
+ 
+2. AJUSTANDO O TAMANHO DA FENDA 
+ 
+Defina o tamanho da fenda para “fio de cabelo”. 
+ 
+3. ALTERANDO A DISTÂNCIA DA FENDA 
+ 
+Posicione a fenda à uma distância de 300 mm do anteparo. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+4. VERIFICANDO A DISTÂNCIA ENTRE AS FRANJAS 
+ 
+Realize a medição das distâncias entre as franjas. 
+ 
+5. DETERMINANDO O TAMANHO DE ONDA DA LUZ VERMELHA 
+ 
+Utilizando os dados obtidos, determine o tamanho de onda para a luz vermelha. 
+ 
+6. DETERMINANDO O TAMANHO DE ONDA DE OUTRAS CORES 
+ 
+Repita os passos anteriores para determinar o tamanho de onda para as outras 
+cores. 
+ 
+7. MODIFICANDO O TAMANHO DA FENDA 
+ 
+Modifique o tamanho da fenda para “fenda dupla I”. 
+ 
+8. APAGANDO A LUZ 
+ 
+Apague a luz ambiente. 
+ 
+9. ALTERANDO A DISTÂNCIA DA FENDA 
+ 
+Posicione a fenda a uma distância determinada do anteparo. 
+ 
+10. VERIFICANDO A DISTÂNCIA ENTRE AS FRANJAS 
+ 
+Meça as distâncias entre as franjas, utilizando as diferentes cores do laser. 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+11. DETERMINANDO AS LARGURAS DAS FENDAS 
+ 
+Utilizando  os  dados  obtidos,  determine  a  largura  da “fenda  dupla  I”.  Repita  o 
+procedimento para determinar a largura da “fenda dupla II” e da “fenda dupla 
+III”. 
+ 
+12. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Qual a espessura do fio de cabelo? 
+ 
+2. Foi  possível  observar  o  fenômeno  da  difração?  Como  se poderia  explicar  o 
+surgimento e o posicionamento das franjas? 
+ 
+3. O tamanho de onda encontrado para cada uma das cores está condizente com o 
+esperado pela teoria? 
+ 
+4. Houve variação na largura da fenda encontrada ao se variar a cor do laser? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+TUTORIAL VIRTUALAB 
+ 
+1. LIGANDO O LASER 
+ 
+Para ligar o laser, clique com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Observe que surge o feixe de luz polarizado. 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+Você pode alterar a cor do feixe de luz para avaliar as possíveis diferenças entre eles. 
+Para isso, clique com o botão direito do mouse sobre o laser e selecione a cor de feixe 
+desejada. 
+ 
+Inicialmente será utilizado o feixe de luz vermelha. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+2. AJUSTANDO O TAMANHO DA FENDA 
+ 
+Para  medir  as  distâncias  entre  as  fendas,  você  precisará  inicialmente  encontrar  o 
+comprimento de onda do feixe de luz incidente.  
+ 
+Então,  para  a  determinação  do  comprimento  de  onda  do  feixe  de  luz  vermelha,  você 
+posicionará a fenda na opção “Fio de cabelo”.  Para isso, clique com o botão direito do 
+mouse sobre a fenda e selecione a opção desejada. 
+ 
+ 
+ 
+Observe que a fenda se ajusta para a posição escolhida.  
+ 
+A espessura do fio de cabelo é dada na caixa de seleção. 
+ 
+Anote esse valor, você o usará no cálculo do comprimento de onda. 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+3. ALTERANDO A DISTÂNCIA DA FENDA 
+ 
+Para  conhecer  a  distância  entre  o  anteparo  e  a  fenda,  utilize  a  opção  de  câmera 
+“Anteparo”.  
+ 
+ 
+ 
+Observe as duas opções disponíveis “Dupla fenda e “Anteparo”. 
+ 
+A opção “Dupla fenda” ajusta a distância entre a fenda e o anteparo. Para isso, utilize as 
+setas verdes ao lado indicadas abaixo. 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+ 
+A opção “Anteparo” ajusta o instrumento de medição para uma melhor compreensão 
+da distância entre a fenda e o anteparo. Para ajustar o instrumento de medição, utilize 
+as setas verdes ao lado indicadas abaixo. 
+ 
+ 
+ 
+Na  determinação  do  comprimento  de  onda,  posicione  a  fenda  300  milímetros  de 
+distância do anteparo. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+4. VERIFICANDO A DISTÂNCIA ENTRE AS FRANJAS 
+ 
+Para visualizar as franjas, acesse a opção de câmera “Franjas”. 
+ 
+ 
+ 
+Observe as franjas. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+Ampliando a escala você conseguirá obter uma melhor visualização, conseguindo ver as 
+franjas  como  na  imagem  abaixo  (observe  que  cada feixe é  referente  a  uma  ordem de 
+difração, como enumerado na imagem). 
+ 
+ 
+ 
+Em  seguida,  utilize  a  escala  de  medida  para  conferir  as distâncias entre duas  franjas 
+claras consecutivas.  
+dist
+MAX (-2/-1)
+ = ______________ mm 
+dist
+MAX (-1/0)
+ = ______________ mm 
+dist
+MAX (0/1)
+ = ______________ mm 
+dist
+MAX (12)
+ = ______________ mm 
+ 
+  
+-2 -1 0 1 2 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+5. DETERMINANDO O TAMANHO DE ONDA DA LUZ VERMELHA 
+ 
+Analise os dados obtidos no experimento e realize os cálculos do ângulo θ e do 
+comprimento de onda λ referente a cada franja e anote esse valor na tabela abaixo. 
+ 
+Para o cálculo do ângulo utilize a equação:  
+ 
+θ = 퐴푟푐푡푔(
+푑푖푠푡
+MAX
+퐿
+ 
+ 
+Para o cálculo do comprimento de onda utilize a equação:  
+ 
+d.senθ = 푚.휆 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Você identificou diferentes comprimentos de onda para cada franja? Se sim, explique a 
+possível causa para esta ocorrência. 
+  
+Dados do experimento 
+Conjunto de franjas 
+dist
+MAX
+ 
+ângulo θ  Comprimento de onda λ 
+(-2) - (-1)    
+(-1) - (0)    
+(0) - (1)    
+(1) - (2)    
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+6. DETERMINANDO O TAMANHO DE ONDA DE OUTRAS CORES 
+ 
+Mude para a câmara “Bancada” e altere a cor do laser, volte para a câmara “Franja” e 
+confira as novas distâncias entre as franjas claras. Com os novos dados obtidos repita o 
+procedimento anterior. 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+7. MODIFICANDO O TAMANHO DA FENDA 
+ 
+Para alterar o tamanho das fendas clique com o botão direito do mouse sobre a fenda 
+e selecione a opção desejada. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+8. APAGANDO A LUZ 
+ 
+Para melhor visualizar o feixe de luz, recomenda-se apagar a luz do ambiente em que o 
+experimento  está  sendo  realizado.  Para  isso,  clique  com  o  botão  esquerdo  do  mouse 
+sobre a opção “Ligar/Desligar Luz” localizada ao canto superior da tela. 
+ 
+ 
+ 
+Observe que a luz se apaga, tornando melhor a visualização do laser. 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+9. ALTERANDO A DISTÂNCIA DA FENDA 
+ 
+Para   poder   visualizar  o   instrumento  de   medição,   selecione   a   opção   de   câmera 
+“Anteparo” disposta no canto superior da tela. 
+ 
+ 
+ 
+Observe que é possível visualizar a escala da régua nos dois displays. 
+ 
+ 
+ 
+Utilize  os displays  para  realizar  a  medição  da  distância. Em  seguida,  anote  o  valor  da 
+medida encontrada. 
+   L = ______________ mm 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+11. DETERMINANDO AS LARGURAS DAS FENDAS 
+ 
+Para  visualizar  as  franjas,  acesse  a  opção  de  câmera  “Franjas”,  clicando  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Observe as franjas e suas respectivas numerações. 
+ 
+ 
+ 
+-1 
+0 
+1 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+Em  seguida,  utilize  a  escala  de  medida  para  conferir  as distâncias entre duas  franjas 
+claras consecutivas.  
+ 
+dist
+MAX (-1/0)
+ = ______________ mm 
+ 
+dist
+MAX (0/1)
+ = ______________ mm 
+ 
+Mude a cor do laser e novamente observe as franjas e suas respectivas numerações. 
+ 
+ 
+ 
+Em  seguida,  utilize  a  escala  de  medida  para  conferir  as distâncias entre duas  franjas 
+claras consecutivas.  
+dist
+MAX (-1/0)
+ = ______________ mm 
+ 
+dist
+MAX (0/1)
+ = ______________ mm 
+ 
+Repita o mesmo procedimento para cada cor do laser.  
+ 
+-1 
+0 
+1 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+Analise os dados obtidos no experimento e realize os cálculos do ângulo θ e da largura 
+da fenda “d” referente a cada franja e anote esse valor na tabela abaixo. 
+ 
+Para o cálculo do ângulo utilize a equação:  
+ 
+θ = 퐴푟푐푡푔(
+푑푖푠푡
+MAX
+퐿
+) 
+ 
+Para o cálculo da largura da fenda utilize a equação:  
+ 
+d.senθ = 푚.휆 
+ 
+ 
+ 
+ 
+ 
+ 
+Calcule a distância “d” entre as fendas para cada máximo de intensidade. Em seguida, 
+determine a distância “dm” média. 
+ 
+Repita o mesmo procedimento para cada cor do laser. A largura encontrada da fenda 
+sempre foi a mesma? Justifique. 
+ 
+Repita o procedimento para determinar a largura das outras duas fendas. 
+  
+Dados do experimento 
+Conjunto de franjas 
+dist
+MAX
+ 
+ângulo θ  Largura da fenda d 
+(-1) - (0)    
+(0) - (1)    
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+DIFRAÇÃO POR FENDA DUPLA 
+ 
+  
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 

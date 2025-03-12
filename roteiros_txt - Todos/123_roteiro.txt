@@ -1,0 +1,716 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta prática, você irá determinar a resistência de aderência à tração de acordo 
+com as normas vigentes. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Furadeira com serra copo de 50 mm; 
+• Escova de aço; 
+• Epóxi – resina; 
+• Epóxi – endurecedor; 
+• Pá de madeira; 
+• Pastilhas; 
+• Aparelho de arrancamento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+PROCEDIMENTOS 
+ 
+Siga o procedimento do ensaio e preencha a Tabela 1 com os resultados obtidos. 
+ 
+1. PERFURANDO OS CORPOS DE PROVA 
+ 
+Utilize a furadeira com serra copo de 50 mm para perfurar os corpos de prova 
+1, 2 e 3. 
+ 
+2. LIMPANDO OS FUROS DOS CORPOS DE PROVA 
+ 
+Utilize  a  escova  de  aço  para  limpar  as  regiões  onde  foram  feitos  os  furos  dos 
+corpos de prova. 
+ 
+3. PREPARANDO A MISTURA EPÓXI 
+ 
+Prepare a mistura epóxi. 
+ 
+4. FIXANDO AS PASTILHAS NOS CORPOS DE PROVA 
+ 
+Aplique a mistura epóxi na pastilha 1 e fixe-a no corpo de prova 1. Repita a ação 
+deste  passo  para  as  pastilhas  2  e  3, fixando-as  em  seus  respectivos corpos  de 
+prova. Aguarde 24 horas para realizar o próximo passo. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+5. POSICIONANDO O APARELHO DE ARRANCAMENTO 
+ 
+Posicione  e  fixe  o  aparelho  de  arrancamento  no  corpo  de  prova  1.  Zere  o 
+contador de voltas e ligue o medidor de tração. 
+ 
+6. VERIFICANDO O VALOR MÁXIMO DE TRAÇÃO 
+ 
+Utilize a manivela do aparelho de arrancamento para aplicar a tração no corpo 
+de prova até que o ocorra o rompimento. Verifique e anote o valor máximo de 
+tração (exibido em kgf) aplicado no corpo de prova. Desligue o aparelho. 
+ 
+7. VERIFICANDO O CORPO DE PROVA 
+ 
+Remova  o  aparelho  de  arrancamento.  Verifique  o  corpo  de  prova  rompido  e 
+defina a forma de ruptura observada. 
+ 
+8. REPETINDO O ENSAIO PARA OS OUTROS CORPOS 
+ 
+Repita  os procedimentos  apresentados  nos  passos  de  4  a  7  para  os  corpos  de 
+prova 2 e 3. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Verifique e anote os resultados do experimento obtidos nos corpos de prova de 
+4 a 12. Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda 
+de acordo com o que foi observado nos experimentos.  
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+Corpo de Prova Local 
+Carga de 
+ruptura (kgf) 
+Carga de 
+ruptura (N) 
+Tensão Ra 
+(MPa) 
+Forma de 
+Ruptura 
+N° 
+Dm 
+(mm) 
+Área 
+(mm²) 
+Bloco Junta 
+1 50        
+2 50        
+3 50        
+4 50        
+5 50        
+6 50        
+7 50        
+8 50        
+9 50        
+10 50        
+11 50        
+12 50         
+Tabela 1 – Coleta de dados do ensaio. 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+1. Qual o objetivo do ensaio de aderência à tração? 
+ 
+ 
+ 
+2. Quais corpos de prova tiveram um resultado do ensaio de resistência de aderência 
+à tração que atendem o limite mínimo estipulado pela NBR 13749 (ABNT, 2013) para 
+uma parede externa? 
+ 
+ 
+ 
+3. Quais  foram  as  formas  de  ruptura  encontradas  durante  a  realização  do  ensaio? 
+Quais  conclusões  podem  ser  tiradas  ao  obter  resultados  com  cada  uma  dessas 
+formas? 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. PERFURANDO OS CORPOS DE PROVA 
+ 
+O laboratório virtual disponibiliza diferentes pontos para visualizar os equipamentos do 
+experimento. Na janela no canto superior esquerdo estão as opções e seus respectivos 
+atalhos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+Para  identificar  as  ações  de  um  objeto,  posicione  o  mouse  sobre  ele  e  observe  o 
+comando indicado no canto inferior direito da tela. 
+ 
+ 
+ 
+Posicione o mouse sobre a furadeira com serra copo e identifique as ações deste objeto. 
+Realize  o  comando  indicado  (clicar  com  o  botão  direito  do  mouse  sobre  o  objeto)  e 
+visualize a janela de opções. Clique com o botão esquerdo do mouse na opção “Posição 
+1”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+Observe que a furadeira irá executar o furo e voltar para a sua posição inicial. Nas opções 
+de movimentação da furadeira com serra copo, clique na opção “Posição 2”, para que a 
+furadeira  execute  o próximo  furo. Em  seguida,  utilize  a  furadeira para  fazer  o  furo  na 
+posição 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+2. LIMPANDO OS FUROS DOS CORPOS DE PROVA 
+ 
+Nas opções de movimentação da escova de aço, clique na opção “posição 1” para que a 
+escova limpe as regiões onde se fez o furo. 
+ 
+ 
+ 
+Após  a  limpeza,  a  escova  voltará  para  a  posição  inicial.  Vá  novamente  nas  opções  de 
+movimentação da escova e faça as limpezas dos outros furos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+3. PREPARANDO A MISTURA EPÓXI 
+ 
+Escolha a visualização de Equipamentos pressionando “Alt + 3”. 
+Posicione  o  mouse  sobre  a  resina  da  cola  epóxi  e  identifique  as  ações  deste  objeto. 
+Realize o comando indicado para iniciar a preparação da cola. 
+ 
+ 
+ 
+Posicione  o  mouse  sobre  o  endurecedor  da  cola  epóxi  e  identifique  as  ações  deste 
+objeto. Realize o comando indicado para continuar a preparação da cola. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+Por fim, posicione o mouse sobre a pá de madeira e identifique as ações deste objeto. 
+Realize o comando indicado e visualize a janela de opções. Clique com o botão esquerdo 
+do mouse na opção “Misturar conteúdo da base metálica” para finalizar a preparação 
+da cola. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+4. FIXANDO AS PASTILHAS NOS CORPOS DE PROVA 
+ 
+Nas opções de movimentação da pá de madeira, clique na opção “Pastilha 1”. 
+ 
+ 
+ 
+Escolha a visualização da Bancada pressionando “Alt + 1”. 
+Por  fim,  posicione  o  mouse  sobre  a  primeira  pastilha  metálica  e  identifique  as  ações 
+deste  objeto.  Realize  o  comando  indicado  para  fixar  a  primeira  pastilha  no  corpo  de 
+prova 1 (posição 1). 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+Repita  o  procedimento  apresentado  neste  passo  para  adicionar  a  cola  nas  pastilhas e 
+fixar nos corpos de prova 2 e 3. 
+Perceba que os corpos de prova de 4 a 12 foram preparados previamente utilizando o 
+mesmo procedimento realizado neste passo. 
+Após todas as pastilhas serem fixadas, será preciso aguardar 24 horas antes do próximo 
+passo. Um contador será exibido na tela indicando a passagem de tempo. 
+ 
+ 
+ 
+Aguarde até que o tempo de espera acabe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+5. POSICIONANDO O APARELHO DE ARRANCAMENTO 
+ 
+Nas opções de movimentação do aparelho de arrancamento, clique na opção “posição 
+1”. 
+ 
+ 
+ 
+Escolha a visualização do Aparelho de Arrancamento pressionando “Alt + 4”. Posicione 
+o mouse sobre o aparelho de arrancamento e identifique as ações deste objeto. Realize 
+o comando fixar pastilha com a válvula no centro do equipamento. Ligue o display digital 
+para que seja exibida a carga aplicada no corpo de prova. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+6. VERIFICANDO O VALOR MÁXIMO DE TRAÇÃO 
+ 
+Posicione  o  mouse  sobre  o  aparelho  de  arrancamento  e  identifique  as  ações  deste 
+objeto.  Realize  o  comando  rotacionar  ao  manter  o  botão  do  mouse  pressionado  na 
+manivela. 
+ 
+ 
+ 
+Você  notará  que  o  valor  do  medidor  começará  a  aumentar  até  o  corpo  de  prova  se 
+romper.  Quando  ele  se  romper,  aparecerá  uma  mensagem  na  tela. Anote  o  valor 
+apresentado no local adequado da Tabela 1. 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+7. VERIFICANDO O CORPO DE PROVA 
+ 
+Nas opções de movimentação do aparelho de arrancamento, clique na opção “chão”. 
+ 
+ 
+ 
+Escolha a visualização da Bancada pressionando “Alt + 1”. 
+Posicione o mouse sobre a pastilha metálica que rompeu e identifique as ações deste 
+objeto. Realize o comando “inspecionar”. 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+A câmera se aproximará da pastilha, se necessário é possível utilizar o scroll do mouse 
+para  ter  uma  visão  mais  próxima  ainda.  Observe  a  pastilha  e  analise  de  que  forma  o 
+corpo se rompeu. 
+Após  identificar  o  tipo  de  rompimento  do  corpo,  anote  esse  resultado  no  lugar 
+adequado da Tabela 1.  
+Utilize as funções exibidas no canto inferior direito da tela para observar os corpos de 
+prova por um ponto de vista melhor. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+8. REPETINDO O ENSAIO PARA OUTROS CORPOS 
+ 
+Escolha a visualização da Bancada pressionando “Alt + 1”. 
+Nas opções de movimentação do aparelho de arrancamento, clique na opção “posição 
+2”. 
+ 
+ 
+ 
+Repita os  passos  5,  6  e  7  para  os  outros  dois  corpos  de  prova  e  anote  os  resultados 
+encontrados nos locais adequado da Tabela 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Após terminar os ensaios com os três primeiros corpos de prova, movimente o mouse 
+sobre   os   demais   corpos   de   prova.   Você   pode   notar   que aparecerão   caixas   de 
+informações dizendo quais foram as trações em que houve o rompimento destes. Anote 
+esse valor nos locais adequados da Tabela 1 e clique em inspecionar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE ADERÊNCIA 
+Ao clicar em inspecionar, analise o corpo de prova e determine a forma com que ele se 
+rompeu, anotando este resultado na Tabela 1. 
+Escolha a visualização da Bancada pressionando “Alt + 1”. 
+Repita os procedimentos mencionados anteriormente até o corpo de prova de número 
+12, preenchendo o restante da tabela 1 de acordo com as informações contidas neste 
+roteiro. Caso considere necessário, repita o experimento e realize uma nova coleta de 
+dados. 
+ 
+ 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 
+ 
+ 

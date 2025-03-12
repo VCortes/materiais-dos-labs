@@ -1,0 +1,178 @@
+
+
+   
+ 
+INSTRUÇÕES GERAIS
+1. Neste experimento, você realizará o ensaio para determinar o espalhamento, viscosidade e
+índice de estabilidade visual de uma amostra de concreto autoadensável.
+2. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da experiência
+virtual e para respostas às perguntas frequentes a respeito do Laboratório Virtual.
+3. Caso não saiba como manipular o Laboratório Virtual, utilize o “Tutorial” presente neste
+Roteiro.
+4. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as instruções para
+realização desta prática na subseção “Procedimentos”.
+5. Ao  finalizar o  experimento, responda aos  questionamentos da  seção “Avaliação dos
+Resultados”.
+
+RECOMENDAÇÕES DE ACESSO
+DICAS DE DESEMPENHO
+Para otimizar a sua experiência no acesso aos laboratórios virtuais, siga as seguintes dicas de
+desempenho:
+Feche outros aplicativos e abas: Certifique-se de fechar quaisquer outros aplicativos ou
+abas que  possam estar consumindo  recursos do  seu  computador,  garantindo um
+desempenho mais eficiente.
+Navegador Mozilla Firefox: Recomendamos o uso do navegador   Mozilla Firefox,
+conhecido por  seu  baixo  consumo de  recursos em  comparação a  outros navegadores,
+proporcionando uma navegação mais fluida.
+Aceleração de hardware: Experimente habilitar ou desabilitar a aceleração de hardware
+no seu navegador para otimizar o desempenho durante o acesso aos laboratórios virtuais.
+Requisitos mínimos do  sistema:  Certifique-se  de  que  seu  computador atenda aos
+requisitos mínimos para acessar os laboratórios virtuais. Essa informação está disponível
+em nossa Central de Suporte.
+Monitoramento do sistema: Utilize o Gerenciador de Tarefas (Ctrl +  Shift +  Esc) para
+verificar o uso do disco, memória e CPU. Se estiverem em 100%, considere fechar outros
+aplicativos ou reiniciar a máquina para otimizar o desempenho.
+Teste de velocidade de internet: Antes de acessar, realize um teste de velocidade de
+internet para garantir uma conexão estável e rápida durante o uso dos laboratórios virtuais.
+Atualizações do navegador e sistema operacional: Mantenha seu navegador e sistema
+operacional atualizados para garantir compatibilidade e segurança durante o acesso aos
+laboratórios.
+
+PRECISA DE AJUDA?
+Em caso de dúvidas ou dificuldades técnicas, visite nossa Central de Suporte para encontrar
+artigos de ajuda e informações para usuários. Acesse a Central de Suporte através do link:
+https://suporte-virtual.algetec.com.br
+Se preferir, utilize os QR Codes abaixo para entrar em contato via WhatsApp ou ser direcionado
+para a Central de Suporte. Estamos aqui para ajudar! Conte conosco!
+                                 
+ 
+
+DESCRIÇÃO DO LABORATÓRIO
+ 
+MATERIAIS NECESSÁRIOS
+ 
+·       Água;
+·       Concreto autoadensável;
+·       Cone de Abrams;
+·       Cronômetro;
+·       Espátula;
+·       Funil;
+·       Placa de Base;
+·       Régua graduada.
+ 
+PROCEDIMENTOS
+ 
+1.     CONHECENDO O LABORATÓRIO VIRTUAL
+ 
+Para dar início a este laboratório virtual, é necessário que você conheça os principais recursos
+disponíveis.
+ 
+2.     PREPARANDO OS MATERIAIS PARA O ENSAIO
+ 
+Umedeça o molde de ensaio e a placa de base. O molde deve estar posicionado firmemente
+sobre a placa, que por sua vez deve ser posicionada em uma superfície rígida e horizontal.
+3.     PREENCHENDO O MOLDE PARA O ENSAIO
+ 
+Preencha o molde com a amostra de concreto autoadensável recém coletado. Remova o funil e
+utilize a espátula, caso necessário, para remover resíduos de concreto e rasar a superfície do
+
+cone de Abrams.
+4.     REMOVENDO O MOLDE DE ENSAIO E INICIANDO AS MEDIÇÕES
+ 
+Remova a cone de Abrams. No momento em que o cone não estiver mais em contato com a
+placa base, inicie  o  cronômetro e  pare  a  contagem no  momento que  o  concreto atingir a
+marcação de 500 mm da placa base.
+5.     MEDINDO O ESPALHAMENTO DO CONCRETO
+ 
+Utilize a régua graduada para realizar duas medidas de diâmetro do concreto na placa base.
+Encontre a média das medidas realizadas. 
+6.       AVALIANDO OS RESULTADOS
+ 
+Siga para a seção “Avaliação dos Resultados” e responda de acordo com o que foi observado
+nos experimentos, associando também com os conhecimentos aprendidos sobre o tema.
+ 
+
+ 
+AVALIAÇÃO DOS RESULTADOS
+ 
+ 
+1.     Quais foram os resultados obtidos para espalhamento, viscosidade (t500) e índice de
+estabilidade visual obtidos durante a realização do ensaio?
+ 
+ 
+ 
+2.    Em quais classes da NBR 15823-2017 os resultados obtidos se encaixam?
+3.     Quais características do concreto autoadensável podem ser obtidas com os resultados
+deste ensaio?
+ 
+
+ 
+ 
+TUTORIAL
+ 
+1.     CONHECENDO O LABORATÓRIO VIRTUAL
+Para dar início a este laboratório virtual, é necessário que você conheça os principais recursos
+disponíveis. A janela de Visualização permite selecionar entre quatro opções de câmeras pré-
+estabelecidas. Elas devem ser utilizadas para que o experimento seja monitorado de um ponto
+de  vista  adequado, além  de  permitir que  os  principais componentes  sejam visualizados da
+melhor forma possível.
+Quando o  mouse não  estiver posicionado sobre algum dos  objetos  do  laboratório virtual,
+algumas opções de movimento da câmera estarão disponíveis e seus atalhos serão exibidos no
+canto inferior direito. As setas direcionais do teclado e o botão de rolagem do mouse podem ser
+utilizados para obter uma câmera adequada para observar o experimento.
+
+Na parte superior direita da tela são disponibilizados alguns botões (em verde e branco) com
+recursos e informações do laboratório. Acesse-os clicando com o botão esquerdo do mouse.
+O botão com engrenagem é utilizado para acessar o menu de “OPÇÕES”, onde o experimento
+pode ser reiniciado. O botão com o caderno fornece um bloco de notas que pode ser utilizado
+para escrever informações obtidas durante a realização do laboratório virtual. 
+
+2.     PREPARANDO OS MATERIAIS PARA O ENSAIO
+Umedeça o molde e a placa base clicando com o botão esquerdo do mouse na pisseta.
+
+3.     PREENCHENDO O MOLDE PARA O ENSAIO
+Preencha o molde de ensaio clicando com o botão esquerdo do mouse no balde.
+Importante: Após  adicionar o  concreto no  molde,  será  exibido um  aviso  que  indica que  o
+procedimento de enchimento e retirada do molde deve ser realizado dentro de 60 segundos.
+Esta instrução é proveniente da norma e deve ser seguida no ensaio.
+ 
+
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome “Visão
+Geral” ou através do atalho do teclado “Alt+1”.
+Remova o funil clicando com o botão esquerdo do mouse nele e selecione a opção “Posicionar
+no chão”. 
+
+Remova os resíduos de concreto e nivele a camada superior do molde clicando com o botão
+esquerdo do mouse na espátula.
+
+4.       PREENCHENDO REMOVENDO O  MOLDE DE  ENSAIO E
+INICIANDO AS MEDIÇÕES
+Remova o molde clicando com o botão esquerdo do mouse nele. É fundamental que isso seja
+feito dentro do tempo de 60 segundos.
+Cronometre o tempo necessário para que o concreto atinja a marcação de 500 mm clicando com
+o  botão esquerdo  do  mouse no  botão do  cronômetro. A  contagem  deve ser  iniciada
+imediatamente após o molde deixar de ter contato com a placa base. após o molde deixar de ter
+contato com a placa base, e por fim, anote o tempo encontrado.
+
+5.     MEDINDO O ESPALHAMENTO DO CONCRETO
+Realize a medição clicando com o botão esquerdo do mouse na régua e selecione a opção
+"medição um".
+Visualize a régua clicando com o botão esquerdo do mouse na câmera com o nome “Régua” ou
+através do atalho do teclado “Alt+5”.
+]
+
+Desloque a  câmera para  visualizar  a  medida do  primeiro diâmetro utilizando os  comandos
+disponíveis nessa visualização. 
+Retorne a régua para o chão clicando com o botão direito do mouse nela e selecione a opção
+“Retornar ao chão”.
+
+Realize a medição do segundo diâmetro clicando com o botão esquerdo do mouse na régua e
+selecione a opção “medição dois”.
+O processo para obtenção dessa medida é análogo ao da medição um. Visualize a placa base
+clicando com o botão esquerdo do mouse na câmera com o nome “Placa base (vista Superior)”,
+ou através do atalho do teclado “Alt+4”.
+
+6.     AVALIANDO OS RESULTADOS
+ 
+Siga para a seção “Avaliação dos Resultados” e responda de acordo com o que foi observado
+nos experimentos, associando também com os conhecimentos aprendidos sobre o tema. 

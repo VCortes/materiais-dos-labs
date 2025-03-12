@@ -1,0 +1,590 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender a utilizar um pHmetro para determinar o 
+pH do suco de laranja. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de capacidade volumétrica de 50 mL; 
+• pHmetro; 
+• Pisseta contendo água destilada; 
+• Pisseta contendo suco de laranja; 
+• Solução Tampão pH 4.00; 
+• Solução Tampão pH 7.00. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”.  Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas e óculos de proteção. 
+ 
+2. CALIBRANDO O pHMETRO 
+ 
+Realize  a  limpeza  dos  eletrodos  utilizando  a  pisseta  contendo  água destilada  e  em  seguida, 
+esvazie  o  béquer  para  remover  os  resíduos  deixados  pela  lavagem  dos  eletrodos.  Após  a 
+limpeza,  deposite  uma  amostra  da  solução  Tampão  pH  4.0  no  béquer  de  capacidade 
+volumétrica de 50 mL. Ligue o pHmetro e inicie o procedimento de calibragem apertando o 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+  
+botão  “A”.  Perceba  que  na  tela  será  exibida  a  instrução  para  que  o  eletrodo  seja  inserido  na 
+solução tampão pH 4.00. Mova os eletrodos para a vidraria e pressione o botão “C” do pHmetro 
+para prosseguir com a calibração. Após o processo, deposite uma amostra da solução Tampão 
+pH  7.00  no  béquer,  seguindo  os  procedimentos  de  limpeza  necessários.  Mova  os  eletrodos 
+para  a  vidraria  e  continue  a  calibração  pressionando  o  botão  “C”  do  pHmetro.  Com  a 
+calibração concluída, realize a limpeza do béquer e eletrodo. 
+ 
+3. MEDINDO O pH DO SUCO DE LARANJA 
+ 
+O  suco  de  laranja está  armazenado na  pisseta.  Com o pHmetro  calibrado,  é possível  utilizar 
+este equipamento para encontra o pH do suco. Despeje o conteúdo da pisseta sobre o béquer, 
+posicione  os  eletrodos  na  vidraria  e  pressione  o  botão  “C”  do  pHmetro  para  iniciar  o 
+procedimento   de   medição   do   pH   do   suco   de   laranja. Importante: O   pHmetro   leva 
+aproximadamente  90  segundos  para  estabilizar  a  medida.  Depois  de  estabilizar, os  valores 
+exibidos no display terão pequenas variações. Anote 3 valores de pH exibidos no display do 
+pHmetro. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+AVALIAÇÃO DE RESULTADOS 
+ 
+ 
+ 
+1. Realize  a  medida  três  vezes  consecutivas  e  anote  os  resultados.  Após  essas  3 
+aferições, faça a média do pH conforme a Equação 1:  
+ 
+ 
+푝퐻=
+푝퐻퐴
+1
++푝퐻퐴
+2
++푝퐻퐴
+3
+3
+ 
+(1) 
+ 
+Onde, 
+푝퐻퐴
+1
+ é a primeira medição do pH da amostra (suco de laranja);  
+푝퐻퐴
+2
+ é a segunda medição do pH da amostra (suco de laranja);  
+푝퐻퐴
+3
+ é a terceira medição do pH da amostra (suco de laranja). 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”, localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas e 
+óculos de proteção. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize o eletrodo clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tampo” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+2. CALIBRANDO O pHMETRO 
+ 
+Realize  a  limpeza dos  eletrodos clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+pHmetro e digite através do teclado da sua máquina “R”. 
+ 
+ 
+ 
+Esvazie  o béquer posicionando  o  cursor do  mouse sobre  o  béquer  e digite  através do 
+teclado da sua máquina “W”. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Mova  a  garrafa  de  solução clicando  com  o  botão  esquerdo  do  mouse  sobre a  garrafa 
+indicada e digite através do teclado da sua máquina “W”. 
+ 
+ 
+ 
+Deposite uma amostra da solução tampão pH 4.0 posicionando o cursor do mouse sobre 
+a garrafa indicada e digite através do teclado da sua máquina “Q”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Mova  a  garrafa  de  solução clicando  com  o  botão  esquerdo  do  mouse  sobre a  garrafa 
+indicada e digite através do teclado da sua máquina “Q”. 
+ 
+ 
+ 
+Ligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Inicie o procedimento de calibragem clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Mova  os  eletrodos  para  a vidraria clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+pHmetro e digite através do teclado da sua máquina “E”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Verifique  o  pH da solução clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Esvazie  o béquer posicionando  o  cursor do  mouse sobre  o  béquer  e digite  através do 
+teclado da sua máquina “W”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Limpe o eletrodo clicando com o botão esquerdo do mouse sobre o pHmetro e digite 
+através do teclado da sua máquina “R”. 
+ 
+ 
+ 
+Esvazie  o béquer posicionando  o  cursor do  mouse sobre  o  béquer  e digite  através do 
+teclado da sua máquina “W”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Mova  a  garrafa  de  solução clicando  com  o  botão  esquerdo  do  mouse  sobre a  garrafa 
+indicada e digite através do teclado da sua máquina “W”. 
+ 
+ 
+ 
+Deposite uma amostra da solução tampão pH 7.0 posicionando o cursor do mouse sobre 
+a garrafa indicada e digite através do teclado da sua máquina “Q”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Mova  a  garrafa  de  solução clicando  com  o  botão  esquerdo  do  mouse  sobre a  garrafa 
+indicada e digite através do teclado da sua máquina “Q”. 
+ 
+ 
+ 
+Mova  os  eletrodos  para  a  vidraria clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+pHmetro e digite através do teclado da sua máquina “E”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Verifique  o  pH  da  solução clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Realize a  limpeza do  béquer posicionando  o  cursor  do  mouse sobre o béquer  e digite 
+através do teclado da sua máquina “W”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Limpe o eletrodo clicando com o botão esquerdo do mouse sobre o pHmetro e digite 
+através do teclado da sua máquina “R”. 
+ 
+ 
+ 
+Esvazie  o béquer posicionando  o  cursor do  mouse sobre  o  béquer  e digite  através do 
+teclado da sua máquina “W”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+3. MEDINDO O pH DO SUCO DE LARANJA 
+ 
+Mova a pisseta clicando com o botão esquerdo do mouse sobre a pisseta e digite através 
+do teclado da sua máquina “W”. 
+ 
+ 
+ 
+Despeje o conteúdo posicionando o cursor do mouse sobre a pisseta e pressione através 
+do teclado da sua máquina “Q”. 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Mova a pisseta clicando com o botão esquerdo do mouse sobre a pisseta e digite através 
+do teclado da sua máquina “Q”. 
+ 
+ 
+ 
+Posicione o eletrodo clicando com o botão esquerdo do mouse sobre o pHmetro e digite 
+através do teclado da sua máquina “E”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Verifique  o  pH  da  solução clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. O  pHmetro  leva  aproximadamente  90  segundos  para  estabilizar  a  medida. 
+Depois de estabilizar, os valores exibidos no display terão pequenas variações. Anote 3 
+valores de pH exibidos no display do pHmetro. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+MEDIÇÃO DO pH DO SUCO DE LARANJA 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

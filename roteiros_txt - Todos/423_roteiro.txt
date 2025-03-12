@@ -1,0 +1,1154 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  realizar  testes  qualitativos  para  identificação  de 
+hidrocarbonetos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de capacidade volumétrica de 50 mL; 
+• Tubos de ensaio;  
+• Pipeta de Pasteur;  
+• Hexano C
+6
+H
+14
+; 
+• Cicloexeno C
+6
+H
+10
+; 
+• Tolueno C
+7
+H
+8
+; 
+• Éter Etílico (C
+2
+H
+5
+)
+2
+O; 
+• Ácido Sulfúrico H
+2
+SO
+4
+; 
+• Permanganato de potássio KMnO₄. 
+• Extrato de tomate;  
+• Pisseta contendo água destilada;  
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Prepare  a  capela  de  exaustão,  abrindo  o  vidro,  ligando  a  luz  e  o  exaustor. 
+Coloque no interior da capela os itens necessários ao experimento, localizados 
+no armário inferior.   
+ 
+3. UTILIZANDO A ÁGUA DESTILADA PARA AS ANÁLISES 
+ 
+Adicione 0,5 mL de Hexano em um tubo de ensaio e, em seguida, goteje 0,5 mL 
+de água  destilada no  mesmo  tubo. Promova a  agitação  no tubo de  ensaio, 
+observe e anote o comportamento da substância em uma tabela, semelhante a 
+tabela 1 apresentada na seção “Avaliação de Resultados” deste roteiro.  
+Realize a higienização dos béqueres e da pipeta de Pasteur e repita o processo 
+anterior substituindo o Hexano por Cicloexeno e Tolueno.  
+Anote  o comportamento  da  substância em  uma  tabela semelhante  a  tabela  1 
+apresentada na seção “Avaliação de Resultados” deste roteiro. 
+ 
+4. UTILIZANDO O ÉTER ETÍLICO PARA AS ANÁLISES 
+ 
+Adicione 0,5 mL de Hexano em um tubo de ensaio e, em seguida, goteje 0,5 mL 
+de Éter etílico no mesmo tubo. Promova a agitação no tubo de ensaio, observe 
+e anote o comportamento da substância em uma tabela semelhante a tabela 2 
+apresentada na seção “Avaliação de Resultados” deste roteiro.  
+Realize a higienização dos béqueres e da pipeta de Pasteur e repita o processo 
+anterior substituindo o Hexano por Cicloexeno e Tolueno.  
+Anote  o comportamento  da  substância em  uma  tabela semelhante  a  tabela 2 
+apresentada na seção “Avaliação de Resultados” deste roteiro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+5. PROMOVENDO A REAÇÃO DE OXIDAÇÃO COM O PERMANGANATO DE 
+POTÁSSIO 
+ 
+Em um tubo de ensaio, adicione 0,5 mL de Hexano e, em seguida, goteje 0,5 mL 
+da solução de Permanganato de Potássio.  
+Promova a  agitação no tubo de  ensaio, observe e anote o comportamento  da 
+substância em  uma  tabela semelhante  a  tabela 3 apresentada na  seção 
+“Avaliação de Resultados” deste roteiro.  
+Realize a higienização dos béqueres e da pipeta de Pasteur e repita o processo 
+anterior substituindo o Hexano por Cicloexeno, Tolueno, logo após, extrato de 
+tomate.  
+ATENÇÃO: Para  o  extrato  de  tomate,  adicione  o Permanganato  de  Potássio 
+sem promover agitação no tubo de ensaio.  
+Anote  o comportamento  da  substância em  uma  tabela semelhante  a  tabela 3 
+apresentada na seção “Avaliação de Resultados” deste roteiro. 
+ 
+6. REAÇÃO COM ÁCIDO SULFÚRICO CONCENTRADO 
+ 
+ 
+Em um tubo de ensaio, adicione 0,5 mL de Hexano e, em seguida, goteje 0,5 mL 
+da solução de Ácido Sulfúrico concentrado. Leve o tubo de ensaio até o banho 
+de   gelo. Promova a   agitação   no tubo de   ensaio, observe e anote   o 
+comportamento   da   substância em   uma   tabela semelhante   a   tabela 4 
+apresentada na seção “Avaliação de Resultados” deste roteiro.  
+Realize a higienização dos béqueres e da pipeta de Pasteur e repita o processo 
+anterior substituindo o Hexano por Cicloexeno, Tolueno, logo após, extrato de 
+tomate.  
+ATENÇÃO: Para o extrato de tomate, adicione o Ácido Sulfúrico sem promover 
+agitação no tubo de ensaio.  
+Anote  o comportamento  da  substância em  uma  tabela semelhante  a  tabela 4 
+apresentada na seção “Avaliação de Resultados” deste roteiro. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Realize a limpeza dos materiais utilizados no experimento, guarde-os no armário 
+inferior  da  capela,  desligue  a  luz  e  o  exaustor  e  feche  o  vidro da  capela  de 
+exaustão. 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Preencha as tabelas abaixo de acordo com o que foi observado no experimento: 
+ 
+a) TABELA 1 
+ 
+TUBO DE ENSAIO 1 ª ADIÇÃO 2ª ADIÇÃO 
+RESULTADO 
+OBSERVADO 
+1 Hexano Água destilada  
+2 Cicloexeno Água destilada  
+3 Tolueno Água destilada  
+ 
+ 
+b) TABELA 2 
+ 
+TUBO DE ENSAIO 1 ª ADIÇÃO 2ª ADIÇÃO 
+RESULTADO 
+OBSERVADO 
+4 Hexano Éter de petróleo  
+5 Cicloexeno Éter de petróleo  
+6 Tolueno Éter de petróleo  
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+c) TABELA 3 
+ 
+TUBO DE ENSAIO 1 ª ADIÇÃO 2 ª ADIÇÃO 
+RESULTADO 
+OBSERVADO 
+7 Hexano 
+Permanganato de 
+Potássio  
+ 
+8 Cicloexeno 
+Permanganato de 
+Potássio 
+ 
+9 Tolueno 
+Permanganato de 
+Potássio 
+ 
+10 
+Extrato de Tomate 
+Permanganato de 
+Potássio 
+ 
+ 
+ 
+d) TABELA 4 
+ 
+TUBO DE ENSAIO 1 ª ADIÇÃO 2 ª ADIÇÃO 
+RESULTADO 
+OBSERVADO 
+7 Hexano Ácido Sulfúrico   
+8 Cicloexeno Ácido Sulfúrico  
+9 Tolueno Ácido Sulfúrico  
+10 Extrato de Tomate Ácido Sulfúrico 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+2. Quais as características apresentadas por cada mistura? 
+ 
+ 
+3. Quais são as características químicas das substâncias utilizadas? 
+ 
+ 
+4. Quais as reações que ocorrem com o Ácido sulfúrico? 
+ 
+ 
+5. Por que se faz necessário o banho de gelo nas reações com o Ácido sulfúrico? 
+ 
+ 
+ 
+6. Quais reações ocorrem nos tubos com Permanganato de potássio? 
+ 
+ 
+7. Qual a importância em observar as qualidades físico-químicas dos hidrocarbonetos? 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+ 
+Visualize o armário de EPIs, acessando a câmera “Armário de EPIs”, clicando com o botão 
+esquerdo do mouse no menu superior esquerdo.  
+ 
+ 
+  
+Abra o armário de EPIs, clicando com o botão esquerdo do mouse sobre as portas.  
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Selecione os EPIs necessários para a realização do experimento, clicando com o botão 
+esquerdo do mouse sobre eles.  
+Neste experimento serão necessários jaleco, máscara, óculos e luvas. 
+ 
+ 
+ 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os EPIs  anteriormente 
+selecionados. Clicando com o botão esquerdo do mouse nos ícones, eles retornam para 
+o armário, o que pode impedir a execução do experimento. 
+Em seguida, acesse a câmera “Geral”.  
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+ 
+Abra a capela de exaustão, clicando com o botão esquerdo do mouse sobre o vidro. 
+ 
+ 
+ 
+Ligue a luz da capela e o exaustor, clicando com o botão esquerdo do mouse sobre os 
+respectivos interruptores.  
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Abra os as portas do armário inferior, clicando com o botão esquerdo do mouse sobre 
+elas.  
+ 
+ 
+ 
+Coloque os materiais necessários ao experimento no interior da capela, clicando com o 
+botão esquerdo do mouse sobre eles.  
+Em seguida, feche as portas dos armários e acesse a câmera “Interior da Capela” para 
+iniciar o experimento.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+3. UTILIZANDO A ÁGUA DESTILADA PARA AS ANÁLISES 
+ 
+ 
+Deposite uma amostra de água destilada no béquer 1, clicando com o botão esquerdo 
+do mouse sobre a pisseta.  
+ 
+ 
+ 
+Pipete 0,5  mL de água  destilada,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pipeta de Pasteur.  
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Transfira a  amostra  de água  destilada para  o  tubo  de  ensaio,  clicando  com  o  botão 
+esquerdo do mouse sobre a pipeta de Pasteur.  
+ 
+ 
+ 
+Em  seguida,  selecione  o  tubo  de  ensaio  1,  clicando  com  o  botão esquerdo do  mouse 
+sobre a opção em destaque.  
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Remova os resíduos da pipeta de Pasteur, posicionando o cursor do mouse sobre ela e 
+apertando a tecla “C” do teclado.  
+ 
+ 
+ 
+Aguarde a limpeza da pipeta de Pasteur para prosseguir com a prática.  
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Deposite uma amostra de Hexano no béquer 2, clicando com o botão direito do mouse 
+sobre o frasco. 
+ 
+ 
+ 
+Pipete 0,5 mL de Hexano, clicando com o botão esquerdo do mouse sobre a pipeta de 
+Pasteur.  
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Transfira a amostra de Hexano para o tubo de ensaio que já está com a amostra de água 
+destilada, clicando com o botão esquerdo do mouse sobre a pipeta de Pasteur.  
+ 
+ 
+ 
+Em  seguida,  selecione  o  tubo  de  ensaio  1,  clicando  com  o  botão esquerdo do  mouse 
+sobre a opção em destaque.  
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Promova a mistura no tubo de ensaio, clicando com o botão esquerdo do mouse sobre 
+os tubos.  
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  onde  a  mistura  será  realizada,  clicando  com  o  botão 
+esquerdo do mouse sobre a opção em destaque.  
+ 
+ 
+ 
+Acesse a câmera “Tubos de ensaio” e observe o comportamento da substância.  
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Utilize as setas laterais para melhor observação do tubo de ensaio escolhido.  
+ 
+ 
+ 
+Anote os resultados em uma tabela, semelhante a tabela 1 apresentada em “Avaliação 
+de Resultados”.  
+Remova  os  resíduos  da  pipeta de Pasteur,  conforme  demostrado  anteriormente, e 
+realize a limpeza dos béqueres posicionando o cursor do mouse sobre eles e apertando 
+a tecla “C” do teclado.  
+ 
+ 
+ 
+Repita este processo substituindo o Hexano por Cicloexeno e, em seguida, por Tolueno. 
+Preencha uma tabela, semelhante a tabela 1 apresentada em “Avaliação de Resultados”, 
+com os resultados observados. 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+4. UTILIZANDO O ÉTER ETÍLICO PARA AS ANÁLISES 
+ 
+ 
+Deposite  uma  amostra  de Hexano no  béquer  1,  clicando  com  o  botão  esquerdo  do 
+mouse sobre o frasco.  
+ 
+  
+ 
+Pipete 0,5 mL de Hexano, clicando com o botão esquerdo do mouse sobre a pipeta de 
+Pasteur.  
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Transfira a amostra de Hexano para o tubo de ensaio, clicando com o botão esquerdo 
+do mouse sobre a pipeta de Pasteur.  
+ 
+ 
+ 
+Em  seguida,  selecione  o  tubo  de  ensaio 4,  clicando  com  o  botão esquerdo do  mouse 
+sobre a opção em destaque.  
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Remova os resíduos da pipeta de Pasteur, posicionando o cursor do mouse sobre ela e 
+apertando a tecla “C” do teclado.  
+ 
+ 
+ 
+Aguarde a limpeza da pipeta de Pasteur para prosseguir com a prática.  
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Deposite uma  amostra  de Éter  etílico no  béquer  2,  clicando  com  o  botão  direito  do 
+mouse sobre o frasco. 
+ 
+ 
+ 
+Pipete 0,5 mL de Éter etílico, clicando com o botão esquerdo do mouse sobre a pipeta 
+de Pasteur.  
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Transfira a amostra de Éter etílico para o tubo de ensaio que que já está com a amostra 
+de Hexano, clicando com o botão esquerdo do mouse sobre a pipeta de Pasteur.  
+ 
+ 
+ 
+Em  seguida,  selecione  o  tubo  de  ensaio 4,  clicando  com  o  botão esquerdo do  mouse 
+sobre a opção em destaque.  
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Promova a mistura no tubo de ensaio, clicando com o botão esquerdo do mouse sobre 
+os tubos.  
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  onde  a  mistura  será  realizada,  clicando  com  o  botão 
+esquerdo do mouse sobre a opção em destaque.  
+ 
+ 
+ 
+Acesse a câmera “Tubos de ensaio” e observe o comportamento da substância.  
+  
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Utilize as setas laterais para melhor observação do tubo de ensaio escolhido.  
+ 
+ 
+ 
+Anote  os  resultados em  uma  tabela,  semelhante  a  tabela 2 na  seção “Avaliação  de 
+Resultados” deste roteiro.  
+Remova  os  resíduos  da  pipeta de Pasteur,  conforme  demostrado  anteriormente, e 
+realize a limpeza dos béqueres posicionando o cursor do mouse sobre eles e apertando 
+a tecla “C” do teclado.  
+ 
+ 
+ 
+Repita este processo substituindo o Hexano por Cicloexeno e, em seguida, por Tolueno. 
+Preencha  uma  tabela, semelhante  a  tabela 2 apresentada na  seção “Avaliação  de 
+Resultados” deste roteiro, com os resultados observados. 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+5. PROMOVENDO A REAÇÃO DE OXIDAÇÃO  
+COM O PERMANGANATO DE POTÁSSIO 
+ 
+Deposite uma amostra de Permanganato de potássio no béquer 1, clicando com o botão 
+esquerdo do mouse sobre o frasco.  
+ 
+ 
+ 
+Deposite uma amostra de Hexano no béquer 2, clicando com o botão direito do mouse 
+sobre o frasco.  
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Pipete  0,5  mL  do Hexano,  clicando  com  o  botão direito do  mouse  sobre  a  pipeta  de 
+Pasteur.  
+ 
+ 
+ 
+Transfira a amostra pipetada para o um tubo de ensaio vazio.  
+ 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Em seguida, selecione o tubo de ensaio que receberá a amostra.  
+ 
+ 
+ 
+ATENÇÃO: Realize a limpeza da pipeta de Pasteur para prosseguir com o experimento.  
+Pipete 0,5 mL de Permanganato de potássio, clicando com o botão esquerdo do mouse 
+sobre a pipeta de Pasteur.  
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Transfira a amostra pipetada para o tubo de ensaio que já possui a amostra de Hexano, 
+clicando com o botão direito do mouse sobre a pipeta de Pasteur.  
+ 
+ 
+ 
+Em seguida, selecione o tubo de ensaio que receberá a amostra.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Promova a mistura no tubo de ensaio, clicando com o botão esquerdo do mouse sobre 
+os tubos.  
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  onde  a  mistura  será  realizada,  clicando  com  o  botão 
+esquerdo do mouse sobre a opção em destaque.  
+ 
+ 
+ 
+Acesse a câmera “Tubos de ensaio” e observe o comportamento da substância.  
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Utilize as setas laterais para melhor observação do tubo de ensaio escolhido.  
+ 
+ 
+ 
+Repita este processo substituindo o Hexano por Cicloexeno e, em seguida, por Tolueno. 
+Anote os resultados observados em uma tabela, semelhante a tabela 3 apresentada na 
+seção “Avaliação de Resultados” deste roteiro.  
+Realize a limpeza dos béqueres e da pipeta de Pasteur para prosseguir com a prática.  
+Destampe o pote de extrato de tomate, clicando com o botão esquerdo do mouse sobre 
+ele.  
+ 
+ 
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Deposite uma amostra do extrato de tomate no vidro de relógio, clicando novamente 
+com o botão esquerdo do mouse sobre o pote.  
+ 
+ 
+ 
+Transfira a amostra de extrato de tomate para o tubo de ensaio, clicando com o botão 
+direito do mouse sobre o vidro de relógio.  
+ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Em seguida, selecione um tubo de ensaio vazio para receber a amostra.  
+Feche o pote de extrato de tomate, clicando com o botão direito do mouse sobre ele.  
+ 
+ 
+ 
+Deposite uma amostra de Permanganato de Potássio no béquer 1, clicando com o botão 
+esquerdo do mouse sobre o frasco.  
+ 
+  
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Pipete 0,5 mL do Permanganato de Potássio, clicando com o botão esquerdo do mouse 
+sobre a pipeta de Pasteur.  
+ 
+  
+ 
+Transfira a amostra pipetada para o tubo de ensaio que já possui a amostra de extrato 
+de tomate, clicando com o botão direito do mouse sobre a pipeta de Pasteur.  
+ 
+  
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Em seguida, selecione o tubo de ensaio que receberá a amostra.  
+ 
+  
+ 
+ATENÇÃO: Para o extrato de tomate, não promova a mistura no tubo de ensaio.   
+Acesse a câmera “Tubos de ensaio” e observe o comportamento da substância.  
+ 
+ 
+ 
+Preencha uma tabela, semelhante a tabela 3 na seção “Avaliação de Resultados” deste 
+roteiro.  
+Após realizar  a  higienização  dos  béqueres  de  capacidade volumétrica  de  50  mL  e  da 
+pipeta de Pasteur, prossiga com o experimento.  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+ 
+6. REAÇÃO COM ÁCIDO SULFÚRICO CONCENTRADO 
+ 
+Realize a limpeza da segunda estante de tubos, posicionando o cursor do mouse sobre 
+ela e apertando a tecla “R” do teclado.  
+ 
+ 
+ 
+Deposite uma amostra da solução de Ácido sulfúrico concentrado no béquer 1, clicando 
+com o botão esquerdo do mouse sobre o frasco. 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Em seguida, deposite uma amostra de Hexano no béquer 2, clicando com o botão direito 
+do mouse sobre o frasco. 
+ 
+ 
+ 
+Pipete uma amostra de Hexano, clicando com o botão direito do mouse sobre a pipeta 
+de Pasteur.   
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Em seguida, selecione o tubo de ensaio que receberá a amostra.  
+ 
+ 
+ 
+Realize a limpeza da pipeta de Pasteur para prosseguir com o experimento.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Pipete uma amostra da solução de Ácido sulfúrico concentrado, clicando com o botão 
+esquerdo do mouse sobre a pipeta de Pasteur.   
+ 
+ 
+ 
+Em seguida, deposite a amostra de Ácido sulfúrico no mesmo tubo de ensaio que está a 
+amostra de Hexano.   
+ 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Perceba que, nesse momento, o tubo de ensaio será levado ao banho de gelo.  
+ 
+ 
+ 
+Após o final do banho de gelo, acesse a câmera “Interior da capela” para prosseguir com 
+o experimento.  
+Promova a mistura do tubo de ensaio, clicando com o botão esquerdo do mouse sobre 
+os tubos de ensaio e selecionando o tubo que deseja misturar.  
+ 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUIMICA ORGÂNICA 
+PROPRIEDADES E REATIVIDADE DOS ALCANOS E ALCENOS 
+Observe os resultados com detalhe acessando a câmera “Tubos de ensaio”.  
+Anote  os  resultados  em  uma  tabela  semelhante  a  tabela 4 da seção “Avaliação  de 
+Desempenho” deste roteiro. 
+Realize  a limpeza  dos  béqueres  de capacidade volumétrica  de  50  mL  e  da  pipeta  de 
+Pasteur para prosseguir com o experimento.  
+Com o béquer 2 e a pipeta de Pasteur higienizados, repita os mesmos procedimentos 
+substituindo o Hexano por Cicloexeno, Tolueno e extrato de tomate.  
+ATENÇÃO: Quando utilizar o extrato não é necessário promover a misturar no tubo. 
+Realize  as  mesmas  análises e  anote uma  tabela  semelhante  a  tabela 4 da seção 
+“Avaliação de Desempenho” deste roteiro. 
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Realize a limpeza dos materiais utilizados no experimento, guarde-os no armário inferior 
+da capela, desligue a luz e o exaustor e feche o vidro da capela de exaustão. 

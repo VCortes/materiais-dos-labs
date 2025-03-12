@@ -1,0 +1,670 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá aprender como manusear a capela de exaustão, um 
+bico  de  Bunsen e  identificar  alguns  cátions  através  do  espectro de  emissão  de 
+maneira qualitativa. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acendedor; 
+• Bico de Bunsen;  
+• Borrifadores com soluções. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, máscara, luvas e óculos. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Prepare a capela de exaustão abrindo a janela, acendendo a luz interna, ligando o exaustor e 
+a válvula de gás. Feito isso, coloque as soluções necessárias ao experimento, que se encontram 
+no armário inferior, dentro da capela. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+  
+3. UTILIZANDO O BICO DE BUNSEN 
+ 
+Caso não tenha familiaridade com o bico de Bunsen, acesse a subseção “Utilizando o bico de 
+Bunsen” no “Tutorial do VirtuaLab”. Ajuste a chama e a vazão do gás para acionar o bico de 
+Bunsen, começando pela vazão mínima. Ligue com o bico com ajuda do acendedor. Acione o 
+anel  regular  e  regule  o  ar  que  passa  pelo  bico  para  controlar  a  intensidade  da  chama. 
+Identifique a chama oxidante e permaneça na redutora. 
+ 
+4. ANALISANDO AS SOLUÇÕES ATRAVÉS DAS CHAMAS 
+ 
+Escolha a solução salina que deseja utilizar e borrife sobre a chama.  
+Ao borrifar a amostra na chama do bico de Bunsen, observe atentamente a cor que ficará a 
+parte externa da chama redutora. Esta cor é característica do íon metálico contido na amostra 
+do sal analisado. 
+Repita o mesmo procedimento com todas as soluções, deixando por último a solução do sal 
+desconhecido, indicada por “???”. 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Desligue o bico de Bunsen, feche a janela da capela, desligue a luz, o exaustor, e a válvula de 
+gás.  Guarde  os  materiais  utilizados  no armário  inferior,  os  EPIs  no  armário  e  encerre  o 
+experimento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 07 e 08 deste roteiro, e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Qual a cor emitida ao utilizar o borrifador escolhido? 
+ 
+ 
+2. Após  realizar  o  experimento  com  todas  as  soluções,  analise  as  tabelas  abaixo 
+com o comprimento de onda e a frequência correspondente a cor do espectro 
+visível, bem como a tabela com o comprimento de onda que corresponde a cada 
+cátion utilizado: 
+ 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+ 
+ 
+ 
+ 
+ 
+Agora  anote  e  organize  na  tabela  abaixo  cada  solução  salina  que  foi  utilizada 
+durante o experimento. Nessa mesma tabela, anote o cátion e o ânion de cada 
+solução e a cor que foi observada.  
+Ensaio Sal Fórmula Cátion Cor 
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+ 
+ 
+3. O que ocorre quando é fornecido calor, através da chama, ao elemento químico? 
+ 
+ 
+4. Qual o cátion utilizado na amostra da solução desconhecida? Explique. 
+ 
+ 
+Cátion Comprimento de onda (nm) 
+Na+ 570 
+K+ 420 
+Li+ 700 
+Cu2+ 520 
+Ba2+ 580 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPI” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Abra o armário clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Selecione os  EPI’s  necessários  ao experimento,  clicando com  o  botão  esquerdo  do 
+mouse sobre  ele  e selecione a  opção  “Usar  este  item”.  Nesse  experimento  serão 
+utilizados jaleco, máscara, luvas e óculos. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPIs  anteriormente 
+selecionados. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize a  capela  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Abra o vidro da capela clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Visualize os armários clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”.  
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Coloque as soluções salinas sobre a mesa clicando com o botão esquerdo do mouse nos 
+borrifadores e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Coloque  o  acendedor  sobre  a  mesa  clicando  com  o  botão  esquerdo  do mouse nos 
+borrifadores e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Visualize o  painel clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Painel” ou através do atalho do teclado “Alt+4”.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Ligue a luz da capela, o exaustor e acione a saída de gás clicando com o botão esquerdo 
+do mouse sobre eles. Por segurança, a válvula de gás deve ser acionada antes do registro 
+de gás no bico, que se encontra na câmera “Capela”.  
+ 
+ 
+ 
+Visualize a  capela clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+3. UTILIZANDO O BICO DE BUNSEN 
+ 
+No bico de Bunsen existe um anel regulador de gás, que é utilizado para regular a vazão 
+do gás e um anel regulador de ar, tendo como função regular a vazão do ar que passa 
+pelo bico, resultando no controle das chamas. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+As chamas podem ser de 4 tipos, onde em 1 tem-se uma chama oxidante e em 4, uma 
+chama redutora. 
+ 
+ 
+ 
+Inicie o uso do  bico  de  Bunsen clicando com  o  botão  esquerdo  do  mouse sobre  ele  e 
+selecione a opção “Ajustar chama”.  
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Ajuste  a  vazão  do  gás  para  acionar  o  bico  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o regulador e movendo-o. Por segurança, lembre-se de começar na mínima vazão. 
+ 
+ 
+ 
+Escolha a vazão clicando com o botão esquerdo do mouse na barra e deslizando até a 
+vazão desejada.  
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Selecione o acendedor clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Selecionar para uso”. 
+ 
+ 
+ 
+Em seguida, ligue a chama com o auxílio do acendedor clicando com o botão direito do 
+mouse sobre ele e selecione a opção “Acender bico de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Retorne o acendedor para a mesa clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Acione o anel regulador de ar clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Regule  a entrada  do  comburente  (gás  oxigênio) movendo  o  cursor  exibido  no  canto 
+inferior  esquerdo  da  tela. Ajuste a  quantidade  de  combustível  e  de  comburente  até 
+alcançar  uma  chama  azul  (indica  combustão  completa,  também  chamada  de chama 
+redutora). 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+4. ANALISANDO AS SOLUÇÕES ATRAVÉS DAS CHAMAS 
+ 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Soluções” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Escolha  a  primeira  solução  salina  a  ser  utilizada,  clicando  com  o  botão  esquerdo do 
+mouse no borrifador escolhido e selecione a opção “Selecionar para uso”. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Visualize a  capela  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Borrife a solução escolhida clicando com o botão esquerdo do mouse sobre o borrifador 
+e selecione a opção “Borrifar solução”. Em seguida, coloque a solução na mesa, clicando 
+com o botão esquerdo do mouse no borrifador e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Ao  borrifar  a  amostra  na  chama  do  bico  de  Bunsen,  observe  atentamente  a  cor  que 
+ficará  a  parte  externa  da  chama redutora.  Esta  cor  é  característica  do  íon  metálico 
+contido na amostra do sal analisado. 
+ 
+ 
+ 
+Repita  o  mesmo procedimento  com todas  as  soluções, deixando  por último  a  solução 
+do sal desconhecido, indicada por “???”. 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Desligue  o  bico  de  Bunsen  clicando com  o  botão  esquerdo  do  mouse sobre  ele e 
+selecione “Ajustar chama”. Desligue o registro de gás e deslize a barra que se encontra 
+no canto inferior esquerdo da tela. Feito isso, retorne clicando com o botão esquerdo 
+do mouse na opção “Retornar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+Acesse  a  câmera  “Painel” e desligue o  gás,  a  luz  e  o  exaustor  clicando  com  o  botão 
+esquerdo do mouse sobre cada um deles. 
+ 
+ 
+ 
+Acesse a câmera “Soluções” e retorne cada uma delas para o armário, clicando com o 
+botão esquerdo do mouse sobre elas e selecione a opção “Colocar no armário”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE CHAMAS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 07  e  08 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 
+ 
+ 

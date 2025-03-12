@@ -1,0 +1,1687 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre dosagem 
+quantitativa  hematológica de  fibrinogênio. Esta  técnica  é  realizada  através  de 
+um   método   de   coagulometria que   se   baseia   na   medição   do   tempo   de 
+coagulação, com o uso do coagulômetro. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada; 
+• Béquer de 100 mL; 
+• Calibrador controle; 
+• Coagulômetro; 
+• Cubeta; 
+• Micropipeta de 1000 μL; 
+• Micropipeta de 200 μL; 
+• Papel toalha; 
+• Pisseta com álcool 70%; 
+• Pisseta com hipoclorito de sódio; 
+• Ponteira para micropipeta; 
+• Reagente de fibrinogênio; 
+• Recipiente de descarte; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Suporte para tubo de ensaio; 
+• Tampão Imidazol; 
+• Tubo de coleta com amostra de plasma; 
+• Tubo de ensaio 4 mL. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Faça  a  higienização  das  mãos  na  pia  antes  de  iniciar  o  procedimento.  Em  seguida, 
+coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. 
+Higienize a bancada com hipoclorito de sódio, em seguida, passe o álcool 70%. 
+ 
+2. PREPARANDO AS SOLUÇÕES 
+ 
+Adicione  água  destilada  no  béquer  de  100  mL.  Pipete  1000  μL  de  água  destilada  e 
+transfira  para  o  recipiente  do  calibrador.  Descarte  a  ponteira.  Homogeneíze  o 
+recipiente do calibrador com movimentos circulares. Pipete 1000 μL de água destilada 
+e transfira para o recipiente do reagente. Repita o passo anterior. Descarte a ponteira. 
+Homogeneíze  o  recipiente  do  reagente  com  movimentos  circulares.  Configure  a 
+micropipeta de 1000 μL para 100 μL. Pipete 100 μL da amostra e transfira para o tubo 
+de  ensaio  I.  Descarte  a  ponteira.  Configure  a  micropipeta  de  100  μL  para  900  μL. 
+Pipete 900 μL do tampão Imidazol e transfira para o tubo de ensaio I. Homogeneíze a 
+solução do tubo com a micropipeta. Descarte a ponteira. 
+ 
+3. PREPARANDO A CURVA DE CALIBRAÇÃO 
+ 
+Configure  a  micropipeta  de  900  μL  para  100  μL.  Pipete  100  μL  do  calibrador 
+reconstituído e transfira para o tubo de ensaio II. Repita o passo anterior, pipete 100 
+μL do calibrador reconstituído e transfira para os tubos de ensaio III e IV. Descarte a 
+ponteira.  Configure  a  micropipeta  de 100  μL  para  900  μL. Pipete  900  μL do  tampão 
+Imidazol e transfira para o tubo de ensaio II. Homogeneíze a solução do tubo com a 
+micropipeta. Descarte a ponteira. Pipete 900 μL do tampão Imidazol e transfira para 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+o tubo de ensaio III. Descarte a ponteira. Configure a micropipeta de 900 μL para 1000 
+μL.  Pipete  1000 μL  do  tampão  Imidazol  e  transfira  para  o  tubo  de  ensaio  III. 
+Homogeneíze a solução do tubo com a micropipeta. Descarte a ponteira. Pipete 1000 
+μL do tampão Imidazol e transfira para o tubo de ensaio IV. Repita o passo anterior 
+mais duas vezes. Configure a micropipeta de 1000 μL para 900 μL. Pipete 900 μL do 
+tampão Imidazol e transfira para o tubo de ensaio IV. Homogeneíze a solução do tubo 
+com a micropipeta. Descarte a ponteira. 
+ 
+4 CALIBRANDO O EQUIPAMENTO 
+ 
+Ligue o coagulômetro. Coloque o recipiente com reagente no coagulômetro e aguarde 
+5 minutos pré-aquecer. Selecione no equipamento o exame de fibrinogênio. Coloque 
+2 cubetas na área de pré-aquecimento do coagulômetro. Configure a micropipeta de 
+900  μL  para  100  μL.  Pipete  100  μL  do  tubo  de  ensaio  II  e  transfira  para  o  primeiro 
+espaço da primeira cubeta. Descarte a ponteira. Pipete 100 μL do tubo de ensaio III e 
+transfira para o segundo espaço da primeira cubeta. Descarte a ponteira. Pipete 100 
+μL  do  tubo  de  ensaio  IV  e  transfira para  o  primeiro  espaço  da  segunda  cubeta. 
+Descarte  a  ponteira.  Aguarde  6  minutos  pré-aquecer.  Mova  a  primeira  cubeta  para 
+área de teste do coagulômetro. Configure a micropipeta do coagulômetro de 200 μL 
+para 50 μL. Pipete 50 μL do reagente de fibrinogênio e transfira para o primeiro espaço 
+da primeira cubeta. Descarte a ponteira. Pipete 50 μL do reagente de fibrinogênio e 
+transfira para o segundo espaço da primeira cubeta. Descarte a ponteira. Observe o 
+resultado no visor do equipamento. Descarte a cubeta. Mova a segunda cubeta para 
+área de teste do coagulômetro. Pipete 50 μL do reagente de fibrinogênio e transfira 
+para o primeiro espaço da segunda cubeta. Descarte a ponteira. Observe o resultado 
+no   visor   do   equipamento.   Descarte   a   cubeta.   Retorne   ao   menu   principal   do 
+equipamento e na aba calibragem, selecione a opção fibrinogênio. Informe o valor de 
+concentração  do  calibrador,  disponível  no  rótulo  do  produto.  Insira  os  valores  de 
+tempo   para   cada   uma   das   diluições   testadas.   Retorne   ao   menu   principal   do 
+equipamento. 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+  
+5 REALIZANDO O TESTE 
+ 
+Selecione o exame de fibrinogênio no equipamento. Mova a cubeta para área de pré-
+aquecimento do coagulômetro. Pipete 100 μL do tubo de ensaio I e transfira para o 
+primeiro  espaço  da  primeira  cubeta.  Descarte  a  ponteira.  Aguarde  6  minutos  pré-
+aquecer. Mova a cubeta para área de teste do coagulômetro. Pipete 50 μL do reagente 
+de fibrinogênio com a micropipeta do coagulômetro e transfira para o primeiro espaço 
+da primeira cubeta. Descarte a ponteira. 
+ 
+6 REALIZANDO A LEITURA 
+ 
+Aguarde  o  cronômetro  interromper  a  contagem.  Observe  o  resultado  no  visor  do 
+equipamento. Descarte a cubeta. 
+ 
+7 AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de  acordo  com  o que  foi observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a função do fibrinogênio? 
+ 
+ 
+ 
+2. Quais  informações  do  paciente  são  importantes  ter  conhecimento  para  realizar  o 
+exame de fibrinogênio? 
+ 
+ 
+ 
+3. Quais  são  as  manifestações  clínicas  comumente encontradas  em  um  paciente  com 
+deficiência de fibrinogênio? 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, óculos 
+e luvas. 
+ 
+ 
+ 
+Feche o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Higienize  a  bancada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a almotolia  com 
+hipoclorito de sódio. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Limpe  com  o  papel  toalha  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  papel 
+toalha. 
+ 
+ 
+ 
+Higienize  a  bancada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a almotolia  com 
+álcool a 70%. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+2. PREPARANDO AS SOLUÇÕES 
+ 
+Adicione água destilada clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Abra o calibrador clicando com o botão esquerdo do mouse sobre o calibrador controle. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete água destilada clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Água destilada”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Calibrador”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte a ponteira clicando com o botão direito do mouse sobre a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Feche  o  calibrador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  calibrador 
+controle. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Homogeneíze o recipiente do calibrador clicando com o botão direito do mouse sobre o 
+calibrador. 
+ 
+ 
+ 
+Abra  o  reagente  de  fibrinogênio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+reagente de fibrinogênio. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  água  destilada  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Água destilada”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Reagente de fibrinogênio”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  água  destilada  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Água destilada”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Reagente de fibrinogênio”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Feche  o  reagente  de  fibrinogênio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+reagente. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Homogeneíze o recipiente do reagente clicando com o botão esquerdo do mouse sobre 
+o reagente e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Configure o volume para 100 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Abra a tampa do tubo de coleta clicando com o botão esquerdo do mouse sobre o tubo 
+de coleta. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete a amostra clicando com o botão direito do mouse sobre a micropipeta e selecione 
+a opção “Amostra de plasma”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 1”.  
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Configure o volume para 900 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Abra  o  tampão  imidazol clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tampão 
+imidazol. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete o tampão clicando com o botão direito do mouse sobre a micropipeta e selecione 
+a opção “Tampão”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “tubo de ensaio 1”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Homogeneíze  o  tubo  de  ensaio  1  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+3. PREPARANDO A CURVA DE CALIBRAÇÃO 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 100 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Abra o calibrador clicando com o botão esquerdo do mouse sobre o calibrador controle. 
+ 
+ 
+ 
+Pipete 100 μL do calibrador reconstituído clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Calibrador”. 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 2”. 
+ 
+ 
+ 
+Repita  o  passo  anterior,  pipete  100  μL  do  calibrador  reconstituído  e  transfira  para  os 
+tubos de ensaio 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Configure o volume para 900 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Pipete  900  μL  do  tampão imidazol clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tampão”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 2”. 
+ 
+ 
+ 
+Homogeneíze  o  tubo  de  ensaio 2 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 2”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Pipete  900  μL  do  tampão imidazol clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tampão”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 3”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 1000 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  1000  μL  do  tampão  imidazol clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tampão”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 3”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Homogeneíze  o  tubo  de  ensaio 3 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 3”. 
+ 
+ 
+ 
+Descarte  a  ponteira clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  1000  μL  do  tampão  imidazol clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tampão”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 4”. 
+ 
+ 
+ 
+Repita o passo anterior duas vezes, pipete 1000 μL do tampão imidazol e transfira para 
+o tubo de ensaio 4. 
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 900 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  900  μL  do  tampão imidazol clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tampão”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Tubo de ensaio 4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Homogeneíze  o  tubo  de  ensaio 4 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 4”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+4. CALIBRANDO O EQUIPAMENTO 
+ 
+Ligue o coagulômetro clicando com o botão esquerdo do mouse sobre o coagulômetro. 
+ 
+ 
+ 
+Mova recipiente com reagente de fibrinogênio clicando com o botão direito do mouse 
+sobre o reagente de fibrinogênio e selecione a opção “Colocar no coagulômetro”. 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Visualize o coagulômetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Coagulômetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Selecione  no  equipamento “Novo  exame”  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Escolha  o  exame  de  fibrinogênio  clicando  com  o  botão  esquerdo  no  mouse  sobre  o 
+número indicado no visor que corresponde ao exame. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Visualize as cubetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova a cubeta clicando com o botão esquerdo do mouse sobre a cubeta indicada. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Mova a cubeta clicando com o botão esquerdo do mouse sobre a cubeta indicada. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Configure o volume para 100 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Pipete  100  μL  do  tubo  de  ensaio 2 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 2”. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Cubeta”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  100  μL  do  tubo  de  ensaio  3 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 3” 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Cubeta”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Pipete  100  μL  do  tubo  de  ensaio 4 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 4”. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Cubeta”. 
+ 
+ 
+ 
+Descarte  a  ponteira clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Visualize o coagulômetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Coagulômetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Acione o cronômetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Aguarde por 6 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Mova  a  cubeta clicando  com  o  botão  direito  do  mouse  sobre  a  cubeta  indicada  e 
+selecione a opção “Colocar em área de teste”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta indicada e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 50 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Abra  a  tampa  do  reagente  de  fibrinogênio  clicando com  o  botão  esquerdo  do  mouse 
+sobre o recipiente de reagente. 
+ 
+ 
+ 
+Pipete 50 μL do reagente de fibrinogênio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Pipetar reagente”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Transferir para cubeta”. 
+ 
+ 
+ 
+Descarte  a  ponteira clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete 50 μL do reagente de fibrinogênio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Pipetar reagente”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Transferir para cubeta”. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Visualize o visor do coagulômetro clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor do Coagulômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Observe e anote o resultado do visor do equipamento. 
+ 
+ 
+ 
+Visualize o coagulômetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Coagulômetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a cubeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Descartar”. 
+ 
+ 
+ 
+Mova  a  cubeta  clicando  com  o  botão  direito  do  mouse  sobre  a  cubeta  indicada  e 
+selecione a opção “Colocar em área de teste”. 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete 50 μL do reagente de fibrinogênio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Pipetar reagente”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Transferir para cubeta”. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Visualize o visor do coagulômetro clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor do Coagulômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Observe e anote o resultado do visor do equipamento. 
+ 
+ 
+ 
+Visualize o coagulômetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Coagulômetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  cubeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Descartar”. 
+ 
+ 
+ 
+Retorne  ao menu  principal clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Abra  a  aba  de  calibragem  clicando  com  o  botão  esquerdo  do  mouse  sobre  os  botões 
+indicados. 
+ 
+ 
+ 
+Adicione  a  concentração  clicando  com  o  botão  esquerdo  do  mouse  sobre  os botões 
+indicados. 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Confirme o valor clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Selecione a  aba  seguinte  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Repita  os  procedimentos  anteriores  completando  a  tabela  com  os  segundos  de  cada 
+concentração. 
+ 
+ 
+ 
+Retorne ao menu principal do equipamento clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+5. REALIZANDO O TESTE 
+ 
+Selecione  a  aba  de  “Novo  exame”  clicando  com  o  botão  esquerdo  do  mouse sobre  o 
+botão indicado. 
+ 
+ 
+ 
+Escolha  o  exame  de  fibrinogênio  clicando  com  o  botão  esquerdo  no  mouse  sobre  o 
+número indicado no visor que corresponde ao exame. 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova a cubeta clicando com o botão esquerdo do mouse sobre a cubeta indicada. 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Pipete  100  μL  do  tubo  de  ensaio  1 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Tubo de ensaio 1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Cubeta”. 
+ 
+ 
+  
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Visualize o coagulômetro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Coagulômetro” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Acione o cronômetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Aguarde por 6 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Mova  a  cubeta  clicando  com  o  botão  direito  do  mouse  sobre  a  cubeta  indicada  e 
+selecione a opção “Colocar em área de teste”. 
+ 
+ 
+ 
+Pipete 50 μL do reagente de fibrinogênio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Pipetar reagente”. 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Transferir para cubeta”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+6. REALIZANDO A LEITURA 
+ 
+Descarte  a  cubeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Descartar”. 
+ 
+ 
+ 
+Visualize o visor do coagulômetro clicando com o botão esquerdo do mouse na câmera 
+com o nome “Visor do Coagulômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+FIBRINOGÊNIO 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09  deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 
+ 
+ 

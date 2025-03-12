@@ -1,0 +1,1563 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  entenderá  a  aplicação  da  técnica  de  fotometria  de 
+chama na identificação de sódio e potássio em uma bebida isotônica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água deionizada; 
+• Amostra de bebida isotônica; 
+• Balão volumétrico de 50 mL; 
+• Béquer de 100 mL; 
+• Béquer de 250 mL; 
+• Fotômetro de chama; 
+• Micropipeta; 
+• Solução estoque de lítio (Li+) 100 mg∙L-1; 
+• Solução estoque de potássio (K+) 100 mg∙L-1; 
+• Solução estoque de sódio (Na+) 100 mg∙L-1. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, máscara, óculos e luvas. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+2. CONFIGURANDO O FOTÔMETRO DE CHAMA 
+ 
+Abra o fornecimento de gás e ligue o fotômetro. Selecione a opção “SETAGEM”, configure a 
+unidade (mg/L), a resolução (0.1) e selecione a opção “LEITURA”. Mergulhe o capilar em água 
+destilada e aguarde a estabilização do equipamento. 
+ 
+3. PREPARANDO AS SOLUÇÕES PADRÃO 
+ 
+Deposite uma amostra de solução estoque de lítio no béquer de 100 mL com o auxílio de um 
+bastão de vidro. Ponha uma ponteira de 2,5 mL na micropipeta e, com auxílio dela, succione 
+a  solução  de  lítio  do  béquer.  Transfira  o  conteúdo  da  micropipeta  no  balão  volumétrico 
+“Solução Padrão 1”. Repita os procedimentos anteriores, transfira 2,5 mL de solução de lítio 
+para os  balões  2,  3,  4,  5, 6.  Esvazie  e  limpe  o  béquer  de  100  mL. Troque  a  ponteira  da 
+micropipeta  para  outra  de  2,5  mL.  Coloque  uma  amostra  de  solução  estoque  de  sódio  no 
+béquer  de  100  mL  e  succione  o  conteúdo  com  a  micropipeta.  Coloque  2,5  mL  no  balão 
+“Solução Padrão 1”, 5,0 mL no balão “Solução Padrão 2”, 7,5 mL no balão “Solução Padrão 3”, 
+10,0 mL no balão “Solução Padrão 4”, 12,5 mL no balão “Solução Padrão 5” e 15,0 mL no balão 
+“Solução Padrão 6”. Higienize e limpe o béquer. Troque a ponteira da micropipeta para uma 
+de  0,5  mL. Despeje  uma  amostra  de  solução  estoque  de  potássio  no  béquer  de  100  mL. 
+Succione o  conteúdo  do béquer com a micropipeta. Transfira 0,5 mL para o  balão  “Solução 
+Padrão 1”, 1,5 mL para o balão “Solução Padrão 2”, 2,5 mL para o balão “Solução Padrão 3”, 
+3,5 mL para o balão “Solução Padrão 4”, 4,5 mL para o balão “Solução Padrão 5” e 5,5 mL para 
+o balão “Solução Padrão 6”. Esvazie e limpe o béquer. Troque a ponteira da micropipeta para 
+uma de 1,0 mL. Complete o volume dos balões com água deionizada até a marca de aferição. 
+Homogeneíze as soluções de cada balão. 
+ 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+Solução 
+Volume 퐿푖
++
+ 
+100 mg/L (mL) 
+Volume 푁푎
++
+ 
+100 mg/L (mL) 
+Volume 퐾
++
+ 
+100 mg/L (mL) 
+Volume 
+Final 
+Concentrações Finais* (mg/L) 
+퐿푖
++
+ 푁푎
++
+ 퐾
++
+ 
+1 2,5 2,5 0,5 50,0 5,0 5,0 1,0 
+2 2,5 5,0 1,5 50,0 5,0 10,0 3,0 
+3 2,5 7,5 2,5 50,0 5,0 15,0 5,0 
+4 2,5 10,0 3,5 50,0 5,0 20,0 7,0 
+5 2,5 12,5 4,5 50,0 5,0 25,0 9,0 
+6 2,5 15,0 5,5 50,0 5,0 30,0 11,0 
+Concentração  de  cada  uma  das  espécies  químicas  após  o  preparo  das  soluções  nos  balões 
+volumétricos de 50 mL. 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Agite  a  bebida  isotônica  e  adicione  uma  amostra  dela  no  béquer  de  100  mL.  Succione  o 
+conteúdo do béquer com a micropipeta e coloque 1,0 mL no balão volumétrico “Amostra 1”. 
+Repita  o  procedimento anterior,  despeje 1,0  mL de  bebida  isotônica no  balão  “Amostra  2”. 
+Mova a micropipeta para o suporte. Higienize o béquer e deposite uma amostra de solução 
+estoque de lítio no béquer. Troque a ponteira da micropipeta para uma de 2,5 mL e succione 
+a  solução de  lítio.  Coloque  2,5  mL  da  solução  de  lítio  no  balão  “Amostra  1”.  Repita  os 
+procedimentos  anteriores, troque a ponteira, succione 2,5 mL  da  solução  estoque  de  lítio e 
+transfira para o balão “Amostra 2”. Utilizando a pisseta, complete o volume dos dois balões 
+com água deionizada até a marca de aferição e homogeneíze as soluções. 
+ 
+5. REALIZANDO A LEITURA DAS SOLUÇÕES 
+ 
+Posicione o balão “Solução Padrão 1” no fotômetro de chama e ponha o capilar nele. Inicie a 
+leitura e observe as concentrações dos íons presentes nela. Retire o capilar do balão e retire 
+o balão do fotômetro. Posicione o béquer de limpeza e coloque o capilar nele. Inicie a leitura 
+e deixa a água passar pelo equipamento até que o sinal seja zerado. Retire o capilar do béquer 
+e  o  béquer  do  fotômetro.  Repita  os  passos  anteriores  para  os  balões  “Solução  Padrão  2”, 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+ 
+  
+“Solução Padrão 3”, “Solução Padrão 4”, “Solução Padrão 5”, “Solução Padrão 6”, “Amostra 1 
+e “Amostra 2”. 
+ 
+6. REALIZANDO A LIMPEZA DO FOTÔMETRO DE CHAMA 
+ 
+Posicione o béquer de limpeza no fotômetro de chama e ponha o capilar nele. Inicie a leitura 
+e deixe a água passar por 5 minutos. Retire o capilar do béquer e o béquer do fotômetro. Por 
+fim, feche a válvula de gás do fotômetro. 
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  localizada  nas  páginas  09, 10,  11  e  12 deste 
+roteiro, e responda de acordo com o que foi observado no experimento, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como funciona a técnica de identificação da concentração de íons utilizada pelo 
+fotômetro de chama? 
+ 
+ 
+ 
+2. Por   que   o   fotômetro   de   chama   é   recomendado,   principalmente,   para 
+quantificação de 푁푎
++
+, 퐾
++
+ e 퐿푖
++
+? 
+ 
+ 
+ 
+3. Qual é o propósito de um padrão interno em métodos de emissão por chama? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+4. Complete a tabela com as concentrações lidas no fotômetro. 
+ 
+Solução 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+  
+[
+푁푎
++
+]
+푙푖푑푎
+ 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+ 
+[
+퐾
++
+]
+푙푖푑푎
+ 
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ 
+[
+퐿푖
++
+]
+푙푖푑푎
+ 
+1 5,0  1,0  5,0  
+2 10,0  3,0  5,0  
+3 15,0  5,0  5,0  
+4 20,0  7,0  5,0  
+5 25,0  9,0  5,0  
+6 30,0  11,0  5,0  
+Amostra1   
+ 
+ 5,0  
+Amostra2     5,0  
+ 
+5. Com  os  dados  da  tabela  completada  na  questão  anterior,  complete  a  tabela 
+abaixo. 
+ 
+Solução 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ 
+[
+푁푎
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ 
+[
+퐾
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ 
+1     
+2     
+3     
+4     
+5     
+6     
+Amostra1     
+Amostra2     
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+6. Plote os gráficos solicitados abaixo e obtenha as funções das retas de cada um 
+deles. (Utilize um programa de planilhas para isso.) 
+ 
+a) 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ ×  
+[
+푁푎
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ 
+ 
+ 
+b) 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ × 
+[
+퐾
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ 
+ 
+ 
+ 
+0,00
+1,00
+2,00
+3,00
+4,00
+5,00
+6,00
+7,00
+0,001,002,003,004,005,006,007,00
+[Na+]teórico / [Li+]teórico 
+[Na+]lido / [Li+]lido 
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+0,000,501,001,502,002,50
+[K+]teórico / [Li+]teórico 
+[K+]lido / [Li+]lido 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+7. Com as funções das retas obtidas na questão anterior e com os valores das razões 
+[
+푁푎
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ e 
+[
+퐾
++
+]
+푙푖푑푎
+[
+퐿푖
++
+]
+푙푖푑푎
+ para  as  amostra  1  e  2,  determine  os  valores  das  razões 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ e 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ para essas amostras. 
+ 
+ 
+ 
+8. Conhecendo as razões 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ e 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ para as amostras 1 e 2 que foram 
+calculadas na questão anterior e as concentrações teóricas de 
+[
+퐿푖
++
+]
+푡푒ó푟푖푐푎
+ que 
+foram apresentadas na questão 4, calcule qual será a concentração 
+[
+푁푎
++
+]
+푡푒ó푟푖푐푎
+ 
+e a concentração 
+[
+퐾
++
+]
+푡푒ó푟푖푐푎
+. 
+ 
+ 
+ 
+9. Com  os  dados  obtidos  na  questão  anterior,  calcule  as  concentrações  reais  de 
+[
+푁푎
++
+]
+ e 
+[
+퐾
++
+]
+ considerando a diluição das amostras, para isso você pode utilizar 
+a fórmula de diluição. E descreva o que representa o valor da concentração real 
+obtida. 
+[
+푋
++
+]
+푟푒푎푙
+×푉
+푎푚표푠푡푟푎
+=
+[
+푋
++
+]
+푡푒ó푟푖푐푎
+×푉
+푏푎푙ã표 푣표푙푢푚é푡푟푖푐표
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse em cada uma de suas 
+portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, óculos 
+e luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse em cada uma de suas 
+portas. 
+ 
+ 
+ 
+Visualize o fotômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Fotômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+2. CONFIGURANDO O FOTÔMETRO DE CHAMA 
+ 
+Abra o fornecimento de gás clicando com o botão esquerdo do mouse no botão indicado 
+abaixo. 
+ 
+ 
+ 
+Ligue o fotômetro clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Selecione a opção “SETAGEM” clicando com o botão esquerdo do mouse no botão azul 
+indicado abaixo. 
+ 
+ 
+ 
+Confirme a opção escolhida clicando com o botão esquerdo do mouse no botão amarelo 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Configure a unidade “mg/L” clicando com o botão esquerdo do mouse no botão amarelo 
+indicado abaixo. 
+ 
+ 
+ 
+Ajuste a resolução para “0.1” clicando com o botão esquerdo do mouse no botão azul 
+indicado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Confirme  a  escolha  clicando  com  o  botão  esquerdo  do  mouse  no  botão  amarelo 
+indicado abaixo. 
+ 
+ 
+ 
+Selecione o modo “LEITURA” clicando com o botão esquerdo do mouse no botão azul 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Confirme a opção escolhida clicando com o botão esquerdo do mouse no botão amarelo 
+indicado abaixo. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão direito do  mouse sobre  o  béquer  e  selecione a 
+opção “Fotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Regule  o  equipamento  clicando  com  o  botão  esquerdo  do  mouse  no  botão  amarelo 
+indicado abaixo. 
+ 
+ 
+ 
+Retorne o béquer clicando com o botão direito do mouse sobre o béquer e selecione a 
+opção “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+3. PREPARANDO AS SOLUÇÕES PADRÃO 
+ 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o frasco de solução de lítio clicando com o botão direito do mouse sobre a garrafa 
+e selecione a opção “Mover para o béquer”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova  o  bastão  de  vidro  clicando  com o  botão direito do  mouse sobre  o  bastão  e 
+selecione a opção “Mover para o béquer”. 
+ 
+ 
+ 
+Despeje  uma  amostra  de  20  mL  de  solução  de  lítio  no  béquer  clicando  com  o  botão 
+esquerdo do mouse no frasco com a solução. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova o frasco com a solução clicando com o botão direito do mouse sobre o frasco e 
+selecione a opção “Devolver à mesa”. 
+ 
+ 
+ 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Devolver à bancada”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “2,5 mL de capacidade”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão direito do  mouse sobre  a  micropipeta  e 
+selecione a opção “Béquer de 100 mL”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Succione  2,5  mL  da  solução  do  béquer  clicando  com  o  botão esquerdo  do  mouse  na 
+micropipeta. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a micropipeta e selecione 
+a opção “Solução padrão 1”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje o conteúdo da micropipeta no balão clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Despejar conteúdo”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  mova  a  micropipeta  para  o  béquer  de  100  mL, 
+aspire  2,5  ml  de  solução  estoque  de  lítio  e  despeje  em  todos  os  6  balões  de  solução 
+padrão. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova  a  micropipeta  clicando  com  o  botão direito do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Devolver ao suporte”. 
+ 
+ 
+ 
+Esvazie e limpe o béquer de 100 mL clicando com o botão direito do mouse no béquer 
+e selecione a opção “Esvaziar e limpar vidraria”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Limpe  o  bastão  de  vidro  clicando  com  o  botão  direito  do  mouse sobre  o  bastão e 
+selecione a opção “Limpar vidraria”. 
+ 
+ 
+ 
+Troque  a  ponteira  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “2,5 mL de capacidade”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova o frasco com a solução de sódio clicando com o botão direito do mouse sobre o 
+frasco e selecione a opção “Mover para o béquer”. 
+ 
+ 
+ 
+Mova  o  bastão  de  vidro clicando  com  o  botão  direito  do  mouse  sobre  o  bastão  e 
+selecione a opção “Mover para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje uma amostra de solução de sódio clicando com o botão esquerdo do mouse na 
+garrafa. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova o frasco com a solução estoque de sódio para 
+a bancada, mova o bastão de vidro à bancada e mova a micropipeta para o béquer de 
+100 mL. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Succione  2,5  mL  da  solução  do  béquer  clicando  com  o  botão  esquerdo  do  mouse  na 
+micropipeta. 
+ 
+ 
+ 
+Mova a micropipeta para o balão de solução padrão 1 clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Solução padrão 1”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje o conteúdo da micropipeta no balão de solução padrão 1 clicando com o botão 
+direito do mouse na micropipeta e selecione a opção “Despejar conteúdo”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  mova  a  micropipeta  para  o  béquer  de  100  mL, 
+aspire 2,5 ml de solução estoque de sódio e despeje em todos os 6 balões de solução 
+padrão, a fim de que, ao final desse processo, obtenha-se: 
+• Balão de solução padrão 1: 2,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 2: 5,0 mL de solução estoque de sódio; 
+• Balão de solução padrão 3: 7,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 4: 10,0 mL de solução estoque de sódio; 
+• Balão de solução padrão 5: 12,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 6: 15,0 mL de solução estoque de sódio. 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Repita  os  procedimentos  anteriores, retorne a  micropipeta  para  o  suporte, esvazie  e 
+limpe  o  béquer  de  100  mL,  troque  a  ponteira  para  0,5  mL,  limpe  o  bastão  de  vidro  e 
+mova-o para o béquer. 
+ 
+ 
+ 
+Mova  o  frasco  com  a  solução  estoque  de  potássio  clicando  com  o  botão direito do 
+mouse sobre a garrafa indicada e selecione a opção “Mover para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje a solução estoque de potássio clicando com o botão esquerdo do mouse sobre 
+o frasco. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  mova  o  frasco  da  solução  de  potássio  para  a 
+bancada, mova o bastão de vidro para a bancada e mova a micropipeta para o béquer 
+de 100 mL. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Succione   a   solução   de   potássio   clicando   com   o   botão   esquerdo   do   mouse   na 
+micropipeta. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova a micropipeta para o balão de solução padrão 
+1, despeje o seu conteúdo, mova para a micropipeta para o béquer, succione o conteúdo 
+e despeje o conteúdo nos balões de solução padrão 2, 3, 4, 5 e 6,0 a fim de que, ao final 
+desse processo, obtenha-se: 
+• Balão de solução padrão 1: 0,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 2: 1,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 3: 2,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 4: 3,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 5: 4,5 mL de solução estoque de sódio; 
+• Balão de solução padrão 6: 5,5 mL de solução estoque de sódio.  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Repita os procedimentos anteriores, mova a micropipeta para o suporte, limpe o bastão 
+de vidro, esvazie e limpe o béquer de 100 mL. Depois, troque a ponteira para 1,0 mL de 
+capacidade. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Soluções padrão 1”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje a água destilada clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+Complete o volume de solução no balão com a água deionizada até a marcação indicada 
+na imagem abaixo. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Repita os procedimentos anteriores, preencha todos os seis balões de solução padrão 
+até a marcação. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e selecione a 
+opção “Devolver à bancada”. 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Homogeneíze o balão com a solução padrão 1 clicando com o botão direito do mouse 
+sobre o balão e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Repita o procedimento anterior, homogeneíze todos os 6 balões de solução padrão. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Agite  a  garrafa  de  bebida  isotônica  clicando  com  o  botão direito do  mouse sobre  a 
+garrafa e selecione a opção “Agitar garrafa”. 
+ 
+ 
+ 
+Mova a  garrafa  de  bebida  isotônica  clicando  com  o  botão  direito  do  mouse  nela  e 
+selecione a opção “Mover para o béquer”. 
+ 
+ 
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Despeje a bebida isotônica clicando com o botão esquerdo do mouse na garrafa. 
+ 
+ 
+ 
+Mova  a  garrafa  clicando  com  o  botão  direito  do  mouse  nela  e selecione a  opção 
+“Devolver à mesa”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Repita  os  procedimentos  anteriores,  retorne  o  bastão  de  vidro  à  bancada  e  mova  a 
+micropipeta para o béquer de 100 mL. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta. 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Amostra 1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  da  micropipeta  no  balão  clicando  com  o  botão  direito  do  mouse 
+nela e selecione a opção “Despejar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Repita os procedimentos anteriores, mova micropipeta para o béquer, aspire 1,0 mL da 
+bebida isotônica e despeje no balão “Amostra 2”.  
+Esvazie e limpe o béquer e o bastão de vidro. Retorne a micropipeta para o suporte e 
+troque a ponteira para uma de 2,5 mL de capacidade.  
+Coloque uma amostra de solução estoque de lítio como feito anteriormente na seção 3 
+deste  tutorial. Em  seguida,  coloque 2,5  mL de  solução de  lítio no  balão de  amostra  1, 
+troque a ponteira da micropipeta para uma 2,5 mL, coloque 2,5 mL da solução estoque 
+de lítio no balão de amostra 2.  
+Por fim, retorne a micropipeta para o suporte e esvazie e limpe o béquer de 100 mL e o 
+bastão como feito na seção 3 deste tutorial. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova a pisseta para o balão de amostra 1 clicando com o botão direito do mouse sobre 
+a pisseta e selecione a opção “Amostra 1”. 
+ 
+ 
+ 
+Despeje  a  água  deionizada  no  balão  de  amostra  1 clicando  com  o  botão  esquerdo  do 
+mouse na pipeta. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Preencha o balão até a marca indicada abaixo. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova a pisseta para o balão de amostra 2 e despeje 
+a água deionizada no balão de amostra 2. Retorne a pisseta para a bancada. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Homogeneíze o balão de amostra 1 clicando com o botão direito do mouse sobre o balão 
+volumétrico e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Repita o procedimento anterior, homogeneíze o balão de amostra 2. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+5. REALIZANDO A LEITURA DAS SOLUÇÕES 
+ 
+Posicione  o  balão  de  solução  padrão  1  no  capilar  do  fotômetro  clicando  com  o  botão 
+direito do mouse no balão e selecione a opção “Fotômetro”. 
+ 
+ 
+ 
+Visualize o fotômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Fotômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Coloque o equipamento no modo de leitura clicando com o botão esquerdo do mouse 
+no botão amarelo indicado abaixo. 
+ 
+ 
+ 
+Confirme o modo “Leitura” clicando com o botão esquerdo do mouse no botão amarelo 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Inicie  a  leitura  clicando  com  o  botão  esquerdo  do  mouse  no  botão  amarelo  do 
+fotômetro. 
+ 
+ 
+ 
+Anote os valores lidos pelo aparelho na tabela 2 da seção “Avaliação dos Resultados” na 
+página 09 deste roteiro. 
+Retorne o  balão  de  solução  padrão  1  clicando  com  o  botão  direito  do  mouse  nele  e 
+selecione a opção “Bancada”. 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Mova  o  béquer  de  limpeza  clicando  com  o  botão direito do  mouse sobre  o  béquer  e 
+selecione a opção “Fotômetro”. 
+ 
+ 
+ 
+Repita  os procedimentos  anteriores,  realize  a  leitura  como  feito  nesta  seção  deste 
+tutorial. 
+Retorne  o  béquer  para  a  bancada  clicando  com  o  botão  direito  do  mouse  nele  e 
+selecione a opção “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+Visualize os outros balões clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Repita os passos anteriores para realizar a leitura da concentração de íons para os balões 
+“Solução  Padrão  2”,  “Solução  Padrão  3”,  “Solução  Padrão  4”,  “Solução  Padrão  5”, 
+“Solução Padrão 6”, “Amostra 1 e “Amostra 2”. Lembre-se de realizar a leitura no béquer 
+de limpeza entre cada leitura dos balões volumétricos. 
+Anote  os  valores  encontrados  a  cada  leitura  na  tabela  2  da  seção  “Avaliação  dos 
+Resultados” na página 10 deste roteiro. 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+6. REALIZANDO A LIMPEZA DO FOTÔMETRO DE CHAMA 
+ 
+Repita os procedimentos anteriores, realize a leitura do béquer de limpeza e retorne o 
+béquer para a bancada. Feche a válvula de gás do fotômetro de chama clicando com o 
+botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Desligue  o  fotômetro  de  chama  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado abaixo. 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE SÓDIO E POTÁSSIO EM BEBIDA ISOTÔNICA POR FOTOMETRIA DE CHAMA 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  09  e  10  deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 
+ 
+ 

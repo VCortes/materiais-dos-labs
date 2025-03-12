@@ -1,0 +1,517 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre assentamento 
+de revestimento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água; 
+• Argamassa; 
+• Botas de couro; 
+• Capacete; 
+• Colher de pedreiro; 
+• Desempenadeira; 
+• Escova; 
+• Espátula dentada; 
+• Esponja; 
+• Luvas de borracha; 
+• Martelo de borracha; 
+• Óculos de proteção; 
+• Protetor auricular; 
+• Recipiente de mistura; 
+• Trena. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+  
+PROCEDIMENTOS 
+ 
+1. INICIANDO O EXPERIMENTO 
+ 
+Leia os textos introdutórios da prática para saber mais sobre os processos que são necessários 
+realizar antes do início do experimento. 
+ 
+2. SELECIONANDO MATERIAIS E EPIS 
+ 
+Selecione todos os materiais e EPIs que são necessários para realizar o experimento. 
+ 
+3. ESCOLHENDO O REVESTIMENTO 
+ 
+Escolha o revestimento que será utilizado ao longo do laboratório. Verifique as cerâmicas que 
+foram escolhidas e faça as devidas medições e marcações nas paredes. Limpe o revestimento 
+fazendo a escovação antes de assentá-lo. 
+ 
+4. APLICANDO A ARGAMASSA 
+ 
+Faça a mistura da argamassa, deixe a mistura descansar por 15 minutos e misture novamente 
+antes  de usá-la. Aplique  a  argamassa  sobre  a  parede  utilizando a  desempenadeira. Passe  a 
+espátula  dentada para  formar  cordões  e  sulcos  paralelos. Aplique  novamente  a  argamassa 
+para fazer uma dupla camada. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+  
+5. ASSENTANDO AS PEÇAS 
+ 
+Assente  os  revestimentos,  ajuste  a  placa  até  a  posição  final  e  pressione-a  com  os  dedos, 
+batendo com o martelo de borracha até amassar os cordões. 
+ 
+6. TESTANDO ADERÊNCIA 
+ 
+Retire  algum  revestimento  aleatório  de  algumas  peças  para  verificar o  quanto  a  argamassa 
+está impregnada e quanto dos cordões estão esmagados.  
+ 
+7. REALIZANDO A LIMPEZA 
+ 
+Após no máximo 1 hora do assentamento das placas remova a argamassa existentes nas juntas 
+de assentamento, preparando-as para o rejunte. Limpe a superfície das placas com a esponja 
+limpa e úmida para remover resíduos de argamassa sobre as placas. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  principais  ferramentas  são  utilizadas  para  realizar  o  assentamento  de 
+revestimentos? 
+ 
+ 
+ 
+2. Quais principais passos para realizar o assentamento de revestimentos? 
+ 
+ 
+ 
+3. Quais cuidados devem ser tomados ao assentar revestimento em áreas úmidas? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. INICIANDO O EXPERIMENTO 
+ 
+Leia os textos introdutórios e inicie a prática clicando com o botão esquerdo do mouse 
+sobre “OK”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+2. SELECIONANDO MATERIAIS E EPIS 
+ 
+Selecione os materiais e EPIs clicando com o botão esquerdo do mouse sobre eles. Nesse 
+experimento,  serão  necessários trena,  espátula  dentada,  desempenadeira,  colher  de 
+pedreiro,  martelo  de  borracha,  recipiente  para  mistura,  esponja,  botas  de  couro, 
+capacete, luvas de borracha, óculos de proteção e protetor auricular. 
+ 
+ 
+ 
+Confirme suas escolhas clicando com o botão esquerdo do mouse sobre “Confirmar”. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+3. ESCOLHENDO O REVESTIMENTO 
+ 
+Escolha  o  revestimento  a  ser  utilizado  na  prática  clicando com  o  botão esquerdo  do 
+mouse sobre uma das opções. 
+ 
+ 
+ 
+Em  seguida,  confirme  sua  escolha clicando  com  o  botão esquerdo  do  mouse sobre 
+“Confirmar”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+Verifique as cerâmicas escolhidas. Coloque algumas cerâmicas no chão clicando com o 
+botão direito do mouse sobre elas e selecione a opção “Posicionar azulejos”. 
+ 
+ 
+ 
+Faça as devidas medições clicando com o botão esquerdo do mouse sobre a trena. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+Retire  o  engobo  do  revestimento  clicando com  o  botão  esquerdo  do  mouse sobre  a 
+escova. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+4. APLICANDO A ARGAMASSA 
+ 
+Despeje a argamassa no recipiente clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Adicione  água  ao recipiente  clicando  com  o botão  esquerdo  do  mouse sobre o  balde 
+com água. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+Misture  a  argamassa clicando com  o  botão  esquerdo  do  mouse sobre  a colher  de 
+pedreiro e deixe repousar por 15 minutos. 
+ 
+ 
+ 
+Misture novamente a massa clicando com o botão esquerdo do mouse sobre a colher 
+de pedreiro. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+Aplique  a  argamasse  sobre  a  parede usando  a  desempenadeira  clicando  com  o botão 
+esquerdo do mouse sobre a desempenadeira. 
+ 
+ 
+ 
+Forme cordões e sulcos paralelos na parede clicando com o botão esquerdo do mouse 
+sobre a espátula dentada. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+Aplique argamassa sobre o fundo da cerâmica clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Adicionar argamassa”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+5. ASSENTANDO AS PEÇAS 
+ 
+Aplique  a  peça  de  cerâmica clicando  com  o  botão  direito  do  mouse sobre  a  parede  e 
+selecione a opção “Posicionar pedra”. 
+ 
+ 
+ 
+Utilize o martelo de borracha até amassar os cordões clicando com o botão direito do 
+mouse  sobre a peça e  selecione  a  opção  “Fixar  pedra”. Repita  o  procedimento  para 
+assentar mais peças sobre a parede. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+6. TESTANDO ADERÊNCIA 
+ 
+Retira algumas peças aleatórias para realizar o teste de aderência clicando com o botão 
+direito do mouse sobre uma peça e selecione a opção “Realizar teste”. 
+ 
+ 
+ 
+Preencha toda a parede com as peças clicando com o botão direito do mouse sobre a 
+parede e selecione a opção “Preencher parede”. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+7. REALIZANDO A LIMPEZA 
+ 
+Limpe os  resíduos  da  superfície  das  placas clicando  com  o  botão  esquerdo  do  mouse 
+sobre a esponja. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DESIGN DE INTERIORES 
+MATERIAIS E REVESTIMENTOS - PRÁTICA I 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

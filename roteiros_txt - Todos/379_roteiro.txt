@@ -1,0 +1,599 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar o procedimento para verificar se os níveis 
+de dose que os trabalhadores e o público são expostos estão dentro dos limites 
+estabelecidos na norma vigente. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Equipamento convencional de raios X; 
+• Fantoma; 
+• Monitor de área. 
+ 
+PROCEDIMENTOS 
+ 
+1. PARAMETRIZANDO O PAINEL DE COMANDOS  
+ 
+Ligue o painel de comandos e configure a tensão para 80 kVp, a corrente para 
+100 mA e o tempo de exposição para 1 segundo. 
+ 
+2. MEDINDO A TAXA PARA UMA BARREIRA SECUNDÁRIA  
+ 
+Posicione o monitor de área na posição 2 (Área externa) e ligue o equipamento. 
+Prepare  o  equipamento  de  raios  X  pelo  painel  de  controle  e  realize  uma 
+exposição.  Verifique  e  anote  o  valor  do  medidor  de  área  em  modo  taxa. 
+Pressione o botão de reset do equipamento. 
+  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+3. MEDINDO A TAXA PARA AS DEMAIS BARREIRAS 
+ 
+Repita o passo 2 para as posições de 3 a 7 e anote os valores exibidos no medidor 
+de área. 
+ 
+4. AJUSTANDO O EQUIPAMENTO DE RAIOS X 
+ 
+Pressione  o  botão  do  freio  angular  e  rotacione  o  equipamento  em  direção  ao 
+Bucky  mural  de  forma  que  o  indicador  gravitacional  do  ângulo  de  incidência 
+esteja aproximadamente em 90°. Pressione o botão do freio vertical e desça o 
+equipamento  o  máximo  possível  de  forma  que  o  campo  de  radiação  esteja 
+apontado para o fantoma do próximo ao mural.  
+ 
+5. MEDINDO A TAXA PARA UMA BARREIRA PRIMÁRIA 
+ 
+Posicione o monitor de área na posição 1 (Parede atrás do Bucky Mural). Prepare 
+o  equipamento  de  raios  X  pelo  painel  de  controle  e  realize  uma  exposição. 
+Verifique e anote o valor do medidor de área em modo taxa. Pressione o botão 
+de reset do equipamento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Faça  um  croqui  da  sala  de  raios  X  e  de  suas  áreas  adjacente.  Represente  e 
+identifique: tubo de raios X, painel de controle, biombo, porta, mesa de exames 
+e bucky mural. 
+ 
+ 
+ 
+2. No  croqui  feito  anteriormente,  identifique  os  pontos  de  interesse  para  as 
+medições realizadas nesta prática. 
+ 
+ 
+ 
+3. Realize  a  conversão  dos  valores  obtidos  durante  o  experimento  para  taxa  de 
+dose externa (mSv/h). 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+4. Encontre os valores para taxa de dose externa em mSv/sem e mSv/ano. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. PARAMETRIZANDO O PAINEL DE COMANDOS 
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão esquerdo  do  mouse  na  câmera 
+com nome “Painel de comandos” localizada no painel de visualização no canto superior 
+esquerdo da tela. Se preferir, pode também utilizar o atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Ligue  o painel  de  comandos  clicando  com  o botão  esquerdo  do  mouse  sobre  o  botão 
+Liga/Desliga. 
+ 
+ 
+ 
+Ajuste  o  tempo  de  exposição  para  1  segundo  mantendo  o  botão  esquerdo  do  mouse 
+pressionado enquanto rotaciona o mouse ao redor do botão “Tempo”. 
+ 
+ 
+  
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Ajuste  a  corrente  para  100  mA mantendo  o  botão  esquerdo  do  mouse  pressionado 
+enquanto rotaciona o mouse ao redor do botão “mA”. 
+ 
+ 
+ 
+Ajuste  a  tensão  para  80  kVp  mantendo  o  botão  esquerdo  do  mouse  pressionado 
+enquanto rotaciona o mouse ao redor do botão “KV”. 
+ 
+ 
+  
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+2. MEDINDO A TAXA PARA UMA BARREIRA SECUNDÁRIA 
+ 
+Visualize o monitor de área clicando com o botão esquerdo do mouse na câmera com o 
+nome “Monitor de área” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Reposicione   o   monitor   de   área   clicando   com   o   botão   esquerdo   do   mouse   no 
+equipamento. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Escolha  a posição  2  (Área  externa)  para  o  monitor  de  área  clicando  com  o  botão 
+esquerdo do mouse no número 2. 
+ 
+ 
+ 
+Ligue o equipamento clicando com o botão esquerdo do mouse no botão de liga/desliga. 
+ 
+  
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Visualize o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Prepare o painel de comandos para realizar a exposição clicando com o botão esquerdo 
+do mouse no botão PREPARAR. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Realize uma exposição clicando com o botão esquerdo do mouse no botão EXPOSIÇÃO. 
+ 
+ 
+ 
+Anote  o  valor  exibido  na  tela  do  monitor  de  área.  Limpe  a  leitura  do  equipamento 
+clicando com o botão esquerdo do mouse no botão RESET. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+3. MEDINDO A TAXA PARA AS DEMAIS BARREIRAS 
+ 
+Repita  o  passo  2  para  as  posições  de  3  a  7 (barreiras  secundárias) e  anote  os  valores 
+exibidos no medidor de área. 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+4. AJUSTANDO O EQUIPAMENTO DE RAIOS X 
+ 
+Visualize a estativa porta-tubo clicando com o botão esquerdo do mouse na câmera com 
+o nome “Estativa porta-tubo” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Pressione o botão do freio angular clicando com o botão esquerdo do mouse no botão 
+FREIO ANGULAR. 
+ 
+   
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Ajuste  a  posição  do  colimador  clicando  com  o  botão  esquerdo  do  mouse  no  cabo 
+manopla do equipamento. 
+ 
+ 
+ 
+Rotacione o equipamento no sentido horário clicando com o botão esquerdo do mouse 
+no botão direito de mover conjunto. Realize esta ação até que o indicador gravitacional 
+do ângulo de incidência esteja aproximadamente em 90°. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Pressione  o  botão  freio  vertical  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+FREIO VERTICAL. 
+ 
+ 
+ 
+Ajuste  a  posição  do  colimador  clicando  com  o  botão  esquerdo  do  mouse  no  cabo 
+manopla do equipamento. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Desça  o  equipamento  clicando  sucessivamente  com  o  botão  esquerdo  do  mouse  no 
+botão com uma seta para baixo na janela de mover conjunto. Realize esta ação até que 
+o campo de radiação esteja apontado para o fantoma próximo ao mural. 
+ 
+ 
+ 
+Feche a janela clicando com o botão esquerdo do mouse sobre o X. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+5. MEDINDO A TAXA PARA UMA BARREIRA PRIMÁRIA 
+ 
+Visualize o monitor de área clicando com o botão esquerdo do mouse na câmera com o 
+nome “Monitor de área” ou através do atalho do teclado “Alt+6”. 
+ 
+  
+ 
+Reposicione o monitor de área para a posição 1 (Parede atrás do bucky mural) clicando 
+com o botão esquerdo do mouse no monitor e selecionando a posição 1. 
+ 
+   
+c 
+c 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Visualize o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Prepare o equipamento para realizar uma exposição clicando com o botão esquerdo do 
+mouse no botão PREPARAR. 
+ 
+ 
+  
+c 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+Realize uma exposição clicando com o botão esquerdo do mouse no botão EXPOSIÇÃO. 
+ 
+ 
+ 
+Anote  o  valor  exibido  na  tela  do  monitor  de  área.  Limpe  a  leitura  do  equipamento 
+clicando com o botão esquerdo do mouse no botão RESET. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA  
+LEVANTAMENTO RADIOMÉTRICO 
+ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+V 3.0 - JA2_AB1_TAC1 

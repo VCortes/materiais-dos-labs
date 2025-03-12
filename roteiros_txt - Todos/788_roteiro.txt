@@ -1,0 +1,507 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a observação 
+da trajetória e incidência solar. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Disco das horas; 
+• Discos de latitude; 
+• Emissor de luz; 
+• Manípulos de travamento; 
+• Maquete; 
+• Régua de dias (meses). 
+ 
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO OS DISCOS DE LATITUDE 
+ 
+Destrave  os  manípulos  de  travamento  dos  discos  de  latitude  1  e  2.  Em  seguida, 
+movimente, variando entre 90° ao norte e 80° ao sul, a haste de um dos discos até a 
+latitude  desejada  (a  haste  do  outro  disco  moverá  simultaneamente).  Ao  final  do 
+posicionamento, trave os manípulos. 
+ 
+2. AJUSTANDO O DISCO DE HORAS 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+  
+Destrave um dos dois manípulos de travamento do disco de horas. Posicione a haste 
+do disco de horas, variando entre 6 h e 18 h. Por fim, trave o manípulo do disco. 
+ 
+3. AJUSTANDO A RÉGUA DE DIAS (MESES) 
+ 
+Posicione  o  suporte  com o  emissor  de  luz, no mês  desejado,  sobre  a régua  de  dias. 
+Observe  a  incidência  solar  sobre  a  maquete  e  defina  o  posicionamento  da  casa  em 
+relação ao sol. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  07  e  08  deste 
+roteiro, e responda de acordo com o que foi observado no experimento, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância do estudo da incidência solar em um projeto arquitetônico? 
+ 
+ 
+ 
+2. O que pode ser observado nos horários das 6 h e 18 h para uma mesma latitude 
+e um mesmo mês? 
+ 
+ 
+ 
+3. Varie o horário para uma mesma latitude e um mesmo mês. Em qual horário a 
+incidência de luz é maior? Por quê? 
+ 
+ 
+ 
+4. Varie  o  mês  para  uma  mesma  latitude  e  um  mesmo  horário.  O  que  se  pode 
+inferir? 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+5. Varie  a  latitude  para  um  mesmo  horário  e  um  mesmo  mês.  Em  qual(ais) 
+latitude(s) a incidência solar é maior? 
+ 
+ 
+ 
+6. Como é determinada a disposição dos cômodos da casa com base na incidência 
+solar? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AJUSTANDO OS DISCOS DE LATITUDE 
+ 
+Visualize  o  disco  de  latitude  1  clicando  com  o  botão  esquerdo  do mouse  na  câmera 
+“Ajuste Latitude 1” do menu “Visualização” ou utilizando o atalho “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Destrave  a  haste  do  disco  de  latitude  clicando  com  o  botão  esquerdo  do  mouse  no 
+manípulo. 
+ 
+ 
+ 
+Avance na latitude para o norte clicando com o botão esquerdo do mouse na haste. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Avance na latitude para o sul clicando com o botão direito do mouse na haste do disco. 
+ 
+ 
+ 
+Trave o manípulo clicando nele com o botão esquerdo do mouse. Todos os movimentos 
+feitos no disco de latitude 1 ocorrerão no disco de latitude 2. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+2. AJUSTANDO O DISCO DE HORAS 
+ 
+Visualize o disco de horas clicando com o botão esquerdo do mouse na câmera “Ajuste 
+Horas” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+Destrave  o  manípulo  do  disco  de  horas  clicando  com  o  botão  esquerdo  do  mouse  no 
+manípulo. A posição inicial da haste é 12 horas. Para a esquerda, os horários decrescem, 
+para a direita os horários crescem. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Movimente a haste no sentido decrescente das horas clicando com o botão esquerdo 
+do mouse nela. 
+ 
+ 
+ 
+Movimente  a  haste  no  sentido  crescente  das  horas  clicando  com  o  botão  direito  do 
+mouse nela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Trave  o  manípulo  do  disco  de  horas  clicando  com  o  botão  esquerdo  do  mouse  no 
+manípulo. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+3. AJUSTANDO A RÉGUA DE DIAS (MESES) 
+ 
+Visualize a régua de dias clicando com o botão esquerdo do mouse na câmera “Ajuste 
+Meses” do menu “Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+Avance os meses em ordem crescente clicando com o botão direito do mouse na régua 
+de dias. A posição inicial do emissor de luz na régua é no mês de janeiro. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Avance os meses em ordem decrescente clicando com o botão esquerdo do mouse na 
+régua. 
+ 
+ 
+ 
+Visualize  a  parte  sul  da  maquete  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+câmera  “Casa  Sul”  do  menu  “Visualização”  ou  utilizando  o  atalho  “Alt+6”.  Observe  o 
+posicionamento do sol sobre a maquete em relação aos pontos cardeais. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Visualize a parte sudeste da maquete clicando com o botão esquerdo do mouse sobre a 
+câmera “Vista Sudeste” do menu “Visualização” ou utilizando o atalho “Alt+7”. Observe 
+o posicionamento do sol sobre a maquete em relação aos pontos cardeais. 
+ 
+ 
+ 
+Visualize a parte superior da maquete clicando com o botão esquerdo do mouse sobre 
+a  câmera  “Vista  Superior”  do  menu  “Visualização”  ou  utilizando  o  atalho  “Alt+8”. 
+Observe o posicionamento do sol sobre a maquete em relação aos pontos cardeais. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Visualize  a  maquete  em  destaque  clicando  na  câmera  “Câmera de  Detalhe”  do  menu 
+“Visualização” ou utilizando o atalho “Alt+9”. 
+ 
+ 
+ 
+Visualize os detalhes da maquete utilizando o botão scroll do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Visualize a maquete em todos os ângulos movendo o mouse para as bordas laterais da 
+tela. 
+ 
+ 
+ 
+Visualize  os  outros  modelos  disponíveis  clicando  com  o  botão  direito  do  mouse  na 
+maquete e selecionando com o botão esquerdo do mouse na opção “Trocar modelo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+Escolha um dos modelos para a maquete clicando com o botão esquerdo do mouse em 
+uma das opções de modelo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUITETURA 
+HELIODON 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  07  e  08  deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

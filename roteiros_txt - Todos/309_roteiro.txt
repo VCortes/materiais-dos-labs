@@ -1,0 +1,885 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá  analisar  a  composição  e  as  propriedades  dos 
+triacilgliceróis. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acetona comercial; 
+• Banho-maria; 
+• Bastão de vidro; 
+• Béqueres de 50 mL; 
+• Clara do ovo; 
+• Filtro de papel; 
+• Funil; 
+• Óleo vegetal; 
+• Pipeta Pasteur; 
+• Proveta de 50 mL; 
+• Solução de hidróxido de sódio; 
+• Tubos de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. 
+Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos de proteção. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+  
+2. PREPARANDO A CAPELA 
+ 
+Prepare a capela para ser utilizada no experimento. Os materiais necessários devem 
+ser retirados dos armários, a luz interna ligada e o exaustor deve ser acionado. 
+ 
+3. EXTRAINDO LIPÍDIOS DA CLARA DO OVO 
+ 
+Mova o pote contendo a clara de ovo e transfira 10 mL da clara do ovo para a proveta. 
+Despeje a clara de ovo da proveta para o béquer de mistura. Adicione ao béquer de 
+mistura,  15  mL  de  acetona.  Com  o  bastão de  vidro,  homogeneíze  a  mistura  até 
+perceber  a  aglutinação  do  material.  Coloque  o  béquer  2  embaixo  do  funil,  mova  o 
+filtro  de  papel  para  o  filtro,  e  despeje  a  mistura  no  béquer  2.  Transfira  o  material 
+filtrado para o béquer de aquecimento. Mova o béquer de aquecimento para a chapa 
+de aquecimento com o filtrado e deixe sob aquecimento até a completa evaporação 
+da acetona. 
+ 
+4. OBSERVANDO A REAÇÃO DO EXTRAÍDO DO OVO 
+ 
+Colete  o  material  seco  do  béquer  (da  etapa  anterior),  escolha  o  tubo  de  ensaio  e 
+transfira o material seco para tubo de ensaio escolhido. Limpe o conteúdo do béquer 
+1. Mova a garrafa âmbar contendo solução de hidróxido de sódio e despeje no béquer 
+1.  Utilize a pipeta Pasteur para transferir 5 mL de solução de hidróxido de sódio para 
+o tubo  de  ensaio  contendo  o  material  seco.  Mova  o  tubo  de  ensaio  para  a  grade 
+contida  no  banho-maria  e  aqueça  o  tubo  de  ensaio  com  a  mistura  por  30  minutos 
+contados no cronômetro. Observe e anote os resultados. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+  
+5. OBSERVANDO A REAÇÃO COM O ÓLEO VEGETAL 
+ 
+Mova a garrafa âmbar contendo óleo vegetal no béquer 1. Utilize a pipeta Pasteur e 
+transfira  1  mL  do  óleo  para  outro  tubo  de  ensaio  escolhido.  Aspire  com  a  pipeta 
+Pasteur  e  transfira  5  mL  da  solução  de  hidróxido  de  sódio  para  o  tubo  de  ensaio 
+contendo  o  óleo  vegetal.  Mova  os  tubos  de  ensaio  para  a  grade  contida  no  banho-
+maria  e  aqueça  o  tubo  de  ensaio  com  a  mistura  por  30  minutos  contados  no 
+cronometro. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que foi verificado no processo de saponificação? 
+ 
+ 
+ 
+2. Como acontece o mecanismo da reação de saponificação? 
+ 
+ 
+ 
+3. Como você pode explicar o processo de solubilização dos lipídios? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e o óculos 
+de proteção. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse na janela da capela. 
+ 
+ 
+ 
+Visualize o painel de controle clicando com o botão esquerdo do mouse na câmera com 
+o nome “Painel de Controle” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Ligue o exaustor clicando com o botão esquerdo do mouse nos botões indicados. 
+ 
+ 
+ 
+Ligue a luz interna clicando com o botão esquerdo do mouse nos botões indicados. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Visualize o armário interior clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário interior” ou através do atalho do teclado “Alt+4” 
+ 
+ 
+ 
+Abra a porta do armário da capela clicando com o botão esquerdo do mouse na porta. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+ 
+Mova a pipeta Pasteur clicando com o botão esquerdo do mouse na pipeta indicada. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Repita o  procedimento  anterior, mova  os  tubos  de  ensaio e  o bastão  de  vidro  para  a 
+capela. 
+ 
+ 
+ 
+Feche  a  porta  do  armário clicando  com  o  botão  esquerdo  do  mouse sobre  a  porta 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Visualize o   menu   de câmeras clicando   com   o   botão   esquerdo   do   mouse   em 
+“Visualização”. 
+ 
+ 
+ 
+Abra  a porta  do armário  seguinte clicando  com o  botão  esquerdo do  mouse  na  porta 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova a garrafa âmbar contendo hidróxido de sódio clicando com o botão esquerdo do 
+mouse na garrafa indicada. 
+ 
+ 
+ 
+Repita o  procedimento  anterior,  mova  as garrafas âmbar  contendo  acetona e óleo 
+vegetal para a capela. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Feche  a  porta do  armário clicando  com  o  botão  esquerdo  do  mouse sobre  a  porta 
+indicada. 
+ 
+ 
+ 
+Abra a porta do armário seguinte clicando com o botão esquerdo do mouse na porta. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova o béquer clicando com o botão esquerdo mouse sobre o béquer indicado. 
+ 
+ 
+ 
+Repita o  procedimento  anterior,  mova  os  béqueres,  a  proveta,  o  papel  filtro  e  o  funil 
+para a capela. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Feche  a  porta do  armário clicando  com  o  botão  esquerdo  do  mouse sobre  a  porta 
+indicada. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Interior da Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+3. EXTRAINDO LIPÍDIOS DA CLARA DO OVO 
+ 
+Mova o pote contendo clara de ovo clicando com o botão esquerdo do mouse no gral 
+indicado. 
+ 
+ 
+ 
+Transfira a clara de ovo clicando com o botão esquerdo do mouse na proveta.  
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Transfira  a  acetona clicando  com  o  botão  direito  do  mouse  na  garrafa  de  acetona  e 
+selecione “Colocar no béquer para mistura”. 
+ 
+ 
+ 
+Homogeneíze  os  componentes  clicando  com  o  botão  direito  do  mouse  no  bastão  de 
+vidro. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova  o  béquer  1  clicando  com o botão  direito  do  mouse sobre  o  béquer  indicado e 
+selecione a opção “Colocar no filtro”. 
+ 
+ 
+ 
+Mova o filtro de papel clicando com o botão esquerdo do mouse no papel filtro. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova  o  béquer  contendo  a  mistura  clicando  com  o  botão  direito  do  mouse sobre  o 
+béquer indicado e selecione a opção “Derramar no filtro”. 
+ 
+ 
+ 
+Retire  o  béquer  1  contendo  o  filtrado  clicando  com  o  botão  esquerdo  do  mouse  no 
+béquer 1. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova  o  béquer  contendo  o  filtrado  clicando  com  o  botão direito do  mouse sobre  o 
+béquer indicado e selecione a opção “Colocar no béquer para aquecer”. 
+ 
+ 
+ 
+Mova o béquer clicando com o botão esquerdo do mouse no béquer indicado.  
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Aguarde   a   finalização do   processo   de   aquecimento   do   filtrado   até   a   completa 
+evaporação da acetona. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+4. OBSERVANDO A REAÇÃO DO EXTRAÍDO DO OVO 
+ 
+Mova o material seco clicando com o botão esquerdo do mouse no béquer indicado. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 1 clicando com o botão esquerdo do mouse no local indicado. 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova a garrafa contendo hidróxido de sódio clicando com o botão esquerdo do mouse 
+na garrafa.  
+ 
+ 
+ 
+Pipete  o hidróxido de  sódio  clicando  com  o botão  esquerdo  do mouse  sobre  a pipeta 
+Pasteur. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova a pipeta Pasteur clicando com o botão esquerdo do mouse na pipeta Pasteur. 
+ 
+ 
+ 
+Selecione o tubo de ensaio clicando com o botão esquerdo do mouse no local indicado. 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova o tubo de ensaio ao banho-maria passando o cursor do mouse sobre o suporte do 
+tubo de ensaio e pressione a letra “Q” do seu teclado. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 1 clicando com o botão esquerdo do mouse no local indicado. 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Aguarde por 31 minutos o tubo de ensaio ser aquecido em banho-maria. 
+ 
+ 
+ 
+Visualize  tubo  de  ensaio  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Tubo de ensaio - Suporte 1” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+5. OBSERVANDO A REAÇÃO COM O ÓLEO VEGETAL 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Interior da capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova a garrafa contendo óleo vegetal clicando com o botão direito do mouse sobre a 
+garrafa indicada. 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Limpe a pipeta Pasteur passando o cursor do mouse sobre a pipeta indicada e pressione 
+a letra “C” do seu teclado. 
+ 
+ 
+ 
+Pipete o óleo vegetal clicando com o botão direito do mouse na pipeta Pasteur. 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova a pipeta Pasteur para o tubo de ensaio clicando com o botão esquerdo do mouse 
+na pipeta. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 2 clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Limpe a pipeta Pasteur passando o cursor do mouse sobre a pipeta indicada e pressione 
+a letra “C” do seu teclado. 
+ 
+ 
+ 
+Pipete o hidróxido de sódio clicando com o botão esquerdo do mouse na pipeta Pasteur. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova a pipeta Pasteur clicando com o botão esquerdo do mouse na pipeta.  
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  2 clicando  com o botão  esquerdo  do  mouse  na  opção 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Mova o  tubo  de  ensaio  2  para  o  banho-maria passando  o  cursor  do  mouse  sobre  o 
+suporte do tubo de ensaio e pressione a letra “Q” do seu teclado. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 2 clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Aguarde por 31 minutos o tubo de ensaio ser aquecido em banho-maria. 
+ 
+ 
+ 
+Visualize o tubo de ensaio clicando com o botão esquerdo do mouse na câmera com o 
+nome “Tubo de Ensaio - Suporte 1” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+Observe o resultado obtido no tubo de ensaio 2. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SAPONIFICAÇÃO DE LÍPIDIOS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

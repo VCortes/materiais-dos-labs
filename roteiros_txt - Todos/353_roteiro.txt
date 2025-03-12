@@ -1,0 +1,572 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá  explorar  o  procedimento  de  geoaromaterapia, 
+tratamento com argila e óleos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Abaixador de língua; 
+• Algodão; 
+• Argila branca ou verde; 
+• Borrifador com água; 
+• Cuba de vidro ou porcelana; 
+• Emoliente; 
+• Emulsão de limpeza facial; 
+• Esfoliante; 
+• Fotoprotetor; 
+• Loção tônica dermoequilibrante; 
+• Luva descartável; 
+• Máscara; 
+• Óleo essencial de palmarosa ou laranja; 
+• Touca. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no “Armário 
+de EPI’s”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara e touca. 
+ 
+2. REALIZANDO O PROCEDIMENTO 
+ 
+Inicialmente,  chame  o  paciente e inicie  o  procedimento.  Instantaneamente  você  será 
+redirecionado(a) para a sala onde o procedimento acontecerá. 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da aplicação do fotoprotetor ao final do procedimento? 
+ 
+ 
+ 
+2. Cite as diferenças do tratamento com argila verde e argila branca? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e touca. 
+ 
+ 
+ 
+Visualize a  bobina clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bobina de lençol descartável” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+2. RECEPCIONANDO A PACIENTE 
+ 
+Forre  a  maca  com  o  lençol  descartável  clicando  com  o  botão  esquerdo  do  mouse  no 
+local indicado. 
+ 
+ 
+ 
+Visualize a maca clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Maca – Visão geral” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Coloque  a  touca descartável  na  modelo  clicando  com o botão  esquerdo do mouse  no 
+local indicado. 
+ 
+ 
+ 
+Inicie a limpeza facial clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos  1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Aplique a emulsão de limpeza clicando com o botão esquerdo do mouse no objeto 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos  1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Seque a área com a gaze clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos  1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Aplique o esfoliante clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos  1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Limpe a área com a gaze clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos  1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Aplique a loção tônica clicando com o botão esquerdo do mouse no objeto indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos 2”  ou  através  do  atalho  do  teclado 
+“Alt+5”. 
+ 
+ 
+ 
+Inicie o preparo da argila clicando com o botão esquerdo do mouse sobre o béquer com 
+água. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Escolha um dos óleos essenciais disponíveis (laranja ou palmarosa) clicando com o botão 
+esquerdo do mouse sobre um dos frascos indicados. 
+ 
+ 
+ 
+Misture o conteúdo clicando com o botão esquerdo do mouse sobre a colher. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Aplique a argila na modelo com o abaixador de língua clicando com o botão esquerdo 
+do mouse no local indicado. 
+ 
+ 
+ 
+Após a argila ser aplicada, aguarde 15 minutos que serão contabilizados no cronômetro. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos 1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Mova  o borrifador para o  rosto  da  modelo  clicando  com  o botão  esquerdo  do  mouse 
+sobre ele e selecione a opção “Mover para maca”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Aperte  o  gatilho  do  borrifador  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado. Repita o procedimento algumas vezes. 
+ 
+ 
+ 
+Após  umedecer  a  argila,  retorne  o  borrifador  para  a  mesa  clicando  com  o  botão 
+esquerdo do mouse sobre ele e selecione a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Limpe a área com a gaze clicando com o botão esquerdo do mouse no local indicado.  
+ 
+ 
+ 
+Visualize a mesa  com  equipamentos clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera  com  o  nome  “Mesa  com  equipamentos 1”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+Aplique  a  loção  de  fotoproteção  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado.  
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ESTÉTICA FACIAL 
+GEOAROMOTERAPIA (ARGILAS E ÓLEOS ESSENCIAIS) 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

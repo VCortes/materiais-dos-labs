@@ -1,0 +1,516 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá determinar a umidade natural de uma amostra de 
+solo pela técnica da secagem em estufa. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra  de  solo  representativa,  coletada  de  acordo  com  a  norma  técnica 
+pertinente; 
+• Balança semi-analítica; 
+• Estufa; 
+• Bacias para amostra de solo. 
+ 
+PROCEDIMENTOS 
+ 
+ 
+1. DETERMINANDO A MASSA DO RECIPIENTE VAZIO 
+ 
+Utilizando a balança, determine a massa do recipiente vazio. Anote o valor como 
+M3. 
+ 
+2. DETERMINANDO A MASSA DA AMOSTRA ÚMIDA 
+ 
+Determine a massa da amostra úmida. Anote o valor como M1.  
+ 
+3. REMOVENDO A UMIDADE DA AMOSTRA 
+ 
+Coloque a amostra na estufa. Deixe a amostra com a estufa ligada por 24 h, à 
+temperatura de 105 
+o
+C, para que a amostra fique seca.  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+ 
+ 
+  
+4. DETERMINANDO A MASSA DA AMOSTRA SECA 
+ 
+Após as 24 h, retire a amostra da estufa e pese-a novamente, anotando o valor 
+da massa como M2. 
+5. DETERMINANDO A UMIDADE NATURAL 
+ 
+Calcule a umidade natural da amostra, utilizando a expressão abaixo: 
+ 
+푤=
+푀1−푀2
+푀2−푀3
+∗100 
+Onde, 
+w = umidade natural em %; 
+M1 = massa da amostra com recipiente; 
+M2 = massa da amostra seca com recipiente; 
+M3 = massa do recipiente vazio. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Analise o resultado e reflita sobre a prática, comparando e identificando diferenças 
+em relação à NBR 6457/2016. 
+ 
+ 
+ 
+2. No  procedimento  acima,  determinou-se  os  três  valores  de  massa  indicados  na 
+norma  (M1,  M2  e  M3).  Entretanto,  caso  se  utilizasse  a  função  tara  da  balança,  o 
+cálculo  seria  simplificado.  Reflita  e  proponha  um  novo  procedimento utilizando  a 
+função tara. Como ficariam os cálculos? 
+ 
+ 
+ 
+3. Na norma,  indica-se que  a amostra deve  ficar  na  estufa  até  apresentar  constância 
+de  massa.  Neste  processo,  o  laboratorista  deve  retirar  a  amostra  em  intervalos 
+regulares de tempo até que não haja mais variação da massa da amostra, indicando 
+que toda a umidade foi retirada. Considerando que, na prática realizada hoje, você 
+deixou  a  amostra  por  24  h,  que  erros  podem  ter  sido  cometidos  em  relação  ao 
+procedimento previsto na NBR 6457/2016? 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+INTRODUÇÃO 
+ 
+Identifique  os  equipamentos  utilizados,  bem  como  a  amostra  sobre  a  mesa.  Passe  o 
+mouse sobre cada elemento da cena para obter informações específicas deles. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+1. DETERMINANDO A MASSA DO RECIPIENTE VAZIO 
+ 
+Inicialmente, ligue a balança, clicando sobre o botão ligar. 
+ 
+ 
+ 
+Para determinar a massa do recipiente, clique sobre a bacia vazia e selecione “Colocar 
+na Balança”. 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+Anote o valor do recipiente vazio como M3. 
+ 
+ 
+ 
+Retorne o recipiente vazio para a bancada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+2. DETERMINANDO A MASSA DA AMOSTRA ÚMIDA 
+ 
+Pese  a  massa  da  amostra  úmida.  Para  tanto,  selecione  o  recipiente  com  a  amostra  e 
+escolha a opção “Colocar na Balança”. 
+ 
+ 
+ 
+Anote o valor indicado pela balança como M1. Depois retorne a amostra para a bancada. 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+3. REMOVENDO A UMIDADE DA AMOSTRA 
+ 
+Inicialmente, abra a estufa para poder inserir a amostra. Para tanto, clique sobre a estufa 
+e selecione “Abrir/Fechar estufa”. 
+ 
+ 
+ 
+Com a estufa aberta, coloque a amostra na mesma. Para tanto, clique sobre a amostra 
+e selecione “Colocar na estufa”. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+Feche a estufa, clicando sobre a porta e selecionando “Abrir/fechar estufa”. 
+ 
+ 
+ 
+Ligue a estufa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+Aguarde 24 h até que a amostra esteja completamente seca. Você poderá acelerar este 
+processo, clicando sobre o botão “Pular etapa de espera”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+4. DETERMINANDO A MASSA DA AMOSTRA SECA 
+ 
+Desligue a estufa. 
+ 
+ 
+ 
+Abra a estufa. 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+Retire a amostra seca e a coloque no tampo da bancada. 
+ 
+ 
+ 
+Pese a amostra seca. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+Anote o valor indicado pela balança como M2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA UMIDADE NATURAL 
+ 
+5. DETERMINANDO A UMIDADE NATURAL 
+ 
+Determine a umidade natural utilizando a expressão abaixo: 
+ 
+푤=
+푀1−푀2
+푀2−푀3
+∗100 
+ 
+Onde, 
+w = umidade natural em %; 
+M1 = massa da amostra com recipiente; 
+M2 = massa da amostra seca com recipiente; 
+M3 = massa do recipiente vazio. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 
+ 
+ 

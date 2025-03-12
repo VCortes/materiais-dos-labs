@@ -1,0 +1,647 @@
+
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento,   você   irá   executar   os   procedimentos   adequados   para 
+conhecer o microscópio, as suas partes e funcionalidades.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Algodão; 
+• C
+2
+H
+6
+O (álcool etílico); 
+• Cotonete; 
+• Laminário; 
+• Lâminas; 
+• Microscópio óptico; 
+• Óleo de imersão; 
+• Papel macio; 
+• Solução de limpeza (50% éter sulfúrico e 50% clorofórmio). 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia. Coloque  os equipamentos  de  proteção  individual localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2. CONHECENDO O MICROSCÓPIO 
+ 
+Para auxiliar no manuseio do microscópio, observe o nome de cada componente e relacione 
+com o seu funcionamento. 
+ 
+3. VISUALIZANDO A LÂMINA 
+ 
+Ligue  o  microscópio  e  posicione a lâmina  sobre  a  platina. Atente-se à instrução  que,  para 
+movimentação   do   revólver   ou   para   efetuar   as   configurações   de   posicionamento   dos 
+parafusos, condensador ou diafragma, deve-se clicar e pressionar o botão esquerdo do mouse 
+sobre a área desejada e movimentar o cursor do mouse para direita ou esquerda. Visualize a 
+lâmina clicando com o botão esquerdo do mouse em “Ver lâmina”, na objetiva de 4X, 10X e 
+40X. 
+ 
+4. UTILIZANDO A OBJETIVA DE 100X 
+ 
+Goteje o óleo de imersão sobre a lâmina. Mova o revólver para a objetiva de 100X. Realize os 
+ajustes no diafragma, no charriot e nos botões macro e micrométrico conforme a necessidade. 
+Esta etapa é indispensável para melhor observação e preservação do equipamento. Observe 
+a visualização da ocular. 
+ 
+5. REPETINDO O EXPERIMENTO 
+ 
+Repita a visualização das lâminas seguintes realizando os ajustes no diafragma no charriot e 
+nos botões macro e micrométrico conforme a necessidade. Lembre-se de que para conseguir 
+visualizar  a  imagem  com  a  lente  objetiva  de  maior  ampliação,  deve-se  gotejar  o  óleo  de 
+imersão sobre a lâmina. 
+ 
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+  
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Mova o revólver para a objetiva de menor aumento e desligue o microscópio. Retire a lâmina 
+da platina. Feito isso, com o algodão embebecido com álcool etílico, limpe a lâmina e a platina. 
+Depois,  usando  o  cotonete  umedecido  com  a  solução  de  limpeza,  limpe  a  ocular  e  a  lente 
+objetiva de 100x. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Tendo em vista o experimento realizado, qual a função do condensador? 
+ 
+ 
+ 
+2. Por  que  é  importante  o  emprego  do  óleo  de  imersão  quando  é  utilizada  a 
+objetiva de 100X?  
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia e passe o cursor 
+do mouse na água. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. 
+ 
+ 
+ 
+Abra o armário EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas.  
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+2. CONHECENDO O MICROSCÓPIO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão frontal”. 
+ 
+ 
+ 
+Identifique  as  partes  móveis  do  microscópio,  passando o  cursor  do  mouse  sobre  as 
+partes móveis, onde o nome de cada componente será mostrado. 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+3. VISUALIZANDO A LÂMINA 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+ 
+Abra o laminário clicando com o botão esquerdo do mouse sobre a sua tampa. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Coloque  a  lâmina  sobre  a  platina clicando com  o  botão  esquerdo  do  mouse  sobre  a 
+lâmina. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando  com  o 
+botão esquerdo do mouse sobre ele e arraste o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda.  
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Altere  a  objetiva  pressionando  com  o  botão  esquerdo  do  mouse  sobre  o  revólver  e 
+movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Se for necessário, realize os ajustes no diafragma, para regular a iluminação, no charriot 
+para controlar a posição da lâmina, e nos botões macro e micrométrico, para focalizar a 
+imagem.  
+ 
+ 
+ 
+Altere  a  objetiva  pressionando  com  o  botão  esquerdo  do  mouse  sobre  o  revólver  e 
+movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+4. UTILIZANDO A OBJETIVA DE 100X 
+ 
+Goteje o óleo de imersão clicando com o botão esquerdo do mouse sobre o conta-gotas. 
+ 
+ 
+ 
+Altere  a  objetiva pressionando  com  o  botão  esquerdo  do  mouse  sobre  o  revólver  e 
+movimentando o cursor à direita ou à esquerda. 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Se for necessário, realize os ajustes no diafragma, para regular a iluminação, no charriot 
+para controlar a posição da lâmina, e nos botões macro e micrométrico, para focalizar a 
+imagem.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+5. REPETINDO O EXPERIMENTO 
+ 
+Repita  a  visualização  das  lâminas  seguintes  realizando  os  ajustes no  diafragma  no 
+charriot e nos botões macro e micrométrico conforme a necessidade. Lembre-se de que 
+para  conseguir  visualizar  a  imagem  com  a lente objetiva  de  maior  ampliação,  deve-se 
+gotejar o óleo de imersão sobre a lâmina. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Feche  a  ocular  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  ícone  “ver  ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Retire a lâmina da platina clicando com o botão esquerdo do mouse sobre a lâmina. 
+ 
+ 
+ 
+Visualize os itens de limpeza clicando com o botão esquerdo do mouse na câmera com 
+o nome “Limpeza”. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Mova  as  garrafas  contendo  a  solução  de  limpeza  e  o  álcool clicando com  o  botão 
+esquerdo do mouse sobre as garrafas. 
+ 
+ 
+ 
+Molhe o cotonete com a solução de limpeza clicando com o botão esquerdo do mouse 
+sobre o cotonete. 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Limpe a ocular clicando com o botão direito do mouse sobre o cotonete. 
+ 
+ 
+ 
+Limpe a objetiva clicando com o botão esquerdo do mouse no cotonete. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Umedeça o algodão com o álcool para limpar a platina clicando com o botão esquerdo 
+do mouse sobre o algodão. 
+ 
+ 
+ 
+ 
+Limpe a mesa clicando com o botão esquerdo do mouse no algodão. 
+ 
+ 
+ 
+  
+
+  
+ 
+LABORATÓRIO DE MICROSCOPIA 
+CONHECENDO UM MICROSCÓPIO 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

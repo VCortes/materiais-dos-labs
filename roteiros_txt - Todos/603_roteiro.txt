@@ -1,0 +1,500 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você aprimorará seus conhecimentos sobre o teste rápido 
+de D-Dímero sanguíneo.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao    finalizar    o    experimento,    responda    aos    questionamentos    da    seção 
+“Avaliação de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios  Virtuais.  Caso  elas  não  se  apliquem  ao  seu  problema,  consulte  a  nossa 
+seção  de “Perguntas Frequentes”,  disponível  em: https://algetec.movidesk.com/kb/pt-
+br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp  (8h  às  18h)  ou  para  direcionamento  para  a  central  de  suporte.  Conte 
+conosco! 
+ATENÇÃO: 
+O  LABORATÓRIO  VIRTUAL DEVE  SER  ACESSADO  POR  COMPUTADOR.  ELE  NÃO  DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Kit teste-rápido D-Dímero; 
+• Micropipeta de 100 microlitros; 
+• Ponteiras; 
+• Amostra de sangue; 
+• Eppendorf; 
+• Solução de azida sódica 0,095%; 
+• Leitor de placa-teste WF500. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia e   coloque   os   equipamentos   de   proteção   individual 
+localizados  no  “Armário  de  EPIs”.  Em  seguida,  higienize  a  bancada  passando  o 
+hipoclorito de sódio na mesa, o papel e o álcool 70%. 
+ 
+2. RETIRANDO O KIT DE TESTE RÁPIDO 
+ 
+Retire  da  caixa o  kit  de  testagem  para  o  teste  rápido  de  D-Dímero  e  deixe sobre  a 
+bancada. É importante conferir a bula de utilização do kit com as informações sobre 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+  
+o procedimento do teste antes de iniciar.  
+ 
+3. ALIQUOTANDO A AMOSTRA 
+ 
+Mova a micropipeta para o tubo de coleta, aspire 100 microlitros e coloque no tubo 
+de Eppendorf. Feche-o e faça uma homogeneização da solução. O Eppendorf possui 
+um  diluente  de  azida  sódica  a  0,095%  como  conservante. Após  a homogeneização, 
+pipete 100 microlitros do tubo de Eppendorf e transfira para o poço menor do teste 
+rápido.  
+ 
+4. INTERPRETANDO O RESULTADO 
+ 
+Mova o kit de teste rápido para o leitor de placa-teste WF500. Confira os dados que 
+aparecem no leitor de visualização e aperte o botão de iniciar. Aguarde o tempo de 
+10 minutos para o equipamento fazer a leitura.  
+ 
+5. MONTANDO O LAUDO 
+ 
+Faça   a   interpretação   do   resultado   de   D-Dímero   que   aparece   no   visor   do 
+equipamento de acordo com os valores de referências indicados. Responda o laudo 
+como positivo ou negativo e confira a resposta. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a implicação de não homogeneizar a solução do tubo de Eppendorf? 
+ 
+ 
+ 
+2. Por que utilizamos o diluente de azida sódica a 0,095%? 
+ 
+ 
+ 
+3. Qual   o   tempo   necessário   para   realizar   a   leitura   do   procedimento   no 
+equipamento? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Visualize o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse na  câmera 
+“Armário  de  EPIs” localizada  dentro  do  painel  de  visualização  no  canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Selecione  os  EPIs  necessários  para  a  realização  do  ensaio  clicando  com  o  botão 
+esquerdo  do  mouse  sobre  eles. Nesse  experimento,  é  obrigatório  o  uso  de jaleco  e 
+luvas. 
+ 
+ 
+ 
+Feche  as  portas  do  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+elas. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Faça  a  higienização  da  bancada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+solução de hipocloritos de sódio. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Passe o papel toalha sobre a bancada clicando com o botão esquerdo do mouse sobre 
+o papel toalha. 
+ 
+ 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse sobre o álcool a 70%. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+2. RETIRANDO O KIT DE TESTE RÁPIDO 
+ 
+Retire  o  Kit  de  teste-rápido  do  D-Dímero  de  dentro  da  caixa  clicando  com  o  botão 
+esquerdo do mouse sobre a caixa. 
+ 
+ 
+ 
+Selecione a micropipeta com o botão direito do mouse no comando “Ver opções”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+3. ALIQUOTANDO A AMOSTRA 
+ 
+Mova  a micropipeta  para  o  tubo  de  coleta clicando  com  o  botão  esquerdo  do  mouse 
+sobre a micropipeta e selecione a opção “Colocar em Tubo de coleta”. 
+ 
+ 
+ 
+Transfira 100 microlitros para o tubo de Eppendorf clicando sobre a pipeta e selecione 
+a opção “Colocar em tubo de Eppendorf”. 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Descarte   e  troque   a  ponteira   clicando   com  o   botão   direito   do   mouse   sobre   a 
+micropipeta e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Homogeneíze  o  Eppendorf clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “homogeneizar”.  
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Mova a micropipeta para o tubo Eppendorf com o botão esquerdo do mouse sobre ela 
+e selecione a opção “Colocar em Tubo de Eppendorf”. 
+ 
+ 
+ 
+Transfira 100 microlitros do tubo de Eppendorf clicando com o botão direito do mouse 
+e selecione a opção “Colocar em Poço Menor”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+Descarte e troque a ponteira clicando com o botão direito do mouse sobre a pipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova  o  teste para  o  leitor  de  placa  teste  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o teste. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+4. INTERPRETANDO O RESULTADO 
+ 
+Inicie  a  leitura  do  equipamento  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão de “iniciar” na tela. Observação: Aguarde o tempo de 10 minutos. 
+ 
+ 
+ 
+Se  preferir,  acelere  a  velocidade  do  cronômetro  clicando  com  o  botão  esquerdo  do 
+mouse em “Avançar”  
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+5. MONTANDO O LAUDO 
+ 
+Avalie  o  resultado  positivo  ou  negativo  clicando  com  o  botão  esquerdo  do  mouse  e 
+selecione a opção de acordo com os parâmetros do D-Dímero. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA 
+D-DÍMERO 
+ 
+5. AVALIANDO O RESULTADO 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

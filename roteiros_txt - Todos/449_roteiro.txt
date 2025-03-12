@@ -1,0 +1,814 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você aprimorará seus conhecimentos sobre a confecção de 
+lâminas histológicas vegetais. Esta técnica permite a aprendizagem de diferentes 
+métodos de   secção,   coloração   e   montagem   de   lâminas   histológicas,   que 
+posteriormente será observada ao microscópio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Microscópio óptico; 
+• Lâminas de vidro; 
+• Lamínulas; 
+• Pincel cilíndrico; 
+• Placa de petri; 
+• Vidro de relógio; 
+• Béquer; 
+• Água sanitária; 
+• Ácido acético; 
+• Azul de toluidina; 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+  
+2. PREPARANDO A AMOSTRA 
+ 
+Aplique uma camada  de  esmalte  incolor na  face  superior da folha  membranácea  e 
+aguarde  secar.  Coloque  sobre  o  esmalte  um  pedaço  de  fita  adesiva transparente e 
+passe  uma  borracha sobre  ela.  Retire  a  fita  com  cuidado  e  cole  em  uma  lâmina de 
+vidro, não sendo necessário colocar lamínula, e leve ao microscópio.  
+ 
+3. VISUALIZANDO A LÂMINA COM O MICROSCÓPIO 
+ 
+Ligue o microscópio e posicione a lâmina sobre a platina. Atente-se à instrução que, 
+para movimentação do revólver ou para efetuar as configurações de posicionamento 
+dos  parafusos,  condensador  ou  diafragma, deve-se  clicar  com  o  botão  esquerdo  do 
+mouse  sobre  a  área  desejada  e  movimentar  o  cursor  do  mouse  para  direita  ou 
+esquerda. Observe os cortes no microscópio nas objetivas de 4x, 10x e 40x e anote o 
+que foi visualizado. 
+ 
+4. REPETINDO COM A FACE INFERIOR DA FOLHA 
+ 
+Repita os procedimentos dos passos 2 e 3 com a face inferior da folha, preparando a 
+lâmina e observando a amostra no microscópio. 
+ 
+5. CORTANDO A AMOSTRA 
+ 
+Adicione água em uma placa de petri e reserve. Corte uma amostra de 1 cm² no terço 
+médio da nervura mediana da folha suculenta. Realize cortes bem finos com a lâmina 
+de aço na amostra e deposite-os dentro da placa de petri com água. 
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+  
+6. CORANDO A AMOSTRA 
+ 
+Transfira os cortes para um vidro de relógio. Adicione água sanitária e deixe os cortes 
+imersos até ficar transparentes. Após isso, afaste os cortes para lateral da vidraria com 
+um  pincel e  despreze  a  água  sanitária  em  um  béquer.  Adicione  água  no  vidro  de 
+relógio, enxágue os cortes e descarte a água no béquer. Repita o enxágue mais duas 
+vezes. Adicione ácido acético 1% ao vidro de relógio, deixe agir por 2 minutos e, após 
+isso, descarte o ácido e faça mais 3 enxágues. Coloque azul de toluidina e mantenha 
+os cortes mergulhados por 15 segundos. Descarte o corante e faça mais 3 enxágues. 
+ 
+7. MONTANDO A LÂMINA 
+ 
+Transfira os cortes para o centro da lâmina, cubra com lamínula e leve ao microscópio. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  a  principal  diferença  observada  entre  as  lâminas  da  parte superior  e  da 
+parte inferior da folha membranácea? 
+ 
+ 
+ 
+2. Qual é a importância do enxágue durante o processo de coloração? 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Aplique uma  camada  de  esmalte  incolor  na  folha  clicando  com  o  botão  esquerdo  do 
+mouse sobre o esmalte. 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Coloque um pedaço de fita adesiva transparente sobre o esmalte clicando com o botão 
+esquerdo do mouse sobre a fita adesiva. 
+ 
+ 
+ 
+Passe a borracha sobre a fita adesiva clicando com o botão esquerdo do mouse sobre a 
+borracha. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Coloque uma lâmina sobre a bancada clicando com o botão direito do mouse sobre ela 
+e selecionando a opção “Selecionar lâmina”. 
+ 
+ 
+ 
+Transfira a fita adesiva para a lâmina clicando com o botão esquerdo do mouse sobre a 
+fita adesiva. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Leve  a  lâmina  ao  microscópio  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Levar ao microscópio”. 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+3. VISUALIZANDO A LÂMINA COM O MICROSCÓPIO 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado no  canto superior direito  da  tela. Quando  quiser  fechar  essa  janela  de 
+visualização da lâmina, clique novamente sobre o mesmo ícone. 
+ 
+ 
+ 
+Se  preferir  utilizar  as  setas  do  teclado  para  manipular  o  microscópio,  ative  a  função 
+“Usar  microscópio  com  as  setas”  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+quadrado branco no canto inferior esquerdo da tela. 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Com  essa  função  ativada,  selecione  a  peça  do  microscópio  que  deseja  movimentar 
+utilizando as setas do teclado “cima” e “baixo”. Observe que a região selecionada ficará 
+destacada  tanto  no  microscópio  como  no  esquemático  no  canto  inferior  esquerdo  da 
+tela. 
+ 
+ 
+ 
+A peça selecionada na imagem abaixo é o revólver. Para realizar a movimentação dela, 
+utilize  as  setas  “esquerda”  e  “direita”  do  teclado.  Nos  passos  seguintes,  as  peças 
+mencionadas serão mantidas em destaque no esquemático do canto inferior esquerdo 
+da tela. 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Depois de alterar a lente objetiva para a que possui ampliação de dez vezes, se houver 
+necessidade de ajustar a iluminação, movimente o diafragma pressionando com o botão 
+esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Visualize os parafusos macrométrico e micrométrico clicando com o botão esquerdo do 
+mouse na câmera com o nome “Microscópio (inferior)” ou através do atalho do teclado 
+“Alt+6”. 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Realize o ajuste do foco pressionando com o botão esquerdo do mouse sobre o parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando com o botão  esquerdo do  mouse  sobre ele e movimentando  o cursor  à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Visualize o charriot clicando com o botão esquerdo do mouse na câmera com o nome 
+“Microscópio (frontal)” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Depois  de  observar a  amostra na lente objetiva  com  ampliação de  dez vezes,  altere a 
+objetiva para a que possui ampliação de quarenta vezes e refaça os ajustes necessários 
+no diafragma, nos parafusos macro e micrométrico e no charriot. 
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Quando terminar a análise, retire a lâmina da platina e coloque-a de volta na bancada 
+clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+4. REPETINDO COM A FACE INFERIOR DA FOLHA 
+ 
+Repita os procedimentos apresentados nos passos 2 e 3 para a face inferior da folha e 
+observe  as  diferenças  entre  os  resultados,  utilizando  as  objetivas  com  ampliação  de 
+quatro,  dez  e  quarenta  vezes. Caso  necessário,  realize  os  ajustes  no  diafragma,  nos 
+botões macro e micrométrico e no charriot. 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+5. CORTANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento 2” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Retire a tampa da placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Despeje água na placa de Petri clicando com o botão direito do mouse sobre a pisseta e 
+selecionando a opção “Colocar água na placa de petri”. 
+ 
+ 
+ 
+Corte  uma  amostra  da  folha  com  a  lâmina  de  aço  clicando  com  o  botão  esquerdo  do 
+mouse sobre a lâmina. 
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Finalize o corte clicando novamente com o botão esquerdo do mouse sobre a lâmina de 
+aço. 
+ 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+6. CORANDO A AMOSTRA 
+ 
+Deposite água sanitária no vidro de relógio clicando com o botão esquerdo do mouse 
+sobre o frasco conta-gotas. 
+ 
+ 
+ 
+Transfira  os  cortes  para  o  vidro  de  relógio  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o pincel. 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Afaste os cortes para a lateral do vidro clicando com o botão esquerdo do mouse sobre 
+o pincel. 
+ 
+ 
+ 
+Despeje a água sanitária do vidro no béquer clicando com o botão esquerdo do mouse 
+sobre o vidro. 
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Despeje água no vidro de relógio clicando com o botão direito do mouse sobre a pisseta 
+e selecionando a opção “Colocar água no vidro de relógio”. 
+ 
+ 
+ 
+Enxague os cortes clicando com o botão esquerdo do mouse sobre o pincel. 
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Despeje a água do vidro no béquer clicando com o botão esquerdo do mouse sobre o 
+vidro. 
+ 
+ 
+ 
+Repita o procedimento de colocar água no vidro, enxaguar os cortes e despejar a água 
+no béquer mais duas vezes. Adicione ácido acético no vidro de relógio clicando com o 
+botão esquerdo do mouse sobre o frasco conta-gotas. 
+ 
+ 
+  
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Descarte o ácido no béquer clicando com o botão esquerdo do mouse sobre o vidro. 
+ 
+ 
+ 
+Repita o procedimento de enxágue 3 vezes. Despeje azul de toluidina no vidro clicando 
+com o botão esquerdo do mouse sobre o frasco conta-gotas. 
+ 
+ 
+ 
+  
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Descarte o corante no béquer clicando com o botão esquerdo do mouse sobre o vidro. 
+ 
+ 
+ 
+Repita o procedimento de enxágue 3 vezes. 
+ 
+  
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+7. MONTANDO A LÂMINA 
+ 
+Cubra a lâmina com lamínula clicando com o botão esquerdo do mouse sobre a lamínula. 
+ 
+ 
+ 
+Leve a lâmina ao microscópio clicando com o botão esquerdo do mouse sobre ela. 
+ 
+  
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+Repita o procedimento do passo 3 para observar a amostra no microscópio, utilizando 
+as objetivas com ampliação de quatro, dez e quarenta vezes. Caso necessário, realize os 
+ajustes no diafragma, nos botões macro e micrométrico e no charriot. 
+ 
+  
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA 
+MICROSCOPIA E PREPARAÇÃO DE LÂMINA VEGETAL 
+  
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 
+ 
+V 2.7 - IL2_TAC2_AB1 

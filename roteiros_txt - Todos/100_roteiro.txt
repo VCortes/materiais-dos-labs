@@ -1,0 +1,717 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá determinar as propriedades dos materiais quando 
+submetidos a esforços mecânicos de tração.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bomba hidráulica manual; 
+• Corpos  de  prova (alumínio  6061,  titânio  6AI-4V,  alumínio  2024  e  aço  carbono 
+ASTM A36); 
+• Manômetro; 
+• Máquina universal de ensaios em materiais; 
+• Paquímetro; 
+• Relógio comparador. 
+ 
+PROCEDIMENTOS 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS 
+ 
+Remova as partes móveis das garras de fixação. Mova o corpo de prova de alumínio 6061 da 
+maleta para a mesa e, com o auxílio do paquímetro, meça o diâmetro e comprimento iniciais 
+do corpo de prova. 
+ 
+2. AJUSTANDO O ENSAIO 
+ 
+Posicione  o  corpo  de  prova  na  máquina  e  coloque  as  garras  de  fixação.  Ajuste  o  relógio 
+comparador para a posição zero e aplique a pré-carga com a bomba manual. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+  
+3. APLICANDO A CARGA 
+ 
+Zere  novamente  o  relógio  comparador  e  aplique  a  carga  no  material  de  forma gradual,  até 
+que o corpo de prova seja rompido. 
+ 
+4. MEDINDO AS DIMENSÕES FINAIS 
+ 
+Alivie a carga aplicada pela bomba, remova as garras de fixação e mova o corpo de prova para 
+a mesa. Meça o diâmetro e comprimento finais e descarte o corpo de prova. Repita todos os 
+procedimentos com os outros corpos de prova disponíveis. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Crie uma tabela semelhante à apresentada abaixo para cada um dos materiais. 
+Anote os valores obtidos no experimento e utilize as equações apresentadas no 
+sumário teórico e a relação abaixo para calcular a força atuante sobre o corpo 
+de prova. 
+ 
+1 kgf = 9.8067 N 
+ 
+Ensaio de tração – Material XX 
+CP 01 CP 02 CP 03 
+Carga 
+(kgf/cm²) 
+Força (kgf) Força (N) 
+Carga 
+(kgf/cm²) 
+Força (kgf) Força (N) 
+Carga 
+(kgf/cm²) 
+Força (kgf) Força (N) 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+Tabela 1 – Força atuante nos corpos de prova 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+2. Utilizando  os  dados  das tabelas acima,  calcule  os  valores  de  tensão  e  de 
+deformação nos corpos de prova. Crie uma tabela semelhante à Tabela 2 para 
+cada  um  dos  materiais  ensaiados  e anote os  valores  calculados.  Para  auxiliá-lo 
+nas conversões de unidade, lembre-se de que 1 N/mm² equivale a 1 MPa. 
+ 
+Ensaio de tração – Material XX 
+CP 01 CP 02 CP 03 
+Tensão (MPa) Deformação Tensão (MPa) Deformação Tensão (MPa) Deformação 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+Tabela 2 – Tensão e deformação dos materiais 
+ 
+3. Com esses dados, construa o gráfico “Tensão (MPa) x Deformação (mm/mm)” 
+para cada material ensaiado. 
+ 
+ 
+ 
+4. Com   base   nos gráficos construídos,   determine   os   valores   do   módulo   de 
+elasticidade,  limite  de  escoamento  e  limite  de  resistência à tração  para cada 
+material ensaiado.  
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS 
+ 
+Visualize as  garras clicando  com  o botão  esquerdo  do  mouse na  câmera com  o  nome 
+“Garras” localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Observe as garras de fixação. 
+ 
+ 
+ 
+Remova a parte móvel da garra superior clicando com o botão direito do mouse sobre 
+elas e selecione a opção “Remover parte móvel”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Repita o procedimento anterior, remova a parte móvel da garra de fixação inferior. 
+ 
+ 
+ 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Corpos de prova” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Observe a maleta de corpos de prova e acessórios do experimento. Abra clicando com 
+o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Neste ensaio serão utilizados os corpos de prova de aço carbono, liga de titânio e ligas 
+de alumínio. Você pode identificar a composição de cada material posicionando a seta 
+do mouse sobre os corpos de prova e observando as informações que aparecem. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Inicialmente  utilize  o  corpo  de  prova  de  Alumínio  6061. Posicione  o  corpo  de  prova 
+clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione a  opção  “Mover  para  a 
+mesa”. 
+ 
+ 
+ 
+Efetue a medição do comprimento do corpo de prova clicando com o botão direito do 
+mouse sobre o paquímetro e selecione a opção “Medir comprimento”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Efetue a medida do comprimento útil do corpo de prova clicando com o botão esquerdo 
+do mouse sobre as setas indicadas. 
+ 
+ 
+ 
+Anote seu valor e retorne o paquímetro para sua posição inicial clicando com o botão 
+esquerdo do mouse no “X”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Efetue a medição do diâmetro do corpo de prova clicando com o botão direito do mouse 
+sobre o paquímetro e selecione a opção “Medir diâmetro”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+2. AJUSTANDO O ENSAIO 
+ 
+Posicione o corpo de prova nas garras clicando com o botão direito do mouse sobre o 
+corpo de prova e selecione a opção “Mover para a garra”. 
+ 
+ 
+ 
+Recoloque a parte móvel da garra superior clicando com o botão direito do mouse sobre 
+a garra de fixação e selecione a opção “Colocar parte móvel”. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Repita o procedimento anterior, recoloque a parte inferior da garra de fixação. 
+ 
+ 
+ 
+O relógio comparador é utilizado para que as deformações sofridas pelo corpo de prova 
+ao longo do ensaio sejam medidas. 
+Visualize  o  relógio  comparador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Relógio comparador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Posicione  o relógio  comparador  na  superfície  da  parte  móvel  da  máquina  universal 
+clicando  com  o  botão  esquerdo  do  mouse  sobre  o  conjunto  de  fixação  do  relógio 
+comparador. 
+ 
+ 
+ 
+Zere a escala de medida do relógio comparador clicando e pressionando com o botão 
+esquerdo  do  mouse  sobre  a  escala  do  relógio  e  arraste-a para  a  esquerda  e  para  a 
+direita. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Faça o movimento da escala até que o ponteiro coincida com o zero, como mostrado na 
+imagem abaixo. 
+ 
+ 
+ 
+Visualize  a  bomba  clicando  com  o  botão  esquerdo  do  mouse  na câmera  com  o  nome 
+“Bomba manual” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Ajuste a bomba manual, feche a válvula clicando com o botão esquerdo do mouse na 
+válvula da bomba. 
+ 
+ 
+ 
+Observe que surgirá no canto inferior direito da tela uma escala de medida da bomba 
+manual. O valor indicado refere-se à pressão que a bomba aplica no pistão hidráulico. 
+Retire  a  folga do  sistema clicando com o botão esquerdo do mouse sobre  a  alavanca. 
+Repita esse procedimento quatro vezes até que seja retirada a folga do sistema. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+3. APLICANDO A CARGA 
+ 
+Aplique a carga no material de forma gradual, realizando movimentos com a alavanca 
+da bomba manual clicando com o botão esquerdo do mouse sobre a alavanca. 
+ 
+ 
+ 
+Visualize  o  relógio  comparador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Relógio comparador” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Observe a deformação sofrida pelo corpo mostrada pela escala do relógio comparador. 
+Zere a escala de medida do relógio comparador clicando e pressionando com o botão 
+esquerdo  do  mouse  sobre  a  escala  do  relógio  e  arraste-a para  a  esquerda  e  para  a 
+direita. 
+ 
+ 
+ 
+Visualize  a  bomba  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bomba manual” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Aplique a carga no material de forma gradual, realizando movimentos com a alavanca 
+da bomba manual clicando com o botão esquerdo do mouse sobre a alavanca até que o 
+corpo  de   prova   seja   rompido.   Anote,  em   cada   etapa,  os   valores   de   pressão   e 
+deslocamento medidos, respectivamente, pelo manômetro e pelo relógio comparador. 
+Observe a deformação sofrida pelo corpo mostrada pela escala do relógio comparador. 
+Note também que ao longo do ensaio o corpo de prova sofre uma redução de diâmetro 
+em sua seção útil. 
+ 
+ 
+ 
+Um aviso, como na imagem abaixo aparecerá quando o corpo de prova se romper. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+4. MEDINDO AS DIMENSÕES FINAIS 
+ 
+Alivie  a  carga  inserida  pela  bomba  manual clicando com  o  botão  esquerdo  do  mouse 
+sobre a válvula. 
+ 
+ 
+ 
+Observe  que  a  carga  aplicada  pela  bomba  manual  é  removida. Visualize as  garras 
+clicando com o botão esquerdo do mouse na câmera com o nome “Garras” ou através 
+do atalho do teclado “Alt+4”. 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Remova as partes móveis das garras superior e inferior clicando com o botão direito do 
+mouse sobre elas e selecione a opção “Remover parte móvel”. 
+ 
+ 
+ 
+Faça o mesmo procedimento para a parte móvel inferior da garra de fixação. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Mova o corpo de prova clicando com o botão direito do mouse sobre o corpo de prova 
+e selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Utilize  o  paquímetro  para  efetuar  a  medição  do  comprimento  do  corpo  de  prova 
+clicando com o botão direito do mouse sobre o paquímetro e selecione a opção “Medir 
+comprimento”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Efetue a medida do comprimento útil do corpo de prova clicando com o botão esquerdo 
+do mouse sobre as setas indicadas. 
+ 
+ 
+ 
+Anote seu valor e retorne o paquímetro para sua posição inicial clicando com o botão 
+esquerdo do mouse no “X”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+Anote  o  valor  medido. Faça  o  mesmo  procedimento  para  medir  o  diâmetro  final  do 
+corpo de prova. Anote o valor medido para o diâmetro final. 
+Em seguida, descarte o corpo de prova clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Descartar este corpo de prova”. 
+ 
+ 
+ 
+Observe que o corpo de prova é removido da mesa. 
+Realize os passos acima listados para os outros corpos de prova e materiais restantes. 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TRAÇÃO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

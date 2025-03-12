@@ -1,0 +1,374 @@
+
+
+   
+ 
+INSTRUÇÕES GERAIS 
+1. Neste experimento, o escoamento do tipo jato livre será estudado, observando de forma
+experimental a influência das principais variáveis do sistema.
+2. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da experiência
+virtual e para respostas às perguntas frequentes a respeito do Laboratório Virtual.
+3. Caso não saiba como manipular o Laboratório Virtual, utilize o “Tutorial” presente neste
+Roteiro.
+4. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as instruções para
+realização desta prática na subseção “Procedimentos”.
+5. Ao  finalizar o  experimento, responda aos  questionamentos da  seção “Avaliação dos
+Resultados”.
+
+RECOMENDAÇÕES DE ACESSO
+DICAS DE DESEMPENHO
+Para otimizar a sua experiência no acesso aos laboratórios virtuais, siga as seguintes dicas de
+desempenho:
+Feche outros aplicativos e abas: Certifique-se de fechar quaisquer outros aplicativos ou
+abas que  possam estar consumindo  recursos do  seu  computador,  garantindo um
+desempenho mais eficiente.
+Navegador Mozilla Firefox: Recomendamos o uso do navegador   Mozilla Firefox,
+conhecido por  seu  baixo  consumo de  recursos em  comparação a  outros navegadores,
+proporcionando uma navegação mais fluida.
+Aceleração de hardware: Experimente habilitar ou desabilitar a aceleração de hardware
+no seu navegador para otimizar o desempenho durante o acesso aos laboratórios virtuais.
+Requisitos mínimos do  sistema:  Certifique-se  de  que  seu  computador atenda aos
+requisitos mínimos para acessar os laboratórios virtuais. Essa informação está disponível
+em nossa Central de Suporte.
+Monitoramento do sistema: Utilize o Gerenciador de Tarefas (Ctrl +  Shift +  Esc) para
+verificar o uso do disco, memória e CPU. Se estiverem em 100%, considere fechar outros
+aplicativos ou reiniciar a máquina para otimizar o desempenho.
+Teste de velocidade de internet: Antes de acessar, realize um teste de velocidade de
+internet para garantir uma conexão estável e rápida durante o uso dos laboratórios virtuais.
+Atualizações do navegador e sistema operacional: Mantenha seu navegador e sistema
+operacional atualizados para garantir compatibilidade e segurança durante o acesso aos
+laboratórios.
+
+PRECISA DE AJUDA?
+Em caso de dúvidas ou dificuldades técnicas, visite nossa Central de Suporte para encontrar
+artigos de ajuda e informações para usuários. Acesse a Central de Suporte através do link:
+https://suporte-virtual.algetec.com.br
+Se preferir, utilize os QR Codes abaixo para entrar em contato via WhatsApp ou ser direcionado
+para a Central de Suporte. Estamos aqui para ajudar! Conte conosco!
+                                 
+ 
+
+DESCRIÇÃO DO LABORATÓRIO
+ 
+MATERIAIS NECESSÁRIOS
+  
+·      Bicos;
+·      Bomba de deslocamento positivo;
+·      Cronômetro;
+·      Painel elétrico de comando;
+·      Tanques;
+·      Válvula do tipo esfera.
+ 
+PROCEDIMENTOS
+ 
+1.     COMPREENDENDO O FUNCIONAMENTO DO EXPERIMENTO
+ 
+Para  dar  início ao  laboratório virtual de  jatos  livres, é  necessário que  você  reconheça os
+principais recursos disponíveis. Após o carregamento, será exibido um Guia de utilização, onde
+serão explicados alguns mecanismos  de  operação necessários durante a  operação dos
+componentes.
+ 
+2.     PREENCHENDO O TANQUE VERTICAL
+ 
+Habilite o cronômetro. Em seguida, ligue a bomba e configure a vazão através do potenciômetro.
+Cronometre o tempo necessário para preencher o volume do total do tanque vertical.
+ 
+ 
+3.     CALCULANDO O COEFICIENTE DE DESCARGA
+ 
+
+Inicialmente, mova o bico de 10 mm para a torneira. Visualize a medida de forma precisa no
+tanque vertical e anote. Esse valor corresponde a h1. Em seguida, abra a válvula, permitindo a
+passagem da água e cronometre o tempo de descarga até a segunda altura definida, h2. Na
+tabela abaixo, preencha as alturas escolhidas e o tempo cronometrado. Repita o procedimento 5
+vezes.
+ 
+Orifício com diâmetro de 10 mm
+Intervalo 1Intervalo 2Intervalo 3Intervalo 4Intervalo 5
+h1h2h1h2h1h2h1h2h1h2
+          
+Tempo 1Tempo 2Tempo 3Tempo 4Tempo 5
+     
+Coeficiente de
+Descarga 1
+Coeficiente de
+Descarga 2
+Coeficiente de
+Descarga 3
+Coeficiente de
+Descarga 4
+Coeficiente
+de
+Descarga 5
+     
+Coeficiente de Descarga Médio
+ 
+Desvio Padrão
+ 
+Desvio Relativo
+ 
+Tabela 1 – Medições com o orifício de 10 mm.
+ 
+O cálculo do coeficiente de descarga é feito utilizando a Equação (6) do resumo teórico. São
+necessários para este cálculo os seguintes valores:
+ 
+  é  a  área  da  seção transversal do  tanque (tanque vertical), em  milímetros
+quadrados;
+
+ é a área do orifício, em milímetros quadrados;
+ é o nível 1 do tanque, em metros;
+é o nível 2 do tanque, em metros;
+ t é o tempo de descarga, em segundos;
+g é a aceleração da gravidade (9,81 m/s²);
+Os valores de   e    podem ser encontrados utilizando as equações (9) e (10).
+Os valores de   e  são definidos pelo usuário e o tempo será obtido no laboratório virtual.
+Remova o bico de 10   mm. Em seguida, repita o mesmo procedimento descrito acima com os
+bicos de 4, 6 e 8 mm, preenchendo as suas respectivas tabelas.
+ 
+Orifício com diâmetro de 8 mm
+Intervalo 1Intervalo 2Intervalo 3Intervalo 4Intervalo 5
+h1h2h1h2h1h2h1h2h1h2
+          
+Tempo 1Tempo 2Tempo 3Tempo 4Tempo 5
+     
+Coeficiente de
+Descarga 1
+Coeficiente de
+Descarga 2
+Coeficiente de
+Descarga 3
+Coeficiente de
+Descarga 4
+Coeficiente de
+Descarga 5
+     
+Coeficiente de Descarga Médio
+ 
+Desvio Padrão
+ 
+Desvio Relativo
+ 
+Tabela 2 – Medições com o orifício de 8 mm.
+
+Orifício com diâmetro de 6 mm
+Intervalo 1Intervalo 2Intervalo 3Intervalo 4Intervalo 5
+h1h2h1h2h1h2h1h2h1h2
+          
+Tempo 1Tempo 2Tempo 3Tempo 4Tempo 5
+     
+Coeficiente de
+Descarga 1
+Coeficiente de
+Descarga 2
+Coeficiente de
+Descarga 3
+Coeficiente de
+Descarga 4
+Coeficiente
+de
+Descarga
+5
+     
+Coeficiente de Descarga Médio
+ 
+Desvio Padrão
+ 
+Desvio Relativo
+ 
+Tabela 3 – Medições com o orifício de 6 mm.
+
+ 
+Orifício com diâmetro de 4 mm
+Intervalo 1Intervalo 2Intervalo 3Intervalo 4Intervalo 5
+h1h2h1h2h1h2h1h2h1h2
+          
+Tempo 1Tempo 2Tempo 3Tempo 4Tempo 5
+     
+Coeficiente de
+Descarga 1
+Coeficiente de
+Descarga 2
+Coeficiente de
+Descarga 3
+Coeficiente de
+Descarga 4
+Coeficiente
+de
+Descarga
+5
+     
+Coeficiente de Descarga Médio
+ 
+Desvio Padrão
+ 
+Desvio Relativo
+ 
+ Tabela 4 – Medições com o orifício de 4 mm.
+ 
+ 
+4.     ANALISANDO O ALCANCE HORIZONTAL
+Preencha novamente o tanque vertical com o volume máximo. Em seguida, conecte novamente
+o bico com orifício de 10 mm. Depois, selecione um nível de referência. Esse valor deve estar
+entre 700 e 300   mm. Insira na Tabela 5 o valor de referência escolhido para o nível de referência
+(h).
+
+Logo depois, encontre o valor de alcance experimental. Inicialmente, acione a válvula para liberar
+a água do tanque vertical. Ligue a bomba e utilize o potenciômetro para regular a vazão de
+entrada do  tanque. O  potenciômetro deve  ser  posicionado de  forma  que  o  nível  do  tanque
+vertical permaneça praticamente estável no valor escolhido como nível de referência. Com o
+alcance horizontal estabilizado, desloque o acrílico de referência de forma que o jato esteja o
+mais próximo do acrílico sem que o jato esteja colidindo com o equipamento.
+Em seguida, preencha a tabela com o valor do alcance horizontal experimental para o diâmetro
+do orifício utilizado. Aplique a Equação 17 do resumo teórico para encontrar o coeficiente de
+velocidade, que utiliza os dados obtidos anteriormente na Tabela 5. Aplique também a Equação 3
+do resumo teórico para encontrar a velocidade real do jato livre, que utiliza os dados obtidos
+anteriormente na Tabela 5.
+Tabela 5 – Dados teóricos e experimentais do alcance horizontal.
+ 
+Repita as instruções desta etapa para os diâmetros de 8, 6 e 4 mm, completando a Tabela 5 com
+os dados necessários.
+5. AVALIANDO OS RESULTADOS
+ 
+Siga para a seção “Avaliação dos Resultados” e responda de acordo com o que foi observado
+nos experimentos, associando também com os conhecimentos aprendidos sobre o tema.
+ 
+
+ 
+AVALIAÇÃO DOS RESULTADOS
+ 
+ 
+1.  A média entre os valores do coeficiente de descarga para um mesmo orifício representa bem a
+amostra? Quais são as possíveis fontes de erro?
+ 
+ 
+2.  O que se pôde observar com a variação dos diâmetros?
+ 
+ 
+3.   Os valores do alcance horizontal calculado e do alcance horizontal experimental são iguais?
+Caso sejam diferentes, quais são as possíveis fontes de erro? 
+ 
+ 
+4.      O que foi possível observar com diâmetros diferentes do orifício em relação ao alcance
+horizontal e a velocidade?
+
+ 
+ 
+TUTORIAL
+ 
+1.     COMPREENDENDO O FUNCIONAMENTO DA PRÁTICA
+Utilize a barra de rolagem para realizar a leitura de todo o texto no guia. Clique na barra com o
+botão esquerdo do mouse e arraste para baixo.
+ 
+
+ 
+Após  concluir  a  leitura do  guia,  feche-o. Clique com  o  botão esquerdo do  mouse no  botão
+“FECHAR”.
+Explore o menu de visualizações. Clique com o botão esquerdo do mouse sobre cada opção e
+note o que será evidenciado. Observe também que cada visualização possui um atalho.
+ 
+
+Habilite as opções e o bloco de notas. Clique no botão esquerdo do mouse sobre os itens.
+ 
+ Agora, aproxime a visualização da graduação dos tanques. Com o cursor do mouse sobre a
+régua, clique na tecla “Q”.
+ 
+ 
+
+ 
+ 2. PREENCHENDO O TANQUE VERTICAL
+ 
+Inicialmente, habilite o cronômetro. Clique com o botão esquerdo do mouse sobre ele.
+ 
+  
+Note que o sistema do cronômetro será exibido na lateral esquerda da tela. O botão esquerdo do
+cronômetro inicia/para a contagem e o botão direito reinicia a contagem exibida no display.
+Acima do cronômetro é exibida uma escala de tempo. Essa ferramenta possibilita que o tempo
+seja contabilizado até 10x mais rápido que o normal.
+ 
+  
+
+ 
+Mude a visualização para o painel de controle, “Alt+2”.
+Ligue a bomba. Clique no botão esquerdo do mouse sobre o respectivo botão.
+ 
+ 
+Em  seguida, defina a  vazão da  bomba configurando o  potenciômetro. Clique com  o  botão
+esquerdo do mouse e arraste para o sentido horário.
+ 
+
+ 
+A marcação branca serve de referência para o equipamento, quando a marcação não puder mais
+girar no sentido horário, a vazão será máxima. Volte a visualização para a bancada, “Alt+1”.
+Cronometre o tempo necessário para encher o tanque vertical. Clique com o botão esquerdo do
+mouse no botão para iniciar a contagem. Após, um sensor de nível fica localizado na parte
+superior do  tanque, quando o  nível  da  água  deslocar a  boia  do  sensor,  um  comando será
+fornecido para  a  bomba, interrompendo sua  operação e  impedindo que  o  tanque vertical
+transborde. Zere o cronômetro. Com o botão esquerdo clique no respectivo botão do cronômetro
+para zerar o valor. 
+ 
+
+3. CALCULANDO O COEFICIENTE DE DESCARGA
+ 
+Inicialmente, mova o bico de 10 mm para a torneira. Clique com o botão esquerdo do mouse
+sobre o bico de 10 mm.
+ 
+ 
+Escolha os valores de h1 e h2. Anote-os.
+Aproxime a visualização da escala do tanque para melhor visualização. Com o cursor do mouse
+sobre a graduação do tanque, aperte a tecla “Q”.
+ 
+
+ 
+Abra a válvula para permitir a passagem da água para o tanque horizontal. Clique na válvula com
+o botão esquerdo do mouse.
+ 
+ 
+Logo em seguida, comece a cronometrar o tempo. Com o botão esquerdo do mouse, clique no
+botão indicado.
+ 
+
+Preencha a tabela que está disponível na página 6 desse roteiro. Repita o procedimento 5 vezes
+com intervalos diferentes.
+Com todos os dados preenchidos, calcule o coeficiente de descarga. A orientação para realizar
+este cálculo está na página 6 deste roteiro.
+Com toda a tabela preenchida, retire o bico de 10 mm da torneira. Clique na ponta da torneira
+com o botão esquerdo do mouse.
+ 
+
+ 
+4. ANALISANDO O ALCANCE HORIZONTAL
+Preencha novamente o tanque vertical. Caso tenha dúvida, volte para o passo 2 deste roteiro.
+Em seguida, repetindo o procedimento do passo 3, encaixe o bico de 10 mm na torneira. Agora,
+selecione um nível de referência. Esse valor deve estar entre 700 e 300 mm. Para facilitar a
+visualização, aproxime a  câmera da  graduação em  milímetros do  tanque. Com  o  cursor do
+mouse sobre a escala, aperte a tecla “Q”.
+ 
+ 
+Encontre o valor do alcance horizontal. Primeiro, abra a torneira. Clique com o botão esquerdo
+do mouse sobre ela.
+ 
+
+Ligue a bomba. Com o botão esquerdo do mouse, clique no botão verde do painel de controle.
+ 
+ 
+Utilize o potenciômetro para regular a vazão de entrada do tanque. O potenciômetro deve ser
+posicionado de forma que o nível do tanque vertical permaneça praticamente estável no valor
+escolhido como nível de referência. Clique com o botão esquerdo e arraste.
+ 
+
+Com o alcance horizontal estabilizado, desloque o acrílico de referência de forma que o jato
+esteja o mais próximo do acrílico sem que o jato esteja colidindo com o equipamento. Clique com
+o botão esquerdo do mouse e arraste a régua até o local correspondente.
+ 
+ 
+Preencha a  tabela localizada no  item  4  desse roteiro com  o  valor  do  alcance horizontal
+experimental para o diâmetro do orifício utilizado. Aplique a Equação 17 do Resumo Teórico para
+encontrar o coeficiente de velocidade, que utiliza os dados obtidos anteriormente na Tabela 5.
+Aplique também a Equação 3 para encontrar a velocidade real do jato livre, que utiliza os dados
+obtidos anteriormente na Tabela 5. Como é possível observar na imagem abaixo, a saída de
+água ocorre na marcação de 115 mm. Em relação a altura vertical (H), que é a altura entre o
+centro do bico e a o plano de referência em que é realizada a medição do alcance horizontal, seu
+valor neste laboratório é igual a 145 mm.
+
+5. AVALIANDO OS RESULTADOS
+Siga para a seção "Avaliação dos Resultados" e responda de acordo com o que foi observado no
+experimento, associando também com os conhecimentos aprendidos sobre o tema. 

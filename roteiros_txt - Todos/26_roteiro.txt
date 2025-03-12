@@ -1,0 +1,722 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento você irá explorar as propriedades de um capacitor através da 
+determinação das constantes de tempo e resistência interna do multímetro. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Fonte de tensão; 
+• Voltímetro ou multímetro digital; 
+• Capacitor; 
+• Resistor; 
+• Protoboard; 
+• Cronômetro; 
+• Chave alavanca; 
+• Fios de ligação. 
+ 
+PROCEDIMENTOS 
+ 
+1. MONTANDO O CIRCUITO NA PROTOBOARD 2 
+ 
+Monte o circuito na protoboard 2, de acordo com o esquemático que pode ser 
+visualizado na janela “Circuitos”, selecionando os componentes na maleta; 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+2. UTILIZANDO A PROTOBOARD 1 
+ 
+Utilize o circuito  da  protoboard  1 para calcular a  resistência  interna  do 
+multímetro a partir da análise dos componentes e de sua fórmula; 
+ 
+3. MEDINDO O TEMPO DE CARREGAMENTO DO CAPACITOR 
+ 
+Utilize o circuito da protoboard 2 e o cronômetro para medir o tempo de carga 
+total do  capacitor  e  preencha  a tabela 1 de  medidas  de  V
+63%
+ para  encontrar  a 
+constante de tempo do circuito; 
+ 
+4. DESCARREGANDO O CAPACITOR 
+ 
+Descarregue o  capacitor e  verifique o  tempo  de  descarga  do  capacitor  e 
+preencha  a  tabela 2 de  medidas  de  V
+37%
+.  Encontre  a  constante  de  tempo  do 
+circuito; 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Qual o módulo do valor de tensão (
+|
+푉
+푀푒푑
+|
+) exibida no multímetro conectado a 
+protoboard 1? Qual a tensão fornecida pela bateria (V
+f
+) para este circuito? Qual 
+o valor da resistência (R) na qual o multímetro está conectado? 
+ 
+Para calcular a resistência interna do multímetro, utilize a equação abaixo: 
+ 
+푅
+푉
+=(
+|
+V
+푀푒푑
+|
+V
+푓
+−2
+|
+V
+푀푒푑
+|
+)푅 
+Onde: 
+V
+f
+ = Tensão da fonte. 
+V
+Med
+ = Tensão medida pelo multímetro. 
+R = Valor das resistências iguais utilizadas. 
+R
+V
+ = Resistência interna do multímetro. 
+ 
+2. Qual o valor da resistência interna do multímetro (R
+V
+)? 
+ 
+3. Qual o valor da tensão apresentada pelo multímetro e o tempo que o capacitor 
+leva para carregar totalmente? 
+ 
+4. Preencha a tabela 1 com os dados obtidos no carregamento do capacitor. 
+ 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+V
+63%
+  
+Medições 
+Medição 1 2 3 4 Média 
+T
+63% 
+(s)      
+Tabela 1 – Dados do carregamento do capacitor 
+ 
+5. Qual o valor da tensão apresentada pelo multímetro e o tempo que o capacitor 
+leva para carregar totalmente? 
+ 
+6. Preencha a tabela 2 com os dados obtidos no descarregamento do capacitor. 
+ 
+V
+37%
+  
+Medições 
+Medição 1 2 3 4 Média 
+T
+37% 
+(s)      
+ 
+A constante de tempo de um circuito RC é dada por: 
+τ=R∗C 
+Onde: 
+τ é a constante de tempo em segundos; 
+R é a resistência em ohms; 
+C é a capacitância em farads. 
+Utilizando os dados do circuito 2 e ignorando a resistência interna do multímetro (devido à 
+sua influência desprezível no cálculo da constante de tempo) encontre: 
+τ
+ Teórico 
+= ___________ s 
+Os valores encontrados nos passos 5 e 6 são os valores encontrados experimentalmente 
+para a constante de tempo, anote esses valores abaixo: 
+τ
+ Experimental1 
+= ___________ s 
+τ
+ Experimental2 
+= ___________ s 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+O capacitor é um dispositivo elétrico que apresenta característica capacitiva, ou seja, de 
+armazenamento  de  cargas  elétricas.  E  neste  experimento,  para  poder  determinar  as 
+propriedades de um capacitor, você deverá encontrar o tempo de carga e descarga dele, 
+além da resistência interna do multímetro utilizado para efetuar as medições de tensão.  
+ 
+No início do experimento é vista uma notificação onde é informado que ao pressionar a 
+letra “H” do teclado será possível visualizar os itens que você pode interagir ao longo da 
+realização do experimento, além da indicação de como utilizar corretamente o mouse.  
+ 
+ 
+ 
+Na  tela  inicial  é  possível  visualizar  os  dois  conjuntos,  cada  um  com  um  multímetro  e 
+protoboard.  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+O  número  1  (esquerda)  já  com  seu  circuito  montado,  apresenta  uma  medida  no 
+multímetro. O número 2 (direita) será utilizado para realizar a montagem do circuito no 
+qual serão realizadas as medições com o multímetro. 
+ 
+ 
+ 
+Para  acionar  o  cronômetro,  clique  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“start” localizado no display do cronômetro ou utilize a tecla “P”. 
+ 
+ 
+ 
+Para  pausar  a  medição, clique  com  botão  esquerdo  do  mouse  sobre  o  botão “Pause” 
+disposto no display do cronômetro ou clique novamente na tecla “P”. 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+ 
+Você  poderá  zerar  o  cronômetro  clicando  com  o botão  esquerdo  do  mouse  no  botão 
+“X”. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+1. MONTANDO O CIRCUITO NA PROTOBOARD 2 
+ 
+Para a realização do experimento, você precisará montar os componentes  
+elétricos no protoboard 2. 
+ 
+Inicialmente,  você  deverá  ver  o  circuito  a  ser  montado.  Para  isso, acesse  a  opção  de 
+câmera “Circuitos”. 
+ 
+ 
+ 
+Observe o circuito referente ao protoboard 2 (direita). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+ 
+ 
+Importante: Perceba que de acordo com o esquemático, a chave possui os terminais 1, 
+2 e 3. Quando a chave se encontra posicionada para esquerda, os contatos 1 e 3 estão 
+conectados  e  quando  a  chave  se  encontra  para  direita,  os  contatos  1  e  2  estão 
+conectados. 
+ 
+ 
+Utilizando   o   circuito   proposto   nos   esquemáticos,   você   deverá   selecionar   os 
+componentes e inseri-los no protoboard. 
+ 
+Para  visualizar  os  componentes  a  serem  utilizados  na montagem  do  circuito,  acesse a 
+opção de câmera “Maleta”. 
+1 
+1 
+2 
+2 
+3 
+3 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+ 
+ 
+Os  componentes  podem  ser  identificados  na  caixa  de  informação  que  aparece  ao  se 
+posicionar a seta do mouse sobre o componente desejado. 
+ 
+ 
+ 
+Na montagem do circuito no protoboard 2 serão usados: um capacitor e um resistor de 
+90 quiloohm. 
+ 
+Para adicionar o componente na protoboard, clique com o botão esquerdo do mouse 
+sobre o componente desejado.  
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+Inicialmente, posicione o resistor no protoboard. 
+ 
+ 
+ 
+Importante: Perceba que são exibidas duas opções onde o resistor pode ser inserido no 
+circuito. Verifique o esquemático e escolha a opção que se adequa ao circuito indicado. 
+ 
+Esta  escolha  verifica  se  o  esquemático  fornecido  foi  interpretado  corretamente.  Caso 
+tenha  escolhido  a  posição  errada  para  o  resistor  ou  para  o  capacitor, um  aviso  será 
+indicado na tela. 
+ 
+Insira o resistor na posição adequada. 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+Observe que o resistor é posicionado no protoboard. 
+ 
+ 
+ 
+ 
+Acessando novamente a opção de câmera “Maleta”, selecione o capacitor para inseri-lo 
+no protoboard. 
+ 
+ 
+ 
+Posicione o capacitor de acordo com o esquemático fornecido. 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+ 
+Veja que o capacitor foi posicionado no protoboard. 
+ 
+ 
+ 
+Em seguida, acesse a opção de câmera “Protoboard 2” e observe o circuito montado. 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+2. MONTANDO O CIRCUITO NA PROTOBOARD 
+ 
+Na determinação  das  propriedades  de  um  capacitor,  utiliza-se  o  multímetro  para  a 
+realização de algumas medições. 
+ 
+Inicialmente,   é   importante   conhecer   a   resistência   interna   do   multímetro   para 
+comprovar que este não irá exercer nenhum tipo de influência sobre o circuito montado. 
+Para se determinar a resistência interna do multímetro será utilizado o circuito 1. 
+ 
+Ainda na opção de câmera “Montagem” observe o valor apresentado pelo multímetro. 
+Este é o valor da tensão medida (V
+Med
+). 
+ 
+Importante: Perceba  que  de  acordo  com  o  esquemático  e  com  o  circuito  que  está 
+conectado  na  protoboard  1,  as  pontas  de  prova  do  multímetro  estão  conectadas  de 
+forma  que  o  valor  exibido  na  tela  do  equipamento  seja  negativo.  Caso  as  pontas  de 
+prova fossem invertidas, o valor exibido seria positivo. 
+ 
+Acesse  a  opção  de  câmera  “Montagem”  ou  “Protoboard  1”  para  melhor  visualizar  os 
+componentes do circuito. 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+Para obter as informações acerca de cada componente, posicione a seta do mouse sobre 
+o componente desejado e leia a caixa de informações.  
+ 
+Posicione o mouse sobre a fonte e anote o valor da tensão. 
+ 
+ 
+  
+Em seguida, posicione a seta do mouse sobre o resistor do circuito e observe o valor da 
+resistência apresentado. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+3. MEDINDO O TEMPO DE CARREGAMENTO DO CAPACITOR 
+ 
+Neste passo é utilizado o circuito 2. 
+ 
+Para  carregar  o  capacitor,  clique  com  o  botão  esquerdo  do  mouse  sobre  a  chave 
+alavanca indicada pela seta.  
+ 
+ 
+ 
+Simultaneamente  ao  acionamento  da  chave,  ative  o  cronômetro  para  medir  o  tempo 
+em que o capacitor leva para ser carregado. 
+ 
+ 
+ 
+Observe que ao ativar a chave alavanca (fechando o circuito), o capacitor começa a ser 
+carregado. 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+O multímetro  começa  a  realizar a medição  da  tensão.  Veja  também  o  tempo  do 
+cronômetro. 
+ 
+Utilizando  os  valores de V
+63% 
+como  referência,  realize  o  processo de  carregamento  do 
+capacitor descrito anteriormente para encontrar quantos segundos o capacitor demora 
+para ser carregado até o valor de V
+63%
+. 
+ 
+Repita  a  instrução  anterior  até  preencher  a tabela 1 e  por fim  calcule  a média  dessas 
+medições, encontrando assim a constante de tempo através do tempo de carregamento 
+do capacitor. 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+ 
+4. DESCARREGAMENTO DO CAPACITOR 
+ 
+Neste passo é utilizado o circuito 2. 
+ 
+Para  descarregar  o  capacitor,  clique  com  o  botão  esquerdo  do  mouse  sobre  a  chave 
+alavanca indicada pela seta. 
+ 
+ 
+ 
+ 
+Simultaneamente  ao  acionamento  da  chave,  ative  o  cronômetro  para  medir  o  tempo 
+que o capacitor leva para ser descarregado.  
+ 
+Observe  que  ao desativar  a  chave  alavanca  (abrindo o  circuito),  o  capacitor  começa  a 
+ser descarregado. 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+O  multímetro  começa  a  realizar  a  medição  da  tensão.  Veja  também  o  tempo  do 
+cronômetro. 
+ 
+Utilizando os valores de V
+37% 
+como referência, realize o processo de descarregamento 
+do  capacitor  descrito  anteriormente  para  encontrar  quantos  segundos  o  capacitor 
+demora para ser descarregado até o valor de V
+37%
+. 
+ 
+Repita a  instrução  anterior  até  preencher a  tabela  e por fim encontre  a média dessas 
+medições, encontrando assim a constante de tempo pelo tempo de descarregamento 
+do capacitor. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CAPACITORES 
+  
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 

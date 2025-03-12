@@ -1,0 +1,472 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você irá aprimorar    seus    conhecimentos    sobre a 
+interpretação de uma fita  reagente de urina.  Esta  técnica permite a  realização 
+de diversas análises bioquímicas laboratoriais como pH, proteínas, glicose etc. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool 70%; 
+• Caneta marcadora; 
+• Hipoclorito de sódio; 
+• Lixo para descarte de material contaminante; 
+• Papel toalha; 
+• Recipiente de coleta com amostra de urina; 
+• Suporte para tubos Falcon; 
+• Tiras reagentes; 
+• Tubo Falcon. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Higienize a bancada com hipoclorito de sódio, em seguida, com 
+álcool 70%. 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+  
+2. PREPARANDO A AMOSTRA 
+ 
+Identifique o tubo Falcon com os dados do paciente. Homogeneíze a amostra e abra 
+a  tampa  do  recipiente  contento  a  amostra.  Abra  a  tampa  do  tubo Falcon,  despeje 
+10mL da amostra no tubo e feche a tampa da amostra. 
+ 
+3. REALIZANDO A ANÁLISE 
+ 
+Abra o tubo com as tiras reagentes e retire uma fita teste. Coloque a fita teste no tubo 
+Falcon com urina e aguarde 1 minuto. Após 1 minuto retire a tira do tubo e passe-a 
+no papel toalha para secar. 
+ 
+4. INTERPRETANDO OS RESULTADOS 
+ 
+Compare a fita reagente com a tabela descrita no tubo de tiras e selecione a opção 
+correta que se assemelhe a reação. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais as análises bioquímicas podem ser feitas a partir da fita reagente? 
+ 
+ 
+ 
+2. Por que é necessário esperar 1 minuto para retirar a fita da urina? 
+ 
+ 
+ 
+3. Por que é importante homogeneizar a amostra antes de prosseguir com o teste? 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  ligando  a  torneira  clicando  com  o  botão  esquerdo  do  mouse  na 
+torneira e passe o mouse na água. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Visualize a bancada no painel de visualização no canto esquerdo superior da câmera e 
+clique  com  o botão  esquerdo  na  “Bancada”.  Se  preferir,  utilize  o  atalho  do  teclado 
+“Alt+3”. 
+ 
+ 
+ 
+Higienize  a  bancada  clicando  com  o  botão  esquerdo  do  mouse sobre  a  pisseta  com 
+hipoclorito de sódio. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Passe o papel toalha clicando com o botão esquerdo do mouse sobre o papel toalha.  
+ 
+ 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse sobre a pisseta contendo 
+álcool 70%. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Identifique  o  tubo  Falcon  clicando  com  o  botão  esquerdo  do  mouse  na caneta 
+marcadora. 
+ 
+ 
+ 
+Homogeneíze  a  amostra de  urina clicando  com  o  botão  direito  do  mouse sobre  o 
+recipiente indicado e selecione a opção “Homogeneizar”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Abra  a  tampa  da  amostra de  urina clicando  com  o  botão  esquerdo  do  mouse no 
+recipiente indicado. 
+ 
+ 
+ 
+Abra a tampa do tubo  Falcon  clicando  com o botão  esquerdo do  mouse sobre  o  tubo 
+Falcon. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Despeje  10 mL  da  amostra  clicando  com  o botão  direito  do  mouse sobre  o  recipiente 
+indicado e selecione a opção “Despejar no tubo”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+3. REALIZANDO A ANÁLISE 
+ 
+Abra o tubo de fita teste clicando com o botão esquerdo do mouse sobre o tubo com 
+fitas testes. 
+ 
+ 
+ 
+Tampe o tubo Falcon clicando com o botão esquerdo do mouse sobre o tubo Falcon. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+Aguarde por 1 minuto ou avance o tempo clicando com o botão esquerdo do mouse em 
+“Avançar”. 
+ 
+ 
+ 
+Limpe a  fita  reagente  clicando com o  botão  direito  do  mouse sobre  a  fita  reagente e 
+selecione a opção “Limpar fita teste”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+4. INTERPRETANDO OS RESULTADOS  
+ 
+Posicione a fita reagente clicando com o botão direito do mouse sobre a fita reagente e 
+selecione a opção “Posicionar fita teste”. 
+ 
+ 
+ 
+Realize a leitura da fita reagente clicando com o botão direito do mouse sobre as setas 
+indicadas. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE URINÁLISE 
+AVALIAÇÃO BIOQUÍMICA DA URINA: FITA REAGENTE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

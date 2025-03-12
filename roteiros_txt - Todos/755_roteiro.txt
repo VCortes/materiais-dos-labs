@@ -1,0 +1,898 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    o 
+funcionamento de uma estação de tratamento de água. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 2 béqueres de 50 mL; 
+• 2 Tanques; 
+• 5 béqueres de 1000 mL; 
+• Bomba; 
+• Cubeta; 
+• Decantador; 
+• Equipamento Jar Test; 
+• Espátula de aço inox; 
+• Filtro; 
+• Flúor; 
+• Hidróxido de Sódio; 
+• Hipoclorito de Sódio; 
+• Painel de controle de vazão; 
+• PHmetro; 
+• Pipeta; 
+• Placa de Petri; 
+• Polímero; 
+• Sulfato de Alumínio. 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. Para esse 
+experimento será necessário a utilização do jaleco e luvas. 
+ 
+2. DETERMINANDO A VAZÃO DA ÁGUA 
+ 
+Vá  até  o  painel de  controle  de  vazão e  determine  a  vazão  a  ser  utilizada na  miniestação  de 
+tratamento. Retire uma amostra da água bruta e com auxílio do pHmetro e do turbidímetro 
+determine o pH e o grau de turvação da água bruta, logo após o processo limpe a superfície 
+do eletrodo e a cubeta a ser usada no turbidímetro. 
+ 
+3. DOSANDO OS PRODUTOS QUÍMICOS 
+ 
+Pese as medidas de Sulfato de Alumínio para serem colocadas em cada béquer de 1000 mL 
+(10; 12,5; 15; 17,5; 20 mg) com auxílio da balança analítica e a espátula de aço inox. Ligue o 
+“Jar Test” na função de agitação rápida até se formarem os flocos (5 minutos), e mude para 
+agitação lenta, adicione Hidróxido de Sódio no béquer e despeje nos béqueres de 1000 mL e 
+a partir da melhor velocidade de decantação determine a dosagem a ser utilizada de sulfato 
+de alumínio. 
+ 
+4. INICIANDO O TRATAMENTO DA ÁGUA 
+ 
+Adicione os produtos químicos Hidróxido de Sódio, Sulfato de Alumínio, Polímero e Hipoclorito 
+de Sódio na calha de floculação. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+  
+5. OBSERVANDO O PROCESSO DE DECANTAÇÃO 
+ 
+Retire uma amostra do decantador e com auxílio do pHmetro e do turbidímetro determine o 
+pH  e  o  grau  de turvação  da  água  decantada,  logo  após  o  processo  limpe  a  superfície  do 
+eletrodo e a cubeta a ser usada no turbidímetro. 
+ 
+6. OBSERVANDO O PROCESSO DE FILTRAÇÃO 
+ 
+Retire uma amostra do filtro e com auxílio do pHmetro e do turbidímetro determine o pH e o 
+grau  de  turvação  da  água  filtrada,  logo  após  o  processo  limpe  a  superfície  do  eletrodo  e  a 
+cubeta a ser usada no turbidímetro. 
+ 
+7. REALIZANDO A CORREÇÃO DE pH 
+ 
+Adicione Flúor e Hipoclorito de Sódio na água tratada. 
+ 
+8. RETROLAVANDO O FILTRO GRAVITACIONAL 
+ 
+Feche  a  válvula  de  saída  da  água  filtrada para  a bomba  succionar  a  água  para  realização  da 
+retrolavagem, direcionando a água de lavagem para caixa de esgoto. 
+ 
+9. DESCARREGANDO O LODO DO DECANTADOR 
+ 
+Abra a válvula na base do decantador e espere a descarga total do lodo e feche a válvula. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+  
+10. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual foi o papel dos produtos químicos no processo final da água tratada? 
+ 
+ 
+ 
+2. Por que foi necessário realizar uma dupla lavagem do filtro? 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ Selecione  os  EPIs  necessários  para  a realização  do  ensaio  clicando  com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+2. DETERMINANDO A VAZÃO DA ÁGUA 
+ 
+Visualize o controle de vazão clicando com o botão esquerdo do mouse na câmera com 
+o  nome  “Controle  de  vazão”  localizada  dentro  do  painel  de  visualização  no  canto 
+superior esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado 
+“Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Abra  a  porta  clicando com o botão  esquerdo  do  mouse  sobre a  porta  do  controle  de 
+vazão. 
+ 
+ 
+ 
+Escolha uma das opções de vazão clicando com o botão direito do mouse sobre a válvula 
+e selecione uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Retire uma amostra clicando com o botão esquerdo do mouse sobre o tanque contendo 
+água bruta. 
+ 
+ 
+ 
+Ligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Coloque a amostra clicando com o botão direito do mouse sobre o eletrodo e selecione 
+a opção "Colocar na amostra”. 
+ 
+ 
+ 
+Retire a amostra clicando com o botão direito do mouse sobre o eletrodo e selecione a 
+opção “Retirar da amostra”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Limpe a superfície clicando com o botão direito do mouse sobre o eletrodo e selecione 
+a opção “Limpar superfície”. 
+ 
+ 
+ 
+Desligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Visualize  o  turbidímetro clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Turbidímetro” ou através do atalho do teclado “Alt+5”.  
+ 
+ 
+ 
+Transfira a amostra a ser analisada clicando com o botão esquerdo do mouse sobre o 
+béquer. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o turbidímetro. 
+ 
+ 
+ 
+Abra a tampa clicando com o botão esquerdo do mouse sobre a tampa do turbidímetro. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Posicione a cubeta clicando com o botão direito do mouse sobre a cubeta e selecione a 
+opção “Posicionar no turbidímetro”. 
+ 
+ 
+ 
+Feche   a   tampa   clicando com   o   botão   esquerdo   do   mouse   sobre a   tampa   do 
+turbidímetro. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Abra a tampa clicando com o botão esquerdo do mouse sobre a tampa do turbidímetro. 
+ 
+ 
+ 
+Posicione a cubeta clicando com o botão direito do mouse sobre a cubeta e selecione a 
+opção “Posicionar na bancada”.  
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Limpe  a  cubeta  clicando com  o  botão  direito  do  mouse  sobre a  cubeta e  selecione  a 
+opção “Limpar a cubeta”. 
+ 
+ 
+ 
+Feche a tampa clicando com o botão esquerdo do mouse sobre tampa do turbidímetro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Desligue   o   equipamento   clicando com   o   botão   esquerdo   do   mouse   sobre o 
+turbidímetro. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+3. DOSANDO OS PRODUTOS QUÍMICOS 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão de liga/desliga. 
+ 
+ 
+ 
+Posicione a placa de petri clicando com o botão direito do mouse sobre a placa de Petri 
+e selecione a opção “Posicionar sobre a balança”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Realize a tara clicando com o botão esquerdo do mouse sobre o botão “TARA”. 
+ 
+ 
+ 
+Posicione o pote de sulfato de alumínio com o botão direito do mouse sobre o frasco 
+indicado e selecione a opção “Posicionar sobre a placa”. 
+0 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Pese 10 mg de sulfato clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Despeje no béquer clicando com o botão direito do mouse sobre a placa e selecione a 
+opção “Despejar no béquer 1”.  
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Limpe a placa clicando com o botão direito do mouse sobre a placa de petri e selecione 
+a opção “Limpar placa”. 
+ 
+ 
+ 
+Repita as etapas anteriores para os valores de 12,5; 15; 17,5; e 20 mg a serem colocados 
+nos béqueres 2, 3, 4, e 5, respectivamente. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Mova  o  pote  clicando com  o  botão  direito  do  mouse  sobre  o  frasco  de  sulfato  de 
+alumínio e selecione a opção “Retornar para a bancada”. 
+ 
+ 
+ 
+Visualize o equipamento Jar Test clicando com o botão esquerdo do mouse na câmera 
+com o nome “Equipamento Jar Test” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Ligue o Jar Test clicando com o botão esquerdo do mouse sobre o botão “ON/OFF”. 
+ 
+ 
+ 
+Aumente  a agitação  clicando com  o  botão  direito  do  mouse  sobre o botão “SPEED” e 
+selecione a opção “Agitação rápida”.  
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Acelere  o  tempo  clicando com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste para direita. 
+ 
+ 
+ 
+Diminua  a  agitação  clicando com  o  botão  direito  do  mouse  sobre o botão  “SPEED”  e 
+selecione a opção “Agitação lenta”.  
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Adicione o hidróxido de sódio clicando com o botão esquerdo do mouse sobre a garrafa 
+âmbar. 
+ 
+ 
+ 
+Adicione nos béqueres clicando com o botão esquerdo do mouse sobre a pipeta.  
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Acelere  o  tempo  clicando com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste para direita. 
+ 
+ 
+ 
+Visualize os tanques clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tanques 1” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+4. INICIANDO O TRATAMENTO DA ÁGUA 
+ 
+Adicione os produtos químicos clicando com o botão esquerdo do mouse sobre a calha. 
+ 
+ 
+ 
+Visualize os tanques clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tanques 2” ou através do atalho do teclado “Alt+8”. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+5. OBSERVANDO O PROCESSO DE DECANTAÇÃO 
+ 
+Retire  uma  amostra  clicando com  o  botão  direito  do  mouse  sobre  o decantador  e 
+selecione a opção “Retirar amostra do decantador”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, realize a análise de pH e turbidez. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+6. OBSERVANDO O PROCESSO DE FILTRAÇÃO 
+ 
+Visualize os tanques clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tanques 2” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Retire  uma  amostra  do  filtro  clicando com  o  botão  direito  do  mouse  sobre  o  filtro  e 
+selecione a opção “Retirar amostra do filtro”. 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Repita os procedimentos anteriores, realize a análise de pH e turbidez. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+7. REALIZANDO A CORREÇÃO DE pH 
+ 
+Visualize os tanques clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tanques 2” ou através do atalho do teclado “Alt+8”.  
+ 
+ 
+ 
+Adicione  os  produtos  químicos  na  água  tratada  clicando com  o  botão  esquerdo  do 
+mouse sobre o tanque. 
+ 
+  
+0 
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+8. RETROLAVANDO O FILTRO GRAVITACIONAL 
+ 
+Inspecione a válvula clicando com o botão direito do mouse sobre o filtro e selecione a 
+opção “Inspecionar válvula”. 
+ 
+ 
+ 
+Abra a válvula clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+9. DESCARREGANDO O LODO DO DECANTADOR 
+ 
+Visualize os tanques clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tanques 2” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Inspecione  a  válvula  clicando com  o  botão  direito  do  mouse  sobre  o  decantador  e 
+selecione a opção “Inspecionar válvula”. 
+ 
+ 
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+Abra a válvula clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Fecha a válvula clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA DE TRATAMENTO DE EFLUENTES 
+MINI ESTAÇÃO DE TRATAMENTO DE ÁGUA 
+ 
+10.AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 

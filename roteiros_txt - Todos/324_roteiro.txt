@@ -1,0 +1,830 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você conhecerá   as   características   gerais   do   gênero 
+Streptococcus para a diferenciação das espécies pertencentes a esse grupo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acendedor; 
+• Alça Inoculadora; 
+• Bacitracina e SXT; 
+• Bico de Bunsen; 
+• Estufa; 
+• Pinça; 
+• Placas de Petri; 
+• Tubos de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”.  Nesse 
+experimento serão necessários jaleco, máscara e luvas. 
+ 
+2. OBSERVANDO AS CULTURAS BACTERIOLOGICAS 
+ 
+A bancada encontra-se limpa com solução de hipoclorito e álcool a 70%. Inicie o procedimento  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+  
+acendendo  o  bico  de  Bunsen.  Em  seguida,  observe  as  culturas  bacteriológicas.  Analise  as 
+estruturas e anotes as suas impressões. 
+ 
+3. REALIZANDO O TESTE DA BACITRACINA E SXT 
+ 
+Com o bico de Bunsen já aceso, esterilize a alça inoculadora. Em seguida, prepare a cultura de 
+Streptococcus pyogenes para a coleta. Mova a placa de cultura contendo o ágar sangue para 
+o bico de Bunsen. Adicione uma alçada de colônia na placa de cultura. Em seguida, adicione a 
+bacitracina e o SXT. Incube por 24 horas a 35 ºC na estufa e observe o resultado. 
+ 
+4. REALIZANDO IDENTIFICAÇÃO DE ENTEROCOCCUS 
+ 
+Com o bico de Bunsen já aceso, esterilize a alça inoculadora. Em seguida, prepare a cultura de 
+Entrerococcus faecalis para a coleta. Mova o tubo de coleta contendo bile esculina para o bico 
+de  Bunsen.  Adicione  uma  alçada  de  colônia  no  tubo  de coleta.  Em  seguida,  adicione  uma 
+amostra da mesma cultura no tubo de coleta contendo o caldo hipercloretado. Incube por 24 
+horas a 35 ºC na estufa e observe o resultado. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  a  diferença  entre  o  resultado  obtido  no  tubo  de coleta contendo  bile 
+esculina  e  o  que  contém  o  caldo  hipercloretado?  Explique  a  razão  para  essa 
+diferença.  
+ 
+ 
+ 
+2. O que se espera observar adicionando a bacitracina e o STX na placa de cultura? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Abra o armário clicando com o botão esquerdo do mouse sobre suas portas. 
+ 
+ 
+ 
+Selecione os  EPIs necessários  para  a  realização do  experimento clicando com  o  botão 
+esquerdo do  mouse  sobre  eles. Nesse  experimento,  é  obrigatório  o  uso  de jaleco, 
+máscara e luvas. 
+ 
+  
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Após  selecionar  todos  os  itens,  feche o  armário. Clicando  com  o  botão  esquerdo do 
+mouse sobre as portar para fechar. 
+ 
+ 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen”.  
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+2. OBSERVANDO AS CULTURAS BACTERIOLÓGICAS 
+ 
+Abra a válvula do gás clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Visualize a  configuração  da  chama clicando com  o  botão  esquerdo  do  mouse  sobre  o 
+bico de Bunsen. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Configure a chama clicando com o botão esquerdo do mouse sobre os locais indicados. 
+ 
+ 
+ 
+Em seguida, acenda o bico de Bunsen clicando com o botão esquerdo do mouse sobre 
+o acendedor.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Mova as  placas  de cultura  para  o  bico  de  Bunsen clicando com  o  botão  esquerdo  do 
+mouse nas placas de cultura.  
+ 
+ 
+ 
+Visualize a cultura bacteriana clicando com o botão esquerdo do mouse na câmera com 
+o nome “Inspecionar Amostra”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Retorne a placa de cultura para a mesa clicando com o botão esquerdo do mouse sobre 
+ela.  Em  seguida,  repita  o  mesmo  procedimento  para  observar  a  outra  amostra 
+bacteriana. Observe e anote as suas impressões. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+3. REALIZANDO O TESTE DA BACITRACINA E SXT 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen”. 
+ 
+ 
+ 
+Com o bico de Bunsen já aceso, esterilize a alça inoculadora clicando com o botão direito 
+do mouse sobre ela. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Em seguida, prepare a cultura de Streptococcus Pyogenes para a coleta clicando com o 
+botão esquerdo do mouse sobre a placa de cultura.  
+ 
+ 
+ 
+Colete a mostra clicando com o botão esquerdo do mouse sobre a alça inoculadora.  
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Retorne a placa de cultura para a bancada clicando com o botão esquerdo do mouse na 
+placa. 
+ 
+ 
+ 
+Em seguida, mova a placa de cultura com ágar sangue clicando com o botão direito do 
+mouse sobre a placa de petri e selecione a opção “Colocar no bico de Bunsen”.  
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Coloque a amostra na placa de cultura clicando com o botão esquerdo do mouse na alça 
+e selecione a opção “Na placa de cultura”.  
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Esterilize a pinça clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Esterilizar”. 
+ 
+ 
+ 
+Coloque  a  bacitracina  na  placa  de  cultura clicando com  o  botão  esquerdo  do  mouse 
+sobre a pinça. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Esterilize a pinça clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Esterilizar”. 
+ 
+ 
+ 
+Coloque o SXT na placa de cultura clicando com o botão direito do mouse sobre a pinça.  
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Retorne a placa de cultura para a mesa clicando com o botão esquerdo do mouse sobre 
+a placa. Após isso, repita o procedimento com a outra placa de petri. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Mova as  placas de  cultura para  o  interior  da  estufa clicando com  o  botão  direito  do 
+mouse sobre a placa de cultura e selecione a opção “Colocar na estufa”.  
+ 
+ 
+ 
+Feche a porta da estufa clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Encube as amostras por 24h clicando com o botão direito do mouse sobre a estufa. 
+ 
+ 
+ 
+Acelere  o  tempo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local  indicado  e 
+arraste para a direita. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Abra a estufa clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Retire  as  placas  de  cultura  da  estufa  clicando  com  o  botão  esquerdo  do mouse  sobre 
+elas. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Feche a porta da estufa clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Mova a placa  de  cultura clicando  com  o  botão  direito  do  mouse  sobre  as  placas  e 
+selecione a opção “Colocar no bico de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Inspecionar Amostra”. Anote as observações. 
+ 
+ 
+ 
+Retorne a placa de cultura para a mesa clicando com o botão esquerdo do mouse sobre 
+ela. Repita os procedimentos com a outra placa de cultura. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+4. REALIZANDO IDENTIFICAÇÃO DE ENTEROCOCCUS 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen”. 
+ 
+ 
+ 
+Esterilize a alça inoculadora clicando com o botão direito do mouse sobre ela.  
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Prepare a cultura de Enterococcus faecalis para a coleta clicando com o botão esquerdo 
+do mouse sobre a placa de cultura contendo a amostra.  
+ 
+ 
+ 
+Colete a mostra clicando com o botão esquerdo do mouse sobre a alça.  
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Retorne a placa de cultura para a mesa clicando com o botão esquerdo do mouse sobre 
+a placa de cultura. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Bancada”.  
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Mova  o  tubo  de coleta clicando  com  o  botão esquerdo  do  mouse sobre  os  tubos e 
+selecione a opção “Tubo 1”.  
+ 
+ 
+ 
+Visualize o tubo clicando com o botão esquerdo do mouse na câmera com o nome “Bico 
+de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Coloque a amostra no tubo de coleta clicando com o botão esquerdo do mouse na alça 
+e selecione a opção “No tubo de coleta”.  
+ 
+ 
+ 
+Retorne o tubo de coleta para a mesa clicando com o botão esquerdo do mouse sobre 
+o tubo.  
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Repita todo procedimento de coleta anterior e deposite uma amostra de Enterococcus 
+faecalis no tubo de coleta contendo o caldo hipercloretado que está no tubo 2. 
+ 
+ 
+ 
+Visualize  a estufa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bancada”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Mova os tubos de ensaio para o interior da estufa clicando com o botão direito do mouse 
+sobre o conjunto de tubos de coleta e selecione a opção “Colocar na estufa”. 
+ 
+ 
+ 
+Feche a porta da estufa clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Encube a  amostra  por  24h  clicando com  o  botão  direito  do  mouse  sobre  a  porta  da 
+estufa.  
+ 
+ 
+ 
+Acelere  o  tempo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local  indicado  e 
+arraste para a direita. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Abra a estufa clicando com o botão esquerdo do mouse no equipamento. 
+ 
+ 
+ 
+Remova os tubos de ensaio da estufa clicando com o botão esquerdo do mouse sobre 
+os tubos. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Feche a porta da estufa clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+Observe as reações ocorridas no meio bile esculina e no caldo hipercloretado e anote as 
+observações. 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+IDENTIFICAÇÃO DE Streptococcus sp. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

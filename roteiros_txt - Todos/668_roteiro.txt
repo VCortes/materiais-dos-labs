@@ -1,0 +1,1287 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você   irá aprender   a realizar o   teste   com   anticorpo 
+treponêmico fluorescente (FTA) usado para diagnostico da sífilis. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra de soro; 
+• Banho-maria; 
+• Berço para lâmina; 
+• Câmara úmida; 
+• Caneta marcadora; 
+• Computador; 
+• Cuba de vidro; 
+• Estuda bacteriológica; 
+• Frasco conta-gotas contendo glicerina tamponada; 
+• Frasco contendo antigamaglobulina G humana; 
+• Frasco contendo solução absorvente; 
+• Frasco contendo soro controle negativo; 
+• Frasco contendo soro controle positivo; 
+• Freezer; 
+• Lâmina com áreas reativas com suspensão de Treponema pallidum; 
+• Lamínula; 
+• Micropipeta 100 μL; 
+• Microscópio fluorescente; 
+• Papel toalha; 
+• Pisseta contendo tampão fosfato-salino diluído; 
+• Ponteira; 
+• Recipiente de descarte para ponteiras; 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Suporte para tubo de ensaio; 
+• Tubo de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco e luvas. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Ligue o banho-maria. Mova o tubo de coleta com a amostra com soro para o banho-
+maria e aguarde 30 min.  Com o auxílio da pinça, mova o tubo de coleta com a amostra 
+para a bancada. Abra a tampa do tubo com a amostra.  Configure a micropipeta de 
+100 μL para 10 μL.  Mova a pipeta para o tubo de coleta.  Aspire 10 μL da amostra de 
+soro.  Transfira o soro pipetado para o tubo de ensaio.  Descarte a ponteira e retorne 
+para o suporte. Configure a micropipeta de 10 μL para 40 μL.  Mova a pipeta para o 
+tubo de solução absorvente.  Aspire 40 μL da solução absorvente.  Transfira a solução 
+pipetada para o tubo de ensaio.  Descarte a ponteira e retorne para o suporte. Mova 
+o tubo de ensaio para a estufa bacteriológica e aguarde 15 min. Mova o tubo de ensaio 
+para a bancada. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+3. ADICIONANDO A AMOSTRA E OS CONTROLES 
+ 
+Abra  o  freezer.  Mova  o  envelope  contendo  a  lâmina  para  a  bancada.  Aguarde  15 
+minutos.  Retire  a  lâmina  do envelope  sem  tocar  no  substrato.  Identifique  a  lâmina 
+com a caneta marcadora.  Configure a micropipeta de 40 μL para 20 μL. Mova a pipeta 
+para  o  frasco  com  controle  negativo  e  aspire  20  μL.  Mova  a  pipeta  para  a  lâmina  e 
+despreze  20  μL  na  área  1. Descarte  a ponteira. Mova  a  pipeta  para  o  frasco  com 
+controle  positivo  e  aspire  20  μL.  Mova  a pipeta para  a  lâmina  e  despreze  20  μL  na 
+área  2. Descarte  a  ponteira.  Mova  a  pipeta  para  o  tubo  de  ensaio  com  a  amostra 
+diluída  e  aspire  20  μL.  Mova  a  pipeta  para  a  lâmina e  despreze  20  μL  na  área  3. 
+Descarte a ponteira. Mova a lâmina para a câmera úmida e aguarde 30 min. Mova a 
+lâmina para a bancada. 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Mova  a  lâmina  para  a  pia.  Mova  a  pisseta  contendo  o  tampão  diluído  para  pia  e 
+despreze na lâmina. Mova a pisseta para a posição inicial.  Mova a lâmina para o berço. 
+Mova o berço para cuba de vidro contendo tampão diluído. Agite suavemente, a cuba 
+deve  fazer  movimentos  circulares. Aguarde  5  min. Mova  a  lâmina  para  o  berço  e 
+transfira para a cuba por 5 min novamente por mais duas vezes. Mova a lâmina para 
+um papel toalha na bancada. Mova a pipeta para o frasco contendo antigamaglobulina 
+e aspire 20 μL. Mova a pipeta para a lâmina e despreze 20 μL na área 1. Descarte a 
+ponteira. Aspire novamente 20 μL da antigamaglobulina e despreze nos poços 2 e 3.  
+Mova a lâmina para câmara úmida em temperatura ambiente. Aguarde 30 minutos. 
+Mova  a  lâmina  para  a  pia.   Mova  a  pisseta  contendo  o  tampão  diluído  para  pia  e 
+despreze na lâmina.  Mova a pisseta para a posição inicial. Mova a lâmina para o berço.  
+Mova  o  berço  para  cuba  de  vidro  contendo  tampão  diluído.  Aguarde  5  min.  Mova 
+novamente a lâmina para o berço e transfira para cuba por mais duas vezes por mais 
+5 min.  Mova a lâmina para um papel toalha na bancada. Abra o frasco de conta-gotas 
+com glicerina tamponada.  Mova o frasco de glicerina tamponada para a lâmina. Pigue 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+  
+4  gotas  de  glicerina  tamponada  nos  poços 1,  2  e  3.   Mova  o  frasco  de  glicerina 
+tamponada para a bancada. Mova uma lamínula para a lâmina. 
+ 
+ 
+5. ANALISANDO O RESULTADO 
+ 
+Mova a lâmina para o microscópio. Visualize a imagem no computador. Faça a leitura 
+do resultado. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique o princípio do ensaio FTA-Abs? 
+ 
+ 
+ 
+2. Qual tipo de microscópio é utilizado na prático e qual a importância da sua utilização 
+no ensaio FTA-Abs? 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+  
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova o tubo com a amostra com soro para o banho-maria clicando com o botão direito 
+do mouse sobre ele selecionando a opção “Mover para banho-maria”. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Com o auxílio da pinça, mova o tubo de coleta com a amostra para a bancada clicando 
+com o botão esquerdo do mouse sobre o instrumento na bancada. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra  a  tampa  com  a  amostra  clicando  cm  o  botão  direito  do  mouse  selecionando  a 
+opção “abrir/fechar”. 
+ 
+ 
+ 
+Configure a micropipeta de 100 μL para 10 μL clicando com o botão direito mouse sobre 
+ele selecione a opção “Ajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Digite com o teclado o volume de 10 μL clicando com o botão esquerdo do mouse em 
+“Aplicar”. 
+ 
+  
+ 
+Aspire a amostra clicando com o botão direito do mouse sobre a pipeta e selecione a 
+opção “Amostra”. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Transfira o soro pipetado para o tubo de ensaio clicando com o botão direito do mouse 
+do mouse e selecione a opção “Transferir” em seguida “Para o tubo de ensaio”. 
+ 
+  
+ 
+Descarte a ponteira clicando com o botão direito do mouse sobre a pipeta e selecione a 
+opção “Descartar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Configure  a  micropipeta  de  10  μL  para  40  μL μL clicando  com  o  botão  esquerdo  do 
+mouse em “Aplicar”. 
+ 
+  
+ 
+Abra a solução absorvente clicando com o botão esquerdo do mouse sobre o recipiente 
+na bancada  
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aspire 40 μL a solução absorvente com a pipeta clicando com o botão direito do mouse 
+e selecione a opção “Solução absorvente”. Transfira a solução pipetada para o tubo de 
+ensaio 
+ 
+ 
+ 
+Transfira  a  solução  pipetada  para  o  tubo  de  ensaio clicando  com  o botão direito  do 
+mouse e selecione a opção “Transferir” em seguida “Para o tubo de ensaio”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Descarte a ponteira clicando com o botão direito do mouse sobre a pipeta e selecione a 
+opção “Descartar ponteira”. 
+ 
+ 
+ 
+Visualize a  estufa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa  bacteriológica”  localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra a estufa clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  o tubo  de  ensaio  para  a  estufa  bacteriológica  clicando  com  o  botão  direito  do 
+mouse e selecione a opção “Mover para estufa”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Feche a estufa clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Aguarde  15min  ou  se  preferir  clique  com  o  botão  esquerdo  do  mouse  em  “Pule”  no 
+temporizador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra a estufa clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova a estante com o tubo de ensaio para a bancada clicando com o botão esquerdo 
+do mouse para “Mover para bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+3. ADICIONANDO A AMOSTRA E OS CONTROLES 
+ 
+Visualize o  freezer clicando  com o botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Freezer”  localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+  
+ 
+Abra o freezer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova  o  envelope  contendo  a  lâmina  para  a  bancada clicando  com  o botão  direito  do 
+mouse e selecione a opção “mover para bancada”. 
+ 
+ 
+ 
+Mova a aguarde 15 minutos ou se preferir clique em “Pule” no temporizador. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Retire a lâmina do envelope sem tocar no substrato clicando com o botão esquerdo do 
+mouse sobre ele. 
+ 
+ 
+ 
+Identifique a lâmina com a caneta marcadora clicando com o botão esquerdo do mouse 
+sobre ela na bancada. 
+ 
+  
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Configure a micropipeta de 40 μL para 20 μL clicando com o botão direito do mouse e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Abra o  controle negativo  clicando  com  o botão esquerdo  do mouse  sobre  o frasco  na 
+bancada. 
+ 
+  
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova  a  pipeta  para  o  frasco  com  controle  negativo clicando  com  o  botão  direito  do 
+mouse selecione a opção “Aspirar” em seguida “Controle negativo”. 
+ 
+ 
+ 
+Aspire 20 μL do controle negativo com a micropipeta clicando com o botão direito do 
+mouse em “Aspirar” em seguida “Controle negativo”. 
+ 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Despreze os 20 μL no poço 1 clicando com o botão direito do mouse em “Transferir” em 
+seguida para o “Poço 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Descartar ponteira”. 
+ 
+  
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra  o  controle  positivo clicando  com  o  botão esquerdo do  mouse  sobre o  frasco  na 
+bancada.  
+ 
+ 
+ 
+Aspire  20 μL do  controle  positivo com  a  micropipeta clicando  com  o  botão  direito  do 
+mouse  sobre  a  micropipeta  e  selecione  a  opção “Aspirar” e em  seguida  “Controle 
+positivo”. 
+ 
+  
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Transfira  o  conteúdo  para  o  poço  2 clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Transferir” em seguida para “Poço 2”.  
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Descartar ponteira”. 
+ 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aspire  20  μL da  amostra diluída clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Aspirar” em seguida “Amostra diluída”. 
+ 
+ 
+ 
+Transfira o conteúdo para o poço 3 da lâmina clicando com o botão direito do mouse 
+sobre a micropipeta e selecione a opção “transferir” em seguida “Para poço 3”. 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Descartar ponteira”. 
+ 
+ 
+ 
+Abra câmera úmida clicando com o botão esquerdo do mouse sobre ela na bancada. 
+ 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova a lâmina para a câmera escura clicando com o botão direito do mouse em “Mover” 
+em seguida “Mover para câmera úmida” por 30 min. 
+ 
+ 
+ 
+Feche a câmera úmida clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aguarde  a  lâmina  na  câmera  úmida  por  30  min  ou  se preferir  clique  com o botão 
+esquerdo do mouse em “Pular”. 
+ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Abra câmera úmida clicando com o botão esquerdo do mouse sobre ela na bancada. 
+ 
+ 
+ 
+Mova a lâmina para bancada clicando com o botão direito do mouse e selecione a opção 
+“Mover para bancada”. 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova  a  lâmina  para  pia  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Mover para pia”. 
+ 
+ 
+ 
+Mova a pisseta para a lâmina clicando com o botão direito do mouse e selecione a opção 
+“Mover para lâmina”. 
+ 
+  
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aperte  a  pisseta  contendo  tampão  diluído clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+  
+ 
+Mova  a pisseta  para  a  bancada clicando  com  o  botão  direito  do  mouse  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova  a lâmina para  o  berço clicando  com  o botão direito do  mouse  sobre a lâmina e 
+selecione a opção “M over para o berço de lâminas”. 
+ 
+ 
+ 
+Abra  a  cuba  de  vidro  clicando  com  o  botão  esquerdo  do  mouse  sobre  ele  na  pia  da 
+bancada. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova o berço para cuba de vidro contendo tampão diluído clicando com o botão direito 
+mouse e selecione a opção. 
+ 
+ 
+ 
+Feche  a  cuba  de  vidro  clicando  com  o  botão  esquerdo  do  mouse  sobre  ele  na  pia  da 
+bancada. 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Agite a cuba por 5 min clicando com o botão direito do mouse sobre a cuba e selecione 
+a opção “Agitar” por 3 vezes. 
+ 
+  
+ 
+Abra a cuba de vidro clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Remova o berço de lâminas da cuba clicando com o botão direito do mouse e selecione 
+a opção “Remover berço de lâminas”. 
+ 
+  
+ 
+Leve a lâmina para bancada clicando como botão direito do mouse e selecione a opção 
+“Remover lâmina”. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra o frasco de antigamaglobulina clicando com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Aspire 20 com a micropipeta clicando com o botão direito do mouse e selecione a opção 
+“Aspirar” em seguida “antigamaglobulina”. 
+ 
+  
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Transfira o conteúdo para os poços 1, 2 e 3 clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Transportar” em seguida “Poços 1”, “Poço 2” e “Poço 
+3”. 
+ 
+ 
+ 
+Mova a lâmina para a câmera úmida clicando com o botão direito do mouse e selecione 
+a opção “Mover para câmara úmida”. 
+ 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Feche a câmara úmida clicando com o botão esquerdo do mouse ela. 
+ 
+ 
+ 
+Aguarde 30 min a lâmina na câmera úmida clicando com o botão esquerdo do mouse 
+no botão “Pular”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Abra a câmara úmida clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  a  lâmina  para  a  bancada  clicando  com  o  botão  direito  do  mouse  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova a lâmina para a pia da bancada clicando com o botão direito do mouse sobre a 
+lâmina e selecione a opção “Mover para pia”. 
+ 
+ 
+ 
+Mova a pisseta contendo o tampão diluído para a lâmina clicando com o botão direito 
+do mouse e selecione a opção “Mover para lâmina”. 
+ 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aperte clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Mova a pisseta de volta para bancada clicando com o botão esquerdo do mouse sobre 
+o botão indicado. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova a lâmina para o berço clicando com o botão direito do mouse e selecione a opção 
+“Mover para berço de lâminas”. 
+ 
+ 
+ 
+Mova a o berço para a cuba de vidro clicando com o botão direito do mouse e selecione 
+a opção “Mover para cuba de vidro”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Feche a cuba de vidro clicando com o botão esquerdo do mouse. 
+ 
+  
+ 
+Agite  por  3  vezes  a  cuba  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Agite”. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Aguarde 5 min para cada agitação ou se preferir clique com botão esquerdo do mouse 
+em “Pular”. 
+ 
+  
+ 
+Remova o berço de lâminas da cuba de vidro clicando com o botão direito do mouse e 
+selecione a opção “Remover berço de lâminas”. 
+ 
+  
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Leve a lâmina para bancada clicando como botão direito do mouse e selecione a opção 
+“Remover lâmina”. 
+ 
+ 
+ 
+Goteje o frasco conta-gotas contendo glicerina tamponada nos poços 1,2 e 3 clicando 
+como botão direito do mouse e selecione as opções “Gotejar no poço 1”, “Gotejar no 
+poço 2” e “Gotejar no poço 3”. 
+ 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Mova  uma  lamínula  para  a  lâmina  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lamínula na bancada. 
+ 
+  
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+5. ANALISANDO O RESULTADO 
+ 
+Mova a lâmina para o microscópio clicando com o botão direito do mouse e selecione a 
+opção “Mover para o microscópio”. 
+ 
+ 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Ligue o microscópio clicando com o botão esquerdo do mouse o botão ligar/desligar. 
+ 
+ 
+ 
+Abra o programa do computador para visualização das imagens do microscópio clicando 
+com o botão esquerdo do mouse no ícone azul na tela do notebook. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+Faça a leitura das imagens a partir das imagens observadas no computador. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+FTA-ABS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

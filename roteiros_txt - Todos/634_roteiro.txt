@@ -1,0 +1,670 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos sobre  passo  a 
+passo do preparo de emulsão hidratante. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao    finalizar    o    experimento,    responda    aos    questionamentos    da    seção 
+“Avaliação de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O  LABORATÓRIO  VIRTUAL DEVE  SER  ACESSADO  POR  COMPUTADOR.  ELE  NÃO  DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador mecânico; 
+• Água destilada; 
+• Álcool cetoestearílico etoxilado (Eumulgin B2); 
+• Béquer 50 mL; 
+• BHT; 
+• Caneco de inox; 
+• Chapa aquecedora; 
+• Espátulas; 
+• Estearato de glicerila; 
+• Miristato de isopropila; 
+• Nipagin; 
+• Nipazol; 
+• Óleo de semente de uva; 
+• Recipiente de pesagem; 
+• Recipiente para armazenamento; 
+• Termômetro. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Identifique   a  função   de   cada   matéria-prima  da   tabela   em   lipofílica/oleosa   ou 
+hidrofílica/aquosa. 
+ 
+3. PREPARANDO A EMULSÃO 
+ 
+Transfira o estearato de glicerila para o caneco de inox 1 e mova o caneco de inox 1 
+para   a   chapa   de   aquecimento. Ligue   o   aquecimento e   transfira   o   álcool 
+cetoestearílico etoxilado para o caneco de inox 1. Coloque o termômetro no caneco 
+de inox 1 e aguarde até que atinja a temperatura de 75ºC. Transfira o nipazol, BHT, 
+miristato de isopropila e óleo de semente de uva respectivamente para o caneco de 
+inox 1. Transfira a água destilada e o nipagim respectivamente para o caneco de inox 
+2. Mova o caneco de inox 2 para a chapa aquecedora. Ligue a chapa de aquecimento 
+e coloque o termômetro 2 no caneco de inox 2. Aguarde a solução do caneco de inox 
+2  atingir  a  temperatura  de  80ºC  e  desligue  as  chapas  de  aquecimento. Retire  os 
+termômetros de  ambas  as  chapas  e  mova  o  caneco  inox  para  o  agitador  mecânico. 
+Ligue o agitador e adicione lentamente o conteúdo do caneco inox 2 no caneco inox 
+1.  Desligue  o  agitador  mecânico  e  retorne  o  caneco  1  para  a  bancada. Com  uma 
+espátula  pequena  transfira  a  emulsão  para  o  béquer  de  50mL.  Posicione  o  béquer 
+com  a  emulsão  no pHmetro,  ligue  o aparelho e verifique  o  valor  do  pH da  emulsão 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+  
+no display. 
+ 
+4. ARMAZENANDO A EMULSÃO  
+ 
+Transfira a emulsão do caneco inox 1 para a recipiente de armazenamento. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, 
+e responda de acordo com o que foi observado no experimento, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  a  importância  de  classificar  os componentes  da  produção  da  emulsão 
+hidratante 
+ 
+ 
+ 
+2. Qual o pH final ideal para a emulsão hidratante e por quê? 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Realize a higienização das mãos clicando na pia com o botão esquerdo do mouse. 
+ 
+  
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione  os  EPIs  necessários  para  a  realização  do  ensaio  clicando  com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luva, 
+máscara, óculos e touca. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Visualize a tabela no  painel  de  visualização  no  canto direito superior  da  câmera  e 
+clique com o botão esquerdo na “Tabela”. 
+ 
+ 
+ 
+Identifique a solução de cada matéria prima clicando com o botão esquerdo do mouse 
+na coluna “Características” e selecione a opção correta para cada componente. 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+3. PREPARANDO A EMULSÃO 
+ 
+Transfira o estearato de glicerina para o caneco de inox 1 clicando no estearato com o 
+botão esquerdo do mouse. 
+ 
+  
+ 
+Mova o  canexo  de  inox  1  para  a  chapa  de  aquecimento  clicando  no  caneco  com  o 
+botão direito do mouse e selecione a opçaão “Mover para o aquecedor” 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Ligue a chapa de aquecimento clicando na chapa com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Coloque  o  termômetro  1  no caneco  de  inox  1 clicando  no  álcool  com  o  botão  direito 
+do mouse e selecione a opção “Colocar termômetro no caneco 1” e aguarde até que a 
+solução atinja 75°C. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Transfira o nipazol para o caneco de inox 1 clicando no nipazol com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+Transfira  o  BHT  para  o  caneco  de  inox  1 clicando  no  BHT  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Transfira o miristato de isopropila para o caneco de inox 1 clicando no miristato com o 
+botão esquerdo do mouse. 
+ 
+ 
+ 
+Transfira  o óleo  de semente  de  uva para  o  caneco  de  inox  1 clicando  no  óleo  com  o 
+botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Visualize a bancada direita clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bancada direita” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Transfira  a  água  destilada  para  o  caneco  de  inox  2  clicando  na  água  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Transfira o nipagin para o caneco de inox 2 clicando no nipagin com o botão esquerdo 
+do mouse.  
+ 
+ 
+ 
+Mova  o  caneco  de  inox  2  para  a  chapa  aquecedora clicando  no  caneco  com  o  botão 
+direito do mouse e selecione a opção “Mover para o aquecedor”. 
+ 
+] 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Ligue a chapa de aquecimento 2 clicando na chapa com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Coloque  o  termômetro  2  no caneco  de  inox 2 clicando  no  álcool  com  o botão  direito 
+do mouse e selecione a opção “Colocar termômetro no caneco 2” e aguarde até que a 
+solução atinja 80°C. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Desligue  as  chapas  de  aquecimentos  clicando  em  ambas  as  chapas  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Retorne o termômetro 1 para a bancada clicando no termômetro com o botão direito 
+do mouse e selecione a opção “Retornar à posição inicial”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Retorne o termômetro 2 para a bancada clicando no termômetro com o botão direito 
+do mouse e selecione a opção “Retornar à posição inicial”. 
+ 
+ 
+ 
+Mova  o  caneco  inox  1  para  o  agitador  mecânico  clicando  no  caneco  com  o  botão 
+direito do mouse e selecione a opção “Mover para o agitador”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Ligue o agitador mecânico clicando no agitador com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Adicione lentamente a  solução  do  caneco  2  no  caneco  1  clicando  no  caneco  2  com  o 
+botão direito do mouse e selecione a opção “Transferir para o caneco 1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Desligue o agitador mecânico clicando no agitador com o botão esquerdo do mouse  
+ 
+ 
+ 
+Retorne o caneco 1 para a bancada clicando no caneco com o botão direito do mouse 
+e selecione a opção “Retornar para a bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Transfira a  emulsão com  ajuda  da espátula do  caneco  inox  1 para  o  béquer  de  50mL 
+clicando no caneco com o botão direito do mouse e selecione a opção “Transferir para 
+o béquer”. 
+ 
+ 
+ 
+Posicione  o  béquer  com  a  emulsão  no  pHmetro  clicando  no  béquer  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Posicione a haste do pHmetro no béquer clicando na haste com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Ligue  o  pHmetro  clicando  no botão  “Ligar”  do  pHmetro  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Verifique  o  valor  do  pH  da  emulsão  clicando  no  pHmetro  com  o  botão  esquerdo  do 
+mouse para visualizar o resultado no display. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+4. ARMAZENAMENTO DA EMULSÃO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”  localizada dentro do  painel de  visualização  no  canto  superior  esquerdo  da 
+tela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+Transfira  o  conteúdo  do  caneco  de  inox  1  para  o  recipiente  de  armazenamento 
+clicando no caneco com o botão direito do mouse e selecione a opção “Transferir para 
+o recipiente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOCINÉTICA 
+PREPARO DE EMULSÃO HIDRATANTE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando  também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+ 

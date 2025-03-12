@@ -1,0 +1,603 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá determinar as propriedades dos materiais quando 
+submetidos à esforços de torção.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Paquímetro; 
+• Sistema de medição; 
+• Máquina para ensaio de torção; 
+• Corpos de prova (alumínio, latão, cobre, aço carbono e ferro fundido). 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS 
+ 
+Posicione um corpo de prova na mesa e, com o auxílio do paquímetro, meça as 
+suas dimensões iniciais. Desacople o carro deslizante e mova o corpo de prova 
+para a máquina. Acople o carro deslizante e ligue o sistema de medição. 
+ 
+2. APLICANDO O TORQUE 
+ 
+Aplique  uma  pré-carga,  girando  o  volante  da  máquina  até  que  o  sistema  de 
+medidas acuse  valores  mínimos. Em  seguida,  zere  o  sistema  de  medidas e 
+aplique o torque no corpo de prova até que ele se rompa. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+3. DESCARTANDO O CORPO DE PROVA 
+ 
+Zere novamente o sistema de medidas, desacople o carro deslizante e retire o 
+corpo  de  prova  da  máquina. Descarte  esse  corpo  de  prova  e  repita  todos  os 
+procedimentos com os outros corpos de prova e materiais disponíveis.  
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Crie  uma  tabela  semelhante  à apresentada  abaixo para  cada  um  dos  materiais. 
+Anote  os  valores do  momento  para  cada  variação  de  ângulo  apresentada  pelos 
+corpos de prova.  
+ 
+Ensaio de torção – Material XX 
+CP 01 CP 02 CP 03 
+Ângulo (°) Momento (Nm) Ângulo (°) Momento (Nm) Ângulo (°) Momento (Nm) 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+Tabela 1 – Dados obtidos no experimento 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+2. Utilizando  os  dados  das tabelas  acima e  as  equações  apresentadas  no  sumário 
+teórico,  calcule  os  valores  de  tensão  e  de  deformação cisalhantes nos  corpos  de 
+prova. Crie uma tabela semelhante à Tabela 2 para cada um dos materiais ensaiados 
+e anote os valores calculados. 
+Ensaio de torção – Material XX 
+CP 01 CP 02 CP 03 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+Deformação 
+cisalhante (ɣ) 
+Tensão cisalhante 
+(MPa) 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+Tabela 2 – Deformação e tensão cisalhantes calculadas 
+ 
+ 
+3. Utilizando  os  dados  das  tabelas  acima,  construa  o  gráfico “Tensão (MPa) x 
+Deformação (ɣ)” para cada material ensaiado. 
+ 
+ 
+4. Com base nos gráficos construídos, determine os valores do módulo de elasticidade, 
+limite de escoamento e o limite de resistência à torção de cada material ensaiado.  
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MEDINDO AS DIMENSÕES INICIAIS 
+ 
+Abra a maleta de corpos de prova clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Observe os corpos de prova dispostos na maleta acessando a opção de câmera “Corpos 
+de prova”. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Você pode verificar informações sobre os corpos de prova posicionando a seta do mouse 
+sobre ele. 
+ 
+ 
+ 
+Atenção: Neste  experimento  serão  utilizados  os  corpos  de  prova  de  alumínio,  latão, 
+cobre, aço carbono e ferro fundido. 
+Para posicionar o corpo de prova na mesa, clique com o botão direito do mouse sobre 
+o material desejado e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Observe que o corpo de prova é posicionado na mesa. 
+Antes de posicionar o corpo de prova na máquina de ensaio é necessário que se realize 
+medidas  das  suas  dimensões. Utilize  o  paquímetro  localizado  em  cima  da  mesa  para 
+efetuar as medidas. 
+ 
+ 
+ 
+Para medir o diâmetro inicial do corpo de prova, clique com o botão direito do mouse e 
+selecione a opção “Medir diâmetro”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Observe o valor na escala do paquímetro. 
+ 
+ 
+ 
+Anote o valor. Em seguida, clique com o botão esquerdo do mouse no “X” vermelho ao 
+canto da tela para retornar o paquímetro e o corpo de prova para a mesa. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Realize a medida do comprimento inicial clicando com o botão direito do mouse sobre 
+o paquímetro e selecionando a opção “Medir comprimento”. 
+ 
+ 
+ 
+Você deverá utilizar as setas para visualizar o restante da escala de medida. 
+ 
+ 
+ 
+Leia o valor apresentado na escala de medida e anote-o. Então, retorne o paquímetro 
+para a mesa.  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Antes  de  posicionar  o  corpo  de  prova  na  máquina  de  ensaio  é  necessário  desacoplar 
+uma das partes de fixação. 
+Acesse a opção de câmera “Bancada” para visualizar a máquina de ensaio. 
+ 
+ 
+ 
+Observe a máquina de ensaio. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Clique  com  o  botão  direito  do  mouse  sobre  o  carro  deslizante  e  selecione  a  opção 
+“Desacoplar carro deslizante”. 
+ 
+ 
+ 
+Observe que a parte móvel se desloca. 
+Em  seguida, acesse a opção de câmera “Mesa” para  visualizar  novamente  o  corpo  de 
+prova. 
+Insira o corpo de prova na garra móvel, clicando com o botão direito do mouse sobre o 
+corpo de prova e selecionando a opção “Mover para a máquina”. 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Em seguida encoste a parte fixa na outra extremidade livre do corpo de prova clicando 
+com  o  botão  direito  do  mouse  sobre  ela  e  selecionando  a  opção  “Acoplar  carro 
+deslizante”. 
+ 
+ 
+ 
+Acesse a opção de câmera “Bancada” para poder visualizar o sistema de medição. 
+ 
+ 
+ 
+Acesse a opção de câmera “Bancada” para poder visualizar o sistema de medição.  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Clique com o botão direito, sobre o componente do sistema de medição sinalizado pela 
+seta vermelha e selecione a opção “Ligar sistema de medição”. 
+ 
+ 
+ 
+ 
+ 
+Observe que ao canto a caixa de informações. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+2. APLICANDO O TORQUE 
+ 
+Faz-se necessário a aplicação de uma pré-carga no sistema para que as folgas inerentes 
+à montagem sejam eliminadas, não exercendo influência sobre os resultados obtidos. 
+Gire o volante da máquina até que o sistema de medidas acuse valores mínimos para o 
+momento torsor e ângulo. Para isso, clique com o botão esquerdo do mouse no volante. 
+ 
+ 
+ 
+Observe atentamente as medidas apresentadas. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Anote esse valor. Em seguida, zere o sistema de medida. Primeiramente, zere o valor do 
+torque apresentado  no  display  “Momento”,  para  isso,  clique  com  o  botão  direito  do 
+mouse sobre o sistema de medição e selecione a opção “Zerar sensor de torque”. 
+ 
+ 
+ 
+Faça o mesmo procedimento para o valor do ângulo de rotação do corpo de prova. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Observe que os valores apresentados nos displays são zerados. 
+ 
+ 
+ 
+Aplique o torque no corpo de prova, realizando o giro no volante da máquina de ensaio 
+de tração. 
+ 
+ 
+ 
+Atenção: Gire o volante da caixa redutora até que o corpo de prova atinja a ruptura. 
+Anote os valores do momento para cada variação de ângulo apresentada pelo corpo de 
+prova. 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Observe o aviso de rompimento do corpo de prova. 
+ 
+ 
+ 
+Atenção: Anote  na  tabela  os  valores  de  momento  e  ângulo  em  que  ocorreu  o 
+rompimento do corpo de prova. 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+ 
+3. DESCARTANDO O CORPO DE PROVA 
+ 
+Zere  os  valores  de  momento  e  ângulo  apresentados  pelo  sistema  de  medida. Após  o 
+rompimento do corpo de prova, desacople o carro deslizante, afastando-o, em seguida, 
+retire o corpo de prova da máquina de ensaio. 
+Para folgar o carro deslizante, clique com o botão direito do mouse sobre ele e selecione 
+a opção “Desacoplar carro deslizante”. 
+ 
+ 
+ 
+Observe que ao folgar o carro deslizante, o corpo de prova é removido e posicionado na 
+mesa. 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE TORÇÃO 
+Para ensaiar um novo corpo de prova, é necessário que o já ensaiado seja descartado. 
+Para  descartá-lo,  clique  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Descartar este espécime”. 
+ 
+ 
+ 
+Realize  os  passos  acima  listados  para  ensaiar  os  outros  corpos  de  prova  e  materiais 
+restantes. 
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  

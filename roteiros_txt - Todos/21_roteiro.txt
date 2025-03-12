@@ -1,0 +1,633 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá explorar as leis de Kirchhoff em circuitos montados 
+em um painel elétrico, além de observar suas propriedades.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Lâmpadas; 
+• Multímetro; 
+• Pontes; 
+• Quadro elétrico. 
+ 
+  
+PROCEDIMENTOS 
+ 
+CIRCUITO I 
+ 
+1. MONTANDO O CIRCUITO I 
+ 
+Posicione as pontes nos bornes 5 e 7 e as lâmpadas em 1, 3, 6, 8 e 9. Ligue o quadro elétrico. 
+ 
+2. MEDINDO A TENSÃO 
+ 
+Ligue  o  multímetro  e  ajuste-o  para  a  medição  de  tensão.  Posicione  as  pontas  de  prova  no 
+quadro e efetue a medição de tensão para todas as lâmpadas, verificando o valor obtido. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+  
+3. MEDINDO A CORRENTE 
+ 
+Posicione  as  pontas  de  prova  na  mesa  e  altere  a  função  do  multímetro  para  a  medição  de 
+corrente. Coloque a ponte 7 na mesa e efetue a medição da corrente que percorre a lâmpada 6, 
+verificando  o  valor  obtido.  Remova  a  ponta  de  prova  do  multímetro  e  reconecte  a  ponte  no 
+borne 7. Coloque  a  ponte  5  na  mesa e efetue  a medição  da  corrente equivalente  no borne 5, 
+verificando o valor obtido. Em seguida, reinicie o experimento para montar o próximo circuito. 
+ 
+CIRCUITO II 
+ 
+4. REPETINDO O CIRCUITO II 
+ 
+Repita  o passo  1  do  primeiro  circuito  para  posicionar  as  pontes  nos  bornes  1,  5,  6  e  7  e  as 
+lâmpadas em 2 e 3. Em seguida, repita os passos 2 e 3 para efetuar as medições de tensão nas 
+lâmpadas e corrente equivalente que percorre este circuito. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  07 e  08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos experimentos,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Anote na Tabela 1 os valores de tensão obtidos no primeiro circuito.  
+Lâmpada Tensão (V) 
+1  
+3  
+6  
+8  
+9  
+Tabela 1 – Dados de tensão obtidos no primeiro circuito 
+ 
+ 
+2. Anote na Tabela 2 os valores de corrente obtidos no primeiro circuito.  
+Corrente elétrica I (A) 
+Lâmpada 6  
+Equivalente do circuito  
+Tabela 2 – Dados de corrente obtidos no primeiro circuito 
+ 
+ 
+3. Anote na Tabela 3 os valores de tensão obtidos no segundo circuito. 
+Lâmpada Tensão (V) 
+2  
+3  
+Tabela 3 – Dados de tensão obtidos no segundo circuito 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+4. Anote na Tabela 4 o valor de corrente obtido no segundo circuito. 
+Corrente elétrica I (A) 
+Equivalente do circuito  
+Tabela 4 – Corrente obtida no segundo circuito 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+TUTORIAL VIRTUALAB 
+ 
+CIRCUITO I 
+ 
+1. MONTANDO O CIRCUITO I 
+ 
+Posicione as pontes no quadro elétrico clicando com o botão direito do mouse sobre a 
+ponte e selecione a opção “Posicionar no borne”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Posicione a ponte clicando com o botão esquerdo do mouse na posição desejada. Para 
+associação em série, posicione a ponte nas posições 5 e 7. 
+ 
+ 
+ 
+Posicione as lâmpadas nos bornes clicando com o botão direito do mouse sobre elas e 
+selecione a opção “Posicionar no borne”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Posicione as lâmpadas nos bornes clicando com o botão esquerdo do mouse na posição 
+desejada. Posicione as lâmpadas nos bornes 1, 3, 6, 8 e 9.  
+ 
+ 
+ 
+Visualize o quadro elétrico clicando com o botão esquerdo do mouse na câmera com o 
+nome “Quadro” localizada dentro do painel de visualização no canto superior esquerdo 
+da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Ligue o quadro clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+2. MEDINDO A TENSÃO 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Configure o multímetro clicando com o botão direito do mouse sobre o ele e selecione 
+a opção “Medir Tensão contínua”. 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Para medir a tensão de um ponto, clique com o botão direito do mouse sobre a ponta 
+de prova positiva do multímetro e selecione a opção “Posicionar no quadro”. 
+ 
+ 
+ 
+Selecione onde deseja posicionar a ponta de prova clicando com o botão esquerdo do 
+mouse sobre o ponto 3A. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Repita o procedimento anterior para a ponteira negativa, selecionando o ponto 3B no 
+quadro elétrico. 
+ 
+ 
+ 
+Observe o valor de tensão no visor do multímetro, localizado no canto superior direito 
+da tela. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Visualize  o quadro  elétrico  clicando  com  o  botão  esquerdo do  mouse  sobre  a  câmera 
+com o nome “Quadro”. 
+ 
+ 
+ 
+Reposicione as ponteiras do multímetro clicando com o botão direito do mouse sobre a 
+ponteira   positiva   e   selecione   a   opção   “Reposicionar   no   quadro”. Repita   este 
+procedimento para a ponteira negativa. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Repita o procedimento de medição para as outras lâmpadas localizadas nos bornes 1, 8, 
+6 e 9. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+3. MEDINDO A CORRENTE 
+ 
+Mova as ponteiras clicando com o botão direito do mouse sobre a ponteira positiva e 
+selecione  a  opção  “Posicionar  na  mesa”.  Repita  o  procedimento com a  ponteira 
+negativa. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse sobre a câmera com o 
+nome “Multímetro”. Se preferir utilize o atalho “Alt+4”. 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Altere  a  função  do  multímetro  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Medir corrente contínua”. 
+ 
+ 
+ 
+Visualize  o quadro  elétrico  clicando  com  o  botão  esquerdo do  mouse  sobre  a câmera 
+com o nome “Quadro”. Se preferir utilize o atalho “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Retire do quadro a ponte que está no borne 7, clicando sobre ela com o botão direito 
+do mouse e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse sobre a câmera com o 
+nome “Multímetro”. Se preferir utilize o atalho “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Posicione as ponteiras no quadro elétrico clicando com o botão direito do mouse sobre 
+elas e selecione a opção “Posicionar no quadro”. 
+ 
+ 
+ 
+Selecione o borne 7 clicando com o botão esquerdo do mouse sobre ele para medir a 
+corrente que passa pela lâmpada 6, observe o resultado. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Visualize  o quadro  elétrico  clicando  com  o  botão  esquerdo do  mouse  sobre  a  câmera 
+com o nome “Quadro”. Se preferir utilize o atalho “Alt+2”. 
+ 
+  
+ 
+Posicione as ponteiras para a mesa clicando com o botão direito do mouse sobre elas 
+selecionando a ação “Posicionar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Reposicione a ponte 5 do circuito para o borne 7 clicando com o botão direito no mouse 
+sobre ele e selecione a ação “Reposicionar no borne”. 
+ 
+ 
+ 
+Visualize o multímetro clicando com o botão esquerdo do mouse sobre a câmera com o 
+nome “Multímetro”. Se preferir utilize o atalho “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Repita o procedimento anterior de medição de corrente, dessa vez para o borne 5. 
+ 
+Abra o menu de configurações localizado no canto superior direito da tela clicando 
+com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Em seguida, clique com o botão esquerdo do mouse para selecionar a opção “Reiniciar 
+experimento”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+CIRCUITO II 
+ 
+4. REPETINDO COM O CIRCUITO II 
+ 
+Repita os procedimentos anteriores do primeiro circuito, posicione as pontes nos bornes 
+1, 5, 6 e 7.  
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  do  primeiro  circuito,  posicione  as  lâmpadas  nos 
+bornes 2 e 3.  
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+Repita os procedimentos  anteriores do tópico 2, efetue as  medições  de  tensão nas 
+lâmpadas do circuito nos locais indicado. 
+ 
+ 
+ 
+Repita  os procedimentos do tópico 3, efetue a  medição da  corrente equivalente  do 
+circuito (borne 5, 6 ou 7). 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE KIRCHHOFF 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”, localizada  nas  páginas  07  e  08  deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema. 

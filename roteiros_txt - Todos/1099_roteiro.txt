@@ -1,0 +1,1111 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre o controle de 
+qualidade de paracetamol. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada; 
+• Balança analítica; 
+• Balão volumétrico de 100 mL; 
+• Béquer de 50 mL; 
+• Cubeta de quartzo; 
+• Espátula; 
+• Espectofotômetro; 
+• Etanol; 
+• Papel de pesagem; 
+• Papel toalha; 
+• Paracetamol; 
+• Pera; 
+• Pipeta volumétrica de 1 mL; 
+• Pipeta volumtétrica de 10 mL. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Para esse experimento será necessário a utilização do jaleco e 
+óculos de proteção. 
+ 
+2. PREPARANDO A SOLUÇÃO DE PARACETAMOL 
+ 
+Ligue  a  balança. Mova o  papel  de  pesagem  para  a  balança e  realize  a  tara. Abra  o 
+frasco  de  paracetamol. Mova o  frasco  e  a  espátula  para  a  balança. Pese 100 g  de 
+paracetamol. Retorne  o  frasco  e  a  espátula  para  a  bancada. Coloque  o  funil  no 
+primeiro balão volumétrico de 100 mL. Mova o papel de pesagem com o paracetamol 
+para o balão volumétrico e transfira o pó. Descarte o papel de pesagem. Abra o frasco 
+de etanol. Mova a pipeta volumétrica de 10 mL ao frasco de etanol. Esvazie a pera. 
+Aspire 10 mL de etanol e transfira para o balão de 100 mL. Retorne a pipeta ao suporte 
+e o funil para a bancada. Agite, realizando movimentos circulares, o balão durante 30 
+minutos. Mova a  pisseta  contendo  água  destilada  para  o  balão e adicione  a  água 
+através  do  funil  até  atingir  a marca  de  100  mL  do  balão. Retorne  a  pisseta  para  a 
+bancada. Tampe o balão volumétrico e homogeneíze. 
+ 
+3. PREPARANDO UMA NOVA DILUIÇÃO 
+ 
+Abra  o  balão  volumétrico. Transfira  o  conteúdo  do  balão  para o béquer  de  50  mL. 
+Mova a pipeta volumétrica de 1 mL ao béquer. Esvazie a pera. Aspire 1 mL da solução 
+de  paracetamol e  transfira  para  o  segundo  balão  de  100  mL. Retorne  a  pipeta  ao 
+suporte. Mova a  pisseta  contendo  água  destilada  para  o segundo balão. Adicione  a 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+  
+água através do funil até atingir a marca de 100 mL do balão. Retorne a pisseta para 
+a bancada. Tampe o balão volumétrico e homogeneíze. 
+ 
+4. MEDINDO A ABSORBÂNCIA DA AMOSTRA 
+ 
+Abra o segundo balão. Transfira a solução de paracetamol para a cubeta de quartzo. 
+Ligue o espectrofotômetro. Abra o compartimento da amostra. Limpe a parte externa 
+da cubeta com o papel toalha. Coloque a cubeta no compartimento da amostra. Feche 
+o  compartimento  da  amostra. Aguarde  alguns  segundos  e  observe  o  valor  de 
+absorbância no visor do equipamento. Abra o compartimento da amostra e retire a 
+cubeta. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é a absorbância de uma solução? 
+ 
+ 
+ 
+2. Por que é utilizado a cubeta de quartzo neste experimento? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e óculos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+2. PREPARANDO A SOLUÇÃO DE PARACETAMOL 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão de ligar. 
+ 
+ 
+ 
+Mova o papel de pesagem clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Balança”. 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão de tara. 
+ 
+ 
+ 
+Mova o  frasco  de  paracetamol clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Balança”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Balança”. 
+ 
+ 
+ 
+Pese 100 g de paracetamol clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Bancada”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova o frasco de paracetamol clicando com o botão direito do mouse sobre o pote e 
+selecione a opção “Bancada”. 
+ 
+ 
+ 
+Abra o balão volumétrico 1 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova o funil clicando com o botão direito do mouse sobre ele e selecione a opção “Balão 
+volumétrico 1”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova o papel de pesagem clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Balão volumétrico 1”. 
+ 
+ 
+ 
+Transfira o pó para o balão clicando com o botão esquerdo do mouse sobre o papel de 
+pesagem. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Descarte  o  papel  de  pesagem clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Descarte”. 
+ 
+ 
+ 
+Abra o frasco de etanol clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a pipeta volumétrica de 10 mL clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na garrafa com etanol”. 
+ 
+ 
+ 
+Insira a pipeta na garrafa clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Inserir no recipiente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Aspire 10 mL de etanol clicando com o botão esquerdo do mouse sobre a válvula S. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Remova a pipeta da garrafa clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Remover do recipiente”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Colocar no balão volumétrico 1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Despeje o líquido no balão clicando com o botão esquerdo do mouse sobre a válvula E. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Colocar no suporte”. 
+ 
+ 
+ 
+Mova  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Feche o frasco de etanol clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Tampe o balão volumétrico 1 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Agite o balão volumétrico 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Agitar”. 
+ 
+ 
+ 
+Avance o tempo clicando com o botão esquerdo do mouse sobre o botão de avançar.  
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Abra o balão volumétrico 1 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre ele e selecione a opção “Balão 
+volumétrico 1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova  a  pisseta contendo  água  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Balão volumétrico 1”. 
+ 
+ 
+ 
+Adicione água até atingir a marca de 100 mL do balão clicando com o botão esquerdo 
+do mouse sobre a pisseta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova  a  pisseta clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Bancada”. 
+ 
+ 
+ 
+Mova  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Feche o balão volumétrico 1 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Homogeneíze o conteúdo do balão volumétrico 1 clicando com o botão direito do mouse 
+ele e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+3. PREPARANDO UMA NOVA DILUIÇÃO 
+ 
+Abra o balão volumétrico 1 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Mova o balão volumétrico 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar sobre o béquer 50 mL”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Transfira o conteúdo do balão clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova o  balão  volumétrico 1  clicando  com  o  botão  direito  do  mouse  sobre o  balão 
+volumétrico e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Abra o balão volumétrico 2 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Mova o funil clicando com o botão direito do mouse sobre ele e selecione a opção “Balão 
+volumétrico 2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a pipeta volumétrica de 1 mL clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar no béquer 50 mL”. 
+ 
+ 
+ 
+Insira a pipeta no béquer clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Inserir no recipiente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Aspire 1 mL da solução de paracetamol clicando com o botão esquerdo do mouse sobre 
+a válvula S. 
+ 
+ 
+ 
+Remova a pipeta do béquer clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Remover do recipiente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e selecione  a  opção 
+“Colocar no balão volumétrico 2”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Despeje o conteúdo no balão clicando com o botão esquerdo do mouse sobre a válvula 
+E. 
+ 
+ 
+ 
+Mova  a  pipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Colocar no suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a  pisseta  contendo  água clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Balão volumétrico 2”. 
+ 
+ 
+ 
+Adicione a água até atingir a marca de 100 mL do balão clicando com o botão esquerdo 
+do mouse sobre a pisseta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova  a  pisseta  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Bancada”. 
+ 
+ 
+ 
+Mova  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Feche o balão volumétrico 2 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Homogeneíze o conteúdo do balão clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+4. MEDINDO A ABSORBÂNCIA DA AMOSTRA 
+ 
+Abra o balão volumétrico 2 clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Mova o balão volumétrico 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar sobre a cubeta”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Transfira a solução de paracetamol clicando com o botão esquerdo do mouse sobre o 
+balão. 
+ 
+ 
+ 
+Mova o balão volumétrico 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Visualize o espectrofotômetro clicando com o botão esquerdo do mouse na câmera com 
+o nome “Espectrofotômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Visualize o visor do aparelho clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Ligue o aparelho clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Abra o  compartimento  da  amostra clicando  com o  botão  esquerdo  do  mouse  sobre a 
+tampa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Limpe a parte externa da cubeta com o papel toalha clicando com o botão esquerdo do 
+mouse sobre o local indicado. 
+ 
+ 
+ 
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Mova a  cubeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Espectrofotômetro”. 
+ 
+ 
+ 
+Feche o compartimento da amostra clicando com o botão esquerdo do mouse sobre a 
+tampa.  
+ 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+Abra o  compartimento  da  amostra clicando  com o  botão  esquerdo  do  mouse  sobre a 
+tampa. 
+ 
+ 
+ 
+Mova a cubeta de quartzo clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GARANTIA E CONTROLE DE QUALIDADE 
+CONTROLE DE QUALIDADE DE PARACETAMOL - PARTE II 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema. 

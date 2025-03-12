@@ -1,0 +1,490 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você irá comparar carbonatos e silicatos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Capela; 
+• Solução saturada de Na
+2
+CO
+3
+; 
+• Solução saturada de Na
+2
+SiO
+3
+; 
+• Sulfato de níquel (II) hexahidratado; 
+• Sulfato de cobre (II) pentahidratado; 
+• Cloreto de Ferro (III); 
+• Bastão de vidro; 
+• Fenolftaleína; 
+• Ácido clorídrico (HCl). 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Inicialmente,  ligue  o  exaustor.  Em  seguida, abra  a  janela  da  capela  e ligue  a 
+iluminação.  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+3. TRANSFERINDO OS CRISTAIS PARA OS BÉQUERES 
+ 
+Despeje sulfato de níquel, sulfato de cobre e cloreto de ferro em cada um dos 
+béqueres.  Em  seguida,  aguarde  24  horas  e  inspecione  os  conteúdos  dos 
+béqueres, comparando os seus aspectos físicos.  
+ 
+4. ADICIONANDO A FENOLFTALEÍNA E O ÁCIDO CLORÍDRICO  
+ 
+Adicione 10 gotas de fenolftaleína nos dois Erlenmeyers e observe os resultados.
+ 
+Em seguida, repita o procedimento adicionando, sob agitação, 30 gotas de ácido 
+clorídrico. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Descreva o fenômeno ocorrido no béquer 2 após 24 horas.  
+ 
+ 
+ 
+2. Com base nos seus conhecimentos, como você justifica a mudança de coloração 
+das soluções de Na
+2
+CO
+3
+ e Na
+2
+SiO
+3
+ com  a adição  da  fenolftaleína  e  do ácido 
+clorídrico? 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Ligue  o  exaustor  da  capela  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado na imagem abaixo. 
+ 
+ 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse sobre ela. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Ligue a iluminação clicando com o botão esquerdo do mouse sobre o botão “Luz LED”.  
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+3. TRANSFERINDO OS CRISTAIS PARA OS BÉQUERES 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Principal”  localizada  dentro  do painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Despeje sulfato de níquel no béquer 1 clicando com o botão esquerdo do mouse sobre 
+o vidro de relógio que contém a substância. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Despeje  o  sulfato  de  cobre  e  o  cloreto  de  ferro  no  béquer  1 clicando  com  o  botão 
+esquerdo do mouse sobre cada um dos vidros de relógio que contém as substâncias. 
+ 
+ 
+ 
+Despeje  as  três  substâncias  no  béquer  2  repetindo  o  processo  de  clicar  com  o  botão 
+esquerdo do mouse sobre cada um dos vidros de relógio. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Aguarde 24 horas clicando com o botão esquerdo do mouse sobre o botão “Aguardar 
+24h”. 
+ 
+ 
+ 
+Inspecione o conteúdo do béquer 1 clicando com o botão esquerdo do mouse sobre o 
+béquer. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+É possível  aproximar  e  afastar  o  béquer  utilizando  o  botão  de  rolagem  do  mouse. 
+Também é possível rotacionar o béquer em todas as direções ao manter o botão direito 
+do mouse pressionado sobre o béquer enquanto movimenta o mouse. 
+ 
+ 
+ 
+Após  a  inspeção,  retorne à  capela  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão Retornar no canto superior direito da janela, representado pelo “X”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Repita os procedimentos anteriores para inspecionar o conteúdo do béquer 2. 
+ 
+ 
+ 
+Observe e compare o aspecto físico dos conteúdos dos dois béqueres. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+4. ADICIONANDO A FENOLFTALEÍNA E O ÁCIDO CLORÍDRICO 
+ 
+Retorne à capela clicando com o botão esquerdo do mouse sobre o botão Retornar no 
+canto superior direito da janela, representado pelo “X”. 
+ 
+ 
+ 
+Visualize os  Erlenmeyers clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Vidrarias 02” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Adicione 10  gotas  de  fenolftaleína  no Erlenmeyer  1  clicando  com  o  botão  direito  do 
+mouse sobre o frasco conta-gotas e selecionando a opção “Adicionar no Erlenmeyer 1”. 
+ 
+ 
+ 
+Repita o procedimento para adicionar 10 gotas de fenolftaleína no Erlenmeyer 2. 
+Observe e compare os resultados dos dois Erlenmeyers. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+Adicione,  sob  agitação,  30  gotas  de  ácido  clorídrico  no  Erlenmeyer  1  clicando  com  o 
+botão direito do mouse sobre o frasco conta-gotas e selecionando a opção “Adicionar 
+no Erlenmeyer 1”. 
+ 
+ 
+ 
+Repita  o  procedimento  para  adicionar,  sob  agitação,  30  gotas  de ácido  clorídrico  no 
+Erlenmeyer 2. 
+Observe e compare os resultados dos dois Erlenmeyers. 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA INORGÂNICA 
+COMPARAÇÃO ENTRE CARBONATOS E SILICATOS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 
+V 1.1 – AB1 

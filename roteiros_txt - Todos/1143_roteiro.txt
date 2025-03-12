@@ -1,0 +1,409 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a prevenção 
+de quedas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Clampe de identificação; 
+• Maca com grade; 
+• Pijamas; 
+• Prancheta. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as  mãos  na  pia. Mova os  equipamentos  de  proteção  individual  localizados  no 
+“Armário  de  EPIs”.  Para  esse  experimento  será  necessário  a  utilização  do pijama, jaleco e 
+máscara. 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide  o  paciente  para  entrar. Realize  a  anamnese. Em  seguida,  solicite  ao  paciente  que 
+assine o termo de consentimento. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+  
+3. AVALIANDO O PACIENTE 
+ 
+Observe as informações sobre o paciente. Selecione o risco ao paciente. Em seguida, aplique 
+a clampe  no  paciente. Classifique  o  resultado  obtido  após  realização  do  teste. Aplique  a 
+clampe no paciente. Realize orientação ao paciente. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais as formas de prevenção de quedas? 
+ 
+ 
+ 
+2. Por que é importante a prevenção de quedas? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do  mouse  sobre  eles.  Nesse  experimento,  é  obrigatório  o  uso  de  jaleco,  máscara  e 
+pijama. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Visualize o paciente clicando com o botão esquerdo do mouse na câmera com o nome 
+“Paciente” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Chame o paciente clicando com o botão esquerdo do mouse sobre o botão “CHAMAR 
+PACIENTE”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Realize a anamnese clicando com o botão esquerdo do mouse sobre a prancheta. 
+ 
+ 
+ 
+Peça ao paciente que assine o termo de consentimento clicando com o botão esquerdo 
+do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+3. AVALIANDO O PACIENTE 
+ 
+Observe as informações sobre o paciente e avance clicando com o botão esquerdo do 
+mouse sobre o botão “Avançar”. 
+ 
+ 
+ 
+Selecione o risco ao paciente clicando com o botão esquerdo do mouse sobre uma das 
+opções. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Prossiga clicando com o botão esquerdo do mouse sobre o botão “Avançar”. 
+ 
+ 
+ 
+Aplique a clampe no paciente clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Oriente o paciente clicando com o botão direito do mouse sobre a prancheta. 
+ 
+ 
+ 
+Escolha os procedimentos correspondentes ao risco clicando com o botão esquerdo do 
+mouse sobre as caixas de respostas e selecione a opção “Sim” ou “Não”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+Finalize  a  orientação  clicando  com  o botão  esquerdo  do  mouse  sobre  o  “X”  na 
+prancheta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO FUNDAMENTOS DE ENFERMAGEM 
+ORIENTAÇÕES DE ENFERMAGEM NA PREVENÇÃO DE QUEDAS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

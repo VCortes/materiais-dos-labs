@@ -1,0 +1,409 @@
+
+
+ 
+ 
+1 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+INSTRUCCIONES GENERALES 
+ 
+ 
+1. En este experimento, mejorará sus conocimientos y comprenderá el concepto y 
+las características de los campos conservadores y no conservadores. 
+ 
+2. Utilice  la  sección "recomendaciones  de  acceso" para aprovechar  al máximo  la 
+experiencia virtual y obtener respuestas a preguntas frecuentes sobre virtualab.  
+ 
+3. Si no sabe cómo manipular el laboratorio virtual, utilice el “tutorial de virtuallab” 
+presente en esta guía. 
+ 
+4. Si ya estás familiarizado con el laboratorio virtual, encontrarás instrucciones para 
+realizar esta práctica en el subapartado “trámites”. 
+ 
+5. Al  final  del  experimento,  responda  las  preguntas  de  la  sección "evaluación  de 
+resultados".  
+
+ 
+ 
+2 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+RECOMENDACIONES DE ACCESO 
+ 
+Para acceder a virtualab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Si utilizas windows 10, dale preferencia al navegador google chrome; 
+2. Si utiliza windows 7, dé preferencia al navegador mozilla firefox; 
+3. Cierre otros programas que puedan sobrecargar su computadora; 
+4. Asegúrese de que su navegador esté actualizado; 
+5. Realiza una prueba de velocidad de internet. 
+ 
+En  la  siguiente  página  presentamos  las  dos  principales  dudas  a  la  hora  de  utilizar 
+laboratorios virtuales. Si no se aplican a su problema, consulte nuestra sección “preguntas 
+frecuentes”, disponible en: https://algetec.Movidesk.Com/kb/pt-br/ 
+Usando  este  mismo  enlace,  puede  usar el  chat o  abrir  un  ticket  para  comunicarse  con 
+nuestro  centro  de  soporte.  Si  lo  prefiere,  utiliceloscódigos  qr  para  contacto  directo  a 
+través de whatsapp (de 8 a. M. A 6 p. M.) o para dirigirlo al centro de soporte. ¡cuente 
+con nosotros! 
+Atención:  El  acceso  al  laboratorio  virtual  deberá realizarse  a través  de un  ordenador. 
+No es posible acceder a la tablet por celular.  
+El requisito mínimo para su computadora es primero 4 GB de RAM. 
+El acceso será un poco más lento al buscar algunos complementos en su navegador. A 
+partir del segundo acceso la velocidad de apertura de los experimentos será más rápida. 
+
+ 
+ 
+3 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+Preguntas frecuentes 
+ 
+ 
+1)  El laboratorio virtual es lento, ¿qué debo hacer? 
+ 
+a) En  google  chrome,  haga clic  en  "configuración" ->  "avanzado" ->  "sistema" -> 
+"usar  aceleración  de  hardware  cuando  esté  disponible". Habilite  la  opción  y 
+reinicie el navegador. 
+ 
+b) Verifique  la  configuración  de  su  controlador  de  video  o  equivalente.  En  el 
+escritorio,  haga  clic  derecho.  Elija  "configuración  de  gráficos"  y  busque  la 
+configuración de rendimiento. Elija la opción de máximo rendimiento.  
+Nota:  los  accesos  directos  y  los  procedimientos  pueden  variar  según  el 
+controlador de video instalado en la máquina. 
+ 
+c) Cierra otras aplicaciones y pestañasque puedan sobrecargar tu computadora. 
+ 
+d) Verifique  el  uso  del  disco  en  el  administrador  de  tareas  (ctrl  +  shift+  esc) -> 
+"detalles". Si está al 100%, cierra otras aplicaciones o reinicia tu computadora. 
+  
+
+ 
+ 
+4 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+2) El laboratorio mostró una pantalla negra, ¿qué debo hacer? 
+ 
+a) En  google  chrome,  haga clic  en  "configuración" ->  "avanzado" ->  "sistema" -> 
+"usar  aceleración  de  hardware  cuando  esté  disponible".  Habilite  la  opción  y 
+reinicie el navegador. Si persiste, desactiva la opción y vuelve a intentarlo. 
+ 
+b) Verifique  la  configuración  de  su  controlador  de  video  o  equivalente.  En  el 
+escritorio,  haga  clic  derecho.  Elija  "configuración  de  gráficos"  y  busque  la 
+configuración de rendimiento. Elija la opción de máximo rendimiento.  
+Nota:  los  accesos  directos  y  los  procedimientos  pueden  variar  según  el 
+controlador de video instalado en la máquina. 
+ 
+c) Asegúrese de que su navegador esté actualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+DESCRIPCIÓN DEL LABORATORIO 
+ 
+ 
+  
+PROCEDIMIENTOS 
+ 
+1. CONOCIENDO LAS HERRAMIENTAS PREDEFINIDAS 
+ 
+Conozca  las  herramientas  y  la  funcionalidad  de  cada  botón  disponible  en  el  menú  del 
+laboratorio.  Explore  lasfunciones  predefinidas haciendo clic en el botón “expresiones” y 
+observe  sus proyecciones en el plano y luego, haciendo clic en el botón “trayectorias”, 
+descubra  los caminos  sugeridos,  prestando  atención  a  los  parámetros  correspondientes 
+ubicados en la parte inferior del pantalla. 
+ 
+2. CAMBIAR LOS PARÁMETROS 
+ 
+Cambie   la   función manualmente   ingresando   los   valores   deseados   en   los   campos 
+previst 퐹푥 os퐹푦 y observe el comportamiento del campo vectorial correspondiente. También 
+variar  el  número  de  muestras  y  los  valores  referentes  a  máximo  y  mínimo  x  e  y. Tenga  en 
+cuenta que las coordenadas de unpunto determinado, dadas según la posición del cursor del 
+mouseen el plano, se pueden ver en el cuadro ubicado en la parte inferior de la pantalla. 
+Nota: la precisión de las expresiones puede verse comprometida si los valores son alrededor 
+d1푥10
+19
+e. 
+ 
+
+ 
+ 
+6 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+  
+3. TRAZANDO UNA TRAYECTORIA 
+ 
+Traza  una  trayectoria  manualmente,  con  la  ayuda  del  ratón,  y  luego  cambia  la  posición  del 
+punto en la trayectoria ab estipulada. Consulta los valores correspondientes a la variación de 
+posición en el cuadro ubicado en la parte inferior de la pantalla. 
+ 
+4. EVALUANDO LOS RESULTADOS 
+ 
+Diríjase a la sección “evaluación de resultados”, ubicada en las páginas 07 y 08 de este guion, 
+y  responda  de  acuerdo  a lo  observado  en  el  experimento,  asociándolo  también  con  los 
+conocimientos aprendidos sobre el tema.  
+ 
+
+ 
+ 
+7 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+EVALUACIÓN DE RESULTADOS 
+ 
+ 
+ 
+1. Ingrese el campo vectorial a explorar: y 퐹
+푥
+=0.퐹
+푦
+=9,8 
+ 
+ 
+ 
+2. Dibuja al menos 5 caminos diferentes, incluido uno recto desde el punto inicial 
+hasta el final, unoformado por un camino horizontal y un camino recto vertical. 
+Registre los valores obtenidos. 
+ 
+ 
+ 
+3. Repita  los  pasos  anteriores con  tres  campos  vectoriales  más: 퐹
+푥
+=푦 푒 퐹
+푦
+=
+푥; 퐹
+푥
+=−푦 푒 퐹
+푦
+=푥;퐹
+푥
+=푦 푒 퐹
+푦
+=푥푦. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+4. Finalmente,   explore   los   tres   campos   vectoriales   previamente   insertados 
+cambiando  los  parámetros  xmin,  xmax,  ymin,  ymax  y  el  número  de muestras, 
+identificando  la  influencia  de  estos  cambios  en  los  patrones  cualitativos  y 
+cuantitativos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+TUTORIAL DE LABORATORIO VIRTUAL 
+ 
+ 
+1. CONOCIENDO LAS HERRAMIENTAS PREDEFINIDAS 
+ 
+Cambie entre las funciones predefinidas haciendo clic con el botón izquierdo del mouse 
+en el botón "expresiones". 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+Cambie entre las rutas sugeridas haciendo clic con el botón izquierdo del mouse en el 
+botón "trayectorias". 
+ 
+ 
+ 
+Vea la variación de parámetros en la parte inferior de la pantalla. 
+ 
+ 
+  
+
+ 
+ 
+11 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+2. CAMBIAR LOS PARÁMETROS 
+ 
+Cambie 퐹푥 haciendo  clic  con  el  botón  izquierdo  del  mouse  en  el  cuadro  indicado  y 
+escriba el valor usando el teclado de su computadora. 
+ 
+ 
+ 
+Cambie 퐹푦 haciendo  clic  con  el  botón  izquierdo  del  mouse  en  el  cuadro  indicado  y 
+escriba el valor usando el teclado de su computadora. 
+ 
+  
+
+ 
+ 
+12 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+Varíe el número de muestras haciendo clic con el botón izquierdo del mouse en el botón 
+indicado y arrastrando. 
+ 
+ 
+ 
+Varíe la x mínima haciendo clic con el botón izquierdo del mouse en el botón indicado y 
+arrastrando. 
+ 
+ 
+  
+
+ 
+ 
+13 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+Varíe la x máxima haciendo clic con el botón izquierdo del mouse en el botón indicado 
+y arrastrando. 
+ 
+ 
+ 
+Varíe la y mínima haciendo clic con el botón izquierdo del mouse en el botón indicado y 
+arrastrando. 
+ 
+ 
+  
+
+ 
+ 
+14 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+Varíe la y máxima haciendo clic con el botón izquierdo del mouse en el botón indicado 
+y arrastrando. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+3. TRAZANDO UNA TRAYECTORIA 
+ 
+Traza  una  trayectoria  haciendo  clic  con  el  botón  izquierdo  del  ratón  en  el  avión  y 
+arrastrando. 
+ 
+ 
+ 
+Cambie la posición del punto en la trayectoria haciendo clic con el botón izquierdo del 
+mouse en el botón indicado y arrastrando. 
+ 
+  
+
+ 
+ 
+16 
+Algetec – soluciones tecnológicas en educación  
+Cep: 40260-215 teléfono: 71 3272-3504   
+Correo electrónico: contacto@algetec.Com.Br  |  Sitio web: www.Algetec.Com.Br 
+ 
+LABORATORIO DE CAMPOS VECTORIALES 
+FUERZAS CONSERVADORAS Y NO CONSERVADORAS 
+ 
+4. EVALUANDO LOS RESULTADOS 
+ 
+Diríjase a la sección “evaluación de resultados”, ubicada en las páginas 07 y 08 de este 
+guion, y responda de acuerdo a lo observado en el experimento, asociándolo también 
+con los conocimientos aprendidos sobre el tema. 
+ 

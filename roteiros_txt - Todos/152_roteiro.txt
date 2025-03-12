@@ -1,0 +1,376 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá entender as etapas do processo de locação de obra. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água; 
+• Barbante; 
+• Piquete de madeira; 
+• Trena; 
+• Esquadro de alumínio; 
+• Facão; 
+• Linha de pedreiro; 
+• Mangueira de nível; 
+• Marreta; 
+• Martelo; 
+• Planta; 
+• Pregos; 
+• Prumo de centro; 
+• Tinta branca. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+PROCEDIMENTOS 
+ 
+1. MARCANDO OS PIQUETES 
+ 
+Marque os piquetes ao redor do terreno.  
+ 
+2. UNINDO OS PIQUETES 
+ 
+Una os piquetes utilizando barbantes.  
+ 
+3. CRIANDO OUTRAS LINHAS 
+ 
+Crie as outras linhas de referência, sempre garantindo a perpendicularidade.  
+ 
+4. COMPARANDO AS MEDIDAS 
+ 
+Compare as medidas do terreno com as medidas oficiais. 
+ 
+5. DEMARCANDO RECUOS 
+ 
+Inicie a montagem do gabarito, demarcando os recuos. 
+ 
+6. CRAVANDO AS ESTACAS DO GABARITO 
+ 
+Crave as estacas do gabarito e realize o seu nivelamento. 
+ 
+7. FIXANDO O RIPÃO 
+ 
+Fixe o ripão no nível marcado do gabarito. 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+8. ADEQUANDO A GEOMETRIA 
+ 
+Utilize  o  esquadro  de  linha  para  adequar  a  geometria  da  obra  e corrigi-la,  se 
+necessário. 
+ 
+9. MARCANDO PAREDES INTERNAS 
+ 
+Marque a posição das paredes internas no gabarito. 
+ 
+10. MARCANDO EIXOS E SAPATAS 
+ 
+Marque a posição dos eixos de pilares e sapatas. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da etapa de locação de obra?  
+ 
+ 
+ 
+2. Cite  algumas  das  possíveis  consequências  de  erros  cometidos  nessa  etapa  da 
+obra. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. EXPLORANDO O LABORATÓRIO 
+ 
+Inicie a prática explorando o ambiente do laboratório. Para realizar essa ação, pressione 
+e arraste o mouse em qualquer direção.  
+Quando estiver pronto para prosseguir, clique com o botão esquerdo do mouse sobre o 
+botão “Vamos lá!”. 
+ 
+  
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+Dica: Utilize o menu para acompanhar as etapas do experimento. Para isso, basta clicar 
+com o botão esquerdo do mouse sobre o botão que está no canto superior esquerdo da 
+tela, indicado na imagem acima. 
+ 
+ 
+ 
+Uma mensagem com uma breve apresentação sobre o experimento surgirá na tela. Leia-
+a atentamente e, quando estiver pronto para prosseguir, clique com o botão esquerdo 
+do mouse sobre o botão “OK”. 
+ 
+  
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+2. SELECIONANDO OS MATERIAIS NECESSÁRIOS 
+ 
+Selecione  os  materiais  e  equipamentos  necessários  para  esta  prática,  clicando  com  o 
+botão esquerdo do mouse sobre os mesmos.  
+ 
+ 
+ 
+Após selecionar todos os materiais adequados, clique no botão “Confirmar”.  
+ 
+  
+ 
+Verifique  a  mensagem  que  aparecerá  com  o  resultado  desta  etapa.  Para  prosseguir, 
+clique no botão “OK”. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+ 
+3. RESPONDENDO AS ATIVIDADES 
+ 
+Nesta etapa, você deverá responder as atividades propostas. Para isso, leia atentamente 
+o enunciado da pergunta e as opções disponíveis. Em seguida, clique sobre a resposta 
+correta. 
+Dica: É  possível  acompanhar  as  atividades  através  do  menu que  se  encontra  na  parte 
+superior da tela, destacado na imagem abaixo. 
+ 
+ 
+ 
+É possível visualizar o procedimento do passo correspondente através de um vídeo, após 
+ter respondido à pergunta corretamente. 
+ 
+  
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LOCAÇÃO DE OBRA 
+Dica: O procedimento pode ser visualizado em primeira ou terceira pessoa. Você pode 
+alterar  o  modo  de  visualização  através  do  botão  destacado  na  imagem  acima.  Além 
+disso,  é  possível  pausar  e  voltar  o  vídeo,  melhorando  a  compreensão  da  prática 
+realizada. 
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Após  concluir  as  atividades,  você  deverá  finalizar  a  prática clicando com  o  botão 
+esquerdo do mouse sobre o botão “Fim”. 
+ 
+  
+ 
+Siga   para   a   seção   “Avaliação   de   resultados”,   neste   roteiro,   e   responda   aos 
+questionamentos. 
+ 
+ 

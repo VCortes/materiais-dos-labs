@@ -1,0 +1,810 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    as 
+características fundamentais do tecido epitelial. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico; 
+• Algodão; 
+• Cotonete; 
+• Gaze; 
+• Lâmina; 
+• Lamínula; 
+• Microscópio óptico; 
+• Notebook; 
+• Solução de limpeza. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Para esse experimento será necessário a utilização do jaleco e 
+luvas. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+  
+2. APRENDENDO CONCEITOS 
+ 
+Ligue  o  notebook  e  clique  no  ícone  “Histolab – Tecido  Epitelial”.  Na  aba  “Atlas” 
+visualize   ilustrações   dos   tecidos   epiteliais.   Na   aba   “Vídeos”   assista  os   vídeos 
+disponíveis sobre as características gerais, as classificações do epitélio e um resumo 
+geral sobre o tecido epitelial. Na aba “Mapa Mental” leia um resumo sobre o tecido 
+epitelial. 
+ 
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue  o  microscópio  e  abra  o  laminário.  Escolha  uma  lâmina  e  mova  para  o 
+microscópio.  Visualize  a  lâmina  na  objetiva  de  4x,  10x  e  40x.  Atente-se  à  instrução 
+que,   para   movimentação   do   revólver   ou   para   efetuar   as   configurações   de 
+posicionamento  dos  parafusos,  condensador  ou  diafragma,  deve-se  clicar  com  o 
+botão  esquerdo  do  mouse  sobre  a  área  desejada  e  movimentar  o  cursor  do  mouse 
+para  direita  ou  esquerda.  Retire  a  lâmina  e  mova  para  o  laminário.  Higienize  as 
+oculares  do  microscópio  utilizando um  cotonete e  uma  solução  de  limpeza.  Escolha 
+uma nova lâmina e repita os passos anteriores. 
+ 
+4. PROCEDIMENTO FINAL DE SEGURANÇA 
+ 
+Desligue o microscópio e higienize o equipamento utilizando um algodão umedecido 
+com  álcool  etílico  para  limpar  a  platina.  Limpe  as  oculares  do  microscópio  com  um 
+cotonete umedecido com uma solução de limpeza. Limpe as objetivas com a gaze. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+  
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  características  devem  ter  um  tecido  para  ser  considerado  um  tecido 
+epitelial? 
+ 
+ 
+ 
+2. Quais    características    possibilitam    diferenciar    os    epitélios    de transição, 
+pseudoestratificado e estratificado? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+2. APRENDENDO CONCEITOS 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra o aplicativo clicando com o botão esquerdo do mouse sobre o ícone indicado. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Abra a aba “Atlas” clicando com o botão esquerdo do mouse sobre o botão “Atlas”. 
+ 
+ 
+ 
+Escolha  o  tipo  de  tecido  clicando  com  o  botão  esquerdo  do  mouse  sobre  os  botões 
+indicados. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Amplie a imagem clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Diminua o tamanho da imagem clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Mova  a  imagem  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste com o mouse a imagem. 
+ 
+ 
+ 
+Feche a imagem clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Repita os procedimentos anteriores com os demais epitélios. 
+ 
+ 
+ 
+Abra a aba “Vídeos” clicando com o botão esquerdo do mouse sobre o botão “Vídeos”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Escolha o vídeo clicando com o botão esquerdo do mouse sobre um dos vídeos. 
+ 
+ 
+ 
+Reinicie o vídeo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Pause o vídeo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize todo o texto clicando com o botão esquerdo do mouse e arrastando o botão 
+de rolagem indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Feche o vídeo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Repita os procedimentos anteriores com os demais vídeos. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Abra  a  aba  “Mapa  Mental”  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Mapa Mental”. 
+ 
+ 
+ 
+Visualize  o  mapa  mental  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Amplie a imagem clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Diminua o tamanho da imagem clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Mova  a  imagem  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  e 
+arraste com o mouse a imagem. 
+ 
+ 
+ 
+Feche o aplicativo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Desligue o notebook clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+3. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Visualize a frente do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio Frontal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Abra o laminário clicando com o botão esquerdo do mouse sobre a tampa do laminário. 
+ 
+ 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse sobre uma lâmina. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Visualize a ocular clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Higienize o microscópio clicando com o botão esquerdo do mouse sobre o papel filtro. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+4. PROCEDIMENTO FINAL DE SEGURANÇA 
+ 
+Feche as oculares clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Desligue a luz clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Mova  a  garrafa  de  álcool  etílico  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+garrafa indicada. 
+ 
+ 
+ 
+Mova a garrafa de solução de limpeza clicando com o botão esquerdo do mouse sobre 
+a garrafa indicada. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Umedeça o algodão clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+ 
+Higienize a mesa e a platina clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Umedeça o cotonete clicando com o botão esquerdo do mouse sobre o cotonete. 
+ 
+ 
+ 
+Higienize as oculares clicando com o botão direito do mouse sobre o cotonete. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+Higienize as objetivas clicando com o botão esquerdo do mouse sobre o cotonete. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+HISTOLAB 
+TECIDO EPITELIAL 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

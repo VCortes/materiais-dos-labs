@@ -1,0 +1,760 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+  
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  realizar  um  ensaio  baseado  na  norma  vigente, 
+levantando a curva granulométrica de diferentes amostras de solo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água; 
+• Amostra de solo representativa; 
+• Balança; 
+• Cápsulas resistentes à estufa; 
+• Estufa; 
+• Haste de adensamento; 
+• Misturador Elétrico; 
+• Recipiente para amostra. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. PESANDO A AMOSTRA 
+ 
+Utilize  a  balança  para  encontrar  as  massas  das  amostras  do  solo  1  disponíveis  para  o 
+experimento. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+  
+2. POSICIONANDO AS PENEIRAS 
+ 
+Posicione  as  peneiras  para  o  peneiramento  grosso  no agitador  de  forma  que,  na  base  se 
+encontre o recipiente de fundo para peneiras e, em seguida, adicione em ordem crescente de 
+abertura, as peneiras com diâmetro maior ou igual a 2 mm. 
+ 
+3. UTILIZANDO O AGITADOR 
+ 
+Adicione  a  amostra  de  solo  1  que  foi  preparada  para  o  peneiramento  grosso  no  jogo  de 
+peneiras e acione o agitador. Aguarde 15 minutos para que o processo seja concluído. 
+ 
+4. MEDINDO AS MASSAS EM CADA PENEIRA 
+ 
+Retire cada peneira e, após remover seu material passante, pese na balança o material retido 
+na  peneira  e  no  fundo  da  peneira.  Deposite  o  material  que  foi  pesado  em  uma  segunda 
+bandeja. Descarte o conteúdo da bandeja. 
+ 
+5. REALIZANDO O PENEIRAMENTO FINO 
+ 
+Repita  o  passo  2,  3  e  4  utilizando  as  peneiras  indicadas  para  realizar  o  procedimento  de 
+peneiramento fino. 
+ 
+6. ENSAIANDO AS OUTRAS AMOSTRAS DE SOLO 
+ 
+Repita os passos 1, 2, 3, 4 e 5 com as amostras de solo 2 e 3. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+  
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 08 e 09 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Preencha  as  Tabelas  1  e  2  com  os  dados  obtidos  para  a  amostra  1.  A  quarta 
+coluna da tabela corresponde à massa do material retido em uma determinada 
+peneira. A quinta coluna é o percentual do total do material que foi retido em 
+uma determinada peneira. Na sexta coluna, o valor de cada célula corresponde 
+ao  somatório dos  percentuais  retidos  (quinta  coluna)  da  linha  atual  e todas  as 
+linhas  anteriores.  A  sétima  coluna  corresponde  à  diferença  entre  100%  da 
+amostra e a quinta coluna. 
+ 
+Tipo de 
+Peneiramento 
+Peneiras 
+(No.) 
+Abertura 
+(mm) 
+Material 
+Retido (g) 
+Percentual 
+Retido (%) 
+Percentual 
+Retido 
+Acumulado (%) 
+Percentual Passante 
+Acumulado (%) 
+Grosso 
+1 ½" 38,1 
+        
+1" 25,4 
+        
+¾" 19,1 
+        
+3/8" 9,52 
+        
+4 4,8 
+        
+8 2,4 
+        
+10 2 
+        
+Fundo -     
+Massa da 
+amostra (g)   
+Total   
+   
+Tabela 1- Resultados experimentais do peneiramento grosso 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Tipo de 
+Peneiramento 
+Peneiras 
+(No.) 
+Abertura 
+(mm) 
+Material 
+Retido (g) 
+Percentual 
+Retido (%) 
+Percentual 
+Retido 
+Acumulado (%) 
+Percentual Passante 
+Acumulado (%) 
+Fino 
+  
+10 2 
+        
+16 1,2 
+        
+30 0,6 
+        
+40 0,42 
+        
+50 0,3 
+        
+100 0,15 
+        
+200 0,075 
+        
+Fundo -         
+Massa da 
+amostra (g)   
+Total   
+   
+Tabela 2- Resultados experimentais do peneiramento fino 
+ 
+ 
+ 
+2. Trace  a  curva  granulométrica  da  amostra  de  solo  1.  Disponha,  na  abscissa  do 
+gráfico, os diâmetros das partículas em escala logarítmica. Na ordenada, utilize 
+as porcentagens das partículas passantes acumuladas, em escala linear. 
+ 
+ 
+ 
+3. Preencha as Tabelas 1 e 2 e trace a curva granulométrica para as amostras 2 e 3. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. PESANDO A AMOSTRA 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”  localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Ligue a balança clicando com o botão esquerdo do mouse no botão ligar. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Coloque a bacia na balança clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Colocar na balança”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão “Tara”. 
+ 
+ 
+ 
+Devolva  a  bacia  para  a  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar no tampo”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Coloque a bacia com amostra 1 para peneiramento grosso na balança clicando com o 
+botão direito do mouse sobre ele e selecione a opção “Colocar na balança”. Verifique 
+no display da balança a massa da amostra. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Retorne com a bacia com amostra 1 para o tampo da mesa clicando com o botão direito 
+do mouse sobre ela e selecione a opção “Colocar no tampo”. 
+ 
+ 
+ 
+Coloque a bacia com amostra 1 para peneiramento fino na balança clicando com o botão 
+direito  do  mouse  sobre  ele  e  selecione  a  opção  “Colocar  na balança”.  Verifique  no 
+display da balança a massa da amostra. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Devolva  a  bacia  para  a  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar no tampo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+2. POSICIONANDO AS PENEIRAS 
+ 
+Coloque o fundo para peneiras no agitador clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Colocar no agitador”. 
+ 
+ 
+ 
+Coloque  a  peneira  com  abertura  2  mm  no  agitador clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar no agitador”. 
+ 
+ 
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Repita o procedimento anterior para posicionar todas as peneiras no agitador em ordem 
+crescente de abertura. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+3. UTILIZANDO O AGITADOR 
+ 
+Despeje a amostra de solo nas peneiras clicando com o botão direito do mouse sobre a 
+bacia com a mostra de solo e selecione a opção “Despejar nas peneiras”. 
+ 
+ 
+ 
+Ligue o agitador clicando com o botão esquerdo do mouse sobre o agitador. 
+ 
+ 
+ 
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Avance  a  contagem de  15  minutos  clicando  com o  botão esquerdo do mouse  sobre o 
+botão “Pular etapa de espera”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+4. MEDINDO AS MASSAS EM CADA PENEIRA 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Zere o valor exibido no display clicando com o botão esquerdo do mouse sobre o botão 
+TARA da balança. 
+ 
+ 
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Coloque a bandeja funda na balança clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Pressione o botão TARA clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Coloque a bandeja de volta no tampo da bancada clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Colocar no tampo”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Remova  o  material  passante  da  peneira  no  topo  do  agitador clicando  com  o  botão 
+direito do mouse sobre ele e selecione a opção “Remover material passante”. 
+ 
+ 
+ 
+Despeje o conteúdo da peneira na bandeja clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Despejar na bandeja”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Coloque a bandeja funda na balança clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Despeje o conteúdo da bandeja na outra bandeja clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Despejar na outra bandeja”. Caso ela esteja vazia, retorne 
+a bandeja sobre a balança para a mesa e selecione a opção “Colocar no tampo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Repita o procedimento apresentado neste passo até que todas as peneiras tenham sido 
+retiradas do agitador, restando apenas o fundo das peneiras. 
+ 
+Despeje o conteúdo do fundo para peneiras na bandeja clicando com o botão direito do 
+mouse sobre ela e selecione a opção “Despejar na bandeja”. 
+ 
+ 
+ 
+Coloque  a  bandeja  na  balança clicando  com  o  botão  direito  do  mouse sobre  ela e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+Despeje o conteúdo final na outra bandeja clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Despejar na outra bandeja”. 
+ 
+ 
+ 
+Descarte  o  material  contido  na  bandeja  que  contém  a  amostra  de  solo  1  para 
+peneiramento grosso clicando com o botão direito do mouse sobre a segunda bandeja 
+e selecione a opção “Descartar material”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+5. REALIZANDO O PENEIRAMENTO FINO 
+ 
+Repita o procedimento apresentado no passo 2 até que todas as peneiras tenham sido 
+posicionadas no agitador em ordem crescente de abertura até a peneira de 2 mm. 
+ 
+ 
+ 
+Repita o procedimento apresentado no passo 3 utilizando a amostra de solo 1 preparada 
+para peneiramento fino. Repita o procedimento apresentado no passo 4 para identificar 
+o material retido em cada uma das peneiras utilizadas no peneiramento fino. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+6. ENSAIANDO AS OUTRAS AMOSTRAS DE SOLO 
+ 
+Repita os passos 1, 2, 3, 4 e 5 com as amostras de solo 2 e 3. 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+CARACTERIZAÇÃO DE SOLOS: CURVA GRANULOMÉTRICA 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 08 e  09 deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

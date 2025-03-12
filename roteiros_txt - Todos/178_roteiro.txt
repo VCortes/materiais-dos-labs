@@ -1,0 +1,559 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá fundir uma peça metálica utilizando um molde de 
+areia verde. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bacia com areia; 
+• Béquer com água; 
+• Frasco com talco; 
+• Canos de PVC; 
+• Concha; 
+• Moldes; 
+• Bastão de madeira; 
+• Espátula; 
+• Caixas; 
+• Massalotes. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. TRANSFERINDO AREIA PARA A CAIXA 1 
+ 
+Despeje água na bacia que contém areia e misture com a concha. Posicione o molde 
+1 na caixa 1 e, em seguida, aplique talco sobre o molde. Com a concha, adicione uma 
+camada de areia sobre o molde e compacte essa camada com o bastão de madeira. 
+Adicione outra camada de areia com a concha e compacte novamente.  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+  
+2. TRANSFERINDO AREIA PARA A CAIXA 2 
+ 
+Rotacione a caixa 1 deforma que o molde fique visível. Acople a caixa 2 sobre a caixa 
+1 e posicione o molde 2. Pulverize talco sobre o molde e posicione os canos de PVC. 
+Com  a  concha,  adicione  2  camadas  de  areia,  compactando  cada  uma  delas  com  o 
+bastão de madeira. Remova os canos PVC e desacople a caixa 2. Escave a passagem 
+com a espátula e retire os moldes. 
+ 
+3. TRANSFERINDO AREIA PARA O MOLDE MACHO 
+ 
+Aplique  talco  sobre  o  molde  macho. Com  a  concha,  adicione  2  camadas  de  areia, 
+compactando cada uma delas com o bastão de madeira. Retire o macho do molde e 
+posicione-o na caixa 1. Acople novamente a caixa 2 e posicione os massalotes na caixa. 
+ 
+4. VERTENDO O METAL LÍQUIDO 
+ 
+Utilize a tenaz para remover o cadinho do forno de fundição e verta o metal líquido 
+no molde. Aguarde uma hora, quebre o molde e retire a peça pronta. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Ocorreram defeitos na peça? Se sim, como seria possível evitá-los? 
+ 
+ 
+ 
+2. De que material foi fabricado o macho e por quê? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. TRANSFERINDO AREIA PARA A CAIXA 1 
+ 
+Despeje a água na bacia clicando com o botão esquerdo do mouse sobre o béquer. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Misture a areia clicando com o botão esquerdo do mouse sobre a concha e selecionando 
+a opção “Misturar areia”. 
+ 
+ 
+ 
+Posicione  o  molde  1  na  caixa  clicando  com  o  botão  esquerdo  do  mouse  sobre  ele  e 
+selecionando a opção “Colocar na caixa”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Aplique talco sobre o molde clicando com o botão esquerdo do mouse sobre o frasco 
+com talco e selecionando a opção “Colocar na caixa 1”. 
+ 
+ 
+ 
+Coloque  uma  camada  de  areia  na caixa  1  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a concha e selecionando a opção “Colocar areia na caixa 1”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Compacte a camada de areia clicando com o botão esquerdo do mouse sobre o bastão 
+de madeira e selecionando a opção “Compactar areia da caixa 1”. 
+ 
+ 
+ 
+Repita o procedimento para adicionar outra camada de areia na caixa 1 com a concha e 
+compactar com o bastão de madeira. 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+2. TRANSFERINDO AREIA PARA A CAIXA 2 
+ 
+Rotacione a caixa 1 clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Acople a caixa 2 sobre a caixa 1 clicando com o botão esquerdo do mouse sobre a caixa 
+2 e selecionando a opção “Acoplar na caixa 1”. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Posicione o molde 2 na caixa 2 clicando com o botão esquerdo do mouse sobre o molde 
+e selecionando a opção “Colocar na caixa”. 
+ 
+ 
+ 
+Aplique talco sobre o molde clicando com o botão esquerdo do mouse sobre o frasco 
+com talco e selecionando a opção “Colocar na caixa 2”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Posicione os canos de PVC na caixa clicando com o botão esquerdo do mouse sobre eles 
+e selecionando a opção “Colocar tubos de PVC”. 
+ 
+ 
+ 
+Adicione  uma  camada  de  areia  na  caixa  2  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a concha e selecionando a opção “Colocar areia na caixa 2”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Compacte  a  camada  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  bastão  de 
+madeira e selecionando a opção “Compactar areia da caixa 2”. 
+ 
+ 
+ 
+Repita o procedimento para adicionar outra camada de areia com a concha e compactar 
+com o bastão de madeira. 
+Remova  os  canos  de  PVC  clicando  com  o  botão esquerdo  do  mouse  sobre  eles  e 
+selecionando a opção “Retirar tubos de PVC”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Desacople a caixa 2 clicando com o botão esquerdo do mouse sobre ela e selecionando 
+a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Escave a passagem clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Retire os dois moldes da caixa clicando com o botão esquerdo do mouse sobre cada um 
+deles e selecionando a opção “Tirar da caixa”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+3. TRANSFERINDO AREIA PARA O MOLDE MACHO 
+ 
+Aplique talco sobre o molde macho clicando com o botão esquerdo do mouse sobre o 
+frasco com talco e selecionando a opção “Colocar no molde”. 
+ 
+ 
+ 
+Preencha o molde macho com areia clicando com o botão esquerdo do mouse sobre a 
+concha e selecionando a opção “Colocar areia no molde”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Compacte a areia do molde clicando com o botão esquerdo do mouse sobre o bastão 
+de madeira e selecionando a opção “Compactar areia do molde”. 
+ 
+ 
+ 
+Repita o procedimento para adicionar outra camada de areia com a concha e compactar 
+com o bastão de madeira. 
+Retire o macho do molde clicando com o botão esquerdo do mouse sobre o molde. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Acople novamente a caixa 2 clicando com o botão esquerdo do mouse sobre a caixa 2 e 
+selecionando a opção “Acoplar na caixa 1”. 
+ 
+ 
+ 
+Posicione os massalotes clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+4. VERTENDO O METAL LÍQUIDO 
+ 
+Visualize  o  forno clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Forno” localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra o forno clicando com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Verta o metal líquido no molde clicando com o botão esquerdo do mouse sobre a tenaz. 
+ 
+ 
+ 
+Perceba  que  surgirá  uma  janela  no  canto  superior  direito  da  tela  com  o  cronômetro. 
+Aguarde até que essa janela desapareça. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Retire a peça do molde clicando com o botão esquerdo do mouse sobre a areia. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+PROJETO DE FUNDIÇÃO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+V 1.3 – AB2 

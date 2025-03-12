@@ -1,0 +1,798 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre a  utilização 
+correta dos Equipamentos de Proteção Individual (EPIs) para a enfermagem.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Avental; 
+• Luvas de procedimento; 
+• Luvas estéreis; 
+• Máscara cirúrgica; 
+• Máscara PFF/N95; 
+• Óculos; 
+• Protetor facial; 
+• Sapato fechado; 
+• Touca descartável. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. APRESENTANDO OS CONCEITOS 
+ 
+Visualize a tela inicial e clique no botão “Iniciar”. Visualize a tela de introdução e leia 
+os  conceitos  relacionados  a  prática.  Avance  para  a tela  de  seleção  de  opções  e 
+selecione o ícone correspondente ao EPI que será estudado. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+2. CALÇANDO AS LUVAS DE PROCEDIMENTO 
+ 
+Observe  a  lista  de  etapas  e  enumere  o  passo  a  passo  para  calçar  as  luvas.  Após 
+completar a organização, confirme sua resposta e avance para a tela do experimento. 
+Assista  à  execução  do  passo  a  passo  para  calçar  as  luvas  de  procedimento  e,  em 
+seguida, retorne para a tela de seleção dos EPIs.  
+As etapas devem ser organizadas da seguinte forma: Retirar os adornos; lavar e secar 
+as mãos; retirar a luva da embalagem; identificar o polegar da luva; colocar a luva na 
+palma da mão; segurar a luva pelo lado do dedo mínimo, encaixando o polegar; abrir 
+a luva e girar a mão no sentido dos demais dedos; puxar cuidadosamente a luva sobre 
+a mão; repetir os mesmos passos para calçar a segunda luva. 
+ 
+3. CALÇANDO AS LUVAS ESTÉREIS 
+ 
+Observe  a  lista  de  etapas  e  enumere  o  passo  a  passo  para  calçar  as  luvas.  Após 
+completar a organização, confirme sua resposta e avance para a tela do experimento. 
+Assista  à  execução  do  passo  a  passo  para  calçar  as  luvas  estéreis e,  em  seguida, 
+retorne para a tela de seleção dos EPIs. 
+As etapas devem ser organizadas da seguinte forma: Retirar os adornos; lavar e secar 
+as  mãos;  abrir  a  embalagem  sem  contaminar  o pacote;  identificar  as  luvas  da  mão 
+direita  e  esquerda;  pegar  a  borda  do  punho  tocando  somente  a  superfície  interna; 
+puxar a luva sobre a mão, assegurando que o punho não se enrole no braço; com a 
+primeira  mão  enluvada,  colocar  os  dedos  sobre  o  punho  da  segunda  luva;  puxar  a 
+segunda luva sobre a outra mão; entrelaçar os dedos das mãos para corrigir a posição 
+das luvas. 
+ 
+4. COLOCANDO OS ÓCULOS DE PROTEÇÃO 
+ 
+Observe  a  lista  de  etapas  e  enumere  o  passo  a  passo  para  colocar  os  óculos.  Após 
+completar a organização, confirme sua resposta e avance para a tela do experimento. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Assista à execução do passo a passo para colocar os óculos de proteção e, em seguida, 
+retorne para a tela de seleção dos EPIs. As etapas devem ser organizadas da seguinte 
+forma: Lavar e secar as mãos; abrir as pernas dos óculos; coloque no rosto, apoiando 
+a ponte no ponto mais alto do nariz. 
+ 
+5. COLOCANDO O PROTETOR FACIAL 
+ 
+Observe a lista de etapas e enumere o passo a passo para colocar o protetor facial. 
+Após  completar  a organização, confirme  sua  resposta  e  avance  para  a  tela  do 
+experimento. Assista à execução do passo a passo para colocar o protetor facial e, em 
+seguida, retorne para a tela de seleção dos EPIs. 
+As etapas devem ser organizadas da seguinte forma: Lavar e secar as mãos; apoie a 
+viseira do protetor na testa; passe o elástico pela parte superior da cabeça. 
+ 
+6. COLOCANDO O AVENTAL 
+ 
+Observe  a  lista  de  etapas  e  enumere  o  passo  a  passo  para  colocar  o  avental.  Após 
+completar a organização, confirme sua resposta e avance para a tela do experimento. 
+Assista  à  execução  do  passo  a  passo  para  colocar  o  avental e,  em  seguida,  retorne 
+para a tela de seleção dos EPIs. 
+As etapas devem ser organizadas da seguinte forma: Lavar e secar as mãos; vestir o 
+avental  ou  capote  primeiramente  pelas  mangas;  ajustar  as  amarras  nas  costas  e 
+cintura; certifica-se de que o tronco esteja totalmente coberto, bem como os braços 
+e os punhos. 
+ 
+7. COLOCANDO A TOUCA DESCARTÁVEL 
+ 
+Observe a lista de etapas e enumere o passo a passo para colocar a touca descartável. 
+Após  completar  a  organização, confirme  sua  resposta  e  avance  para  a  tela  do 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+experimento. Assista à execução do passo a passo para colocar a touca descartável e, 
+em seguida, retorne para a tela de seleção dos EPIs. 
+As etapas devem ser organizadas da seguinte forma: Estar com o cabelo preso; lavar 
+e secar as mãos; colocar a touca na cabeça começando pela testa, em direção à base 
+da nuca; adaptar na cabeça de modo confortável, cobrindo todo o cabelo e as orelhas; 
+sempre   que   o   gorro   ou   a   touca   aparentarem   sinais   de   umidade,   devem   ser 
+substituídos por outro. 
+ 
+8. COLOCANDO A MÁSCARA CIRÚRGICA 
+ 
+Observe a lista de etapas e enumere o passo a passo para colocar a máscara cirúrgica. 
+Após  completar  a  organização, confirme  sua  resposta  e  avance  para  a  tela  do 
+experimento. Assista à execução do passo a passo para colocar a máscara cirúrgica e, 
+em seguida, retorne para a tela de seleção dos EPIs.  
+As etapas devem ser organizadas da seguinte forma: Lavar e secar as mãos; verificar 
+se a máscara não está danificada; utilizar o clip nasal como referência para identificar 
+a parte superior; coloque a máscara em seu rosto e prenda as alças atrás da cabeça, 
+mantendo-as paralelas; aperte o clip nasal ou a borda rígida da máscara para que ela 
+se adapte ao formato do nariz, visando minimizar espaços entre a face e a máscara; 
+puxe a parte inferior da máscara para que ela cubra sua boca e seu queixo. 
+ 
+9. COLOCANDO A MÁSCARA PFF N95 
+ 
+Observe  a  lista  de  etapas  e  enumere  o  passo  a  passo para  colocar  a  máscara.  Após 
+completar a organização, confirme sua resposta e avance para a tela do experimento. 
+Assista à execução do passo a passo para colocar a máscara PFF N95 e, em seguida, 
+retorne para a tela de seleção dos EPIs.  
+As etapas devem ser organizadas da seguinte forma: Lavar e secar as mãos; segurar o 
+respirador com o clip nasal próximo a ponta dos dedos deixando as alças pendentes; 
+encaixar  o  respirador  sob  o  queixo;  posicionar  uma  das  alças  na  nuca  e  a  outra  na 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+cabeça; ajustar o clip nasal no nariz; verificar a vedação pelo teste de pressão positiva 
+e negativa. 
+ 
+10. COLOCANDO O SAPATO FECHADO 
+ 
+Observe a lista de etapas e enumere o passo a passo para colocar o sapato fechado. 
+Após  completar  a  organização, confirme  sua  resposta  e  avance  para  a  tela  do 
+experimento. Assista à execução do passo a passo para colocar o sapato fechado e, 
+em seguida, retorne para a tela de seleção dos EPIs.  
+As  etapas  devem  ser  organizadas  da  seguinte  forma:  Observar  se  o  sapato  é 
+totalmente fechado; calçar de forma habitual. 
+ 
+11. OBSERVANDO A PARAMENTAÇÃO 
+ 
+Visualize  a  tela  inicial  de  seleção  dos  EPIs  e  observe  a  personagem  com  todas  as 
+paramentações estudadas.  
+ 
+12. RETIRANDO OS EPIS 
+ 
+Visualize a tela de seleção dos EPIs e selecione o EPI que deve ser retirado. Observe a 
+lista  de  etapas  e  organize  o  passo  a  passo  para  a  retirada  correta  das  luvas  de 
+procedimento. Após completar a etapa, confirme sua resposta e avance para a tela do 
+experimento.  Assista  à  execução  do  passo  a  passo  para  a  retirada  das  luvas e,  em 
+seguida, retorne para a tela de seleção dos EPIs. Repita os procedimentos anteriores, 
+retire os demais EPIs.  
+As etapas de retirada devem ser organizadas da seguinte forma:  
+Luvas de procedimento - pegar a parte externa da luva pelo punho; puxar de forma 
+precisa até retirar de todos os dedos; segurar ela com a outra mão que ainda está com 
+a  luva;  com a mão  que está  limpa  e  sem  luva,  introduzir  o  indicador e o polegar no 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+bordo interno da luva; abrir a luva com os dedos e passar por cima da luva; encontrar 
+os dois dedos e abrir a mão; retirar as luvas; descartar no lixo adequado. 
+ 
+Luvas estéreis - segurar a luva da outra mão puxando a mesma pelos dedos ou na face 
+anterior; colocar a luva da mão retirada na palma da mão que está calçada; colocar o 
+dedo indicador e polegar da mão sem luva dentro do punho da luva (parte interna) e 
+puxar  a  luva  com  movimentos  firme  para  não  rasgar;  descartar  a  luva  no  lixo 
+adequado. 
+ 
+Óculos - remover óculos; higienizar os objetos com álcool 70%. 
+ 
+Protetor facial - remover proteção do rosto; higienizar os objetos com álcool 70%. 
+ 
+Avental - abra  as  tiras  e  solte  as  amarras;  empurre  pelo  pescoço  e  pelos  ombros, 
+tocando a parte interna do avental; retire o avental pelo avesso; dobre ou enrole em 
+uma trouxa e descarte em recipientes apropriados; lave as mãos com água e sabão ou 
+higienize com solução alcoólica 70%. 
+ 
+Toucas - puxe pela parte superior central, sem tocar nos cabelos; descarte a touca em 
+recipiente apropriado; higienize as mãos com água e sabão ou álcool 70%. 
+ 
+Máscaras cirúrgicas - segue as alças inferiores e depois as superiores e remova-a; não 
+encostar na parte frontal da máscara; descarte em uma lixeira apropriada; higienizar 
+as mãos com água e sabão ou álcool 70%. 
+ 
+Máscara PFF N95 - segurar o elástico inferior com as duas mãos, passando-o por cima 
+da cabeça para removê-lo; segurar o elástico superior com as duas mãos, passando-o 
+por cima da cabeça para removê-lo; remover a máscara segurando-a pelos elásticos, 
+tomando  bastante  cuidado  para  não  tocar  na  superfície  interna;  acondicionar  a 
+máscara  em  um  saco  ou  envelope  de  papel  com  os  elásticos  para  fora,  no  caso  de 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+  
+reutilização; nunca colocar máscara em saco plástico para que ela não fique úmida e 
+potencialmente contaminada; higienizar as mãos com água e sabão ou álcool 70%. 
+ 
+Sapato fechado - remover o sapato; higienizar a parte externa do sapato. 
+ 
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 12 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância de lavar bem as mãos antes de colocar os EPIs? 
+ 
+ 
+ 
+2. Qual  a  importância de  realizar retirada correta dos equipamentos de proteção 
+individual? 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. APRESENTANDO OS CONCEITOS 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse em “Iniciar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Visualize a tela de introdução, leia os conceitos apresentados e, em seguida, avance para 
+a tela de seleção dos EPIs clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+2. CALÇANDO AS LUVAS DE PROCEDIMENTO 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Luvas 
+de procedimento”. 
+ 
+ 
+ 
+Avance para a lista de etapas clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Enumere o passo a passo clicando com o botão esquerdo do mouse sobre cada campo 
+da tabela e digite através do teclado da sua máquina. 
+ 
+ 
+ 
+Após  terminar  de  responder,  confirme  clicando  com  o  botão  esquerdo  do  mouse  no 
+botão “Confirmar”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Feche o aviso clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+ 
+Assista à execução do passo a passo e, em seguida, volte para a tela de seleção dos EPIs 
+clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+3. CALÇANDO AS LUVAS ESTÉREIS 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Luvas 
+estéreis”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+4. COLOCANDO OS ÓCULOS DE PROTEÇÃO 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Óculos 
+de proteção”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+5. COLOCANDO O PROTETOR FACIAL 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Protetor 
+facial”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+6. COLOCANDO O AVENTAL 
+ 
+Selecione  o  EPI  a  ser  estudado  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+“Avental”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+7. COLOCANDO A TOUCA DESCARTÁVEL 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Touca 
+descartável”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+8. COLOCANDO A MÁSCARA CIRÚRGICA 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Máscara 
+cirúrgica”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+ 
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+9. COLOCANDO A MÁSCARA PFF N95 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Máscara 
+PFF/N95”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+10. COLOCANDO O SAPATO FECHADO 
+ 
+Selecione o EPI a ser estudado clicando com o botão esquerdo do mouse sobre “Sapato 
+fechado”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, avance para a lista de etapas, enumere o passo a 
+passo e assista à execução do procedimento. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+11. OBSERVANDO A PARAMENTAÇÃO 
+ 
+Gire a personagem clicando com o botão esquerdo do mouse sobre as setas indicadas. 
+ 
+ 
+ 
+Retorne para a tela de seleção dos EPIs clicando com o botão esquerdo do mouse em 
+“Retornar”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+12. RETIRANDO OS EPIS 
+ 
+Selecione o EPI a ser retirado clicando com o botão esquerdo do mouse sobre “Luvas de 
+procedimento”. 
+ 
+ 
+ 
+Avance para a lista de etapas clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Enumere o passo a passo clicando com o botão esquerdo do mouse sobre cada campo 
+da tabela e digite através do teclado da sua máquina. 
+ 
+ 
+ 
+Após  terminar  de  responder,  confirme  clicando  com  o  botão  esquerdo  do  mouse  no 
+botão “Confirmar”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Feche o aviso clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+ 
+Assista à execução do passo a passo e, em seguida, volte para a tela de seleção dos EPIs 
+clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+  
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+Repita os procedimentos anteriores, selecione o EPI a ser retirado, avance para a lista 
+de etapas, enumere o passo a passo e assista à execução do procedimento dos demais 
+EPIs. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+UTILIZAÇÃO DE EPIS PARA A ENFERMAGEM 
+ 
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 12 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,318 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá identificar  as  estruturas  morfológicas  de  uma 
+Ascídia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Imagem de Ascídia adulta; 
+• Vídeo do sistema Filtrador de uma Ascídia. 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. IDENTIFICANDO A MORFOLOGIA EXTERNA 
+ 
+Observe as estruturas e as características marcantes de um Ascídio. 
+ 
+2. VISUALIZANDO O SISTEMA FILTRADOR 
+ 
+Assista  ao  vídeo  do  sistema  filtrador  de  uma  Ascídia  em  funcionamento.  Observe o 
+foco do microscópio em diferentes planos e momentos 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais estruturas você identificou? 
+ 
+ 
+ 
+2. Você identificou o corpo similar a uma túnica deste animal? 
+ 
+ 
+ 
+3. Você identificou as estruturas filtradoras desses animais? 
+ 
+ 
+ 
+4. Você identificou o sifão inalante (branquial)? 
+ 
+ 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+5. Você identificou o sifão exalante (atrial)? 
+ 
+ 
+ 
+6. Você identificou as  partículas  em  suspensão  sendo  filtradas  dentro  do  corpo  do 
+animal? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. IDENTIFICANDO A MORFOLOGIA EXTERNA 
+ 
+Foque  nas  estruturas  do ascídio clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+ultimo ícone do menu no canto inferior à esquerda. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+Visualize  as  estruturas  internas do ascídio clicando  com  o  botão  esquerdo  do  mouse 
+sobre o ícone do meio do menu no canto inferior à esquerda. 
+ 
+ 
+ 
+Visualize as estruturas superficiais do ascídio clicando com o botão esquerdo do mouse 
+sobre o primeiro ícone do menu no canto inferior à esquerda. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+2. VISUALIZANDO O SISTEMA FILTRADOR 
+ 
+Veja  o  vídeo  do ascídio clicando  com  o  botão  esquerdo  do  mouse  sobre  o  ícone  da 
+câmera no menu no canto direito. 
+ 
+ 
+ 
+Baixe  o  vídeo  do ascídio clicando  com  o  botão  esquerdo  do  mouse  sobre  a  seta  de 
+download. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+Assista o vídeo do ascídio clicando com o botão esquerdo do mouse sobre o box com o 
+nome da ave. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ZOOLOGIA DE VERTEBRADOS 
+ESTRUTURA E FUNCIONAMENTO DO SISTEMA FILTRADOR DE UMA ASCÍDIA 
+ 
+3. AVALIANDO O RESULTADO 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+LU2_TAC2 

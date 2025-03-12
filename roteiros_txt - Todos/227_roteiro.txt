@@ -1,0 +1,557 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você explorará o processo de catalogação bibliográfica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O LIVRO 
+ 
+Selecione, dentre os livros que estão na pilha, o livro que deseja fazer o registro. 
+ 
+2. INSPECIONANDO O LIVRO 
+ 
+Inspecione as informações do livro escolhido e localize as que julgar importantes para 
+o registro. 
+ 
+3. ACESSANDO O SISTEMA 
+ 
+Explore o sistema de catalogação. 
+ 
+4. CRIANDO UM REGISTRO 
+ 
+Adicione um novo registro para catalogar o livro escolhido. 
+ 
+5. UTILIZANDO O HISTÓRICO DE REGISTRO 
+ 
+Visualize e explore os registros criados. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado na prática.  
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais os objetivos da catalogação bibliográfica? 
+ 
+ 
+ 
+2. Cite as vantagens da padronização MARC 21. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O LIVRO 
+ 
+Observe que à esquerda da tela existe uma pilha com 10 livros. Dentre eles, escolha que 
+livro deseja registrar primeiro.  
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Note que, ao passar o mouse sobre um livro, ele fica destacado em azul. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+2. INSPECIONANDO O LIVRO 
+ 
+Inspecione o livro escolhido clicando com o botão esquerdo do mouse sobre ele. Atente-
+se para as informações contidas nele. 
+ 
+ 
+ 
+Dê zoom ao livro para visualizar as suas informações, utilizando o botão de rolagem do 
+mouse. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Rotacione o livro segurando o botão direito do mouse e movimentando o mouse. 
+ 
+ 
+ 
+Feche o livro e retorne à visualização da mesa clicando sobre ele com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+3. ACESSANDO O SISTEMA 
+ 
+Observe que na tela do computador está o sistema de catalogação bibliográfica. 
+ 
+ 
+ 
+Visualize em  modo de  tela  cheia  a tela do  sistema clicando com  o  botão  esquerdo  do 
+mouse nas bordas do computador. A área em que há essa funcionalidade está destacada 
+em azul. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Retorne à visualização da mesa, quando no modo de tela cheia, clicando com o botão 
+esquerdo do mouse no botão “Minimizar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+4. CRIANDO UM REGISTRO 
+ 
+Crie um registro clicando com o botão esquerdo do mouse no botão “Novo Registro” na 
+tela do sistema. 
+ 
+ 
+ 
+Confirme a intenção de criar um registro, ao aparecer a janela de confirmação, selecione 
+a opção “Sim”. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Navegue pelos campos do registro utilizando o botão de rolagem à direita da tela. 
+ 
+ 
+ 
+Visualize os subcampos do campo que deseja preencher clicando com o botão esquerdo 
+do mouse sobre ele. Note que eles estarão destacados em cinza-claro. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Observe que os  subcampos  com  códigos  “(#x)”, em  que  “x”  é um  número,  possui um 
+botão retrátil. 
+ 
+ 
+ 
+Visualize  as  opções  de  um  botão  retrátil  clicando  com  o  botão  esquerdo  sobre  ele. 
+Ainda,  selecione alguma  das  opções  disponíveis  clicando  com  o  botão  esquerdo  do 
+mouse sobre a sua escolha. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Note que os subcampos que possuem um botão “+” em azul, podem ser duplicados com 
+um clique com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Exclua um subcampo duplicado clicando com o botão esquerdo do mouse sobre o botão 
+“-" em azul. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Os subcampos que possuem espaço com o texto “Insira o texto...” admitem a inserção 
+de caracteres textuais. Coloque o cursor do mouse sobre o campo indicado.  
+ 
+ 
+ 
+Insira a informações nesses campos clicando com o botão esquerdo do mouse no campo 
+que desejar, e entrando a informação com o teclado do seu computador. Ao finalizar a 
+adição, pressione a tecla “Enter”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Retorne para a mesa e visualize as informações do livro escolhidos, a fim de preencher 
+o registro corretamente, da mesma forma que foi feito nas seções 2 e 3 deste tutorial. 
+Após  preencher todas as  informações que  julgar necessárias,  salve o registro  clicando 
+na imagem do disquete. 
+ 
+ 
+ 
+Confirme o  salvamento  do  registro  preenchido clicando  com  o  botão  esquerdo  do 
+mouse na opção “Sim”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+5. UTILIZANDO O HISTÓRICO DE REGISTRO 
+ 
+Acesse  o  histórico  de  registro  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+“Histórico de Registro”. 
+ 
+ 
+Observe  que  o  na  aba  “Histórico  de  Registro”  o  registro  feito  é  exibido.  Além  dele, 
+existem três botões “Detalhes”, “Editar” e “Excluir”. 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Visualize as informações principais do registro clicando com o botão esquerdo no botão 
+“Detalhes”. 
+ 
+ 
+ 
+Baixe o arquivo do registro para o seu computador clicando com o botão esquerdo do 
+mouse no texto destacado em verde. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Visualize  novamente  o  histórico  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+“Histórico de Registro”. 
+Edite um registro clicando com o botão esquerdo do mouse no botão “Editar”. Com isso, 
+serão exibidos os campos, subcampos e as informações preenchidas anteriormente. 
+ 
+ 
+ 
+Preencha a alteração/adição necessária e, automaticamente, a modificação será salva. 
+Isso  pode  ser  confirmado  acessando  os  detalhes  do  registro  na  aba  “Histórico  de 
+Registro”. 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+Exclua  um  registro  clicando  com  o  botão  esquerdo  do  mouse  no  botão  “Excluir”  e 
+confirme a exclusa clicando em “Sim”. 
+ 
+ 
+ 
+Adicione quantos mais livros quiser seguindo os passos anteriores deste tutorial. 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIBLIOTECONOMIA 
+SISTEMA DE CATALOGAÇÃO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado na prática.  
+ 

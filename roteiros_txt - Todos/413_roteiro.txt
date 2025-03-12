@@ -1,0 +1,1057 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá determinar o padrão de identidade e qualidade do 
+leite. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido clorídrico concentrado; 
+• Balança analítica; 
+• Banho-maria; 
+• Bico de Bunsen; 
+• Bureta (25mL); 
+• Erlenmeyer (150 mL); 
+• Estante para tubo de ensaio; 
+• Leite integral; 
+• Pinça para tubo de ensaio; 
+• Pipeta graduada (2 mL e 10 mL); 
+• Solução alcoólica de fenolftaleína a 1%; 
+• Solução alcoólica de resorcina a 20%; 
+• Solução de ácido sulfúrico a 50%; 
+• Solução de Dornic; 
+• Solução de percloreto de ferro a 2%; 
+• Suporte da bureta; 
+• Termômetro; 
+• Tubo de ensaio. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Direcione-se ao armário de EPIs para colocar os equipamentos de proteção individual. 
+ 
+2. DETERMINAÇÃO DE ACIDEZ 
+ 
+Pipete 10 mL da amostra e transfira para o Erlenmeyer. Adicione 2 gotas da solução 
+alcoólica  de  fenolftaleína  a  1%  e  homogeneíze.  Em  seguida,  realize  a  titulação  com 
+solução  Dornic  até  uma  leve  coloração  rósea. Cada  0,1  mL  gasto  na  titulação 
+corresponde a 1°D. 
+ 
+3.  RECONSTITUINTE DE DENSIDADE - SACAROSE 
+ 
+Pipete 10 mL da amostra e transfira para o tubo de ensaio. Adicione 1 mL da solução 
+de resorcina a 20% e 1 mL de ácido clorídrico concentrado. Aqueça em banho-maria 
+a 50°C por 5 minutos e observe a coloração no tubo. Em presença de sacarose, surgirá 
+uma coloração vermelha, mais ou menos intensa, de acordo com o teor de sacarose 
+presente na amostra. 
+ 
+4. PESQUISA DE CONSERVADORES - FORMOL 
+ 
+Pipete 5 mL da amostra e transfira para o tubo de ensaio. Adicione 2 mL da solução 
+de ácido sulfúrico a 50%. Em seguida, adicione 1 mL de solução de FeCl
+3
+ a 2%.  Aqueça 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+  
+até ebulição em fogo direto e observe a coloração do tubo. Em presença de formol, 
+surgirá uma coloração roxa no coágulo. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. De  acordo com  os  conhecimentos  construídos,  qual  o  padrão  de  identidade  e 
+qualidade do leite? 
+ 
+ 
+ 
+2. Com  base  nos  resultados  encontrados,  o  óleo  analisado  está  dentro  dos  padrões 
+preconizados? 
+ 
+ 
+ 
+3. Quais implicações à saúde humana podem ser consideradas pela ingestão de leite 
+adulterado com formol? 
+ 
+  
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e as luvas. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+2. DETERMINAÇÃO DE ACIDEZ 
+ 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova a pipeta graduada de 10 mL clicando com o botão direito do mouse sobre a pipeta 
+e selecione a opção “Mover para vidrarias”. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova a pipeta de 10 mL para o béquer contendo a amostra de leite clicando com o 
+botão direito do mouse na opção “Béquer com leite”. 
+ 
+ 
+ 
+Inicie o processo de pipetagem clicando com o botão esquerdo do mouse sobre a pipeta 
+e selecione a opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre a câmara central da pera. 
+ 
+ 
+ 
+Aspire o líquido pressionando com o botão esquerdo do mouse na válvula “S” da pera 
+até atingir a marca 0 na pipeta. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova a pipeta graduada de 10 mL clicando com o botão direito do mouse sobre a pipeta 
+e selecione a opção “Mover para vidrarias”. 
+ 
+ 
+ 
+Mova a pipeta de 10 mL para o Erlenmeyer clicando com o botão esquerdo do mouse 
+na opção “Erlenmeyer”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Transfira  todo  o  conteúdo  da pipeta  para  o  Erlenmeyer  pressionando  com  o  botão 
+esquerdo do mouse na válvula “E” da pera. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize o  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Erlenmeyer” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Adicione a fenolftaleína ao Erlenmeyer clicando com o botão esquerdo do mouse sobre 
+a garrafa contendo a solução. 
+ 
+ 
+ 
+Leve  o  Erlenmeyer para o  agitador  magnético  clicando  com  o  botão direito  do  mouse 
+sobre ele e selecione a opção “Para o agitador”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o agitador clicando com o botão esquerdo do mouse na câmera com o nome 
+“Agitador magnético” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Ligue o agitador magnético clicando com o botão esquerdo do mouse sobre o aparelho.  
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Inicie a titulação clicando com o botão esquerdo do mouse na torneira da bureta. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Aguarde a finalização da titulação e observe o volume da solução gasta clicando com o 
+botão direito do mouse sobre a bureta. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+3.  RECONSTITUINTE DE DENSIDADE - SACAROSE 
+ 
+Pipete 10 mL de leite. Lembre-se de esvaziar a pera, succionar o leite pressionando com 
+o botão direito do mouse no centro da pera e no botão “S”, respectivamente. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta,  selecione  a  opção 
+“Mover para vidrarias” e “Tubo de ensaio”. 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  clicando  com  o  botão  direito  do  mouse  na  pipeta, 
+selecione a opção “Mover para vidrarias” e “Béquer com solução de resorcina”.  
+ 
+ 
+ 
+Pipete 1 mL da solução de resorcina. Lembre-se de esvaziar a pera, succionar a solução 
+pressionando  com  o  botão  direito  do  mouse  no  centro  da  pera  e  no  botão  “S”, 
+respectivamente. 
+ 
+  
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova a pipeta graduada de 2 mL para o tubo de ensaio clicando com o botão direito do 
+mouse na pipeta, selecione a opção “Mover para vidrarias” e “Tubo de ensaio”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Limpe a pipeta graduada de 2 mL clicando com o botão esquerdo do mouse sobre ela e 
+selecione a opção “Limpar vidraria”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  clicando  com  o  botão  direito  do  mouse  na  pipeta, 
+selecione a opção “Mover para vidrarias” e “Béquer com solução de ácido clorídrico”. 
+ 
+ 
+ 
+Pipete  1  mL  da  solução de  ácido  clorídrico.  Lembre-se  de esvaziar a  pera,  succionar o 
+leite  pressionando  com  o  botão  direito  do  mouse  no  centro  da  pera  e  no  botão  “S”, 
+respectivamente. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  para  o  tubo  de  ensaio  clicando  no  botão  direito  do 
+mouse na pipeta, selecione a opção “Mover para vidrarias” e “Tubo de ensaio” 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão direito do mouse sobre o tubo e selecione 
+a opção “Para o banho-maria”. 
+ 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Aguarde  o  período  indicado  para  o  aquecimento  do  meio  reacional  e  observe  o 
+resultado da reação. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+4.  PESQUISA DE CONSERVADORES - FORMOL 
+ 
+Limpe  o  tubo  de  ensaio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  mesmo  e 
+selecione a opção “Limpar vidraria” 
+ 
+ 
+ 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova a pipeta graduada de 10 mL clicando com o botão direito do mouse sobre a pipeta, 
+selecione a opção “Mover para vidrarias” e “Béquer com leite”.  
+ 
+  
+ 
+Pipete 5 mL de leite. Lembre-se de esvaziar a pera, succionar o leite pressionando com 
+o botão direito do mouse no centro da pera e no botão “S”, respectivamente. 
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a  opção 
+“Mover para vidrarias” e “Tubo de ensaio”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Limpe a pipeta graduada de 2 mL clicando com o botão esquerdo do mouse sobre ela e 
+selecione a opção “Limpar vidraria”. 
+ 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  clicando  com  o  botão  direito  do  mouse  na  pipeta, 
+selecione a opção “Mover para vidrarias” e “Béquer com solução de ácido sulfúrico”. 
+ 
+ 
+ 
+Pipete 2 mL da solução de ácido sulfúrico. Lembre-se de esvaziar a pera e succionar o 
+leite  pressionando  com  o  botão  direito  do  mouse  no  centro  da  pera  e  no  botão  “S”, 
+respectivamente. 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  para  o  tubo  de  ensaio  clicando  no  botão  direito  do 
+mouse na pipeta, selecione a opção “Mover para vidrarias” e “Tubo de ensaio”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Limpe a pipeta graduada de 2 mL clicando com o botão esquerdo do mouse sobre ela e 
+selecione a opção “Limpar vidraria”. 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  clicando  com  o  botão  direito  do  mouse  na  pipeta, 
+selecione a opção “Mover para vidrarias” e “Béquer com solução de cloreto de ferro”. 
+ 
+ 
+ 
+Pipete 1 mL da solução de cloreto de ferro. Lembre-se de esvaziar a pera, succionar o 
+leite pressionando  com  o  botão  direito  do  mouse  no  centro  da  pera  e  no  botão  “S”, 
+respectivamente. 
+ 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Mova  a  pipeta  graduada  de  2  mL  clicando  no  botão  direito  do  mouse  na  pipeta, 
+selecione a opção “Mover para vidrarias” e “Tubo de ensaio”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Despeje a amostra coletada pressionando no botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Retorne a pipeta para o suporte de pipetas clicando com o botão direito do mouse sobre 
+a pipeta e selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Visualize o suporte de pipetas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Suporte de pipetas” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão direito do mouse sobre o tubo e selecione 
+a opção “Para o bico de Bunsen” 
+ 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+Aguarde o aquecimento do meio reacional e observe o resultado da mudança de cor no 
+tubo de ensaio.  
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BROMATOLOGIA 
+PADRÃO DE IDENTIDADE E QUALIDADE DO LEITE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

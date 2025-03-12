@@ -1,0 +1,669 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento,   você   irá realizar   o   desenho   das   curvas   de   nível   por 
+quadriculação, para adquirir agilidade mental e visual do terreno da obra. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab. 
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+LEVANTAMENTO DE CURVAS DE 
+NÍVEL: 
+VISITA AO LUGAR DO PROJETO 
+ 
+ 
+ 
+Antes  da  concepção  de  um  projeto  arquitetônico, é necessário  verificar,  em 
+campo,  diversas  características  do  terreno,  incluindo  dimensões,  desníveis,  tipos  de 
+solo,  entre  outras  informações  que  irão  embasar  arquitetos  e  engenheiros.  Nesta 
+prática você fará o levantamento da topografia de um terreno, utilizando a técnica de 
+quadriculação. 
+ 
+METODOLOGIA: PRÁTICA 360 
+ 
+A  prática  360  é  uma  metodologia  inovadora  que  lhe  permitirá  vivenciar  uma 
+experiência  prática  real na vida de  um  engenheiro,  através  de  um processo  interativo 
+contendo  imagens,  vídeos  normais,  vídeos  360  e  um  conjunto  de  perguntas  que  irão 
+guiá-lo  ao  longo  da  atividade.  Nesta  prática,  um  profissional  da  área  realiza  todas  as 
+atividades previstas  em um  roteiro,  ou  em uma norma  técnica, enquanto  seus passos 
+são  registrados  através  de  câmeras  posicionadas  em  diferentes  locais.  Uma  das 
+câmeras,  posicionada  estrategicamente  sobre  a  cabeça  do  profissional,  capta  a  sua 
+visão, possibilitando ao aluno ter a sensação de estar, ele mesmo, realizando a prática.  
+Para  realizar  a  prática,  basta  seguir  as  instruções  que  aparecerão  na  tela  e 
+responder  às  perguntas  feitas.  Estas  perguntas  versam  sobre  o  tema  da  prática  e 
+possuem  três  alternativas,  sendo  apenas  uma  correta. Sempre  que  você  acertar  a 
+resposta, um vídeo do passo correspondente no roteiro é apresentado. Caso erre, será 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+apresentado   um   feedback   imediato,   e   uma   nova   oportunidade   de   responder   é 
+apresentada. 
+Durante a exibição do vídeo, você poderá alternar entre a exibição em primeira 
+pessoa  ou  em  terceira  pessoa,  através  do  botão  localizado  no  canto  inferior  direito, 
+conforme ilustrado na Figura 1: 
+ 
+ 
+Figura 1 - Alternando entre primeira e terceira pessoa. 
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Trena metálica ou de fibra; 
+• Nível ótico com respetivo tripé; 
+• Caderneta; 
+• Mira; 
+• Piquetes. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. RECONHECENDO O TERRENO 
+ 
+É  realizado  o reconhecimento  do  lugar  e  identificado  um  ponto  de  apoio 
+topográfico para dar suporte e orientação a todas as leituras. 
+ 
+2.  CRIAÇÃO DE QUADRÍCULA IMAGINÁRIA 
+ 
+É criada uma quadrícula imaginária sobre a área do terreno, que é demarcada 
+por  pontos  de  contorno e  de  interseção,  como  pode  ser  visto  na  Figura  2, 
+podendo ser ajustadas as dimensões segundo a realidade. 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+ 
+ 
+3. POSICIONANDO O NÍVEL 
+ 
+Feito isso, o nível é estacionado e fixado com auxílio do nível de bolha, tripé e 
+parafuso, em um local fora da quadrícula que permita visualizar todos os pontos 
+sem precisar de fazer uma nova estação. 
+ 
+4. REALIZANDO AS MEDIÇÕES 
+ 
+Indica-se fazer  uma  leitura  com  nível e  mirar no ponto  mais distante,  tomado 
+como A7, como se mostra na Figura 2, para ser usada como leitura de ré, e as 
+outras serão usadas como leitura de vante. 
+As  leituras  são  realizadas  do  fundo  até a  frente,  ou  seja,  dos  pontos  mais 
+afastados até os pontos mais próximos do nível: A1 até A7 e continuando com 
+B1 até B7, C1 até C7, D1 até D7, E1 até E7, assim sucessivamente, até chegar em 
+F7. 
+As  leituras  são  guardadas  em  caderneta  e  no  nível  para  posterior  cálculo  da 
+altura dos pontos. 
+ 
+ 
+Figura 2 - Exemplo de quadrícula para medida de ponto no terreno escolhido. 
+ FONTE: Elaborado pelo autor/2020. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+Após realizar o download da planilha com os dados medidos em campo, deve-se 
+realizar os cálculos de altura de cada ponto. A altura do instrumento, em nivelamento 
+geométrico, é a  distância vertical  compreendida  entre  a  linha  de  visada  do  nível  de 
+luneta e a superfície de nível de referência. Assim: 
+ 
+Altura do instrumento = cota inicial + leitura de ré da estação P1 
+ 
+A cota inicial na estação P1 = 100,000 m (cota arbitrária) e leitura de ré, dada em 
+A1  =  1,382  m.  Então,  altura  do  instrumento =  100,000  +  1,382,  ou  seja,  altura  do 
+instrumento = 101,382 m. 
+Após o cálculo da altura do instrumento, calculam-se todas as outras cotas dos 
+pontos  posteriores.  Sabe-se que,  quando  a  superfície  de  nível  de  comparação é 
+arbitrária, as alturas dos pontos são denominadas de cotas. 
+ 
+Cota = altura do instrumento na estação – leitura de vante de cada ponto. 
+ 
+EXEMPLO 
+ 
+Na estação P1, a altura do instrumento é 101,382 m e as leituras de vante são: 
+em A2 = 1,349 m; em A3 = 1,712 m; em A4= 1,831 m, etc. Então: 
+ 
+Cota A2 = 101,382 – 1,349 = 100,033 m 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Cota A3 = 101,382 – 1,712 = 99,670 m 
+Cota A4 = 101,382 – 1,831 = 99,551 m 
+ 
+A  forma  de  apresentação  de  dados é registrada  na  Tabela  1.  Estas  cotas  são 
+registradas na quadrícula (Figura 2), dando origem à Figura 3.  
+Identificando o maior e o menor valor: 100,033 e 98,061. As curvas de nível são 
+determinadas pelo método de equidistância, utilizando uma equidistância de 0,4 m (400 
+mm),  por  ter  feito  uma  quadrícula  de  20  m  x  20  m  =  400  m²,  não  obstante,  pode  ser 
+escolhido um outro valor que vai determinar o número de curvas. 
+Tomando  outros  valores,  um  deles  pouco  abaixo  da  cota  maior  e  o  outro  um 
+pouco  acima  da  cota  menor  (100,000  e  98,010  m) — sem  ser  outro  valor  de  cota — 
+fazemos os cálculos de curva usando o valor de equidistância adotado, teremos 5 curvas: 
+ 
+100,000 m 
+100,000 – 0,04 = 99,60 m 
+99,60 – 0,4 = 99,20 m 
+99,20 – 0,4 = 98,80 m 
+98,80 – 0,4 = 98,40 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+Tabela 1 - Apresentação de leituras e cotas para os pontos da quadrícula. 
+ Fonte: Elaborado pelo autor/2020. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+Figura 3 - Marcação de cotas em pontos da quadrícula. 
+Fonte: Elaborado pelo autor/2020. 
+ 
+A  imagem  acima  representa  apenas  as  primeiras  cotas  do  terreno.  O  aluno 
+deverá preencher o restante de acordo com a Tabela 1. 
+Continuando,  serão  determinados  os  pontos  (entre  linhas  de  quadrícula)  por 
+onde passa a curva. A primeira curva, de valor 100,000 m, se faz da seguinte forma: 
+a) Observa-se em que quadrícula e qual vértice da área a curva tem início: A2. 
+b) Subtrai-se a maior cota do vértice da menor cota do vértice. A curva 100,000 
+inicia-se no segmento A2-A3. Então, 100,033 – 99,670 = 0,363 m (363 mm). 
+c) Calcula-se  a  distância  gráfica  do  segmento  A2-A3.  Na  realidade,  distância: 
+A2-A3 = 5 m, porém, em escala 1:100, a distância gráfica é de 50 mm. 
+d) Divide-se a diferença de cotas pela distância gráfica: 363/50 = 7,26 mm. Isso 
+significa  que  cada  mm  deste  segmento,  no  papel,  equivale  a  7,26  mm  da 
+diferença entre cotas. 
+e) Posteriormente,  subtrai-se  do  maior  valor  da  cota  do  vértice  o  valor  da 
+curva, que será representada assim: 100,033 - 100,000 = 0,033 m (33 mm). 
+f) Este valor é dividido pelo valor que equivale a cada mm do segmento: 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+33/7,26 = 4,5 mm. O que traduzimos em: a curva de nível de valor 100,000 m passa 
+a 4,5 mm de distância da cota 100,033 m. Deve-se sempre iniciar a contagem a partir 
+da maior cota, que, neste caso, foi 100,033 m.  
+ 
+Observa-se quais outros segmentos da quadrícula incluem esta curva e procede-
+se de forma similar. Por exemplo, a curva 100,000 passa pelo segmento A2-A1, que tem 
+por distância: 100,033 - 100,000= 0,033 m (33 mm). 
+ 
+33/50 = 0,66 mm → 100,033-100,000 = 0,033m (33mm) → 33/0,66 = 50 mm. 
+O mesmo procedimento será feito para todas as outras curvas de nível. Para 
+curva de 99,60 m, as posições seriam: 
+ 
+A1-B1 = 100,000 - 99,528 = 0,472 m (472 mm) 
+A1-B1 : 42,37 mm 
+ 
+A2-B2 = 100,033 - 99,585 = 0,448 m (448 mm) 
+A2-B2 : 48,33 mm 
+ 
+A3-B3 = 99,670 - 99,531 = 0,139 m (139 mm) 
+A3-B3 : 25,18 mm 
+ 
+A3-A4 = 99,670 - 99,551 = 0,119 m (119 mm) 
+A3-A4 : 29,41 mm 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+A  posição  das  curvas,  nos  segmentos  da  quadrícula,  está representada  por 
+pontos  vermelhos  na  Figura  4,  que  são  unidas  com  linhas  que  representam  a  posição 
+mais provável da curva. 
+ 
+ 
+Figura 4 - Representação das primeiras curvas de nível na quadrícula. 
+ 
+Ao  final  da  prática,  deve  ser  entregue  o  traçado  de curvas  de  nível  do  terreno 
+visitado.  Com  o  conhecimento  de  níveis  no  terreno, é possível  estimar  o  volume  de 
+material para escavação ou o aterramento no terreno.  
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. RECONHECENDO O TERRENO 
+ 
+Durante  a  prática,  serão  mostradas algumas  instruções,  leia  e  passe  para  o  próximo 
+passo clicando com botão esquerdo do mouse no retângulo da parte inferior central da 
+tela, que na imagem abaixo contém a frase “VAMOS LÁ”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Visualize a fase da prática que está realizando clicando com botão esquerdo do mouse 
+no ícone dos três tracinhos no canto superior esquerdo da tela. 
+ 
+ 
+ 
+Explore o terreno clicando, segurando e arrastando com o botão esquerdo do mouse, 
+arraste na direção em que deseja visualizar. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Selecione  os  materiais  e  equipamentos  necessários  para  a  realizar  a  prática  com 
+segurança  clicando  com  botão  esquerdo  do  mouse  no  quadrado  pequeno  localizado 
+abaixo do objeto, no lado esquerdo do nome. Selecione quantos achar necessário. 
+ 
+ 
+ 
+Visualize os outros itens utilizando a barra de rolagem, após selecionar todos os itens 
+que julgar necessário, clique com botão esquerdo do mouse em “CONFIRMAR” na parte 
+inferior do quadro para conferir se selecionou os itens corretos. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Prossiga  para  a  próxima  etapa  clicando  em  “OK”. Caso  tenha  errado,  aparecerá  uma 
+janela indicando quais os itens corretos, prossiga clicando em “OK” também. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+2. CRIAÇÃO DE QUADRÍCULA IMAGINÁRIA 
+ 
+Responda à pergunta acerca da quadrícula imaginária clicando com botão esquerdo do 
+mouse sobre a alternativa que acredita ser a verdadeira. 
+ 
+ 
+ 
+Caso a alternativa escolhida seja a correta, você passará para o passo seguinte, assista 
+ao vídeo da execução do passo.  
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Caso  tenha  errado,  leia  a  dica  e  tente  novamente  clicando  com  botão  esquerdo  do 
+mouse em “CERTO, ENTENDI!”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+3. POSICIONANDO O NÍVEL 
+ 
+Responda à pergunta sobre a localização do nível ótico clicando com botão esquerdo do 
+mouse sobre a alternativa que acredita ser a correta. 
+ 
+ 
+ 
+Caso tenha errado leia a dica e tente novamente. Caso tenha acertado, assista ao vídeo 
+seguinte e complemente o entendimento sobre a localização do nível. 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Em  alguns  vídeos  será  possível  alterar  a  câmera de  visualização, para  isso,  clique  com 
+botão esquerdo do mouse no botão abaixo do olho no canto inferior direito da tela. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+4. REALIZANDO AS MEDIÇÕES 
+ 
+Indique o ponto mais adequado para iniciar a medição respondendo à pergunta clicando 
+com botão esquerdo do mouse na alternativa que acredita ser a correta. 
+ 
+ 
+ 
+Caso tenha errado leia a dica e tente novamente. Caso tenha acertado, assista ao vídeo 
+seguinte e complemente o entendimento sobre a localização do nível. 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Assista  ao  vídeo  e  mude  o  modo  de  visualização,  caso  queira,  clicando  com  botão 
+esquerdo do mouse no botão abaixo do olho no canto inferior direito da tela. 
+ 
+ 
+ 
+Indique  a  sequência  que  deve  ser  seguida  para  a  medição  respondendo  à  pergunta 
+clicando com botão esquerdo do mouse na alternativa que acredita ser a correta. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+Assista  ao  vídeo  e  mude  o  modo  de visualização,  caso  queira,  clicando  com  botão 
+esquerdo do mouse no botão abaixo do olho no canto inferior direito da tela. 
+ 
+ 
+ 
+Caso tenha errado leia a dica e tente novamente. Caso tenha acertado, baixe o arquivo 
+clicando  com  botão  esquerdo  do  mouse  em  “BAIXAR  ARQUIVO”  e  proceda  com  a 
+análise. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+LEVANTAMENTO DE CURVAS DE NÍVEL 
+ 
+5. AVALIAÇÃO DOS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos  Resultados”, localizada na página 09 deste roteiro, e 
+leia as instruções para o correto preenchimento da planilha. Responda de acordo com o 
+que   foi   observado   no   experimento,   associando   também   com   os   conhecimentos 
+aprendidos sobre o tema. 

@@ -1,0 +1,912 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste   experimento,   você   irá   executar   os   procedimentos   adequados   em 
+microbiologia    de    alimentos para    identificar    o crescimento    de    fungos 
+filamentosos e leveduras em suco de frutas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Estufa bacteriológica a 37°C; 
+• Amostra de suco de fruta; 
+• Béquer com água peptonada a 0,1% 
+• Placas de ágar batata dextrose; 
+• Tubos de ensaio; 
+• Pipeta graduada; 
+• Alça de Drigalski; 
+• Contador de colônias; 
+• Bico de Bunsen. 
+  
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”.  
+ 
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+  
+2. INOCULANDO E DILUINDO A AMOSTRA 
+ 
+Transfira 10 mL de suco de fruta para um béquer contendo água peptonada a 0,1%, 
+em seguida, transfira 1 mL do suco de fruta diluído em um tubo de ensaio utilizando 
+a pipeta graduada. Homogeneíze o tubo e, com a pipeta graduada, transfira 1 mL para 
+o tubo seguinte. Repita esse procedimento de diluições sucessivas até o quarto tubo 
+de ensaio. 
+ 
+3. INOCULANDO AS AMOSTRAS DILUÍDAS EM CULTURAS 
+ 
+Pipete 0,1  mL  das  amostras diluídas nas  placas  com ágar batata dextrose  (ABD)  e 
+espalhe com alça de Drigalski. 
+ 
+4. INCUBANDO AS CULTURAS EM ESTUFA 
+ 
+Incuba as culturas em estufa a 37°C por 3 dias.  Após a incubação das culturas, observe 
+as colônias que cresceram e realize a contagem de colônias de leveduras na placa de 
+ágar batata dextrose utilizando o contador. 
+ 
+5. REPETINDO O PROCEDIMENTO PARA OUTRAS PLACAS 
+ 
+Após realizar todo o procedimento  no contador  de colônias, repita o  procedimento 
+para outras placas de ágar batata dextrose.  
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos.  
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  é  a  importância  do  crescimento  de  colônias  em  grande  quantidade  presente 
+nesse meio de cultura utilizado? 
+ 
+ 
+ 
+2. Por que foi utilizado o meio de Ágar batata dextrose? 
+ 
+ 
+ 
+ 
+ 
+  
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+  
+1. SEGURANÇA NO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”, que está disponível dentro do painel de visualização localizado 
+no  canto  superior  esquerdo  da  tela.  Se  preferir,  pode  também  utilizar  o  atalho  do 
+teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, luvas 
+de látex e óculos de proteção. 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+  
+2.  INOCULANDO E DILUINDO A AMOSTRA 
+ 
+Inicialmente,  visualize  o  bico  de  Bunsen acessando a câmera “Bico de Bunsen” e,  em 
+seguida, abra o registro de gás para ligar o bico de Bunsen clicando com botão esquerdo 
+do mouse sobre ele.  
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Depois, acesse os controles para ajuste o bico de Bunsen clicando com o botão esquerdo 
+do mouse sobre ele. 
+ 
+ 
+ 
+Realize  a  configuração  da  chama  arrastando  com  o  botão  esquerdo  do  mouse  os 
+controles  disponíveis  no  canto  inferior esquerdo  da  tela.  Certifique-se  de  que  a 
+configuração utilizada é para chama azul, redutora. 
+ 
+ 
+ 
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Agora,  acenda  o  bico  de  Bunsen  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+acendedor posicionado sobre a bancada.  
+ 
+ 
+ 
+Visualize a bancada acessando a câmera “Bancada” e selecione a pipeta graduada para 
+coletar amostra de suco clicando sobre ela com botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+ 
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Inicialmente,  esvazie  o  pipetador  pêra  pressionando  no  corpo  da  pêra  com  botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Aspire o líquido pressionando na válvula S com botão esquerdo do mouse e despreze o 
+líquido clicando na válvula E com mesmo botão do mouse.  
+ 
+ 
+ 
+ 
+ 
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Em  seguida,  pipete  10  mL  de  suco  de  fruta  para  o  béquer  contendo  água  peptonada 
+0,1%, pressionando na válvula S com botão esquerdo do mouse.  
+ 
+ 
+ 
+Agora,  transfira  10  mL  do  suco  de  fruta  em  água  peptonada,  diluindo-o  clicando  com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Despreze todo o líquido pressionando na válvula E com botão esquerdo do mouse.  
+ 
+ 
+ 
+Aspire 1 mL do suco de fruta diluído em água peptonada, pressionando a válvula S com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+ 
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Transfira  1  mL do  béquer  contendo  amostra  de  suco  diluída para  o  primeiro  tubo  de 
+ensaio clicando com botão esquerdo do mouse.  
+ 
+ 
+ 
+Agora, introduza a pipeta graduada clicando sobre ela com botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+ 
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Dispense o líquido pipetado no primeiro tubo de ensaio pressionando a válvula E com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Em seguida, realize a homogeneização aspirando todo o líquido pressionando na válvula 
+S com botão esquerdo do mouse e despreze todo líquido na válvula E com mesmo botão. 
+Realize essa homogeneização três vezes.  
+ 
+ 
+ 
+ 
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Depois,  pipete  1 mL para  dispensar  no  próximo  tubo,  pressionando na  válvula  S  com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Retire a pipeta graduada do tubo  de ensaio pressionando sobre ela com botão  direito 
+do mouse.  
+ 
+ 
+ 
+ 
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Agora, mova a pipeta graduada do tubo 1 para o tubo 2, clicando com botão direito do 
+mouse sobre ela.  
+ 
+ 
+ 
+Depois, dispense o líquido pipetado no segundo tubo de ensaio pressionando a válvula 
+E com botão esquerdo do mouse. Realize a homogeneização três vezes, assim como foi 
+realizado no primeiro tubo de ensaio.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Agora, pipete 1 mL pressionando na válvula S com botão esquerdo do mouse.   
+ 
+ 
+ 
+Retire a pipeta graduada do tubo  de ensaio pressionando sobre ela com botão  direito 
+do mouse.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Depois, mova a pipeta graduada do tubo 2 para o tubo 3 clicando com o botão direito 
+do mouse sobre ela.  
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+Em  seguida,  dispense  o líquido  pipetado  no  terceiro  tubo  de  ensaio  pressionando  a 
+válvula E com botão esquerdo do mouse. Realize a homogeneização três vezes, assim 
+como foi realizado no primeiro tubo de ensaio. 
+ 
+ 
+ 
+Agora, pipete 1 mL pressionando na válvula S com botão esquerdo do mouse.  
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+Retire a pipeta graduada do tubo  de ensaio pressionando sobre ela com botão  direito 
+do mouse.  
+ 
+ 
+ 
+Depois, mova a pipeta graduada do tubo 3 para o tubo 4 clicando com o botão direito 
+do mouse sobre ela.  
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+Em  seguida, dispense o  líquido  pipetado  no  quarto  tubo  de  ensaio  pressionando  a 
+válvula E com botão esquerdo do mouse. Realize a homogeneização três vezes, assim 
+como foi realizado no primeiro tubo de ensaio.  
+ 
+ 
+ 
+Após  realizar  homogeneização  no  quarto  tubo  de  ensaio,  retire a  pipeta  graduada  do 
+quarto tubo de ensaio pressionando com botão direito do mouse.  
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+Finalize a diluição seriada pressionando com botão direito do mouse.  
+ 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+  
+3. INOCULANDO AS AMOSTRAS DILUÍDAS EM CULTURAS 
+ 
+Realize   a   substituição   da   pipeta   graduada   por   outra   clicando   sobre   a   pipeta, 
+selecionando a opção “Mover para” com botão direito do mouse, em seguida pressione 
+a opção “Trocar pipeta” com botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Depois, mova a pipeta graduada para o segundo tubo de ensaio clicando sobre a pipeta, 
+selecionando  a  opção  “Mover  para”  com  botão  direito  do  mouse  e  pressionando  a 
+opção “Tubos de ensaio” e “Tubo de ensaio 2” com botão esquerdo do mouse.  
+ 
+ 
+ 
+Agora, introduza  a  pipeta  graduada  no  tubo  de  ensaio  e aspire  0,1  mL  da  amostra 
+diluída, pressionando válvula S com botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Retire  a  pipeta  graduada  do  tubo  de  ensaio  e  coloque  a  pipeta  graduada  no  suporte 
+pressionando-a com botão direito do mouse.  
+ 
+ 
+ 
+Mova a placa de ágar batata dextrose para zona de proteção do bico de bunsen  clicando 
+sobre  ela  com  botão  direito  do  mouse  e  em  seguida,  pressionando  a  opção  “Bico  de 
+Bunsen” com botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Leve a pipeta graduada à placa de Petri na zona de proteção do bico de Bunsen, clicando 
+sobre  ela  e  selecionando  a  opção  “Mover  para”  com  botão  direito  do  mouse.  Em 
+seguida, clicando a opção “Placas de cultura” e opção “Placa 1” com botão esquerdo do 
+mouse.  
+ 
+ 
+ 
+Dispense 0,1  mL  do  líquido  diluído,  pressionando  a  válvula E com  botão  esquerdo  do 
+mouse.  
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+Depois,  retorne  a  pipeta  graduada  no  suporte  pressionando-a na  opção  “Colocar  no 
+Suporte” com botão direito do mouse.  
+ 
+ 
+ 
+Agora, espalhe a amostra diluída com alça de Drigalski selecionando-a e clicando com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Em  seguida,  mova  a  placa  de Petri na  zona  de  proteção  do  bico  de  Bunsen  para  a 
+superfície  da  bancada,  pressionando  com  botão  esquerdo  do  mouse.  Repita  esses 
+passos  novamente  para  dispensar  amostra  diluída,  respectivamente  dos  tubos  de 
+ensaios 3 e 4 para as placas de ágar batata dextrose.  
+ 
+ 
+ 
+Antes de desprezar o líquido diluído nas outras placas, realize a substituição da pipeta 
+graduada  por  outra clicando sobre a pipeta, selecionando a opção “Mover para”  com 
+botão  direito  do  mouse,  em  seguida  pressione  a  opção  “Trocar  pipeta”  com  botão 
+esquerdo do mouse.  
+ 
+ 
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+  
+4. INCUBANDO AS CULTURAS EM ESTUFA 
+ 
+Após inoculação das amostras, visualize o bico de Bunsen acessando a câmera “Bico de 
+Bunsen” e desligue o registro de gás do bico de Bunsen clicando com botão esquerdo 
+do mouse.  
+ 
+ 
+  
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Visualize a estufa bacteriológica acessando a câmera “Visão Geral” e selecione sobre ela 
+para incubar as culturas clicando com botão esquerdo do mouse.  
+ 
+ 
+ 
+Leve  as  culturas  para  estufa  bacteriológica  clicando  sobre  as  culturas,  em  seguida, 
+selecionando a opção “Mover para” com botão direito do mouse, em seguida pressione 
+a opção “Estufa” com botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Feche  a  porta  da  estufa  bacteriológica clicando  sobre  ela  e  pressionando  com  botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Agora, aguarde o tempo de incubação na estufa bacteriológica clicando sobre ela com 
+botão  direito  do  mouse. Note  que  aparecerá  um  cronômetro  contando 72 horas  de 
+incubação.  
+ 
+ 
+ 
+ 
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Após a  incubação  das  72  horas,  abra  a  estufa  bacteriológica  clicando  sobre  ela  com 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Pegue  as  culturas  para  mover  para  superfície  da  bancada,  pressionando  com  botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+ 
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Depois, visualize  as  placas  acessando  a  câmera  “Bancada”  e  observe  as  colônias no 
+contador  de  colônias,  selecionando-as  pressionando  com  botão  direito  do  mouse  na 
+opção  “Ações”  e  clicando  na  opção  “Contador  de  colônias”  com  botão  esquerdo  do 
+mouse.  
+ 
+ 
+ 
+Agora, visualize o contador de colônias, acessando a câmera “Contador de Colônias” e 
+ligue  o  contador  de  colônias  clicando  com  botão  esquerdo  do  mouse  no  interruptor 
+localizado no canto inferior direito do contador.  
+ 
+ 
+ 
+
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Visualize e conte as colônias clicando na caneta com botão esquerdo do mouse.  
+ 
+ 
+ 
+Marque e conte as colônias clicando sobre elas com o botão esquerdo do mouse. 
+ 
+ 
+ 
+ 
+ 
+
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+Ao finalizar, visualize o contador de colônias novamente acessando a câmera “contador 
+de colônias” e retorne o ágar batata dextrose à  mesa clicando sobre ele com o botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Reinicie  a  contagem  e  limpe  as  marcações  do  contador  de  colônias  clicando  sobre  o 
+botão “RESET” do contador. 
+ 
+ 
+ 
+  
+
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA E HIGIENE DOS ALIMENTOS 
+IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS EM SUCO DE FRUTAS 
+   
+ 
+ 
+5. REPETINDO O PROCEDIMENTO PARA OUTRAS PLACAS  
+ 
+Após  realizar  todo  o  procedimento  no  contador  de  colônias,  repete  o  procedimento 
+para outras placas de ágar batata dextrose. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

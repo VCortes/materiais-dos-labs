@@ -1,0 +1,683 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá identificar monocotiledôneas e dicotiledôneas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Bastão de vidro; 
+• Água destilada; 
+• Pipeta Pasteur; 
+• Microscópio eletrônico; 
+• Microscópio estereoscópico; 
+• Lírio (Lilium sp.); 
+• Ixora sp.; 
+• Lâmina; 
+• Lamínula; 
+• Pinça comum. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+  
+2. IDENTIFICANDO A MACROMORFOLÓGIA 
+ 
+Ligue o microscópio estereoscópico e mova a folha de lírio para ele. Ajuste a luz e o 
+foco do microscópio estereoscópico. Retorne a folha de lírio para a bancada. Leve a 
+folha de ixora para o microscópio estereoscópico com auxílio da pinça e ajuste o foco. 
+Retorne a folha de ixora para a bancada. 
+ 
+3. IDENTIFICANDO A MICROMORFOLÓGIA 
+ 
+Use  a  pinça  comum  para  mover  a  flor  de  lírio. Pingue  uma  gota  de água na lâmina 
+com auxílio da  pipeta Pasteur.  Com  o  bastão  de  vidro,  macere  a  antera  da  flor  na 
+lâmina e cubra com lamínula. Leve ao microscópio para observar os grãos de pólen. 
+Repetir o mesmo processo, mas agora para a flor de ixora. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Descreva o tipo de classe a qual pertence as monocotiledôneas e dicotiledôneas. 
+ 
+ 
+ 
+2. Descreva as partes da monocotiledônea observada. 
+ 
+ 
+ 
+3. Descreva as partes da dicotiledônea observada. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão do mouse sobre a torneira. 
+ 
+  
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre ele. Nesse experimento, é obrigatório o uso do jaleco. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+2. IDENTIFICANDO A MACROMORFOLÓGICA 
+ 
+Visualize bancada clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Bancada lado direito” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue o microscópio estereoscópico clicando com o botão esquerdo do mouse no botão 
+“on/off”. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Mova a folha de lírio para o microscópio clicando com o botão esquerdo do mouse na 
+folha de lírio. 
+ 
+ 
+ 
+Visualize o estereomicrocópio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Estereomicroscópio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Realize o  ajuste  de  luzes  clicando  com  o  botão  direito  do  mouse no botão  indicado  e 
+selecione entre as opções “Ligar luzes intensidade I” ou “Ligar luzes intensidade II”. 
+ 
+ 
+ 
+Visualize a folha clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Ajuste  o  foco  do microscópio  estereoscópico pressionando  com  o  botão  esquerdo  do 
+mouse sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Retorne a folha de lírio para a bancada clicando com o botão esquerdo do mouse sobre 
+a folha. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Mova a folha de ixora para o microscópio clicando com o botão esquerdo do mouse na 
+folha de ixora. 
+ 
+ 
+  
+Visualize a folha clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. Realize o 
+ajuste do foco do microscópio estereoscópico. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Retorne a folha de ixora para a bancada clicando com o botão esquerdo do mouse sobre 
+a folha de ixora. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+3. IDENTIFICANDO A MICROMORFOLÓGICA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada lado direito” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova o lírio clicando com o botão esquerdo do mouse na pinça e selecione a opção 
+“Mover lírio para lâmina”. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Pingue uma gota de água na lâmina clicando com o botão direito do mouse na pipeta 
+Pasteur e selecione a opção “Gotejar lâmina da esquerda”. 
+ 
+ 
+ 
+Macere  a  antera  da  flor  clicando  com  o  botão  direito  do  mouse  no  bastão  de  vidro  e 
+selecione a opção “Macerar lírio”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Cubra a lâmina clicando com o botão esquerdo do mouse na lamínula de vidro. 
+ 
+ 
+ 
+Mova a lâmina para o microscópio clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Visualize  o  microscópio clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Microscópio Frontal” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+  
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+  
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+  
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Visualize a lâmina na objetiva de 4x, 10x e 40x. Realize o ajuste do foco e movimentação 
+do   charriot pressionando   com  o  botão   esquerdo   do   mouse   sobre  os   parafusos 
+macrométrico  e  micrométrico,  e  charriot  movimentando  o  cursor  à  direita  ou  à 
+esquerda. 
+ 
+  
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada lado direito” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova a flor de ixora clicando com o botão esquerdo do mouse na pinça e selecione a 
+opção “Mover ixora para lâmina”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Pingue uma gota de água na lâmina clicando com o botão direito do mouse na pipeta 
+Pasteur e selecione a opção “Gotejar lâmina da direita”. 
+ 
+ 
+ 
+Macere  a  antera  da  flor clicando  com  o  botão  direito  do  mouse  no  bastão  de  vidro  e 
+selecione a opção “Macerar ixora”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Cubra a lâmina clicando com o botão esquerdo do mouse na lamínula de vidro. 
+ 
+ 
+ 
+Mova a lâmina para o microscópio clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Visualize  o  microscópio clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Microscópio Frontal” ou através do atalho do teclado “Alt+6”. 
+ 
+  
+ 
+Visualize a lâmina na objetiva de 4x, 10x e 40x. Realize o ajuste do foco e movimentação 
+do   charriot pressionando   com  o  botão   esquerdo   do   mouse   sobre  os   parafusos 
+macrométrico  e  micrométrico,  e  charriot  movimentando  o  cursor  à  direita  ou  à 
+esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOBOTÂNICA 
+IDENTIFICAÇÃO DE MONOCOTILEDÔNEAS E DICOTILEDÔNEAS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

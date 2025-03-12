@@ -1,0 +1,880 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você irá verificar a solubilidade de lipídios em diferentes meios e 
+diferenciar ácidos graxos saturados e insaturados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+0DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Tubos de ensaio; 
+• Bico de Bunsen ou chapa aquecedora; 
+• Óleo vegetal (girassol, soja ou milho); 
+• Gordura animal (banha de porco); 
+• Manteiga; 
+• Água destilada; 
+• Solução de hidróxido de sódio (0,5 M); 
+• Solução de ácido clorídrico (0,5 M); 
+• Éter etílico; 
+• Lugol. 
+ 
+PROCEDIMENTOS 
+ 
+TESTE DE SOLUBILIDADE 
+1. PREPARANDO A CAPELA 
+ 
+Prepare  a  capela  para  ser  utilizada  no  experimento.  Os  materiais  necessários 
+devem  ser  retirados  dos  armários,  a  luz  interna  ligada  e  o  exaustor  deve  ser 
+acionado. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+2. ADICIONANDO ÓLEO VEGETAL AOS TUBOS DE ENSAIO 
+ 
+Adicione óleo vegetal em um béquer e, com o auxílio da pipeta, despeje 1 mL da 
+solução nos tubos de ensaio numerados de 1 a 4. 
+ 
+3. ADICIONANDO MANTEIGA AOS TUBOS DE ENSAIO 
+ 
+Adicione manteiga em um béquer e, com o auxílio da pipeta, despeje 1 mL da 
+solução nos tubos de ensaio numerados de 5 a 8. 
+ 
+4. ADICIONANDO GORDURA ANIMAL AOS TUBOS DE ENSAIO 
+ 
+Adicione gordura animal em um vidro de relógio e despeje 1 mL do composto 
+nos tubos de ensaio numerados de 9 a 12. 
+ 
+5. ADICIONANDO ÁGUA DESTILADA 
+ 
+Adicione água destilada em um béquer e, com o auxílio da pipeta, despeje 5 mL 
+da solução nos tubos de ensaio 1, 5 e 9. 
+ 
+6. ADICIONANDO ÉTER ETÍLICO 
+ 
+Adicione éter etílico em um béquer e, com o auxílio da pipeta, despeje 5 mL da 
+solução nos tubos de ensaio 2, 6 e 10. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+7. ADICIONANDO HIDRÓXIDO DE SÓDIO 
+ 
+Adicione hidróxido de sódio em um béquer e, com o auxílio da pipeta, despeje 
+5 mL da solução nos tubos de ensaio 3, 7 e 11. 
+ 
+8. ADICIONANDO ÁCIDO CLORÍDRICO 
+ 
+Adicione ácido clorídrico em um béquer e, com o auxílio da pipeta, despeje 5 mL 
+da solução nos tubos de ensaio 4, 8 e 12. 
+ 
+9. AGITANDO AS SOLUÇÕES 
+ 
+Agite as amostras contidas nos tubos de ensaio e deixe em repouso por alguns 
+minutos. 
+ 
+10. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  nos  experimentos, 
+associando também com os conhecimentos aprendidos sobre o tema.  
+ 
+TESTE DE INSATURAÇÃO 
+ 
+1. ADICIONANDO OS LIPÍDIOS 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+  
+Adicione 1 mL de óleo vegetal, manteiga e gordura animal nos tubos de ensaio 
+1, 2 e 3, respectivamente. 
+ 
+2. ADICIONANDO O LUGOL 
+ 
+Adicione  3  gotas  de  lugol  em  cada  um  dos  tubos  de  ensaio  utilizados  nesta 
+etapa do experimento. 
+ 
+3. AQUECENDO AS SOLUÇÕES 
+ 
+Agitar os tubos de ensaio e aquecer em água fervente por aproximadamente 
+3 minutos. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  nos  experimentos, 
+associando também com os conhecimentos aprendidos sobre o tema.  
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a semelhança e a diferença entre óleos e gorduras? 
+ 
+ 
+ 
+2. O que foi observado nos testes de solubilidade? Explique. 
+ 
+ 
+ 
+3. O que foi observado no teste de insaturação? Explique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+SEGURANÇA DO EXPERIMENTO 
+ 
+Assim  que  iniciar  a  prática,  será  exibido  um  “Guia  de  utilização”  que  contém  as 
+informações necessárias para utilização das mecânicas do laboratório. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Escolha a visualização do armário de EPIs pressionando “Alt + 9”. 
+ 
+ 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  sobre  o  armário  de  EPIs  para  selecionar  os 
+equipamentos de proteção.   
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Selecione os EPIs que se encontram no armário. Os EPIs utilizados serão: jaleco, luvas de 
+látex, óculos de proteção e máscara para vapores.  
+ 
+ 
+ 
+Após ter selecionado todos os EPIs, eles aparecerão no comando “EPI”. Clicando sobre 
+seu ícone com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Retorne para a visualização da capela pressionando “Alt + 1”. 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+TESTE DE SOLUBILIDADE 
+ 
+1. PREPARANDO A CAPELA 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  para  abrir  a  porta  do  primeiro  armário  da 
+capela. 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Escolha a visualização do armário inferior pressionando “Alt + 4”. 
+Posicione o mouse sobre os itens exibidos nos armários e utilize o comando para colocar 
+na mesa (clicando no objeto com o botão esquerdo do mouse) aqueles que exibirem o 
+comando no canto inferior direito da tela. 
+ 
+ 
+ 
+Dica: Quando  setas  azuis  forem  exibidas  no  canto  da  tela,  a  visualização  pode  ser 
+deslocada para esquerda ou para direita posicionando o mouse nos cantos da tela. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Abra os outros dois armários e coloque na mesa os objetos necessários. 
+Escolha a visualização do painel de controle pressionando “Alt + 3”. 
+Clique com o botão esquerdo do mouse no interruptor para ligar a iluminação interna 
+da capela. 
+Clique com o botão esquerdo do mouse no botão ON para ligar o sistema de exaustão 
+da capela. 
+ 
+ 
+ 
+Escolha a visualização do interior da capela pressionando “Alt + 2”. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+2. ADICIONANDO ÓLEO VEGETAL AOS TUBOS DE ENSAIO 
+ 
+Adicione o óleo vegetal no béquer 1 clicando com o botão esquerdo do mouse no frasco 
+indicado.  
+ 
+ 
+ 
+Pipete  o  óleo  vegetal  do  béquer  1 clicando  com  botão  esquerdo  do  mouse  na  pipeta 
+Pasteur. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Selecione  o  tubo  de  ensaio  no  qual  solução  contida  na  pipeta  deve  ser  despejada 
+clicando com o botão esquerdo no mouse na pipeta para exibir os tubos de ensaio de 1 
+a 6. Para selecionar os tubos de ensaio de 7 a 12 utilize o clique direito do mouse. 
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  1  clicando  na  opção  indicada  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Colete a mesma solução contida no béquer 1 pressionando a tecla E enquanto o mouse 
+está posicionado sobre a pipeta. 
+ 
+ 
+ 
+Repita as instruções mostradas anteriormente para adicionar à solução nos tubos de 
+ensaio 2, 3 e 4. 
+Higienize a pipeta Pasteur para utilizá-la com outra solução apertando a tecla C com o 
+mouse posicionado sobre o equipamento. 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+3. ADICIONANDO MANTEIGA AOS TUBOS DE ENSAIO 
+ 
+Adicione  a  manteiga  no  béquer  2  clicando  com  o  botão  direito  do  mouse  no  frasco 
+indicado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Utilize o mesmo procedimento de retirar a solução do béquer 1 e adicionar aos tubos 
+de ensaio de 1 a 4, para pipetar a solução contida no béquer 2 e adicionar aos tubos 
+de ensaio de 5 a 8. 
+Higienize a pipeta Pasteur para utilizá-la com outra solução apertando a tecla C com o 
+mouse posicionado sobre o equipamento. 
+Remova o conteúdo dos béqueres 1 e 2 pressionando a tecla C com o cursor do mouse 
+sobre cada um dos béqueres. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+ 
+ 
+Destampe o pote com gordura animal clicando com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Deposite a gordura animal no vidro de relógio clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+4. ADICIONANDO GORDURA ANIMAL AOS TUBOS DE ENSAIO 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Selecione o tubo de ensaio no qual a gordura animal deve ser despejada clicando com o 
+botão  direito  do  mouse  no  mouse  no  vidro  para  definir  qual  tubo  de  ensaio  será 
+utilizado. 
+ 
+ 
+ 
+Selecione  o  tubo  de  ensaio  9  clicando  na  opção  indicada  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+ 
+Utilize  o  mesmo  procedimento  de  retirar  a  gordura  do  pote  e  adicionar  ao  tubo  de 
+ensaio 9, para adicionar gordura animal aos tubos de ensaio de 10 a 12.  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+5. ADICIONANDO ÁGUA DESTILADA 
+ 
+Adicione a água destilada contida na pisseta no béquer 1. 
+ 
+ 
+ 
+Pipete a água destilada contida no béquer 1. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Adicione o conteúdo da pipeta no tubo de ensaio 1. 
+ 
+ 
+ 
+Repita as ações anteriores para adicionar água destilada nos tubos de ensaio 5 e 9. 
+Remova e limpe a solução contida na pipeta. 
+Remova a solução e limpe o béquer 1. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+6. ADICIONANDO ÉTER ETÍLICO 
+ 
+Adicione o éter etílico, contido em um frasco, no béquer 1. 
+ 
+ 
+ 
+Pipete  o  éter  etílico  contido  no  béquer  1. Adicione  o  conteúdo  da  pipeta  no  tubo  de 
+ensaio 2. Repita as ações anteriores para adicionar éter etílico nos tubos de ensaio 6 e 
+10. Remova e limpe a solução contida na pipeta. Remova a solução e limpe o béquer 1. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+7. ADICIONANDO HIDRÓXIDO DE SÓDIO 
+ 
+Adicione o hidróxido de sódio, contido em um frasco, no béquer 1. 
+ 
+ 
+ 
+Pipete o hidróxido de sódio contido no béquer 1. Adicione o conteúdo da pipeta no tubo 
+de ensaio 3. Repita as ações anteriores para adicionar éter etílico nos tubos de ensaio 
+7 e 11. Remova e limpe a solução contida na pipeta. Remova a solução e limpe o béquer 
+1. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+8. ADICIONANDO ÁCIDO CLORÍDRICO 
+ 
+Adicione o ácido clorídrico, contido em um frasco, no béquer 1. 
+ 
+ 
+ 
+Pipete o ácido clorídrico contido no béquer 1. Adicione o conteúdo da pipeta no tubo 
+de  ensaio  4. Repita  as  ações  anteriores  para  adicionar  ácido  clorídrico  nos  tubos  de 
+ensaio 8 e 12. Remova e limpe a solução contida na pipeta. Remova a solução e limpe o 
+béquer 1. 
+ 
+   
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+9. AGITANDO AS SOLUÇÕES 
+ 
+Escolha a visualização do interior da capela pressionando “Alt + 2”. 
+Para agitar o conteúdo de um tubo de ensaio, realize o comando indicado ao posicionar 
+o mouse sobre o suporte com os tubos. 
+ 
+ 
+ 
+Escolha o tubo de ensaio 1 para ser agitado. 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Repita o procedimento apresentado neste passo para misturar o conteúdo dos tubos 
+de ensaio numerados de 2 a 12. 
+ 
+10. AVALIANDO OS RESULTADOS 
+ 
+Selecione os modos de visualização dos tubos de ensaio e posicione o mouse sobre cada 
+uma  das  soluções  nos  tubos  de  ensaio  numerados  de  1  a  12.  Observe  que  no  canto 
+inferior da tela os componentes contidos no tubo de ensaio escolhido são exibidos. 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+TESTE DE SOLUBILIDADE 
+ 
+1. ADICIONANDO OS LIPÍDIOS 
+ 
+Remova o conteúdo dos tubos de ensaio e da pipeta Pasteur. 
+ 
+ 
+ 
+Adicione óleo vegetal no béquer 1. Pipete o conteúdo do béquer 1. Em seguida, adicione 
+o óleo vegetal contido na pipeta no tubo de ensaio 1. 
+ 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Limpe a pipeta Pasteur. Em seguida, adicione manteiga no béquer 2. 
+Pipete  o  conteúdo  do  béquer  2  e  adicione  a  manteiga  contida  na  pipeta  no  tubo  de 
+ensaio 2. 
+Limpe a pipeta Pasteur. Destampe o pote com gordura animal. 
+ 
+ 
+ 
+Deposite no vidro relógio a gordura animal. Em seguida, adicione a gordura animal ao 
+tubo de ensaio 3. 
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+2. ADICIONANDO O LUGOL 
+ 
+O lugol se encontra em um frasco conta gotas próximo aos tubos de ensaio. 
+Adicione lugol aos tubos de ensaio 1, 2 e 3. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+ 
+3. AQUECENDO AS SOLUÇÕES 
+ 
+Agite os tubos de ensaio 1, 2 e 3. 
+ 
+ 
+ 
+Aqueça o tubo de ensaio 1. 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUIMICA 
+SOLUBILIDADE E INSATURAÇÃO DE LIPÍDIOS 
+Aguarde até que o tubo de ensaio retorne do banho-maria. 
+ 
+ 
+ 
+Repita o procedimento deste passo para aquecer no banho-maria as soluções contidas 
+nos tubos de ensaio 2 e 3. 
+ 
+4. ANALISANDO OS RESULTADOS 
+ 
+Selecione o modo de visualização dos tubos de ensaio e posicione o mouse sobre cada 
+uma  das  soluções  nos  tubos  de  ensaio  numerados  de  1  a  3.  Observe  que  no  canto 
+inferior da tela os componentes contidos no tubo de ensaio escolhido são exibidos. 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 

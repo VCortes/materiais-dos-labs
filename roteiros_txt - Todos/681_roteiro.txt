@@ -1,0 +1,432 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar três diferentes tipos de teste para avaliar o 
+reflexo de uma criança com suspeita de Síndrome de Down. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Caneta; 
+• Lápis; 
+• Maca; 
+• Prancheta. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia e coloque  os equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide  o paciente  e  a  sua  mãe  para  entrarem  no  consultório.  Realize  a anamnese  e  leia  o 
+relato feito pela mãe. Peça a mãe do paciente que assine o termo de consentimento. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+  
+3. OBSERVANDO O REFLEXO DE MORO 
+ 
+Mova o paciente  até a  sala  de  análise.  Segure  o paciente  na  região  posterior  e  na  cabeça  e 
+deixe-o  sentadona  maca.  Solte levemente  o  corpo  do  paciente  para  trás  e  observe  o 
+movimento durante a “queda”. 
+ 
+4. AVALIANDO A REAÇÃO PROTETORA LATERAL 
+ 
+Ainda segurando o paciente conduza o corpo dele para a lateral direita. Depois, mova para a 
+esquerda e para trás. Por fim, coloque-o para a frente. 
+ 
+5. ANALISANDO O REFLEXO LABIRÍNTICO 
+ 
+Segure o paciente em posição vertical, acima da maca. Observe a reação do paciente ao ser 
+colocado nessa posição. 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Registre a condição do paciente, de acordo com as observações dos reflexos. 
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento  associando,  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por  que  são  utilizados  teste  de reflexos  para  um  paciente  com  suspeita  de 
+Síndrome de Down? 
+ 
+ 
+ 
+2. O que será possível observar em cada um dos testes, caso o paciente apresente 
+a Síndrome de Down? 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+Abra a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Chame o paciente à sala clicando com o botão esquerdo do mouse no botão “Convidar 
+paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse na prancheta. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Mesa”. 
+ 
+ 
+ 
+Solicite que a mãe do paciente assine o termo de consentimento clicando com o botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+3. OBSERVANDO O REFLEXO DE MORO 
+ 
+Conduza o paciente a maca clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Realize o teste de reflexo de Moro clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Reflexo de Moro”.  
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+4. AVALIANDO A REAÇÃO PROTETORA LATERAL 
+ 
+Realize o teste de reação protetora lateral no paciente clicando com o botão direito do 
+mouse sobre ele e selecione a opção “Reação protetora lateral”.  
+ 
+ 
+ 
+  
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+5. ANALISANDO O REFLEXO LABIRÍNTICO 
+ 
+Realize o teste do reflexo labiríntico no paciente clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Reflexo labiríntico”.  
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Visualize a ficha de avaliação clicando com o botão esquerdo do mouse sobre o ícone. 
+ 
+ 
+ 
+Registe  a  condição  do  paciente,  de  acordo  com  as  observações  dos  reflexos, clicando 
+com o botão esquerdo do mouse sobre o campo indicado e digite através do teclado da 
+sua máquina. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FISIOTERAPIA NA SAÚDE DA CRIANÇA 
+ FISIOTERAPIA APLICADA A SÍNDROME DE DOWN 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

@@ -1,0 +1,546 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta  prática,  você  determinará  a  massa  específica  do  cimento  utilizando  o 
+frasco de Le Chatelier.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Frasco de Le Chatelier; 
+• Balança Analítica; 
+• Banho termorregulador; 
+• Placa de Petri; 
+• Frasco com amostra de cimento; 
+• Frasco com querosene; 
+• Funis. 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O LABORATÓRIO VIRTUAL 
+ 
+Para  dar  início  a  este  laboratório  virtual,  é  necessário  que  você  conheça  os 
+principais recursos disponíveis.  
+ 
+2. PESANDO A AMOSTRA 
+ 
+Ligue a balança analítica e posicione a placa de Petri sobre ela. Utilize a função 
+de TARA. Despeje o cimento disponível na placa de Petri e verifique  a  massa  da 
+amostra. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+3. DESPEJANDO A QUEROSENE  
+ 
+Remova a tampa do frasco de Le Chatelier e posicione o funil longo nele. Despeje 
+a querosene no funil. Verifique o nível do líquido no frasco.  
+ 
+4. MOVENDO PARA O BANHO TERMORREGULADOR 
+ 
+Mova  o  frasco  de  Le  Chatelier  para  o  banho  termorregulador  e  aguarde  30 
+minutos. Retire o frasco e verifique o nível do líquido no frasco. 
+ 
+5. DESPEJANDO O CIMENTO 
+ 
+Posicione o funil curto e despeje lentamente o cimento contido na placa de petri 
+no funil. Remova o funil e agite de forma suave o frasco durante 3 minutos para 
+remover todo ar da mistura entre querosene e cimento. 
+ 
+6. MOVENDO NOVAMENTE PARA O BANHO TERMORREGULADO 
+ 
+Destampe  o  frasco  de  Le  Chatelier e  o  mova  para  o  banho  termorregulador. 
+Aguarde 30 minutos. 
+ 
+7. VERIFICANDO O NÍVEL DE LÍQUIDO NO FRASCO 
+ 
+Remova  o  frasco  do  banho  termorregulador  e  verifique  o  nível  do  líquido  no 
+frasco. 
+ 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a massa de cimento utilizada na realização do ensino? 
+ 
+ 
+2. Quais foram os valores de volume verificados no frasco de Le Chatelier? 
+ 
+ 
+3. Qual a massa específica do cimento encontrada com os valores obtidos durante 
+o ensaio? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO O LABORATÓRIO VIRTUAL 
+ 
+Para  dar  início  a  este  laboratório  virtual,  é  necessário  que  você  conheça  os  principais 
+recursos disponíveis.  
+Explore  as  opções  de  visualização  clicando  com o  botão  esquerdo do  mouse  em  cada 
+opção disponível. Note também que é possível mudar a visualização das câmeras usando 
+atalhos no teclado.  
+ 
+ 
+ 
+Explore agora os botões do canto superior direito. O botão com engrenagem é utilizado 
+para acessar o menu de OPÇÕES, onde o experimento pode ser reiniciado. O botão com 
+o caderno fornece um bloco de notas que pode ser utilizado para escrever informações 
+obtidas durante a realização do laboratório virtual. 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+2. PESANDO A AMOSTRA 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova a placa de Petri para a balança clicando na placa de Petri com o botão direito do 
+mouse e selecionando a opção “Mover para balança”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Tare a balança clicando com o botão esquerdo do mouse no botão “TARA”.  
+ 
+ 
+ 
+Despeje a amostra de cimento na placa de Petri clicando no frasco contendo a amostra 
+de cimento e selecionando a opção “Despejar na placa”.  
+ 
+ 
+ 
+Altere a visualização para “Balança”, ‘Alt+2”. 
+Observe e a anote a massa da amostra de cimento no display da balança.   
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+3. DESPEJANDO A QUEROSENE  
+ 
+Retorne o modo de visualização para “Visão principal”, “Alt+1”. 
+Remova a tampa do frasco de Le Chatelier clicando com o botão direito do mouse sobre 
+ele e selecionando a opção “Remover tampa”.  
+ 
+ 
+ 
+Acople o funil longo clicando no funil com o botão direito do mouse e selecionando a 
+opção “Acoplar”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Despeje a querosene no frasco de Le Chatelier clicando no frasco de querosene com o 
+botão direito do mouse e selecionando a opção “Despejar”. 
+ 
+ 
+ 
+Verifique o nível do líquido clicando com o botão esquerdo do mouse sobre o frasco de 
+Le Chatelier.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+4. MOVENDO PARA O BANHO TERMORREGULAR 
+ 
+Retire o funil que está acoplado no frasco de Le Chatelier clicando no funil com o botão 
+direito do mouse e selecionando a opção “Retirar”. 
+ 
+ 
+ 
+Mova o fraco de Le Chatelier para o banho termorregulador clicando no frasco com o 
+botão direito do mouse e selecionando a opção “Mover para banho”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Mude a visualização para “Banho termorregulador”, “Alt+4”. 
+Perceba que apareceu um cronômetro no canto inferior esquerdo da tela, indicando o 
+tempo necessário para o banho. Caso não deseje aguardar 30 minutos clicando no botão 
+“Pular etapa de espera”. 
+ 
+ 
+ 
+Mova  o  frasco  de  Le  Chatelier  para  a  mesa  clicando  no  frasco  com  o botão direito  do 
+mouse e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Retorne a visualização para “Visão principal”, “Alt+1”. 
+Verifique o nível do líquido pressionando o botão esquerdo do mouse sobre o frasco de 
+Le Chatelier.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+5. DESPEJANDO O CIMENTO 
+ 
+Acople o funil curto clicando nele com o botão direito do mouse e selecionando a opção 
+“Acoplar”. 
+ 
+ 
+ 
+Despeje o cimento que está na placa de Petri no frasco de Le Chatelier clicando na placa 
+de  Petri  com  o  botão  esquerdo  do  mouse  e  selecionando  a  opção  “Despejar  no  Le 
+Chatelier”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Desacople o funil clicando nele com o botão direito do mouse e selecionando a opção 
+“Retirar”.  
+ 
+ 
+ 
+Tampe  o  frasco  de  Le  Chatelier  clicando na  tampa com  o  botão  direito  do  mouse  e 
+selecionando a opção “Colocar tampa”.  
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Agite o frasco de Le Chatelier clicando nele com o botão direito do mouse e selecionando 
+a opção “Agitar”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+6. MOVENDO NOVAMENTE PARA O BANHO TERMORREGULADO 
+ 
+Remova  a  tampa  do  fraco  de  Le  Chatelier  clicando  no  frasco  com  o  botão  direito  do 
+mouse e selecionando a opção “Remover tampa”. 
+ 
+ 
+ 
+Submerja  o  frasco  de  Le  Chatelier clicando  nele  com  o  botão  direito  no  mouse  e 
+selecionando a opção “Submergir”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+Mude a visualização para “Banho termorregulador”, “Alt+4”. 
+Perceba que apareceu um cronômetro no canto inferior esquerdo da tela, indicando o 
+tempo necessário para o banho. Caso não deseje aguardar 30 minutos clicando no botão 
+“Pular etapa de espera”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+MASSA ESPECÍFICA DO CIMENTO 
+ 
+7. VERIFICANDO O NÍVEL DE LÍQUIDO NO FRASCO 
+ 
+Mova  o  frasco  de  Le  Chatelier para  a  mesa  clicando  no  frasco  com  o botão direito  do 
+mouse e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Retorne a visualização para “Visão principal”, “Alt+1”. 
+Verifique o nível do líquido pressionando o botão esquerdo do mouse sobre o frasco de 
+Le Chatelier.  
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 

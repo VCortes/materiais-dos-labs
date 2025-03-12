@@ -1,0 +1,522 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá preparar um pó antiácido efervescente. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança; 
+• Gral de porcelana; 
+• Papel de pesagem; 
+• Tamis; 
+• Papel manteiga; 
+• Espátula; 
+• Fosfato de sódio anidro (5 g); 
+• Carbonato de sódio anidro (7,5 g); 
+• Carbonato de magnésio (6,25 g); 
+• Ácido cítrico anidro (1,25 g); 
+• Bicarbonato de sódio (3,75 g); 
+• Sacarose (1,25 g). 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PESANDO AS SUBSTÂNCIAS 
+ 
+Ligue   a   balança,   posicione   o   papel   para   pesagem   sobre   ela   e   tare   o 
+equipamento. Destampe um dos frascos e, com o auxílio da espátula, despeje a 
+quantidade  adequada  de  conteúdo  no  papel  para  pesagem.  Em  seguida, 
+transfira   o   conteúdo   para   o   gral.   Repita   o   procedimento   com   todas as 
+substâncias. 
+ 
+3. AGITANDO AS PENEIRAS 
+ 
+Triture  bem  a  amostra,  usando  o  pistilo. Em  seguida,  transfira  o  conteúdo  do 
+gral para a peneira. Agite as peneiras usando o agitador de peneiras. Em seguida, 
+desmonte-as e preencha o papel envelope com 5 g de amostra. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Comente sobre a técnica de tamisação. 
+ 
+ 
+ 
+2. Como ocorre o funcionamento do antiácido no organismo? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize  o  armário  de  EPI’s,  acessando  a  câmera  “Armário  de EPIs”,  clicando  com  o 
+botão esquerdo do mouse sobre o menu lateral esquerdo. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Abra o armário, clicando com o botão esquerdo do mouse sobre suas portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do experimento, clicando com o botão 
+esquerdo  do  mouse  sobre  eles. Nesse  experimento,  serão  necessários  jaleco, luvas e 
+óculos. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Visualize a bancada novamente, através da janela Visualização ou do atalho do teclado 
+“Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+2. PESANDO AS SUBSTÂNCIAS 
+ 
+Ligue  a  balança  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  indicado  na 
+imagem abaixo. 
+ 
+ 
+ 
+Destampe  os  frascos  contendo  as  substâncias.  Para  isso,  basta  clicar  sobre  cada  um 
+deles com o botão esquerdo do mouse. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Posicione o papel para pesagem sobre a balança. Para isso, clique sobre ele com o botão 
+direito do mouse e selecione a opção “Mover para a balança”. 
+ 
+ 
+ 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão TARA. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Despeje 5 g de fosfato de sódio anidro sobre o papel de pesagem. Para isso, clique com 
+o botão direito do mouse sobre a espátula de aço e selecione o grupo de componentes 
+onde está a substância desejada. No caso do fosfato, selecione “Componentes – 1”. 
+ 
+ 
+ 
+Em seguida, selecione a opção “Pote – fosfato de sódio”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Despeje o conteúdo clicando sobre a espátula. 
+ 
+ 
+ 
+Retorne a espátula para a mesa. Para isso, clique sobre ela com o botão direito do mouse 
+e selecione a opção “Retornar à mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Transfira o conteúdo do papel para o almofariz clicando com o botão direito do mouse 
+sobre o papel e selecionando a opção “Adicionar conteúdo ao almofariz”. 
+ 
+ 
+ 
+Posicione  outro  papel  para  pesagem  sobre  a  balança.  Realize  a  limpeza  da  espátula 
+antes de manusear outra substância. Para isso, clique sobre ela com o botão direito do 
+mouse e selecione a opção “Realizar limpeza”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Repita o procedimento para mensurar e transferir para o almofariz 7,5 g de carbonato 
+de sódio, 6,25 g de carbonato de magnésio, 1,25 g de ácido cítrico, 3,75 g de bicarbonato 
+de sódio e 1,25 g de sacarose. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+3. AGITANDO AS PENEIRAS 
+ 
+Visualize o almofariz, através da câmera “Almofariz” ou do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Triture  bem  a  amostra,  usando  o  pistilo.  Para  realizar  essa  ação,  basta  clicar  sobre  o 
+pistilo com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Transfira  o  conteúdo  do  almofariz  para  as peneiras.  Para  isso,  clique  sobre  ele com  o 
+botão direito do mouse. 
+ 
+ 
+ 
+Mova as peneiras para o agitador. Para realizar essa ação, clique com o botão direito do 
+mouse sobre as peneiras e selecione a opção “Mover para o agitador”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Trave as peneiras clicando com o botão direito do mouse sobre o agitador. Em seguida, 
+ligue o agitador clicando sobre ele com o botão esquerdo. 
+ 
+ 
+ 
+Após concluído o processo de tamisação, desmonte as peneiras. Para isso, clique sobre 
+elas com o botão direito do mouse e selecione a opção “Desmontar peneiras”. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Pegue o conteúdo da peneira com a espátula. Para isso, visualize a espátula alterando o 
+modo de visualização para “Balança”. Em seguida, clique sobre ela com o botão direito 
+do mouse e selecione a opção “Pegar conteúdo da peneira”. 
+ 
+ 
+ 
+Posicione  o  papel  envelope  sobre  a  bancada.  Para  isso,  clique  sobre  ele  com  o  botão 
+direito do mouse e selecione a opção “Mover para a balança”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+Tare a balança e, em seguida, deposite aproximadamente 5 g de conteúdo no envelope. 
+ 
+ 
+ 
+Retorne a espátula para a mesa e envelope o conteúdo. Para isso, clique sobre o papel 
+envelope com o botão direito do mouse e selecione a opção “Envelopar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PÓ ANTIÁCIDO EFERVESCENTE 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. 
+ 
+AB3_TAC2_MD1 

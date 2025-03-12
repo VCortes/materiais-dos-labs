@@ -1,0 +1,2805 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesse  experimento  você  irá  aprender  como  determinar  constante  elásticas  de 
+molas e analisar suas associações. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Peso inicial; 
+• Pesos; 
+• Suporte indicador; 
+• Gancho; 
+• Molas; 
+ 
+PROCEDIMENTOS 
+ 
+FASE 1 – LEI DE HOOKE 
+ 
+1. MONTAGEM DO EXPERIMENTO 
+ 
+Posicione a mola 1 na base de ensaio. Mova o suporte indicador para a mola que 
+se encontra na base. Posicione o ganho no suporte indicador. Insira o peso de 
+23 gramas no gancho e verifique a deformação inicial. 
+ 
+2. GERANDO DEFORMAÇÃO “X
+n
+” NA MOLA 
+ 
+Posicione os pesos de 50 gramas no ganho e verifique a deformação que o peso 
+gerou na mola. Insira cada um dos outros pesos simultaneamente, anotando na 
+tabela 1 a deformação da mola gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+3. DESMONTANDO O EXPERIMENTO 
+ 
+Retire cada  um  dos  pesos  no  ganho  e  posicionando-os  na  bancada.  Retire  o 
+gancho e o suporte indicador. Retire a mola da base de ensaio. 
+ 
+4. CALCULANDO A CONSTANTE ELÁSTICA DA MOLA 
+ 
+Siga para a seção de “Avaliação dos Resultados” e encontre a constante elástica 
+da mola M
+1
+. 
+ 
+5. REPETINDO O EXPERIMENTO COM AS MOLAS RESTANTES 
+ 
+Repita  os  passos  de  1  a  4  para  as  molas  restantes  M
+2
+ e  M
+3
+. Siga  para  a  seção 
+“Avaliação de Resultados”, neste roteiro, e responda de acordo com o que foi 
+observado neste experimento. 
+ 
+FASE 2 – ASSOCIAÇÃO DE MOLAS EM SÉRIE 
+ 
+6. MONTAGEM DO EXPERIMENTO 
+ 
+Posicione a mola 1 na base de ensaio. Em seguida, posicione a mola 2 na mola 
+previamente  posicionada  na  base.  Mova  o  suporte  indicador  para  a  mola  2. 
+Posicione o ganho no suporte indicador. Insira o peso de 23 gramas no gancho 
+e verifique a deformação inicial. 
+ 
+7. GERANDO DEFORMAÇÃO NAS MOLAS “X
+n
+” 
+ 
+Posicione os pesos de 50 gramas no ganho e verifique a deformação que o peso 
+gerou na mola. Insira cada um dos outros pesos simultaneamente, anotando na 
+tabela 2 a deformação da mola gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+8. DESMONTANDO O EXPERIMENTO 
+ 
+Retire cada  um  dos  pesos  no  ganho  e  posicionando-os  na  bancada.  Retire  o 
+gancho e o suporte indicador. Retire as molas da base de ensaio. 
+ 
+9. CALCULANDO A CONSTANTE ELÁSTICA DE MOLAS ASSOCIADAS EM 
+SÉRIE   
+ 
+Siga para a seção de “Avaliação dos Resultados” e encontre a constante elástica 
+do conjunto de molas (M
+1 
+e M
+2
+) associadas em série. 
+ 
+10. REPETINDO O EXPERIMENTO COM AS MOLAS RESTANTES 
+ 
+Repita os passos de 6 a 9 para as seguintes associações (M
+2
+ e M
+1
+); (M
+1
+ e M
+3
+); 
+(M
+3
+ e M
+1
+); (M
+2
+ e M
+3
+) e (M
+3
+ e M
+2
+). Siga para a seção “Avaliação de Resultados”, 
+neste   roteiro,   e   responda   de   acordo   com   o   que   foi   observado   neste 
+experimento. 
+ 
+FASE 3 – ASSOCIAÇÃO DE MOLAS EM PARALELO 
+ 
+11. MONTAGEM DO EXPERIMENTO 
+ 
+Posicione a mola 1 na base de ensaio. Em seguida, posicione a mola 2 na base 
+de  ensaio.  Mova  o  suporte  indicador  para  o  conjunto  de  molas.  Posicione  o 
+ganho no suporte indicador. Insira o peso de 23 gramas no gancho e verifique a 
+deformação inicial. 
+ 
+12. GERANDO DEFORMAÇÃO NAS MOLAS “X
+n
+” 
+ 
+Posicione os pesos de 50 gramas no ganho e verifique a deformação que o peso 
+gerou na mola. Insira cada um dos outros pesos simultaneamente, anotando na 
+tabela 3 a deformação da mola gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+13. DESMONTANDO O EXPERIMENTO 
+ 
+Retire  cada  um  dos  pesos  no  ganho  e  posicionando-os  na  bancada.  Retire  o 
+gancho e o suporte indicador. Retire as molas da base de ensaio. 
+ 
+14. CALCULANDO A CONSTANTE ELÁSTICA DE MOLAS ASSOCIADAS EM 
+PARALELO  
+ 
+Siga para a seção de “Avaliação dos Resultados” e encontre a constante elástica 
+do conjunto de molas (M
+1 
+e M
+2
+) associadas em paralelo. 
+ 
+15. REPETINDO O EXPERIMENTO COM AS MOLAS RESTANTES 
+ 
+Repita os passos de 6 a 9 para as seguintes associações (M
+2
+ e M
+1
+); (M
+1
+ e M
+3
+); 
+(M
+3
+ e M
+1
+); (M
+2
+ e M
+3
+) e (M
+3
+ e M
+2
+). Siga para a seção “Avaliação de Resultados”, 
+neste   roteiro,   e   responda   de   acordo   com   o   que   foi   observado   neste 
+experimento. 
+ 
+16. MONTAGEM DO EXPERIMENTO 
+ 
+Posicione a mola 1 na base de ensaio. Em seguida, posicione as molas 2 e 3 na 
+base de ensaio. Mova o suporte indicador para o conjunto de molas. Posicione 
+o ganho no suporte indicador. Insira o peso de 23 gramas no gancho e verifique 
+a deformação inicial. 
+ 
+17. GERANDO DEFORMAÇÃO NAS MOLAS “X
+n
+” 
+ 
+Posicione os pesos de 50 gramas no ganho e verifique a deformação que o peso 
+gerou na mola. Insira cada um dos outros pesos simultaneamente, anotando na 
+tabela 4 a deformação da mola gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+18. DESMONTANDO O EXPERIMENTO 
+ 
+Retire  cada  um  dos  pesos  no  ganho  e  posicionando-os  na  bancada.  Retire  o 
+gancho e o suporte indicador. Retire as molas da base de ensaio. 
+ 
+19. CALCULANDO A CONSTANTE ELÁSTICA DE MOLAS ASSOCIADAS EM 
+PARALELO  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado neste experimento. Encontre a constante elástica do 
+conjunto de molas (M
+1
+, M
+2
+ e M
+3
+) associadas em paralelo. 
+ 
+20. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado neste experimento. Encontre a constante elástica do 
+conjunto de molas (M1, M2 e M3) associadas em paralelo. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+FASE 1 – LEI DE HOOKE 
+ 
+1. Preencha a tabela 1 abaixo com os dados encontrados durante esta fase do 
+experimento. 
+ 
+n X
+0
+ (m) X
+n
+ (m) ΔX = X
+n
+ - X
+0
+ (m) F
+n
+ (N) 
+0 
+ 
+- - - 
+1    
+2    
+3    
+4    
+Tabela 1 – Dados experimentais de lei de Hooke 
+A equação da Lei de Hooke é utilizada para calcular a constante elástica da mola: 
+퐹=푘 ∆푥 
+Onde:  
+F = Força aplicada (N) 
+K = Constante elástica da mola (N/m) 
+∆X  =  Alongamento  ou  deformação  da  mola  (m)  quando  submetida  a  ação  dos 
+pesos 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+A força aplicada neste experimento é a força peso, que é o produto da massa dos 
+discos que estão na mola pela aceleração da gravidade (9,81 m/s²). 
+ 
+퐹=푚 푔 
+ 
+Diante dos resultados obtidos, calcule a constante elástica da mola M
+1 
+ 
+푘
+푀
+1
+=             
+ 
+ 
+2. Esboce o gráfico da força aplicada (F) versus deformação da mola (∆X) para 
+cada  uma  das  molas  utilizadas  no  experimento.  Qual  a  função  matemática 
+representada no gráfico? 
+ 
+3. O que representa o coeficiente angular (ou declividade) do gráfico F versus 
+∆X? 
+ 
+ 
+4. Com base em suas medições e observações, verifique a validade da seguinte 
+afirmação:  “As  forças  deformantes  são  proporcionais  às  deformações 
+produzidas, ou seja, F é proporcional a ∆x.”. 
+ 
+5. Qual mola possui a maior constante elástica? Compare seus resultados! 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+FASE 2 – ASSOCIAÇÃO DE MOLAS EM SÉRIE 
+ 
+1. Preencha  a  tabela  abaixo  com  os  dados  encontrados  durante  esta  fase  do 
+experimento. 
+ 
+n X
+0
+ (m) X
+n
+ (m) ΔX = X
+n
+ - X
+0
+ (m) F
+n
+ (N) 
+0 
+ 
+- - - 
+1    
+2    
+3    
+4    
+Tabela 2 – Dados experimentais de associação de molas em série 
+A  equação  da  Lei  de  Hooke  é  utilizada  para  calcular  a  constante  elástica  do 
+conjunto de molas: 
+ 
+퐹=푘
+푟
+ ∆푥
+푟
+ 
+Onde:  
+ 
+F = Força aplicada (N) 
+K
+r
+ = Constante elástica do conjunto de molas em série (N/m) 
+∆X
+r
+ =   Alongamento   ou   deformação   do   conjunto   de   molas   (m)   quando 
+submetida a ação dos pesos 
+ 
+A força aplicada neste experimento é a força peso, que é o produto da massa 
+dos discos que estão no conjunto de molas pela aceleração da gravidade (9,81 
+m/s²). 
+퐹=푚 푔 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Diante  dos  resultados  obtidos,  calcule  a  constante  elástica  do  conjunto  de 
+molas M
+1 
+e M
+2. 
+ 
+푘
+푟(푀
+1
+→푀
+2
+)
+=            
+ 
+ 
+ 
+É possível também relacionar as constantes de cada uma das molas do conjunto 
+em série: 
+푀표푙푎 푀
+1
+ ∴ 퐹
+1
+=푘
+1
+ ∆푥
+1 
+∴  ∆푥
+1
+= 
+퐹
+1
+푘
+1
+ 
+푀표푙푎 푀
+2
+ ∴ 퐹
+2
+=푘
+2
+ ∆푥
+2 
+∴  ∆푥
+2
+= 
+퐹
+2
+푘
+2
+ 
+Como a mesma força atua em cada mola e as deformações estão relacionadas 
+por: 
+ 
+∆푥
+푟
+=∆푥
+1
++∆푥
+2
+ 
+Então: 
+퐹
+푘
+푟
+= 
+퐹
+푘
+1
++
+퐹
+푘
+2
+  ∴ 
+1
+푘
+푟
+= 
+1
+푘
+1
++
+1
+푘
+2
+ 
+  
+Onde:  
+K
+r
+ = Constante elástica do conjunto de molas em série (N/m) 
+K
+1
+ = Constante elástica da mola M
+1
+ (N/m) 
+K
+2
+ = Constante elástica da mola M
+2
+ (N/m) 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Utilize  as  constantes  elásticas  das  molas  obtidas  da  parte  I  do  experimento, 
+recalcule a constante elástica do conjunto de molas em série M
+1 
+e M
+2. 
+ 
+푘
+푟(푀
+1
+→푀
+2
+)
+=             
+ 
+2. Os resultados obtidos para a constante elástica do conjunto em série foram 
+os mesmos para as duas formas de cálculo? 
+ 
+ 
+3. Esboce o gráfico da força aplicada (F) versus deformação da mola (∆X) para 
+cada  conjunto  de  molas  em série. Qual  a  função  matemática  representada 
+no gráfico? 
+ 
+ 
+4. A constante k é a mesma para qualquer conjunto em série? Em caso negativo, 
+qual conjunto obteve a maior constante elástica resultante? 
+ 
+ 
+5. Comente  sobre  a  relação  entre  as constantes  das  molas  obtidas  na  parte  I 
+deste roteiro e os resultados das configurações em série. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+FASE 3 – ASSOCIAÇÃO DE MOLAS EM PARALELA 
+ 
+ 
+1. Preencha  a  tabela  abaixo  com  os  dados  encontrados  durante  esta  fase  do 
+experimento. 
+ 
+n X
+0
+ (m) X
+n
+ (m) ΔX = X
+n
+ - X
+0
+ (m) F
+n
+ (N) 
+0 
+ 
+- - - 
+1    
+2    
+3    
+4    
+Tabela 3 – Dados experimentais de associação de molas em paralelo 
+A  equação  da  Lei  de  Hooke é  utilizada  para  calcular  a  constante  elástica  do 
+conjunto de molas: 
+퐹=푘
+푟
+ ∆푥
+푟
+ 
+Onde:  
+ 
+F = Força aplicada (N) 
+K
+r
+ = Constante elástica do conjunto de molas em paralelo (N/m) 
+∆X
+r
+ = Alongamento ou deformação do conjunto de molas (m) quando submetida 
+a ação dos pesos 
+ 
+A força aplicada neste experimento é a força peso, que é o produto da massa dos 
+discos que estão no conjunto de molas pela aceleração da gravidade (9,81 m/s²). 
+퐹=푚 푔 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Diante dos resultados obtidos, calcule a constante elástica do conjunto de molas 
+M
+1 
+e M
+2. 
+푘
+푟(푀
+1
+→푀
+2
+)
+=            
+ 
+É possível também relacionar as constantes de cada uma das molas do conjunto 
+em paralelo: 
+푀표푙푎 푀
+1
+ ∴ 퐹
+1
+=푘
+1
+ ∆푥
+1 
+ 
+푀표푙푎 푀
+2
+ ∴ 퐹
+2
+=푘
+2
+ ∆푥
+2 
+ 
+ 
+Pela resultante de forças, é possível inferir que: 
+ 
+퐹
+푟
+=퐹
+1
++퐹
+2
+ 
+ 
+Então: 
+ 
+ 푘
+푟
+∆푥
+푟
+=  푘
+1
+∆푥
+1
++  푘
+2
+∆푥
+2
+ 
+  
+Onde:  
+K
+r
+ = Constante elástica do conjunto de molas em paralelo (N/m) 
+K
+1
+ = Constante elástica da mola M
+1
+ (N/m) 
+K
+2
+ = Constante elástica da mola M
+2
+ (N/m) 
+∆X
+r
+ = Alongamento ou deformação do conjunto de molas (m) quando submetida 
+a ação dos pesos 
+∆X
+1
+ =  Alongamento  ou  deformação  da  mola  M
+1
+ (m)  quando  submetida  a  ação 
+dos pesos 
+∆X
+2
+ =  Alongamento  ou  deformação  da  mola  M
+2
+ (m)  quando  submetida  a  ação 
+dos pesos 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+Como as deformações das molas e do conjunto são as mesmas, pode-se inferir 
+que: 
+푘
+푟
+=  푘
+1
++ 푘
+2
+ 
+ 
+Utilize  as  constantes  elásticas  das  molas  obtidas  da  parte  I  do  experimento, 
+recalcule a constante elástica do conjunto de molas em paralelo M
+1 
+e M
+2.
+ 
+ 
+푘
+푟(푀
+1
+→푀
+2
+)
+=             
+ 
+2. Os  resultados  obtidos  para  a  constante  elástica  do  conjunto  em  paralelo 
+foram os mesmos para as duas formas de cálculo? 
+ 
+ 
+3. Esboce o gráfico da força aplicada (F) versus deformação da mola (∆X) para 
+cada   conjunto   de   molas   em   paralelo.   Qual   a   função   matemática 
+representada no gráfico? 
+ 
+ 
+4. A  constante  k  é  a  mesma  para  qualquer  conjunto  em  paralelo?  Em  caso 
+negativo, qual conjunto obteve a maior constante elástica resultante? 
+ 
+ 
+5. Comente  sobre  a  relação  entre  as  constantes  das  molas  obtidas  na parte  I 
+deste roteiro e os resultados das configurações em paralelo. 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+6. Preencha  a  tabela  abaixo  com  os  dados  encontrados  durante  esta  fase  do 
+experimento. 
+ 
+n X
+0
+ (m) X
+n
+ (m) ΔX = X
+n
+ - X
+0
+ (m) F
+n
+ (N) 
+0 
+ 
+- - - 
+1    
+2    
+3    
+4    
+Tabela 4 – Dados experimentais de associação de 3 molas em paralelo 
+ 
+ 
+A  equação  da  Lei  de  Hooke  é  utilizada  para  calcular  a  constante  elástica  do 
+conjunto de molas: 
+퐹=푘
+푟
+ ∆푥
+푟
+ 
+ 
+Onde:  
+ 
+F = Força aplicada (N) 
+K
+r
+ = Constante elástica do conjunto de molas em paralelo (N/m) 
+∆X
+r
+ = Alongamento ou deformação do conjunto de molas (m) quando submetida 
+a ação dos pesos 
+ 
+A força aplicada neste experimento é a força peso, que é o produto da massa dos 
+discos que estão no conjunto de molas pela aceleração da gravidade (9,81 m/s²). 
+퐹=푚 푔 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Diante dos resultados obtidos, calcule a constante elástica do conjunto de molas 
+M
+1 
+, M
+2 
+e M
+3. 
+푘
+푟(푀
+1
+→푀
+2
+→푀
+3
+)
+=            
+ 
+ 
+É possível também relacionar as constantes de cada uma das molas do conjunto 
+em paralelo: 
+푀표푙푎 푀
+1
+ ∴ 퐹
+1
+=푘
+1
+ ∆푥
+1 
+ 
+푀표푙푎 푀
+2
+ ∴ 퐹
+2
+=푘
+2
+ ∆푥
+2 
+ 
+푀표푙푎 푀
+3
+ ∴ 퐹
+3
+=푘
+3
+ ∆푥
+3 
+ 
+ 
+Pela resultante de forças, é possível inferir que: 
+ 
+퐹
+푟
+=퐹
+1
++퐹
+2
++퐹
+3
+ 
+ 
+Então: 
+ 
+ 푘
+푟
+∆푥
+푟
+=  푘
+1
+∆푥
+1
++  푘
+2
+∆푥
+2
++ 푘
+3
+∆푥
+3
+ 
+ 
+ 
+Onde:  
+ 
+K
+r
+ = Constante elástica do conjunto de molas em paralelo (N/m) 
+K
+1
+ = Constante elástica da mola M
+1
+ (N/m) 
+K
+2
+ = Constante elástica da mola M
+2
+ (N/m) 
+K
+3
+ = Constante elástica da mola M
+3
+ (N/m) 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+∆X
+r
+ = Alongamento ou deformação do conjunto de molas (m) quando submetida 
+a ação dos pesos 
+∆X
+1
+ =  Alongamento  ou  deformação  da  mola  M
+1
+ (m)  quando  submetida  a  ação 
+dos pesos 
+∆X
+2
+ =  Alongamento  ou  deformação  da  mola  M
+2
+ (m)  quando  submetida  a  ação 
+dos pesos 
+∆X
+3
+ =  Alongamento  ou  deformação  da  mola  M
+3
+ (m)  quando  submetida  a  ação 
+dos pesos 
+ 
+Como as deformações das molas e do conjunto são as mesmas, pode-se inferir 
+que: 
+푘
+푟
+=  푘
+1
++ 푘
+2
++ 푘
+3
+ 
+ 
+Utilize  as  constantes  elásticas  das  molas  obtidas  da  parte  I  do  experimento, 
+recalcule a constante elástica do conjunto de molas em paralelo M
+1
+, M
+2 
+e M
+3.
+ 
+푘
+푟(푀
+1
+→푀
+2
+→푀
+3
+)
+=            
+ 
+7. Os  resultados  obtidos  para  a  constante  elástica  do  conjunto  em  paralelo 
+foram os mesmos para as duas formas de cálculo? 
+ 
+ 
+8. Esboce o gráfico da força aplicada (F) versus deformação da mola (∆X) para 
+o  conjunto  de  molas  em  paralelo.  Qual  a  função  matemática  representada 
+no gráfico? 
+ 
+ 
+9. A constante k é a mesma para o conjunto em paralelo com duas molas e o 
+conjunto  em  paralelo  com  três  molas?  Em  caso  negativo,  qual  conjunto 
+obteve a maior constante elástica resultante? O que é possível concluir? 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+SELECIONANDO O EXPERIMENTO 
+ 
+ 
+Ao  iniciar  o  experimento,  selecione  inicialmente  o  experimento  “Lei  de  Hooke”,  para 
+isso, clique com o botão esquerdo do mouse sobre o nome “Lei de Hooke”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+1. MONTAGEM DO EXPERIMENTO 
+ 
+ 
+Selecionar molas: 
+Para inserir a mola na base de ensaio, clique com o botão direito do mouse sobre a mola 
+M
+1
+ e selecione a opção “Posicionar na base”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que a mola foi posicionada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Posicionando suporte indicador: 
+ 
+Clique com o botão direito do mouse no suporte indicador e selecione a opção “Colocar 
+suporte indicador na mola”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+0 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que o suporte indicador se associou à mola M
+1
+ fixada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Posicionando suporte indicador: 
+ 
+Clique com o botão direito do mouse no gancho e selecione a opção “Colocar gancho no 
+suporte indicador”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que o gancho se associou ao suporte indicador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pré-tensionar a mola: 
+ 
+Para que a mola M
+1
+ seja pré-tensionada, clique com o botão direito do mouse no peso 
+de 23g para inseri-lo no gancho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe  que  após  o   peso  ser  inserido  no  gancho,  a  mola  sofre   uma  pequena 
+deformação. 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Deformação inicial “X
+0
+”: 
+Clique com o botão esquerdo do mouse na opção de câmera “Suporte indicador” para 
+visualizar a indicação de deformação da mola na escala vertical. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe na escala qual o valor dessa deformação inicial. Ela será necessária no cálculo 
+da constante elástica. 
+ATENÇÃO: A régua vertical possui duas unidades de medida, a saber: O lado esquerdo 
+da régua em polegadas e o lado direito em milímetros. Utilize o lado direito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Em seguida, para voltar à tela inicial do experimento, clique com o botão esquerdo do 
+mouse no “X” vermelho.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+2. GERANDO DEFORMAÇÃO “X
+N
+” NA MOLA 
+ 
+Inserindo pesos de 50g: 
+Clique  com  o  botão  direito  do  mouse  em  um  dos  quatro  pesos  de  50g  e selecione  a 
+opção “Colocar peso no gancho”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em  seguida,  clique  com  o  botão  esquerdo  do  mouse  na  opção  de  câmera  “Suporte 
+indicador” para visualizar a deformação que o peso gerou na mola. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Anote esse valor na coluna “Xn” da tabela que você construiu. Em seguida, para voltar 
+à tela inicial do experimento, clique com o botão esquerdo do mouse no “X” vermelho.  
+ 
+Insira cada um dos outros pesos simultaneamente, anotando na tabela a deformação da 
+mola gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+3. DESMONTANDO O EXPERIMENTO 
+ 
+Para  que  o  disco  seja  retirado  do  gancho  e  colocado  na  bancada,  clique  com  o  botão 
+direito do mouse e selecione a opção “Retirar peso do gancho e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Repita esse passo para todos os discos do gancho. 
+Retirando gancho: 
+Para que o gancho seja retirado do suporte indicador e colocado na bancada, clique com 
+o botão direito do mouse e selecione a opção “Retirar gancho do suporte indicador da 
+mola e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando suporte indicador: 
+Para que o suporte indicador seja retirado da mola e colocado na bancada, clique com 
+o  botão  direito  do  mouse  e  selecione  a  opção  “Retirar  suporte  indicador  da  mola  e 
+colocar na bancada”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retirando mola M
+1
+: 
+Para que a mola seja retirada  da base de ensaio  e colocada  na bancada, clique com o 
+botão direito do mouse e selecione a opção “Retirar”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+4. CALCULANDO A CONSTANTE ELÁSTICA DA MOLA 
+ 
+Siga para a seção de “Avaliação dos Resultados” e encontre a constante elástica da mola 
+M1. 
+ 
+ 
+5. REPETINDO O EXPERIMENTO COM AS MOLAS RESTANTES 
+ 
+Repita os passos de 1 a 4 para as molas restantes M2 e M3. Siga para a seção “Avaliação 
+de  Resultados”,  neste  roteiro,  e  responda  de  acordo  com  o  que  foi  observado  neste 
+experimento. 
+ 
+ATENÇÃO: Os passos abaixo são referentes a prática de associação de molas em série! 
+ 
+Em  seguida,  selecione  a  opção  “Menu  principal”  para  poder  visualizar  as  opções  de 
+experimentos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+E  então,  selecione  a  opção  “Associação  de  molas  em  série”  para  poder  realizar  o 
+experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+6. MONTANDO O EXPERIMENTO 
+ 
+ 
+Posicionando as molas: 
+Clique com o botão direito do mouse sobre a mola M
+1
+ e selecione a opção “Colocar a 
+mola na base”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que a mola foi posicionada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clique com o botão direito do mouse sobre a mola M
+2
+ e selecione a opção “Posicionar 
+na mola” para associar as molas em série. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Posicionando suporte indicador: 
+Para posicionar o suporte indicador na extremidade livre da mola M
+2
+, clique com o botão 
+direito do mouse no suporte indicador e selecione a opção “Posicionar na mola”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+bserve que o suporte indicador se associou à mola M
+2
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Posicionando gancho: 
+ 
+Clique com o botão direito do mouse no gancho e selecione a opção “Colocar gancho no 
+suporte indicador”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que o gancho se associou ao suporte indicador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Pré-tensionar as molas: 
+Para que o conjunto de molas seja pré-tensionado, clique com o botão direito do mouse 
+no peso de 23g para inseri-lo no gancho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe  que  após  o  peso  ser  inserido  no  gancho,  as  molas  sofreram  uma  pequena 
+deformação. 
+ 
+Deformação inicial “X
+0
+”: 
+Clique com o botão esquerdo do mouse na opção de câmera “Suporte indicador” para 
+visualizar a indicação de deformação do conjunto de molas na escala vertical. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe na escala qual o valor dessa deformação inicial. Ela será necessária no cálculo 
+da constante elástica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em seguida, para voltar à tela inicial do experimento, clique com o botão esquerdo no 
+“X” vermelho para retornar a tela inicial do experimento.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+7. GRANDE DEFORMAÇÃO NAS MOLAS “X
+N
+” 
+ 
+ 
+Inserindo pesos de 50g: 
+Clique  com  o  botão  direito  do mouse  em  um  dos  quatro  pesos  de  50g  e  selecione  a 
+opção “Colocar peso no gancho”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em  seguida,  clique  com  o  botão  esquerdo  do  mouse  na  opção  de  câmera  “Suporte 
+indicador” para visualizar a deformação que o peso gerou no conjunto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Anote esse valor na coluna Xn da tabela que você construiu. Em seguida, para voltar à 
+tela inicial do experimento, clique com o botão esquerdo do mouse no “X” vermelho no 
+canto superior da tela.  
+ 
+Insira  cada  um  dos  outros  pesos  simultaneamente,  anotando  na  tabela  a  deformação 
+do conjunto de molas gerada pelo acréscimo de cada peso. 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+8. DESMONTANDO O EXPERIMENTO 
+ 
+Retirando pesos: 
+Para  que  o  disco  seja  retirado  do  gancho  e  colocado  na  bancada,  clique  com  o  botão 
+direito do mouse e selecione a opção “Retirar peso do gancho e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Repita esse passo para todos os discos do gancho. 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando gancho: 
+Para que o gancho seja retirado do suporte indicador e colocado na bancada, clique com 
+o botão direito do mouse e selecione a opção “Retirar gancho do suporte indicador e 
+colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retirando suporte indicador: 
+ 
+Para  que  o  suporte  indicador  seja  retirado  da  mola  M
+2
+ e  colocado  na  bancada,  clique 
+com o botão direito do mouse e selecione a opção “Retirar suporte indicador da mola e 
+colocar na bancada”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando as molas M
+1
+ e M
+2
+: 
+Para que a mola M
+2
+ seja retirada do conjunto e colocada na bancada, clique com o botão 
+direito do mouse e selecione a opção “Retirar e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faça o mesmo procedimento para a mola M
+1
+.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+ 
+ 
+Siga  para  a  seção  de  “Avaliação  dos  Resultados”  e  encontre  a  constante  elástica  do 
+conjunto de molas (M1 e M2) associadas em série. 
+ 
+ 
+10. REPETINDO O EXPERIMENTO 
+ 
+Repita os passos de 6 a 9 para as seguintes associações (M2 e M1); (M1 e M3); (M3 e 
+M1); (M2 e M3) e (M3 e M2). Siga para a seção “Avaliação de Resultados”, neste roteiro, 
+e responda de acordo com o que foi observado neste experimento. 
+ 
+ATENÇÃO: Para o próximo passo, selecione no menu “opções” para poder visualizar o 
+menu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. CALCULANDO A CONSTANTE ELÁSTICA DAS MOLAS (SÉRIE) 
+ 
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Em  seguida,  selecione  a  opção  “Menu  principal”  para  poder  visualizar  as  opções  de 
+experimentos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E  então,  selecione  a  opção  “Associação  de  molas  em  paralelo”  para  poder  realizar  o 
+experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+11. MONTANDO O EXPERIMENTO 
+ 
+Posicionando as molas: 
+Clique com o botão direito do mouse sobre a mola M
+1
+ e selecione a opção “Colocar a 
+mola na base”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que a mola foi posicionada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clique com o botão direito do mouse sobre a mola M
+2
+ e selecione a opção “Colocar a 
+mola na base”. A mola M
+2
+ será fixada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Posicionando suporte indicador: 
+Para posicionar o suporte indicador na extremidade livre das molas, clique com o botão 
+direito do mouse no suporte indicador e selecione a opção “Posicionar no conjunto de 
+molas”.  
+ 
+ 
+ 
+ 
+Observe que o suporte indicador se associou ao conjunto! 
+Posicionando gancho: 
+Clique com o botão direito do mouse no gancho e selecione a opção “Colocar gancho no 
+suporte indicador”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe que o gancho se associou ao suporte indicador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pré-tensionar as molas: 
+ 
+Para que o conjunto de molas seja pré-tensionado, clique com o botão direito do mouse 
+no peso de 23g para inseri-lo no gancho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe  que  após  o  peso  ser  inserido  no  gancho,  as  molas  sofreram  uma  pequena 
+deformação. 
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Deformação inicial “X
+0
+”: 
+Clique com o botão esquerdo do mouse na opção de câmera “Suporte indicador” para 
+visualizar a indicação de deformação do conjunto de molas na escala vertical. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe na escala qual o valor dessa deformação inicial. Ela será necessária no cálculo 
+da constante elástica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em seguida, para voltar à tela inicial do experimento, clique com o botão esquerdo do 
+mouse no “X” de cor vermelha ao canto superior da tela.  
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+12. GERANDO DEFORMAÇÃO NAS MOLAS “X
+N
+” 
+ 
+Inserindo pesos de 50g: 
+Clique  com  o  botão  direito  do  mouse  em  um  dos  quatro  pesos  de  50g  e  selecione  a 
+opção “Colocar peso no gancho”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em  seguida,  clique  com  o  botão  esquerdo  do  mouse  na  opção  de  câmera  “Suporte 
+indicador” para visualizar a deformação que o peso gerou no conjunto. 
+ 
+ 
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Anote esse valor na coluna X
+n 
+da tabela que você construiu. Em seguida, para voltar à 
+tela inicial do experimento, clique com o botão esquerdo do mouse no “X” disposto no 
+canto superior da tela.  
+Insira  cada  um  dos  outros  pesos  simultaneamente,  anotando  na  tabela  a  deformação 
+do conjunto de molas gerada pelo acréscimo de cada peso. 
+ 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+13. DESMONTANDO O EXPERIMENTO 
+ 
+Retirando pesos: 
+Para  que  o  disco  seja  retirado  do  gancho  e  colocado  na  bancada,  clique  com  o  botão 
+direito do mouse e selecione a opção “Retirar peso do gancho e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Repita esse passo para todos os discos do gancho. 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando gancho: 
+Para que o gancho seja retirado do suporte indicador e colocado na bancada, clique com 
+o botão direito do mouse e selecione a opção “Retirar gancho do suporte indicador e 
+colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retirando suporte indicador: 
+Para que o suporte indicador seja retirado do conjunto de molas e colocado na bancada, 
+clique com o botão direito do mouse e selecione a opção “Retirar”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando as molas M
+1
+ e M
+2
+: 
+Para que a mola M
+2
+ seja retirada do conjunto e colocada na bancada, clique com o botão 
+direito do mouse e selecione a opção “Retirar”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faça o mesmo procedimento para a mola M
+1
+. 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+ 
+ 
+ 
+Siga  para  a  seção  de  “Avaliação  dos  Resultados”  e  encontre  a  constante elástica  do 
+conjunto de molas (M1 e M2) associadas em paralelo. 
+ 
+ 
+15. FINALIZANDO O EXPERIMENTO 
+ 
+Repita os passos de 6 a 9 para as seguintes associações (M2 e M1); (M1 e M3); (M3 e 
+M1); (M2 e M3) e (M3 e M2). Siga para a seção “Avaliação de Resultados”, neste roteiro, 
+e responda de acordo com o que foi observado neste experimento. 
+ATENÇÃO: Para o próximo passo, selecione no menu “opções” para poder visualizar o 
+menu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14. CALCULANDO A CONSTANTE ELÁSTICA DE MOLAS (PARALELO) 
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Em  seguida,  selecione  a  opção  “Menu  principal”  para  poder visualizar  as  opções  de 
+experimentos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E  então,  selecione  a  opção  “Associação  de  molas  em  paralelo”  para  poder  realizar  o 
+experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+16. MONTANDO O EXPERIMENTO 
+ 
+Posicionando as molas: 
+ 
+Clique com o botão direito do mouse sobre a mola M
+1
+ e selecione a opção “Colocar a 
+mola na base”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que a mola foi posicionada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Clique com o botão direito do mouse sobre a mola M
+2
+ e selecione a opção “Colocar a 
+mola na base”. A mola M
+2
+ será fixada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clique com o botão direito do mouse sobre a mola M
+3 
+e selecione a opção “Colocar a 
+mola na base”. A mola M
+3
+ será fixada na base de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Posicionando suporte indicador: 
+Para posicionar o suporte indicador na extremidade livre das molas, clique com o botão 
+direito do mouse no suporte indicador e selecione a opção “Colocar suporte indicador 
+nas molas”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que o suporte indicador se associou ao conjunto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Posicionando gancho: 
+Clique com o botão direito do mouse no gancho e selecione a opção “Colocar gancho no 
+suporte indicador”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe que o gancho se associou ao suporte indicador. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Pré-tensionar as molas: 
+Para que o conjunto de molas seja pré-tensionado, clique com o botão direito do mouse 
+no peso de 23g e selecione a opção “Colocar peso no gancho”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observe  que  após  o  peso  ser  inserido  no  gancho,  as  molas  sofreram  uma  pequena 
+deformação. 
+Deformação inicial “X
+0
+”: 
+Clique com o botão esquerdo do mouse na opção de câmera “indicador” para visualizar 
+a indicação de deformação do conjunto de molas na escala vertical. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Observe na escala qual o valor dessa deformação inicial. Ela será necessária no cálculo 
+da constante elástica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em seguida, para voltar à tela inicial do experimento, clique com o botão esquerdo do 
+mouse no “X” vermelho posicionado no canto superior da tela. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+17. GERANDO DEFORMAÇÃO NAS MOLAS “X
+N
+” 
+ 
+Inserindo pesos de 50g: 
+Clique  com  o  botão  direito  do  mouse  em  um  dos  quatro  pesos  de  50g  e  selecione  a 
+opção “Colocar peso no gancho”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Em seguida, clique com o botão esquerdo do mouse na opção de câmera “Suporte do 
+Gancho” para visualizar a deformação que o peso gerou no conjunto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Anote esse valor na coluna X
+n 
+da tabela que você construiu. Em seguida, para voltar à 
+tela inicial do experimento, clique com o  botão esquerdo  do mouse no “X” vermelho 
+posicionado no canto superior da tela. 
+ 
+Insira  cada  um  dos  outros  pesos  simultaneamente,  anotando  na  tabela  a  deformação 
+do conjunto de molas gerada pelo acréscimo de cada peso. 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+18.DESMONTANDO O EXPERIMENTO 
+ 
+Retirando pesos: 
+Para  que  o  disco  seja  retirado  do  gancho  e  colocado  na  bancada,  clique  com  o  botão 
+direito do mouse e selecione a opção “Retirar peso do gancho e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Repita esse passo para todos os discos do gancho. 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando gancho: 
+Para que o gancho seja retirado do suporte indicador e colocado na bancada, clique com 
+o botão direito do mouse e selecione a opção “Retirar gancho do suporte indicador e 
+colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retirando suporte indicador: 
+Para que o suporte indicador seja retirado do conjunto de molas e colocado na bancada, 
+clique com o botão direito do mouse e selecione a opção “Retirar suporte indicador da 
+mola e colocar na bancada”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+Retirando as molas M
+1
+, M
+2
+ e M
+3
+: 
+Para que a mola M
+1
+ seja retirada do conjunto e colocada na bancada, clique com o botão 
+direito do mouse e selecione a opção “Retirar mola da base e colocar na bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faça o mesmo procedimento para a mola M
+2 
+e M
+3
+. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+LEI DE HOOKE 
+ 
+ 
+ 
+Retire cada um dos pesos no ganho e posicionando-os na bancada. Retire o gancho e o 
+suporte indicador. Retire as molas da base de ensaio. 
+ 
+ 
+20. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que  foi  observado  neste  experimento.  Encontre  a  constante  elástica  do  conjunto  de 
+molas (M1, M2 e M3) associadas em paralelo. 
+ 
+ 
+19. CALCULANDO A CONSTANTE ELÁSTICA DA MOLA (PARALELO) 

@@ -1,0 +1,988 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste  experimento, você  irá  preparar  uma  amostra  de  argamassa  e  encontrar 
+seu índice de consistência. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cimento; 
+• Água; 
+• Areia; 
+• Cal; 
+• Argamassadeira mecânica; 
+• Espátula; 
+• Soquete metálico; 
+• Paquímetro; 
+• Molde tronco cônico; 
+• Mesa de consistência. 
+ 
+PROCEDIMENTOS 
+ 
+PREPARAÇÃO DA AMOSTRA DE ARGAMASSA 
+ 
+Segundo  a  norma  vigente,  deve-se  usar  2,5  kg  de  argamassa  anidra  (seca)  com 
+aproximação  de  1,0  grama.  Duas  proporções,  utilizadas  em  aplicações  diferentes, 
+podem  ser  utilizadas  para  este  experimento.  Utilize  as  informações  da  tabela  1  para 
+realização do experimento. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Aplicação Cimento Areia Cal Água/Cimento 
+Argamassa de 
+Revestimento 
+Externo 
+280 g 1975 g 245 g 
+2,2 
+2,3 
+2,4 
+2,5 
+Argamassa de 
+Revestimento 
+Interno 
+224 g 1893 g 383 g 
+2,4 
+2,5 
+2,6 
+Tabela 1 – Dados necessários para preparação da amostra de argamassa. 
+ 
+1. ADICIONANDO CIMENTO, AREIA E CAL 
+ 
+Escolha  uma  das  aplicações  de  argamassa  contidas  na Tabela  1.  Utilize  a 
+primeira opção da relação água/cimento para a aplicação escolhida. Adicione a 
+quantidade  calculada  de  cimento,  areia  e  cal  na  cuba  da  argamassadeira 
+mecânica. 
+ 
+2.  POSICIONANDO A CUBA 
+ 
+Posicione a cuba para mistura de material. 
+ 
+3. PREPARANDO A AMOSTRA DE ARGAMASSA I 
+ 
+Acione  a  argamassadeira  na velocidade  baixa  e,  nos  10  segundos  iniciais, 
+adicione 75% da água calculada na cuba. Aguarde a conclusão dos 30 segundos 
+desde o acionamento do misturador. 
+ 
+4. PREPARANDO A AMOSTRA DE ARGAMASSA II 
+ 
+Mude a argamassadeira para a velocidade alta e aguarde por mais 60 segundos. 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+5. PREPARANDO A AMOSTRA DE ARGAMASSA III 
+ 
+Desligue  a  argamassadeira,  retire  a  cuba  e  a  pá  da  argamassadeira.  Utilize  a 
+espátula para raspar toda a superfície interna da cuba e da pá. Caso este passo 
+seja  concluído  em  um  tempo inferior  a  90  segundos,  deixe  a  argamassa  em 
+repouso até completar o tempo. 
+ 
+6. PREPARANDO A AMOSTRA DE ARGAMASSA IV 
+ 
+Posicione  a  pá  e  a  cuba  na  argamassadeira,  acione  a  argamassadeira  na 
+velocidade baixa e, nos 10 segundos iniciais, adicione 25% da água calculada na 
+cuba.  Espere  até  completar  60  segundos  de  funcionamento  e  desligue  o 
+equipamento. 
+ 
+7. VERIFICANDO O RESULTADO 
+ 
+Verifique a mensagem exibida no laboratório virtual que indica o resultado da 
+argamassa  obtida.  Caso  seja  necessário,  repita  o experimento  para  obter  um 
+resultado satisfatório. 
+ 
+ENSAIO DE CONSISTÊNCIA 
+ 
+1. ADICIONANDO ARGAMASSA NO MOLDE 
+ 
+Retire a cuba da argamassadeira. Adicione argamassa no molde tronco cônico 
+utilizando a espátula. A quantidade adicionada corresponde a um terço da altura 
+total do molde. 
+ 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+2. APLICANDO GOLPES NA ARGAMASSA I 
+ 
+Utilize o soquete metálico para golpear 15 vezes a argamassa contida no molde. 
+Adicione uma nova camada de argamassa no molde utilizando a espátula. 
+ 
+3. APLICANDO GOLPES NA ARGAMASSA II 
+ 
+Utilize o soquete metálico para golpear 10 vezes a argamassa contida no molde. 
+Adicione uma nova camada de argamassa no molde utilizando a espátula. 
+ 
+4. CONCLUINDO A PREPARAÇÃO DO MOLDE 
+ 
+Utilize o soquete metálico para golpear 5 vezes a argamassa contida no molde. 
+Utilize a espátula para limpar o cone, raspando a parte superior do molde. 
+ 
+5. REMOVENDO O MOLDE E UTILIZANDO A MESA DE CONSISTÊNCIA 
+ 
+Remova a molde tronco cônico e utilize a mesa de consistência para que ela suba 
+e caia 30 vezes em 30 segundos de maneira uniforme. 
+ 
+6. MEDINDO O ESPALHAMENTO DA ARGAMASSA 
+ 
+Imediatamente após a última queda da mesa, utilize o paquímetro para medir o 
+espalhamento da argamassa. O índice de consistência corresponde à média das 
+três medidas de diâmetro (espalhamento da argamassa). 
+ 
+7. REPETINDO O ENSAIO PARA OUTRAS PROPORÇÕES ÁGUA/CIMENTO 
+ 
+Repita os procedimentos de preparação da amostra de argamassa e ensaio de 
+consistência  para  os  outros  valores  de  proporção  água/cimento  exibidos  na 
+Tabela 1, coletando os dados obtidos para análise. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+  
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por qual motivo existem traços diferentes para o preparo da argamassa? 
+ 
+ 
+ 
+2. Qual foi a proporção de água/cimento para a argamassa escolhida que apresentou 
+um índice de consistência adequado segundo a NBR 13276 (ABNT, 2016)? 
+ 
+ 
+ 
+3. Qual  foi  o  resultado  obtido  no  índice  de consistência  ao  aumentar  a  proporção 
+água/cimento? Justifique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+PREPARAÇÃO DA AMOSTRA DE ARGAMASSA 
+ 
+ 
+1. ADICIONANDO CIMENTO, AREIA E CAL 
+ 
+Escolha uma das aplicações de argamassa contidas na tabela 1. Utilize a primeira opção 
+da relação água/cimento para a aplicação escolhida e calcule a quantidade total de água 
+utilizada na preparação da amostra. 
+O  cimento,  areia e  cal  serão  adicionados  na  cuba  da  argamassadeira  com  o auxílio  da 
+espátula. 
+Passe  o  mouse  em  cima  das  bandejas  para  ver uma  breve  descrição  de  cada  uma. 
+Observe o comando que aparece no canto inferior direito da tela. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Para  adicionar  cal  na  cuba,  clique  com  o  botão  esquerdo  do  mouse  na  bandeja  que 
+contém cal. 
+Uma  janela  solicitando  que  você  informe  a quantidade  desejada  irá  surgir.  Digite  a 
+massa definida (em gramas) e clique em “Prosseguir”. Caso seja necessário, utilize ponto 
+final  para  separar  as  casas  decimais  da  massa  que será  utilizada  na  preparação  de 
+argamassa. 
+ 
+ 
+ 
+Observe que a quantidade adicionada é informada na lista de materiais. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  sobre  as  outras  bandejas  para  adicionar  as 
+quantidades de cimento e areia necessárias. O procedimento para realizar estas ações 
+é semelhante ao apresentado para adicionar a cal. 
+Depois de adicionar todos os três materiais, verifique na lista se as quantidades estão 
+de acordo com os valores da Tabela 1. Caso não estejam, reinicie o experimento e repita 
+o procedimento novamente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+2. POSICIONANDO A CUBA 
+ 
+Para verificar as opções de movimento da cuba da argamassadeira, clique nela com o 
+botão direito do mouse. 
+ 
+ 
+ 
+Escolha a opção para posicionar a cuba para misturar o material. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+3. PREPARANDO A AMOSTRA DE ARGAMASSA I 
+ 
+Escolha o modo de visualização da argamassadeira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Para  operar  a  argamassadeira,  utilize  o  botão  amarelo  indicado  na  imagem  acima. 
+Verifique as opções de operação da argamassadeira clicando no botão amarelo com o 
+botão direito do mouse. Acione a argamassadeira na velocidade baixa. 
+ 
+ 
+ 
+Um cronômetro passa a ser exibido no canto direito da tela. Como explicado no roteiro, 
+cada etapa deve ser feita de acordo com o tempo estipulado. Para obter um resultado 
+correto, as ações devem ser realizadas de acordo com as instruções. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Antes do cronômetro chegar em 20 segundos, clique com o botão esquerdo do mouse 
+sobre o béquer com água para definir a quantidade de água a ser adicionada na cuba. 
+A  quantidade  de  água  adicionada  nesta  etapa  deve  ser  75%  do  valor  da  água  total 
+calculado para esta amostra de argamassa. 
+Escreva na janela quantos gramas de água devem ser adicionados na cuba. Lembre-se 
+que,  caso  necessário, utilize  ponto  final  para  separar  as  casas  decimais  da  massa  que 
+será utilizada na preparação de argamassa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+4. PREPARANDO A AMOSTRA DE ARGAMASSA II 
+ 
+Mude a argamassadeira para a velocidade alta e aguarde por mais 60 segundos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+5. PREPARANDO A AMOSTRA DE ARGAMASSA III 
+ 
+Este passo deve levar 90 segundos para ser realizado. Caso este passo seja concluído em 
+um  tempo  inferior  a  90  segundos,  deixe  a  argamassa  em  repouso  até  completar  o 
+tempo. 
+Desligue a argamassadeira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Retire a cuba da argamassadeira. 
+ 
+ 
+ 
+Retire a pá da argamassadeira para que seja realizada sua limpeza. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Utilize  a espátula  para  raspar  a  pá  da  argamassadeira  e  a  superfície  interna  da  cuba. 
+Aguarde a conclusão dos 90 segundos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+6. PREPARANDO A AMOSTRA DE ARGAMASSA IV 
+ 
+Retorne a pá para a argamassadeira. 
+ 
+ 
+ 
+Retorne a cuba para a argamassadeira. 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Posicione a cuba para misturar o material. 
+ 
+ 
+ 
+Acione  a  argamassadeira  na  velocidade  baixa.  Antes  do  cronômetro  chegar  em  50 
+segundos, clique com o botão esquerdo do mouse sobre o béquer com água para definir 
+a quantidade de água a ser adicionada na cuba. 
+A  quantidade  de  água  adicionada  nesta  etapa  deve  ser  25%  do  valor  de  água  total 
+calculado para esta amostra de argamassa. 
+Escreva na janela quantos gramas de água devem ser adicionados na cuba. Aguarde até 
+que o cronômetro zere a contagem. Em seguida, desligue a argamassadeira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+7. VERIFICANDO O RESULTADO 
+ 
+Verifique   a   mensagem   exibida   no   laboratório   virtual   que   indica   o   resultado   da 
+argamassa obtida. Caso seja necessário, repita o experimento para obter um resultado 
+satisfatório. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+ENSAIO DE CONSISTÊNCIA 
+ 
+ 
+1. ADICIONANDO ARGAMASSA AO MOLDE 
+ 
+Escolha  o  modo  de  visualização  mais  adequado  para  observar  as  ações  dos  passos  a 
+seguir. 
+Retire a cuba da argamassadeira. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Adicione  argamassa  no  molde  tronco cônico  utilizando  a  espátula. A  quantidade 
+adicionada corresponde a um terço da altura total do molde. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+2. APLICANDO GOLPES NA ARGAMASSA I 
+ 
+Utilize o soquete metálico para golpear 15 vezes a argamassa contida no molde. 
+ 
+ 
+ 
+Adicione  uma nova  camada  de  argamassa  no  molde  utilizando  a  espátula  (segunda 
+camada). 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+3. APLICANDO GOLPES NA ARGAMASSA II 
+ 
+Utilize o soquete metálico para golpear 10 vezes a argamassa contida no molde. 
+ 
+ 
+ 
+Adicione  uma  nova  camada  de  argamassa  no  molde utilizando  a  espátula  (terceira 
+camada). 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+4. CONCLUINDO A PREPARAÇÃO DO MOLDE 
+ 
+Utilize o soquete metálico para golpear 5 vezes a argamassa contida no molde. 
+ 
+ 
+ 
+Utilize a espátula para limpar o cone, raspando a parte superior do molde. 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+5. REMOVENDO O MOLDE 
+ 
+Remova a molde tronco cônico clicando nele com o botão esquerdo do mouse. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Utilize  a  mesa  de  consistência  para  que  ela  suba  e  caia  30  vezes  em  30  segundos  de 
+maneira uniforme. Para isso, clique na mesa com o botão esquerdo do mouse. Observe 
+que  um  cronômetro  é  exibido  enquanto  a  mesa  é  operada.  Após  os  30  segundos,  a 
+amostra está pronta para ter seu índice de consistência medido. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+6. MEDINDO O ESPALHAMENTO DA ARGAMASSA 
+ 
+Imediatamente  após  a  última  queda  da  mesa,  o paquímetro  deve  ser  utilizado  para 
+medir o espalhamento da argamassa. O índice de consistência corresponde à média das 
+três medidas de diâmetro. 
+Selecione o modo de visualização do paquímetro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Clique no paquímetro com o botão direito para verificar suas opções de ação. 
+Utilize o paquímetro para realizar a primeira medição. 
+ 
+ 
+ 
+Escolha o modo de visualização da medição do paquímetro para visualizar a graduação 
+do equipamento. 
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+Ao  clicar  nas  setas  indicadas  na  imagem,  é  possível  deslocar  o  ponto  de  vista  na 
+graduação do equipamento. 
+ 
+ 
+ 
+Anote  o  valor  exibido  no  paquímetro  para  a  primeira  medida  do  espalhamento  da 
+argamassa. Mova o paquímetro de volta para a mesa. 
+Retorne para o modo de visualização do paquímetro. 
+Repita as instruções apresentadas neste passo para realizar as medições do segundo e 
+terceiro  diâmetro  da  argamassa.  Encontre  a  média  das  três  medições  obtidas  para 
+encontrar o índice de consistência da amostra de argamassa obtida. 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+PREPARAÇÃO DE ARGAMASSAS 
+ 
+7. REPETINDO O ENSAIO PARA OUTRAS PROPORÇÕES 
+ 
+Para reiniciar o experimento, clique na engrenagem no canto superior direito da tela e 
+escolha a opção “Reiniciar Experimento”. 
+Repita  os   procedimentos   de   preparação   da  amostra  de   argamassa   e   ensaio  de 
+consistência  para  os  outros  valores  de  proporção  água/cimento  exibidos  na  Tabela  1, 
+coletando os dados obtidos para análise 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 
+ 
+ 
+ 

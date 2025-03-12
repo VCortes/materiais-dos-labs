@@ -1,0 +1,1118 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você irá realizar  um  teste  antibiograma  pelo  método  de 
+disco-difusão e correlacioná-lo ao aparecimento de cepas resistentes. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Caneta permanente; 
+• Swab; 
+• Estufa bacteriológica; 
+• Alça bacteriológica; 
+• Pinça metálica; 
+• Tubo de ensaio com solução salina; 
+• Escala de McFarland 0,5; 
+• Suporte para tubo de ensaio; 
+• Ágar Manitol; 
+• Ágar MacConkey; 
+• Placa meio Mueller Hinton; 
+• Bico de Bunsen; 
+• Multidisco Gram Positivo; 
+• Multidisco Gram Negativo; 
+• Acendedor mecânico. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+2. PREPARANDO A SUSPENSÃO 
+ 
+Identifique as placas de ágar Mueller Hinton com caneta permanente. Acenda o bico 
+de Bunsen e flambe a alça bacteriológica. Posicione a placa de ágar Manitol próximo 
+a chama do bico de Bunsen, destampe a placa e colete a amostra com a alça. Tampe 
+a  placa  de  coloque-a  de  volta  na  bancada.  Mova  o  tubo  de  ensaio  (1)  com  solução 
+salina  para  o  bico  de Bunsen,  retire  a  tampa  e inocule a  bactéria. Após  finalizar  a 
+inoculação, flambe a alça, tampe o tubo, mova-o para o suporte e compare a turvação 
+com a escala de McFarland 0,5. Repita esse processo inoculando a amostra da placa 
+de ágar MacConkey no tubo de ensaio (2). 
+ 
+3. SEMEANDO A AMOSTRA 
+ 
+Inocule o swab no tubo de ensaio (1). Mova a placa de ágar Mueller Hinton (1) para o 
+bico de Bunsen, retire a tampa e semeei a amostra na placa. Descarte o swab. Tampe 
+a placa e coloque-a na bancada. Repita o mesmo procedimento inoculando o swab 
+no tubo  de  ensaio (2) e  semeando a  placa de  ágar  Mueller  Hinton (2). Retorne  as 
+placas para a bancada e aguarde 10 minutos para secar. 
+ 
+4. ADICIONANDO OS ANTIBIÓTICOS 
+ 
+Posicione  a  placa  de  ágar  Mueller  Hinton  (1)  próximo  ao  bico  de Bunsen e  retire  a 
+tampa da placa. Flambe a pinça metálica e adicione o multidisco de antibiótico para 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+  
+gram-positivos.  Flambe novamente  a pinça, tampe  a  placa e  coloque-a na  bancada. 
+Posicione a  placa  de  ágar  Mueller  Hinton  (2)  próximo  ao  bico  de Bunsen,  retire  a 
+tampa da placa e adicione o multidisco de antibiótico para gram-negativos. Flambe a 
+pinça  ao  final  do  processo  e  coloque-a  na  bancada.  Tampe  a  placa  de  ágar  Mueller 
+Hinton,  mova  a  placa para  bancada. Coloque as  duas  placas na estufa,  ligue  o 
+equipamento e aguarde 24 horas. 
+ 
+5. REALIZANDO A LEITURA 
+ 
+Abra a estufa e mova as placas de ágar Mueller Hinton para bancada. Ative o menu de 
+resultados da prática. Utilize a régua para verificar o tamanho do halo de inibição do 
+antibiótico.  Preencha  a  tabela  de  resultados  com  o  valor  encontrado  e  informe  a 
+classificação. Realize a leitura completa das duas placas de antibiograma.  
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”, neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância do antibiograma no diagnóstico laboratorial? 
+ 
+ 
+ 
+2. Qual o princípio do método Kirby Bauber utilizado nessa aula? 
+ 
+ 
+ 
+3. Em  seus resultados  foram  observadas  amostras  resistentes?  Em  quais  amostras  e 
+antibióticos? 
+ 
+ 
+ 
+4. Relacione  os  resultados de  resistência às  amostras  biológicas que  foram utilizadas 
+nesta aula prática. 
+ 
+ 
+ 
+5. Quais são os outros métodos para detecção da resistência aos antimicrobianos? 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+ 
+ 
+6. Qual a diferença entre as outras técnicas disponíveis e o método de disco-difusão? 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira da pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário  de  EPIs”.  Se  preferir, também  pode  ser  utilizado o  atalho  do  teclado 
+“Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas de látex, 
+óculos e máscara. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+2. PREPARANDO A SUSPENSÃO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Identifique as placas de ágar Mueller Hinton clicando com o botão esquerdo do mouse 
+sobre a caneta marcadora. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera “Bico 
+de Bunsen” ou utilizando o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Ligue o gás do bico de Bunsen clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Ajuste a chama do bico de Bunsen clicando com o botão esquerdo do mouse sobre ele 
+e movimentando a barra de ajuste para direito ou para esquerda. 
+ 
+ 
+ 
+Acenda o bico de Bunsen clicando com o botão esquerdo do mouse sobre o acendedor 
+mecânico. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Flambe a alça bacteriológica clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a bancada e mova a placa de ágar manitol para o bico de Bunsen clicando com 
+o  botão direito do  mouse  sobre  ela  e  selecionando  a  opção  “Colocar  em  bico  de 
+Bunsen”. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Destampe a placa de ágar manitol clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Colete a amostra da placa de Petri clicando com o botão direito do mouse sobre a alça 
+bacteriológica e selecionando a opção “Coletar amostra da placa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova  a  placa  para  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova o tubo de ensaio para o bico de Bunsen clicando com o botão direito do mouse 
+sobre ele e selecionando a opção “Colocar no bico de Bunsen”. 
+ 
+ 
+ 
+Retire a tampa do tubo de ensaio clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Inocule a amostra no tubo de ensaio clicando com o botão direito do mouse sobre a alça 
+bacteriológica e selecionando a opção “Inocular em tubo de ensaio”. 
+ 
+ 
+ 
+Flambe a alça bacteriológica clicando com o botão esquerdo do mouse sobre a alça. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Tampe o tubo de ensaio clicando com o botão esquerdo do mouse sobre a vidraria. 
+ 
+ 
+ 
+Mova o tubo de ensaio para o suporte clicando com o botão direito do mouse sobre o 
+tubo e selecionando a opção “Colocar no suporte”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Visualize a bancada e mova a placa de ágar MacConkey para o bico de Bunsen clicando 
+com  o  botão  direito  do  mouse  sobre  ela  e selecionando  a  opção  “Colocar  no  bico  de 
+Bunsen”. 
+ 
+ 
+ 
+Destampe a placa de ágar MacConkey clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Colete a amostra da placa de Petri clicando com o botão direito do mouse sobre a alça 
+bacteriológica e selecionando a opção “Coletar amostra da placa”. 
+ 
+ 
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova  a  placa  para  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mova o tubo de ensaio para o bico de Bunsen clicando com o botão direito do mouse 
+sobre ele e selecionando a opção “Colocar no bico de Bunsen”. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Retire a tampa do tubo de ensaio clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Inocule a amostra no tubo de ensaio clicando com o botão direito do mouse sobre a alça 
+bacteriológica e selecionando a opção “Inocular em tubo de ensaio”. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Flambe a alça bacteriológica clicando com o botão esquerdo do mouse sobre a alça. 
+ 
+ 
+ 
+Tampe o tubo de ensaio clicando com o botão esquerdo do mouse sobre a vidraria. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova o tubo de ensaio para o suporte clicando com o botão direito do mouse sobre o 
+tubo e selecionando a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Visualize  a  bancada  e  coloque  a  alça bacteriológica  na  bancada  clicando  com  o  botão 
+direito do mouse sobre ela e selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+3. SEMEANDO A AMOSTRA 
+ 
+Inocule o swab no tubo de ensaio 1 clicando com o botão esquerdo do mouse sobre o 
+swab. 
+ 
+ 
+ 
+Visualize  a  bancada  e  mova  a  placa  de  ágar  Mueller  Hinton  para  o  bico  de Bunsen 
+clicando com o botão direito do mouse sobre a placa e selecionando a opção “Colocar 
+no bico de Bunsen”. 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Destampe a placa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Semeei  a  amostra  na  placa  clicando  com  o  botão  direito  do  mouse  sobre  o  swab  e 
+selecionando a opção “Semear na placa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Descarte  o  swab  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecionando  a 
+opção “Descartar”. 
+ 
+ 
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Coloque  a  placa  na  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mergulhe o swab no tubo de ensaio 2 clicando com o botão esquerdo do mouse sobre 
+o swab. 
+ 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Visualize  a  bancada  e  mova  a  placa  de  ágar  Mueller  Hinton  para  o  bico  de Bunsen 
+clicando com o botão direito do mouse sobre a placa e selecionando a opção “Colocar 
+no bico de Bunsen”. 
+ 
+ 
+ 
+Destampe a placa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Semeei  a  amostra  na  placa  clicando  com  o  botão  direito  do  mouse  sobre  o  swab  e 
+selecionando a opção “Semear na placa”. 
+ 
+ 
+ 
+Descarte  o  swab  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecionando  a 
+opção “Descartar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Coloque  a  placa  na  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Aguarde as placas secarem por 10 minutos. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+4. ADICIONANDO OS ANTIBIÓTICOS 
+ 
+Flambe a pinça metálica clicando com o botão esquerdo do mouse sobre o objeto. 
+ 
+ 
+ 
+Visualize  a  bancada  e  mova  a  placa  de  ágar  Mueller  Hinton  para  o  bico  de Bunsen 
+clicando com o botão direito do mouse sobre a placa e selecionando a opção “Colocar 
+no bico de Bunsen”. 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Destampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Adicione  o  multidisco  de  antibiótico  na  placa  clicando  com  o  botão  direito  do  mouse 
+sobre a pinça e selecionando a opção “Colocar disco na placa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Flambe a pinça clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre o objeto. 
+ 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova a placa de Petri para bancada clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mova  a  segunda  placa  de  ágar  Mueller  Hinton  para  o  bico  de Bunsen clicando  com  o 
+botão direito do mouse sobre ela e selecionando a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Destampe a placa de Petri clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Adicione  o  multidisco  de  antibiótico  na  placa  clicando  com  o  botão  direito  do  mouse 
+sobre a pinça e selecionando a opção “Colocar disco na placa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Flambe a pinça clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse sobre o objeto. 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova a placa de Petri para bancada clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mova  a  pinça  para  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Visualize o bico de Bunsen e feche a válvula do gás clicando com o botão esquerdo do 
+mouse sobre a válvula. 
+ 
+ 
+ 
+Visualize a bancada e mova as duas placas de ágar Mueller Hinton para a estufa clicando 
+com o botão direito do mouse sobre ela e selecionando a opção “Colocar em estufa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Feche a estufa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Ligue  a  estufa clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de  energia 
+“power”. 
+ 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Aguarde por 24 horas até o período de crescimento finalizar. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+5. REALIZANDO A LEITURA 
+ 
+Desligue a estufa clicando com o botão esquerdo do mouse sobre o botão de energia. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta.  
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Mova a placa  de  ágar  Mueller  Hinton  para  bancada  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecionando a opção “Colocar na bancada”. Repita esse passo com 
+a segunda placa. 
+ 
+ 
+ 
+Inicie  a  leitura  do  resultado  clicando  com  o  botão  esquerdo  do  mouse  sobre  o ícone 
+“Resultados placa 1” localizado no canto superior direito da tela. 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Meça o diâmetro do halo de inibição clicando com o botão esquerdo do mouse sobre a 
+régua marcando o ponto inicial e o ponto final do halo. 
+ 
+ 
+ 
+Preencha  a  tabela  com o  valor  encontrado  clicando  com  o botão  esquerdo  do  mouse 
+sobre o espaço correspondente ao antibiótico analisado. 
+ 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+Classifique a ação do antibiótico clicando com o botão esquerdo do mouse sobre a célula 
+correspondente  da  coluna  “Classificação  (BrCast)”  e  selecionando  uma  das  opções 
+disponíveis. Repita esse processo de leitura e classificação com todos os antibióticos. 
+ 
+ 
+ 
+Realize a leitura da segunda placa de antibiograma clicando com o botão esquerdo do 
+mouse sobre o ícone “Resultados placa 2” localizado no canto superior direito da tela. 
+ 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+ANTIBIOGRAMA 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos 
+ 

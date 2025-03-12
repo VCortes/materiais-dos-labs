@@ -1,0 +1,837 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá identificar   parasitas   a   partir   do   método   de 
+centrífugo-flutuação – Método de Faust. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  + Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Alça de platina; 
+• Bastão de vidro; 
+• Béquer 500 mL com hipoclorito de sódio; 
+• Béquer de 250 mL; 
+• Centrífuga; 
+• Coletor com amostra de fezes; 
+• Conta gotas com lugol; 
+• Funil; 
+• Gaze; 
+• Lâmina de vidro; 
+• Lamínula; 
+• Microscópio; 
+• Pipeta Pasteur; 
+• Pisseta com água destilada; 
+• Pisseta com sulfato de zinco a 33%; 
+• Suporte para tubo de ensaio; 
+• Tubo de ensaio. 
+ 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia. Coloque  os equipamentos de  proteção  individual  localizado no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de proteção 
+e máscara. 
+ 
+2. HOMOGENEIZANDO A AMOSTRA 
+ 
+Identifique o coletor e a lâmina. Abra o coletor e coloque a amostra no béquer. Coloque 50 
+mL  de  água  destilada  no  béquer e  homogeneíze  com  auxílio  do  bastão  de  vidro. Coloque  o 
+funil no tubo de ensaio. Coloque duas gazes dentro do funil. Filtre a solução diluída no tubo 
+de ensaio. Retire a gaze e funil do tubo de ensaio.  
+ 
+3. CENTRIFUGANDO A AMOSTRA 
+ 
+Abra a centrífuga. Mova o tubo de ensaio para a centrífuga, por 1 minuto e 2500 rpm. Retire 
+o  tubo de ensaio,  o  sobrenadante  será descartado  na  pia,  e  o  tubo de ensaio  encaminhado 
+para a bancada. Adicione 10 mL de água destilada e mova o tubo de ensaio para a centrífuga 
+por  1  minuto. Retire  o tubo de  ensaio,  o  sobrenadante  será  descartado na  pia,  e o  tubo  de 
+ensaio encaminhado para a bancada. Adicione 10 mL de sulfato de zinco a 33% e mova o tubo 
+de ensaio para a centrífuga por 1 minuto. Retire o tubo de ensaio e coloque na bancada. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+  
+4. PREPARANDO A LÂMINA 
+ 
+Com  auxílio  da  alça  de  platina,  colete  uma  pequena  amostra  do  sobrenadante  do  tubo  e 
+transfira  para  a  lâmina  de  vidro.  Adicione  uma  gota  de  lugol.  Coloque  a  lamínula  sobre  a 
+amostra. 
+ 
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Direcione a lâmina de vidro para o microscópio. Ligue o microscópio e posicione a lâmina sobre 
+a platina. Visualize a lâmina na objetiva de 40x. Atente-se à instrução que, para movimentação 
+do revólver ou para efetuar as configurações de posicionamento dos parafusos, condensador 
+ou  diafragma,  deve-se  clicar  com  o  botão  esquerdo  do  mouse  sobre  a  área  desejada  e 
+movimentar o cursor do mouse para direita ou esquerda. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais formas evolutivas podem ser identificadas através do método de Faust? 
+ 
+ 
+ 
+2. Faça um resumo da técnica analisada e cite dois benefícios da sua aplicação. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de 
+proteção e máscara. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+2. HOMOGENEIZANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Identifique o coletor clicando com o botão esquerdo do mouse sobre a caneta. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Identifique a lâmina clicando com o botão esquerdo do mouse sobre a caneta. 
+ 
+ 
+ 
+Abra o coletor clicando com o botão esquerdo do mouse na tampa do coletor. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Mova a amostra clicando com o botão esquerdo do mouse sobre a espátula de plástico. 
+ 
+ 
+ 
+Adicione a água destilada clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Homogeneíze a amostra clicando com o botão esquerdo do mouse no bastão de vidro. 
+ 
+ 
+ 
+Coloque o funil clicando com o botão esquerdo do mouse no funil. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Coloque a gaze no funil clicando com o botão esquerdo do mouse na gaze. 
+ 
+ 
+ 
+Filtre a  amostra  no tubo  de ensaio  clicando  com  o  botão esquerdo do  mouse sobre o 
+béquer. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Retire o funil clicando com o botão esquerdo do mouse no funil. 
+ 
+ 
+ 
+Visualize a centrífuga clicando com o botão esquerdo do mouse na câmera com o nome 
+“Centrífuga” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+3. CENTRÍFUGANDO A AMOSTRA 
+ 
+Abra a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse no tubo de ensaio. 
+ 
+ 
+ 
+Feche a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Aguarde por 1 minuto ou avance clicando com o botão esquerdo do mouse em “Pular”. 
+ 
+ 
+ 
+Transcorrido  o  tempo,  o sobrenadante  será  descartado  e  o  tubo  de  ensaio  será 
+encaminhado para a bancada. Adicione água ao tubo de ensaio clicando com o botão 
+esquerdo do mouse na pisseta com água destilada. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Visualize a centrífuga clicando com o botão esquerdo do mouse na câmera com o nome 
+“Centrífuga” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Abra a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse no tubo de ensaio. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Feche a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+ 
+Aguarde por 1 minuto ou avance clicando com o botão esquerdo do mouse em “Pular”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Transcorrido  o  tempo,  o  sobrenadante  será  descartado  e  o  tubo  de  ensaio  será 
+encaminhado  para  a  bancada.  Adicione sulfato  de  zinco  a  33%  ao  tubo  de  ensaio 
+clicando com o botão esquerdo do mouse na pisseta indicada. 
+ 
+ 
+ 
+Visualize a centrífuga clicando com o botão esquerdo do mouse na câmera com o nome 
+“Centrífuga” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Abra a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostra” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse no tubo de ensaio. 
+ 
+ 
+ 
+Feche a tampa da centrífuga clicando com o botão esquerdo do mouse na centrífuga. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Aguarde  por 1  minuto  clique avance  clicando com  o  botão  esquerdo  do  mouse em 
+“Pular”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Colete  uma  pequena  amostra  do  sobrenadante  clicando  com  o  botão  esquerdo  do 
+mouse na alça de platina. 
+ 
+ 
+ 
+Coloque uma gota de lugol na lâmina clicando com o botão esquerdo do mouse no conta 
+gotas contendo lugol. 
+ 
+   
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Coloque a lamínula sobre a amostra com lugol clicando com o botão esquerdo do mouse 
+na lamínula.  
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Coloque  a  lâmina  sobre  a  platina  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lâmina. 
+ 
+ 
+ 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+ 
+Visualize a frente do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando  com  o 
+botão esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Altere  a  objetiva  pressionando  com  o  botão  esquerdo  do  mouse  sobre  o  revólver  e 
+movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize os ajustes no diafragma, para regular a iluminação, no charriot para controlar a 
+posição  da  lâmina,  e  nos  botões  macro  e  micrométrico,  para  focalizar  a  imagem. 
+Visualize a lâmina na objetiva de 40x. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+  
+ 
+Feche a ocular clicando com o botão esquerdo do mouse no botão “Ver ocular”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+Visualize a lateral do microscópio clicando com o botão esquerdo do mouse na câmera 
+com o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+  
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PARASITOLOGIA CLÍNICA 
+MÉTODO DE FAUST 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

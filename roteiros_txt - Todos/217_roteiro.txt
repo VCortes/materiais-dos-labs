@@ -1,0 +1,362 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   laboratório, você   irá   aprender   o   alfabeto   manual   tátil,   uma   das 
+metodologias   de   comunicação   com   a   pessoa   surdocega.   O   ambiente   de 
+aprendizagem  possibilita  o  estudo  de  todas  as  letras  do  alfabeto manual,  o 
+segundo  ambiente,  o  Praticar,  possibilita  exercitar  o  aprendizado  através  da 
+identificação das letras e palavras apresentadas em formato de vídeo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+PROCEDIMENTOS 
+ 
+1. TOMANDO DECISÕES 
+ 
+O  laboratório  de surdocegueira  apresenta  dois  ambientes  de  aprendizagem. No 
+primeiro  ambiente, você  poderá  aprender  uma das formas de  comunicação  da 
+comunidade surdocega, através da execução dos vídeos com a representação manual 
+das   letras.   No   segundo   ambiente,   você   poderá   exercitar   seu   aprendizado 
+identificando as letras e a formação de palavras. 
+ 
+2. ESCOLHENDO O MODO ESTUDAR 
+ 
+O modo estudar apresenta a representação em vídeo de todas as letras do alfabeto 
+manual  tátil,  você  poderá  executar  os  vídeos  de  todas  as  letras  e  reproduzir 
+novamente caso seja necessário. 
+ 
+3. ESCOLHENDO O MODO PRATICAR 
+ 
+No modo praticar você poderá exercitar seu aprendizado através da identificação das 
+letras  reproduzidas  nos  vídeos  apresentados  e a  selecionar, entre  as  alternativas 
+disponíveis, a palavra formada com a combinação das letras. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+  
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por que o atendimento ao indivíduo surdocego é diferenciado do atendimento aos 
+cegos e surdos? 
+ 
+ 
+ 
+2. Qual a diferença de adaptação da língua de sinais utilizada pela comunidade surda 
+e a língua de sinais utilizada pela comunidade surdocega? 
+ 
+ 
+ 
+3. Como você identificou a diferença entre as palavras iniciadas em letra maiúscula e 
+minúscula? 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. TOMANDO DECISÕES 
+ 
+Selecione um dos modos disponíveis clicando na opção escolhida com o botão esquerdo 
+do mouse.  
+ 
+ 
+ 
+No modo “Estudar”, você poderá clicar em uma das letras do alfabeto e executar o vídeo 
+com  a  representação  manual  da  letra  selecionada. No  modo  praticar,  você  poderá 
+exercitar seu aprendizado identificando as letras e as palavras formadas no vídeo.  
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+2. ESCOLHENDO O MODO ESTUDAR 
+ 
+Escolha  entre  “Alfabeto  alta”  e  “Alfabeto  baixa”  clicando  em  uma  das  opções  com  o 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Escolhendo a opção “Alfabeto alta”, selecione alguma das letras do alfabeto e executar 
+o vídeo representando a letra selecionada clicando na letra com o botão esquerdo do 
+mouse. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+Você poderá executar o vídeo de todas as letras e reproduzir novamente, de acordo com 
+seu aprendizado. 
+ 
+ 
+ 
+Escolhendo a opção “Alfabeto baixa”, selecione alguma das letras do alfabeto e executar 
+o vídeo representando a letra selecionada clicando na letra com o botão esquerdo do 
+mouse. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+3. ESCOLHENDO O MODO “PRATICAR” 
+ 
+Escolhendo  o  modo  praticar,  você  poderá  exercitar  seu  aprendizado  identificando  as 
+letras e palavras formadas no alfabeto manual tátil representado nos vídeos.  
+Inicie clicando no botão “Entendido” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+Execute o vídeo clicando sobre ele com o botão esquerdo do mouse. Em seguida, 
+observe as letras utilizadas e a palavra formada com a combinação das letras. 
+Selecione uma das alternativas disponíveis clicando com o botão esquerdo do mouse 
+sobre a opção escolhida.  Após isso, submeta a resposta escolhida clicando com o 
+botão esquerdo do mouse em “Avaliar”. 
+ 
+ 
+ 
+Ao selecionar a alternativa correta seu score aumenta 50 pontos.  
+Ao selecionar a alternativa incorreta seu score diminui 35 pontos. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+Você irá notar palavras iguais com a inicial diferente, iniciando com letra maiúscula ou 
+minúscula. Isso significa que a palavra apresentada no vídeo apresenta essa diferença, 
+atente-se a essa observação na hora de selecionar a alternativa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LIBRAS 
+SURDOCEGUEIRA 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+ Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 
+ 

@@ -1,0 +1,695 @@
+
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+1   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+INSTRUÇÕES GERAIS  
+ 
+ 
+1. Neste experimento, você irá explorar a eletroterapia aplicada em estética para o 
+tratamento de acne e hidratação facial, rugas e linhas de expressão.  
+  
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência virtual e para respostas às perguntas frequentes a respeito do VirtuaLab.  
+ 
+3. Caso   não   saiba   como   manipular   o   Laboratório   Virtual,   utilize   o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+2   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir,  apresentamos  as  duas  principais  dúvidas  na  utilização  dos 
+Laboratórios  Virtuais.  Caso  elas  não  se  apliquem  ao  seu  problema,  consulte  a  nossa 
+seção de “Perguntas    Frequentes”, disponível em: 
+https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte. Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp  (8h  às  18h)  ou  para  direcionamento  para  a  central  de  suporte.  Conte 
+conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE 
+DE ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+3   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No  Google  Chrome,  clique  em  “Configurações” ->  “Avançado” ->  “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho, clique com o botão direito do mouse. Escolha “Configurações gráficas” 
+e  procure  pela  configuração  de  performance.  Escolha  a  opção  de  máximo 
+desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+4   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No  Google  Chrome,  clique  em  “Configurações” ->  “Avançado” ->  “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho, clique com o botão direito do mouse. Escolha “Configurações gráficas” 
+e  procure  pela  configuração  de  performance.  Escolha  a  opção  de  máximo 
+desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+5   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+  
+  
+MATERIAIS NECESSÁRIOS  
+  
+• EPIs;   
+• Algodão ou gaze;  
+• Esfoliante;  
+• Protetor solar facial;  
+• Gel condutor;  
+• Aparelho Stimulus Face;  
+• Higienizante ou emulsão de limpeza;  
+• Vitamina C ou creme hidratante ou DMAE ou Silício ou ácido hialurônico.  
+ 
+ 
+ 
+PROCEDIMENTOS  
+  
+1. SEGURANÇA DO EXPERIMENTO  
+  
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs” e 
+forre a maca com papel toalha individual.  
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+6   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+2. PROMOVENDO A LIMPEZA DE PELE  
+  
+Aplique os produtos necessários, e na ordem, seguindo o roteiro de prática, a fim de 
+realizar a limpeza de pele.    
+3. APLICANDO O STIMULUS FACE   
+  
+Programe o aparelho, e aplique na região a ser tratada.  
+  
+4. AVALIANDO OS RESULTADOS   
+  
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.   
+  
+5. FINALIZANDO O EXPERIMENTO  
+  
+Limpe o rosto da paciente, aplique protetor solar facial e encerre o experimento.    
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+7   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+AVALIAÇÃO DOS RESULTADOS  
+ 
+ 
+ 
+1. Quais os benefícios da utilização do aparelho utilizado no procedimento?  
+ 
+ 
+ 
+ 
+2. Qual a importância do uso do protetor solar após a finalização do procedimento?   
+ 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+8   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+TUTORIAL VIRTUALAB  
+ 
+ 
+Dirija-se ao menu “VISUALIZAÇÃO” e, com o botão esquerdo do mouse, clique em “PIA”. 
+ 
+ 
+ 
+  
+  
+1. 
+  
+SEGURANÇA DO EXPERIMENTO 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+9   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Para lavar as mãos, clique com o botão esquerdo do mouse para “LIGAR TORNEIRA” e 
+passe o mouse sobre a água. 
+ 
+ 
+ 
+Dirija-se ao menu “VISUALIZAÇÃO” e, com o botão esquerdo do mouse, clique em “EPI”.  
+ 
+ 
+  
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+10   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Com o botão esquerdo do mouse, clique nas portas dos armários para “ABRIR/FECHAR 
+ARMÁRIO” e, em seguida, clique nos itens adequados.  
+  
+ 
+ 
+Direcione-se a “BOBINA DE LENÇOL DESCARTÁVEL” no menu “VISUALIZAÇÃO”, e clique 
+na sobre a bobina para colocar o lençol descartável na maca. 
+ 
+ 
+ 
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+11   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Com o botão esquerdo do mouse, clique na touca descartável para “COLOCAR TOUCA 
+DESCARTÁVEL”. 
+ 
+ 
+ 
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+12   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+ 
+ 
+Com o botão esquerdo do mouse, clique no lenço umedecido para “REMOVER SUJIDADE 
+DA  PELE”.  Após  o  procedimento,  retorne  a  “MACA-VISÃO  GERAL”  ou  “MESA  COM 
+EQUIPAMENTOS - 1”. 
+ 
+ 
+ 
+  
+    
+2 .  PROMOVENDO A LIMPEZA DE PELE 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+13   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Com  o  botão  esquerdo  do  mouse,  clique  na  “EMULSÃO  DE  LIMPEZA”.  Após  o 
+procedimento, retorne a “MACA-VISÃO GERAL” ou “MESA COM EQUIPAMENTOS - 1” e 
+clique no “ALGODÃO”. 
+ 
+ 
+ 
+Com  o  botão  esquerdo  do  mouse,  clique  no  “SABONETE  FACIAL  ESFOLIANTE”.  Após 
+procedimento, retorne a “MACA-VISÃO GERAL” ou “MESA COM EQUIPAMENTOS - 1” e 
+clique no “ALGODÃO”.  
+ 
+  
+  
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+14   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+  
+ 
+ 
+Com o botão esquerdo do mouse, clique na espátula para “colocar gel na região a ser 
+tratada”. Após procedimento, direcione-se ao “APARELHO STIMULUS FACE”. 
+ 
+ 
+ 
+  
+  
+3 .  APLICANDO  O  
+STIMULUS 
+  
+FACE 
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+15   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Para  configurar  o  aparelho,  utilize  o  botão  “SELECT”  para  navegar  entre  as  opções 
+(modo,  tempo,  corrente  e  frequência).  As  setas  da  direita  mudam  o  valor  das  opções 
+definidas  com  o  botão  “SELECT”.    As  setas  da  esquerda,  aumentam  e  diminuem  a 
+frequência. Para realizar microcorrente, utilize a configuração: modo: MENS, potência: 
+100   watss/cm², tempo:   5   min,   corrente:   500   miA.   Dirija-se   a   “MESA   COM 
+EQUIPAMENTOS - 2”. 
+ 
+ 
+ 
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+16   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Clique no “START”. Em seguida, clique nas ponteiras para aplicar microcorrente, e limpe 
+a área tratada com algodão. 
+ 
+ 
+ 
+Para   realizar   microcorrente,   utilize   a   configuração:   modo:   lifiting, potência:   100 
+watss/cm², tempo: 5 min, corrente: 500 miA. Dirija-se a “MESA COM EQUIPAMENTOS - 
+2”. Com o botão esquerdo do mouse, clique para “colocar polo dispersivo”. 
+ 
+ 
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+  
+ 
+  
+  
+17   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+Com o botão esquerdo do mouse, clique na espátula para “colocar gel na região a ser 
+tratada”. Após o procedimento, direcione-se ao “APARELHO STIMULUS FACE”.  
+ 
+ 
+ 
+Em seguida, na ponteira. Ao término, limpe a área tratada com algodão.  
+ 
+ 
+  
+  
+  
+
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE ELETROTERAPIA FACIAL   
+PROTOCOLO DE TRATAMENTO DE ACNE E HIDRATAÇÃO FACIAL + RUGAS E LINHAS DE EXPRESSÃO    
+ 
+  
+  
+18   
+ALGETEC  – 
+  
+SOLUÇÕES  TECNOLÓGI CAS EM 
+  
+EDUC AÇÃO 
+    
+CEP: 40260 - 215 
+   
+Fone: 71 3272 - 3504 
+     
+E - mail:  contato@algetec.com.br 
+   
+|  Site: www.algetec.com.br 
+  
+  
+ 
+ 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. Caso seja necessário, retorne ao experimento para 
+auxiliar a avaliação dos resultados.   
+  
+ 
+ 
+Com  o  botão  esquerdo  do  mouse  clique  no  protetor  solar  para  “aplicar  loção  de 
+fotoproteção”, e finalize o procedimento.  
+ 
+ 
+ 
+  
+4 .  ANALISANDO OS RESULTADOS 
+  
+5. 
+  
+FINALIZANDO O EXPERIMENTO 
+  

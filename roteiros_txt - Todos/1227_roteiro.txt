@@ -1,0 +1,654 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  irá  aprender sobre  produção  de biocombustíveis a 
+partir da mistura de álcool metílico, óleo vegetal de soja e hidróxido de sódio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 2 Béqueres de 200 mL; 
+• Água; 
+• Álcool metílico (metanol - CH
+3
+OH); 
+• Aparelho de destilação simples; 
+• Balão fundo redondo com junta de 100 mL; 
+• Chapa de aquecimento com agitação magnética; 
+• Condensador de refluxo; 
+• Funil de decantação; 
+• Funil de separação; 
+• Hidróxido de sódio (soda cáustica – NaOH); 
+• Óleo vegetal de soja; 
+• Recipiente de vidro retangular com água; 
+• Termômetro. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, máscara, luvas e óculos. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+  
+2. PREPARANDO OS REAGENTES DO BIODISEL 
+ 
+Transfira 20 mL de óleo vegetal de soja para a proveta e, em seguida, mova o conteúdo para 
+o  balão  de  fundo  redondo.  Limpe  a  proveta  e  o  funil e  repita  o  procedimento anterior 
+transferindo  25  mL  de  álcool  metílico para  o mesmo recipiente.  Ao  final desse passo,  limpe 
+novamente as vidrarias. Misture o conteúdo contido no balão de fundo redondo e, após isso, 
+transfira o hidróxido de sódio (soda cáustica – NaOH), posicionado no vidro de relógio, para o 
+balão e realize novamente a mistura. Limpe outra vez o funil. Para finalizar, mova o balão para 
+o  agitador magnético,  ligue  o  aparelho, aguarde  por 90  minutos  a  mistura  ser  aquecida  em 
+banho-maria ou avance o tempo e desligue o agitador ao final do processo. 
+ 
+3. REMOVENDO O ETANOL RESIDUAL 
+ 
+Mova  o  balão  de  fundo  redondo  para  o  destilador  e,  em  sequência,  ligue  as válvulas  do 
+equipamento  e  a  manta  aquecedora.  Aguarde  o  procedimento  e,  ao  fim,  desligue  a  manta 
+aquecedora. Mova o conteúdo que restou no balão para o funil de separação e retorne o balão 
+para a bancada. Aguarde por 25 minutos a mistura esfriar em repouso, ou avance o tempo, 
+para obter as duas fases separadas, a mais escura representa o glicerol e a mais clara se refere 
+ao biodiesel. Abra o funil de destilação para realizar a extração do glicerol, mova o béquer 1 
+utilizado para a mesa e substitua-o pelo béquer 2, posicionando abaixo do funil. Abra o funil 
+novamente, dessa vez para extrair o biodiesel e, por fim, retorne o béquer 2 para a mesa. Leia 
+a mensagem de conclusão e feche para finalizar o experimento. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por qual motivo o hidróxido de sódio é utilizado na produção de biodiesel? 
+ 
+ 
+ 
+2. Descreva    o    papel    do    álcool    metílico    no    processo    de    produção    de 
+biocombustíveis. 
+ 
+ 
+ 
+3. Cite um subproduto gerado durante a produção de biodiesel. 
+ 
+ 
+ 
+4. Existem  outras  matérias-primas, além  do  óleo  vegetal  de  soja, que  podem  ser 
+utilizadas na produção de biodiesel? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, óculos 
+e luvas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+2. PREPARANDO OS REAGENTES DO BIODISEL 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova  o frasco  de óleo  vegetal  clicando  com  o  botão  direito  do  mouse  sobre ele e 
+selecione a opção “Mover para a proveta”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o frasco. 
+ 
+ 
+ 
+Mova  o  frasco  clicando  com  o  botão  direito  do  mouse  sobre  ele  e selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova o  conteúdo  da  proveta  clicando  com o botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Mover para o balão”. 
+ 
+ 
+ 
+Limpe  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Realizar limpeza”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Limpe a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Realizar limpeza”. 
+ 
+ 
+ 
+Mova  o  frasco  de  álcool  metílico  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o frasco. 
+ 
+ 
+ 
+Mova  o  frasco  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova  o  conteúdo  da  proveta  clicando  com o botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Mover para o balão”. 
+ 
+ 
+ 
+Limpe  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Realizar limpeza”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Misture as substâncias clicando com o botão direito do mouse sobre o balão de fundo 
+redondo e selecione a opção “Misturar”. 
+ 
+ 
+ 
+Transfira  a  soda  cáustica  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  vidro  de 
+relógio. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Limpe  o  funil  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Realizar limpeza”. 
+ 
+ 
+ 
+Misture novamente as substâncias clicando com o botão direito do mouse sobre o balão 
+de fundo redondo e selecione a opção “Misturar”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova  o  balão  de  fundo  redondo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para o agitador”. 
+ 
+ 
+ 
+Ligue  o  agitador  magnético  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Aguarde por 90 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o local indicado. 
+ 
+ 
+ 
+Desligue o agitador magnético clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+3. REMOVENDO O ETANOL RESIDUAL 
+ 
+Mova  o  balão  de  fundo  redondo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para o destilador”. 
+ 
+ 
+ 
+Ligue as válvulas do destilador clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Ligue  a  manta  aquecedora  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+ 
+Desligue a manta aquecedora clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova o balão de fundo redondo clicando com o botão direito do mouse e selecione a 
+opção “Mover para o funil de separação”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o balão de fundo 
+redondo. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova  o  balão  de fundo  redondo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Aguarde por 25 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Abra o funil clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Mova o béquer 1 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova o béquer 2 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para o funil de separação”. 
+ 
+ 
+ 
+Abra o funil clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+Mova o béquer 2 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Leia  a  mensagem  e  feche  clicando  com  o  botão esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOENERGIA E BIOMASSA 
+PRODUÇÃO DE BIOCOMBUSTÍVEIS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

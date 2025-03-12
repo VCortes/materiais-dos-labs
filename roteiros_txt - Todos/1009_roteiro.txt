@@ -1,0 +1,379 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá  aprender  a utilizar  um  algoritmo  clássico  de 
+classificação (clustering) para segmentação de dados de acordo com categorias. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. ENTENDENDO O PROBLEMA 
+ 
+Leia  os  textos  contidos  no  menu  de  etapas para  entender  mais  sobre  o  problema 
+proposto. 
+ 
+2. CONFIGURANDO OS DADOS 
+ 
+Configure  a  simulação  no  menu  “Simulação” e  selecione  o  conjunto  de  dados que 
+deseja trabalhar. Você pode utilizar os conjuntos fixos oferecidos pelo simulador ou 
+importar   copiando   e   colando o   texto   do   arquivo   .csv. Siga   para   a   aba   de 
+parametrização  do  algoritmo,  selecione  K=2  e  randomize  a  posição  inicial  dos 
+centroides. 
+ 
+3. ANALISANDO AS SOLUÇÕES 
+ 
+Execute  o  algoritmo e  avance o  passo  a  passo  para  entender o  seu  funcionamento. 
+Siga para a análise da solução e verifique as zonas de cada centroide através das áreas 
+pintadas no   submenu   de   resultado. Retorne   ao   menu   de   parametrização   e 
+experimente  novas  posições  iniciais  para  os  centroides  e  observe  os  resultados. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+  
+Retorne  novamente  ao  menu  de  parametrização e  execute  novamente  o  algoritmo 
+para valores diferentes de K. 
+ 
+4. ANALISANDO OUTROS CONJUNTOS 
+ 
+Repita o procedimento 2 e 3 para outros conjuntos de dados 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique a consequência de variar as posições iniciais dos centroides. 
+ 
+ 
+ 
+2. Entendendo  a influência dos  fenômenos  observados,  qual  seria  o  K  otimizado 
+para o conjunto de dados escolhidos? 
+ 
+ 
+ 
+3. Qual seria a posição final dos centroides com este K otimizado para o conjunto 
+de dados escolhido considerando a influência das condições iniciais no resultado 
+final?  
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ENTENDENDO O PROBLEMA 
+ 
+Leia  os  textos  contidos  no  menu  de  etapa clicando  com  o  botão  esquerdo  do  mouse 
+sobre as categorias para avançar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+Finalize a leitura e clique com o botão esquerdo do mouse no menu “Simulação” para 
+avançar para a configuração da simulação. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+2. CONFIGURANDO OS DADOS 
+ 
+Configure a simulação clicando com o botão esquerdo do mouse sobre a base de dados. 
+É possível inserir os dados manualmente alterando os valores de X e Y ou importando o 
+texto .csv. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+Gere  os  dados  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  “Gerar  e 
+importar dados”. 
+ 
+ 
+ 
+Siga  para  a  aba  de parametrização  clicando  com  o  botão  esquerdo do mouse  sobre  o 
+botão “Parametrização do algoritmo”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+Randomize a posição dos centroides clicando com o botão esquerdo do mouse sobre o 
+botão “Reposicionar aleatoriamente os centroides”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+ 
+3. ANALISANDO AS SOLUÇÕES  
+ 
+Execute o algoritmo clicando com o botão esquerdo do mouse sobre o botão “Executar 
+algoritmo K-means”. 
+ 
+ 
+ 
+Para entender o funcionamento avance o passo a passo clicando com o botão esquerdo 
+do mouse sobre as setas localizadas na parte inferior da tela. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+Siga para a análise de solução clicando com o botão esquerdo do mouse sobre o botão 
+“Análise da solução”. 
+ 
+ 
+ 
+Verifique as zonas de cada centroide através das áreas pintadas no submenu. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MACHINE LEARNING II 
+AGRUPAMENTO DAS FLORES 
+Retorne ao menu de parametrização e repita o procedimento alterando os valores de K. 
+ 
+ 
+ 
+4. ANALISANDO OUTROS CONJUNTOS 
+ 
+Repita os procedimentos 2 e 3 deste roteiro alterando o conjunto de dados. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 

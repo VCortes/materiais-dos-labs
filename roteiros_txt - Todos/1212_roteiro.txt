@@ -1,0 +1,394 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre os  níveis  de 
+atenção à saúde, um conceito essencial na organização e oferta de serviços no 
+campo da medicina e cuidados médicos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O PERSONAGEM 
+ 
+Inicie o experimento e selecione qual personagem você deseja acompanhar. Em seguida, leia 
+a descrição dele e escolha o nível de atenção depois vá para o atendimento. 
+ 
+2. INICIANDO O ATENDIMENTO 
+ 
+Entre  na  unidade  básica  de  saúde  e  passe  pela  recepcionista.  Em  seguida,  siga  com  o 
+atendimento até o fim. Depois, responda o questionário sobre o que foi abordado. Por fim, 
+volte a tela de seleção e repita os procedimentos 1 e 2 para os outros personagens. 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  06 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1.  Qual é a importância de uma abordagem em múltiplos níveis de atenção à saúde 
+para a promoção do bem-estar da comunidade? 
+ 
+ 
+2. Como os diferentes níveis de atenção à saúde (primário, secundário e terciário) 
+se complementam para fornecer cuidados abrangentes e eficazes? 
+ 
+ 
+3. Quais são as principais características e objetivos do nível de atenção primária à 
+saúde e como ele se diferencia dos níveis secundário e terciário? 
+ 
+ 
+4. De que maneira a integração entre os diferentes níveis de atenção à saúde pode 
+melhorar  a  eficiência  e  a  eficácia  dos  serviços  médicos  e  de  cuidados  com  a 
+saúde? 
+ 
+ 
+5. Como  os  sistemas  de  saúde  podem  equilibrar  os  recursos  e  a  alocação  de 
+serviços  entre  os  diferentes  níveis  de  atenção,  garantindo  um  atendimento 
+acessível e de qualidade para toda a população? 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O PERSONAGEM 
+ 
+Inicie o experimento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Selecione qual personagem você deseja acompanhar clicando com o botão esquerdo do 
+mouse sobre as setas. 
+ 
+ 
+ 
+Selecione  o  nível  de  atenção  clicando  com  o  botão esquerdo  do  mouse  sobre  os 
+quadrados localizados no canto direito da tela. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Siga  para  o  atendimento  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Avançar". 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+2. INICIANDO O ATENDIMENTO 
+ 
+Entre na UBS clicando com o botão esquerdo do mouse sobre a porta de vidro. 
+ 
+ 
+ 
+Inicie  o  atendimento  clicando  com  o  botão  direito  do  mouse  sobre  a  recepcionista  e 
+selecione a opção “Pedir identificação”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Chame  o  paciente  clicando  com  o  botão  direito  do  mouse  sobre  a  recepcionista  e 
+selecione a opção “Chamar paciente”. 
+ 
+ 
+ 
+Siga  com  o  atendimento  até  o  fim  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão indicado. Repita esse procedimento até o fim do atendimento. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Inicie o atendimento médico clicando com o botão esquerdo do mouse sobre o médico. 
+ 
+ 
+ 
+Continue com o atendimento clicando com o botão esquerdo do mouse sobre o botão 
+indicado. Repita esse procedimento até o fim do atendimento. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Responda o questionário sobre o que foi abordado clicando com o botão esquerdo do 
+mouse sobre as alternativas. 
+ 
+ 
+ 
+Avance as perguntas clicando com o botão esquerdo do mouse sobre o botão “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Avance  para  o  próximo  nível  clicando  com  o  botão  esquerdo do  mouse no  botão  de 
+seguir para o próximo nível. Repita os procedimentos anteriores, siga os processos de 
+atendimento. 
+ 
+ 
+ 
+Após realizar todo o atendimento da paciente Maria Aparecida, leia sobre a policlínica. 
+Prossiga com a prática clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+Visualize o  questionário clicando  com  o  botão  esquerdo  do  mouse  sobre o  local 
+indicado. 
+ 
+ 
+ 
+Repita os  procedimentos  anteriores,  responda  todo  o  questionário  e  avance  com  a 
+prática para realizar o próximo atendimento. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SISTEMA E ORGANIZAÇÃO DA SAÚDE NO BRASIL 
+NÍVEIS DE ATENÇÃO À SAUDE 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

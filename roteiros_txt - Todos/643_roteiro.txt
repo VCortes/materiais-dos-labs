@@ -1,0 +1,934 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre o preparo de 
+gel iônico e gel de diclofenaco de sódio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador mecânico; 
+• Balança; 
+• Bastão de vidro; 
+• Béquer (100 mL); 
+• Béquer (50 mL); 
+• Caneco; 
+• Chapa aquecedora; 
+• Espátula metálica; 
+• Fita de pH; 
+• Frasco conta-gotas contendo AMP-95; 
+• Frasco contendo carbopol 940; 
+• Frasco contendo diclofenaco de sódio; 
+• Frasco contendo glicerina; 
+• Frasco contendo nipagim; 
+• Gral e pistilo; 
+• Pisseta (500 mL) contendo água destilada; 
+• Proveta (25 mL); 
+• Termômetro. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na pia. Coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+2. PESANDO OS REAGENTES 
+ 
+Ligue a balança. Mova o béquer de 50 mL para a balança e tare o seu peso. Utilizando 
+uma espátula, pese 5 g de carbopol no béquer de 50 mL. Limpe a espátula. Mova o 
+béquer para a bancada. Tare um béquer contendo 5 mL e pese 0,5 g de nipagim. Mova 
+o béquer para a bancada. Tare um béquer de 100 mL e adicione 90 mL água destilada. 
+Retorne o béquer para a bancada. 
+ 
+3. PREPARANDO O GEL IÔNICO 
+ 
+Transfira  a  água  destilada  do  béquer e  o  nipagim  do  béquer para  o  caneco  de  aço. 
+Coloque  o  termômetro  no  caneco  e mova para  o  aquecimento  magnético.  Ligue  o 
+aquecimento e misture o conteúdo com um bastão de vidro. Aguarde atingir 70°C por 
+2 minutos. Desligue o aquecedor magnético e mova o caneco para a bancada. Limpe 
+o  bastão  de  vidro.  Aguarde  o gel esfriar até  que  atinja  35°C.  Retire  o  termômetro. 
+Mova o  caneco  para  o  agitador  mecânico,  ajuste  a  altura  do  agitador  e  ligue  o 
+aparelho. Adicione ao caneco o carbopol do béquer. Aguarde por 2 horas. Ainda em 
+agitação, adicione 5 gotas de AMP-95 no caneco. Desligue o agitador mecânico e mova 
+o caneco para a bancada. Retire uma fita de Ph e com ajuda da espátula, colete o gel 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+  
+no caneco e passe na fita. Em seguida, observe a mudança de cor na fita e compare 
+com a referência na embalagem da fita de pH. 
+ 
+4. PESANDO OS REAGENTES 
+ 
+Mova o  béquer  de  50 mL  para  a  balança e  tare  seu  peso.  Utilizando  uma  espátula 
+limpa, pese 5 g de diclofenaco de sódio no béquer. Limpe a espátula. Mova o béquer 
+para a bancada. Tare o béquer de 100 mL e pese 67 g de gel. Mova o béquer contendo 
+gel iônico para bancada. Transfira 25 mL de glicerina para a proveta, com auxílio do 
+bastão de vidro para a bancada. 
+ 
+5. PREPARANDO O GEL ANTIPRURIGINOSO 
+ 
+Transfira  o  diclofenaco de  sódio do  béquer para o  gral. Triture  o  diclofenaco  com o 
+pistilo. Adicione a glicerina da proveta no gral e misture com o pistilo. Adicione o gel 
+iônico  do  béquer  no  gral  e homogeneíze. Retire  uma  fita  de  pH. Com auxílio  da 
+espátula, colete o gel no caneco e passe na fita. Observe a mudança de cor na fita e 
+compare com a referência na embalagem de pH. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por que é importante medir a dosagem dos ingredientes para preparo do gel? 
+ 
+ 
+ 
+2. Por que é importante controlar a temperatura durante o preparo do gel iônico? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento, máscara, óculos de proteção e touca. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+2. PESANDO OS REAGENTES 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Bancada”  localizada dentro do  painel de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  béquer  de  50  mL  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e 
+selecione a opção “Mover para balança”. 
+ 
+ 
+ 
+Tare o seu peso clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Pese 5 g de carbopol clicando com o botão esquerdo do mouse sobre o frasco indicado. 
+ 
+ 
+ 
+Mova  o  béquer clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  béquer  de  50  mL clicando  com  o  botão  direito  do  mouse  sobre  o  béquer 
+indicado e selecione a opção “Mover para balança”. 
+ 
+ 
+ 
+Tare o béquer clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Pese 0,5 g de nipagim clicando com o botão esquerdo do mouse sobre o frasco indicado. 
+ 
+ 
+ 
+Mova  o  béquer clicando  com  o  botão  direito  do  mouse  sobre  o  béquer indicado e 
+selecione a opção “Mover para bancada”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  béquer  de  100  mL clicando  com  o  botão  direito  do  mouse  sobre  o  béquer 
+indicado e selecione a opção “Mover para balança”. 
+ 
+ 
+ 
+Tare o béquer clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  a  pisseta clicando  com  o  botão  direito  do  mouse  sobre a  pisseta e  selecione  a 
+opção “Levar para o béquer”. 
+ 
+ 
+ 
+Adicione 90 mL água destilada clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a pisseta  e  selecione  a 
+opção “Levar para a bancada”. 
+ 
+ 
+ 
+Transfira  a  água  destilada clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e 
+selecione a opção “Transferir para caneco”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+3. PREPARANDO O GEL IÔNICO 
+ 
+Transfira o nipagim clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Transferir para caneco”. 
+ 
+ 
+ 
+Mova  o  caneco clicando  com  o  botão  direito  do  mouse  sobre  o caneco e  selecione  a 
+opção “Levar para o aquecedor”. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  termômetro clicando  com  o botão  direito  do  mouse  sobre  o termômetro e 
+selecione a opção “Colocar no caneco”. 
+ 
+ 
+ 
+Ligue  o  aquecimento clicando  com  o  botão  direito  do  mouse  sobre  o aquecedor  e 
+selecione a opção “Ligar aquecedor”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Misture o conteúdo clicando com o botão direito do mouse sobre o bastão de vidro e 
+selecione a opção “Misturar conteúdo”. 
+ 
+ 
+ 
+Aguarde aquecer  até 70°C  por  2  minutos ou  avance  o  tempo clicando  com  o  botão 
+esquerdo do mouse em “Pular”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Limpe o bastão de vidro clicando com o botão direito do mouse sobre o bastão de vidro 
+e selecione a opção “Limpar bastão de vidro”. 
+ 
+ 
+ 
+Desligue  o  aquecedor  magnético clicando  com  o  botão  direito  do  mouse  sobre o 
+aquecedor magnético e selecione a opção “Desligar aquecedor”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  caneco clicando  com  o  botão  direito  do  mouse  sobre o  caneco e  selecione  a 
+opção “Levar para a bancada”. 
+ 
+ 
+ 
+Aguarde  esfriar  até  35°C por 10  minutos ou  avance  o  tempo clicando  com  o  botão 
+esquerdo do mouse em “Pular”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Retire  o  termômetro clicando  com  o  botão  direito  do  mouse  sobre  o termômetro e 
+selecione a opção “Limpar o termômetro”. 
+ 
+ 
+ 
+Visualize o  caneco clicando  com o  botão  esquerdo  do mouse  na  câmera com  o  nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  caneco clicando  com  o  botão  direito  do  mouse  sobre  o caneco e  selecione  a 
+opção “Levar para o agitador mecânico”. 
+ 
+ 
+ 
+Ligue o agitador clicando com o botão direito do mouse sobre o agitador e selecione a 
+opção “Ligar agitador”. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Visualize o béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Transfira o carbopol clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Transferir para caneco”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Aguarde por 2 horas ou avance o tempo clicando com o botão esquerdo do mouse em 
+“Pular”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Adicione 5 gotas de AMP-95 clicando com o botão esquerdo do mouse sobre o conta-
+gotas. 
+ 
+ 
+ 
+Desligue o agitador mecânico clicando com o botão direito do mouse sobre o agitador 
+mecânico e selecione a opção “Desligar agitador”. 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Retire uma fita de Ph clicando com o botão direito do mouse sobre a embalagem de pH 
+e selecione a opção “Posicionar fita”. 
+ 
+ 
+ 
+Colete  o  gel clicando  com  o  botão  direito  do  mouse  sobre a  fita  de  pH e  selecione  a 
+opção “Coletar gel”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Descarte a fita de pH clicando com o botão direito do mouse sobre a embalagem da fita 
+de pH e selecione a opção “Descartar fita”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+4. PESANDO OS REAGENTES 
+ 
+clicando com o botão direito do mouse sobre o béquer e selecione a opção “ 
+ 
+ 
+ 
+Mova  o  béquer  de  50  mL clicando  com  o  botão  direito  do  mouse  sobre  o  béquer 
+indicado e selecione a opção “Mover para balança”. 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Tare o peso clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Pese  5  g  de  diclofenaco  de  sódio clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+frasco indicado. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+Mova  o  béquer  de  100  mL clicando  com  o botão  direito  do  mouse  sobre  o  béquer 
+indicado e selecione a opção “Mover para balança”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Tare o béquer clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Pese 67 g de gel clicando com o botão direito do mouse sobre o caneco e selecione a 
+opção “Pesar o gel”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Mova  o  béquer  contendo clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Visualize a glicerina clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gral” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Transfira 25 mL de glicerina clicando com o botão esquerdo do mouse sobre a garrafa 
+de glicerina. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+5. PREPARANDO O GEL ANTIPRURIGINOSO 
+ 
+Visualize o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Transfira o diclofenaco de sódio clicando com o botão direito do mouse sobre o béquer 
+e selecione a opção “Transferir para o gral”. 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Triture  o  diclofenaco  de  sódio clicando  com  o  botão  direito  do  mouse  sobre o  gral e 
+selecione a opção “Triturar conteúdo”. 
+ 
+ 
+ 
+Adicione a glicerina clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para o gral”. 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Misture o conteúdo clicando com o botão direito do mouse sobre o gral e selecione a 
+opção “Misturar conteúdo”. 
+ 
+ 
+ 
+Visualize o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Adicione  o  gel clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Transferir para gral”. 
+ 
+ 
+ 
+Misture o conteúdo clicando com o botão direito do mouse sobre o gral e selecione a 
+opção “Misturar conteúdo”. 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Visualize a  embalagem  da  fita  de  pH clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Agitador Mecânico” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova a fita de pH clicando com o botão direito do mouse sobre a embalagem da fita de 
+pH e selecione a opção “Posicionar fita”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+Colete  o  gel clicando  com  o  botão  direito  do  mouse  sobre a  fita  de  pH e  selecione  a 
+opção “Coletar gel”. 
+ 
+ 
+ 
+Descarte a fita de pH clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Descartar fita”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+GEL IÔNICO (CARBOPOL) E GEL DE DICLOFENACO DE SÓDIO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

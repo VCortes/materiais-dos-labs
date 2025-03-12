@@ -1,0 +1,1837 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá conhecer os diferentes tipos de semeadura e meios 
+de culturas empregados em um laboratório de microbiologia clínica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Amostra de urina; 
+• Swab; 
+• Ágar Sangue; 
+• Ágar MacConkey; 
+• Ágar Cled; 
+• Estufa bacteriológica; 
+• Alça bacteriológica; 
+• Alça calibrada; 
+• Alça de Drigalski; 
+• Bico de Bunsen; 
+• Contador de colônias; 
+• Caneta marcadora; 
+• Acendedor mecânico. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Selecione o experimento que irá realizar. 
+ 
+SEMEADURA DE AMOSTRAS DE PELE POR ESGOTAMENTO 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Identifique a placa de Petri com caneta permanente. Colete a amostra no antebraço 
+do paciente com o swab estéril. Acenda o bico de Bunsen, posicione a placa de ágar 
+sangue  próximo  a  chama  do bico  de bunsen  e  retire  a  tampa. Inocule  a amostra  na 
+placa. Tampe a placa e retorne-a para bancada. Repita o processo de inoculação na 
+placa de ágar MacConkey. Retorne o swab para bancada ao final do processo. 
+ 
+3. SEMEANDO A AMOSTRA 
+ 
+Flambe  a alça bacteriológica. Posicione  a  placa  de  ágar  Sangue  próximo  ao  bico  de 
+bunsen, retire a tampa e realize a semeadura da amostra. Flambe a alça novamente. 
+Tampe a placa e coloque-a na bancada. Repita o processo de semeadura com a placa 
+de  ágar  MacConkey.  Apague  o  bico  de  Bunsen,  abra  estufa  e  coloque  as placas de 
+petri dentro dela. Espere 24 horas. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+4. OBSERVANDO O CRESCIMENTO 
+ 
+Retire a placa de dentro da estufa, ligue o bico de Bunsen, leve a placa para o bico de 
+Bunsen e observe o crescimento. 
+ 
+SEMEADURA DE AMOSTRAS DE URINA UTILIZANDO A ALÇA 
+CALIBRADA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Identifique a placa de Petri com caneta permanente. Acenda o bico de Bunsen. Colete 
+a amostra de urina com a alça calibrada de 10 μl. Mova a placa de ágar Cled para o 
+bico de bunsen e inocule a amostra.  Descarte a alça calibrada, tampe a placa e retorne 
+para a bancada.  Apague a chama do bico de Bunsen. 
+ 
+3. OBSERVANDO CRESCIMENTO 
+ 
+Mova a placa de petri para estufa. Espere 24 horas. Retire a placa de dentro da estufa, 
+ligue o bico de Bunsen, leve a placa para o bico de Bunsen e observe o crescimento. 
+  
+4. REALIZANDO A CONTAGEM 
+ 
+Mova a placa para o contador de colônias e ligue o equipamento. Realize a contagem 
+das colônias utilizando a caneta do contador. 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+SEMEADURA DE AMOSTRAS DE URINA POR ESPALHAMENTO 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Identifique a placa de Petri com caneta permanente. Acenda o bico de Bunsen. Colete 
+a amostra de urina com a alça calibrada de 10 μl. Mova a placa de ágar Cled para o 
+bico de bunsen e inocule a amostra.  Descarte a alça calibrada. 
+ 
+3. SEMEANDO A AMOSTRA  
+ 
+Flambe a alça de Drigalski. Espalhe o material depositado na placa com a alça. Flambe 
+a  alça  novamente  e  coloque-a  na  bancada.  Tampe  a  placa  de  petri  e  mova  para 
+bancada. Apague a chama do bico de Bunsen. 
+ 
+4. OBSERVANDO CRESCIMENTO 
+ 
+Mova a placa de petri para estufa. Espere 24 horas. Retire a placa de dentro da estufa, 
+ligue o bico de Bunsen, leve a placa para o bico de Bunsen e observe o crescimento. 
+  
+5. REALIZANDO A CONTAGEM 
+ 
+Mova a placa para o contador de colônias e ligue o equipamento. Realize a contagem 
+das colônias utilizando a caneta do contador. 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+  
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual é a diferença entre os ágares MacConkey, Sangue e Cled? 
+ 
+ 
+ 
+2. Cite  pelo  menos  um  meio seletivo,  enriquecido,  diferencial,  transporte e  de 
+contagem. 
+ 
+ 
+ 
+3. Qual a referência da contagem das colônias para positivo ou negativo? 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+TUTORIAL VIRTUALAB 
+ 
+ 
+SELECIONANDO O EXPERIMENTO 
+ 
+Selecione o experimento a ser realizado clicando com o botão esquerdo do mouse na 
+prática “1: Técnica de Semeadura por Esgotamento”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Identifique as placas clicando com o botão esquerdo do mouse na caneta marcadora. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Colete a amostra clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Ligue o gás clicando com o botão esquerdo do mouse na válvula de gás. 
+ 
+ 
+ 
+Ajuste a chama clicando com o botão esquerdo do mouse no bico de Bunsen. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Regule a chama no menu lateral esquerdo e acenda o bico de Bunsen clicando com o 
+botão esquerdo do mouse no acendedor. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova a placa de ágar sangue clicando com o botão direito do mouse na placa e selecione 
+a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  o swab clicando  com  o  botão  direito  do  mouse  no swab e  selecione  a  opção 
+“Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Inocule a amostra clicando com o botão direito do mouse no swab e selecione a opção 
+“Inocular placa de Petri 1”. 
+ 
+ 
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  2  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Inocule a amostra clicando com o botão direito do mouse no swab e selecione a opção 
+“Inocular placa de Petri 2”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  o swab clicando  com  o  botão  direito  do  mouse  no swab e  selecione  a  opção 
+“Colocar na posição inicial”. 
+ 
+ 
+ 
+Mova  a  placa  de Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+3. SEMEANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Flambe  a  alça  bacteriológica  clicando  com  o  botão  esquerdo  do  mouse  na  alça 
+bacteriológica. 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Realize  as  estrias  clicando  com  o botão  direito  do  mouse  na  alça  bacteriológica  e 
+selecione a opção “Fazer estrias na placa”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  2  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+Flambe  a  alça  bacteriológica  clicando  com  o  botão  esquerdo  do  mouse  na  alça 
+bacteriológica. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Realize  as  estrias  clicando  com  o  botão  direito  do  mouse  na  alça  bacteriológica  e 
+selecione a opção “Fazer estrias na placa”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Flambe  a  alça  bacteriológica  clicando  com  o  botão  esquerdo  do  mouse  na  alça 
+bacteriológica. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova a alça bacteriológica clicando com o botão direito do mouse na alça bacteriológica 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  clicando  com  o botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Desligue o gás clicando com o botão esquerdo do mouse na válvula. 
+ 
+ 
+ 
+Visualize  a  estufa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  as  placas  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em estufa”. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão “Power”. 
+ 
+ 
+ 
+Avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+4. OBSERVANDO O CRESCIMENTO 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+ 
+Mova  as  placas  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acenda o bico de Bunsen clicando com o botão esquerdo do mouse no acendedor. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Observe o resultado, em seguida, mova a placa de Petri clicando com o botão direito do 
+mouse na placa de Petri e selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Realize as observações devidas com a placa de Petri 2. Mova a placa de Petri para o bico 
+de  Bunsen,  abra  a  placa  e  realize  as  observações,  finalize  movendo  a  placa  para  a 
+bancada. 
+ 
+ 
+ 
+Visualize  as  opções  de  reinicialização  clicando  com  o  botão  esquerdo  do mouse  em 
+“Opções”. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Reinicie  o  experimento  clicando  com  o  botão  esquerdo  do  mouse  em  “Reiniciar 
+experimento”. 
+ 
+ 
+ 
+Selecione o experimento a ser realizado clicando com o botão esquerdo do mouse na 
+prática “2: Técnica de Semeadura com Alça Calibrada”. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+  
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Identifique  a  placa  de  Petri  clicando  com  o  botão  esquerdo  do  mouse  na  caneta 
+marcadora. 
+ 
+   
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+ 
+Ligue o gás clicando com o botão esquerdo do mouse na válvula de gás. 
+ 
+  
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Ajuste a chama clicando com o botão esquerdo do mouse no bico de Bunsen. 
+ 
+  
+ 
+Regule a chama no menu lateral esquerdo e acenda o bico de Bunsen clicando com o 
+botão esquerdo do mouse no acendedor. 
+ 
+  
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Destampe o coletor clicando com o botão esquerdo do mouse no coletor. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Colete a amostra clicando com o botão esquerdo do mouse na alça calibrada. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de Petri  sangue  clicando  com  o  botão  direito  do  mouse  na  placa  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+  
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Inocule a amostra clicando com o botão direito do mouse na alça e selecione a opção 
+“Inocular placa de Petri”. 
+ 
+  
+ 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+  
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Descarte a alça calibrada clicando com o botão direito do mouse na alça e selecione a 
+opção “Descartar”. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+  
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Desligue o gás clicando com o botão esquerdo do mouse na válvula. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+3. OBSERVANDO O CRESCIMENTO 
+ 
+Visualize  a  estufa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+   
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em estufa”. 
+ 
+  
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Feche a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+  
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão “Power”. 
+ 
+  
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+  
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+  
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+  
+ 
+Mova a placa para o bico de Bunsen e observe o crescimento microbiano da placa. 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+4. REALIZANDO A CONTAGEM 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em contador”. 
+ 
+ 
+ 
+Ligue  o  contador  de  colônias  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Conte as colônias com auxílio da caneta clicando com o botão esquerdo do mouse na 
+caneta eletrônica. 
+ 
+ 
+ 
+Conte as colônias clicando com o botão esquerdo do mouse nas colônias. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize  as  opções  de  reinicialização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Opções”. 
+ 
+ 
+ 
+Reinicie  o  experimento  clicando  com  o  botão  esquerdo  do  mouse  em “Reiniciar 
+experimento”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Selecione o experimento a ser realizado clicando com o botão esquerdo do mouse na 
+prática “3: Técnica de Semeadura por Espalhamento”. 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+  
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+2. INOCULANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Identifique  a  placa  de  Petri  clicando  com  o  botão  esquerdo  do mouse  na  caneta 
+marcadora. 
+ 
+   
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+ 
+Ligue o gás clicando com o botão esquerdo do mouse na válvula de gás. 
+ 
+  
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Ajuste a chama clicando com o botão esquerdo do mouse no bico de Bunsen. 
+ 
+  
+ 
+Regule a chama no menu lateral esquerdo e acenda o bico de Bunsen clicando com o 
+botão esquerdo do mouse no acendedor. 
+ 
+  
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Destampe o coletor clicando com o botão esquerdo do mouse no coletor. 
+ 
+ 
+  
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Colete a amostra clicando com o botão esquerdo do mouse na alça calibrada. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  sangue  clicando  com  o  botão  direito  do  mouse  na  placa  e 
+selecione a opção “Colocar em bico de Bunsen”. 
+ 
+ 
+ 
+Abra a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+  
+  
+
+  
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Inocule a amostra clicando com o botão direito do mouse na alça e selecione a opção 
+“Inocular placa de Petri”. 
+ 
+  
+ 
+Descarte a alça calibrada clicando com o botão direito do mouse na alça e selecione a 
+opção “Descartar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+3. SEMEANDO A AMOSTRA 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+ 
+Flambe a alça de Drigalski clicando com o botão esquerdo do mouse na alça de Drigalski. 
+ 
+  
+
+  
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Espalhe  o  material  clicando  com  o  botão  direito  do  mouse  na  alça  de  Drigalski  e 
+selecione a opção “Espalhar material da placa”. 
+ 
+ 
+ 
+Flambe a alça de Drigalski clicando com o botão esquerdo do mouse na alça de Drigalski. 
+ 
+ 
+  
+
+  
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova a alça de Drigalski clicando com o botão direito do mouse na alça de Drigalski e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Tampe a placa de Petri clicando com o botão esquerdo do mouse na placa de Petri. 
+ 
+ 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+  
+  
+
+  
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Desligue o gás clicando com o botão esquerdo do mouse na válvula. 
+ 
+  
+ 
+Tampe o coletor de urina clicando com o botão esquerdo do mouse no coletor. 
+ 
+ 
+  
+
+  
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+4. OBSERVANDO O CRESCIMENTO 
+ 
+Visualize  a  estufa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+7”. 
+ 
+  
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+   
+
+  
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em estufa”. 
+ 
+  
+  
+
+  
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Feche a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+  
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão “Power”. 
+ 
+  
+  
+
+  
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+  
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+  
+ 
+  
+
+  
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar na bancada”. 
+ 
+  
+ 
+Mova a placa para o bico de Bunsen e observe o crescimento microbiano da placa. 
+ 
+ 
+  
+
+  
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+5. REALIZANDO A CONTAGEM 
+ 
+Mova  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  na  placa  de  Petri  e 
+selecione a opção “Colocar em contador”. 
+ 
+  
+ 
+Ligue  o  contador  de  colônias  clicando  com  o  botão esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+  
+
+  
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+Conte as colônias com auxílio da caneta clicando com o botão esquerdo do mouse na 
+caneta eletrônica. 
+ 
+ 
+ 
+Conte as colônias clicando com o botão esquerdo do mouse nas colônias. 
+ 
+  
+  
+
+  
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES MICROBIOLÓGICAS E IMUNOLÓGICAS 
+TIPOS DE SEMEADURA E URINOCULTURA 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 

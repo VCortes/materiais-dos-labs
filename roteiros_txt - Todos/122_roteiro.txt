@@ -1,0 +1,1034 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá explorar como ocorrem os ensaios necessários para 
+a certificação de blocos e tijolos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Paquímetro; 
+• Balança; 
+• Estufa; 
+• Prensa; 
+• Tanque com água; 
+• Pasta de cimento; 
+• Amostra do lote de tijolos que será analisado. 
+ 
+PROCEDIMENTOS 
+ 
+ 
+1. MEDINDO AS DIMENSÕES EFETIVAS DO TIJOLO FURADO 
+ 
+Selecione a amostra 1 do tijolo furado e, com o auxílio do paquímetro, meça o 
+comprimento, a altura e a largura do tijolo. 
+ 
+2.  MEDINDO AS OUTRAS DIMENSÕES EFETIVAS 
+ 
+Retorne a amostra 1 do tijolo furado para posição inicial e repita o procedimento 
+para as demais amostras do tijolo furado e para todos os outros tipos de tijolos. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+ 
+ 
+3. DETERMINANDO A MASSA SECA (M
+S
+) 
+ 
+Selecione novamente a amostra 1 do tijolo furado e, com o auxílio da balança, 
+meça a massa seca dessa amostra. 
+ 
+4. UTILIZANDO O TANQUE DE ÁGUA 
+ 
+Mergulhe  a  amostra  em  análise  no  tanque  com  água.  Ela  deve  permanecer 
+submersa por 24 horas. 
+ 
+5. DETERMINANDO A MASSA ÚMIDA (M
+U
+) 
+ 
+Após passado o tempo de espera, retire a amostra do tanque e, com o auxílio 
+da balança, determine a massa úmida da amostra. 
+ 
+6. UTILIZANDO A ESTUFA 
+ 
+Utilize a estufa para secar a amostra 1 do tijolo furado. 
+ 
+7. REPETINDO O PROCEDIMENTO EM OUTRAS AMOSTRAS 
+ 
+Retorne   a   amostra   1   do   tijolo   furado   para   a   posição   inicial   e   repita   o 
+procedimento  até  a  amostra  de número  6.  Proceda  da  mesma  forma  com  os 
+outros tipos de tijolos. 
+ 
+8. FAZENDO O CAPEAMENTO 
+ 
+Selecione  a  amostra  1  do  tijolo  furado  e  faça  o  capeamento  com  a  pasta  de 
+cimento. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+  
+9. PREPARANDO O TIJOLO CAPEADO PARA O ENSAIO 
+ 
+Mergulhe  a  amostra  em  análise  no  tanque  com  água.  Ela  deve  permanecer 
+submersa por 6 horas. 
+ 
+10. EXECUTANDO O ENSAIO DE COMPRESSÃO 
+ 
+Após passado o tempo de espera, retire a amostra do tanque e, com o auxílio 
+da prensa, determine a compressão suportada pela amostra. 
+ 
+11. REPETINDO O ENSAIO NAS OUTRAS AMOSTRAS 
+ 
+Após isso, descarte a amostra 1 do tijolo furado e repita o procedimento para as 
+demais amostras do tijolo furado. Proceda da mesma forma com os outros tipos 
+de tijolos. 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Utilizando  os  valores  encontrados  no  experimento,  determine  o  índice  de 
+absorção de água e resistência à compressão de cada lote analisado. Siga para a 
+seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo  com o 
+que foi observado nos experimentos.  
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+Analise os dados obtidos no experimento e realize os cálculos da absorção (AA%) e da 
+resistência  à  compressão  (fb)  referente  a  cada  amostra.  Crie  tabelas  semelhantes  à 
+Tabela 1 para cada tipo de tijolos e anote os valores. 
+Para o cálculo da absorção de água, utilize a equação: 
+ 
+                                                         AA (%)= 
+(
+푚
+푢
+−푚
+푠
+푚
+푠
+)
+푥100                                                        (1) 
+ 
+Para converter o valor da resistência à compressão, utilize a equação: 
+ 
+                                                           fb (MPa)= 
+푓 (푁)
+퐿 
+(
+푚푚
+)
+푥 퐶 (푚푚)
+                                                                           (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Tabela 1 – Dados do tijolo furado. 
+ 
+Após  determinar  a  resistência  à  compressão  média  do  lote,  é  preciso  fazer  algumas 
+considerações para se encontrar o valor da resistência à compressão característica do 
+lote. O primeiro passo é ordenar os valores de compressão em ordem crescente (fb(1) 
+é  a menor  resistência  encontrada,  enquanto  fb(13)  é  a  maior).  Após  isso,  utiliza-se  a 
+fórmula: 
+ 
+                                                 fbk,est= 2[
+푓푏
+(
+1
+)
++푓푏
+(
+2
+)
++푓푏
+(
+푖−1
+)
+푖−1
+]−푓푏푖                                                         (3) 
+Onde, 
+fbk, est: é a resistência característica estimada da amostra, expressa em MPa; 
+fb(1), fb(2), ..., fbi: são os valores de resistência à compressão individual dos corpos de 
+prova da amostra, ordenados crescentemente; 
+i = n/2: se n for par; 
+i = (n-1)/2: se n for ímpar; 
+n: é a quantidade de blocos da amostra. 
+Dados do Tijolo Furado 
+Número da 
+amostra 
+Massa seca 
+(M
+s
+) 
+Massa úmida 
+(M
+u
+) 
+AA (%) f (kN) fb (MPa) 
+1      
+2      
+3      
+4      
+5      
+6      
+7      
+8      
+9      
+10      
+11      
+12      
+13      
+Média      
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Após realizado o cálculo acima, faça a seguinte análise: 
+• Se  o  valor  for  fbk,est  ≥  fbm  (média  da  resistência  à  compressão  de  todos  os 
+corpos de prova da amostra), adota-se fbm como a resistência característica do 
+lote (fbk); 
+• Se o valor for fbk,est < Ø × fb(1)  (menor valor da resistência à compressão de 
+todos  os  corpos  de  prova  da  amostra),  adota-se  a  resistência  característica  à 
+compressão (fbk) determinada pela equação Ø × fb(1), estando os valores de Ø 
+indicados na Tabela 2; 
+• Caso   o   valor   calculado   de   fbk,est   esteja   entre   os   limites   mencionados 
+anteriormente  (Ø  ×  fb(1)  e  fbm),  adota-se  este  valor  como  a  resistência 
+característica à compressão (fbk). 
+ 
+Tabela 2 – Valores de Ø. 
+ 
+1. Considerando  que  o  fornecedor  informou  que  o  tijolo  furado  tem  dimensões 
+(12x19x29) cm e o tijolo maciço e o tijolo laminado têm dimensões (11,5x5,3x19,5) 
+cm,  os  três  lotes  estariam  dentro  da  tolerância  definida  pela  ABNT  NBR  15270? 
+Justifique. 
+ 
+ 
+ 
+2. Considerando que o fornecedor informou que o tijolo furado é da classe VED15, o 
+tijolo maciço é da classe EST140 e o tijolo laminado é da classe EST60, os três lotes 
+estariam dentro do definido pela ABNT NBR 15270? Justifique. 
+ 
+ 
+Quantidade 
+de blocos 
+6 7 8 9 10 11 12 13 14 15 16 ≥18 
+Ø 0,89 0,91 0,93 0,94 0,96 0,97 0,98 0,99 1,00 1,01 1,02 1,04 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MEDINDO AS DIMENSÕES EFETIVAS DO TIJOLO FURADO 
+ 
+Ao iniciar o experimento, você conseguirá ver 13 amostras de cada tipo de tijolo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Ao passar o mouse sobre os tijolos, verá que eles estão enumerados. Clique com o botão 
+direito do mouse sobre o Tijolo Furado 1 e selecione “Colocar próximo ao paquímetro”. 
+ 
+ 
+ 
+Observe  que  a  amostra  foi  colocada  próximo  ao  paquímetro,  permitindo  que  as 
+medições necessárias sejam feitas. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Clique  com  o  botão  direito  do  mouse  sobre  o  paquímetro  e  selecione  “Medir 
+comprimento”. 
+ 
+ 
+ 
+Observe que o paquímetro se move para realizar a medição e uma escala surge na parte 
+superior  da  tela.  Utilizando  as  setas,  você  conseguirá  ver  qual  o  comprimento  desta 
+amostra. 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Clicando novamente sobre o paquímetro, selecione “Medir altura”. 
+ 
+ 
+ 
+O paquímetro irá se mover, permitindo que se visualize a nova medição. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Por fim, clique no paquímetro e selecione “Medir largura”, você conseguirá visualizar a 
+outra medição. Anote todas as medidas dessa amostra. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+2. MEDINDO AS OUTRAS DIMENSÕES EFETIVAS 
+ 
+Clique novamente no paquímetro e selecione “Colocar no tampo”. 
+ 
+ 
+ 
+Observe  que  o paquímetro  retornou para a  mesa.  Clique  sobre  a  amostra  e  selecione 
+“Colocar na posição inicial”. 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Observe que a amostra retornou para sua posição na mesa. Clique sobre outra amostra 
+e selecione “Colocar próximo ao paquímetro”. 
+ 
+ 
+ 
+A amostra será movida e você poderá realizar as medições com o paquímetro, conforme 
+explicado no passo anterior. Em seguida, repita o procedimento para todas as amostras 
+e crie uma tabela para obter a média das dimensões efetivas de cada tipo de bloco. 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+3. DETERMINANDO A MASSA SECA (M
+S
+) 
+ 
+Clique com o botão esquerdo do mouse no botão LIGAR para ligar a balança presente 
+na bancada.  O outro botão, TARA, é utilizado para zerar a balança. 
+ 
+ 
+ 
+Observe que aparece uma indicação na balança. Para determinar a massa seca, clique 
+sobre o tijolo e selecione a opção “Colocar na balança”. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Isso fará com que a amostra seja colocada na balança, que indicará a massa da amostra. 
+Tenha o cuidado de que a amostra esteja seca. Após anotar a massa seca da amostra, 
+siga para o Passo 4. Caso a amostra esteja úmida, siga para o Passo 6 e depois retorne. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+4. UTILIZANDO O TANQUE DE ÁGUA 
+ 
+Após  determinar  a  massa  seca,  é  preciso  determinar  a  massa  úmida.  Antes,  o  tijolo 
+precisa ser submerso em água. Para isso, selecione a opção “Submergir no tanque”. 
+ 
+ 
+ 
+Observe que o corpo de prova ficará submerso por 24 horas. Caso não deseje aguardar 
+o tempo necessário, clique no botão “Pular etapa de espera”. 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Após decorridas as 24 horas, retire a amostra de dentro do tanque selecionando a opção 
+“Remover corpo de prova”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+5. DETERMINANDO A MASSA ÚMIDA (M
+U
+) 
+ 
+Após retirar a amostra do tanque, selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Observe  que  a  amostra  será  colocada  na  balança  e,  como  se  pode  notar,  a  massa 
+encontrada  será  maior.  Anote  este  valor. Após  isso,  a  amostra  será  seca  para  ser 
+utilizada no próximo ensaio. 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+6. UTILIZANDO A ESTUFA 
+ 
+Caso já tenha determinado a massa úmida, ou caso você tenha molhado a amostra antes 
+de determinar a massa seca, você precisará utilizar a estufa. Para isso, selecione a opção 
+“Abrir/fechar estufa”. 
+ 
+ 
+ 
+Observe que a estufa será aberta. 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Após abrir a estufa, clique no tijolo e selecione a opção “Colocar na estufa”. 
+ 
+ 
+ 
+Com isso, o tijolo será colocado na estufa para secar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Selecione a opção “Abrir/fechar estufa”. 
+ 
+ 
+ 
+Com  a  estufa  fechada  e  o  tijolo  em  seu  interior,  selecione  a  opção  “Ligar/desligar 
+estufa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Observe que a amostra será secada a temperatura de 105  ̊C na estufa durante 24 horas. 
+ 
+ 
+ 
+Depois de decorrido o tempo, selecione a opção “Abrir/fechar estufa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+A  porta  da  estufa  será  aberta  e  o  tijolo  estará  seco,  possibilitando  a  realização  do 
+próximo ensaio. Clique sobre o tijolo e selecione a opção “Colocar na posição inicial”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+7. REPETINDO O PROCEDIMENTO EM OUTRAS AMOSTRAS 
+ 
+Coloque a próxima amostra na balança e repita os passos 3 a 6 deste tutorial. Siga esse 
+ciclo até a amostra de número 6 de cada tijolo, conforme a ABNT NBR 15270-1 indica 
+para o ensaio de determinação de índice de absorção de água. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+8. FAZENDO O CAPEAMENTO 
+ 
+Após  os  passos  anteriores,  clique  no  Tijolo  Furado  1  e  selecione  a  opção  “Realizar 
+capeamento”. 
+ 
+ 
+ 
+Observe que o bloco foi capeado e colocado sobre a bancada. 
+ 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+9. PREPARANDO O TIJOLO CAPEADO PARA O ENSAIO 
+ 
+Antes de  se  realizar  o  ensaio  de  compressão, o  tijolo precisa  ser  submerso.  Para  isso, 
+selecione a opção “Submergir no tanque”. 
+ 
+ 
+ 
+Observe que o corpo de prova será submerso por 6 horas. Caso não deseje aguardar o 
+tempo necessário, clique no botão “Pular etapa de espera”. 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Após decorridas as 6 horas, retire a amostra de dentro do tanque selecionando a opção 
+“Remover  corpo  de  prova”. A  amostra  será  colocada  na  bancada  e  o  ensaio  de 
+compressão já poderá ser realizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+10. EXECUTANDO O ENSAIO DE COMPRESSÃO 
+ 
+Para executar o ensaio de compressão, selecione a opção “Ensaiar corpo de prova”. 
+ 
+ 
+ 
+Observe que a amostra é colocada na prensa, onde se realizará o ensaio de compressão. 
+Clique sobre a máquina e selecione a opção “Iniciar ensaio”. 
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+A máquina começará a funcionar e aumentará a carga gradativamente até o corpo de 
+prova romper. 
+ 
+ 
+ 
+Quando  o  corpo  de  prova  romper,  a  máquina  irá  parar  e  a  tela  apresentará  uma 
+mensagem. Anote o valor da carga em que o corpo rompeu. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+11. REPETINDO O ENSAIO NAS OUTRAS AMOSTRAS 
+ 
+Para descartar a amostra, clique sobre a máquina e selecione a opção “Descartar corpo 
+de prova”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+Retorne para o modo de visualização “Bancada” através da janela de Visualização ou do 
+atalho do teclado “Alt+1”. 
+Clique sobre a próxima amostra e selecione a opção “Realizar capeamento”. 
+ 
+ 
+ 
+Repita os passos 8 a 10 para todas as amostras de cada tijolo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+IDENTIFICAÇÃO DE TIPOS DE BLOCOS E TIJOLOS 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Utilizando os valores encontrados no experimento, determine o índice de absorção de 
+água e resistência à compressão de cada lote analisado. Siga para a seção “Avaliação dos 
+Resultados”,  neste  roteiro,  e  responda  de  acordo  com  o  que  foi  observado  nos 
+experimentos.  
+ 
+ 
+ 
+ 

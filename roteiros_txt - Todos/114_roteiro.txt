@@ -1,0 +1,794 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta prática, você realizará o procedimento previsto na norma para determinar 
+a massa específica de uma amostra de agregado miúdo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bacias; 
+• Amostra de agregado; 
+• Picnômetro; 
+• Funil de vidro; 
+• Pisseta; 
+• Balança; 
+• Banho-Maria; 
+• Estufa; 
+• Dessecador; 
+• Água. 
+ 
+PROCEDIMENTOS 
+ 
+1. LIGANDO A BALANÇA E POSICIONANDO A BACIA 
+ 
+Ligue a balança, posicione a bacia vazia no equipamento e pressione o botão de 
+TARA para registrar a massa da bacia. Posicione a bacia de volta para o tampo da 
+bancada e mova a bacia com amostra de agregado para 
+a balança, registrando 
+a massa de agregado (m
+s
+)
+. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+2. COLOCANDO A AMOSTRA NO PICNÔMETRO 
+ 
+Remova a bacia com amostra da balança e pressione o botão de TARA. Remova 
+a tampa do picnômetro e posicione o funil da vidraria. Despeje a  amostra  de 
+agregado no picnômetro. Remova o funil, tampe o frasco e 
+mova para a balança, 
+registrando a massa do conjunto (m
+1
+)
+.   
+ 
+3. COBRINDO A AMOSTRA COM ÁGUA 
+ 
+Mova o conjunto de volta para o tampo da mesa, retire a tampa, acople o funil. 
+Adicione água até que a amostra seja coberta de água. Remova o funil e coloque 
+a tampa.  
+ 
+4. COLOCANDO O PICNÔMETRO NO BANHO-MARIA 
+ 
+Mova   o   picnômetro   para   o   equipamento   de   banho-maria.   Note   que   o 
+picnômetro será agitado suavemente. Em seguida, ligue o aparelho. Mantenha 
+a  vidraria  em  banho-maria  por  uma  hora  e  depois  mova  o  picnômetro  para  o 
+tampo da bancada. Remova a tampa do picnômetro, posicione o funil e despeje 
+água até que a vidraria esteja cheia (nível de 500 ml). 
+ 
+5. REGISTRANDO A MASSA DO CONJUNTO M2 
+ 
+Tampe o frasco e mova para a balança, registrando a massa do conjunto 
+(m
+2
+). 
+Remova a tampa e despeje todo o conteúdo da vidraria na bacia
+.  
+ 
+6. MOVENDO A AMOSTRA PARA A ESTUFA 
+ 
+Abra a porta da estufa, mova a bacia com amostra para o interior da 
+estufa e feche a porta. Ligue a estufa e aguarde 8 horas. Abra a estufa e remova 
+a bacia com amostra. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+7. MOVENDO A AMOSTRA PARA O DESSECADOR  
+ 
+Abra o dessecador, mova a bacia para seu interior e feche o aparelho. Após uma 
+hora, remova a bacia. 
+ 
+8. OBTENDO A MASSA FINAL  
+ 
+Mova a bacia vazia para a balança e use o botão TARA pra registrar sua massa. 
+Remova a bacia vazia e posicione a bacia com agregado na balança, registrando 
+a massa da amostra seca (m). 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais os valores medidos no experimento e o que cada um deles representa? 
+ 
+ 
+2. 
+Utilizando  as  medidas  realizadas,  calcule  d
+1
+,  d
+2 
+e  d
+3 
+em  g/cm³.  Quais  são  as
+ 
+informações  da  amostra  que  podem  ser  obtidas  de  cada  um  dos  valores 
+calculados? 
+ 
+ 
+3. Qual  das  massas  específicas  calculadas  pelo  ensaio  é  utilizado  no  cálculo  de 
+dosagem de concreto? 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. LIGANDO A BALANÇA E POSICIONANDO A BACIA 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+Em  seguida,  mova  a  bacia  vazia  para a  balança  clicando  nela  com  o  botão  direito  do 
+mouse e selecionando a opção “Colocar na balança”. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Obtenha  a  massa  da  bacia  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado para zerar a balança.  
+ 
+ 
+ 
+Retorne  a  balança  para  o  tampo  da mesa  clicando  na  bacia  com  o  botão  direito  do 
+mouse e selecionando a opção “Colocar no tampo”.  
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Mova a bacia com amostra de agregado para a balança clicando com o botão direito do 
+mouse sobre ela e selecionando a opção “Colocar na balança”. Registre a massa. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+2. COLOCANDO A AMOSTRA NO PICNÔMETRO 
+ 
+Retorne a bacia com a amostra para o tampo da mesa clicando na bacia com o botão 
+direito do mouse e selecionando a opção “Colocar no tampo”. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse no botão indicado.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Destampe o picnômetro clicando nele com o botão direito do mouse e selecionando a 
+opção “Colocar/remover rolha”. 
+ 
+ 
+ 
+Posicione  o  funil  no  picnômetro  clicando  no  funil  com  o  botão direito  do  mouse  e 
+selecionando a opção “Colocar no picnômetro”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Despeje a amostra de  agregado  no picnômetro clicando  na bacia  contendo  a  amostra 
+com o botão direito do mouse e selecionando a opção “Despejar no picnômetro”. 
+ 
+ 
+ 
+Remova o  funil do  picnômetro clicando  nele  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Colocar no tampo”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Tampe o frasco clicando com o botão direito do mouse sobre ele e selecionando a opção 
+“Colocar/remover rolha”. 
+ 
+ 
+ 
+Mova   o  frasco  para   a   balança   clicando  nele   com   o   botão  direito  do   mouse  e 
+selecionando a opção “Colocar na balança”. Registre a massa do conjunto m1. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+3. COBRINDO A AMOSTRA COM ÁGUA 
+ 
+Retorne  o  conjunto  para  o  tampo  da  mesa  clicando  no frasco  com  o botão  direito  do 
+mouse e selecionando a opção “Colocar no tampo”. 
+ 
+ 
+ 
+Remova  a  tampa  do  frasco  clicando  no  frasco  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Colocar/remover rolha”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Acople o funil no picnômetro clicando nele com o botão direito do mouse e selecionando 
+a opção “Colocar no picnômetro”. 
+ 
+ 
+ 
+Posicione  a  pisseta  no  picnômetro  clicando  nela  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Colocar sobre picnômetro”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Cubra a amostra com água clicando e pressionando a pisseta com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Retorne a pisseta para a o tampo da mesa clicando nela com o botão direito do mouse 
+e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Remova o funil clicando com o botão direito do mouse sobre ele e selecionando a opção 
+“Colocar no tampo”.  
+ 
+ 
+ 
+Tampe  o  frasco  clicando  nele  com  o  botão  direito  do  mouse  e  selecionando  a  opção 
+“Colocar/remover rolha”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+4. COLOCANDO O PICNÔMETRO NO BANHO-MARIA 
+ 
+Mova o picnômetro para o banho-maria clicando nele com o botão direito do mouse e 
+selecionando   a  opção  “Colocar   no  banho-maria”.   Note   que   antes  de   mover  o 
+picnômetro será agitado suavemente, evitando o surgimento de bolhas.  
+ 
+ 
+ 
+Ligue o banho-maria clicando com o botão esquerdo do mouse no botão indicado.  
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Mantenha a vidraria no banho-maria por uma hora. Note que um cronômetro aparecerá 
+no canto inferior esquerdo da tela. Para acelerar o tempo, você pode clicar com o botão 
+esquerdo no mouse na opção indicada.  
+ 
+ 
+ 
+Remova  o  picnômetro do  banho-maria  clicando nele  com  o  botão direito  do  mouse  e 
+selecionando a opção “Colocar no tampo”.  
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Complete   o   volume   do   picnômetro   com   água   destampando,   acoplando   o   funil, 
+posicionando a pisseta e despejando a água como já foi feito anteriormente.  
+ 
+ 
+ 
+Remova o funil e tampe o frasco como feito anteriormente.  
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+5. REGISTRANDO A MASSA DO CONJUNTO M2 
+ 
+Mova  o  picnômetro  para  a  balança  clicando  nele  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Colocar na Balança”. Registre a massa do conjunto m2.  
+ 
+ 
+ 
+Retorne o picnômetro para o tampo da bancada clicando nele com o botão direito do 
+mouse e selecionando a opção “Colocar no tampo”.  
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Destampe o picnômetro clicando nele com o botão direito do mouse e selecionando a 
+opção “Colocar/remover rolha”. 
+ 
+ 
+ 
+Despeje todo conteúdo da vidraria na bacia clicando no picnômetro com o botão direito 
+do mouse e selecionando a opção “Despejar amostra na bacia”.  
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+6. MOVENDOO A AMOSTRA PARA A ESTUFA 
+ 
+Abra  a  porta  da  estufa  clicando  nela  com  o  botão  direito  do  mouse e  selecionando  a 
+opção “Abrir/fechar estufa”.  
+ 
+ 
+ 
+Mova a bacia contendo amostra para o interior da estufa clicando na bacia com o botão 
+esquerdo do mouse e selecionando a opção “Colocar na estufa”. 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Feche  a  porta  da  estufa  clicando  com  o  botão  direito do  mouse  sobre  a  porta  e 
+selecionando a opção “Abrir/fechar estufa”.  
+ 
+ 
+ 
+Ligue a estufa clicando nela com o botão direito do mouse e selecionando a opção “Ligar 
+estufa”.  
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+A amostra deve permanecer na estufa por 8 horas. Para adiantar o procedimento, você 
+pode  pular  a  etapa de  espera clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado.  
+ 
+ 
+ 
+Abra a estufa clicando com o botão direito do mouse sobre ela e selecionando a opção 
+“Abrir/fechar estufa”.  
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Remova a bacia do interior da estufa clicando na bacia com o botão direito do mouse e 
+selecionando a opção “Colocar no tampo”.  
+ 
+ 
+ 
+Feche a porta da estufa.   
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+ 
+7. MOVENDO A AMOSTRA PARA O DESSECADOR 
+ 
+Abra o dessecador clicando nele com o botão direito do mouse e selecionando a opção 
+“Abrir/fechar dessecador”. 
+ 
+ 
+ 
+Mova a bacia para o interior do dessecador clicando nela com o botão direito do mouse 
+e selecionando a opção “Colocar no dessecador”.  
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Tampe o dessecador clicando nele com o botão direito do mouse e selecionando a opção 
+“Abrir/fechar dessecador”. 
+ 
+ 
+ 
+A amostra deve permanecer no dessecador por 1 hora. Para adiantar o procedimento, 
+você pode pular a etapa d espera clicando com o botão esquerdo do mouse no botão 
+indicado.  
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+AGREGADO MIÚDO: DETERMINAÇÃO DE MASSA 
+ESPECÍFICA 
+Destampe o dessecador repetindo o procedimento feito anteriormente. 
+Em seguida, retorne a bacia para o tampo da mesa clicando nela com o botão direito do 
+mouse e selecionando a opção “Remover amostra”. 
+ 
+ 
+ 
+ 
+8. OBTENDO A MASSA FINAL 
+ 
+Repita  o  procedimento  executado  no  passo  1  desse  tutorial  para  obter  a  massa da 
+amostra seca.  
+ 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 
+ 

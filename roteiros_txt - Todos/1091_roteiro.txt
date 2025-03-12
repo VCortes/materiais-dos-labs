@@ -1,0 +1,1559 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre o preparo e 
+padronização de soluções de tiossulfato de sódio 0,1 molar. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido sulfúrico; 
+• Água deionizada; 
+• Amido solúvel; 
+• Balança analítica; 
+• Balão volumétrico de 100 mL; 
+• Bastão de vidro; 
+• Béquer de 100 mL; 
+• Béquer de 50 mL; 
+• Bureta de 50 mL; 
+• Clorofórmio; 
+• Erlenmeyer de 250 mL; 
+• Espátula; 
+• Funil; 
+• Geladeira; 
+• Iodado de potássio; 
+• Iodeto de potássio; 
+• Pipeta graduada de 5 mL; 
+• Pipeta volumétrica de 25 mL; 
+• Tiossulfato de sódio. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 e 2, dos métodos a serem realizados: Preparo da Solução de 
+Tiossulfato de Sódio 0,1 Molar e Padronização da Solução de Tiossulfato de Sódio 0,1 Molar. 
+ 
+PREPARO DA SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+3. SELECIONANDO OS MATERIAIS 
+ 
+Abra o armário. Mova o Erlenmeyer de 250 mL, a espátula, o béquer de 50 mL, o suporte com 
+as pipetas, o recipiente com iodado de potássio, o recipiente com iodeto de potássio sólido, o 
+frasco conta-gotas com amido solúvel a 1,0% e o frasco com solução de ácido sulfúrico para a 
+bancada. Feche a porta do armário. Abra a geladeira. Mova o balão volumétrico com a solução 
+de tiossulfato de sódio para bancada. Feche a porta da geladeira. 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Ligue a balança analítica. Abra a porta lateral da balança analítica. Mova o béquer de 50 mL 
+para o interior da balança. Feche a porta da balança e tare. Abra a porta lateral da balança. 
+Destampe  o  recipiente  contendo  o  tiossulfato  sólido. Mova  a  espátula  para  o  recipiente 
+contendo tiossulfato. Pegue o tiossulfato com a espátula. Mova a espátula para o interior da 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+  
+balança. Pese  25  gramas  do  tiossulfato  de  sódio  sólido. Retorne  a  espátula  para  bancada  e 
+limpe  o  objeto. Feche  a  porta  da  balança  para  o  peso  estabilizar. Abra  a  porta  lateral  da 
+balança. Mova  o  béquer  da  balança  para  a  bancada. Feche  a  porta  da  balança. Desligue  a 
+balança. Mova a pisseta com água deionizada para o béquer com tiossulfato. Adicione cerca 
+de 30 mL de água no béquer. Retorne a pisseta para a bancada. Mova o bastão de vidro para 
+o béquer. Homogeneíze o conteúdo do béquer até dissolver o sólido. 
+ 
+5. ACONDICIONANDO A SOLUÇÃO 
+ 
+Posicione  o  funil  sobre  o  balão  volumétrico  de  1000  mL. Mova  o  béquer  com  o  tiossulfato 
+diluído  para  o  funil. Transfira  o  conteúdo  do  béquer  para  o  balão  volumétrico. Retorne  o 
+béquer para bancada. Retorne o bastão de vidro para bancada. Retorne o funil para bancada. 
+Abra o frasco conta-gotas com o clorofórmio. Aspire o clorofórmio. Mova o conta-gotas para 
+o balão volumétrico. Adicione 4 gotas do clorofórmio no balão. Retorne o conta-gotas para o 
+frasco. Mova a pisseta com água deionizada para o balão volumétrico. Adicione água no balão 
+até  atingir  a  marca  de  aferição  da  vidraria. Tampe  o  balão  volumétrico. Mova  o  balão 
+volumétrico para a geladeira. 
+ 
+6. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 e 2, dos métodos a serem realizados: Preparo da Solução de 
+Tiossulfato de Sódio 0,1 Molar e Padronização da Solução de Tiossulfato de Sódio 0,1 Molar. 
+ 
+PADRONIZAÇÃO DA SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+7. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+8. SELECIONANDO OS MATERIAIS 
+ 
+Abra  o armário. Mova  o Erlenmeyer de  250  mL  para  a  bancada. Mova  a  espátula  para  a 
+bancada. Mova  o  béquer  de  50  mL  para  a  bancada. Mova  o  suporte  com  as  pipetas 
+(volumétrica e graduada) para a bancada. Mova o recipiente com iodado de potássio para a 
+bancada. Mova  o  recipiente  com  iodeto  de  potássio  sólido  para  a  bancada. Mova  o  frasco 
+conta-gotas com amido solúvel a 1,0% para a bancada. Mova o frasco com solução de ácido 
+sulfúrico  para  a  bancada. Feche  a  porta  do  armário. Abra  a  geladeira. Mova  o  balão 
+volumétrico com a solução de ácido sulfúrico para bancada. Feche a porta da geladeira. 
+ 
+9. PREPARANDO A AMOSTRA 
+ 
+Ligue a balança analítica. Abra a porta lateral da balança analítica. Mova o Erlenmeyer de 250 
+mL para o interior da balança. Feche a porta da balança e tare. Abra a porta lateral da balança. 
+Destampe  o  recipiente  contendo  iodeto  de  potássio. Mova  a  espátula  para  o  recipiente 
+contendo  iodeto  de  potássio. Pegue  o  iodeto  de  potássio  com  a  espátula. Mova  a  espátula 
+para o interior da balança. Pese 1 grama do iodeto de potássio sólido. Retorne a espátula para 
+bancada e limpe o objeto. Feche a porta da balança para o peso estabilizar. Abra a porta lateral 
+da balança. Mova o Erlenmeyer da balança para a bancada. Feche a porta da balança. Desligue 
+a balança. Abra o recipiente contendo iodado de potássio. Mova a pipeta volumétrica de 25 
+ml para o recipiente de iodado de potássio. Esvazie a pera clicando na válvula “A” e apertando 
+o centro da pera. Aspire 25 ml de iodado de potássio clicando na válvula “S” da pera. Mova a 
+pipeta  volumétrica  para  o Erlenmeyer.  Transfira o conteúdo para  o Erlenmeyer clicando  na 
+válvula “E” da pera. Limpe a pipeta volumétrica. Retorne a pipeta volumétrica para o suporte. 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+  
+Abra a garrafa contendo ácido sulfúrico. Mova a pipeta graduada de 5 mL para a garrafa com 
+ácido sulfúrico. Esvazie a pera clicando na válvula “A” e apertando o centro da pera. Aspire 3 
+mL  de  ácido  sulfúrico  clicando  na  válvula  “S”  da  pera. Mova  a  pipeta  para  o Erlenmeyer. 
+Transfira o conteúdo para o Erlenmeyer clicando  na  válvula  “E”  da  pera. Limpe  a  pipeta 
+volumétrica. Mova a pipeta volumétrica para o suporte. 
+ 
+10. REALIZANDO A TITULAÇÃO 
+ 
+Abra  a  garrafa  com tiossulfato . Mova para  o  béquer  de  100  mL. Transfira  cerca  de  50  mL 
+tiossulfato para o béquer. Retorne a garrafa para bancada. Feche a garrafa. Mova o béquer 
+para  a  bureta. Feche  a  válvula  da  bureta. Transfira o tiossulfato do  béquer  para  bureta  até 
+atingir a marca do zero. Retorne o béquer para a bancada. Posicione o Erlenmeyer embaixo 
+da bureta. Abra a válvula da bureta. Observe o processo de titulação. Feche a válvula da bureta 
+após o líquido do Erlenmeyer atingir a cor amarelo-claro. Abra o frasco conta-gotas. Aspire a 
+solução de amido solúvel. Mova o conta-gotas para o Erlenmeyer. Adicione 5 gotas de amido 
+solúvel. Retorne o conta-gotas para o frasco. Abra a válvula da bureta. Observe o processo de 
+titulação. Feche a válvula após a cor do líquido se tornar transparente. Observe o volume gasto 
+de ácido sulfúrico na bureta. 
+ 
+11. REPETINDO A ANÁLISE 
+ 
+Repita o procedimento mais duas vezes. 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 10 deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por que a solução de tiossulfato precisa ser padronizada? 
+ 
+ 
+ 
+2. Para que serve o tiossulfato de sódio? 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 a 2, dos experimentos a serem realizados: Preparo da 
+Solução de Tiossulfato de Sódio 0,1 Molar e Padronização da Solução de Tiossulfato de 
+Sódio 0,1 Molar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Selecione  o  “Preparo  da  Solução  de  Tiossulfato  de  Sódio  0,1  Molar”  clicando  com  o 
+botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia 
+para  Higienização” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+3. SELECIONANDO OS MATERIAIS 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova a  espátula,  o frasco com tiossulfato  de  sódio,  o béquer,  a  pisseta  com  água 
+deionizada, o frasco com clorofórmio e o bastão de vidro clicando com o botão esquerdo 
+do mouse sobre eles. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o balão volumétrico e o funil para a bancada clicando com o botão esquerdo do 
+mouse sobre eles. 
+ 
+ 
+ 
+Feche a porta do armário clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Ligue  a  balança  analítica clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+ligar.  
+ 
+ 
+ 
+Abra a porta lateral da balança analítica clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o béquer de 50 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover à balança”. 
+ 
+ 
+ 
+Feche a porta da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão de tara. 
+ 
+ 
+ 
+Abra a porta lateral da balança analítica clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Move para o pote”. 
+ 
+ 
+ 
+Pese 25 gramas do tiossulfato de sódio sólido clicando com o botão esquerdo do mouse 
+sobre a espátula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Higienize  a  espátula  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Limpar a espátula”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche  a  porta  da  balança  para  o  peso  estabilizar clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra a porta lateral da balança analítica clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover à bancada”. 
+ 
+ 
+ 
+Feche a porta da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Desligue a balança clicando com o botão esquerdo do mouse sobre o botão de desligar. 
+ 
+ 
+ 
+Mova a pisseta com água deionizada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover ao béquer”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Adicione cerca de 30 mL de água no béquer clicando com o botão esquerdo do mouse 
+sobre a pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Mover à bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Homogeneíze  o  conteúdo  do  béquer clicando  com  o  botão  direito  do  mouse  sobre o 
+bastão de vidro e selecione a opção “Mover ao béquer”. 
+ 
+ 
+ 
+Higienize o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Limpar o bastão de vidro”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+5. ACONDICIONANDO A SOLUÇÃO 
+ 
+Abra o balão volumétrico clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Retirar a tampa”. 
+ 
+ 
+ 
+Mova o  funil clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover ao balão”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover ao balão”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  do  béquer clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover ao balão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover à bancada”. 
+ 
+ 
+ 
+Mova o  funil clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover à bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o frasco conta-gotas com o clorofórmio clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Mover ao balão”. 
+ 
+ 
+ 
+Adicione  4  gotas  do  clorofórmio  no  balão clicando  com  o  botão  esquerdo  do  mouse 
+sobre o conta-gotas. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova  o  conta-gotas  clicando  com  o  botão  direito  do  mouse  sobre  ele  e selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+Mova a pisseta com água deionizada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover ao balão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Adicione água no balão até atingir a marca de aferição da vidraria clicando com o botão 
+esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Mover à bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche o balão volumétrico clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Tampar o balão”. 
+ 
+ 
+ 
+Mova o balão volumétrico clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover à geladeira”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+6. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize as opções clicando com o botão esquerdo do mouse em “Opções”. 
+ 
+ 
+ 
+Visualize  o  menu  numérico  clicando  com  o  botão  esquerdo  do  mouse  em  “Reiniciar 
+Experimento”. 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Selecione o “Padronização da Solução de Tiossulfato de Sódio 0,1 Molar” clicando com 
+o botão esquerdo do mouse sobre o local indicado. 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+7. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia 
+para Higienização” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+8. SELECIONANDO OS MATERIAIS 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a espátula, o suporte para pipetas, o Erlenmeyer, o béquer, o frasco conta-gotas 
+e o bastão de vidro para a bancada clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Mova o frasco com iodado de potássio, o frasco com iodeto de potássio sólido, a pera e 
+o frasco com solução de ácido sulfúrico para a bancada clicando com o botão esquerdo 
+do mouse sobre eles. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche a porta do armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Visualize a geladeira clicando com o botão esquerdo do mouse na câmera com o nome 
+“Geladeira” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Abra a geladeira clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o balão com tiossulfato de sódio clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche a geladeira clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+9. PREPARANDO A AMOSTRA 
+ 
+Ligue  a  balança  analítica clicando  com o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+ligar. 
+ 
+ 
+ 
+Abra a porta lateral da balança analítica clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova  o  Erlenmeyer  de  250  mL clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+ 
+Feche a porta da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Zere a balança clicando com o botão esquerdo do mouse sobre o botão de tara. 
+ 
+ 
+ 
+Abra a porta lateral da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para o pote”. 
+ 
+ 
+ 
+Pese  1  grama  do  iodeto  de  potássio  sólido clicando  com  o  botão  esquerdo  do  mouse 
+sobre a espátula. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Higienize  a  espátula  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Limpar a espátula”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche a porta da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Abra a porta lateral da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche a porta da balança clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Desligue a balança clicando com o botão esquerdo do mouse sobre o botão de desligar. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Abra o recipiente contendo iodado de potássio clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Retirar a tampa”. 
+ 
+ 
+ 
+Visualize o suporte para pipetas clicando com o botão esquerdo do mouse na câmera 
+com o nome “Suporte Pipetas” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a pipeta volumétrica de 25 mL clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover para o Iodado”. 
+ 
+ 
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre a válvula “A”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Aspire 25 mL de iodado de potássio clicando com o botão esquerdo do mouse sobre a 
+válvula “S”. 
+ 
+ 
+ 
+Mova a pipeta volumétrica clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover ao Erlenmeyer”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche o recipiente clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Fechar a garrafa”. 
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar a pera”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Transfira o iodado de potássio clicando com o botão esquerdo do mouse sobre a válvula 
+“E”.  
+ 
+ 
+ 
+Higienize a  pipeta  volumétrica clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Esvaziar e limpar a pipeta”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova a pipeta volumétrica clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover ao suporte”. 
+ 
+ 
+ 
+Abra a garrafa contendo ácido sulfúrico clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Retirar a tampa”. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova  a  pipeta  graduada  de  5  mL clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Mover ao ácido sulfúrico”. 
+ 
+ 
+ 
+Esvazie a pera clicando com o botão esquerdo do mouse sobre a válvula “A”.  
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Aspire 3 mL de ácido sulfúrico clicando com o botão esquerdo do mouse sobre a válvula 
+“S”.  
+ 
+ 
+ 
+Mova  a  pipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e selecione  a  opção 
+“Mover ao Erlenmeyer”. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Feche a garrafa contendo ácido sulfúrico clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Fechar a garrafa”. 
+ 
+ 
+ 
+Transfira o ácido sulfúrico clicando com o botão esquerdo do mouse sobre a válvula “E” 
+da pera. 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Higienize a  pipeta  volumétrica clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Esvaziar e limpar a pipeta”. 
+ 
+ 
+ 
+Mova a pipeta volumétrica clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover ao suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+10. RELIZANDO A TITULAÇÃO 
+ 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover ao béquer”. 
+ 
+ 
+ 
+Transfira cerca de 50 mL tiossulfato clicando com o botão esquerdo do mouse sobre o 
+balão volumétrico. 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Mova o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+Higienize o bastão de vidro clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Limpar o bastão de vidro”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Transfira o conteúdo do béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a bureta”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Abra a válvula da bureta e observe a titulação clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+ 
+Mova  o  conta-gotas clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Mover ao Erlenmeyer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Adicione  5  gotas  de  amido  solúvel ao  Erlenmeyer  clicando  com  o  botão  esquerdo  do 
+mouse sobre o conta-gotas. 
+ 
+ 
+ 
+Mova o  conta-gotas clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Mover à bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+Abra a válvula da bureta e observe a titulação clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+11. REPETINDO A ANÁLISE 
+ 
+Repita o procedimento anterior mais duas vezes. 
+ 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA 
+PREPARO E PADRONIZAÇÃO DE SOLUÇÃO DE TIOSSULFATO DE SÓDIO 0,1 MOLAR 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 10 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema. 

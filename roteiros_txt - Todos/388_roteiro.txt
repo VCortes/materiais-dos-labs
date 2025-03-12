@@ -1,0 +1,1040 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você aprimorará  seus  conhecimentos sobre os  conceitos 
+que envolvem a análise de fibras, determinando o teor de fibras insolúveis em 
+produtos  alimentícios, podendo  interpretar  e  discutir  de  maneira  crítica  os 
+resultados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”. Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse. Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico (96 a 98%); 
+• Antiespumante (tributil fosfato); 
+• Aparelho digestor; 
+• Balança analítica; 
+• Béquer de capacidade volumétrica de 250 mL; 
+• Cadinho de porcelana; 
+• Estufa; 
+• Éter etílico; 
+• Funil de vidro; 
+• Mufla; 
+• Papel de tornassol azul; 
+• Papel filtro qualitativo; 
+• Placa de Petri; 
+• Chapa aquecedora; 
+• Proveta; 
+• Solução de ácido sulfúrico (H
+2
+SO
+4
+); 
+• Solução de hidróxido de sódio (NaOH). 
+  
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Pese  2  a  3  g  de  amostra  na  placa  de Petri.  Coloque  a  amostra  em  copo  de  600mL, 
+próprio para ser adaptado ao digestor. Adicione 3 a 5 gotas do antiespumante. 
+ 
+3. REALIZANDO DIGESTÃO ÁCIDA 
+ 
+Adicione ao copo digestor 200mL de solução de H
+2
+SO
+4
+. Coloque no aparelho digestor 
+e deixe por 10 minutos. Complete com água o volume do copo, sempre a 200 mL, à 
+medida que a solução for evaporando, por mais 2 vezes.  
+ 
+4. FILTRANDO SOLUÇÃO ÁCIDA 
+ 
+Mova o papel filtro para o funil, ligue a bomba e mova o copo digestor com a solução 
+ácida para  que  a  solução  seja  filtrada.  Realize a lavagem do  papel  filtro, com  água 
+destilada em ebulição sobre o resíduo, até a neutralização do material, verificado com 
+o papel de tornassol azul, o qual deverá ficar azul após as lavagens. 
+ 
+5. REALIZANDO DIGESTÃO BÁSICA 
+ 
+Transfira o material que ficou retido no papel para o copo de digestão. Adicione ao 
+copo digestor 200 mL de solução de NaOH. Coloque no aparelho digestor e deixe por 
+10 minutos. Complete com água o volume do copo, sempre a 200 mL, à medida que 
+a solução for evaporando, por mais 2 vezes. 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+  
+6. FILTRANDO SOLUÇÃO BÁSICA 
+ 
+Descarte o papel filtro anterior, realize a pesagem do novo papel e transfira-o para o 
+funil. Ligue a bomba e mova o copo digestor com a solução básica para que a solução 
+seja filtrada. Realize a lavagem do papel filtro, com água destilada em ebulição sobre 
+o resíduo, até a neutralização do material, verificado com o papel de tornassol azul, o 
+qual deverá ficar azul após as lavagens. 
+ 
+7. QUANTIFICANDO TEOR DE FIBRAS E MINERAIS  
+ 
+Mensure na proveta 20 mL de éter etílico e lave o material, em seguida, mensure 10 
+mL  de álcool,  a  fim  de  facilitar  a  secagem  e  eliminar  compostos  provenientes  das 
+digestões. Transfira  o  papel  filtro  para  a  estufa a  105°C  até se  obter  um  peso 
+constante. Realize a pesagem do material, formado por fibra bruta e minerais.  Mova 
+a amostra para o cadinho e, em seguida, mova o cadinho para a mufla a 600°C durante 
+uma  hora,  quando  toda  a  fibra  é  oxidada,  restando  somente  minerais. Retire  o 
+cadinho  da  mufla, e  realize  a  pesagem  do  material. A  diferença  entre  o  peso  do 
+cadinho de Gooch seco na estufa a 105 °C e após a calcinação fornece o peso da fibra 
+bruta real que foi queimada. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos.  
+ 
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Defina fibra alimentar:  
+ 
+ 
+ 
+2. Qual a importância da análise de fibras dos alimentos? 
+ 
+ 
+ 
+3. Qual o valor de fibra real obtido para a amostra analisada? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “Armário de EPIs” clicando com o botão esquerdo do mouse sobre o 
+menu superior esquerdo.  
+ 
+ 
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Selecione  os  EPIs  necessários  para  a  realização ao  experimento clicando  com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos 
+e luvas. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+ 
+Acesse  a  câmera  “Balança”  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu 
+lateral esquerdo.  
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão em destaque.  
+ 
+ 
+ 
+ 
+ 
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Mova  a  placa  de  Petri  para  a balança  clicando  com  o  botão direito do mouse  sobre  a 
+placa de Petri e selecionando a opção “Mover para balança”.  
+ 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre a função “TARA”.  
+ 
+ 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Mova a espátula de aço para a balança clicando com o botão direito do mouse sobre a 
+espátula e selecionando a opção “Mover para balança”.  
+ 
+ 
+ 
+ 
+Mova  o  Gral  para  a  balança  clicando  com  o  botão direito do  mouse  sobre  o  gral  e 
+selecionando a opção “Mover para balança”. 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Despeje 2 a 3 g de amostra na placa de Petri clicando com o botão esquerdo do mouse 
+sobre a espátula.  
+ 
+ 
+ 
+Retorne  o  grau  para  a  mesa  clicando  com  o  botão direito do  mouse  sobre  o  gral  e 
+selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Remova a função TARA da balança clicando com o botão esquerdo sobre ela.  
+ 
+ 
+ 
+ 
+ 
+Mova a espátula para o copo digestor clicando com o botão direito do mouse sobre a 
+espátula e selecionando a opção “Mover para o copo digestor”. 
+ 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Mova a placa de Petri para o copo digestor clicando com o botão direito do mouse sobre 
+ela e selecionando a opção “Mover para o copo digestor”. 
+ 
+ 
+ 
+ 
+Transfira  o  conteúdo  da  placa  de  Petri  para  o  copo  digestor  clicando  com  o  botão 
+esquerdo do mouse sobre a espátula.  
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Devolva a placa de Petri para a mesa clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Devolva a placa de Petri para a mesa clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Acesse a câmera “Copo digestor”.  
+ 
+ 
+ 
+Adicione 3 a 5 gotas do antiespumante no copo digestor clicando com o botão esquerdo 
+do mouse sobre o conta-gotas.  
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+3. REALIZANDO A DIGESTÃO ÁCIDA 
+ 
+Adicione ao copo digestor 200 mL de solução de H
+2
+SO
+4 
+clicando com o botão esquerdo 
+do mouse sobre a solução.  
+ 
+ 
+ 
+Coloque o copo digestor no aparelho digestor clicando com o botão direito do mouse 
+sobre o copo e selecionando a opção realizar digestão.  
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Inicie a digestão, que deve durar 10 minutos, clicando com o botão esquerdo do mouse 
+sobre o botão em destaque.  
+ 
+ 
+ 
+Após a evaporação provocada pelo processo de digestão, complete o volume até atingir 
+200  mL do  copo  digestor  com  água  clicando  com  o  botão  direito  do  mouse  sobre  o 
+béquer  de  capacidade  volumétrica  de  250  mL  e  selecionando  a  opção  “Completar  o 
+volume com água”.  
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Realize novamente a digestão clicando com o botão esquerdo do mouse sobre o botão 
+em destaque.  
+ 
+ 
+ 
+Repita o procedimento de digestão completando com água por mais duas vezes, até que 
+o copo digestor seja automaticamente enviado a bancada.  
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+4. FILTRANDO A SOLUÇÃO ÁCIDA 
+ 
+ 
+Mova o filtro de papel para o funil clicando com o botão direito do mouse sobre o filtro 
+e selecionando a opção “Mover para o funil”.  
+ 
+ 
+ 
+Ligue a bomba clicando com o botão esquerdo do mouse sobre o botão em destaque.  
+ 
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Realize  a  filtragem  clicando  com  o  botão direito do  mouse  sobre  o  copo  digestor  e 
+selecionando a opção “Filtrar”.  
+ 
+ 
+ 
+Realize a lavagem  do  papel  filtro  com  água  destilada  em  ebulição  sobre  o  resíduo 
+clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  com  água  destilada  e 
+selecionando a opção “Lavar amostra com água destilada”.  
+ 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Meça o pH da solução clicando com o botão direito do mouse sobre o papel tornassol e 
+selecionando a opção “Medir ph”.  
+ 
+ 
+ 
+Troque  o  papel  de  tornassol  clicando  com  o  botão direito  do  mouse  sobre  o  papel  e 
+selecionando a opção “Trocar papel”.  
+ 
+ 
+ 
+Repita  a  lavagem até  a  neutralização  do  material,  que  pode  ser  verificada  quando o 
+papel de tornassol ficar azul. 
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+5. REALIZANDO A DIGESTÃO BÁSICA 
+ 
+Transfira o material que ficou retido no papel para o copo de digestão clicando com o 
+botão direito do mouse sobre o funil e selecionando a opção “Transferir amostra para o 
+copo”.  
+ 
+ 
+ 
+Adicione ao copo digestor 200mL de solução de NaOH clicando com o botão esquerdo 
+do mouse sobre a solução.  
+ 
+ 
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Coloque o copo digestor no aparelho digestor clicando com o botão direito do mouse 
+sobre o copo e selecionando a opção realizar digestão.  
+ 
+ 
+ 
+Inicie a digestão, que deve durar 10 minutos, clicando com o botão esquerdo do mouse 
+sobre o botão em destaque.  
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Após a evaporação provocada pelo processo de digestão, complete o volume até atingir 
+200  mL do  copo  digestor  com  água  clicando  com  o  botão  direito  do  mouse  sobre  o 
+béquer  de  capacidade  volumétrica  de  250  mL  e  selecionando  a  opção  “Completar  o 
+volume com água”.  
+ 
+ 
+ 
+ 
+Realize novamente a digestão clicando com o botão esquerdo do mouse sobre o botão 
+em destaque.  
+ 
+ 
+ 
+Repita o procedimento de digestão completando com água por mais duas vezes, até que 
+o copo digestor seja automaticamente enviado a bancada.  
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+6. FILTRANDO A SOLUÇÃO BÁSICA 
+ 
+Descarte o filtro clicando com o botão direito do mouse sobre o funil e selecionando a 
+opção “Descartar filtro”.  
+ 
+ 
+ 
+Mova o filtro para balança clicando com o botão direito sobre o filtro e selecionando a 
+opção “Mover para a balança”.  
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Mova o filtro para o funil clicando com o botão direito sobre o filtro e selecionando a 
+opção “Mover para o funil”.  
+ 
+ 
+ 
+Ligue a bomba clicando com o botão esquerdo do mouse sobre o botão em destaque.  
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Realize  a  filtragem  clicando  com  o  botão direito do  mouse  sobre  o  copo  digestor  e 
+selecionando a opção “Filtrar”.  
+ 
+ 
+ 
+Realize a lavagem  do  papel  filtro  com  água  destilada  em  ebulição  sobre  o  resíduo 
+clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  com  água  destilada  e 
+selecionando a opção “Lavar amostra com água destilada”.  
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Meça o pH da solução clicando com o botão direito do mouse sobre o papel tornassol e 
+selecionando a opção “Medir ph”.  
+ 
+ 
+ 
+Repita o procedimento de lavagem mais uma vez para prosseguir com a prática.  
+ 
+ 
+ 
+  
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+ 
+7. QUANTIFICANDO O TEOR DE FIBRAS E MINERAIS 
+ 
+Mova o Éter  etílico  para  a  proveta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+solução e selecionando a opção “Mover para a proveta”.  
+ 
+ 
+ 
+Mensure na proveta 20 mL de Éter etílico clicando o botão esquerdo do mouse sobre a 
+solução.  
+ 
+ 
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Retorne a solução para a prateleira clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Mover para a prateleira”.  
+ 
+ 
+ 
+Realize a lavagem da amostra com Éter etílico clicando com o botão direito do mouse 
+sobre a proveta e selecionando a opção “Lavar a amostra”.  
+ 
+ 
+ 
+  
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Realize o procedimento de limpeza da proveta clicando com o botão direito do mouse 
+sobre ela e selecionando a opção “Esvaziar”.  
+ 
+ 
+ 
+Mova o Etanol para a proveta clicando com o botão direito do mouse sobre a solução e 
+selecionando a opção “Mover para a proveta”.  
+ 
+ 
+ 
+ 
+  
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Mensure na  proveta 10  mL  de Etanol clicando  o  botão  esquerdo  do  mouse  sobre  a 
+solução.  
+ 
+ 
+ 
+Retorne a solução para a prateleira clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Mover para a prateleira”.  
+ 
+ 
+ 
+  
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Realize a lavagem da amostra com Etanol clicando com o botão direito do mouse sobre 
+a proveta e selecionando a opção “Lavar a amostra”.  
+ 
+ 
+ 
+Acesse a câmera “Estufa”.  
+ 
+ 
+ 
+ 
+  
+
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Abra a porta da estufa clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Retorne a bancada e transfira a amostra para a estufa clicando com o botão direito do 
+mouse sobre o filtro e selecionando a opção “Mover para a estufa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Abra a porta da estufa clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse sobre o botão em destaque.  
+ 
+ 
+ 
+ 
+ 
+  
+
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Aguarde a passagem pela estufa a 105 °C e o resfriamento que ocorrerá por volta de 60 
+min e, em seguida, anote a massa do filtro. 
+ 
+ 
+ 
+Mova a amostra para o cadinho clicando com o botão direito do mouse sobre o filtro e 
+selecionando a opção “Transferir para o cadinho”.  
+ 
+ 
+ 
+ 
+ 
+
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Acessa a câmera “Mufla”.  
+Abra a porta da mufla, clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Mova  o  cadinho  para  a mufla  clicando  com  o botão  direito do  mouse  sobre  ela  e 
+selecionando a opção “Mover para a mufla”.  
+ 
+ 
+ 
+ 
+ 
+
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Feche a porta da mufla clicando com o botão esquerdo do mouse sobre ela.  
+  
+ 
+ 
+Ligue a mufla e aguarde o processo de aquecimento até 600 ° C.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE FIBRAS 
+   
+ 
+Anote o valor da amostra após o aquecimento.  
+ 
+ 
+ 
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  

@@ -1,0 +1,530 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta prática você realizará medidas e observações do ciclo de refrigeração por 
+compressão, seus principais processos e comparar os dados de um ciclo ideal e 
+real.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Wattímetro; 
+• Sensores NTC; 
+• Manômetro; 
+• Rotâmetro; 
+• Termoanemômetro. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. FECHANDO A VÁLVULA DE BLOQUEIO 
+ 
+Feche as válvulas de bloqueio que permitem a passagem do R-134a pelo 
+tubo capilar com diâmetro de 0,036” e pela válvula de expansão. 
+ 
+2. ABRINDO A VÁLVULA DE BLOQUEIO 
+ 
+Abra a válvula de bloqueio do tubo capilar com diâmetro de 0,050”. 
+ 
+3. LIGANDO A BANCADA 
+ 
+Ligue  a bancada  e  a  deixe  operando  para  garantir  que  se  atinja  o  estado 
+permanente. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+4. ANOTANDO OS VALORES DE PRESSÃO E TEMPERATURA 
+ 
+Ligue o carregador e coloque os eletrodos de grafite na placa de Petri.  
+Observe a ocorrência do fenômeno. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que ocorre no processo de condensação? 
+ 
+ 
+2. O que ocorre no processo de evaporação? 
+ 
+ 
+3. Estabeleça o diagrama T-s e P-h para o ciclo de refrigeração por compressão de 
+vapor que melhor representa a condição do experimento (utilize os Anexos A e 
+B). 
+ 
+ 
+4. Calcule o 퐶푂푃 do ciclo de refrigeração. 
+ 
+ 
+5. Calcule o balanço energético para o compressor (푊̇푐). 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+6. Calcule a taxa de transferência de calor no condensador (푄ℎ) e no evaporador 
+(푄퐿). 
+ 
+PONTOS 01 02 03 04 
+Temperatura (K)  
+   
+Pressão (bar)  
+   
+ 
+휷
+풄풊풄풍풐 
+ 
+푾̇ 
+풄
+ 
+ 
+푸
+풉
+ 
+ 
+푸
+푳
+ 
+ 
+ 
+ 
+7. Compare a potência do compressor (valor medido no wattímetro) com o balanço 
+energético do compressor. 
+ 
+ 
+8. Trace uma linha vertical a partir do ponto 1 no gráfico T-s até atingir a curva do 
+diagrama que melhor representa este ciclo. Compare a diferença entre o ponto 
+2 e ponto marcado. 
+ 
+ 
+9. Discorra sobre a perda entálpica entre os pontos 3 e 4 do ciclo de refrigeração. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+10. Calcule  a  taxa  de  transferência  de  calor  absorvida  pelo  ar  no  condensador  e  a 
+cedida  pelo  R-134a  no  condensador  a  partir  dos  dados  coletados  com  o 
+termoanemômetro. Compare e explique esses valores. 
+ 
+ 
+11. Debata as principais diferenças entre o ciclo real e ideal. 
+ 
+ 
+Pontos 
+ 
+Temperatura(K) 
+Pressão (bar) 
+Volume 
+Específico 
+(m³/kg) 
+Entalpia (kJ/kg) 
+Área de 
+Passagem do 
+Ar (m²) 
+Ar Quente 
+    
+Temperatura 
+Ambiente (K) 
+ 
+Ar Frio 
+    
+Pot
+comp Medido 
+(W) 
+ 
+Pontos 
+Velocidade (m/s) 
+Vazão 
+Volumétrica 
+(m³/s) 
+Vazão Mássica 
+(kg/s) 
+Taxa de 
+Transferência 
+de Calor (W) 
+Pot
+comp 
+Calculado (W) 
+Ar Quente 
+    
+푄
+̇ 
+ℎ 
+(W) 
+Ar Frio     
+푄
+̇ 
+퐿 
+(W) 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ANEXO A – DIAGRAMA P-H DO GÁS R134A 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ANEXO B – DIAGRAMA T-S DO GÁS R134A 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. FECHANDO AS VÁLVULAS DE BLOQUEIO 
+ 
+Através da janela Visualização ou utilizando o atalho do teclado “alt+4”, altere o modo 
+de visualização do experimento para “Válvulas e tubos capilares”. 
+Para fechar  a  válvula de  bloqueio  do  tubo  capilar  com diâmetro 0,036”, clique  com  o 
+botão direito do mouse na válvula e selecione a opção “Fechar válvula”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+Faça o mesmo procedimento com a válvula de bloqueio da válvula de expansão.  
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+2. ABRINDO A VÁLVULA DE BLOQUEIO 
+ 
+Ainda no modo de visualização “Válvulas e tubos capilares”, clique com o botão direito 
+do mouse na válvula de bloqueio do tubo capilar de 0,050” e selecione a opção “Abrir 
+válvula”. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+3. LIGANDO A BANCADA 
+ 
+Altere o modo de visualização do experimento para “Bancada”. 
+Clique  com  o  botão  direito  o  mouse  no  dimmer  do  condensador  e  selecione  a  opção 
+“Alterar valor”. 
+ 
+ 
+ 
+Na janela que surgirá no canto inferior esquerdo da tela, clique e arraste o botão sobre 
+a faixa de ajuste, de modo a rotacionar o botão até o limite máximo. Em seguida, clique 
+no X vermelho no canto superior direito da janela. 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+Repita o procedimento com o dimmer do condensador. 
+ 
+ 
+ 
+Altere o modo de visualização para “Painel elétrico de comando”, ou utilize o atalho do 
+teclado “alt+3”. 
+Clique com o botão direito do mouse no botão LIGA e selecione “Pressionar botão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+Irá   aparecer   uma   janela   informando   que   a   bancada   entrou   em   operação   e   a 
+estabilização foi atingida. Leia a mensagem e clique em OK. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+4. ANOTANDO OS VALORES DE PRESSÃO E TEMPERATURA 
+ 
+Altere o modo de visualização para “Gráfico do ciclo de refrigeração” para observar o 
+esquema do ciclo. Em seguida, retorne para a visualização “Bancada”. 
+Anote  os  valores  de  pressão  e  temperatura  dos  pontos  da  linha,  obtidos  através  dos 
+manômetros  e  visores  de  temperatura.  Para  isso,  clique  com  o  botão  esquerdo  do 
+mouse em cada instrumento.  
+ 
+ 
+ 
+Perceba que, ao fazer isso, aparecerá uma janela no canto inferior esquerdo da ua tela 
+com o display do instrumento. Para fechar essa janela, basta clicar no X. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+CICLO DE REFRIGERAÇÃO POR COMPRESSÃO A VAPOR 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 

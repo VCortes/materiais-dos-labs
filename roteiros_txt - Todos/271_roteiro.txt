@@ -1,0 +1,761 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a construção 
+de modelos tridimensionais em papel. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cola; 
+• Lápis (caneta); 
+• Papel; 
+• Régua; 
+• Tesoura. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Leia  o  texto  inicial  da  prática  e,  em  seguida,  higienize  as  mãos  na  pia  e  coloque  os 
+equipamentos de proteção individual localizados na “Estante de EPIs”. Para esse experimento 
+será necessário a utilização do avental. 
+ 
+2. CONHECENDO OS POLIEDROS 
+ 
+Visualize e conheça as características da pirâmide, do prisma e do cone. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+  
+3. CONSTRUINDO OS VOLUMES 
+ 
+Ao  escolher  um  dos  lados  da  bancada  de  trabalho, visualize  os  modelos em  papel.  Escolha 
+uma,  e  organize  a  sequência  correta. Dobre  e  cole  cada  modelo  em  papel  para  formar  os 
+modelos tridimensionais. 
+. 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais  as principais  características  de  um cone? Que  embalagens  que  você 
+conhece que tem a forma cônica? 
+ 
+ 
+ 
+2. Quais  as  principais  características  de  um prisma? Que  embalagens  que  você 
+conhece que tem a forma prismática? 
+ 
+ 
+ 
+3. Quais as principais características de uma pirâmide? Que embalagens que você 
+conhece que tem a forma piramidal? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Leia  o  texto  inicial  e,  em  seguida,  inicie  a  prática  clicando  com  o  botão  esquerdo  do 
+mouse em “Continuar”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Lave as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize a estante de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Estante  EPIs” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso do avental. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada Principal” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+2. CONHECENDO OS POLIEDROS 
+ 
+Leia o texto introdutório e continue clicando com o botão esquerdo do mouse sobre o 
+botão “Continuar”. 
+ 
+ 
+ 
+Veja a descrição do cone clicando com o botão esquerdo do mouse no cone. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Leia  a  descrição  e  inicie  a  visualização  do  modelo  clicando  com  o  botão  esquerdo  do 
+mouse em “Continuar”. 
+ 
+ 
+ 
+Rotacione o poliedro clicando com o botão esquerdo do mouse nas setas para esquerda 
+ou para a direita. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Veja a descrição do prisma clicando com o botão esquerdo do mouse no prisma. 
+ 
+ 
+ 
+Leia  a  descrição  e  inicie  a  visualização  do  modelo  clicando  com  o  botão  esquerdo  do 
+mouse em “Continuar”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Rotacione o poliedro clicando com o botão esquerdo do mouse nas setas para esquerda 
+ou para a direita. 
+ 
+ 
+ 
+Veja a descrição da pirâmide clicando com o botão esquerdo do mouse na pirâmide. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita  os  procedimentos  anteriores,  leia  a  descrição,  continue  a  prática  e  visualize 
+completamente a pirâmide rotacionando. 
+ 
+ 
+ 
+Visualize a  lateral  esquerda  da  bancada clicando  com  o  botão  esquerdo do  mouse  na 
+câmera  com  o  nome  “Bancada  Lateral  Esquerda” ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+3. CONSTRUINDO OS VOLUMES 
+ 
+Visualize  o  modelo  em  papel  clicando  com  o  botão  esquerdo  do  mouse o  modelo 
+indicado. 
+ 
+ 
+ 
+Dobre as arestas clicando com o botão direito do mouse sobre o molde verde e selecione 
+a opção “Dobrar arestas”. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Passe a cola clicando com o botão direito do mouse sobre o molde verde e selecione a 
+opção “Passar cola”. 
+ 
+ 
+ 
+Passe a cola clicando com o botão direito do mouse sobre o molde verde e selecione a 
+opção “Passar cola”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Dobre  a  face  frontal  clicando  com  o  botão  direito  do  mouse  sobre  o  molde  verde  e 
+selecione a opção “Dobrar face frontal”. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Visualize a  lateral  esquerda  da  bancada clicando  com  o  botão  esquerdo do  mouse  na 
+câmera  com  o  nome  “Bancada  Lateral  Esquerda”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Visualize o modelo em papel clicando com o botão esquerdo do mouse sobre o modelo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita  os  procedimentos  anteriores,  monte  o  modelo,  dobre  as  arestas,  passe  a  cola, 
+dobre  as  faces  verticais,  dobre  a  face  da  esquerda,  dobre  a  face  da  direita  e  dobre  o 
+topo. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Visualize a  lateral  esquerda  da  bancada clicando  com  o  botão  esquerdo do  mouse  na 
+câmera  com  o  nome  “Bancada  Lateral  Esquerda”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Visualize o modelo em papel clicando com o botão esquerdo do mouse sobre o modelo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita os procedimentos anteriores, monte o modelo, dobre as arestas, passe a cola e 
+dobre as faces. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Visualize  a direita  esquerda  da  bancada  clicando  com  o botão  esquerdo do  mouse na 
+câmera “Bancada Lateral Direita” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Visualize o modelo em papel clicando com o botão esquerdo do mouse sobre o modelo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita os procedimentos anteriores, monte o modelo, dobre as arestas, passe a cola e 
+dobre as faces. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Visualize  a direita  esquerda  da  bancada  clicando  com  o botão  esquerdo do  mouse na 
+câmera “Bancada Lateral Direita” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Visualize o modelo em papel clicando com o botão esquerdo do mouse sobre o modelo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita  os  procedimentos  anteriores,  monte  o  modelo,  dobre  as  arestas,  passe  a  cola, 
+dobre as faces pentagonais, levante as faces e encaixe as faces. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Visualize  a direita  esquerda  da  bancada  clicando  com  o botão  esquerdo do  mouse na 
+câmera “Bancada Lateral Direita” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Visualize o modelo em papel clicando com o botão esquerdo do mouse sobre o modelo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Repita  os  procedimentos  anteriores,  monte  o  modelo,  dobre  as  arestas,  passe  a  cola, 
+levante a face maior e dobre a face ao redor da base. 
+ 
+ 
+ 
+Rotacione e visualize o volume construído clicando com o botão esquerdo do mouse nas 
+setas para esquerda ou para a direita. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+Leia o texto e continue clicando com o botão esquerdo do mouse em “Continuar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ANEXOS 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MODELOS E PROTÓTIPOS EM DESIGN 
+CONSTRUÇÃO DE VOLUME 
+ 
+ 
+ 

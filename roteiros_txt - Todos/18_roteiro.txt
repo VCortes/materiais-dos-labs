@@ -1,0 +1,723 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste  experimento  você  irá  explorar  as  propriedades  elétricas  dos  materiais 
+contempladas na lei de Ohm. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Multímetro; 
+• Interruptor; 
+• Fonte de alimentação; 
+• Painel Dias Blanco. 
+ 
+ 
+ 
+PROCEDIMENTOS 
+ 
+FASE I – RESISTÊNCIA ELÉTRICA EM FUNÇÃO DA ÁREA E DO COMPRIMENTO 
+DO CONDUTOR 
+ 
+ 
+1. OBSERVANDO AS ESPECIFICAÇÕES DOS FIOS CONDUTORES 
+ 
+Caro estudante lembre-se que esse experimento representa uma situação real, 
+para  tal,  observe  as  especificações  e  informações  referentes  a  todos  os  fios 
+condutores presentes no experimento. 
+ 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+2. POSICIONANDO PONTAS DE PROVAS NOS BORNES 
+ 
+Para realização do experimento e considerando cada coluna do painel dias Blanco 
+como  uma  letra  (A,  B,  C,  D e  E) da direita para  a esquerda e  os  resistores  como 
+números de 1 a 5 de cima para baixo, você irá posicionar as pontas de prova de 
+forma que seja possível obter as medidas das propriedades elétricas desejadas. 
+ 
+ 
+ 
+Insira a ponta de prova positiva do multímetro no borne “A1”. Em seguida, insira 
+a ponta de prova negativa no borne “B1”. 
+Neste experimento você irá realizar medidas também nos pontos “AC1”, AD1” e 
+“AE1”. 
+ 
+3. LIGANDO O MULTÍMETRO 
+ 
+Para ligar o sistema visualize o multímetro e observe se o botão de ajuste está 
+na posição “Off”. Caso o multímetro esteja desligado, ligue-o. 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+4. MEDINDO RESISTIVIDADE   DE UM   RESISTOR   EM   FUNÇÃO   DO 
+COMPRIMENTO 
+ 
+Ajuste o multímetro para a posição adequada para a realização de medições de 
+resistência elétrica de até 200 Ω. 
+Agora  observe  que  o  valor  da resistência, correspondente  a  ligação  feita, 
+aparece na tela do multímetro. 
+Para posterior análise crie uma tabela semelhante a apresentada abaixo e anote 
+os valores encontrados para os pontos medidos no resistor 1. 
+ 
+Resistor 1 L (m) R (Ω) R/L (Ω/m) 
+AB 0,25   
+AC 0,50   
+AD 0,75   
+AE 1,00   
+ 
+5. MEDINDO RESISTIVIDADE DE UM RESISTOR EM FUNÇÃO DA ÁREA 
+ 
+Realize  as  medidas  para  os  resistores 3, 4 e 5 no  painel  Dias  Blanco, nas 
+respectivas posições “AE3”, “AE4” e “AE5”. 
+Crie   uma   tabela   semelhante   a   apresentada   abaixo   e   anote   os   valores 
+encontrados para os pontos medidos nos resistores. 
+ 
+ A (m²) R (Ω) R·A (Ω·m²) 
+Resistor 3    
+Resistor 4    
+Resistor 5    
+ 
+Calcule o valor da área de cada resistor e anote na tabela. 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+FASE II – A CORRENTE ELÉTRICA EM FUNÇÃO DA TENSÃO E DA RESISTÊNCIA 
+ELÉTRICA EM UM FIO RESISTOR 
+ 
+ 
+1. POSICIONANDO PONTAS DE PROVAS NOS BORNES 
+ 
+Posicione a ponta de prova negativa do multímetro na posição “E4”. Em seguida, 
+posicione a ponta de prova positiva do multímetro na fonte de tensão. 
+Conecte a ponta de prova da fonte de tensão no painel Dias Blanco e observe que 
+as pontas de prova estão posicionadas em “AE4”.  
+ 
+2. AJUSTANDO O MULTÍMETRO 
+ 
+Ajuste o multímetro para a posição favorável à realização medições da corrente 
+elétrica. 
+ 
+3. AJUSTANDO FONTE DE TENSÃO 
+ 
+Ligue a fonte de tensão e observe as suas informações.  
+Varie a tensão, aproximadamente, de 0,5 em 0,5 até que seu valor chegue a 2,5. 
+Crie uma tabela semelhante a apresentada abaixo e anote os valores encontrados 
+para os pontos medidos no resistor 4. 
+ 
+V (V) I (A) V/i (V/A) 
+   
+   
+   
+   
+   
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+4. REPETINDO O EXPERIMENTO 
+ 
+Realize as medidas para os outros resistores apresentados no painel Dias Blanco.  
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento.  
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+RESISTIVIDADE DE UM RESISTOR EM FUNÇÃO DO COMPRIMENTO 
+ 
+1. Construa o gráfico da “Resistência elétrica x Comprimento do resistor”. 
+ 
+2. O  que  é  possível  observar  com  relação  ao  comportamento  da  resistência 
+elétrica? Explique. 
+ 
+3. Calcule a resistividade do resistor 1. 
+ 
+RESISTÊNCIA ELÉTRICA DE UM RESISTOR EM FUNÇÃO DA ÁREA 
+ 
+1. Calcule a resistividade de cada resistor.  
+ 
+2. Qual dos resistores possui maior resistividade? Por quê?  
+▪ Para o cálculo da resistividade utilize a fórmula:  ρ =  푅 
+퐴
+퐿
+. 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+CORRENTE ELÉTRICA DE UM RESISTOR 
+ 
+1. Construa o gráfico da “Tensão elétrica x Corrente elétrica”, caso precise retorne 
+ao  roteiro  teórico  para  relembrar  a  relação  entre  Tensão  elétrica  ou  corrente 
+elétrica. 
+ 
+ 
+2. Depois da realização do experimento o que é possível observar com relação ao 
+comportamento da corrente elétrica? Explique. 
+ 
+3. É possível realizar as medições de corrente elétrica em todos os resistores? Caso 
+não, por quê?  
+ 
+4. Qual  dos  resistores  apresentou  maior  valor  para  a  corrente  elétrica? Tente 
+elaborar  uma  justificativa,  abordado  o  comportamento  da  resistência  elétrica 
+como a passagem da corrente elétrica. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+TUTORIAL VIRTUALAB 
+ 
+FASE I – RESISTÊNCIA ELÉTRICA EM FUNÇÃO DA ÁREA E 
+DO COMPRIMENTO DO CONDUTOR 
+ 
+ 
+ 
+ 
+ 
+Observar as especificações dos fios condutores, passando a seta do mouse pelos bornes 
+indicados. 
+ 
+ 
+ 
+ 
+ 
+Observe todas as informações referentes a todos os fios! 
+1. OBSERVANDO AS ESPECIFICAÇÕES DOS FIOS CONDUTORES 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+ 
+Considerando cada coluna do painel dias Blanco como uma letra (A, B, C, D e E) da direita 
+para  a esquerda  e  os  resistores  como  números  de  1  a  5  de  cima  para  baixo,  você  irá 
+posicionar  as  pontas  de  prova  de  forma  que  seja  possível  obter  as  medidas  das 
+propriedades elétricas desejadas. 
+ 
+ 
+Posicione as pontas de prova nos bornes, clicando com o botão direito do mouse sobre 
+o borne e selecionando a ponta de prova desejada. 
+ATENÇÃO: Para  posicionar  as  pontas  de  prova  nos  bornes  dos  resistores  você  pode 
+acessar  a câmera  “Vista superior”, clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+menu superior esquerdo, para melhor visualizar os bornes. 
+ 
+2. POSICIONANDO PONTAS DE PROVAS NOS BORNES 
+E 
+D 
+C 
+B 
+A 
+1 
+5 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+Insira a ponta de prova positiva do multímetro no borne “A1” destacado acima. 
+ 
+ 
+ 
+Observe que a ponta de prova preta se posicionou no borne. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+Em seguida, insira a ponta de prova negativa no borne “B1”. 
+ 
+ 
+ 
+ 
+ 
+Observe que as pontas de prova estão posicionadas em “AB1”.  
+Neste experimento você irá realizar medidas também nos pontos “AC1”, AD1” e “AE1”. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+ 
+Acesse a câmera “Multímetro”, para visualizar o multímetro mais detalhadamente. 
+ 
+ 
+ 
+Agora é possível visualizar as opções de medidas do multímetro. 
+Observe que o botão de ajuste está na posição “Off”.  
+ 
+ 
+3. LIGANDO O MULTÍMETRO 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+ 
+Ajuste o  multímetro para  a  posição  adequada para  realizar  medições  de  resistência 
+elétrica de até 200 Ω,  clicando sobre  o botão de ajuste  do  multímetro  e arrastando-o 
+para a posição de medição de resistência “200” indicada pela seta.  
+ 
+ 
+ 
+Observe  que  o  valor  da  resistência  correspondente  a  ligação  feita  aparece  na  tela  do 
+multímetro. 
+Em seguida, acesse a câmera “Bancada” para retornar a tela inicial do experimento. 
+Crie uma tabela semelhante a apresentada abaixo e anote os valores encontrados para 
+os pontos medidos no resistor 1. 
+ 
+Resistor 1 L (m) R (Ω) R/L (Ω/m) 
+AB 0,25   
+AC 0,50   
+AD 0,75   
+AE 1,00   
+4. MEDINDO A RESISTIVIDADE DE UM RESISTOR EM 
+FUNÇÃO DO COMPRIMENTO 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+Realize  as  medidas  para  os  resistores 3,  4 e 5 no  painel  Dias  Blanco, nas  respectivas 
+posições “AE3”, “AE4” e “AE5”. 
+Crie uma tabela semelhante a apresentada abaixo e anote os valores encontrados para 
+os pontos medidos nos resistores. 
+ 
+ A (m²) R (Ω) R·A (Ω·m²) 
+Resistor 3    
+Resistor 4    
+Resistor 5    
+ 
+Calcule o valor da área de cada resistor e anote na tabela. 
+ATENÇÃO: Os valores dos diâmetros dos respectivos resistores podem ser encontrados 
+na janela de informações. Para visualizá-la, passe a seta do mouse sobre o resistor que 
+deseja obter as informações. 
+ 
+  
+ 
+  
+5. MEDINDO A RESISTIVIDADE DE UM RESISTOR EM FUNÇÃO DA ÁREA 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+FASE II – A CORRENTE ELÉTRICA EM FUNÇÃO DA TENSÃO 
+E DA RESISTÊNCIA ELÉTRICA EM UM FIO RESISTOR 
+ 
+ 
+ 
+ 
+Posicione a ponta de prova negativa do multímetro na posição “E4”. 
+ 
+ 
+ 
+Em  seguida,  posicione  a  ponta  de  prova  positiva  do  multímetro  na  fonte  de  tensão, 
+clicando com  o  botão  direito  do  mouse  sobre  o acoplamento  da  fonte  de  tensão  e 
+selecione a opção “Conectar ponta positiva”.  
+ 
+ 
+1. POSICIONANDO  PONTAS  DE  PROVAS  NOS  BORNES
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+Observe que a ponta de prova é posicionada na fonte de tensão. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+Conecte a ponta de prova da fonte de tensão no painel Dias Blanco, clicando no borne 
+“A4” e selecione a opção “Conectar ponta do Switch”. 
+ 
+ 
+ 
+Observe que as pontas de prova posicionadas em “AE4”.  
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+ 
+Acesse  a  opção  de  câmera “Multímetro”  para  poder  visualizar  o  multímetro  mais 
+detalhadamente.  
+ 
+ 
+ 
+Em  seguida, ajuste o  multímetro  para a  posição  favorável  à realização medições  da 
+corrente elétrica, clicando sobre o botão de ajuste do multímetro e arrastando-o para a 
+posição de medição de corrente elétrica “20” indicada pela seta.  
+Em seguida, acesse a câmera “Bancada” para retornar a tela inicial do experimento. 
+ 
+  
+2. AJUSTANDO O MULTÍMETRO 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+ 
+ 
+ 
+Ligue a fonte de tensão, clicando com o botão direito do mouse sobre a fonte de tensão 
+e selecione a opção “Ligar fonte”. 
+ 
+ 
+ 
+Observe que a tela de configuração da fonte de tensão aparece ao canto da tela. 
+ 
+ 
+3. AJUSTANDO FONTE DE TENSÃO 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+Para aumentar o valor da tensão pressione, com o botão esquerdo do mouse, o botão 
+da fonte e arraste-o. 
+ 
+ 
+ 
+Varie a tensão, aproximadamente, de 0,5 em 0,5 até que seu valor chegue a 2,5. 
+ 
+Crie uma tabela semelhante a apresentada abaixo e anote os valores encontrados para 
+os pontos medidos no resistor 4. 
+ 
+V (V) I (A) V/i (V/A) 
+   
+   
+   
+   
+   
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEI DE OHM 
+ 
+4. REPETINDO O EXPERIMENTO 
+ 
+Realize as medidas para os outros resistores restantes no painel Dias Blanco.  
+ATENÇÃO: Para  posicionar  as  pontas  de  prova  nos  bornes  dos  resistores  você  pode 
+utilizar a opção de câmera “Vista superior” para melhor visualizar os bornes. 
+ 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 

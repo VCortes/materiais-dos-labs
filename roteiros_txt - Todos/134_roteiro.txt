@@ -1,0 +1,587 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  utilizará  o  aparelho  de  permeabilidade  de  Blaine  para 
+determinar a superfície de uma amostra de cimento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Aparelho de permeabilidade de Blaine; 
+• Célula de permeabilidade; 
+• Disco perfurado; 
+• Êmbolo; 
+• Frasco com cimento; 
+• Balança analítica; 
+• Cronômetro; 
+• Termômetro; 
+• Disco de papel-filtro; 
+• Graxa leve; 
+• Bastão metálico; 
+• Escova; 
+• Colher; 
+• Borracha de vedação. 
+ 
+PROCEDIMENTOS 
+ 
+1. HOMOGENEIZANDO A AMOSTRA  
+ 
+Homogeneíze o frasco com cimento durante 2 minutos e aguarde 30 segundos. 
+Utilize o bastão metálico para mexer delicadamente no cimento. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+2. ADICIONANDO O DISCO PERFURADO NA CÉLULA 
+ 
+Encaixar o disco perfurado na célula de permeabilidade e em seguida, inserir na 
+célula  um  disco  de  papel-filtro.  Adicione  graxa  na  superfície  externa da célula 
+para garantir a vedação no acoplamento ao aparelho de Blaine.   
+ 
+3. ADICIONANDO CIMENTO NA CÉLULA 
+ 
+Ligue a balança e mova a célula para o equipamento. Pressione o botão de TARA. 
+Com os dados disponíveis, calcule a massa de cimento que deve ser adicionada 
+na  célula.  Utilize  uma  colher  para  despejar  o  cimento  na  célula  até  que  seja 
+adicionada a quantidade calculada. 
+ 
+4. PREPARANDO A CÉLULA DE PERMEABILIDADE 
+ 
+Mova a célula para a bancada e nivele a camada de cimento. Insira um disco de 
+papel-filtro  na  célula.  Utilize  o  êmbolo  para  compactar  o  conteúdo  da  célula. 
+Encaixe a célula no aparelho de Blaine. 
+5. AJUSTANDO O PERMEABILÍMETRO DE BLAINE 
+ 
+Acople a borracha de vedação na célula. Abra o registro do aparelho de Blaine e 
+utilize  o  bulbo aspirador  para  ajustar  o  nível  do  líquido  do  equipamento  até 
+acima da marcação superior. Feche o registro. 
+ 
+6. MEDINDO O TEMPO E A TEMPERATURA  
+ 
+Remova  a  borracha  de  vedação  e  mantenha  o  cronômetro  preparado  para 
+quando o nível do manômetro atingir a segunda marcação, iniciar a contagem. 
+Pare a contagem do tempo quando a terceira marcação for atingida. Registre a 
+temperatura ambiente do laboratório. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+7. REPETINDO OS PASSOS ANTERIORES 
+ 
+Repita os passos 5 e 6 realizando novas medidas de tempo e temperatura com 
+a mesma amostra contida no permeabilímetro de Blaine. 
+ 
+8. ENSAIANDO UM NOVO CORPO DE PROVA 
+ 
+Descarte o conteúdo da célula de permeabilidade e realize uma limpeza da peça 
+com a escova. Repita os passos de 2 a 7 e realize as medições necessárias. 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a massa de cimento inserida na célula de permeabilidade? Justifique. 
+ 
+ 
+2. Quais foram os tempos encontrados utilizando o aparelho de permeabilidade de 
+Blaine para cada um dos corpos de prova montados? 
+ 
+ 
+3. Qual  a  superfície específica,  em  cm²/g,  encontrada  para  cada  corpo  de  prova? 
+Qual a superfície específica da amostra? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. HOMOGENEIZANDO A AMOSTRA 
+ 
+Importante: Dados  que  serão  utilizados  na  análise  dos  resultados  do  ensaio  são 
+disponibilizados nas janelas exibidas ao posicionar o mouse sobre um dos componentes 
+do experimento. No frasco com cimento, por exemplo, é possível encontrar a porosidade 
+e a massa específica da amostra. 
+ 
+Clique com o botão direito do mouse sobre o frasco com a amostra de cimento e 
+selecione a opção “Homogeneizar conteúdo”. 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Perceba que aparecerá, no canto inferior esquerdo da tela, um cronômetro indicando o 
+tempo necessário para a homogeneização. Se não quiser aguardar 2 minutos, clique no 
+botão “Pular etapa de espera”. 
+ 
+ 
+Após a homogeneização, é necessário aguardar 30 segundos. Novamente, irá aparecer 
+um cronômetro no canto inferior esquerdo da tela e, caso deseje, você pode pular esta 
+etapa clicando no botão “Pular etapa de espera”. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Clique com o botão direito do mouse sobre o bastão metálico que está ao lado da colher. 
+Em seguida, selecione a opção “Mexer amostra do frasco”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+2. ADICIONANDO O DISCO PERFURADO NA CÉLULA 
+ 
+Clique com o botão direito do mouse sobre o disco perfurado e selecione a opção 
+“Colocar na célula”. 
+ 
+ 
+Em seguida, clique com o botão direito do mouse sobre o disco de papel filtro  e 
+selecione a opção “Colocar na célula”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Clique com o botão direito do mouse sobre a espátula que está ao lado do frasco com 
+graxa, e selecione a opção “Colocar graxa na célula”. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+3. ADICIONANDO CIMENTO NA CÉLULA 
+ 
+Clique com o botão esquerdo do mouse sobre o botão de ligar a balança. 
+Em seguida, clique com o botão direito sobre a célula de permeabilidade e selecione a 
+opção “Colocar na balança”. 
+ 
+ 
+ 
+Pressione o botão TARA para zerar a balança. 
+Pegue uma porção de cimento com a colher. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Para  despejar  o  cimento  da  colher  na  célula  de  permeabilidade,  mantenha  o  botão 
+esquerdo do mouse pressionado enquanto for necessário que a ação seja realizada. 
+Calcule a quantidade de cimento que deve ser despejada na célula de permeabilidade 
+e, lentamente, despeje o conteúdo da colher até atingir o valor calculado. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+4. PREPARANDO A CÉLULA DE PERMEABILIDADE 
+ 
+Coloque a colher de volta no tampo da mesa. 
+Mova a célula de volta para o tampo da bancada. 
+ 
+ 
+Nivele a camada de cimento contida na célula de permeabilidade.  
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Insira um disco de papel-filtro na célula. 
+Compacte a célula de permeabilidade utilizando o êmbolo. 
+ 
+ 
+Coloque a célula no permeabilímetro de Blaine. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+5. AJUSTANDO O PERMEABILÍMETRO DE BLAINE 
+ 
+Encaixe a borracha de vedação na célula. 
+ 
+ 
+Abra o registro do equipamento para ajustar o nível do manômetro. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Remova o ar do bulbo aspirador para que o nível do manômetro seja modificado. 
+ 
+ 
+ 
+Aspire o ar do bulbo aspirador para elevar o nível do fluido manométrico. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Feche o registro do permeabilímetro de Blaine. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+6. MEDINDO O TEMPO E A TEMPERATURA 
+ 
+Remova  a  borracha  de  vedação  para  que  o  ar  passe  pelo  corpo  de  prova e  o  nível  do 
+fluido manométrico comece a descer. 
+ 
+ 
+Dica: Para melhor visualizar as marcações no manômetro do permeabilímetro de Blaine, 
+clique no manômetro para que seja exibida uma janela com indicação do nível. 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Clique e arraste o botão indicado na janela para subir e descer o ponto de vista da janela. 
+Inicie o cronômetro quando o nível do fluido manométrico atingir a segunda marcação. 
+ 
+ 
+Pare o cronômetro quando a terceira marcação for atingida. 
+Clique no termômetro com o botão esquerdo do mouse para visualizar a janela com a 
+temperatura ambiente. 
+ 
+ 
+  
+Segunda 
+marcação 
+Terceira 
+marcação 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+ 
+7. REPETINDO OS PASSOS ANTERIORES  
+ 
+Repita os procedimentos apresentados nos passos 5 e 6. Realize as medidas de tempo e 
+temperatura indicadas nesses passos. 
+ 
+ 
+ 
+8. ENSAIANDO UM NOVO CORPO DE PROVAS 
+ 
+Descarte o conteúdo da célula de permeabilidade para que seja montado um novo corpo 
+de prova. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+DETERMINAÇÃO DA FINURA DO CIMENTO 
+Realize a limpeza do corpo de prova utilizando a escova. 
+ 
+ 
+Repita os procedimentos apresentados nos passos de 2 a 7. Realize as medidas de tempo 
+e temperatura indicadas nesses passos. 
+ 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 

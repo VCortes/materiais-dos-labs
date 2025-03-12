@@ -1,0 +1,615 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá analisar microscopicamente a lâminas de Clue Cell 
+(Célula Guia). 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico; 
+• Algodão; 
+• Cotonete; 
+• Gaze; 
+• Lâmina; 
+• Microscópio óptico; 
+• Solução de limpeza. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia e coloque   os equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. Higienize a bancada.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+  
+2. VIZUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Ligue  o  microscópio.  Mova a primeira lâmina  para  o  microscópio.  Habilite  o  menu 
+ocular e observe a lâmina nas objetivas de 10x e 40x. Mova a lâmina para a bancada 
+e limpe a ocular, a objetiva e a platina. Repita o procedimento com outra lâmina. 
+ 
+3. PROCEDIMENTO FINAL DE SEGURANÇA  
+ 
+Desligue  o  microscópio.  Umedeça  o  algodão com  álcool  etílico  e  limpe  a  platina  do 
+microscópio. Descarte  o  algodão.  Umedeça  o  cotonete  com  a  solução  de  limpeza e 
+limpe as oculares.  
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi observado no  experimento associando, também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que são as Cleu cell ou Células guias? 
+ 
+ 
+ 
+2. O que a sua presença no epitélio significa?  
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave  as  mãos  clicando  com  o  botão  esquerdo do  mouse na  torneira e  passe  o  mouse 
+sobre água. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Higienize  a  bancada clicando  com  o  botão  esquerdo  do  mouse  na pisseta  contendo 
+hipoclorito. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Passe o papel toalha sobre a bancada clicando com o botão esquerdo do mouse sobre 
+ele.  
+ 
+ 
+ 
+Higienize  a  bancada clicando  com  o  botão  esquerdo  do  mouse  na pisseta  contendo 
+álcool. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+2. VIZUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Visualize  o microscópio  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base lateral do equipamento. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize  o  microscópio  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Microscópio Frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o laminário clicando com o botão esquerdo sobre a sua tampa. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize o laminário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Laminário” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Selecione a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize  o  microscópio  clicando  com  o botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Microscópio Frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “Ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+ 
+Visualize  a  lâmina  na  objetiva  de  4,  10  e  40x  pressionando  com  o  botão  esquerdo  do 
+mouse sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Selecione  as  demais  lâminas  clicando  com  o  botão  esquerdo  do  mouse  na  lâmina. 
+Visualize  a  lâmina  na  objetiva  de  4x,  10x  e  40x. Atente-se  à  instrução  que,  para 
+movimentação do revólver ou para efetuar as configurações de posicionamento dos 
+parafusos,  deve-se  clicar  com  o  botão  esquerdo  do  mouse  sobre  a  área  desejada  e 
+movimentar o cursor do mouse para direita ou esquerda.  
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+3. PROCEDIMENTO FINAL DE SEGURANÇA 
+ 
+Visualize  o  microscópio  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Microscópio Esquerda” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Retire  a  lâmina  do  microscópio  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lâmina. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Leve os recipientes contendo álcool etílico e solução de limpeza para a bancada clicando 
+com o botão esquerdo do mouse sobre os frascos. 
+ 
+ 
+ 
+Umedeça o algodão com álcool etílico clicando com o botão esquerdo do mouse sobre 
+o algodão. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Realize  a  higienização  da  platina  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+algodão. 
+ 
+ 
+ 
+Descarte o algodão clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Umedeça  o  cotonete  com  a  solução  de  limpeza  clicando  com  o  botão  esquerdo  do 
+mouse sobre o cotonete. 
+ 
+ 
+ 
+Realize  a  higienização das oculares clicando  com  o  botão direito do  mouse  sobre  o 
+cotonete. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+Descarte o cotonete clicando com o botão esquerdo do mouse sobre o cotonete. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CITOPATOLOGIA  
+ANÁLISE MICROSCÓPICA: MICROBIOLOGIA – CLUE CELL (CÉLULA GUIA) 
+ 
+4.  AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

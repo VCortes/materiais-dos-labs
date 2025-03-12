@@ -1,0 +1,961 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento    você    irá aprimorar    seus    conhecimentos    sobre    a 
+determinação  do  calor  específico  de  sólidos  utilizando  amostras  de  ferro  e 
+alumínio. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança de precisão; 
+• Béquer de vidro de 250 mL; 
+• Bico de Bunsen; 
+• Calorímetro simples; 
+• Corpo de prova de alumínio; 
+• Corpo de prova de ferro; 
+• Jaleco; 
+• Óculos de proteção; 
+• Pisseta com água; 
+• Termômetro químico de líquido. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no  “Armário  de  EPIs”.  Nesse 
+experimento serão necessários jaleco e óculos de proteção. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+  
+2. PESANDO O VOLUME DA ÁGUA FRIA 
+ 
+Coloque o béquer vazio sobre a balança e pressione a função “TARA”. Retorne o béquer para 
+a  bancada  e,  em  seguida,  adicione  100  mL de  água  no  béquer.  Mova-o  novamente  para  a 
+balança. Anote o valor da massa (m
+1
+), adicionada, na Tabela 1. Finalize movendo-o de volta 
+para a bancada. 
+ 
+3. ADICIONANDO ÁGUA FRIA AO CALORÍMETRO 
+ 
+Despeje a água do béquer no calorímetro e agite o conteúdo. Utilize o termômetro para medir 
+a  temperatura  do  conjunto,  anotando  o  valor  (T
+1
+)  na  Tabela  1. Desligue  o  termômetro  e 
+descarte o conteúdo do calorímetro. 
+ 
+4. PESANDO O CORPO DE PROVA 
+ 
+Pressione a função “TARA” da balança vazia. Coloque o corpo de prova de ferro sobre ela e 
+anote o valor da sua massa (m
+2
+) na Tabela 1. 
+ 
+5. PREPARANDO A ÁGUA QUENTE 
+ 
+Adicione 150 mL de água ao béquer. Posicione o béquer no sistema de aquecimento e ligue o 
+bico de Bunsen para aquecer a água até a temperatura máxima recomendada. Acompanhe a 
+temperatura da água com o termômetro até a ebulição, em seguida, cesse o aquecimento e 
+retorne o béquer para a mesa. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+  
+6. AQUECENDO O CORPO DE PROVA 
+ 
+Coloque o corpo de prova de ferro dentro da água em ebulição. Aguarde até que o interior do 
+corpo de prova esteja em equilíbrio com a água em ebulição ou pule a etapa de espera. Anote 
+a temperatura (T
+2
+) de equilíbrio, na Tabela 1, do corpo de prova e a água em ebulição. 
+ 
+7. EXECUTANDO A TROCA TÉRMICA 
+ 
+Retire o corpo de prova do interior do béquer e coloque dentro do calorímetro. Agite o seu 
+conteúdo,  e  observe  a  temperatura  com  o  termômetro  até  que  ela  estabilize.  Anote  a 
+temperatura de equilíbrio (T
+3
+) na Tabela 1. Por fim, remova o corpo de prova do interior do 
+calorímetro. 
+ 
+8. REPETINDO COM O OUTRO CORPO DE PROVA 
+ 
+Descarte  o  conteúdo do calorímetro. Repita  os procedimentos  anteriores,  do tópico 2  ao 7, 
+com o corpo de prova de alumínio e complete a Tabela 1. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Complete a Tabela 1 abaixo com os dados obtidos no experimento. 
+Corpo de 
+prova 
+Massa 
+de água 
+(m
+1
+) (g) 
+Massa do 
+corpo de 
+prova (m
+2
+) (g) 
+Temperatura 
+calorímetro + 
+água (T
+1
+) (°C) 
+Temperatura 
+do corpo (T
+2
+) 
+(°C) 
+Temperatura 
+de equilíbrio 
+(T
+3
+) (°C) 
+Ferro      
+Alumínio      
+Tabela 1 – Valores coletados no experimento 
+ 
+ 
+ 
+2. Considerando que o calor liberado pelo corpo de prova deve ser igual ao calor 
+absorvido pela água e pelo calorímetro, calcule o calor específico do ferro e do 
+alumínio. 
+ 
+ 
+ 
+3. Compare   os valores   de   calor   específico   obtidos   no   experimento   com   os 
+tabelados.  Qual  foi  a  porcentagem  de  erro? (Dados: 푐
+퐴푙푢푚í푛푖표
+=0,22 
+푐푎푙
+푔.°C
+ , 
+푐
+퐹푒푟푟표
+=0,11 
+푐푎푙
+푔.°C
+ e 퐶
+퐶푎푙표푟í푚푒푡푟표
+=13,1 
+푐푎푙
+ °C
+). 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Avance a tela inicial clicando com o botão esquerdo do mouse sobre o botão “Começar”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Coloque os EPIs clicando com o botão direito do mouse sobre eles e selecione a opção 
+“Usar este item”. Nesse experimento serão necessários jaleco e óculos de proteção. 
+ 
+ 
+ 
+Feche as portas clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+2. PESANDO O VOLUME DA ÁGUA FRIA 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+ 
+Mova o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e selecione a 
+opção “Colocar na balança”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Retorne o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Colocar na mesa”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Mova  a  pisseta clicando  com  o  botão  direito do  mouse sobre  a  pisseta e selecione a 
+opção “Despejar no béquer”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  pisseta  e 
+mantenha pressionado. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Mova a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e selecione a 
+opção “Colocar na mesa”. 
+ 
+ 
+ 
+Mova o  béquer clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Colocar na balança”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”. 
+ 
+ 
+ 
+Anote o resultado e retorne o béquer clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+3. ADICIONANDO ÁGUA FRIA AO CALORÍMETRO 
+ 
+Visualize e anote a capacidade calorífica do calorímetro posicionando o cursor do mouse 
+sobre ele. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Despejar no calorímetro”. 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Agite o conteúdo clicando com o botão direito do mouse sobre o calorímetro e selecione 
+a opção “Agitar conteúdo”. 
+ 
+ 
+ 
+Aguarde por 30 segundos ou acelere o tempo clicando com o botão esquerdo do mouse 
+e arrastando para a direita no local indicado. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Meça  a  temperatura  clicando com  o  botão  direito  do  mouse  sobre  o  termômetro  e 
+selecione a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Registre o resultado encontrado. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Desligue o termômetro clicando com o botão direito do mouse sobre o ele e selecione 
+a opção “Desligar termômetro”. 
+ 
+ 
+ 
+Descarte  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o  calorímetro  e 
+selecione a opção “Descartar conteúdo”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+4. PESANDO O CORPO DE PROVA 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Mova o corpo de prova clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Colocar na balança”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Registre o valor encontrado e mova o corpo de prova clicando com o botão direito do 
+mouse sobre ele e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+5. PREPARANDO A ÁGUA QUENTE 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta e selecione a 
+opção “Despejar no béquer”. 
+ 
+ 
+ 
+Transfira  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  pisseta  e 
+mantenha pressionado. 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Mova a  pisseta clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Colocar na mesa”. 
+ 
+ 
+ 
+Mova o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Posicionar no sistema de aquecimento”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Acione  o  termômetro  clicando com  o  botão  direito  do  mouse  sobre ele e  selecione a 
+opção “Medir béquer”. 
+ 
+ 
+ 
+Ligue o sistema de aquecimento clicando com o botão direito do mouse sobre o bico de 
+Bunsen e selecione a opção “Ligar chama”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Aguarde  ou  acelere  o  tempo  clicando  com  o  botão  esquerdo  do  mouse  e  arrastando 
+para a direita no local indicado. 
+ 
+ 
+ 
+Desligue  a  chama  clicando com  o  botão  direito do  mouse sobre  o  bico  de  Bunsen  e 
+selecione a opção “Desligar chama”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Desligue o termômetro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Desligar termômetro”. 
+ 
+ 
+ 
+Retorne o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+6. AQUECENDO O CORPO DE PROVA 
+ 
+Mova o corpo de prova clicando com o botão direito do mouse sobre o corpo de prova 
+e selecione a opção “Colocar dentro do béquer”. 
+ 
+ 
+ 
+Aguarde por 3 minutos ou acelere o tempo clicando com o botão esquerdo do mouse 
+sobre o botão “Pular etapa de espera”. 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Meça  a  temperatura  clicando com  o  botão  direito  do  mouse  sobre  o  termômetro  e 
+selecione a opção “Medir béquer”. 
+ 
+ 
+ 
+Registre o valor encontrado. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+7. EXECUTANDO A TROCA TÉRMICA 
+ 
+Mova  o  corpo  de  prova  clicando com  o  botão  direito  do  mouse  sobre  o  béquer  e 
+selecione a opção “Remover corpo de prova”. 
+ 
+ 
+ 
+Mova o corpo de prova clicando com o botão direito do mouse sobre o corpo de prova 
+e selecione a opção “Colocar no calorímetro”. 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Agite  o  calorímetro  clicando com  o  botão  direito  do  mouse  sobre  o  calorímetro  e 
+selecione a opção “Agitar conteúdo”. 
+ 
+ 
+ 
+Aguarde  ou  acelere  o  tempo  clicando  com  o  botão  esquerdo  do  mouse  e  arrastando 
+para a direita no local indicado. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Meça  a  temperatura  clicando com  o  botão  direito  do  mouse  sobre  o  termômetro  e 
+selecione a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Registre o valor encontrado. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+Desligue o termômetro clicando com o botão direito do mouse sobre o ele e selecione 
+a opção “Desligar termômetro”. 
+ 
+ 
+ 
+Mova o corpo de prova clicando com o botão direito do mouse sobre o calorímetro e 
+selecione a opção “Remover corpo de prova”. 
+ 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+8. REPETINDO COM O OUTRO CORPO DE PROVA 
+ 
+Descarte  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  o calorímetro  e 
+selecione a opção “Descartar conteúdo”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, do tópico 2 ao 7, com o corpo de prova de alumínio 
+e registre os resultados. 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALOR ESPECÍFICO DE CORPOS SÓLIDOS 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

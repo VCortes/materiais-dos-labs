@@ -1,0 +1,892 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá aprender  como  utilizar  adequadamente  a  régua 
+graduada e como realizar medidas nas escalas do sistema métrico e do sistema 
+inglês com diferentes graduações. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado.  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Conjunto de blocos padrão no sistema métrico; 
+• conjunto de blocos padrão no sistema inglês; 
+• par de blocos protetores com dimensão de 2 mm; 
+• par de blocos protetores com dimensão de 0,5 mm; 
+• borrifador com óleo; 
+• borrifador com solvente; 
+• papel de limpeza; 
+• pano de camurça; 
+• régua graduada com resolução de 1 mm para a escala em milímetro e 1/32” para 
+a escala em polegada; 
+• régua graduada com resolução de 0,5 mm para a escala em milímetro e 1/64” 
+para a escala em polegada. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Inicialmente,  coloque  sobre  a  mesa  os  seguintes  materiais  disponíveis  no 
+“Armário de Ferramentas”:  maleta com blocos padrão no sistema métrico  e a 
+maleta com blocos protetores de espessura 2 mm. 
+ 
+3. SELECIONANDO OS BLOCOS PADRÃO MÉTRICOS 
+ 
+Utilize  a  ferramenta  de  gerar  medida  para  criar  uma  combinação  de blocos 
+padrão. Coloque os blocos indicados sobre o pano de camurça. Ponha também 
+os blocos protetores sobre o mesmo pano. 
+ 
+4. EMPILHANDO OS BLOCOS PADRÃO 
+ 
+Umedeça  o  pano  de  limpeza  com  solvente  e  limpe  os  blocos  padrão  e 
+protetores. Em seguida, empilhe os blocos iniciando com um bloco protetor e 
+terminando com outro. 
+ 
+5. MEDINDO COM RÉGUA NO SISTEMA MÉTRICO 
+ 
+Utilize a escala métrica da régua graduada que possui resolução de 1 mm para 
+mensurar a  dimensão dos  blocos empilhados. Depois,  refaça  o  procedimento 
+utilizando a escala com resolução de 0,05 mm. Utilize a ferramenta de verificar 
+para checar se a medida realizada corresponde à dimensão dos blocos. Anote os 
+valores medidos. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+6. ARMAZENANDO OS BLOCOS PADRÃO 
+ 
+Desmonte  a  pilha  de  blocos  padrão.  Depois,  troque  o  pano  por  outro  limpo, 
+umedeça-o com óleo e unte os blocos padrão e protetores antes de guardá-los 
+novamente  nas  maletas. Substitua  as  maletas  de  blocos  padrão  e  de  blocos 
+protetores  pelas  respectivas  no  sistema  inglês. Repita  o  procedimento  para 
+selecionar, limpar e empilhar os blocos. 
+ 
+7. MEDINDO COM RÉGUA NO SISTEMA INGLÊS 
+ 
+Utilize a escala em polegada da régua graduada que possui resolução de 1/32” 
+para   mensurar   a   dimensão   dos   blocos   empilhados. Depois,   refaça   o 
+procedimento utilizando a escala com resolução de 1/64”. Utilize a ferramenta 
+de  verificar  para  checar  se  a  medida  realizada  corresponde  à  dimensão  dos 
+blocos. Anote os valores medidos. 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Desmonte  a  pilha  de  blocos  padrão.  Depois,  troque  o  pano  por  outro  limpo, 
+umedeça-o com óleo e unte os blocos padrão e protetores antes de guardá-los 
+novamente   nas   maletas.   Coloque   as   maletas   de   volta   no   armário   de 
+ferramentas. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Faça uma tabela com os valores medidos em cada uma das escalas e analise quais 
+delas têm maior precisão. 
+ 
+ 
+ 
+2. Quais são os principais erros associados à essas medições? 
+ 
+ 
+ 
+3. Em sua experiência, entre as duas escalas métricas e as duas em polegadas, quais 
+delas apresentam maior facilidade de leitura da escala? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre ele. Nesse experimento, é obrigatório o uso de luvas. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize o armário de ferramentas clicando com o botão esquerdo do mouse na câmera 
+com o nome “Armário de Ferramentas (meio)” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra  o  armário  de ferramentas clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+portas. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Coloque a maleta com os blocos padrão no sistema métrico sobre a mesa clicando sobre 
+ela com o botão esquerdo do mouse. Ponha também a maleta com os blocos protetores 
+no sistema métrico sobre a mesa. 
+ 
+ 
+ 
+Visualize a parte de baixo do armário de ferramentas clicando com o botão esquerdo do 
+mouse na câmera com o nome “Armário de Ferramentas (baixo)” ou através do atalho 
+do teclado “Alt+6”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Coloque as duas réguas sobre a mesa clicando com o botão esquerdo do mouse sobre 
+elas. 
+ 
+ 
+ 
+Feche as portas do armário de ferramentas clicando com o botão esquerdo do mouse 
+sobre elas. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+3. SELECIONANDO OS BLOCOS PADRÃO MÉTRICOS 
+ 
+Visualize as maletas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Maletas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Clique  no  botão  “Gerar  Medida”  para  criar  uma  combinação  de  blocos  padrão. 
+A combinação criada aparecerá dentro do menu de medidas. 
+ 
+ 
+ 
+Abra as maletas clicando com o botão esquerdo do mouse sobre a tampa delas. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Coloque o cursor do mouse sobre os blocos padrão para verificar qual a numeração de 
+cada um deles. 
+ 
+ 
+ 
+Coloque os blocos indicados na combinação gerada sobre o pano de camurça clicando 
+com o botão direito do mouse sobre eles e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Clique no  ícone de “Medidas” com o botão esquerdo  do  mouse para ocultar o  menu. 
+Você pode clicar novamente sobre ele sempre que quiser para ver a combinação gerada. 
+ 
+ 
+ 
+Coloque os dois blocos protetores sobre o pano de camurça clicando com o botão direito 
+do mouse sobre eles e selecionando a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+4. EMPILHANDO OS BLOCOS PADRÃO  
+ 
+Visualize os blocos que estão sobre o pano de camurça clicando com o botão esquerdo 
+do  mouse na  câmera  com  o  nome “Mesa  (Limpeza)” ou  através do  atalho  do  teclado 
+“Alt+3”. 
+ 
+ 
+ 
+Borrife solvente sobre o pano de limpeza clicando com o botão direito do mouse sobre 
+o borrifador branco e selecionando a opção “Aplicar solvente”. 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Limpe os blocos padrão e os protetores que estão sobre a mesa clicando com o botão 
+direito do mouse sobre eles e selecionando a opção “Usar a flanela umedecida”. 
+ 
+ 
+ 
+Inicie  o processo  de  empilhamento  clicando  com  o  botão  direito  do  mouse  sobre  um 
+dos blocos protetores e selecionando a opção “Encaixar blocos padrão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Continue o processo de empilhamento clicando com o botão direito do mouse sobre os 
+outros  blocos padrão  e  selecionando  a  opção  “Encaixar  bloco  padrão”  até  que  sobre 
+apenas um bloco protetor sobre o pano. 
+ 
+ 
+ 
+Finalize o  processo  de  empilhamento  clicando  com  o  botão direito  do mouse  sobre  o 
+último bloco protetor e selecionando a opção “Encaixar blocos padrão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+5. MEDINDO COM RÉGUA NO SISTEMA MÉTRICO 
+ 
+Coloque os blocos deitados sobre o pano de camurça clicando com o botão direito do 
+mouse sobre eles e selecionando a opção “Posicionar para medição”. 
+ 
+ 
+ 
+Selecione a régua graduada com resolução de 1 mm para iniciar o processo de medição 
+clicando  com  o  botão  direito  mouse  sobre  ela e  selecionando  a  opção  “Medir  em 
+milímetros”. 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Visualize os  blocos  padrão  e a  régua  graduada que  estão  sobre  o  pano  de  camurça 
+clicando com o botão esquerdo do mouse na câmera com o nome “Medição” ou através 
+do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Para fazer a leitura do valor indicado na régua evitando erros de paralaxe, movimente a 
+câmera à esquerda e à direita pressionando com o botão esquerdo do mouse sobre os 
+botões com as setas no campo “Mover a câmera”. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Caso queira realizar algum ajuste no posicionamento da régua, movimente-a à esquerda 
+e à direita pressionando com o botão esquerdo do mouse sobre os botões com as setas 
+no campo “Mover a régua”. 
+ 
+ 
+ 
+Anote  o  valor  medido  e,  em  seguida,  coloque  a régua  de  volta  sobre a mesa  clicando 
+com o botão direito do mouse sobre ela e selecionando a opção “Devolver à mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Visualize as réguas graduadas que estão sobre a mesa clicando com o botão esquerdo 
+do  mouse na  câmera  com  o  nome “Mesa  (Limpeza)” ou  através do  atalho  do  teclado 
+“Alt+3”. 
+ 
+ 
+ 
+Selecione a  régua com resolução 0,5  mm para  iniciar  o processo de  medição  clicando 
+com o botão direito do mouse sobre ela e selecionando a opção “Medir em milímetros”. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Visualize os  blocos  padrão  e a  régua  graduada que  estão  sobre  o  pano  de  camurça 
+clicando com o botão esquerdo do mouse na câmera com o nome “Medição” ou através 
+do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Movimente a câmera e a régua mais uma vez para fazer a leitura da medida indicada na 
+régua. Anote esse valor. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse para exibir novamente 
+o menu. 
+ 
+ 
+ 
+Escreva a dimensão medida na caixa de resposta utilizando o ponto para separar as casas 
+decimais. Use o mesmo sistema de medida dos blocos, nesse caso, o sistema métrico. 
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Verifique se a medição está correta clicando com o botão esquerdo do mouse sobre o 
+botão “Verificar”. 
+ 
+ 
+ 
+Se  o  valor  não  estiver  correto,  repita  a  medição  e  tente  novamente.  Caso  seja 
+necessário, revise o processo de medição no resumo teórico. 
+Clique no ícone de “Medidas” com o botão esquerdo do mouse para ocultar o menu. 
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Coloque a régua graduada de volta sobre a mesa clicando com o botão direito do mouse 
+sobre ela e selecionando a opção “Devolver à mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+6. ARMAZENANDO OS BLOCOS PADRÃO 
+ 
+Coloque os blocos na posição vertical sobre o pano de camurça clicando com o botão 
+direito do mouse sobre eles e selecionando a opção “Suspender”. 
+ 
+ 
+ 
+Visualize os blocos que estão sobre o pano de camurça clicando com o botão esquerdo 
+do  mouse na  câmera  com  o  nome “Mesa  (Limpeza)” ou  através do  atalho  do  teclado 
+“Alt+3”. 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Desencaixe  os  blocos  padrão  clicando  com  o  botão direito  do  mouse  sobre  eles  e 
+selecionando  a  opção  “Desencaixar  bloco  padrão”.  Faça  esse  procedimento  com  os 
+blocos da equerda para a direita. 
+ 
+ 
+ 
+Substitua  o  pano  de  limpeza  por  outro  limpo  clicando  com  o  botão  direito  do  mouse 
+sobre ele e selecionando a opção “Trocar a flanela”. 
+ 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Borrife  óleo  sobre o  pano  de  limpeza  clicando  com  o  botão  direito  do  mouse  sobre o 
+borrifador amarelo e selecionando a opção “Aplicar óleo”. 
+ 
+ 
+ 
+Unte com óleo os blocos padrão e os protetores que estão sobre a mesa clicando com o 
+botão direito do mouse sobre eles e selecionando a opção “Usar a flanela umedecida”. 
+ 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Substitua  o  pano  de  limpeza  por  outro  limpo  clicando  com  o  botão  direito  do  mouse 
+sobre ele e selecionando a opção “Trocar a flanela”. 
+ 
+ 
+ 
+Guarde os blocos padrão e os protetores que estão sobre a mesa em suas respectivas 
+maletas  clicando  com  o  botão  direito  do  mouse  sobre  eles  e  selecionando  a  opção 
+“Mover para a maleta”. 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Visualize as maletas que estão sobre a mesa clicando com o botão esquerdo do mouse 
+na câmera com o nome “Maletas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Feche as maletas abertas clicando com o botão esquerdo do mouse sobre as tampas. 
+ 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+7. MEDINDO COM RÉGUA NO SISTEMA INGLÊS 
+ 
+Visualize o armário de ferramentas clicando com o botão esquerdo do mouse na câmera 
+com o nome “Armário de ferramentas (meio)” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Abra  o  armário  de ferramentas clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+portas. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+Substitua  as  duas  maletas  que  estão  sobre  a  mesa  com  os  blocos  padrão  no  sistema 
+métrico  pelas  duas  que  estão  no  armário  com  os  blocos  padrão  no  sistema  inglês 
+clicando com o botão esquerdo do mouse sobre estas. 
+ 
+ 
+ 
+Repita  os  procedimentos  executados  até  aqui,  porém  usando  as  duas  escalas  em 
+polegada, que possuem resolução de 1/32” de 1/64”. 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE METROLOGIA DIMENSIONAL 
+RÉGUA GRADUADA 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Ao  final  do  processo,  desencaixe  os  blocos  padrão,  unte-os  com óleo  e  guarde-os  de 
+volta em suas respectivas maletas. 
+ 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 
+1.6-TAC2_ESR1 

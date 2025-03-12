@@ -1,0 +1,670 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá aprender a utilizar vidrarias específicas do processo 
+de  decantação,  identificar  misturas  com  duas  fases  e  descrever  o  processo  de 
+separação por decantação. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bastão de vidro; 
+• Béquer de 100 mL; 
+• Funil de separação do tipo pêra de 125 mL; 
+• Jaleco; 
+• Luvas; 
+• Óleo; 
+• Pisseta contendo água destilada; 
+• Proveta de 50 mL; 
+• Suporte universal com argola. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPI’s”. Nesse 
+experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+  
+2. PREPARANDO O EXPERIMENTO 
+ 
+Mova o béquer de 100 mL, o funil de separação, a proveta, o bastão de vidro e a garrafa de 
+óleo para a bancada. Coloque o funil no suporte e retire a tampa dele. 
+ 
+3. PREPARANDO A MISTURA 
+ 
+Transfira 40 mL de água destilada para e proveta e, em seguida, transfira o conteúdo para o 
+béquer. Depois, despeje 30 mL de óleo na proveta e transfira para o béquer. Com auxílio do 
+bastão de vidro, misture o conteúdo do béquer e observe a mistura. 
+ 
+4. PREPARANDO A SEPARAÇÃO 
+ 
+Despeje o  conteúdo do béquer  no funil  e tampe-o.  Coloque  o béquer  abaixo  do  aparate de 
+decantação.  Controle  a  torneira  para  que  não  passe  óleo  por  ela.  Caso  escape  óleo  pela 
+torneira, repita o experimento. 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Remova os conteúdos do béquer e do funil. Por fim, guarde o óleo na prateleira e as vidrarias 
+nas gavetas e armário. Encerre o experimento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Com base nos seus conhecimentos, por que a água e o óleo não se misturam?  
+ 
+ 
+ 
+2. Quais são as densidades da água e do óleo? 
+ 
+ 
+ 
+3. Qual o   comportamento   da   mistura  dentro   do   funil  de   separação e   qual 
+substância ficou no funil? 
+ 
+ 
+ 
+4. Como você caracterizaria esta mistura com relação as fases? 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPI” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do  mouse  sobre  eles e  selecione  a  opção  “Usar  esse  item”.  Nesse  experimento,  é 
+obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Abra a gaveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova  o  funil  de  separação,  o  béquer  e  a  proveta  para  a mesa clicando com  o  botão 
+esquerdo do mouse sobre eles e selecione a opção “Colocar na mesa”.  
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Feche a gaveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Abra o armário clicando com o botão esquerdo do mouse sobre a porta.  
+ 
+ 
+ 
+Mova o bastão de vidro para a mesa clicando com o botão esquerdo do mouse sobre 
+ele e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Feche o armário clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Soluções” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Coloque a garrafa de óleo sobre a mesa clicando com o botão esquerdo do mouse sobre 
+ela e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Coloque o funil de separação no suporte clicando com o botão esquerdo do mouse sobre 
+ele e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Retire a tampa no funil clicando com o botão esquerdo do mouse sobre ele e selecione 
+a opção “Retirar tampa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+3. PREPARANDO A MISTURA 
+ 
+Transfira água destilada para a proveta clicando com o botão esquerdo do mouse sobre 
+a pisseta e selecione a opção “Colocar na proveta”.  
+ 
+ 
+ 
+Derrame o  conteúdo  da pisseta pressionando  com  o botão  esquerdo  do mouse  sobre 
+ela. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Retorne  para  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Retornar”. 
+ 
+ 
+ 
+Despeje  o conteúdo  da  proveta  no  béquer clicando com  o  botão  esquerdo  do  mouse 
+sobre ela e selecione a opção “Derramar no béquer”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Transfira o óleo para  a  proveta  clicando  com o botão  esquerdo  do  mouse  sobre ele e 
+selecione a opção “Colocar na proveta”. 
+ 
+ 
+ 
+Derrame  o  óleo  na  proveta pressionando  com  o  botão  esquerdo  do  mouse  sobre a 
+garrafa indicada. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Retorne  para  a mesa  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Retornar”. 
+ 
+ 
+ 
+Despeje  o conteúdo  da  proveta  no  béquer clicando com  o  botão  esquerdo  do  mouse 
+sobre a proveta com óleo e selecione a opção “Derramar no béquer”.  
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Misture o conteúdo do béquer clicando com o botão esquerdo do mouse sobre o bastão 
+de vidro e selecione a opção “Misturar conteúdo do béquer”. 
+ 
+ 
+ 
+Examine o conteúdo do béquer clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Examinar conteúdo”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Observe o béquer com a mistura e visualize a bancada clicando com o botão esquerdo 
+do mouse sobre o botão “Retornar”. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+4. PREPARANDO A SEPARAÇÃO 
+ 
+Despeje o conteúdo do béquer no funil clicando com o botão esquerdo do mouse sobre 
+ele e selecione a opção “Derramar no funil de separação”. 
+ 
+ 
+ 
+Coloque a tampa no funil clicando com o botão esquerdo mouse sobre ele e selecione a 
+opção “Colocar tampa”. 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Mova o béquer para baixo do funil clicando com o botão esquerdo do mouse sobre ele 
+e selecione a opção “Mover para baixo do funil”. 
+ 
+ 
+ 
+Visualize o suporte clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Controle  gradativamente a  abertura da torneira clicando  com  o botão  esquerdo  do 
+mouse sobre o local indicado e arraste para direita. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Remova o conteúdo do béquer clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Remover conteúdo”. 
+ 
+ 
+ 
+Coloque o béquer embaixo do funil clicando com o botão esquerdo do mouse sobre ele 
+e selecione a opção “Mover para baixo do funil”. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Abra totalmente a torneira do funil para retirar o óleo clicando com o botão esquerdo 
+do mouse sobre o local indicado e arraste para a direita. 
+ 
+ 
+ 
+Retorne  o  béquer  para  a  mesa clicando  com  o  botão  esquerdo  do  mouse  sobre  ele  e 
+selecione a opção “Voltar para a mesa”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+Remova o conteúdo do béquer clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Remover conteúdo”. 
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE UMA MISTURA HETEROGÊNEA - DECANTAÇÃO 
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

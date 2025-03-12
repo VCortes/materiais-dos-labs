@@ -1,0 +1,873 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá aprender  a  realizar  uma preparação  de glóbulos 
+homeopáticos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança; 
+• Béquer (50 mL); 
+• Estufa; 
+• Etiqueta; 
+• Frasco âmbar; 
+• Garrafa âmbar – Natrum muriaticum 30C; 
+• Glóbulos inertes; 
+• Micropipeta; 
+• Papel filtro. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. Para esse experimento será necessário a utilização do jaleco, luvas 
+e máscara. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+2. PESANDO O NATRUM MURIATICUM 
+ 
+Ligue  a balança.  Mova  o béquer  de  100  mL  para  a  balança.  Tare  a  balança.  Abra  a 
+tampa da embalagem contendo Glóbulos inertes e mova para a balança. Pese 24 g de 
+Glóbulos  inertes  no  béquer  de  100  mL,  utilizando  a  espátula. Mova  a  espátula  e  o 
+frasco com os glóbulos inertes para a bancada. Abra a frasco âmbar contendo Natrum 
+muriaticum  30  CH. Transfira o  Natrum  muriaticum 30  CH para  o  béquer  de  50  mL. 
+Mova o vidro de relógio e coloque acima do béquer de 50 mL. Ajuste a micropipeta 
+para  0,4 mL.  Mova  a  micropipeta  de  1  mL  para  o  béquer  contendo  Natrum 
+muriaticum.  Retire  o  vidro  de  relógio  do  béquer  e  coloque  na  bancada.  Coloque  a 
+pipeta dentro do béquer. Aspire 0,4 mL de Natrum muriaticum 30 CH. Mova o vidro 
+de relógio e coloque acima do béquer de 50 mL. Despeje o Natrum muriaticum 30 CH 
+no frasco contendo glóbulos inertes. Coloque a pipeta no suporte. Agite o frasco por 
+2 minutos. 
+ 
+3. IMPREGNANDO COM ETANOL 70% 
+ 
+Mova  a micropipeta  de 1  mL para  o  béquer  contendo Natrum  muriaticum.  Retire o 
+vidro de relógio do béquer e coloque na bancada. Coloque a pipeta dentro do béquer.  
+Aspire 1 mL de Natrum muriaticum 30 CH. Mova o vidro de relógio e coloque acima 
+do béquer de 50 mL. Despeje o Natrum muriaticum 30 CH no frasco contendo glóbulos 
+inertes. Coloque a pipeta no suporte. Agite o frasco por 2 minutos. 
+ 
+4. REALIZANDO A ÚLTIMA IMPREGNAÇÃO 
+ 
+Repita  os  procedimentos  anteriores,  aspire  1  mL  de  Natrum  muriaticum 30  CH, 
+despeje  o  Natrum  muriaticum  30  CH  no  frasco  contendo  glóbulos  inertes e  agite o 
+frasco por 2 minutos. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+  
+5. REALIZANDO O PROCESSO DE SECAGEM 
+ 
+Mova  o frasco  para  o  vidro  de  relógio. Coloque os  glóbulos  do  frasco  no  vidro  de 
+relógio. Ligue e abra a porta da estufa. Mova o vidro de relógio com glóbulos para a 
+estufa e feche a porta. 
+ 
+6. ENVASANDO OS GLÓBULOS HOMEOPÁTICOS 
+ 
+Mova o vidro de relógio com glóbulos secos para o frasco âmbar vazio. Transfira os 
+glóbulos  brancos para o  frasco  âmbar e  feche  o frasco.  Coloque  o rótulo  no  frasco 
+âmbar. 
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual principais  benefícios da  administração  de  medicamentos homeopáticos 
+proporcionam aos pacientes? 
+ 
+ 
+ 
+2. Cite   os   benefícios   do   uso   de   glóbulos   como   veículo   farmacêutico   de 
+medicamentos homeopáticos? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e máscara. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+2. PESANDO O NATRUM MURIATICUM 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova o béquer de 100 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a balança”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão de tara. 
+ 
+ 
+ 
+Abra o frasco contendo glóbulos inertes clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Abrir frasco”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova o frasco contendo glóbulos inertes clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Mover para a balança”. 
+ 
+ 
+ 
+Adicione 24  g  de glóbulos  inertes clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+espátula. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova o frasco com os glóbulos inertes clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Feche o frasco com glóbulos inertes clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Fechar frasco”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova o béquer de 100 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Desligue a balança clicando com o botão esquerdo do mouse sobre o botão de desligar. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova  o  frasco contendo  Natrum  muriaticum  30  CH clicando  com  o  botão  direito  do 
+mouse sobre ele e selecione a opção “Mover para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Adicione o Natrum muriaticum 30 CH clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Mova  o  frasco  contendo Natrum  muriaticum  30  CH clicando  com  o  botão  direito  do 
+mouse sobre ele e selecione a opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Ajuste o  volume  da  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 0.4 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ajustar”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 50 mL”. 
+ 
+ 
+ 
+Aspire a solução clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 100 mL”. 
+ 
+ 
+ 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Despeje a solução clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o suporte”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Agite o béquer de 100 mL por 2 minutos clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Agitar frasco”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+3. IMPREGNANDO COM ETANOL 70% 
+ 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 50 mL”. 
+ 
+ 
+ 
+Aspire  a  solução  do  béquer clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+micropipeta. 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 100 mL”. 
+ 
+ 
+ 
+Despeje a solução clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela e  selecione  a 
+opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Agite o béquer de 100 mL por 2 minutos clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Agitar frasco”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+4. REALIZANDO A ÚLTIMA IMPREGNAÇÃO 
+ 
+Mova  a  micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 50 mL”. 
+ 
+ 
+ 
+Aspire  a  solução  do  béquer clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+micropipeta. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a micropipeta clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o béquer 100 mL”. 
+ 
+ 
+ 
+Despeje a solução clicando com o botão esquerdo do mouse sobre a micropipeta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Agite o béquer de 100 mL por 2 minutos clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Agitar frasco”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+5. REALIZANDO O PROCESSO DE SECAGEM 
+ 
+Transfira o conteúdo do béquer de 100 mL clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Transferir para o vidro de relógio”. 
+ 
+ 
+ 
+Visualize a  estufa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Ligue  a  estufa e aguarde que ela atinja a  temperatura  ideal clicando  com  o  botão 
+esquerdo do mouse sobre o botão geral. 
+ 
+ 
+ 
+Abra a porta da estufa clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Mover para a estufa”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Feche a estufa e aguarde o tempo de secagem clicando com o botão esquerdo do mouse 
+sobre a porta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+6. ENVASANDO OS GLÓBULOS HOMEOPÁTICOS 
+ 
+Abra a porta da estufa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Armazene os glóbulos clicando com o botão esquerdo do mouse sobre o vidro de relógio 
+e selecione a opção “Transferir para o frasco”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Visualize a  estufa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Feche a porta da estufa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Tampe o frasco contendo os glóbulos clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Fechar frasco”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+Rotule o  frasco  clicando com  o  botão  direito  do mouse  sobre ele  e  selecione  a  opção 
+“Colocar rótulo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA 
+PREPARAÇÃO DE GLÓBULOS HOMEOPÁTICOS 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 

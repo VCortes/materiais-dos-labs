@@ -1,0 +1,343 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá utilizar  um  decibelímetro  para  coletar  dados  do 
+nível de potência sonora produzido por uma betoneira. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Decibelímetro; 
+• Computador; 
+• Canteiro de obras com betoneira. 
+ 
+PROCEDIMENTOS 
+ 
+1. CONFIGURANDO O DECIBELÍMETRO 
+ 
+Posicione  o decibelímetro  corretamente  para  a medição.  Configure  o  decibelímetro 
+para dBA-Slow e inicie a gravação.  
+ 
+2. ANALISANDO OS DADOS 
+ 
+Após  15  minutos  de  medição,  pare  a  gravação  e  realize  a  análise  dos  dados  no 
+computador, observando os níveis de potência sonora ao longo do tempo.  
+ 
+3. REPETINDO O EXPERIMENTO 
+ 
+Repita  o  experimento configurando  o  decibelímetro  com  os  parâmetros  dBC-Fast. 
+Analise no computador os dados obtidos. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+  
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a posição correta do decibelímetro para medir o ruído que o operador está 
+submetido? 
+ 
+ 
+ 
+2. Explique  a  diferença  entre  as  configurações  dBA-Slow  e  dBC-Fast  citando  um 
+exemplo de aplicação para cada uma. 
+ 
+ 
+ 
+3. Quais   foram   os   valores   médio,   mínimo   e   máximo   obtidos   para   cada 
+configuração? 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. CONFIGURANDO O DECIBELÍMETRO 
+ 
+Escolha a  posição  correta  para  o  decibelímetro clicando  com  o  botão  esquerdo  do 
+mouse sobre a opção de posição perto do operador. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+Caso deseje, aumente o brilho da tela do decibelímetro clicando com o botão esquerdo 
+do mouse sobre o botão representado pela lâmpada. 
+ 
+ 
+ 
+É  possível  alterar a  ponderação  de  frequência  entre  dBA  e  dBC  clicando  com  o  botão 
+esquerdo do mouse sobre o botão A/C. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+Também é possível alterar a frequência da aquisição de dados entre SLOW (a cada 1 s) 
+e FAST  (a  cada 125 ms) clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+FAST/SLOW. 
+ 
+ 
+ 
+Configure o decibelímetro para os parâmetros dBA e SLOW. 
+Inicie a gravação clicando com o botão esquerdo do mouse sobre o botão REC. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+ 
+2. ANALISANDO OS DADOS 
+ 
+Realize a medição por 15 minutos. Caso não deseje aguardar, avance a etapa de espera 
+clicando com o botão esquerdo do mouse sobre o botão “Avançar tempo”. 
+ 
+ 
+ 
+Pare a gravação clicando com o botão esquerdo do mouse sobre o botão REC. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+Realize a análise dos dados no computador clicando com o botão esquerdo do mouse 
+sobre o botão “Fazer análise no computador”. 
+ 
+ 
+ 
+Verifique os valores de níveis de potência obtidos no decibelímetro ao longo do tempo 
+clicando com o botão esquerdo do mouse sobre a linha vertical vermelha e arrastando-
+a horizontalmente. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EQUIPAMENTOS E INSTRUMENTOS DA SEGURANÇA DE TRABALHO 
+UTILIZAÇÃO DE DECIBELÍMETRO 
+Verifique também os valores da frequência de aquisição de dados em segundos (1) e do 
+nível de potência sonora médio (2), mínimo (3) e máximo (4). 
+ 
+ 
+ 
+ 
+3. REPETINDO O EXPERIMENTO 
+ 
+Repita  o  experimento  configurando  o  decibelímetro  com  os  parâmetros  dBC-Fast. 
+Analise no computador os dados obtidos. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+1 2 3 4 

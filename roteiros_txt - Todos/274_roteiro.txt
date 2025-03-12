@@ -1,0 +1,613 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    a 
+classificação, temporalidade e destinação de documentos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Documentos. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. 
+ 
+2. REALIZANDO O ARQUIVAMENTO DE DOCUMENTOS 
+ 
+Na   recepção, análise e,  com  base  na  tabela  “TABELA  DE  TEMPORALIDADE  E 
+DESTINAÇÃO   DE   DOCUMENTOS   RELATIVOS   ÀS   ATIVIDADES-MEIO   DO   PODER 
+EXECUTIVO FEDERAL” do CONARQ, classifique os documentos. Em seguida, ordene os 
+documentos  por  ordem  alfabética,  numérica  ou  geográfica.  Por  fim,  arquive  os 
+documentos. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+  
+3. INDICANDO A DESTINAÇÃO DAS PASTAS 
+ 
+Na  sala  de  recursos  humanos,  examine  a  data  e  o  conteúdo  das  pastas  com  os 
+documentos.    Após    isso,    decida   a    destinação    de    cada    uma    delas,    dentre 
+“Intermediário”,  “Corrente”  ou  “Eliminação”.  Em sequência,  examine  os  materiais 
+que estão sobre a mesa e aponte se eles são adequados para o uso dos documentos, 
+caso não seja, justifique. 
+ 
+4. PREENCHENDO AS FICHAS DO ARQUIVO INTERMEDIÁRIO 
+ 
+Na sala do arquivo intermediário, verifique as três caixas de documentos e preencha 
+a ficha referente a cada documento contido em cada uma delas. Utilize a “TABELA DE 
+TEMPORALIDADE E DESTINAÇÃO DE DOCUMENTOS RELATIVOS ÀS ATIVIDADES-MEIO 
+DO   PODER   EXECUTIVO   FEDERAL”   do   CONARQ   para   executar   essa   atividade. 
+Finalmente, gere o relatório das atividades executadas 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como é feita a classificação dos documentos do arquivo? 
+ 
+ 
+ 
+2. Explique  os  principais conceitos  sobre  a  temporalidade  de  documentos  de 
+arquivo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  em  uma  de  suas 
+portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Coloque os EPIs clicando com o botão esquerdo do mouse na touca, no jaleco, nas luvas, 
+na máscara e nos óculos. 
+ 
+ 
+ 
+Feche  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  em  uma  de  suas 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Visualize a recepção clicando com o botão esquerdo do mouse na câmera “Recepção” 
+do menu “Visualização” ou utilizando o atalho “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+2. REALIZANDO O ARQUIVAMENTO DE DOCUMENTOS 
+ 
+Verifique os arquivos clicando com o botão esquerdo do mouse na estante. 
+ 
+ 
+ 
+Analise  os  documentos  e  visualize  as  opções  de  classificação  clicando  com  o botão 
+esquerdo do mouse em “Classificação”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+De  acordo  com  a “TABELA  DE  TEMPORALIDADE  E  DESTINAÇÃO  DE  DOCUMENTOS 
+RELATIVOS   ÀS   ATIVIDADES-MEIO  DO  PODER  EXECUTIVO  FEDERAL”  do  CONARQ, 
+classifique os documentos clicando com o botão esquerdo do mouse no código correto 
+para cada documento. Classifique todos os documentos disponíveis. 
+ 
+ 
+ 
+Ordene os  documentos por ordem  alfabética,  numérica  ou  geográfica clicando  com  o 
+botão  esquerdo  do  mouse  em  “Organizar”  e  selecionando  uma  das  opções  de 
+ordenação com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Arquive os documentos clicando com o botão esquerdo do mouse em “Confirmar”, em 
+seguida, feche a janela de verificação dos documentos clicando com o botão esquerdo 
+do mouse no “X” destacado em vermelho. 
+ 
+ 
+ 
+Visualize  a  sala de  recursos  humanos  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Recursos Humanos” do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+3. INDICANDO A DESTINAÇÃO DAS PASTAS 
+ 
+Verifique  a  pastas  com  os  documentos  clicando  com  o  botão  esquerdo  do mouse  em 
+uma das estantes de sala de recursos humanos. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Observe lista com as datas e as pastas de documento. Indique a destinação de cada 
+uma delas clicando com o botão esquerdo do mouse em “Destinação” e escolhendo 
+entre “Corrente”, “Intermediário” e “Eliminação” com o botão esquerdo do mouse. 
+Decida a destinação de cada pasta da lista. 
+ 
+ 
+ 
+Confirme as escolhas feitas clicando com o botão esquerdo do mouse em “Confirmar” 
+e, em seguida, feche a janela das pastas clicando com o botão esquerdo do mouse no 
+“X” destacado em vermelho. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Visualize os objetos sobre a mesa clicando com o botão esquerdo do mouse na mesa. 
+ 
+ 
+ 
+Examine os objetos e identifique se eles são adequados para serem utilizados com os 
+documentos. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Visualize  a  sala  de recursos  humanos  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Recursos Humanos” do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+ 
+Abra a pergunta clicando com o botão direito do mouse sobre a mesa. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Responda à pergunta clicando com o botão esquerdo do mouse na caixa de resposta e 
+digite a sua resposta através do teclado do seu computador. 
+ 
+ 
+ 
+Confirme a resposta clicando com o botão esquerdo do mouse em “Confirmar” e feche 
+a janela da pergunta clicando com o botão esquerdo do mouse no “X” destacado em 
+vermelho. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Visualize a sala de arquivo intermediário clicando com o botão esquerdo do mouse em 
+“Arquivos Intermediários” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+4. PREENCHENDO AS FICHAS DO ARQUIVO 
+INTERMEDIÁRIO 
+ 
+Verifique  a  caixa  1  clicando  com  o  botão  esquerdo  do  mouse  na  primeira  estante  da 
+esquerda para a direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Preencha a tabela para cada documento clicando com o botão esquerdo do mouse em 
+cada um dos campos de entrada de dados e digitando as informações através do teclado 
+do   seu   computador. Utilize   a  “TABELA  DE  TEMPORALIDADE   E   DESTINAÇÃO   DE 
+DOCUMENTOS  RELATIVOS  ÀS  ATIVIDADES-MEIO  DO  PODER  EXECUTIVO  FEDERAL”  do 
+CONARQ para executar essa atividade 
+ 
+ 
+ 
+Confirme  o  preenchimento  da  tabela clicando  com  o  botão  esquerdo  do  mouse  em 
+“Confirmar” e, em seguida, feche a caixa 1 clicando com o botão esquerdo do mouse no 
+“X” destacado em vermelho. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Verifique  a  caixa  2  clicando  com  o  botão  esquerdo  do  mouse  na  segunda  estante  da 
+esquerda para a direita. 
+ 
+ 
+ 
+Preencha a tabela para cada documento clicando com o botão esquerdo do mouse em 
+cada um dos campos de entrada de dados e digitando as informações através do teclado 
+do   seu   computador. Utilize   a  “TABELA   DE   TEMPORALIDADE   E   DESTINAÇÃO   DE 
+DOCUMENTOS  RELATIVOS  ÀS  ATIVIDADES-MEIO  DO  PODER  EXECUTIVO  FEDERAL”  do 
+CONARQ para executar essa atividade 
+ 
+ 
+ 
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Confirme  o  preenchimento  da  tabela  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Confirmar” e, em seguida, feche a caixa 2 clicando com o botão esquerdo do mouse no 
+“X” destacado em vermelho. 
+ 
+ 
+ 
+Verifique  a  caixa  3  clicando  com  o  botão  esquerdo  do  mouse  na  terceira  estante  da 
+esquerda para a direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Preencha a tabela para cada documento clicando com o botão esquerdo do mouse em 
+cada um dos campos de entrada de dados e digitando as informações através do teclado 
+do   seu   computador. Utilize   a  “TABELA  DE  TEMPORALIDADE   E   DESTINAÇÃO   DE 
+DOCUMENTOS  RELATIVOS  ÀS  ATIVIDADES-MEIO  DO  PODER  EXECUTIVO  FEDERAL”  do 
+CONARQ para executar essa atividade 
+ 
+ 
+ 
+Confirme  o  preenchimento  da  tabela  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Confirmar” e, em seguida, feche a caixa 3 clicando com o botão esquerdo do mouse no 
+“X” destacado em vermelho. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+Gere um relatório das atividades executadas clicando com o botão esquerdo do mouse 
+no botão indicado abaixo. 
+ 
+ 
+ 
+Faça o download do relatório para o seu computador clicando com o botão esquerdo 
+do mouse em “Enviar”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ARQUIVOLOGIA 
+ARQUIVOS CORRENTES / ARQUIVOS INTERMEDIÁRIOS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

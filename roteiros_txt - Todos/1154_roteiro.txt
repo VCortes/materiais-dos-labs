@@ -1,0 +1,656 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender as técnicas e procedimentos para a coleta 
+do exame de Papanicolau. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Algodão; 
+• Borrifador; 
+• Câmera fotográfica; 
+• Jaleco; 
+• Lençol descartável; 
+• Luva de procedimento; 
+• Máscara; 
+• Notebook; 
+• Óculos; 
+• Prancheta; 
+• Sabonete facial. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco e luvas. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+  
+2. REALIZANDO A ANAMNESE 
+ 
+Chame o (a) paciente para entrar na sala de atendimento e realize a anamnese. Em seguida, 
+solicite que a paciente assine o termo de consentimento. 
+ 
+3. AVALIANDO A REGIÃO FACIAL 
+ 
+Forre a maca com lençol de papel, mova o (a) paciente para maca e aplique o sabonete facial 
+na  mão.  Limpe  a  pele  do  paciente  realizando  movimentos  circulares.  Umedeça  o  disco  de 
+algodão  com  o  borrifador  e  retire  a  espuma  do  sabão  com  o  disco de  algodão. Repita mais 
+uma vez as  etapas de  limpeza. Observe  o  rosto  do  (a)  paciente,  anote  as  disfunções 
+encontradas  na  ficha.  Após  isso,  posicione  o  paciente  na  área  de  fotografia  e  tire  a  foto  do 
+rosto do paciente. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são as causas do ressecamento da pele? 
+ 
+ 
+ 
+2. Quais são os graus da acne? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia”, 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir utilize o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs, clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre a porta. 
+ 
+ 
+ 
+Visualize  a  mesa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Convide a paciente para entrar clicando com o botão esquerdo do mouse em “Chamar 
+paciente”. 
+ 
+ 
+ 
+Realize a anamnese clicando com o botão esquerdo do mouse sobre a prancheta. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Visualize o prontuário clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Preencha os dados pessoais do paciente clicando com o botão esquerdo do mouse no 
+local indicado. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Questione o paciente sobre ter realizado procedimentos estéticos clicando com o botão 
+esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Preencha conforme a resposta do paciente clicando com o botão esquerdo do mouse 
+em uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Repita  os  procedimentos  anteriores, questione  o  paciente  sobre os  demais  hábitos 
+diários e preencha conforme a resposta. 
+ 
+ 
+ 
+Visualize  o  restante  do  prontuário  clicando  com  o  botão esquerdo  do  mouse  sobre  a 
+barra lateral e arrastando o mouse para baixo. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Após  realizar  todas  as  perguntas e  preencher  o  prontuário,  confirme  as  respostas 
+clicando com o botão esquerdo do mouse em “confirmar”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores, visualize  o  restante  do  prontuário, questione  o 
+paciente sobre o histórico clínico, preencha conforme a resposta e confirme a resposta. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Repita  os  procedimentos  anteriores, visualize  o  restante  do  prontuário, questione  o 
+paciente  sobre os tratamentos  da  medicina  estética,  preencha  conforme  a  resposta e 
+confirme a resposta. 
+ 
+ 
+ 
+Solicite que o paciente assine o termo de consentimento clicando com o botão esquerdo 
+do mouse em “assinar”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+3. AVALIANDO REGIÃO FACIAL 
+ 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Visualize  a maca clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Maca” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Forre a maca com o lençol de papel clicando com o botão esquerdo do mouse no lençol 
+de papel. 
+ 
+ 
+ 
+Visualize  a  mesa clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Mova a paciente para a maca clicando com o botão esquerdo do mouse na paciente. 
+ 
+ 
+ 
+Aplique sabonete  nas  mãos  clicando  com  o  botão  esquerdo  do mouse  no  sabonete 
+facial. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Aplique o sabonete clicando com o botão direito do mouse sobre as mãos e selecione a 
+opção “Aplicar sabonete”. 
+ 
+ 
+ 
+Umedeça o disco de algodão com o borrifador clicando com o botão esquerdo do mouse 
+no borrifador. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Retire  a  espuma  do  sabão  com  o  disco  de  algodão  clicando  com  o  botão direito  do 
+mouse sobre as mãos e selecione a opção “Retirar espuma da pele”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, realize a limpeza da pele mais uma vez, aplique o 
+sabonete facial e o retire a espuma da pele utilizando o disco de algodão. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Visualize  a maca clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Maca” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Observe o rosto da paciente clicando com o botão direito do mouse no rosto do paciente 
+e selecione a opção “Observar rosto”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Visualize o prontuário clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Visualize  o  restante  do  prontuário  clicando  com  o  botão  esquerdo  do  mouse sobre  a 
+barra lateral e arrastando o mouse para baixo. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Visualize a avaliação facial clicando com o botão esquerdo no mouse no local indicado. 
+ 
+ 
+ 
+Assinale as respostas, de acordo com o que foi observado da pele da paciente, clicando 
+com o botão esquerdo do mouse nas alternativas.  
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Repita  os  procedimentos  anteriores,  visualize  o  restante  do  prontuário  e  finalize 
+respondendo os demais itens. 
+ 
+ 
+ 
+Após  o  preenchimento do  prontuário, confirme  sua resposta clicando  com  o  botão 
+esquerdo do mouse em: “confirmar” 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Visualize  a maca clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Maca” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+Conduza a paciente para fotografia clicando com o botão esquerdo do mouse sobre a 
+paciente. 
+ 
+ 
+ 
+Tire a foto do rosto da paciente clicando com o botão esquerdo do mouse na câmera. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ASSISTÊNCIA DE ENFERMAGEM NA SAÚDE DA MULHER 
+COLETA DE PAPANICOLAU 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

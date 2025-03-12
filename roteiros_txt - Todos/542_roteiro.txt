@@ -1,0 +1,1069 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá determinar a capacidade térmica de um calorímetro 
+e o calor de neutralização (reação ácido-base). 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  + Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Acetanilida; 
+• Bastão de vidro; 
+• Béquer de 250 mL; 
+• Calorímetro; 
+• Pinça para béquer; 
+• Pisseta com água destilada; 
+• Placa de aquecimento; 
+• Proveta de 100 mL; 
+• Solução 1 N de HCl; 
+• Solução 1 N de NaOH; 
+• Termômetro com escala de até 100°C. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SELECIONE O EXPERIMENTO 
+ 
+Selecione a prática   desejada   entre:   (1)   Determinação   do   equivalente   em   água   e   (2) 
+Determinação do calor de neutralização. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos. Coloque  os equipamentos de  proteção  individual  no  “Armário  de  EPIs”. 
+Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de proteção e máscara.  
+ 
+3. DETERMINANDO O EQUIVALENTE EM ÁGUA 
+ 
+Mensure 100 mL de água destilada na proveta. Transfira a água da proveta para o calorímetro. 
+Feche o calorímetro. Com auxílio do termômetro, verifique a temperatura da água. 
+ 
+4. PREPARANDO A SUSPENSÃO 
+ 
+Mensure 100 mL de água destilada na proveta. Transfira a água da proveta para o béquer de 
+250 mL. Direcione o béquer para a chapa de aquecimento e coloque o termômetro dentro do 
+béquer. Ligue a chapa de aquecimento, e aqueça a água na chapa até atingir 60°C. Desligue a 
+chapa de aquecimento, retire o termômetro e mova o béquer para o calorímetro.  
+ 
+5. UTILIZANDO O CALORÍMETRO 
+ 
+Transfira a água do béquer para o calorímetro. Com auxílio do bastão de vidro, homogeneíze 
+a   solução  do   calorímetro.   Retire  o  bastão  de   vidro. Feche  o   calorímetro. Coloque   o 
+termômetro dentro do calorímetro e verifique a temperatura da água.  
+ 
+6. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos. Coloque  os equipamentos de  proteção  individual no  “Armário  de  EPIs”. 
+Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de proteção e máscara. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+ 
+ 
+  
+7. DETERMINANDO O CALOR DE NEUTRALIZAÇÃO 
+ 
+Mensure 100 mL de solução de NaOH na proveta. Transfira a proveta com solução de NaOH 
+para o calorímetro. Feche o calorímetro. Com auxílio do termômetro, verifique a temperatura 
+da solução.  
+ 
+8. UTILIZANDO O CALORÍMETRO 
+ 
+Mensure  100  mL  de  HCl  na  proveta.  Transfira  o  ácido  da  proveta  para  o  calorímetro. Com 
+auxílio do bastão de vidro, homogeneíze a solução do calorímetro. Retire o bastão de vidro. 
+Feche o calorímetro. Coloque o termômetro dentro do calorímetro e verifique a temperatura 
+da substância. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1.  Como ocorre uma reação de neutralização? 
+ 
+ 
+ 
+2. Destaque   os   possíveis   erros   experimentais   para   determinar   a   capacidade 
+calorífica. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONE O EXPERIMENTO 
+ 
+Escolha a prática a ser realizada clicando com o botão esquerdo do mouse sobre a opção 
+(1) Determinação do equivalente em água (ou capacidade calorífica) do calorímetro.  
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Higiene as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre cada uma das 
+suas portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize a bancada inicial clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+3. DETERMINANDO O EQUIVALENTE EM ÁGUA 
+ 
+Posicione  a  pisseta  sobre  a  proveta clicando  com  o  botão  direito  do  mouse  sobre  a 
+pisseta e selecione a opção “Colocar na proveta”. 
+ 
+ 
+ 
+Despeje a água destilada na proveta clicando com o botão esquerdo do mouse sobre a 
+pisseta. 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize a graduação clicando com o botão esquerdo do mouse sobre a proveta. Caso 
+necessário, ejete mais água destilada. 
+ 
+ 
+ 
+Retorne a pisseta para a bancada clicando com o botão direito do mouse sobre a pisseta 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Ponha a proveta próximo ao calorímetro clicando com o botão direito do mouse sobre 
+a proveta e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+ 
+Destampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Despeje a água da proveta no calorímetro clicando com o botão direito do mouse sobre 
+a proveta e selecione a opção “Despejar líquido”. 
+ 
+ 
+ 
+Tampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize  o  termômetro clicando  com  o  botão esquerdo  do  mouse  na  câmera  com  o 
+nome “Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova o  termômetro  clicando  com  o  botão  direito  do  mouse  sobre  ele e selecione a 
+opção “Colocar no calorímetro”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize a temperatura clicando com o botão esquerdo do mouse sobre o termômetro. 
+ 
+ 
+ 
+Retorne o termômetro para a bancada clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+4. PREPARANDO A SUSPENSÃO 
+ 
+Repita  os  procedimentos  anteriores,  meça 100  mL de  água  destilada  na  proveta e 
+transfira a água da proveta para o béquer. 
+ 
+ 
+ 
+Mova  o  béquer  para  chapa  de  aquecimento  clicando  com  o  botão direito do  mouse 
+sobre o béquer e selecione a opção “Colocar na chapa de aquecimento”. 
+ 
+ 
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Coloque o termômetro no béquer clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Colocar no béquer”. 
+ 
+ 
+ 
+Verifique a temperatura clicando com o botão esquerdo do mouse sobre o termômetro. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Ligue  o  aquecedor  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+temperatura do  equipamento. Aqueça o  líquido  até  60°C  monitorando  a  temperatura 
+na janela de exibição do termômetro. 
+ 
+ 
+ 
+Desligue  o  aquecedor  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  de 
+temperatura do equipamento. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Coloque o termômetro na bancada clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Pegue o béquer clicando com o botão esquerdo do mouse sobre a pinça. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Mova o béquer clicando com o botão direito do mouse no béquer e selecione a opção 
+“Colocar no calorímetro”. 
+ 
+ 
+ 
+Destampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+5. UTILIZANDO O CALORÍMETRO 
+ 
+Coloque o líquido do béquer no calorímetro clicando com o botão esquerdo do mouse 
+no béquer. 
+ 
+ 
+ 
+Retorne  o  béquer  para  a  bancada  clicando  com  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Retorne a pinça para a bancada clicando com o botão esquerdo mouse sobre ela. 
+ 
+ 
+ 
+Homogeneíze a água no calorímetro clicando com o botão esquerdo do mouse sobre o 
+bastão de vidro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Verifique  a  temperatura  da  água clicando  com  o  botão  direito  do  mouse  sobre  o 
+termômetro e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+ 
+Retire  o  termômetro  do  calorímetro  clicando  com  o  botão  direito  do  mouse sobre  o 
+termômetro e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Tampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+6. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize  as  opções clicando com  o  botão  esquerdo  do  mouse  sobre o  botão  da 
+engrenagem. 
+ 
+ 
+ 
+Reinicie o experimento para  ter  acesso  a  parte (2) clicando  com  o botão  esquerdo  do 
+mouse em “Reiniciar Experimento”. 
+ 
+ 
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Selecione  a  opção  2  “Determinação  do  calor  de  neutralização”  clicando  com  o  botão 
+esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Faça a higiene das mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre cada uma das 
+suas portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada inicial clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+7. DETERMINANDO O CALOR DE NEUTRALIZAÇÃO 
+ 
+Destampe o frasco contendo NaOH clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Despeje  NaOH  na  proveta  clicando  com  o  botão  direito  do  mouse  sobre  o  frasco 
+contendo a substância. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Tampe o frasco de NaOH clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque os 100 mL da solução de NaOH próxima ao calorímetro clicando com o botão 
+direito do mouse sobre a proveta e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Destampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Despeje  o  conteúdo  da  proveta  clicando  com  o  botão  direito  do  mouse  na  proveta  e 
+selecione a opção “Despejar líquido”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Tampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Retorne a proveta para a bancada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualize  o  termômetro clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Termômetro” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Coloque o termômetro no calorímetro clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Visualizr a  temperatura  da  solução  clicando  com  botão  esquerdo  do  mouse  no 
+termômetro. Observe a marcação do termômetro utilizando a janela de visualização do 
+termômetro. 
+ 
+ 
+ 
+Retorne o termômetro para a bancada clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+8. UTILIZANDO O CALORÍMETRO 
+ 
+Meça  100  ml  de HCl na  proveta  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+proveta e observando o nível da substância na janela de exibição aproximada da vidraria. 
+ 
+ 
+ 
+Tampe o frasco de HCl clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Coloque  os  100  mL  da  solução  de HCl próxima no calorímetro  clicando  com  o  botão 
+direito do mouse sobre a proveta e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+ 
+Destampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Despeje  o  conteúdo  da  proveta  clicando  com  o  botão  direito  do  mouse  na  proveta  e 
+selecione a opção “Despejar líquido”. 
+ 
+ 
+ 
+Tampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Retorne a proveta para a bancada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Visualize o bastão de vidro clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Homogeneíze as substâncias com o bastão de vidro clicando com o botão esquerdo do 
+mouse sobre ele. 
+ 
+ 
+ 
+Tampe o calorímetro clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+Coloque o termômetro no calorímetro clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Colocar no calorímetro”. 
+ 
+ 
+ 
+Visualize   a   temperatura   do   conteúdo   do   calorímetro   na   janela   de   exibição   do 
+termômetro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+DETERMINAÇÃO DA CAPACIDADE CALORÍFICA DO FRASCO DEWAR 
+E DETERMINAÇÃO DO CALOR DE NEUTRALIZAÇÃO DO NAOH (aq) 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

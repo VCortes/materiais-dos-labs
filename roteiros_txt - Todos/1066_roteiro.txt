@@ -1,0 +1,889 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprender  a extrair o óleo essencial de camomila 
+alemã utilizando o método de destilação a vapor. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada; 
+• Balão de fundo redondo (500 mL); 
+• Balão de fundo redondo de 3 bocas; 
+• Béquer 500 mL; 
+• Condensador; 
+• Conexão curva; 
+• Conexão em “U”; 
+• Curva de vidro; 
+• Flores de camomila; 
+• Funil de decantação; 
+• Garrafa âmbar; 
+• Gral; 
+• Manta de aquecimento; 
+• Pistilo; 
+• Proveta 100 mL; 
+• Recipiente com água fria; 
+• Termômetro. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no  “Armário de EPIs”. Para  esse experimento  será necessário  a utilização  do jaleco, 
+luvas, óculos e máscara. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Adicione 500 mL água destilada no balão de fundo redondo. Tampe o balão de fundo 
+redondo. Transfira as flores de camomila para o gral. Utilizando o pistilo, macere as 
+flores no gral. Mensure 100 mL de água destilada na proveta e transfira para o gral. 
+Utilizando o pistilo, misture o conteúdo do gral. Transfira o conteúdo do gral para o 
+balão de fundo redondo de 3 bocas e tampe as 3 bocas. 
+ 
+3. MONTANDO O SISTEMA DE DESTILAÇÃO 
+ 
+Prenda  o  condensador  no  suporte  universal  e  conecte  as  mangueiras. Encaixe  a 
+conexão curva de 3 vias e a conexão curva de vidro. Acople o funil de decantação na 
+extremidade final do condensador. Encaixe o balão de 3 bocas na conexão curva de 3 
+vias.  Posicione  o  balão de  fundo redondo no  suporte  universal e  conecte  o tubo  de 
+vidro  em  “U”  no  balão  de  fundo  redondo  e  no  balão  de  3  bocas.  Posicione  o 
+termômetro no balão de fundo redondo. Posicione o béquer dentro do recipiente com 
+água fria, abaixo do funil de decantação. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+  
+4. REALIZANDO A DESTILAÇÃO 
+ 
+Suba a plataforma elevatória e ligue a chapa de aquecimento. Abra a válvula da água 
+do  sistema  de  resfriamento  do  condensador.  Observe  o  processo  de  destilação. 
+Aguarde o extrato coletado no funil em repouso por 2 minutos. Abra a válvula do funil 
+de decantação e deixe a água escoar para o béquer. Após finalizar o escoamento da 
+água, fecha a válvula do funil. Retire o béquer do recipiente com água fria e mova o 
+frasco âmbar para o recipiente com água fria. Abra a válvula do funil e aguarde o óleo 
+escoar para o frasco. Retire o frasco do recipiente com água fria e tampe o recipiente. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais as utilidades dos óleos essenciais? 
+ 
+ 
+ 
+2. Como os óleos essenciais atuam em nosso corpo? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e 
+máscara. 
+ 
+ 
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Abra a tampa clicando com o botão esquerdo do mouse sobre o balão indicado. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para balão redondo”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Adicione água destilada clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Tampe  o  balão  de  fundo  redondo clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+balão indicado. 
+ 
+ 
+ 
+Transfira as flores de camomila clicando com o botão esquerdo do mouse sobre o vidro 
+de relógio indicado.  
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mova o pistilo clicando com o botão direito do mouse sobre o pistilo e selecione a opção 
+“Mover para gral”. 
+ 
+ 
+ 
+Macere  as  flores clicando  com  o  botão  direito  do  mouse  sobre  o  pistilo  e  selecione  a 
+opção “Macerar camomila”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mova o pistilo clicando com o botão direito do mouse sobre o pistilo e selecione a opção 
+“Mover para bancada”. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para proveta”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mensure 100 mL de água destilada clicando com o botão esquerdo do mouse sobre a 
+pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mova a proveta clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Mover para gral”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mova a proveta clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+Mova o pistilo clicando com o botão direito do mouse sobre o pistilo e selecione a opção 
+“Mover para gral”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Misture o conteúdo clicando com o botão direito do mouse sobre o pistilo e selecione a 
+opção “Misturar conteúdo”. 
+ 
+ 
+ 
+Mova o pistilo clicando com o botão direito do mouse sobre o pistilo e selecione a opção 
+“Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Abra a tampa clicando com o botão esquerdo do mouse sobre o balão de 3 bocas. 
+ 
+ 
+ 
+Mova o  gral clicando  com  o  botão  direito  do  mouse  sobre o  gral e  selecione  a  opção 
+“Mover para balão de 3 bocas”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Transfira o conteúdo do gral clicando com o botão esquerdo do mouse sobre o gral. 
+ 
+ 
+ 
+Mova o  gral clicando  com  o  botão  direito  do  mouse  sobre o  gral e  selecione  a  opção 
+“Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Tampe as 3 bocas clicando com o botão esquerdo do mouse sobre o balão de 3 bocas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+3. MONTANDO O SISTEMA DE DESTILAÇÃO 
+ 
+Encaixe o condensador clicando com o botão esquerdo do mouse sobre o condensador. 
+ 
+ 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Conecte as mangueiras clicando com o botão esquerdo do mouse sobre as mangueiras. 
+ 
+ 
+ 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Encaixe  a  conexão  curva  de  3 vias  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+conexão curva. 
+ 
+ 
+ 
+Encaixe  a  curva  de  vidro  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  curva  de 
+vidro. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Encaixe o funil de decantação clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Encaixe o balão de 3 bocas clicando com o botão direito do mouse sobre o balão de 3 
+bocas e selecione a opção “Encaixar no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize as vidrarias clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Posicione  o  balão  de  fundo  redondo clicando  com  o  botão  direito  do  mouse  sobre o 
+balão de fundo redondo e selecione a opção “Encaixar no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Conecte  o  tubo  de  vidro  em  “U” clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+conexão em “U”. 
+ 
+ 
+ 
+Posicione o termômetro clicando com o botão esquerdo do mouse sobre o termômetro. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize o recipiente com água fria clicando com o botão esquerdo do mouse na câmera 
+com o nome “Vidrarias” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  o  recipiente  com  água  fria  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+recipiente indicado. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Visualize  o  béquer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Vidrarias” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Posicione o béquer clicando com o botão esquerdo do mouse sobre o béquer. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+4. REALIZANDO A DESTILAÇÃO 
+ 
+Eleve a plataforma clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Ligue a chapa de aquecimento clicando com o botão esquerdo do mouse sobre a chapa 
+de aquecimento. 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Aguarde o processo de decantação clicando com o botão direito do mouse sobre o funil 
+e selecione a opção “Aguardar decantação”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Aguarde por 2 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Abra a válvula do funil clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Feche a válvula do funil clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Mova o béquer clicando  com  o  botão  direito  do  mouse  sobre o  béquer e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Abra a tampa clicando com o botão esquerdo do mouse sobre a garrafa âmbar indicada. 
+ 
+ 
+ 
+Mova a garrafa âmbar clicando com o botão direito do mouse sobre a garrafa âmbar e 
+selecione a opção “Mover para o funil”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Abra a válvula do funil clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+Feche a válvula clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+Mova a garrafa âmbar clicando com o botão direito do mouse sobre a garrafa âmbar e 
+selecione a opção “Mover para bancada”. 
+ 
+ 
+ 
+Tampe o recipiente clicando com o botão esquerdo do mouse sobre a garrafa âmbar. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE QUÍMICA ORGÂNICA 
+EXTRAÇÃO DO ÓLEO ESSENCIAL DA CAMOMILA ALEMÃ (MATRICARIA RECUTITA) 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

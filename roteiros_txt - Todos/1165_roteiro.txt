@@ -1,0 +1,1362 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre o processo de 
+sequenciamento de DNA. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra de DNA; 
+• Aparelho eletroforese capilar em gel; 
+• Caneta marcadora; 
+• Dideoxinucleotídeos; 
+• DNA polimerase; 
+• Micropipeta de 5 μL; 
+• Nucleotídeos; 
+• Primers F; 
+• Primers R; 
+• Recipiente de descarte; 
+• Termociclador; 
+• Tubo eppendorf. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, luvas, óculos e 
+máscara. 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Utilizando a caneta marcadora, identifique o primeiro tubo eppendorf com o número 1. Repita 
+o mesmo para os tubos 2, 3 e 4. 
+ 
+3. ADICIONANDO A AMOSTRA DE DNA 
+ 
+Abra os quatro tubos eppendorf. Ajuste o volume da micropipeta para 2 μL, em seguida, aspire 
+a amostra de DNA e transfira para o tubo 1. Repita o procedimento anterior para transferir a 
+amostra para os tubos 2, 3 e 4. Descarte a ponteira da micropipeta e retorne-a para o suporte. 
+Ligue o termociclador. Mova os tubos eppendorf para o equipamento e feche-o. Programe o 
+termociclador  para  aquecimento,  temperatura  95°C  por  30  segundos.  Aguarde  o  tempo  de 
+aquecimento encerrar, desligue o aparelho e retorne os tubos para o suporte. 
+ 
+4. ADICIONANDO OS PRIMERS 
+ 
+Ajuste  o  volume da  micropipeta para 1  μL.  Mova  a  micropipeta  para  o recipiente  contendo 
+primer  F,  aspire  1 μL  da  amostra  e  transfira  para  o  tubo  1.  Repita  o  procedimento  anterior 
+para adicionar o primer F aos tubos 2, 3 e 4. Depois, mova a micropipeta para o eppenderof 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+  
+contendo primer R, aspire 1 μL da amostra e transfira para o tubo 1. Repita o procedimento 
+anterior para adicionar o primer R aos tubos 2, 3 e 4. 
+ 
+5. ADICIONANDO A ENZIMA 
+ 
+Ajuste o volume da micropipeta para 2 μL. Aspire 2 μL da enzima DNA polimerase e transfira 
+para o tubo 1. Descarte a ponteira. Repita o procedimento anterior para adicionar a enzima 
+aos tubos 2, 3 e 4. Após isso, ligue o termociclador, mova os tubos para seu interior e feche o 
+equipamento.  Programe  o  termociclador  para  aquecimento,  temperatura  95°C  por  30 
+segundos. Aguarde o tempo de aquecimento encerrar, desligue o equipamento e retorne os 
+tubos para o suporte. 
+ 
+6. ADICIONANDO OS NUCLEOTÍDEOS 
+ 
+Ajuste o volume da micropipeta para 5 μL, aspire o nucleotídeo dATP do recipiente e transfira 
+para o tubo 1. Descarte a ponteira. Repita o procedimento anterior para adicionar o dATP aos 
+tubos 2, 3 e 4. Em  seguida,  repita  os passos  anteriores  para  adicionar 5μL  dos  nucleotídeos 
+dTTP, dGTP e dGTP aos quatro tubos.  
+ 
+7. ADICIONANDO OS DIDEOXINUCLEOTÍDEOS 
+ 
+Ajuste  o  volume  da  micropipeta  para  2  μL. Em  seguida,  aspire  2  μL  do  dideoxinucleotídeo 
+ddATP e  transfira  para  o  tubo  1.  Descarte  a  ponteira.  Repita  o  procedimento  anterior  para 
+adicionar o ddATP aos tubos 2, 3 e 4. Aspire 2 μL do dideoxinucleotídeo ddTTP e transfira para 
+o    tubo    1.    Descarte    a    ponteira.    Repita    os    passos    anteriores    para    adicionar    os 
+dideoxinucleotídeos ddCTP e ddGTP. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+  
+8. REALIZANDO A ANÁLISE 
+ 
+Mova  os  tubos  para  o  aparelho  de  eletroforese  capilar  em  gel.  Ligue  o  aparelho  e,  por  fim, 
+observe o resultado da análise. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  localizada  na  página  09 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique  por  qual  motivo  a  amostra  deve  passar  pelo  termociclador  e  ser 
+aquecida de antes de realizar a eletroforese. De que modo tal processo influência 
+no resultado?  
+ 
+ 
+ 
+2. Cite   as   aplicações   do  sequenciamento   de  DNA   no   campo  da   pesquisa  e 
+diagnóstico.  
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Identifique  os  tubos  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  caneta 
+marcadora. 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+3. ADICIONANDO A AMOSTRA DE DNA 
+ 
+Abra o tubo 1 clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita o procedimento anterior para abrir os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Abra  o  tubo  contendo  a  amostra  de  DNA  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Altere  o  volume para 2  μL clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. Confirme clicando 
+com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova  a  micropipeta  para  a  amostra  de  DNA  clicando  com  o  botão  direito  do  mouse 
+sobre ela e selecione a opção “Mover para amostra de DNA”. 
+ 
+ 
+ 
+Transfira o conteúdo para o eppendorf 1 clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para transferir a amostra para os tubos 2, 3 e 4. 
+ 
+ 
+ 
+Descarte  a  ponteira e  mova  a  micropipeta  para  o  suporte clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Abra o termociclador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Visualize  os  eppendorfs clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Eppendorfs” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Feche os tubos clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Mova o tubo 1 para o termociclador clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Mover para termociclador”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para mover os tubos 2, 3 e 4.  
+ 
+ 
+ 
+Feche o termociclador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Configure o termociclador clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Configurar”. 
+ 
+ 
+ 
+Programe o termociclador para temperatura 95°C por 30 segundos clicando com o botão 
+esquerdo do mouse sobre cada campo indicado e digite utilizando o teclado numérico 
+do seu computador. Confirme clicando com o botão esquerdo do mouse em “Aplicar”.  
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Inicie o aparelho clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Iniciar”. 
+ 
+ 
+ 
+Avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Abra o termociclador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  o  tubo  1  para  o  suporte  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para suporte”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para mover os tubos 2, 3 e 4 para o suporte. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+4. ADICIONANDO OS PRIMERS 
+ 
+Abra os tubos clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Altere o  volume para 1  μL clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. Confirme clicando 
+com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Abra o recipiente contendo o primer F clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Mova a micropipeta para o primer F clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover para primer F”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para transferir o primer F para os tubos 2, 3 e 4. 
+ 
+ 
+ 
+Abra o recipiente contendo o primer R clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o primer R clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover para primer R”. 
+ 
+ 
+ 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para transferir o primer R para os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+5. ADICIONANDO A ENZIMA 
+ 
+Visualize  os  eppendorfs clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Eppendorfs” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o eppendorf da DNA polimerase clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ajuste  o  volume  da micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Altere  o  volume  para 2  μL clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. Confirme clicando 
+com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+ 
+Mova a micropipeta para a enzima clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Mover para DNA polimerase”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para colocar a DNA polimerase nos tubos 2, 3 e 4. 
+ 
+ 
+ 
+Feche os tubos clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova o eppendorf 1 para o termociclador clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Mover para o termociclador”. 
+ 
+ 
+ 
+Repita o procedimento anterior para os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Feche o termociclador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Configure  o  aparelho  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Configurar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Programe o termociclador para temperatura 95°C por 30 segundos clicando com o botão 
+esquerdo do mouse sobre cada campo indicado e digite utilizando o teclado numérico 
+do seu computador. Confirme clicando com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+ 
+Inicie o aparelho clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Iniciar”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+Abra o termociclador clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova os tubos para o suporte clicando com o botão esquerdo do mouse sobre cada um 
+deles. 
+ 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+6. ADICIONANDO OS NUCLEOTÍDEOS 
+ 
+Abra os tubos clicando com o botão esquerdo do mouse sobre eles.  
+ 
+ 
+ 
+Abra os recipientes contendo os nucleotídeos clicando com o botão esquerdo do mouse 
+sobre cada um deles. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Altere  o  volume  para 5  μL clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. Confirme clicando 
+com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  nucleotídeo dATP  clicando  com  o botão direito  do  mouse 
+sobre ela e selecione a opção “Mover para dATP”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para os tubos 2, 3 e 4. 
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  nucleotídeo  dCTP  clicando  com  o  botão  direito  do  mouse 
+sobre ela e selecione a opção “Mover para dCTP”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para os tubos 2, 3 e 4. 
+ 
+ 
+ 
+Mova  a  micropipeta para  o nucleotídeo dGTP  clicando  com  o  botão  direito do  mouse 
+sobre ela e selecione a opção “Mover para dGTP”. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para os tubos 2, 3 e 4. 
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  nucleotídeo  dTTP  clicando  com  o  botão  direito  do  mouse 
+sobre ela e selecione a opção “Mover para dTTP”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+ 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+7. ADICIONANDO OS DIDEOXINUCLEOTÍDEOS 
+ 
+Abra os recipientes contendo os dideoxinucleotídeos clicando com o botão esquerdo do 
+mouse sobre cada um deles. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Ajustar volume”. 
+ 
+ 
+ 
+Altere  o  volume  para 2  μL clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. Confirme clicando 
+com o botão esquerdo do mouse em “Aplicar”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Mova a micropipeta para o dideoxinucleotídeo ddATP clicando com o botão direito do 
+mouse sobre ela e selecione a opção “Mover para ddATP”. 
+ 
+ 
+ 
+Mova a micropipeta para o eppendorf 1 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Mover para eppendorf 1”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Descarte  a  ponteira  e  mova  a  micropipeta  para  o  suporte  clicando  com  o  botão 
+esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os tubos 2, 3 e 4. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Repita os procedimentos anteriores para os demais dideocinucleotídeos (ddCTP, ddGTP 
+e ddTTP). 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+8. REALIZANDO A ANÁLISE 
+ 
+Visualize  os  eppendorfs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Eppendorfs” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Feche os tubos clicando com o botão esquerdo do mouse sobre cada um deles. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Visualize o aparelho de eletroforese clicando com o botão esquerdo do mouse sobre a 
+câmera com o nome “Aparelho de eletroforese” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Abra o aparelho clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Abrir/Fechar”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Visualize  os  eppendorfs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Eppendorfs” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova  os  tubos para  aparelho de  eletroforese  clicando  com  o botão  direito  do  mouse 
+sobre eles e selecione a opção “Mover para equipamento de eletroforese”. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Feche o aparelho clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Abrir/fechar”. 
+ 
+ 
+ 
+Ligue o aparelho clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Ligar”. 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+Analise a sequência clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Observe o resultado da análise. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR 
+SEQUENCIAMENTO 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

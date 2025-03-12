@@ -1,0 +1,1860 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  analisar  carboidratos  utilizando  o  método  Eynon-
+Lane,   determinando  os   açúcares   redutores   e   totais   em   uma   amostra   de 
+alimento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido clorídrico P.A.; 
+• Balança analítica; 
+• Balão volumétrico; 
+• Banho-maria; 
+• Barra magnética; 
+• Bastão de vidro; 
+• Béquer; 
+• Bureta; 
+• Chapa de aquecimento ou bico de Bunsen; 
+• Erlenmeyer; 
+• Funil; 
+• Glicose P.A.; 
+• Incubadora com agitação tipo shaker; 
+• Indicador azul de metileno P.A.; 
+• Papel filtro; 
+• Papel indicador vermelho congo; 
+• Pipetas volumétricas; 
+• Solução de acetato de zinco 1 M; 
+• Licor de Fehling; 
+• Solução de ferrocianeto de potássio 0,25 M; 
+• Solução de hidróxido de sódio 0,1 N e hidróxido de sódio 40% (p/v).  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no  “Armário de EPIs”. Para  esse experimento  será necessário  a utilização  do jaleco, 
+luvas e óculos. 
+ 
+2. EXTRAINDO O CARBOIDRATO 
+ 
+Pese 10 g de açúcar na placa de Petri, com auxílio do gral e da espátula. Transfira o 
+açúcar  para  um  béquer  de  500  mL e adicione  100  mL  de  água  destilada.  Coloque  o 
+béquer com a amostra na incubadora de agitação entre 100 e 150 rpm por três horas 
+a 30 °C. 
+ 
+3. CLARIFICANDO A AMOSTRA – SOLUÇÃO AR 
+ 
+Determine o pH da amostra colocando a fita indicadora de pH dentro do béquer, por 
+1  minuto,  com  a  solução  anterior.  Transfira  a  solução  do  béquer  para  um  balão 
+volumétrico de 250 mL, depois adicione 10 mL de solução de ferrocianeto de potássio 
+(0,25 M) e 10 mL de solução de acetato de zinco (1 M). Realize a homogeneização do 
+conteúdo evitando fazer espuma. Complete o volume do balão volumétrico com água 
+destilada  e  homogeneíze  a  solução  novamente.  Filtre  a  solução  contida  no  balão 
+volumétrico com auxílio do papel filtro e funil enquanto transfere para um béquer. O 
+filtrado é a solução AR. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+  
+4. CLARIFICANDO A AMOSTRA – SOLUÇÃO ART 
+ 
+Com auxílio da pipeta volumétrica, pipete 50 mL da solução AR e transfira para o balão 
+volumétrico.   Na   capela   de   exaustão,   adicione   5   mL   de   ácido   clorídrico   P.A., 
+mensurando na proveta. Mova para o banho-maria a 70 °C por dez minutos. Depois 
+resfrie  em banho  de  gelo  até  a  solução  atingir temperatura  ambiente.  Introduza  no 
+balão o papel indicador e neutralize com NaOH 40% até que o papel mude da cor azul 
+para  rosa-violeta.  Complete  o  volume  do  balão  volumétrico  com  água  destilada  e 
+homogeneíze. Essa é a solução ART usada para determinar açúcares redutores totais. 
+ 
+5. REALIZANDO TITULAÇÃO PADRÃO 
+ 
+Realize esse procedimento em triplicata. Preencha a bureta com a solução padrão de 
+glicose. Pipete 5 mL do Licor de Fehling em um Erlenmeyer de 250 mL e adicione 5 mL 
+de  água  destilada.  Aqueça o Licor  de  Fehling contido  no  Erlenmeyer  até  levantar 
+fervura utilizando  a  chapa de  aquecimento.  Em seguida,  adicione  três  gotas de  azul 
+de metileno.  Inicie  a  titulação  até  que  se observe  mudança de  coloração  vermelho-
+tijolo da solução contida no Erlenmeyer. 
+ 
+6. REALIZANDO TITULAÇÃO AR 
+ 
+Realize  esse  procedimento  em  triplicata.  Preencha  a  bureta  com  a  solução  AR  para 
+efetuar a titulação. Pipete 5 mL do Licor de Fehling em um Erlenmeyer de 250 mL e 
+adicione 5 mL de água destilada. Utilizando a chapa de aquecimento, aqueça o Licor 
+de Fehling contido  no  Erlenmeyer  até  levantar  fervura.  Em  seguida,  adicione  três 
+gotas de azul de metileno e inicie a titulação. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+  
+7. REALIZANDO TITULAÇÃO ART 
+ 
+Realize esse procedimento em triplicata. Preencha a bureta com a solução ART para 
+efetuar a titulação. Pipete 5 mL do Licor de Fehling em um Erlenmeyer de 250 mL e 
+adicione 5 mL de água destilada. Aqueça o Licor de Fehling contido no Erlenmeyer até 
+levantar fervura utilizando a chapa de aquecimento. Em seguida, adicione duas a três 
+gotas de azul de metileno e inicie a titulação. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique a importância da análise de carboidratos dos alimentos. 
+ 
+ 
+ 
+2. Calcule os  valores  percentuais  de açúcares  redutores  e  açúcares  redutores 
+totais da amostra, utilizando as equações apresentadas no sumário teórico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento e óculos de proteção. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+2. EXTRAINDO O CARBOIDRATO 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa de Petri e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova  o  gral  clicando  com  o  botão direito do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Pese 10 g de açúcar clicando com o botão esquerdo do mouse sobre a espátula de aço. 
+ 
+ 
+ 
+Mova  o  gral  clicando  com  o  botão  direito  do  mouse  sobre  o  gral  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa de Petri e 
+selecione a opção “Mover para o béquer 1”. 
+ 
+ 
+ 
+Adicione o açúcar clicando com o botão esquerdo do mouse sobre a espátula de aço. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a placa de Petri clicando com o botão direito do mouse sobre a placa de Petri e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Béquer 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para o béquer”. 
+ 
+ 
+ 
+Adicione 100 mL de água destilada clicando com o botão esquerdo do mouse sobre a 
+pisseta. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize a incubadora clicando com o botão esquerdo do mouse na câmera com o nome 
+“Incubadora de agitação” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Abra  a  incubadora  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  porta  da 
+incubadora. 
+ 
+ 
+ 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Configure a temperatura a 30 °C clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Selecione o  próximo  item  de  configuração clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Configure o tempo para 3 horas clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Selecione  o  próximo  item  de  configuração  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Configure a velocidade entre 100 e 150 rpm clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Visualize o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Béquer 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para a incubadora”. 
+ 
+ 
+ 
+Feche  a  incubadora  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  porta  da 
+incubadora. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra  a  incubadora  clicando  com  o botão  esquerdo  do  mouse  sobre  a  porta  da 
+incubadora. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+3. CLARIFICANDO A AMOSTRA – SOLUÇÃO AR 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Coloque a fita indicadora de pH clicando com o botão esquerdo do mouse sobre a fita 
+de pH. 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Transfira o conteúdo clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Transferir para o balão”. 
+ 
+ 
+ 
+Mova  a solução  de  ferrocianeto  de  potássio clicando  com  o  botão  direito  do  mouse 
+sobre a garrafa âmbar e selecione a opção “Mover para a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Adicione 10 mL ferrocianeto de potássio clicando com o botão esquerdo do mouse sobre 
+a garrafa âmbar. 
+ 
+ 
+ 
+Mova  a solução  de  ferrocianeto  de  potássio clicando  com  o  botão  direito  do  mouse 
+sobre a garrafa âmbar e selecione a opção “Mover para a prateleira”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para balão”. 
+ 
+ 
+ 
+Limpe a proveta clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Esvaziar”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a solução  de  acetato  de  zinco clicando  com  o  botão  direito  do  mouse  sobre  a 
+garrafa âmbar e selecione a opção “Mover para a proveta”. 
+ 
+ 
+ 
+Adicione 10  mL acetato  de  zinco clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+garrafa âmbar. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a solução  de  acetato  de  zinco clicando  com  o  botão direito  do  mouse  sobre  a 
+garrafa âmbar e selecione a opção “Mover para a prateleira”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para balão”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Realize a homogeneização do conteúdo clicando com o botão direito do mouse sobre o 
+balão e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Visualize a  pisseta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Béquer 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para o balão 1”. 
+ 
+ 
+ 
+Complete o volume com água destilada clicando com o botão esquerdo do mouse sobre 
+a pisseta. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Realize a homogeneização do conteúdo clicando com o botão direito do mouse sobre o 
+balão e selecione a opção “Homogeneizar”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Filtre a solução clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Filtrar”. 
+ 
+ 
+ 
+Visualize o filtrado clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte universal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+4. CLARIFICANDO A AMOSTRA – SOLUÇÃO ART 
+ 
+Gire  o  suporte  do  filtro  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  suporte 
+indicado. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para béquer”. 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Aspire 25 mL da solução AR clicando com o botão esquerdo do mouse no botão “S” e 
+pressione. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para balão”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Despeje a solução clicando com o botão esquerdo do mouse no botão “E” e pressione. 
+ 
+ 
+ 
+Repita os procedimentos anteriores e adicione mais 25 mL do conteúdo do béquer no 
+balão volumétrico. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para suporte”. 
+ 
+ 
+ 
+Visualize o balão 2 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte universal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova o balão clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Mover para a capela”. 
+ 
+ 
+ 
+Mova  a solução  de ácido  clorídrico clicando  com  o  botão  direito  do  mouse  sobre  a 
+garrafa âmbar e selecione a opção “Mover para a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Adicione  5  mL  de  ácido  clorídrico clicando  com  o  botão esquerdo  do  mouse  sobre  a 
+garrafa âmbar. 
+ 
+ 
+ 
+Mova  a solução  de ácido  clorídrico clicando  com  o  botão  direito  do  mouse  sobre  a 
+garrafa âmbar e selecione a opção “Mover para a capela”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para balão”. 
+ 
+ 
+ 
+Mova o balão clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Mover para o banho-maria”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Coloque a fita indicadora de pH clicando com o botão esquerdo do mouse sobre a fita 
+de pH. 
+ 
+ 
+ 
+Mova o funil clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Neutralize com NaOH clicando com o botão direito do mouse sobre a garrafa âmbar e 
+selecione a opção “Neutralizar solução no balão”. 
+ 
+ 
+ 
+Visualize a  pisseta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Béquer 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para o balão 2”. 
+ 
+ 
+ 
+Visualize o balão 2 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte universal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Complete o volume com água destilada clicando com o botão esquerdo do mouse sobre 
+a pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Realize a homogeneização do conteúdo clicando com o botão direito do mouse sobre o 
+balão e selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Visualize a bancada de titulação clicando com o botão esquerdo do mouse na câmera 
+com o nome “Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+5. REALIZANDO TITULAÇÃO PADRÃO 
+ 
+Adicione a  solução  padrão  de  glicose clicando  com  o  botão direito  do  mouse  sobre  o 
+balão e selecione a opção “Transferir para a bureta 1”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para a solução de Fehling”. 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Aspire  5  mL  da  solução clicando com o  botão  esquerdo  do  mouse  no  botão  “S” e 
+pressione. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o Erlenmeyer 1”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize o  Erlenmeyer clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Despeje a solução clicando com o botão esquerdo do mouse no botão “E” e pressione. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores, adicione 5  mL  da  solução  padrão  de  glicose nos 
+Erlenmeyer 2 e 3. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+ 
+Visualize a  pisseta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a proveta”. 
+ 
+ 
+ 
+Adicione  5  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para o Erlenmeyer 1”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita os procedimentos anteriores, adicione 5 mL de água destilada nos Erlenmeyer 2 
+e 3. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  1  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a chapa”. 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Ligue a chapa clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Adicione três gotas de azul de metileno clicando com o botão esquerdo do mouse sobre 
+o conta-gotas. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a torneira indicada. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita os procedimentos anteriores, adicione solução de padrão de glicose na bureta e 
+realize a titulação nos Erlenmeyer 2 e 3. 
+ 
+ 
+ 
+Limpe  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Remover conteúdo e limpar vidraria”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita o procedimento anterior e realize a limpeza dos Erlenmeyer 1 e 2. 
+ 
+ 
+ 
+Limpe  a  bureta  clicando  com  o  botão  direito  do  mouse  sobre  a  bureta  e  selecione  a 
+opção “Remover conteúdo e limpar vidraria”. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+6. REALIZANDO TITULAÇÃO AR 
+ 
+Visualize o filtrado AR clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte universal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o béquer clicando com o botão direito do mouse sobre o béquer 2 e selecione a 
+opção “Mover para a bancada de titulação”. 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a bancada de titulação clicando com o botão esquerdo do mouse na câmera 
+com o nome “Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Adicione a solução clicando com o botão direito do mouse sobre o béquer e selecione a 
+opção “Transferir para a bureta 1”. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para a solução de Fehling”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire  5  mL  da  solução clicando com o  botão  esquerdo  do  mouse  no  botão  “S” e 
+pressione. 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o Erlenmeyer 1”. 
+ 
+ 
+ 
+Visualize o  Erlenmeyer clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Despeje a solução clicando com o botão esquerdo do mouse no botão “E” e pressione. 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita  os  procedimentos  anteriores,  adicione  5  mL  da  solução  padrão  de  glicose nos 
+Erlenmeyer 2 e 3. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a  pisseta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a proveta”. 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Adicione  5  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+ 
+Mova  a  pisseta clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para o Erlenmeyer 1”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, adicione 5 mL de água destilada nos Erlenmeyer 2 
+e 3. 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  o  Erlenmeyer  1  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a chapa”. 
+ 
+ 
+ 
+Adicione três gotas de azul de metileno clicando com o botão esquerdo do mouse sobre 
+o conta-gotas. 
+ 
+ 
+  
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a torneira indicada. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita os procedimentos anteriores, adicione solução AR na bureta e realize a titulação 
+nos Erlenmeyer 2 e 3. 
+ 
+ 
+ 
+Limpe  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Remover conteúdo e limpar vidraria”. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita o procedimento anterior e realize a limpeza dos Erlenmeyer 1 e 2. 
+ 
+ 
+ 
+Limpe  a  bureta  clicando  com  o  botão  direito  do  mouse  sobre  a  bureta  e  selecione  a 
+opção “Remover conteúdo e limpar vidraria”. 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+7. REALIZANDO TITULAÇÃO ART 
+ 
+Visualize o  filtrado  ART clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Suporte universal” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o balão clicando com o botão direito do mouse sobre o balão e selecione a opção 
+“Mover para a bancada de titulação”. 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Adicione a solução ART clicando com o botão direito do mouse sobre o balão e selecione 
+a opção “Transferir para a bureta 1”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para a solução de Fehling”. 
+ 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Aspire  5  mL  da  solução clicando com o  botão  esquerdo  do  mouse  no  botão  “S” e 
+pressione. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o Erlenmeyer 1”. 
+ 
+ 
+  
+
+ 
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Visualize o  Erlenmeyer clicando  com  o botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão esquerdo do mouse sobre a pipeta e selecione a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+ 
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Despeje a solução clicando com o botão esquerdo do mouse no botão “E” e pressione. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  adicione  5  mL  da  solução  padrão  de  glicose nos 
+Erlenmeyer 2 e 3. 
+ 
+ 
+  
+
+ 
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Mover para o suporte”. 
+ 
+ 
+ 
+Visualize a  pisseta clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Bancada de titulação” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a proveta”. 
+ 
+ 
+ 
+Adicione  5  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+pisseta. 
+ 
+ 
+  
+
+ 
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a proveta e selecione 
+a opção “Transferir para o Erlenmeyer 1”. 
+ 
+  
+
+ 
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Repita os procedimentos anteriores, adicione 5 mL de água destilada nos Erlenmeyer 2 
+e 3. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  1  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a chapa”. 
+ 
+ 
+  
+
+ 
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Adicione três gotas de azul de metileno clicando com o botão esquerdo do mouse sobre 
+o conta-gotas. 
+ 
+ 
+ 
+Abra a torneira clicando com o botão esquerdo do mouse sobre a torneira indicada. 
+ 
+ 
+  
+
+ 
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, adicione solução ART na bureta e realize a titulação 
+nos Erlenmeyer 2 e 3. 
+ 
+ 
+  
+
+ 
+ 
+88 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISE DE ALIMENTOS 
+ANÁLISE DE CARBOIDRATOS 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

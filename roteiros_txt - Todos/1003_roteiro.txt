@@ -1,0 +1,921 @@
+
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá investigar a ocorrência de certas reações químicas 
+através  da  análise  de  evidências,  tais  como:  mudança  de  cor,  formação  de 
+precipitado, alteração de temperatura e liberação de gás. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao    finalizar    o    experimento, responda    aos    questionamentos    da    seção 
+“Avaliação de Resultados”.  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+ 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ATENÇÃO:  
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+ 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+ 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+ 
+4. Verifique se o seu navegador está atualizado; 
+ 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais.  Caso  elas  não se  apliquem  ao  seu  problema,  consulte a nossa 
+seção de “Perguntas Frequentes”, disponível em: https://cliente.grupoa.com.br. 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa central de suporte. Conte conosco! 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver 
+de vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer; 
+• Espátula de aço inox; 
+• Pipeta Pasteur; 
+• Tubos de ensaio; 
+• Magnésio metálico (Mg);  
+• Ácido ascórbico (C
+6
+H
+8
+O
+6)
+; 
+• Hidróxido de sódio (NaOH); 
+• Ácido clorídrico (HCl); 
+• Cloreto de sódio (NaCl); 
+• Dicromato de potássio (K
+2
+Cr
+2
+O
+7)
+; 
+• Nitrato de prata (AgNO
+3)
+. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Para  iniciar  qualquer  experimento  o  primeiro  passo  é sempre a  proteção 
+individual.   Para   isso,   coloque   os equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Prepare  a  capela de  exaustão abrindo  a  janela,  acendendo  a  luz  interna  e 
+ligando   o   exaustor.   Feito   isso,   coloque   todos   os   itens   necessários   ao 
+experimento, que se encontram no armário inferior, dentro da capela. 
+ 
+3. PROMOVENDO A PRIMEIRA REAÇÃO 
+ 
+Para iniciar, coloque o ácido clorídrico (HCl) no béquer 1 e pipete uma amostra 
+dessa  solução  para  colocar  tubo  de  ensaio  1.  Repita  o  processo  com  o  nitrato 
+de prata (AgNO
+3
+), adicionando ao béquer 2, e pipete uma amostra para colocar 
+no  tubo  de  ensaio  que  contém  a  solução  de  ácido  clorídrico. Promova  a 
+mistura e examine os resultados no tubo de ensaio. 
+Faça  a  limpeza  dos  materiais  para  prosseguir  com  a  prática,  mas  mantenha  a 
+mistura gerada no tubo de ensaio. 
+ 
+4. PROMOVENDO A SEGUNDA REAÇÃO 
+ 
+Destampe o pote de magnésio metálico (Mg
+(s)
+) e deposite uma amostra sobre 
+o  tubo  de  ensaio  2.  Coloque  o  ácido  clorídrico  no  béquer  1  e  pipete  uma 
+amostra dessa solução para colocar no tubo de ensaio que contém o magnésio 
+metálico. Promova a mistura e examine os resultados no tubo de ensaio. 
+Faça a limpeza dos materiais para prosseguir com a prática, mas mantenha as 
+misturas geradas nos tubos de ensaio. 
+ 
+5. PROMOVENDO A TERCEIRA REAÇÃO  
+ 
+Coloque o dicromato de potássio (K
+2
+Cr
+2
+O
+7
+) no béquer 1 e pipete uma amostra 
+dessa  solução  para  colocar  tubo  de  ensaio  3. Destampe  o  pote  de  ácido 
+ascórbico (C
+6
+H
+8
+O
+6
+) e deposite uma amostra sobre o mesmo tubo de ensaio que 
+contém  o  dicromato  de  potássio. Promova  a  mistura e  examine os  resultados 
+no tubo de ensaio. 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Faça a limpeza dos materiais para prosseguir com a prática, mas mantenha as 
+misturas geradas no tubo de ensaio. 
+ 
+ 
+Figura 1 - Ácido ascórbico 
+ 
+ 
+6. PROMOVENDO A QUARTA REAÇÃO 
+ 
+Coloque  o  ácido  clorídrico  no  béquer  1  e  pipete  uma  amostra  dessa solução 
+para  colocar  tubo  de  ensaio  4.  Repita  o  processo  com  o  hidróxido  de  sódio 
+(NaOH), adicionando ao béquer 2, e pipete uma amostra para colocar no tubo 
+de  ensaio  que  contém  a  solução  de  ácido  clorídrico. Promova  a  mistura e 
+examine os resultados no tubo de ensaio. 
+Faça  a  limpeza  dos  materiais  para  prosseguir  com  a  prática,  mas  mantenha  a 
+mistura gerada no tubo de ensaio. 
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  de  Resultados”,  neste  roteiro,  e  responda  de 
+acordo  com  o  que  foi  observado  nas  reações.  Caso  seja  necessário,  retorne a 
+câmera “Tubos de Ensaio” para auxiliar a avaliação dos resultados. 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados,  guarde-os  no  armário,  feche  a 
+janela da capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre 
+o experimento.   
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Pelos  resultados  encontrados,  em  todos  os  tubos  teve reação  química? 
+Justifique o motivo que o levou a essa conclusão.  
+ 
+ 
+2. Nos   tubos   que   ocorreram   reação,   qual   evidência macroscópica foi 
+marcante?  
+ 
+ 
+3. Pesquise as reações  ocorridas  e  descreva  abaixo  a equação química de 
+cada uma delas. Não se esqueça  de representar  os estados físicos de cada 
+reagente e de cada produto. 
+ 
+• Tubo de ensaio 1:  
+ 
+• Tudo de ensaio 2: 
+ 
+• Tubo de ensaio 3: 
+ 
+• Tubo de ensaio 4: 
+ 
+ 
+4. Na  questão  anterior  você  lembrou  de  balancear  as  equações?  Qual  a 
+importância do balanceamento?   
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Para  visualizar  o  armário  de  EPIs,  clique  com  o  botão  esquerdo  do  mouse  na  opção 
+“EPI”.  
+ 
+ 
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Em  seguida,  selecione os  EPIs  necessários  para  a  realização  do  experimento, clicando 
+sobre  os  mesmos  e  selecionando a opção “Usar este item”. Nesse  experimento  serão 
+necessários jaleco, luvas e máscara.  
+ 
+ 
+ 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPIs anteriormente 
+selecionados. Para  que  estes  retornem  ao  armário, clique  com  o  botão  esquerdo  do 
+mouse sobre  ele. O  não  uso  do  EPI ocasionará a  não  permissão  para  a  execução  do 
+experimento. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Para visualizar a capela de exaustão, acesse a câmera “Geral”. 
+ 
+ 
+ 
+Abra o vidro da capela, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Para   selecionar   os   materiais   necessários   para   o   experimento, acesse   a câmera 
+“Armário”. 
+ 
+ 
+ 
+Abra o vidro do armário, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Selecione  os  potes  de magnésio  metálico  e  ácido  ascórbico,  os  béqueres  de  50ml,  as 
+soluções  de  hidróxido  de  sódio,  ácido  clorídrico,  cloreto  de  sódio,  nitrato  de  prata  e 
+dicromato  de  potássio.  Coloque  sobre  a  mesa  os  tubos  de  ensaio,  a  pipeta  Pasteur  e 
+espátula de aço inox. Todos esses itens são selecionáveis através do mouse. 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Para acionamento da capela de exaustão, acesse a câmera “Painel”. 
+ 
+ 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  no  botão “ON” e no  interruptor  da luz  para 
+ligar o exaustor e a luz, respectivamente. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+5. PROMOVENDO A PRIMEIRA REAÇÃO 
+ 
+Para iniciar o experimento, acesse a câmera “Capela”.  
+ 
+ 
+ 
+Despeje uma amostra da solução de cloreto de sódio sobre o béquer 1, clicando com o 
+botão esquerdo do mouse na solução e selecionando a opção “Colocar no béquer 1”. 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje uma amostra da solução de nitrato de prata sobre o béquer 2, clicando com o 
+botão esquerdo do mouse na solução e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Succione  uma  amostra  do  conteúdo  do  béquer  1,  clicando  com  o  botão  esquerdo 
+mouse sobre a pipeta Pasteur e selecionando a opção “Succionar no béquer 1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje o conteúdo no tubo de ensaio 1, clicando com o botão direito sobre a pipeta e 
+selecionando a opção “Colocar no tubo de ensaio 1”. 
+ 
+ 
+ 
+Remova  os resíduos  da  pipeta  Pasteur, clicando com  o  botão  esquerdo  do  mouse 
+sobre ela e escolha a opção “Remover a solução e limpar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Succione  o  conteúdo  do  béquer  2,  clicando sobre  a  pipeta  com  o  botão  esquerdo  do 
+mouse sobre ela e selecionando a opção “Succionar béquer 2”. 
+ 
+ 
+ 
+Deposite  o  conteúdo  no  tubo  de  ensaio  1,  clicando  sobre a  pipeta  e selecionando  a 
+opção “Colocar no tubo de ensaio 1”. 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Promova  a  mistura,  clicando sobre  os  tubos  de  ensaio  e  selecionando a  opção 
+“Misturar tubo de ensaio 1”. Em seguida, faça a análise da reação de perto, acessando 
+a câmera “Tubos de Ensaio”. 
+ 
+ 
+ 
+Analise o tubo 1. Passe o mouse sobre o tubo para obter informações. 
+Retorne  para  a  câmera  “Capela”, remova  as  soluções  dos  béqueres e  os  resíduos  da 
+pipeta Pasteur, clicando sobre eles e selecionando as opções de limpeza. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+6. PROMOVENDO A SEGUNDA REAÇÃO 
+ 
+Permaneça na câmera “Capela” para realizar a 2º reação. 
+ 
+ 
+ 
+Destampe  o  pote  de  magnésio  metálico clicando com  o  botão  esquerdo sobre  ele  e 
+selecionando a opção “Destampar”. 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Deposite   o   magnésio   metálico   no   tudo   de   ensaio   2,   clicando sobre   o   pote   e 
+selecionando a opção “Depositar no tubo de ensaio 2”. 
+ 
+ 
+ 
+Despeje  uma  amostra  de ácido  clorídrico sobre  o  béquer  1,  clicando com  o botão 
+esquerdo do mouse sobre a solução e escolhendo a opção “Colocar no béquer 1”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Succione  o  conteúdo  do  béquer  1,  clicando  sobre  a  pipeta  com  o  botão  esquerdo  do 
+mouse. 
+ 
+ 
+ 
+Despeje o conteúdo sobre o tubo de ensaio 2, clicando sobre a pipeta e selecionando a 
+a opção “Colocar no tubo de ensaio 2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Promova  a  mistura,  clicando  sobre  os  tubos  de  ensaio  e  selecionando  a  opção 
+“Misturar tubo de ensaio 2”. Em seguida, faça a análise da reação de perto, acessando 
+a câmera “Tubos de Ensaio”. 
+ 
+ 
+ 
+Analise o tubo 2. Passe o mouse sobre o tubo para obter informações. 
+Retorne  para a câmera  “Capela”, remova  as  soluções  dos  béqueres e  os  resíduos  da 
+pipeta Pasteur, clicando sobre eles e selecionando as opções de limpeza. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+7. PROMOVENDO A TERCEIRA REAÇÃO 
+ 
+Permaneça na câmera “Capela” para realizar a 3º reação. 
+ 
+ 
+ 
+Para  iniciar  a 3º  reação,  despeje  o dicromato  de  potássio sobre  o  béquer  1,  clicando 
+sobre ele e selecionando a opção “Colocar no béquer 1”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Succione  o  conteúdo  do  béquer  1,  clicando sobre  a  pipeta  Pasteur  e  escolhendo a 
+opção “Succionar no béquer 1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  da  pipeta  Pasteur  sobre  o  tudo de  ensaio  3,  clicando  sobre  ela  e 
+selecionando a opção “Colocar no tubo de ensaio 3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Destampe  o  pote de  ácido  ascórbico, clicando sobre ele e  selecionando a  opção 
+“Destampar”. 
+ 
+ 
+ 
+Deposite uma amostra de ácido ascórbico no tubo de ensaio 3, clicando sobre o pote e 
+selecionando a opção “Depositar no tubo de ensaio 3”. Em seguida analise a reação de 
+perto, acessando a câmera “Tubos de ensaio”. 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Promova  a  mistura,  clicando  sobre  os  tubos  de  ensaio  e  selecionando  a  opção 
+“Misturar tubo de ensaio 3”. Em seguida, faça a análise da reação de perto, acessando 
+a câmera “Tubos de Ensaio”. 
+ 
+ 
+ 
+Analise o tubo 3. Passe o mouse sobre o tubo para obter informações. 
+Retorne  para  a  câmera  “Capela”, remova  as  soluções  dos  béqueres e  os  resíduos  da 
+pipeta Pasteur, clicando sobre eles e selecionando as opções de limpeza.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+8. PROMOVENDO A QUARTA REAÇÃO 
+ 
+Permaneça na câmera “Capela” para realizar a 4º reação. 
+ 
+ 
+ 
+Para  iniciar  a  4º  reação deposite  uma  amostra  de solução  de  ácido  clorídrico sobre  o 
+béquer 1, clicando sobre a solução e selecionando a opção “Colocar no béquer 1”.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje  uma  amostra  do hidróxido  de  sódio sobre  o  béquer2,  clicando  com  o  botão 
+esquerdo do mouse sobre a solução e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Succione  o  conteúdo  do  béquer   1 com  a   pipeta  Pasteur,  clicando  sobre  ela  e 
+selecionando a opção “Succionar do béquer 1”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Despeje  o  conteúdo  da  pipeta  Pasteur  sobre  o  tubo  de  ensaio  4,  clicando  sobre  ela  e 
+selecionando opção “Colocar no tubo de ensaio 4”. 
+ 
+ 
+ 
+Remova  os  resíduos da  pipeta  Pasteur,  clicando com  o  botão  esquerdo  do  mouse 
+sobre ela e selecionando a opção “Remover a solução e limpar”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Succione  o  conteúdo  do  béquer 2,  clicando sobre  a  pipeta Pasteur  e com  o  botão 
+esquerdo do mouse e selecionando a opção “Succionar no béquer 2”. 
+ 
+ 
+ 
+Despeje o conteúdo da pipeta Pasteur sobre o tudo 4, clicando sobre ela com o botão 
+esquerdo do mouse e selecionando a opção “Colocar no tubo de ensaio 4”. 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Promova  a  mistura,  clicando  sobre  os  tubos  de  ensaio  e  selecionando  a  opção 
+“Misturar tubo de ensaio 4”. Em seguida, faça a análise da reação de perto, acessando 
+a câmera “Tubos de Ensaio”. 
+ 
+ 
+ 
+Analise o tubo 4. Passe o mouse sobre o tubo para obter informações. 
+Retorne  para  a  câmera  “Capela”, remova  as  soluções  dos  béqueres e  os  resíduos  da 
+pipeta Pasteur, clicando sobre eles e selecionado as opções de limpeza. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+EVIDÊNCIAS EXPERIMENTAIS  
+DE UMA REAÇÃO QUÍMICA 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS PARA ENSINO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Após  finalizar  o  experimento,  siga  para  a  seção  “Avaliação de  Resultados”,  neste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  nas  reações.  Caso  seja 
+necessário, a câmera “Tubos de Ensaio” para auxiliar a avaliação dos resultados.  
+ 
+ 
+10. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados, guarde-os  no  armário,  feche  a  janela  da 
+capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre o experimento.   
+ 
+ 

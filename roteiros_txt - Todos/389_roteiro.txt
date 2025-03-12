@@ -1,0 +1,631 @@
+
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   realizar os   procedimentos   adequados   para 
+promover  contagem  global  de  leucócitos  em  amostra  de  sangue  utilizando 
+câmara  de  Neubauer.  Dessa  forma,  você  poderá  determinar  o  número  de 
+leucócitos  em  mm³  de  uma  amostra  de  sangue  com  câmara  de  Neubauer  e 
+realizar  diluição  adequada,  identificando  possíveis  interferências  na  contagem 
+leucocitária. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Câmara de Neubauer; 
+• Microscópio; 
+• Pipeta de 20 μL; 
+• Pipeta de 400 μL; 
+• Ponteiras; 
+• Solução diluidora; 
+• Tubo de coleta; 
+• Tubo de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção individual  localizados  no  “Armário  de  EPIs”.  Nesse 
+experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+2. DILUINDO A AMOSTRA 
+ 
+Dilua 20 μl  da  amostra  em  400 μl  da  solução  diluente  no  tubo  de  ensaio  e,  em  seguida 
+homogeneíze a solução. 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+  
+3. FIXANDO A AMOSTRA NA CÂMARA DE NEUBAUER 
+ 
+Preencha os  retículos  da  câmara  de  contagem  com  a  micropipeta.  Feito  isso,  coloque  a 
+lamínula aderida firmemente à câmara.  
+ 
+4. OBSERVANDO OS RESULTADOS 
+ 
+Mova a câmara de Neubauer para o microscópio. Execute todas os ajustes necessários para 
+visualização. Selecione a objetiva de 10x e 40x para contagem dos leucócitos em cada campo. 
+Anote a contagem manual de leucócitos. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Analisando  a  quantidade  global  de  leucócitos,  a  contagem  manual  realizada 
+apresentou como normal, aumentada ou diminuída? 
+ 
+ 
+ 
+2. O  que  espera  observar  quando  o  paciente  possui  leucocitose?  E  quando  o 
+paciente possui leucopenia? 
+ 
+ 
+ 
+3. Qual objetivo de realizar a contagem absoluta de leucócitos?  
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+2. DILUINDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova  a  micropipeta de 400  μL para  solução diluente  clicando com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar sobre a solução diluidora”. 
+ 
+ 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Pressione o êmbolo da pipeta clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque  a  micropipeta dentro  da  solução  diluidora  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar dentro da solução diluidora”. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Aspire  400  μL da  solução  diluente  clicando  com  o  botão  direito  do  mouse  sobre  o 
+êmbolo da pipeta. 
+ 
+ 
+ 
+Remova  a  micropipeta  da  solução  diluidora  clicando com o  botão  direito  do  mouse 
+sobre ela e selecione a opção “Remover da solução diluidora”. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Transfira a solução para o tubo de ensaio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Despreze o líquido no tubo de ensaio clicando com o botão esquerdo do mouse sobre o 
+êmbolo da micropipeta. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Mova a micropipeta para o suporte clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Mova  a  micropipeta  de  20  μl  para  o  tubo  de  coleta  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar sobre o tubo de coleta”. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Pressione o êmbolo da micropipeta clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque a micropipeta dentro do tubo de coleta clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Colocar dentro do tubo de coleta”. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Aspire  20 μl  da  amostra  de  sangue  clicando  com  o  botão  direito  do  mouse  sobre  o 
+êmbolo da micropipeta. 
+ 
+ 
+ 
+Remova a micropipeta do tubo de coleta clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Remover do tudo de coleta”. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Transfira a amostra para o tubo de ensaio clicando com o botão direito do mouse sobre 
+a micropipeta e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Despreze a amostra no tubo clicando com o botão esquerdo do mouse sobre o êmbolo 
+da pipeta. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Retorne a micropipeta para o suporte clicando com o botão direito do mouse sobre ela 
+e selecionando a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Homogeneíze o tubo de ensaio clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+3. FIXANDO AMOSTRA NA CÂMARA DE NEUBAUER 
+ 
+Mova  a  micropipeta  de  20  μL para  o  tubo  de  ensaio  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar sobre o tubo de ensaio”. 
+ 
+ 
+ 
+Aspire  20  μL da  amostra  clicando  com  o  botão  direito  do  mouse  sobre  o  êmbolo  da 
+pipeta.  
+ 
+ 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Mova a micropipeta para a câmara de Neubauer clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Colocar sobre Neubauer”. 
+ 
+ 
+ 
+Despreze a amostra na câmara de Neubauer clicando com o botão esquerdo do mouse 
+sobre o êmbolo da pipeta. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Retorne a micropipeta para o suporte clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Coloque a lamínula sobre a câmara de Neubauer clicando com o botão direito do mouse 
+sobre ela. 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+4. OBSERVANDO OS RESULTADOS 
+ 
+Mova a câmara  de  Neubauer  para o microscópio clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+ 
+Visualize o  microscópio  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Microscópio” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando  com  o 
+botão esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse em “Ver ocular”. 
+ 
+ 
+ 
+Realize as configurações necessárias no microscópio e observe as células na câmara de 
+Neubauer utilizando as objetivas de 10x e 40x. 
+ 
+ 
+ 
+  
+
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE LEUCÓCITOS 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+   
+ 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

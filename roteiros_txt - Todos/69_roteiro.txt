@@ -1,0 +1,352 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  poderá  posicionar  dois  ímãs  em  uma  mesa  que  contém 
+partículas  metálicas  que  se  orientam  de  acordo  com  o  campo  magnético 
+resultante. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Mesa projetável; 
+• Dois ímãs cilíndricos. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. OBSERVANDO A AÇÃO DO CAMPO MAGNÉTICO DO ÍMÃ 1 
+ 
+Posicione o ímã cilíndrico 1 sobre a mesa projetável. Desloque e rotacione o ímã 
+para  observar  como  o  campo  magnético  modifica  as posições  das  partículas 
+metálicas da mesa projetável. Retorne o ímã cilíndrico 1 para o  tampo  da 
+bancada. 
+ 
+2. OBSERVANDO A AÇÃO DO CAMPO MAGNÉTICO DO ÍMÃ 2 
+ 
+Posicione o ímã cilíndrico 2 sob a mesa projetável. Desloque e rotacione o ímã 
+para  observar como  o  campo  magnético  modifica  as  posições  das  partículas 
+metálicas da mesa projetável. Retorne o ímã cilíndrico 2 para o  tampo  da 
+bancada.  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+3. OBSERVANDO A INTERAÇÃO ENTRE OS DOIS ÍMÃS 
+ 
+Mova  os  ímãs  para  a  mesa  projetável  e  ajuste  suas  posições  para que  sejam 
+observadas as interações entre os ímãs permanentes em diferentes arranjos. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Repita  os  passos  anteriores  para  coletar  dados  e  observar  os  fenômenos 
+necessários  para  responder  as  questões da  seção  “Avaliação  de  Resultados”, 
+neste roteiro. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Posicione os ímãs de forma que os polos semelhantes estejam frente a frente, 
+conforme  a  figura  1.  Qual  o  tipo  de  interação  que  ocorre  entre  esses  polos? 
+Justifique.  
+ 
+Figura 1 – Posicionamento dos ímãs em relação à mesa projetável 
+ 
+ 
+2. Posicione  os  ímãs  de  forma  que  os  polos  opostos  estejam  frente  a  frente, 
+conforme  a  figura  2.  Qual  o  tipo  de  interação  que  ocorre  entre  esses  polos? 
+Justifique. 
+ 
+Figura 2 – Posicionamento dos ímãs em relação à mesa projetável 
+ 
+ 
+3. Posicione os ímãs em 3 arranjos distintos e faça um esboço das linhas de indução 
+magnéticas em cada um dos arranjos feitos. 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. OBSERVANDO A AÇÃO DO CAMPO MAGNÉTICO DO ÍMÃ 1 
+ 
+Coloque o ímã 1 sobre a mesa projetável, clicando com o botão direito do mouse sobre 
+o mesmo e selecionando a opção “Colocar sobre a mesa projetável”.  
+ 
+ 
+ 
+Visualize a mesa projetável, acessando a câmera “Mesa projetável”. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+Abra a janela de controle do ímã, clicando com o botão esquerdo do mouse sobre o ímã. 
+Utilize  os  botões  de  controle  para  deslocar  e  rotacionar  o  ímã,  observando  como  o 
+campo magnético modifica a posição das partículas metálicas da mesa. 
+  
+ 
+  
+Retorne o ímã para o tampo, clicando com o botão direito do mouse sobre o mesmo e 
+selecionando a opção “Colocar sobre o tampo”. 
+ 
+  
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+2. OBSERVANDO A AÇÃO DO CAMPO MAGNÉTICO DO ÍMÃ 2 
+ 
+Visualize a bancada, acessando a câmera “Visão geral”.  
+Coloque o ímã 2 sob a mesa projetável, clicando com o botão direito do mouse sobre o 
+mesmo e selecionando a opção “Colocar sob a mesa projetável”. 
+  
+ 
+Visualize a mesa projetável, acessando a câmera “Mesa projetável”.  
+Abra a janela de controle do ímã, clicando com o botão esquerdo do mouse sobre ele. 
+Utilize  os  botões  de  controle  para  deslocar  e  rotacionar  o  ímã,  observando  como  o 
+campo magnético modifica a posição das partículas metálicas da mesa. 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+Retorne o ímã para o tampo, clicando com o botão direito do mouse sobre o mesmo e 
+selecionando a opção “Colocar sobre o tampo”. 
+ 
+  
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+3. OBSERVANDO A INTERAÇÃO ENTRE OS DOIS ÍMÃS 
+ 
+Visualize a bancada, acessando a câmera “Visão geral”.  
+Mova os dois ímãs para a mesa projetável, clicando com o botão direito do mouse sobre 
+cada um e selecionando a opção adequada. 
+  
+ 
+Visualize a mesa projetável, acessando a câmera “Mesa projetável”. 
+Abra a janela de controle de cada ímã, clicando com o botão esquerdo do mouse sobre 
+eles. Utilize  os  botões  de  controle  para  deslocar  e  rotacionar  cada ímã,  observando 
+como os campos magnéticos modificam a posição das partículas metálicas da mesa. 
+  
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+INTERAÇÃO ENTRE DOIS ÍMÃS PERMANENTES 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Repita  os  passos  anteriores  para  coletar  dados  e observar  os  fenômenos  necessários 
+para responder as questões da seção “Avaliação de Resultados”, neste roteiro. 

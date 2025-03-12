@@ -1,0 +1,428 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   aprimorar   seus   conhecimentos   acerca   da 
+identificação de características de determinados minerais.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Hematita; 
+• Calcita; 
+• Galena; 
+• Magnetita; 
+• Placas de porcelana; 
+• Imã. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. 
+ 
+2. EXAMINANDO AS CARACTERÍSTICAS VISUAIS DOS MINERAIS 
+ 
+Inspecione as amostras dos minerais, identificando o hábito, a cor e o brilho de cada 
+um deles. 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+  
+3. ANALISANDO A COR DO TRAÇO  
+ 
+Passe cada um dos minerais sobre uma placa de porcelana, identificando a coloração 
+do traço obtido. 
+ 
+4. VERIFICANDO O MAGNETISMO 
+ 
+Pegue o imã, aproxime-o de cada elemento e verifique a reação de cada um deles. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Preencha a tabela abaixo de acordo com o que foi observado na avaliação das 
+características físicas dos minerais: 
+ 
+ Cor Hábito Brilho Cor do traço 
+Mineral 1     
+Mineral 2     
+Mineral 3     
+Mineral 4     
+Tabela 1 – Características Físicas dos Minerais 
+ 
+2. Preencha a tabela abaixo de acordo com o que foi observado na avaliação da cor 
+do traço dos minerais: 
+ 
+ Cor do traço 
+Mineral 1  
+Mineral 2  
+Mineral 3  
+Mineral 4  
+Tabela 2 – Cor do Traço dos Minerais 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+3. Preencha  a  tabela  abaixo  de  acordo  com  o  que  foi  observado  na  avaliação  da 
+propriedade magnética dos minerais: 
+ 
+ Magnetismo 
+Mineral 1  
+Mineral 2  
+Mineral 3  
+Mineral 4  
+Tabela 3 – Propriedades Magnéticas dos Minerais 
+ 
+ 
+4. Observe a tabela abaixo que apresenta as características físicas, de cor de traço 
+e magnéticas dos minerais.  
+Atenção: A ordem    apresentada    no    experimento    dos    minerais,    não 
+necessariamente corresponde a ordem apresentada na tabela. 
+ 
+ Cor Hábito Brilho Cor Do Traço Magnetismo 
+Hematita 
+Cinza 
+Escuro 
+Hexagonal Metálico Marrom Tijolo Não 
+Magnetita 
+Cinza 
+Metálico, 
+Prata, 
+Octaédrico 
+Metálico 
+Fosco 
+Preto Sim 
+Calcita Branco Cúbico Opaco 
+Incolor a 
+Esbranquiçada; 
+Não 
+Galena 
+Cinza 
+Metálico 
+Cúbico Metálico Cinza-Escuro Não 
+Tabela 4 - Resultados 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+Identifique cada um dos minerais de acordo com a ordem observada no experimento. 
+ 
+Mineral 1  
+Mineral 2  
+Mineral 3  
+Mineral 4  
+Tabela 5 – Identificação dos Minerais 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1” 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os  EPIs necessários  para  a  realização do  experimento  clicando com  o  botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+2. EXAMINANDO AS CARACTERÍSTICAS VISUAIS DOS 
+MINERAIS 
+ 
+Inspecione  as  amostras  dos  minerais  clicando  com  o  botão  esquerdo  do  mouse  no 
+mineral que deseja analisar e escolhendo a opção “Analisar Propriedades”. 
+ 
+ 
+ 
+ Identifique  o  hábito,  a  cor  e  o  brilho  do  mineral  selecionado.  Você  poderá  dar  zoom 
+com o scroll do mouse e rotacionar clicando com botão direto e arrastando. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+Para retornar a bancada, clique em “Retornar” no canto inferior esquerdo da tela. 
+ 
+ 
+ 
+Repita o procedimento para todos os minérios da bancada. 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+3. ANALISANDO A COR DO TRAÇO 
+ 
+Passe  cada  um  dos  minerais  sobre  uma  placa  de  porcelana clicando  com  o  botão 
+esquerdo do mouse no mineral e escolhendo a opção “Verificar Cor Traço”. Após isso, o 
+mineral  irá  fazer  um  traço  na  placa  de  porcelana.  Identifique  a  coloração  do  traço  na 
+porcelana. 
+ 
+ 
+Visualize o  traço  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Placas  de  porcelana”  localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+Repita o procedimento para todos os minérios da bancada. 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MINERALOGIA 
+IDENTIFICAÇÃO DE MINERAIS - PARÂMETROS VISUAIS 
+ 
+4. VERIFICANDO O MAGNETISMO 
+ 
+Aproxime o imã do primeiro minério clicando com botão direito do mouse sobre o imã 
+e escolhendo a opção “Testar minério 1”. 
+ 
+ 
+ 
+Repita o procedimento para os outros minérios e verifique a reação de cada um deles. 
+ 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 
+ 

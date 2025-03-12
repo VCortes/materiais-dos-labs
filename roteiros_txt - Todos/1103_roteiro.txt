@@ -1,0 +1,942 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender sobre a realização de um exame físico em 
+pacientes da enfermagem.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Caneta; 
+• Escala visual analógica; 
+• Esfigmomanômetro; 
+• Estetoscópio; 
+• Fita antropométrica; 
+• Prancheta; 
+• Termômetro. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento,  é  obrigatório  o  uso  de  jaleco  e touca. Higienize  as  mãos  na  pia  e  coloque  as 
+luvas. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+  
+2. REALIZANDO A ANAMNESE 
+ 
+Realize a anamnese do paciente e leia as informações na prancheta. Informe o paciente que 
+irá iniciar a avaliação do seu quadro geral de saúde. 
+ 
+3. REALIZANDO A TÉCNICA DE INSPEÇÃO 
+ 
+Solicite  ao  paciente  que  remova  a  camisa,  se  necessário  ajude-o.  Observe  o  abdome  do 
+paciente de um ângulo superior e de um ângulo lateral. Com auxílio da fita antropométrica, 
+meça a circunferência abdominal do paciente. Anote o resultado no prontuário do paciente e 
+guarde  a  fita. Verifique  a  temperatura  axilar  da  paciente,  com  o  termômetro. Observe  as 
+pernas  do  paciente e as  lesões.  Mostre  a  escala  visual  analógica  (EVA)  para  a  paciente  e 
+pergunte  o nível da  dor da  lesão. Preencha o  prontuário do paciente  com  as  características 
+observadas. 
+ 
+4. AFERINDO A FREQUÊNCIA CARDÍACA 
+ 
+Chame  o  paciente  e  posicione-o  na  maca. Solicite ao  paciente que apoie  o  braço  sobre  o 
+suporte e  pressione, levemente, os  dedos  sobre  a  artéria  radial  do  paciente.  Conte  a 
+quantidade de batimentos durante 60 segundos e anote o resultado do teste no prontuário. 
+ 
+5. AFERINDO A FREQUÊNCIA RESPIRATÓRIA 
+ 
+Pressione  novamente  os  dedos  sobre  a  artéria  radial  do  paciente. Acione  o  cronômetro  e 
+observe os movimentos de inspiração e expiração. Conte os movimentos respiratórios durante 
+60 segundos e anote o resultado do teste no prontuário. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+  
+6. AFERINDO A PRESSÃO ARTERIAL 
+ 
+Solicite ao paciente que estenda o braço esquerdo sobre a maca com a palma da mão voltada 
+para  cima.  Coloque  o  manguito  do  esfigmomanômetro  em  torno  do  braço  do  paciente  e 
+posicione  seus  dedos  no  pulso  dele.  Pressione  a pera  para  insuflar  o  manguito  até que  não 
+sinta mais o batimento do pulso. Posicione o estetoscópio abaixo do manguito no braço do 
+paciente e insufle o manguito até a marca de 30 mmHg acima do valor que está. Ausculte os 
+sons  através  do  estetoscópio.  Libere  a  pressão  abrindo  a  válvula  de  pressão  e  observe  a 
+pressão arterial sistólica (PAS) quando ouvir o primeiro som de batimento. Continue a deflação 
+e  observe  a  pressão  diastólica  (PAD)  quando  ouvir  o  último  som  de  batimento.  Remova  o 
+estetoscópio do braço do paciente e registre os valores encontrados no prontuário. 
+ 
+7. REALIZANDO A TÉCNICA DE PALPAÇÃO 
+ 
+Realize  a  palpação  superficial  do  abdome,  utilize  uma  mão  para  palpar  cada  um  dos  nove 
+quadrantes do  abdome. Realize  a  palpação profunda do abdome, utilize as  duas  mãos para 
+palpar de forma mais profunda cada um dos nove quadrantes. Anote o que foi observado do 
+teste no prontuário. 
+ 
+8. REALIZANDO A TÉCNICA DE PERCUSSÃO 
+ 
+Apoie a mão esquerda sobre um quadrante. Utilizando o dedo do meio da mão direita, toque 
+duas  vezes  sobre  o  dedo  do  meio  da  mão  esquerda.  Realize  essa  técnica  de  percussão  em 
+todos os quadrantes do abdome e anote o que foi observado do teste no prontuário. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+  
+9. REALIZANDO A TÉCNICA DE AUSCULTA 
+ 
+Mova o estetoscópio para o tórax do paciente. Posicione o diafragma do estetoscópio sobre o 
+tórax. Oriente o paciente a respirar profundamente com a boca levemente aberta e ausculte 
+(ouça)  os  sons de  um  ciclo  de  respiração  sobre  10  pontos. Registre  o  encontrado  no 
+prontuário. Posicione o diafragma no abdome do paciente e ausculte (ouça) os sons em cada 
+um dos quadrantes. Registre o encontrado no prontuário. Mova o estetoscópio para mesa. 
+ 
+10. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é avaliado na palpação? 
+ 
+ 
+ 
+2. Qual é o objetivo da percussão? 
+ 
+ 
+ 
+3. O que é a técnica de inspeção no exame físico? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e touca. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize  as  luvas clicando  com  o  botão  esquerdo  do mouse  na  câmera  com  o  nome 
+“Luvas” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Coloque as luvas clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a enfermaria clicando com o botão esquerdo do mouse na câmera com o nome 
+“Quarto Enfermaria” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+2. REALIZANDO A ANAMNESE 
+ 
+Visualize a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Pegue a prancheta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Leia as anotações e guarde a prancheta clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+3. REALIZANDO A TÉCNICA DE INSPEÇÃO 
+ 
+Inicie  o  exame  físico  clicando com  o  botão  esquerdo  do  mouse  em  “Realizar  Exame 
+Físico”. 
+ 
+ 
+ 
+Retire a camisa da paciente clicando com o botão esquerdo do mouse sobre a paciente. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Observe o abdome por cima clicando com o botão esquerdo do mouse sobre o abdome. 
+ 
+ 
+ 
+Observe o abdome pelo lado clicando com o botão esquerdo do mouse sobre o abdome. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Visualize a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque  a  fita  antropométrica  na  paciente  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a fita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Retire a fita da paciente clicando com o botão esquerdo do mouse sobre a fita. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+ 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o botão “X”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Visualize a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque o termômetro na paciente clicando com o botão esquerdo do mouse sobre o 
+termômetro. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Avance o tempo clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Retire  o  termômetro  da  paciente  clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+termômetro. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o prontuário clicando com o botão esquerdo do mouse no ícone “Prontuário”. 
+ 
+ 
+ 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Examine  as  pernas  da  paciente  clicando  com  o  botão  esquerdo  do  mouse  sobre as 
+pernas. 
+ 
+ 
+ 
+Visualize a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Mostre  o  quadro  para  a  paciente  clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+quadro. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+4. AFERINDO FREQUÊNCIA CARDÍACA 
+ 
+Meça a frequência cardíaca da paciente clicando com o botão esquerdo do mouse 
+sobre a mão. 
+ 
+ 
+ 
+Realize a contagem dos batimentos por 60 segundos. 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+ 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+5. AFERINDO FREQUÊNCIA RESPIRATÓRIA 
+ 
+Meça a frequência respiratória da paciente clicando com o botão esquerdo do mouse 
+sobre a mão. 
+ 
+ 
+ 
+Realize a contagem dos movimentos respiratórios durante 60 segundos. 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+ 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+6. AFERINDO A PRESSÃO ARTERIAL 
+ 
+Visualize o braço esquerdo clicando com o botão esquerdo do mouse na câmera com o 
+nome “Braço Esquerdo” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Peça para a paciente estender o braço clicando com o botão esquerdo do mouse sobre 
+o braço da paciente. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Aguarde por 5 minutos o repouso ou avance clicando com o botão esquerdo do mouse 
+sobre o local indicado. 
+ 
+ 
+ 
+Verifique a pressão arterial clicando com o botão esquerdo do mouse sobre o braço da 
+paciente. 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Observe o procedimento de verificar a pressão arterial. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+7. REALIZANDO A TÉCNICA DE PALPAÇÃO 
+ 
+Realize  a  palpação  superficial  do  abdome clicando  com  o  botão  esquerdo  do  mouse 
+sobre o abdome. 
+ 
+ 
+ 
+Realize a palpação profunda do abdome clicando com o botão esquerdo do mouse sobre 
+o abdome. 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+ 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+8. REALIZANDO A TÉCNICA DE PERCUSSÃO 
+ 
+Realize  a  técnica  de  percussão clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+abdome. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+9. REALIZANDO A TÉCNICA DE AUSCULTA 
+ 
+Mova o estetoscópio para o tórax do paciente e ausculte a respiração clicando com o 
+botão esquerdo do mouse sobre o abdome. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+ 
+Mova o estetoscópio para o abdome do paciente e ausculte a respiração clicando com 
+o botão esquerdo do mouse sobre o abdome. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+Abra o prontuário clicando com o botão esquerdo do mouse sobre o ícone “Prontuário”. 
+ 
+ 
+ 
+Anote o resultado clicando com o botão esquerdo do mouse sobre o campo indicado e 
+digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+EXAME FÍSICO 
+ 
+10. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

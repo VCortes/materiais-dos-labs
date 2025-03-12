@@ -1,0 +1,605 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta prática, você analisará a manipulará a viscosidade dos fluidos, utilizando o 
+método viscosímetro de Stokes.   
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cronômetro; 
+• Esferas; 
+• Tubos; 
+• Água; 
+• Óleo; 
+• Glicerina. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. COMPREENDENDO O FUNCIONAMENTO DA PRÁTICA 
+ 
+Para  dar  início  ao  laboratório  virtual  de  viscosímetro  de  Stokes,  é  necessário 
+explorar os principais recursos disponíveis.  
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+2. ENCONTRANDO A VELOCIDADE DE ESCOAMENTO 
+ 
+Para  encontrar  a  velocidade  de  escoamento  das esferas  metálicas  é necessário  que 
+sejam feitas  diversas  medidas  do  tempo  de  queda  entre  dois  pontos  conhecidos. 
+Acione  o  cronômetro.  Em  seguida,  mova  uma  das  esferas  para o  tubo  que  contém 
+água. Cronometre o tempo de queda e repita esse procedimento mais três vezes.  
+Em seguida, troque a esfera e repita o mesmo procedimento.  
+ 
+Tubo com Água 
+Diâmetro  
+da Esfera 
+Tempo de queda (s) 
+Média do Tempo 
+de queda (s) 
+Distância 
+Percorrida (m) 
+Velocidade 
+Média (m/s) 
+10 mm 
+       
+8 mm 
+       
+6 mm 
+       
+5 mm 
+       
+Tabela 1 - Dados experimentais da água. 
+ 
+Repita o procedimento nas outras tubulações contendo óleo e glicerina e preencha as 
+tabelas abaixo.  
+ 
+Tubo com Óleo 5W20 
+Diâmetro  
+da Esfera 
+Tempo de queda (s) 
+Média do Tempo 
+de queda (s) 
+Distância 
+Percorrida (m) 
+Velocidade 
+Média (m/s) 
+10 mm 
+       
+8 mm 
+       
+6 mm 
+       
+5 mm 
+       
+Tabela 2 - Dados experimentais do óleo 5W20. 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Tubo com Glicerina 
+Diâmetro  
+da Esfera 
+Tempo de queda (s) 
+Média do Tempo 
+de queda (s) 
+Distância 
+Percorrida (m) 
+Velocidade 
+Média (m/s) 
+10 mm 
+       
+8 mm 
+       
+6 mm 
+       
+5 mm 
+       
+Tabela 3 - Dados experimentais da glicerina. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+3. DETERMINANDO A VISCOSIDADE 
+ 
+Para  o  cálculo  da  viscosidade  dinâmica  neste  experimento,  deve  ser  utilizada  a 
+equação 9 do resumo teórico. Todos os dados necessários para aplicar esta equação, 
+além    daqueles    encontrados    nas tabelas preenchidas    anteriormente,    são 
+apresentados na lista abaixo: 
+• 휌푓푙푢푖푑표 (água) é de 1000 kg/m³; 
+• 휌푓푙푢푖푑표 (5w20) é de 852 kg/m³ 휌; 
+• 푓푙푢푖푑표 (glicerina) é de 1250 kg/m³; 
+•  휌푒푠푓푒푟푎 é de 7850 kg/m³; 
+• 푔 é de 9,81 m/s². 
+ 
+Os  valores  reais  da  viscosidade  cinemática  dos  fluidos  utilizados neste  experimento 
+são:  
+• A viscosidade cinemática da água é de 9,86×10
+−7
+ m²/s. 
+• A viscosidade cinemática do óleo 5W20 é de 5,05×10
+−5
+ m²/s. 
+• A viscosidade cinemática da glicerina é de 6,61×10
+−4
+ m²/s. 
+Sabendo  que  o  erro  relativo  percentual  pode  ser  encontrado  utilizando  a  seguinte 
+formula: 
+퐸푟푟표 푅푒푙푎푡푖푣표=
+푣푎푙표푟 푒푥푝푒푟푖푚푒푛푡푎푙−푣푎푙표푟 푟푒푎푙
+푣푎푙표푟 푟푒푎푙
+×100 
+ 
+Importante: Para realizar o cálculo da velocidade corrigida, apresentada na equação 
+8 do resumo teórico, é necessário saber o valor de R (raio interno do tubo), que no 
+caso deste laboratório virtual é de 22 milímetros. 
+ 
+Realize  o  cálculo  do  erro  relativo  percentual  para  cada  viscosidade  cinemática 
+encontrada e preencha a coluna adequada da tabela 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Fluido: Água 
+Diâmetro 
+da Esfera 
+Velocidade 
+Média 
+(m/s) 
+Velocidade 
+Corrigida 
+(m/s) 
+Viscosidade 
+Dinâmica 
+Viscosidade 
+Cinemática 
+Erro Relativo 
+Percentual 
+10 mm      
+8 mm      
+6 mm      
+5 mm      
+Tabela 4 - Dados para análise da água. 
+ 
+Repita  o  procedimento  da  etapa  de  determinação  da  viscosidade  para  preencher  a 
+tabela 5. 
+ 
+Fluido: 5w20 
+Diâmetro 
+da Esfera 
+Velocidade 
+Média 
+(m/s) 
+Velocidade 
+Corrigida 
+(m/s) 
+Viscosidade 
+Dinâmica 
+Viscosidade 
+Cinemática 
+Erro Relativo 
+Percentual 
+10 mm      
+8 mm      
+6 mm      
+5 mm      
+Tabela 5 - Dados para análise do óleo 5w20. 
+ 
+Repita  o  procedimento  da  etapa  de  determinação  da  viscosidade  para  preencher  a 
+tabela 6. 
+ 
+Fluido: Glicerina 
+Diâmetro 
+da Esfera 
+Velocidade 
+Média 
+(m/s) 
+Velocidade 
+Corrigida 
+(m/s) 
+Viscosidade 
+Dinâmica 
+Viscosidade 
+Cinemática 
+Erro Relativo 
+Percentual 
+10 mm      
+8 mm      
+6 mm      
+5 mm      
+Tabela 6 - Dados para análise da glicerina. 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 
+5. FINALIZANDO A PRÁTICA 
+ 
+Desabilite o cronômetro e assegure que todas as esferas estão na mesa.  
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Compare  os  valores  encontrados  para  a  viscosidade  cinemática  de  forma 
+experimental com o valor da viscosidade cinemática real. Os valores encontrados 
+da tabela 4, podem ser utilizados para representar a viscosidade cinemática da 
+água? Justifique. 
+ 
+ 
+2. Quais são as principais fontes de erros para este experimento? 
+ 
+ 
+3. Compare  os  valores  encontrados  para  a  viscosidade  cinemática  de  forma 
+experimental com o valor da viscosidade cinemática real. Os valores encontrados 
+da tabela 5, podem ser utilizados para representar a viscosidade cinemática da 
+água? Justifique. 
+ 
+ 
+4. Quais são as principais fontes de erros para este experimento? 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. COMPREENDENDO O FUNCIONAMENTO DA PRÁTICA 
+ 
+Utilize a barra de rolagem para realizar a leitura de todo o texto no guia, clicando em 
+“FECHAR” somente após a leitura. 
+ 
+ 
+Explore o menu de visualizações e teste cada uma das clicando com o botão esquerdo 
+do mouse sobre a câmera que deseja visualizar ou utilize atalhos no teclado.  
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Explore agora o menu com os objetos clicando com o botão esquerdo do mouse sobre 
+cada opção. Note que cada item selecionado ficará com sombreamento vermelho.  
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+2. ENCONTRANDO A VELOCIDADE DE ESCOAMENTO 
+ 
+Ligue o cronômetro clicando com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Explore o funcionamento do cronômetro clicando com o botão esquerdo do mouse no 
+botão esquerdo do cronômetro para iniciar/parar a contagem e no botão direito para 
+reiniciar a contagem exibida no display. Também é possível utilizar a tecla “Espaço” para 
+iniciar/parar a contagem. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Entenda  o  funcionamento  da  escala  de  tempo  do  cronômetro  clicando  com  o  botão 
+esquerdo do mouse sobre a escala. Esta ferramenta é disponibilizada neste laboratório 
+virtual  pois  alguns  dos  fenômenos  observados  durante  os  experimentos  podem  ser 
+muito rápidos, o que tornaria a obtenção de dados muito difícil. 
+ 
+ 
+ 
+Mova a esfera metálica de 10 mm para o tubo de água clicando com o botão do mouse 
+sobre ela e apertando a tecla “Q”.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Solte a esfera e cronometre o tempo de queda colocando o cursor do mouse sobre o 
+tubo com água e pressione simultaneamente as tecla “Q” e “ESPAÇO” do teclado.  
+ 
+ 
+ 
+Pare o cronometro pressionando a tecla “ESPAÇO” e anote o valor disponível no visor 
+do cronômetro.  
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+Eleve a esfera colocando o cursor do mouse sobre o tubo e pressionando a tecla “Q”. 
+Repita o procedimento de medição do tempo de queda mais três vezes, preenchendo 
+as medidas de tempo necessário para completar a coluna de tempo de queda para o 
+diâmetro da esfera que está sendo utilizada. A tabela que deve ser preenchida 
+encontra-se no item 2 desse roteiro.  
+ 
+ 
+ 
+Coloque a esfera na mesa colocando o cursor do mouse sobre o tubo e pressionando a 
+tecla “W”.  
+ 
+ 
+ 
+Repita o procedimento realizado nesta etapa para as esferas metálicas com diâmetro de 
+8, 6 e 5 mm, completando a tabela 1. Repita o procedimento realizado nesta etapa para 
+o tubo com água para os tubos com óleo 5W20 e com glicerina, preenchendo as tabelas 
+2 e 3. 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+VISCOSÍMETRO DE STOKES 
+ 
+3. DETERMINANDO A VISCOSIDADE 
+ 
+Volte  para  o  passo  3  do  procedimento  neste  roteiro  e  realize  os  cálculos  necessários 
+para determinar a viscosidade.  
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 
+ 
+5. FINALIZANDO A PRÁTICA 
+ 
+Desabilite o cronômetro e assegure que todas as esferas estão na mesa.  
+ 

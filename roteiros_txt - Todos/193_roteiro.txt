@@ -1,0 +1,402 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá estudar os  componentes  e  peças  das  instalações 
+hidrossanitárias de uma residência. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Hidrômetro taquimétrico; 
+• Coletor solar; 
+• Boiler; 
+• Tubulação de esgoto; 
+• Pia da área de serviço; 
+• Máquina de lavar roupas; 
+• Tubulação de água fria; 
+• Chuveiro; 
+• Misturador; 
+• Vaso acoplado; 
+• Pia do banheiro; 
+• Reservatório de água fria; 
+• Reservatório de água quente; 
+• Tubulação Aquatherm; 
+• Pia da cozinha. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O LABORATÓRIO 
+ 
+Antes de verificar as instalações hidrossanitárias no laboratório virtual, é necessário 
+que   você   reconheça   os   principais   recursos   da   bancada.   Nesta   etapa,   serão 
+apresentadas algumas ferramentas e funcionalidades deste laboratório. 
+ 
+2. INSPECIONANDO UMA PEÇA 
+ 
+Selecione   um componente das   instalações   e   isole-o.   Realize a   inspeção   do 
+componente, observando a descrição de cada uma das suas peças. Em seguida, realize 
+a  inspeção  das  peças  desse componente individualmente. Repita  esse  passo  para 
+inspecionar os outros componentes da instalação e suas peças. 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Cite  algumas  das  exigências  de  projeto  para instalações  prediais  de  água  fria, 
+segundo a norma NBR 5626 (ABNT, 1998). 
+ 
+ 
+ 
+2. Descreva  o  método  dos  pesos  relativos,  utilizado  para  o  dimensionamento  de 
+tubulações. 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. CONHECENDO O LABORATÓRIO 
+ 
+Na  tela  inicial,  é  possível  ver  a  Bancada  de  Instalações  Hidrossanitárias.  No  canto 
+superior esquerdo, é possível acessar as opções de câmera. Nelas, você pode visualizar 
+os componentes da bancada de forma mais detalhada.  
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+É possível mover a bancada horizontal e verticalmente clicando com o botão esquerdo 
+do mouse sobre as setas indicadas, ou pressionando o botão de rolagem e arrastando o 
+mouse. 
+ 
+ 
+ 
+Rotacione a  bancada  horizontal  e  verticalmente  clicando  com  o  botão  esquerdo  do 
+mouse sobre as setas indicadas, ou pressionando o botão direito e arrastando o mouse. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Aumente ou diminua o zoom clicando com o botão esquerdo do mouse sobre os ícones 
+das lupas, ou utilizando o botão de rolagem do mouse. 
+ 
+ 
+ 
+É  possível  centralizar  a  câmera  em um componente específico  clicando  com  o  botão 
+esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Centralize a câmera na bancada clicando com o botão esquerdo do mouse sobre o ícone 
+da câmera.  
+ 
+ 
+ 
+Verifique a descrição de cada componente das instalações passando o mouse por cima 
+do componente escolhido. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+ 
+2. INSPECIONANDO UMA PEÇA 
+ 
+Após  observar  a  bancada,  inspecione  um componente específico  das  instalações 
+clicando com o botão direito do mouse sobre o componente escolhido e selecionando 
+a opção “Inspecionar”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Perceba que o componente selecionado foi isolado dos demais. Utilize os comandos de 
+movimentação apresentados no Passo 1 para inspecionar o componente. 
+ 
+ 
+ 
+Verifique a descrição de cada peça do componente passando o cursor do mouse sobre 
+as peças. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Inspecione uma peça do componente clicando com o botão direito do mouse sobre ela 
+e selecionando a opção “Inspecionar”. 
+ 
+ 
+ 
+Perceba  que a  peça selecionada foi  isolada dos  demais. Utilize  os  comandos  de 
+movimentação apresentados no Passo 1 para inspecionar a peça. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Retorne  para a visualização  do componente clicando  com  o  botão  direito  do  mouse 
+sobre a peça e selecionando a opção “Retornar”. 
+ 
+ 
+ 
+Repita esse procedimento para inspecionar todos as peças do componente selecionado. 
+Retorne para a visualização da bancada clicando com o botão direito do mouse sobre o 
+componente e selecionando a opção “Retornar”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+INSTALAÇÕES HIDROSSANITÁRIAS 
+Repita  os  procedimentos  apresentados  nesse  passo  para  inspecionar  todos  os  outros 
+componentes da instalação e suas peças. 
+ 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+V 1.0.5 – AB1 

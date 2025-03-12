@@ -1,0 +1,626 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá criar  um  anúncio  publicitário  através  de  um 
+simulador do software Adobe Photoshop. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Simulador do software Adobe Photoshop. 
+ 
+  
+PROCEDIMENTOS 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Antes  de criar  o  anúncio  publicitário no  laboratório  virtual,  é  necessário  que  você 
+reconheça  os  principais  recursos  do  simulador.  Nesta  etapa, serão  apresentadas 
+algumas  funcionalidades  deste  laboratório,  permitindo  que  os  experimentos  sejam 
+realizados sem dificuldades.  
+Os passos a seguir ilustram apenas um exemplo de utilização do simulador. Sinta-se 
+livre para usar sua criatividade para criar o seu anúncio publicitário. 
+ 
+1. SELECIONANDO A IMAGEM 
+ 
+Selecione a camada “Imagem”. Escolha a imagem desejada e trate-a, retirando o seu 
+plano de fundo. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+  
+2. SELECIONANDO A FORMA 
+ 
+Selecione a camada “Forma”. Escolha a forma desejada, alterando a sua cor e a sua 
+posição em relação às camadas. 
+ 
+3. SELECIONANDO O PLANO DE FUNDO 
+ 
+Selecione a camada “Plano de fundo”. Altere a sua cor e a sua posição em relação às 
+camadas. 
+ 
+4. ESCREVENDO O TEXTO 
+ 
+Selecione a camada “Nome  do produto”. Escreva  o  texto desejado,  alterando a  sua 
+formatação e a sua cor. Repita esse passo para escrever o slogan do produto e o seu 
+contato. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância das camadas na edição com o Photoshop? 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Na tela inicial, é possível ver a área de trabalho do simulador. Na lateral direita da tela, 
+estão exibidos os painéis de ferramentas. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Para  abrir  ou  fechar  um  painel,  basta  clicar  com  o  botão  esquerdo  do  mouse  sobre  a 
+seta dupla ao lado do nome do painel que deseja abrir. É importante ressaltar que só é 
+possível abrir um painel por vez. 
+ 
+ 
+ 
+No painel Camadas, temos 6 camadas disponíveis. Elas estão organizadas por ordem de 
+prioridade na exibição, sendo que as últimas da lista têm maior prioridade. 
+É possível reorganizar a ordem das camadas clicando com o botão esquerdo do mouse 
+sobre o círculo ao lado do título da camada que deseja mover e, em seguida, clicando 
+sobre as setas indicadas abaixo. 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+É possível renomear as camadas clicando com o botão esquerdo do mouse sobre a caixa 
+de  texto para  selecioná-la,  escrevendo o  novo título  e  apertando  a tecla “Enter” para 
+confirmar a alteração. 
+ 
+ 
+ 
+Ao  editar  uma  camada que  possui texto (nome  do  produto,  slogan  ou  contato),  é 
+possível selecionar a fonte do texto clicando com o botão esquerdo do mouse sobre a 
+seta indicada e selecionando uma fonte disponível na lista.  
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Além disso, é possível diminuir (1) ou aumentar (2) o tamanho da fonte, e ainda colocar 
+o texto em itálico (3), negrito (4) ou sublinhado (5) clicando com o botão esquerdo do 
+mouse sobre o botão indicado. 
+ 
+ 
+ 
+É possível editar a cor de algum elemento através da escala de cores (1) ou do controle 
+RGB (2) pressionando o botão esquerdo do mouse e deslizando os respectivos sliders.  
+ 
+ 
+  
+1 
+2 
+3 
+4 
+5 
+1 
+2 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Ainda é possível alterar a cor através do seu valor hexadecimal (3), clicando com o botão 
+esquerdo  do  mouse  sobre  a  caixa  de  texto  para  selecioná-la,  digitando  o valor  e 
+apertando a tecla “Enter” para confirmar a alteração.  
+ 
+ 
+ 
+Os passos a seguir ilustram apenas um exemplo de utilização do simulador. Sinta-se livre 
+para usar sua criatividade para criar o seu anúncio publicitário. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+1. SELECIONANDO A IMAGEM 
+ 
+Abra o painel Camadas clicando com o botão esquerdo do mouse sobre a seta dupla ao 
+nome do título do painel. 
+ 
+ 
+ 
+Selecione a camada “Imagem” clicando com o botão esquerdo do mouse sobre o círculo 
+ao lado do nome da camada. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Feche  o painel Camadas e  abra  o  painel  Imagem clicando  com  o  botão  esquerdo  do 
+mouse sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Selecione a  imagem  para  o  anúncio  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+uma das imagens disponíveis. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Remova o plano de fundo da imagem clicando com o botão esquerdo do mouse sobre a 
+botão representado pela varinha mágica e, em seguida, sobre a imagem. 
+ 
+ 
+ 
+Trate a imagem clicando com o botão esquerdo do mouse sobre o botão representado 
+pelo  pincel  e, em  seguida,  clicando  repetidas  vezes  sobre  as  espinhas até  que elas 
+sumam. 
+ 
+ 
+  
+1 
+2 
+1 
+2 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+2. SELECIONANDO A FORMA 
+ 
+Feche  o  painel  Imagem  e  abra  o  painel  Camadas clicando  com  o  botão  esquerdo  do 
+mouse sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Selecione a camada “Forma” clicando com o botão esquerdo do mouse sobre o círculo 
+ao lado do nome da camada. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Feche  o  painel  Camadas e  abra  o  painel  Formas  clicando  com  o  botão  esquerdo  do 
+mouse sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Selecione  a  forma  geométrica  que  deseja  adicionar  ao  anúncio  clicando  com  o  botão 
+esquerdo do mouse sobre uma das formas disponíveis. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Feche  o  painel  Formas  e  abra  o  painel  Cor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Escolha a cor da forma geométrica utilizando o controle deslizante de cores, inserindo o 
+seu valor hexadecimal ou através do controle RGB. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Feche o painel Cor e abra o painel Camadas clicando com o botão esquerdo do mouse 
+sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Posicione  a  camada  “Forma”  acima  da  camada  “Imagem” clicando  com  o  botão 
+esquerdo do mouse sobre a seta que aponta para baixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+3. SELECIONANDO O PLANO DE FUNDO 
+ 
+Selecione a camada “Plano de fundo” clicando com o botão esquerdo do mouse sobre 
+o círculo ao lado do nome da camada. 
+ 
+ 
+ 
+Feche o painel Camadas e abra o painel Cor clicando com o botão esquerdo do mouse 
+sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Escolha a cor do plano de fundo utilizando o controle deslizante de cores, inserindo o 
+seu valor hexadecimal ou através do controle RGB. 
+ 
+ 
+ 
+Caso  deseje,  altere  a  posição  da  camada  “Plano  de  fundo”  utilizando  o painel 
+“Camadas”. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+4. ESCREVENDO O TEXTO 
+ 
+Feche o painel Cor e abra o painel Camadas clicando com o botão esquerdo do mouse 
+sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Selecione a camada “Nome do produto” clicando com o botão esquerdo do mouse sobre 
+o círculo ao lado do nome da camada. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Feche o painel Camadas e abra o painel Texto clicando com o botão esquerdo do mouse 
+sobre a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+ 
+Insira o texto para o nome do produto clicando com o botão esquerdo do mouse sobre 
+a caixa de texto na tela e, em seguida, digitando o texto desejado. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Altere a fonte, o tamanho da fonte e a formatação através das ferramentas de edição 
+de texto.  
+ 
+ 
+ 
+Feche o painel Texto e abra o painel Cor clicando com o botão esquerdo do mouse sobre 
+a seta dupla ao nome do título dos respectivos painéis. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+Escolha  a  cor do  texto utilizando  o  controle  deslizante de  cores,  inserindo  o  seu  valor 
+hexadecimal ou através do controle RGB. 
+ 
+ 
+ 
+Repita esse passo para inserir e formatar o texto do slogan (1) e do contato para vendas 
+(2). 
+ 
+ 
+  
+1 
+2 
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COMUNICAÇÃO INSTITUCIONAL 
+SIMULADOR DE PHOTOSHOP 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+V 2.0 – AB1 

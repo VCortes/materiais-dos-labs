@@ -1,0 +1,412 @@
+
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência   virtual   e   para   respostas   às   perguntas   frequentes   a   respeito   do 
+VirtuaLab.  
+ 
+2. Caso não saiba como manipular o Laboratório Virtual, utilize o “Tutorial VirtuaLab” 
+presente neste Roteiro. 
+ 
+3. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação de 
+Resultados”.  
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na página a seguir, apresentamos as duas principais dúvidas na utilização dos Laboratórios 
+Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção de “Perguntas 
+Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com nossa 
+central de suporte. Se preferir, utilize os QR CODEs para  um contato direto por Whatsapp 
+(8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE 
+SER ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No  Google  Chrome,  clique  em  “Configurações” ->  “Avançado” ->  “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a opção 
+e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de trabalho, 
+clique com o botão direito do mouse. Escolha “Configurações gráficas” e procure 
+pela configuração de performance. Escolha a opção de máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver  de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”. Se estiver em 100%, feche outros aplicativos ou reinicie o computador. 
+  
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No  Google  Chrome,  clique  em  “Configurações” ->  “Avançado” ->  “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a opção 
+e reinicie o navegador. Caso persista, desative a opção e tente novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de trabalho, 
+clique com o botão direito do mouse. Escolha “Configurações gráficas” e procure 
+pela configuração de performance. Escolha a opção de máximo desempenho.  
+Obs.:  Os  atalhos  e  procedimentos  podem  variar  de  acordo  com  o  driver  de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+GUIA REFLEXIVO DE PRÁTICA 
+ 
+ 
+  
+ O processo de alfabetização e letramento passa por diferentes etapas ao longo dos 
+anos escolares, os alunos desenvolvem as habilidades da fala e escrita em ritmos diferentes 
+e, muitas vezes, por caminhos diferentes. 
+ O  educador  deve  compreender  que  essas  diferenças  fazem  parte  do  caminho  de 
+aprendizagem  e  não  significa obrigatoriamente  que  não  há  evolução.  Reconhecer  as 
+características  do  processo  de  cada  aluno  e  trabalhar  as  capacidades  levando  esses 
+aspectos em consideração, deve ser um dos pilares no desenvolvimento de propostas e na 
+avaliação de aprendizagem.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+1. O AMBIENTE VIRTUAL 
+ 
+ 
+ 
+Figura 1 – Ambiente de Aprendizagem Virtual. 
+ 
+ Apresentação 
+ 
+O ambiente virtual de aprendizagem simula uma mesa com as letras do alfabeto no 
+lado esquerdo e cartas com figuras ilustrativas na lateral superior direita. 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+Figura 2 – Apresentação. 
+ 
+ Jogabilidade 
+ 
+1. Utilizar o botão esquerdo do mouse para selecionar a carta; 
+2. Utilizar o botão esquerdo do mouse para selecionar as letras; 
+3. Selecionar as letras correspondentes ao nome da figura ilustrada na carta; 
+4. Selecionar letras até formar o nome completamente. 
+ 
+Modo Prática 
+ 
+Selecionar a carta e em seguida selecionar as letras que formam o nome da figura 
+ilustrada. 
+ 
+ 
+Figura 3 – Modo PRÁTICA. 
+ 
+ Ao preencher corretamente o nome, a pontuação obtida será sinalizada na lateral 
+superior esquerda. 
+ Caso as letras selecionadas não correspondam ao nome da figura, a pontuação será 
+reduzida a cada tentativa selecionada incorretamente. 
+ 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+Figura 4 – Indicador de pontuação. 
+ 
+Será possível repetir as tentativas quantas vezes achar necessário. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+ 
+2. INTEGRAÇÃO PEDAGÓGICA 
+ 
+A  etapa  de letramento  e  alfabetização  corresponde  a  uma  fase  importante  do 
+processo  de  ensino,  porém  trata-se  de  um  processo  duradouro  e  que  ocorre  em  ritmos 
+distintos para a maioria dos estudantes. Torna-se necessário expandir as possibilidades de 
+brincadeiras, jogos e atividades garantindo a utilização dos recursos disponíveis aos alunos 
+e ampliando as possibilidades de aprendizagem. 
+A criança está inserida desde cedo no mundo letrado, a identificação de símbolos e 
+referências  a  leitura  e  escrita  permeiam  a  realidade  de  todos os  alunos,  logo  a  escola 
+apresenta essas simbologias contribuindo na atribuição de sentido desses elementos pela 
+criança. 
+Estimular a prática de atividades que ampliam situações onde ocorre o contato com 
+a  escrita  e  leitura  auxilia  no  progresso  e  na  qualidade  da  etapa  de  aprendizagem  de 
+alfabetização. 
+ 
+QUESTÃO REFLEXIVA 1: 
+ 
+Como o educador pode estimular a ampliação de contextos letrados na realidade do 
+aluno? Como o educador pode estimular o interesse na criança na busca por interações 
+com elementos da linguagem letrada? 
+ 
+ A  realidade  de  cada  aluno  influencia  na  evolução  do  processo  de alfabetização, 
+alguns estudantes são oriundos de lares com forte estímulo ao letramento, com pais que 
+realizam contação de histórias, frequentemente compram novos livros infantis e possuem 
+hábitos de letramento que são reproduzidos pelas crianças. Em contrapartida, uma parcela 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+significativa de estudantes faz parte de outra realidade, onde o estímulo a leitura é baixo 
+ou   inexistente   e   os   pais   não   possuem   disponibilidade   para   realizar   atividades 
+complementares em casa. 
+ A  relevância  de  considerar  a  possibilidade  dessas  realidades  distintas  consiste  na 
+avaliação da evolução do aluno, pois caso as dificuldades avaliadas pelo educador durante 
+o processo tenham origem na lacuna da educação continuada em casa, as abordagens de 
+apoio serão diferentes para esses alunos e aqueles com dificuldades de aprendizagem. 
+  
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+ 
+ 
+ 
+ A realização de atividades para o processo de alfabetização e letramento são 
+favorecidas pelos seguintes elementos: 
+ 
+1. Participação dos alunos: 
+ As atividades de letramento exigem a presença do aluno  para  o desenvolvimento 
+efetivo, a  introdução  gradativa  dos  elementos  da  escrita  de  forma  progressiva,  mas 
+cotidianamente,  é  capaz  de  envolver inicialmente  o  aluno  com  mais  eficácia  que  a 
+exposição de elementos visuais. 
+ 
+2. Diversidade nas atividades: 
+ Considerando os aspectos sociais mencionados na integração pedagógica, é 
+necessário avaliar o conhecimento de cada um e atribuir diferentes atividades de acordo 
+com a necessidade de cada aluno.  
+ 
+3. Conhecimentos prévios: 
+ Utilizar os conhecimentos prévios dos alunos mais contextualizados em ambientes 
+letrados para desenvolver atividades baseada nos hábitos já desenvolvidos. 
+ 
+4. Interesse: 
+ O envolvimento dos alunos está associado ao interesse na atividade, mapear as 
+áreas que despertam maior interação dos alunos e utilizar esse engajamento para propor 
+atividades colaborativas com os demais colegas. 
+3. COMO TRABALHAR A PRÁTICA “ALFABETIZAÇÃO E 
+LETRAMENTO” NO AMBIENTE ESCOLAR? OU FORA DELE? 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+4.ATIVIDADE 
+ 
+1. Estímulo a leitura; 
+ Sugerimos ao educador que realize um levantamento com os alunos sobre o 
+contato com livros, utilizando perguntas norteadoras, tais como: 
+• Quantos livros você já leu? 
+• Quantos livros já foram lidos para você? 
+• Qual seu livro favorito? 
+• Qual seu desenho favorito? 
+ 
+ Baseado nas respostas obtidas, catalogar o contato de cada estudante com escrita 
+e leitura e suas preferências de leitura. 
+ 
+2. Atividades colaborativas; 
+ Os alunos que possuem contato com ambientes letrados devem ser estimulados a 
+realizar atividades colaborativas com os demais colegas, tais como: 
+• Levar o livro favorito; 
+• Contar uma história; 
+• Contar qual tema mais gosta de ler. 
+ 
+3. Avaliar o engajamento dos estudantes. 
+ Acompanhar ao longo do ano letivo a evolução do aluno com os elementos de 
+leitura e escrita. 
+• Os alunos melhoraram a escrita ou leitura? 
+• Os hábitos de leitura mudaram? 
+
+ 
+ 
+LABORATÓRIO DE EDUCAÇÃO ESPECIAL 
+CONSTRUINDO PALAVRAS 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+• Foi observado avanços no interesse pela leitura ou escrita? 
+ 
+QUESTÃO REFLEXIVA 2:  
+ 
+Como a escola pode influenciar nos hábitos de leitura e escrita dos alunos? Como o 
+educador pode estimular a melhora desses hábitos? Qual a importância desses estímulos 
+nas fases iniciais da escolarização? 
+  
+ O processo de aquisição da escrita e leitura sofre influência de fatores que não estão 
+sempre ligados ao ambiente de aprendizado da escola, essa barreira causada pela realidade 
+de  cada  indivíduo  pode  ser  superada  com estímulos  simples,  porém  constantes  e 
+consistentes. 
+ O  educador  possui  papel  fundamental  nessa  evolução, é  compreensível  que 
+algumas  dificuldades  de  aprendizado  ou  realidades  conflitantes  tornem  o  processo  mais 
+lento, porém a evolução do estudante não é inviabilizada por esses aspectos. Conhecer o 
+potencial  do  educador  e  da  escola  é  o  primeiro  passo  para  ampliar  as  atividades  que 
+contribuem no desenvolvimento das habilidades e interesse do letramento nos estudantes. 

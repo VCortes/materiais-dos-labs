@@ -1,0 +1,671 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você irá determinar a acidez total do suco de laranja. Para tanto, 
+você realizará um procedimento denominado de titulação. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra: suco de laranja; 
+• Balança analítica; 
+• Béquer; 
+• Erlenmeyer; 
+• Indicador de fenolftaleína; 
+• Pipeta volumétrica de 10 mL; 
+• Pisseta com água destilada; 
+• Proveta de 50 mL; 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O LABORATÓRIO 
+ 
+Para dar início a este laboratório virtual, é necessário que você reconheça os principais 
+recursos  disponíveis. Será  exibido  um  Guia  de  utilização,  onde  será  explicado  o 
+funcionamento de alguns recursos disponíveis durante a realização do experimento. 
+Utilize  a  barra  de  rolagem  para  realizar  a  leitura  de  todo  o  texto  no guia e feche 
+somente após a leitura. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. Selecione o jaleco, óculos de proteção e luvas de látex. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+2. SELECIONANDO OS MATERIAIS PARA O EXPERIMENTO 
+ 
+Neste experimento, serão utilizados diversos equipamentos. As vidrarias necessárias 
+estão  guardadas  em  uma  das  gavetas  da  bancada.  Elas  devem  ser  retiradas  desta 
+gaveta e posicionadas sobre a mesa. Escolha uma vidraria utilizável da gaveta e, utilize 
+o  comando  de  colocar  na  mesa. Repita  o  procedimento  até  que  todas  as  vidrarias 
+necessárias  tenham  sido  movimentadas  da  gaveta  para  a  mesa. Abra  a  porta  do 
+armário, encontre e mova o frasco com indicador de fenolftaleína para a mesa. 
+ 
+3. PREPARANDO A AMOSTRA PARA TITULAÇÃO 
+ 
+A amostra que será submetida ao processo de titulação vai ser o suco de laranja. O 
+suco é armazenado na pisseta com bico de cor laranja. Coloque o suco de laranja no 
+béquer pressionando a pisseta até a marcação 20 ml. Conecte a pera na pipeta para 
+aspirar a amostra, mova a pipeta para o béquer e opere a pipeta: remova o ar da pera 
+e  succione  o  suco  de  laranja  (mantendo  E  pressionado).  Mova  a  pipeta  para  o 
+Erlenmeyer, despeje a amostra succionado no Erlenmeyer (mantendo R pressionado). 
+Mova a pipeta de volta para a mesa. Mova a pisseta com água para a proveta e despeje 
+água até a marcação de 50 mL. Em seguida despeje a água da proveta no Erlenmeyer. 
+Adicione  5  gotas  de  fenolftaleína  no  suco  diluído.  Despeje  o  hidróxido  de  sódio  no 
+béquer e preencha a bureta com hidróxido de sódio 0,1 mol/L.  
+ 
+4. PROCESSO DE TITULAÇÃO 
+ 
+Mova  o  Erlenmeyer  para  que  ele  fique  sob  a  bureta.  Abra  a  válvula  da  bureta  e 
+permaneça  atento  a  cor  do  fluido.  Quando  o  fluido  mudar  de  cor  feche  a  válvula. 
+Anote o valor exibido na graduação, localizada no canto inferior esquerdo da tela. Este 
+valor é dado em mililitros e ele será utilizado para encontrar a acidez total do suco de 
+laranja. 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+  
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  sessão  “Avaliação  dos resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado no experimento.  
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+Os  cálculos  são  realizados  na  estequiometria  da  reação  de  neutralização,  ou  seja,  a 
+quantidade de matéria de ácido (H+) tem que ser igual à quantidade de matéria de base 
+(OH-). Traduzindo, o número de mols de ácido tem que ser igual ao número de mols da 
+base.  Para  esse  equacionamento,  normalmente  se  utiliza  a  concentração  molar.  A 
+concentração  molar  é  igual  ao  número  de  mols  do  soluto  dividido  pelo  volume  da 
+solução: 
+ 
+[H
++
+] = [OH
+-
+] = 
+푛
+푁푎푂퐻
+푉푠표푙푢çã표
+ = 
+푀
+푁푎푂퐻
+ × 푉
+푁푎푂퐻
+푉푠표푙푢çã표
+ 
+푝퐻= −log [퐻
++
+] 
+ 
+Donde: 
+푛
+푁푎푂퐻
+ indica o número de mols de hidróxido de sódio; 
+푀
+푁푎푂퐻
+ indica a concentração molar de hidróxido de sódio; 
+푉
+푁푎푂퐻
+ 
+ é o volume gasto de hidróxido de sódio na titulação; 
+푉푠표푙푢çã표 é o volume gasto de hidróxido de sódio somado com o volume da solução de 
+suco de laranja diluída em água. 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO O LABORATÓRIO 
+ 
+Os   equipamentos   de   proteção   individual   são   obrigatórios   para   a   realização   do 
+experimento, então sua interação com os componentes do laboratório será limitada até 
+que  eles  sejam  equipados. Vá  até  Armário  de  EPIs  (Alt+6)  utilizando  a  janela  de 
+Visualização. 
+Importante:  Os  componentes  que  possuem  interações  podem  ser  identificados  ao 
+posicionar o mouse sobre eles, pois um destaque em vermelho será exibido e no canto 
+inferior direito da tela as opções de interações são apresentadas. 
+Abra as portas do Armário de EPIs. Clique nos EPIs necessários para vesti-los. Perceba 
+que  ao  clicar  no  botão  da  máscara,  os  equipamentos  de  proteção  individual  foram 
+marcados, indicando que você está devidamente protegido. 
+ 
+ 
+Feche a janela dos EPIs e retorne para o modo de Visualização da Bancada (Alt+1). 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+2. SELECIONANDO OS MATERIAIS PARA O EXPERIMENTO 
+ 
+Neste  experimento,  serão  utilizados  diversos equipamentos.  As  vidrarias  necessárias 
+estão guardadas em uma das gavetas da bancada. Elas devem ser retiradas desta gaveta 
+e posicionadas sobre a mesa. 
+Selecione  a  Visualização  da  Gaveta  de  vidrarias  (Alt+4). Abra  a  primeira  gaveta  da 
+bancada clicando com o botão esquerdo nela. 
+Dentro   da   gaveta,   estão   disponíveis   diversas   vidrarias   utilizadas   no   ambiente 
+laboratorial.   As   vidrarias   que   serão   utilizadas   durante   este   experimento   serão 
+destacadas em vermelho ao passar o mouse sobre elas. 
+Dica: A janela de Objetos exibe quais equipamentos serão utilizados no experimento e, 
+ao clicar no título de cada um deles, o equipamento em questão passa alguns segundo 
+em destaque. Utilize este recurso caso esteja com dificuldade de encontrar algum dos 
+componentes. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Escolha uma vidraria utilizável da gaveta e, dentre as opções de MOVER OBJETO, utilize 
+o comando de colocar na mesa. Repita o procedimento do passo anterior até que todas 
+as vidrarias necessárias tenham sido movimentadas da gaveta para a mesa. 
+Feche  a  gaveta. Escolha  o  modo  de  Visualização  do  Tampo  da  bancada  (Alt+2). As 
+vidrarias estarão dispostas sobre a mesa do laboratório e disponíveis para o uso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Além  das  vidrarias,  um  indicador  de  fenolftaleína  vai  ser  utilizado  no  experimento.  O 
+frasco com este componente está localizado dentro do armário de indicadores. 
+Acesse o modo de Visualização do Armário de indicadores (Alt+3). 
+Abra a porta do armário, encontre e mova o frasco com indicador de fenolftaleína para 
+a mesa. 
+ 
+ 
+ 
+Feche a porta do armário. 
+Retorne para o modo de Visualização do Tampo da bancada (Alt+2). 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+3. PREPARANDO A AMOSTRA PARA A TITULAÇÃO 
+ 
+A amostra que será submetida ao processo de titulação vai ser o suco de laranja. O suco 
+é armazenado na pisseta com bico de cor laranja. 
+Mova a pisseta com suco de laranja para que ela fique sobre o béquer. 
+ 
+ 
+ 
+Pressione a pisseta para que o suco de laranja caia no béquer até aproximadamente a 
+marcação 20 mL. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+O  procedimento  de  pressionar  a  pisseta,  de  acordo  com  a instrução  exibida  no  canto 
+inferior  direito  da  tela,  é  feito  mantendo  a  tecla  Q  pressionada  enquanto  o  usuário 
+quiser que o suco saia da pisseta. Perceba que no canto inferior esquerdo da tela, o nível 
+do béquer pode ser monitorado. 
+ 
+ 
+ 
+Posicione a pisseta novamente na mesa. 
+A  pipeta  deve  ser  utilizada  para  retirar  o  suco  de  laranja  do  béquer  e  inserir  no 
+Erlenmeyer. Antes de realizar esta ação, a pipeta deve ser conectada ao pipetador. 
+Conecte o pipetador na pipeta. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Mova a pipeta para o béquer. 
+Dica: Para melhor visualizar esta etapa, utilize o recurso de aproximar/afastar a câmera. 
+Este recurso fica disponível quando o mouse não se encontra sobre algum componente 
+utilizável do laboratório.  
+ 
+ 
+ 
+Importante: Na  pipeta,  além  das  opções  de  movimento,  as opções  de  operação  da 
+pipeta podem ser exibidas quando a tecla “Shift” é pressionada. 
+Nas opções de operação da pipeta são exibidas diversas ações com seus atalhos exibidos 
+ao lado. Com essas opções, é possível operar este equipamento da forma correta. 
+Remova o ar da pera. 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+ 
+Importante: As  opções  de  succionar  (atalho  E)  e  despejar  (atalho  R),  requerem  que  a 
+tecla seja mantida pressionada para que a ação seja realizada. 
+Succione (mantendo E pressionado) o suco de laranja utilizando a pipeta. Realize esta 
+ação até que um aviso “Recipiente de destino já está cheio.” seja exibido na tela. 
+Anote a quantidade de suco de laranja que foi succionada. 
+ 
+ 
+ 
+Mova a pipeta para o Erlenmeyer. 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Despeje (mantendo R pressionado) o suco de laranja contido na pipeta. Realize esta ação 
+até que um aviso “Este recipiente de origem está vazio.” seja exibido na tela. 
+Mova  a  pipeta  de  volta  para  a  mesa. Para  a  próxima  fase  do  processo  de  titulação,  o 
+suco de laranja deve ser dissolvido em água destilada. 
+A  pisseta  com  água  destilada  possui  bico  azul  e  pode  ter  seu  contorno  destacado  em 
+vermelho ao ser selecionada na lista de Objetos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Mova a pisseta com água para que ela fique sobre a proveta. 
+Despeje a água destilada da pisseta na proveta utilizando a ação de pressionar a pisseta 
+(mantendo a tecla Q pressionada). Realize esta ação até que o nível da proveta esteja 
+em 50 ml, e anote esse volume. 
+ 
+ 
+ 
+Mova a pisseta de volta para a mesa. 
+Mova a proveta para que ela fique sobre o Erlenmeyer. Despeje o conteúdo da proveta 
+no  Erlenmeyer  mantendo  a  tecla  de  atalho  W  pressionada  até  que  o  aviso  “Este 
+recipiente de origem está vazio.” seja exibido na tela. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Mova a proveta de volta para a mesa. A próxima etapa do experimento de titulação é 
+inserir no suco de laranja diluído (titulado) um indicador ácido-base, que neste caso será 
+a fenolftaleína. 
+Mova o frasco com indicador de fenolftaleína para que ele fique sobre o Erlenmeyer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Dica: O procedimento de gotejar o indicador deve ser realizado pressionando a tecla de 
+atalho.  Pressione  a  tecla  Q  até  que  a  quantidade  necessária  de  gotas  tenha  caído  no 
+Erlenmeyer. 
+Adicione 5 gotas de fenolftaleína no suco diluído. Mova o frasco com indicador de volta 
+para  a  mesa. Na  próxima  etapa  do  experimento  de  titulação,  o  fluido  titulante,  que 
+possui concentração  conhecida,  deve  ser  inserido  na  bureta.  Neste  experimento  será 
+utilizado o hidróxido de sódio 0,1 mol/L. 
+Mova o hidróxido de sódio para que ele fique sobre o béquer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Despeje o hidróxido de sódio no béquer mantendo a tecla de atalho Q pressionada até 
+atingir a marcação de 50 ml no béquer. 
+ 
+ 
+ 
+Mova a solução de hidróxido de sódio de volta para a prateleira e mova o béquer com o 
+hidróxido de sódio para que ele fique sobre a bureta. 
+Dica: Para  melhor  visualizar  esta  etapa,  utilize  o  recurso  para aproximar/afastar  a 
+câmera.  Este  recurso  fica  disponível  quando  o  mouse  não  se  encontra  sobre  algum 
+componente utilizável do laboratório. 
+Despeje o hidróxido de sódio na bureta mantendo a tecla de atalho E pressionada. 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+ 
+4. PROCESSO DE TITULAÇÃO 
+ 
+Nesta etapa, o titulante (hidróxido de sódio) contido na bureta, vai ser misturado com o 
+titulado   (suco   de   laranja   diluído   em   água   destilada)   contido   no   Erlenmeyer.   A 
+quantidade de titulante utilizada no experimento deve ser estimada utilizando a escala 
+da bureta. 
+Mova o Erlenmeyer para que ele fique sob a bureta. 
+Nas opções da bureta, estão disponíveis as ações de abrir válvula (tecla de atalho E) e 
+fechar válvula (tecla de atalho R).  
+Importante:  A  válvula  da  bureta deve  ser  aberta e a  cor  do fluido  no béquer  deve  ser 
+monitorada.  Quando  o  fluido  mudar  para  um  tom  de  rosa,  a  válvula  deve  ser 
+imediatamente fechada. 
+Dica: Após abrir a válvula, deixe o mouse sobre a bureta e mantenha o dedo posicionado 
+na tecla R, para quando houver a mudança na cor do fluido, a tecla R seja pressionada 
+sem demora. 
+Abra a válvula da bureta e permaneça atento a cor do fluido. 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATORIO DE BIOQUÍMICA 
+ACIDEZ TOTAL DO SUCO DE LARANJA 
+Quando o fluido mudar de cor feche a válvula. 
+Anote o valor exibido na graduação, localizada no canto inferior esquerdo da tela. Este 
+valor é dado em mililitros e ele será utilizado para encontrar a acidez total do suco de 
+laranja. 
+ 
+ 
+ 
+Dica: A  graduação  da  bureta  pode  ser  observada  a  qualquer  momento  utilizando  a 
+opção de visualizar graduação. 
+ 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a sessão “Avaliação dos resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  

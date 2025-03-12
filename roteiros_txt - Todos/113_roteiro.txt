@@ -1,0 +1,509 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta  prática,  você  realizará  o  procedimento  previsto  na  norma  vigente para 
+encontrar a massa unitária e o volume de vazios de uma amostra de agregado. 
+ 
+2. Utilize  a  seção “Recomendações  de  Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra de agregado; 
+• Recipiente de ensaio; 
+• Balança; 
+• Espátula; 
+• Concha; 
+• Haste de compactação. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O LABORATÓRIO VIRTUAL 
+ 
+Para dar início ao laboratório virtual de Massa Unitária, é necessário conhecer 
+os principais recursos disponíveis. 
+ 
+2. PESANDO O RECIPIENTE 
+ 
+Ligue a balança. Posicione o recipiente de ensaio sobre o equipamento, obtendo 
+sua massa, e pressione o botão TARA. Mova o recipiente de volta para a mesa. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+3. PREENCHENDO A PRIMEIRA CAMADA  
+ 
+Utilize a concha três vezes seguidas para adicionar o agregado no recipiente de 
+ensaio, preenchendo-o até a primeira marcação. Utilize a haste para adensar o 
+agregado contido no recipiente. 
+ 
+4. PREENCHENDO A SEGUNDA CAMADA 
+ 
+Utilize a concha três vezes seguidas para adicionar o agregado no recipiente de 
+ensaio, preenchendo-o até a segunda marcação. Utilize a haste para adensar o 
+agregado contido no recipiente. 
+ 
+5. PREENCHENDO A TERCEIRA CAMADA 
+ 
+Utilize a concha três vezes seguidas para adicionar o agregado no recipiente de 
+ensaio, com o nível do agregado chegando próximo à borda. Utilize a haste para 
+adensar o agregado contido no recipiente. 
+ 
+6. FINALIZANDO O PREENCHIMENTO 
+ 
+Utilize a concha para adicionar agregado ao recipiente e, com a espátula, nivele 
+de forma que o nível do agregado seja o mesmo da borda superior do recipiente. 
+Mova o recipiente para a balança e encontre sua massa. 
+ 
+7. REPETINDO O PROCEDIMENTO 
+ 
+Repita duas vezes os passos de 2 a 5, realizando as coletas de dados necessárias. 
+ 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Preencha a tabela 1 com os dados obtidos durante a realização do ensaio. 
+ 
+Testes Teste 1 Teste 2 Teste 3 
+Massa do recipiente (kg) 
+ 
+Diâmetro interno do recipiente (m) 
+ 
+Altura interna do recipiente (m) 
+ 
+Volume do recipiente (m³) 
+ 
+Massa do recipiente com agregado (kg) 
+   
+Massa unitária do agregado (kg/m³) 
+   
+Massa unitária média nos testes (kg/m³) 
+ 
+Desvio em relação à média (%) 
+   
+Índice de volume de vazios (%) 
+ 
+ 
+ 
+2. Os  critérios  de  repetitividade  propostos  pela  NBR  NM  45  recomendam  uma 
+variação inferior a 1% no resultado de massa unitária de cada teste em relação à 
+média.  A norma  ainda cita que, entre um teste e outro, a variação de massa 
+unitária não deve ser superior  a  40  kg/m³.  Os  resultados  obtidos  durante  a 
+realização do ensaio estão de acordo com a norma? 
+ 
+ 
+3. Sabendo  que  a  massa  específica  relativa  é  de  2,88 kg/cm³,  qual  é  o  índice  de 
+volume  de  vazios  encontrado?  Qual  informação  sobre  o  agregado  este  índice 
+fornece? 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO O LABORATÓRIO VIRTUAL 
+ 
+Para  dar  início  ao  laboratório  virtual  de  Massa  Unitária,  é  necessário conhecer os 
+principais  recursos disponíveis. Durante a realização do laboratório virtual, estarão 
+disponíveis na tela algumas opções de atalhos para auxiliar durante o experimento. 
+ 
+ 
+A  janela  de  Visualização  permite  selecionar  entre  cinco  opções  de  câmeras  pré-
+estabelecidas. Elas devem ser utilizadas para que o experimento seja monitorado de um 
+ponto  de  vista  adequado,  além  de  permitir  que  os  principais  componentes  sejam 
+visualizados da melhor forma possível. 
+Dica: Atalhos no teclado são disponibilizados para mudar a opção de Visualização.  O 
+atalho é exibido do lado esquerdo de cada opção. Por exemplo, ao pressionar Alt+3 (as 
+duas teclas devem ser pressionadas simultaneamente) a câmera “Recipiente de ensaio” 
+será exibida. 
+A janela de Objetos exibe algumas opções de equipamentos. Ao selecionar algum deles, 
+o  equipamento  em  questão  será destacado  em  vermelho,  facilitando  a  localização  do 
+objeto. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+Dica: A janela de visualização e de objetos podem ser expandidas ou recolhidas de acordo 
+com a necessidade do usuário, bastando clicar na região do título. 
+ 
+ 
+ 
+Na parte superior direita da tela, são disponibilizados alguns botões (em verde e branco) 
+com recursos e informações do laboratório. 
+ 
+ 
+ 
+ 
+O  botão  com  engrenagem  é  utilizado  para  acessar o  menu  de  OPÇÕES,  onde  o 
+experimento  pode  ser  reiniciado.  O  botão  com  o  caderno  fornece  um  bloco  de  notas 
+que  pode  ser  utilizado  para  escrever  informações  obtidas  durante  a  realização  do 
+laboratório virtual. 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+2. PESANDO O RECIPIENTE 
+ 
+Mude a visualização para a balança, “Alt+2”. 
+Ligue a balança clicando com o botão esquerdo do mouse no botão de ligar. 
+ 
+ 
+ 
+Altere a câmera para que o recipiente possa ser visualizado. 
+Para definir a posição do recipiente, clique com o botão direito do mouse sobre 
+ele e selecione a opção “Balança”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+Altere para o modo de visualização da balança, “Alt+2”. 
+Verifique a massa do recipiente e pressione o botão TARA. 
+ 
+ 
+ 
+ 
+ 
+Mova o recipiente de volta para a mesa. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+3. PREENCHENDO A PRIMEIRA CAMADA 
+ 
+Altere o modo de visualização de acordo com as instruções do roteiro, permitindo que 
+o ponto de vista correto seja escolhido. 
+Utilize a concha para adicionar agregado no recipiente. 
+ 
+ 
+Aguarde  a  concha  retornar  para  sua  posição  inicial  e  adicione  a  segunda  parcela  de 
+agregado. 
+Aguarde a concha retornar para sua posição inicial e adicione a terceira parcela  de 
+agregado. 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+É possível verificar o nível do recipiente utilizando o modo de visualização “Recipiente 
+de ensaio (Vista Superior)”. 
+Utilize a haste de adensamento para golpear o agregado. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+4. PREENCHENDO A SEGUNDA CAMADA 
+ 
+Utilize a concha para adicionar a quarta parcela de agregado no recipiente. 
+ 
+ 
+Aguarde  a  concha  retornar  para  sua  posição  inicial  e  adicione  a  quinta parcela  de 
+agregado. 
+Aguarde a concha retornar para sua posição inicial e adicione a sexta parcela de 
+agregado. 
+Perceba que o agregado está na marcação da segunda camada. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+5. PREENCHENDO A TERCEIRA CAMADA 
+ 
+Utilize a concha para adicionar a sétima parcela de agregado no recipiente. 
+ 
+ 
+Aguarde a concha retornar para sua posição inicial e adicione a oitava parcela de 
+agregado. 
+Aguarde a concha retornar para sua posição inicial e adicione a nona parcela de 
+agregado. 
+Perceba que o agregado está próximo da borda do recipiente. 
+ 
+ 
+ 
+Utilize a haste de adensamento para golpear o agregado. 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+6. FINALIZANDO O PREENCHIMENTO DO RECIPIENTE 
+ 
+Após as três camadas serem compactadas, uma última concha de agregado deve ser 
+inserida para garantir que o recipiente foi preenchido corretamente. Uma espátula deve 
+ser utilizada para rasar a superfície, removendo o excesso de material e garantindo que 
+o agregado esteja nivelado com a borda superior do recipiente de ensaio. 
+Utilize a concha para adicionar agregado ao recipiente de ensaio. 
+Utilize a espátula para nivelar a camada superior do molde. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mova o recipiente com agregado para a balança e obtenha a massa do agregado. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+MASSA UNITÁRIA E VOLUME DE VAZIOS 
+ 
+7. REPETINDO O PROCEDIMENTO 
+ 
+Mova o recipiente de volta para a mesa. 
+Remova o conteúdo do recipiente de ensaio pressionando a tecla R com o mouse sobre 
+o objeto. 
+ 
+ 
+ 
+Repita duas vezes os passos de 2 a 5, realizando as coletas de dados necessárias. 
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado na prática.  
+ 

@@ -1,0 +1,498 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Este experimento explora o conceito de equilíbrio de corpos rígidos. 
+ 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança de Prato; 
+• Corpos de Prova. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. INSERINDO PESOS NA BALANÇA 
+ 
+Inicie o experimento posicionando o maior corpo de prova na balança.  
+ 
+2. OBTENDO OS PESOS DO PRATO E CONTRAPESO 
+ 
+Para o experimento é importante obter os dados das distâncias dos pesos em 
+relação ao pivô central, bem como o valor do contrapeso. Com estes dados e a 
+equação do equilíbrio de momentos, será possível calcular o peso desconhecido 
+na balança. 
+Observe as informações de distância do centro para o eixo de rotação do prato, 
+massa do prato e massa do contrapeso.  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+3. AJUSTANDO O EQUILIBRIO DA BALANÇA 
+ 
+Observe que, ao posicionar o peso no prato, foi adicionado um desequilíbrio no 
+sistema. Para que a balança entre equilíbrio, você deverá ajustar o contrapeso, 
+deslocando-o ao longo da haste até que o prato fique centralizado.  
+Ajuste  o  contrapeso,  arrastando-o até  que  a  balança  retorne  ao  equilíbrio. 
+Quando o equilíbrio do sistema for encontrado, a haste se alinhará.  
+ 
+4. REALIZANDO MEDIDAS 
+ 
+Obtenha  as  distâncias  do  peso  e  contrapeso  ao  pivô  da  balança  e  anote  os 
+valores d
+contrapeso  
+e d
+peso 
+em cm. 
+ 
+5. RETIRANDO O PESO DA BALANÇA 
+ 
+Finalize a primeira etapa da prática retirando o peso da balança. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+7. REPETINDO O EXPERIMENTO 
+ 
+Realize os passos acima listados para os outros pesos dispostos sobre a bancada 
+e, logo após, retorne à “Avaliação de Resultados”. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Utilizando  as  equações  dispostas  no  resumo  teórico,  calcule a  massa  do  corpo 
+rígido posicionado na balança. 
+ 
+ 
+M
+1
+ = __________ g 
+ 
+Atenção: Observe   atentamente   as   unidades   das   grandezas   dispostas   no 
+experimento. 
+ 
+ 
+2. Após  a  repetição  do  experimento  para  os  outros  pesos  dispostos  na  bancada, 
+responda: Qual a relação entre o peso do corpo posicionado no prato da balança 
+e a distância do contrapeso ao pivô? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ 
+ 
+Os  itens  passíveis  de  interação  serão  os  pesos  e  a  balança  como  indicado  na  imagem 
+abaixo. 
+ 
+ 
+ 
+Para  alterar  o  ângulo  de  visualização  da  tela,  basta acessar  as  opções  de  câmera 
+localizadas no canto superior esquerdo da tela. 
+ 
+ 
+COMPREENDENDO OS OBJETOS UTILIZADOS NO EXPERIMENTO 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+Visualize as distâncias referentes ao posicionamento do peso no prato e do contrapeso, 
+clicando  com  o  botão  esquerdo  do  mouse  sobre a opção “Inspecionar” em  destaque. 
+Por  ser uma  opção  ativável,  quando  for  necessário  visualizar/esconder  as  distâncias, 
+clique com o botão esquerdo do mouse na opção “Inspecionar”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+1. INSERINDO PESOS NA BALANÇA 
+ 
+Acesse  a  câmera  “Pesos”,  clicando  com  o botão  esquerdo  do  mouse sobre  o  menu 
+superior esquerdo.  
+ 
+ 
+ 
+Posicione um peso na balança, clicando com o botão esquerdo do mouse sobre o peso 
+escolhido.  
+Inicie o experimento utilizando o peso indicado na imagem abaixo. 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+Observe que o peso se posiciona na balança.  
+Acesse  a  opção  de  câmera  “Contrapeso”,  clicando  com  o botão  esquerdo  do  mouse 
+sobre o menu superior esquerdo.  
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+2. OBTENDO OS PESOS DO PRATO E CONTRAPESO 
+ 
+Para o experimento é importante obter  os dados das distâncias dos pesos em relação 
+ao  pivô  central,  bem  como  o  valor  do  contrapeso.  Com  estes  dados  e  a  equação  do 
+equilíbrio de momentos, será possível calcular o peso desconhecido na balança. 
+Observe  as especificações  dispostas  na  caixa  de  informações,  posicionando o  mouse 
+sobre o prato.  
+Anote os valores encontrados. 
+ 
+ 
+ 
+Anote o valor da massa do prato. 
+ 
+M
+prato 
+= _____________ g 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+Obtenha o valor da massa do contrapeso, posicionando o mouse sobre o contrapeso e 
+observando a especificação disposta na caixa de informações.  
+ 
+ 
+ 
+Anote o valor da massa do contrapeso. 
+ 
+M
+Contrapeso 
+= _____________ g 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+3. AJUSTANDO O EQUILÍBRIO DA BALANÇA 
+ 
+Observe que, ao posicionar o peso no prato, foi adicionado um desequilíbrio no sistema. 
+Para que a balança entre equilíbrio, você deverá ajustar o contrapeso, deslocando-o ao 
+longo da haste até que o prato fique centralizado.  
+ 
+Ajuste a  contrapeso,  pressionando o  botão  esquerdo  do  mouse  sobre  o  mesmo, 
+conforme  destacado  pela  seta  vermelha  na  imagem  abaixo, e  arrastando-o  até  que  a 
+balança retorne ao equilíbrio. Observe que, após clicar no contrapeso, na parte inferior 
+esquerda da tela será exibida a vista ortogonal, onde é possível verificar a posição no 
+contrapeso na haste. 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+Quando o equilíbrio do sistema for encontrado, a haste vai se posicionar de acordo com 
+a próxima imagem. 
+ 
+ 
+ 
+Acesse a câmera “Frontal” para retornar a tela inicial do experimento. 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+4. REALIZANDO MEDIDAS 
+ 
+Obtenha as distâncias do peso e contrapeso ao pivô da balança, clicando com o botão 
+esquerdo do mouse sobre a opção “Inspecionar”. 
+ 
+ 
+ 
+Anote os valores das distâncias. 
+ 
+d
+contrapeso 
+= _____________ cm 
+ 
+d
+peso 
+= _____________ cm 
+ 
+Em seguida, acesse a câmera “Bancada” para retornar a cena inicial do experimento. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+5. RETIRANDO PESO DA BALANÇA 
+ 
+Retiro os pesos da balança e posicione-os sobre a mesa, clicando com o botão esquerdo 
+do mouse sobre o peso. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+ESTÁTICA – BALANÇA DE PRATOS 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 
+ 
+7. REPETINDO O EXPERIMENTO  
+ 
+Realize os passos acima listados para os outros pesos dispostos sobre a bancada e, logo 
+após, retorne à “Avaliação de Resultados”. 
+ 

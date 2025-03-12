@@ -1,0 +1,1211 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você compreenderá   a   extração   de   DNA como   um 
+procedimento básico de biologia molecular.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança analítica; 
+• Vidro de relógio;  
+• Béqueres;  
+• Pipetas; 
+• Pissetas; 
+• Pipetador tipo pera; 
+• Tubos de ensaio;  
+• Espátula; 
+• Bastão de vidro; 
+• Proveta; 
+• Espátula;  
+• Abaixador de língua de madeira; 
+• Copo descartável; 
+• Envelope; 
+• Sal de cozinha;  
+• Água destilada;  
+• Detergente líquido;  
+• Álcool etílico.  
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+PROCEDIMENTOS 
+ 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PREPARANDO A SOLUÇÃO DE NACL 3% 
+ 
+Inicialmente, ligue  a  balança  e  posicione  o  vidro  de  relógio  nela.  Logo  depois, 
+pese  aproximadamente  3g  de  NaCl.  Despeje  no  béquer.  Em  seguida,  adicione 
+cerca de 100 mL de água destilada no béquer e misture.  
+ 
+3. PREPARANDO A SOLUÇÃO DE DETERGENTE 25% 
+ 
+Adicione  aproximadamente  25  mL  de  detergente  na  proveta.  Em  seguida, 
+complete  o  volume  até  chegar  a  100  mL  com  água  destilada.  Logo  depois, 
+transfira para o béquer. 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Transfira  aproximadamente  15  mL da  solução  de  NaCl  3%   para  o  copo 
+descartável.  Com  o  abaixador  de  língua,  colete  uma  amostra.  Descarte  o 
+abaixador dentro do envelope. Pegue o copo descartável com a solução de NaCl 
+3% e faça  bochechos por aproximadamente 1 minuto para conseguir soltar as 
+células da mucosa. Em seguida, transfira o volume do bochecho para o mesmo 
+copo descartável. 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+5. EXTRAINDO O DNA 
+ 
+Com a  pipeta  volumétrica,  aspire  aproximadamente  10  mL  da  amostra  do 
+bochecho e deposite em um tubo de ensaio. Posteriormente, usando a pipeta 
+volumétrica de 1 mL, aspire aproximadamente 0,5 mL da solução de detergente 
+e transfira para o tudo de ensaio contendo a amostra do bochecho. Usando a 
+micropipeta, adicione  1  mL  de  álcool  gelado  para  o  tubo  de  ensaio,  deixando 
+escorrer pela parede do tubo até formar uma camada de 1 mL sobre a amostra. 
+Com o auxílio do bastão de vidro, misture vigorosamente. Deixe descansar por 
+2  a  5  minutos  e  verifique  a  formação  de uma  massa  clara  e  filamentosa  na 
+superfície. Com o palito de madeira, toque nessa massa clara que ficará presa 
+no palito e transfira para o tubo Eppendorf. Adicione 50 microlitros de água com 
+pipeta  volumétrica  de 1  mL. Homogeneíze esta  solução  contendo  o  DNA  e 
+descarte o palito.  
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todas as vidrarias e materiais utilizados. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual estrutura da célula é alvo do detergente? 
+ 
+ 
+ 
+2. Qual a função do sal de cozinha nessa prática? Seria possível substituir por outro 
+elemento? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs, acessando a câmera “EPI”, clicando com o botão esquerdo 
+do mouse sobre a opção no menu lateral esquerdo ou “Alt+4”. 
+ 
+Abra  o  armário.  Clique  com  o  botão  esquerdo  do  mouse  sobre  suas  portas.  Verifique 
+quais EPIs será necessários para essa prática no menu lateral direito. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Selecione os EPIs necessários para a realização do experimento, clicando com o botão 
+esquerdo do mouse sobre eles e selecionando opção “Usar este item”.  
+ 
+ 
+ 
+Feche as portas do armário, clicando com o botão esquerdo do mouse sobre elas e mude 
+a visualização para a bancada, “Alt+1”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+2. PREPARANDO A SOLUÇÃO DE NACL 3% 
+ 
+Inicialmente,  prepare  a  bancada.  Mova todos  os  itens  que  estão  na  prateleira para  a 
+bancada. Clique com o botão direito do mouse sobre cada um dos objetos para colocá-
+los na mesa.  
+ 
+ 
+ 
+Ligue a balança. Clique com o botão esquerdo do mouse no botão “on/off” para ligar.  
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Logo  depois,  mova  o  vidro  de  relógio  para  a  balança.  Clique  com  o  botão direito  do 
+mouse sobre o vidro de relógio e selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Zere a balança. Clique com o botão esquerdo do mouse no botão “tara” e a balança será 
+zerada.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Mova o pote contendo NaCl para a balança. Clique no pote de NaCl com o botão direito 
+do mouse e selecione a opção “Posicionar na balança”. 
+ 
+ 
+ 
+Mova  a  espátula  para  a  balança.  Clique  na  espátula  com  o  botão  direito  do  mouse  e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Destampe o pote de NaCl. Clique o botão esquerdo do mouse sobre o pote. 
+ 
+ 
+ 
+Usando a espátula, colete o NaCl. Clique com o botão direito do mouse sobre a espátula 
+e selecione a opção “Encher”.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Pese aproximadamente 3g de NaCl. Com o botão esquerdo do mouse, clique na espátula 
+para despejar o composto. Acompanhe o valor pesado no visor da balança.  
+ 
+ 
+ 
+Retorne  a  espátula  e  o  pote  para  a  mesa.  Clique em  cada  um  com  o  botão  direito  do 
+mouse e selecione a opção “Colocar na mesa”.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Tampe o pote. Clique com o botão esquerdo do mouse sobre ele. Em seguida, retorne 
+para a mesa. Clique com o botão direito do mouse sobre o pote de NaCl.  
+ 
+ 
+ 
+Mova o vidro de relógio contendo o NaCl para o béquer. Clique no vidro de relógio com 
+o botão direito do mouse e selecione a opção “Colocar no béquer 1”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Despeje  o NaCl no  béquer.  Clique  e  pressione  o  botão  esquerdo  do  mouse  para 
+derramar.  
+ 
+ 
+ 
+Em seguida, retorne o vidro de relógio para a mesa. Clique com o botão esquerdo sobre 
+ele e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione  a  pisseta  contendo  água na  proveta. Clique  com  o  botão  direito  do  mouse 
+sobre a proveta e selecione a opção “Posicionar na proveta”. 
+ 
+ 
+ 
+Coloque aproximadamente 100 mL de água na  proveta. Clique com o botão esquerdo 
+do mouse sobre a pisseta para despejar a água.  
+ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione a  proveta  no  béquer.  Clique  na  proveta  com  o  botão  direito  do  mouse  e 
+selecione a opção “Posicionar no béquer”. 
+ 
+ 
+ 
+Transfira  a  água  da  proveta  para  o  béquer.  Clique e  pressione  o  botão  esquerdo  do 
+mouse até que toda água seja despejada.  
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione o bastão de vidro no béquer contendo água e sal. Clique com o botão direito 
+do mouse sobre o bastão de vidro e selecione a opção “Posicionar no béquer 1”. 
+ 
+ 
+ 
+Homogeneíze a mistura usando o bastão de vidro. Clique e pressione o botão esquerdo 
+do mouse para misturar.  
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Retorne o  bastão de vidro para a mesa. Clique com o botão direito do mouse sobre o 
+bastão e selecione a opção “Colocar na mesa”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+  
+3. PREPARANDO A SOLUÇÃO DE DETERGENTE  
+ 
+Posicione  a  pisseta contendo  detergente  na  proveta.  Clique  com  o  botão  direito  do 
+mouse sobre a pisseta e selecione a opção “Posicionar na proveta”. 
+ 
+ 
+ 
+Em  seguida,  adicione  aproximadamente  25  mL de  detergente  na  proveta.  Clique  e 
+pressione o botão esquerdo do mouse até atingir o volume desejado.  
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Retorne a pisseta para a mesa. Clique na pisseta com o botão direito do mouse. 
+Complete o volume de 100 mL da proveta com água. Mova a pisseta para a proveta. Em 
+seguida, clique e pressione a pisseta com o botão esquerdo do mouse até preencher o 
+volume desejado.  
+ 
+ 
+ 
+Retorne a pisseta para a mesa repetindo o mesmo procedimento visto anteriormente.  
+Posicione a proveta no béquer 2. Clique com o botão direito do mouse sobre a proveta 
+e selecione a opção “Posicionar no béquer 2”. 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Despeje  o  conteúdo da  proveta no  béquer. Clique  e  pressione  o  botão  esquerdo  do 
+mouse até que toda solução de detergente seja despejada.  
+ 
+ 
+ 
+Para finalizar essa etapa, retorne a proveta para a mesa. Clique na proveta com o botão 
+direito do mouse e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+4. PREPARANDO A AMOSTRA 
+ 
+Inicialmente, posicione o béquer na proveta. Clique no béquer com o botão direito do 
+mouse e selecione a opção “Posicionar na proveta”.  
+ 
+Em seguida, transfira aproximadamente 15 mL da solução de NaCl 3% para a proveta. 
+Clique no  béquer  e  pressione  com  o  botão  esquerdo  do  mouse  até  atingir  o  volume 
+desejado.  
+ 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Retorne o béquer para a mesa. Clique no béquer com o botão direito do mouse.  
+Posicione  a  proveta  no  copo.  Clique  na  proveta  com  o  botão  direito  do  mouse  e 
+selecione a opção “Posicionar no copo”.  
+ 
+ 
+ 
+Despeje o conteúdo da proveta no copo. Clique e pressione o botão esquerdo do mouse 
+sobre a proveta até que todo conteúdo seja derramado.  
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Com o auxílio do abaixador de língua, colete uma amostra bucal. Clique no palito com o 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Logo  depois,  descarte  o  palito  no  envelope.  Clique  no  palito  com  o  botão  direito  do 
+mouse.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Realize o bochecho. Clique no copo com o botão esquerdo do mouse. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+5. EXTRAINDO O DNA 
+ 
+Encaixe a pipeta volumétrica de 10 mL no pipetador. Clique no pipetador tipo pera com 
+o  botão direito  do  mouse  e  selecione  a  opção  “Encaixar  na  pipeta  volumétrica  de  10 
+mL”. 
+ 
+ 
+ 
+Mova o conjunto para o copo. Clique na pipeta com o botão direito do mouse e selecione 
+a opção “Posicionar no copo”. 
+ 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Preencha o volume da pipeta volumétrica com a solução que está no copo.  
+Inicialmente, mude a visualização para a pipeta, “Alt+3”. 
+ pressione o botão A. Clique com o botão esquerdo do mouse sobre o botão.  
+ 
+ 
+ 
+Em  seguida,  pressione  a  pera.  Clique  e  pressione  a  pera  com  o  botão  esquerdo  do 
+mouse.  
+ 
+ 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Solte o botão “A”. Clique com o botão esquerdo do mouse no respectivo botão.  
+ 
+ 
+ 
+Aspire a solução que está no copo. Aperte e pressione o botão esquerdo do mouse sobre 
+o botão “S” até preencher todo volume.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Mude a visualização para a bancada, “Alt+1”.  
+Mova  o  conjunto da  pipeta  para  o  béquer.  Clique  na  pipeta  com  o  botão  direito  do 
+mouse e selecione a opção “Posicionar no tubo de ensaio”. Em seguida, escolha o tubo 
+de ensaio que deseja mover.  
+ 
+ 
+ 
+Despeje o conteúdo no tubo de ensaio escolhido. Primeiro, Mude a visualização para a 
+pipeta, “Alt+3”.  Com o botão esquerdo  do mouse, clique e pressione o botão “E” até 
+que toda solução seja transferida.  
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Mude a visualização para a bancada, “Alt+1”.  
+Retorne  a  pipeta  para  a  bancada.  Clique  na  pipeta  com  o  botão direito  do  mouse  e 
+selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+Desencaixe a pipeta do pipetador. Clique no pipetador com o botão direito do mouse e 
+selecione a opção “Desencaixar”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Encaixe a pipeta volumétrica de 1 mL no pipetador. Clique com o botão direito do mouse 
+no pipetador e selecione a opção “Encaixar na pipeta volumétrica de 1 mL”.  
+ 
+ 
+ 
+Mova a pipeta para o béquer contendo a solução de detergente. Clique na pipeta com 
+o botão direito e selecione a opção “Posicionar no béquer 2”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione  a  pipeta  no  interior  do  béquer.  Clique  na  pipeta  com  o  botão  esquerdo  do 
+mouse.  
+ 
+ 
+ 
+Aspire aproximadamente 0,5 mL da solução de detergente. O processo é análogo ao que 
+foi executado com a solução de NaCl.  
+Retire a pipeta do interior do béquer. Clique na pipeta com o botão direito do mouse.  
+ 
+ 
+ 
+ 
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione  a  proveta  no  tubo  de  ensaio  que  já  está  com  a  solução  de  NaCl.  Clique na 
+proveta  com  o  botão  direito  do  mouse  e,  selecione  a  opção  “Posicionar no  tubo  de 
+ensaio”. Em seguida, escolha o tubo que deseja posicionar.  
+ 
+ 
+ 
+Despeje o conteúdo da proveta no tubo de ensaio. Clique e pressione o botão “E” até 
+que toda solução seja transferida.  
+ 
+ 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Retorne a pipeta para a mesa. Clique na pipeta com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Remova os conteúdos dos béqueres. Clique no béquer com o botão direito do mouse e 
+selecione a opção “Remover conteúdo”. Faça isso nos 2 béqueres.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione a garrafa contendo álcool na proveta. Clique na garrafa com o botão  direito 
+do mouse e selecione a opção “Posicionar na proveta”. 
+ 
+ 
+ 
+Destampe a garrafa. Clique com o botão esquerdo do mouse sobre ela para destampar.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Despeje o álcool na proveta. Com o botão esquerdo do mouse sobre a garrafa, clique e 
+pressione até derramar o volume desejado. 
+ 
+ 
+ 
+Tampe a garrafa, clique com o botão direito do  mouse sobre ela. Em seguida, retorne 
+para a mesa, clicando novamente com o botão direito do mouse.  
+Transfira o álcool da proveta para o béquer. Clique na proveta com o botão direito do 
+mouse e, selecione a opção “Posicionar no béquer 1”.  
+ 
+ 
+ 
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Despeje  o  conteúdo  da  proveta  no  béquer.  Clique  com  o  botão  esquerdo  do  mouse 
+sobre a proveta e pressione até que todo volume seja transferido.  
+ 
+ 
+ 
+Retorne a proveta para a mesa. Clique na proveta com o botão direito do mouse sobre 
+a proveta e, selecione a opção “Posicionar na mesa”. 
+Em seguida, posicione a micropipeta no béquer contendo álcool. Clique na micropipeta 
+com o botão esquerdo do mouse e, selecione a opção “Posicionar no béquer 1”. 
+ 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Capte o  álcool  com  a  micropipeta.  Clique  na  micropipeta  com  o  botão esquerdo do 
+mouse.  
+ 
+ 
+ 
+Posicione a micropipeta no tubo de ensaio contendo a mistura. Clique na micropipeta 
+com o botão direito do mouse e selecione a opção “Posicionar em um tubo de ensaio”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Transfira o álcool da micropipeta para o tubo de  ensaio. Clique na micropipeta com  o 
+botão esquerdo do mouse.  
+ 
+ 
+ 
+Retorne a micropipeta para a base. Clique na micropipeta com o botão direito do mouse 
+e, selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Mova o bastão de vidro para o tubo de ensaio. Clique no bastão de vidro com o botão 
+direito do mouse e, selecione a opção “Posicionar em um tubo de ensaio”. 
+ 
+ 
+ 
+Misture vigorosamente as soluções. Com o botão esquerdo do mouse, clique no bastão 
+de vidro e pressione com o botão esquerdo do mouse.  
+ 
+ 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Retorne o bastão de vidro para a mesa. Clique no bastão com o botão direito do mouse 
+e, selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Mude a visualização para os tubos de ensaio, “Alt+2”. 
+Espere a conclusão  da  reação.  Clique  com  o  botão  esquerdo  do  mouse  na  caixa  de 
+diálogo correspondente.  
+ 
+ 
+ 
+ 
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Posicione  o  palito  de  madeira  do  tubo  de  ensaio  contendo a  amostra  de  DNA.  Com  o 
+botão direito do mouse, clique no palito e, selecione a opção “Posicionar em um tubo 
+de ensaio”. 
+ 
+ 
+ 
+Colete o DNA. Clique com o botão esquerdo do mouse no palito.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Destampe o tubo do Eppendorf. Clique no tubo com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Transfira o DNA que está no palito para o tubo Eppendorf. Clique no palito com o botão 
+direito do mouse e, selecione a opção “Posicionar no tubo Eppendorf”. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Executando os procedimentos que já foram ensinados nesse tutorial, despeje a água na 
+proveta, transfira para o  béquer e com a pipeta volumétrica de 1 mL, transfira  para  o 
+tubo Eppendorf.  
+Transfira  aproximadamente  0,5  mL  para  o  tubo.  Clique  e  pressione  o  botão  “E” do 
+pipetador até que o volume desejado seja despejado.  
+ 
+ 
+ 
+Retorne a pipeta para a mesa. Clique na pipeta com o botão direito do mouse e selecione 
+a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Agite o palito no interior do Eppendorf. Clique com o botão esquerdo do mouse sobre o 
+palito. 
+ 
+ 
+ 
+Retire o palito do interior do tubo. Clique com o botão direito do mouse sobre o palito 
+e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+Tampe o tubo Eppendorf. Clique no tubo com o botão direito do mouse para tampar.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PLATAFORMAS MOLECULARES  
+EXTRAÇÃO DE ÁCIDO DESOXIRRIBONUCLEICO (DNA) DE CÉLULAS HUMANAS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todas as vidrarias e materiais utilizados. Clique nos utensílios com o 
+botão direito do mouse e selecione a opção “Remover conteúdo” ou “Limpar”. 
+ 
+ 

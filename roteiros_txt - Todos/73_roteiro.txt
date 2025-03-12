@@ -1,0 +1,1165 @@
+
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+1 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá separar frações e componentes orgânicos a partir 
+de um extrato vegetal utilizando procedimentos cromatográficos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2 
+ 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+3 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+4 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+5 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+● Acetona; 
+● Algodão; 
+● Bastão de vidro; 
+● Béquer de 50 mL; 
+● Béquer de 1000 mL; 
+● Coluna Cromatográfica; 
+● Erlenmeyer de 100 mL; 
+● Extrato de espinafre; 
+● Funil simples; 
+● Hexano/acetona; 
+● Hexano; 
+● Lápis; 
+● Papel filtro; 
+● Pipetas de Pasteur; 
+● Pisseta; 
+● Placa cromatográfica; 
+● Régua; 
+● Sílica em gel; 
+● Suporte da coluna cromatográfica; 
+● Tubo capilar; 
+● Vidro de relógio. 
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+6 
+PROCEDIMENTOS 
+ 
+CROMATOGRAFIA EM COLUNA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+2. PREPARANDO A COLUNA CROMATOGRÁFICA  
+ 
+Coloque o algodão na bureta com o auxílio do bastão de vidro. Logo depois, acople o 
+funil. Adicione a solução de hexano, armazenada na pisseta, no béquer contendo sílica 
+em gel (béquer 1). Com o auxílio do bastão de vidro, misture o hexano com a sílica em 
+gel. Em seguida, transfira o conteúdo do béquer 1 para bureta. Depois, sedimente o 
+adsorvente da proveta com os dedos. 
+ 
+3. REALIZANDO A CROMATOGRAFIA EM COLUNA 
+ 
+Posicione  o  Erlenmeyer  1  abaixo  da  bureta.  Abra  a  torneira  da  bureta.  Note  que  o 
+extrato de  espinafre  será  adicionado  à  bureta. Quando a  quantidade  necessária  for 
+depositada  a  adição  de  extrato  será  interrompida  automaticamente.  Mantenha  o 
+Erlenmeyer 1 na bureta e abra a torneira novamente. Observe a adição da solução de 
+hexano/acetona na coluna cromatográfica (bureta). Após finalizar a adição da solução 
+anterior,  abra  novamente  a  torneira  e  observe  a  adição  da  solução  de  acetona. 
+Coloque o Erlenmeyer 1 na bancada após a conclusão da adição de acetona na coluna 
+cromatográfica. Observe, de perto, a coluna cromatográfica. 
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+7 
+Mova  o  Erlenmeyer  2  para  a  bureta  e  abra  a  torneira.  Observe  o  escoamento  da 
+mancha   de   líquido   amarelo.   Retorne   o   Erlenmeyer   2   para   bancada.   Mova   o 
+Erlenmeyer 3 para bureta, abra a torneira e observe o escoamento da mancha azul. 
+Retorne o Erlenmeyer 3 para bancada ao final do processo. Mova o Erlenmeyer 4 para 
+bureta,  abra  a  torneira  e  observe  o  escoamento  da  mancha  verde.  Retorne  o 
+Erlenmeyer 4 para bancada ao final do processo. Observe, de perto, os Erlenmeyer. 
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+8 
+CROMATOGRAFIA EM PAPEL 
+ 
+1. PREPARANDO A PLACA CROMATOGRÁFICA 
+ 
+Com o lápis, trace uma linha na base e outra no topo da placa cromatográfica. Utilize 
+um  tubo  capilar  para  coletar  uma  amostra  do  extrato  de  espinafre  do  béquer  1  e 
+deposite   na   linha   da   base   da placa   cromatográfica.   Colete   uma   amostra   do 
+Erlenmeyer, utilizando um novo tubo capilar, e aplique sobre a linha da base da placa.  
+ 
+2. ELUINDO A PLACA CROMATOGRAFIA 
+ 
+Transfira  a  solução  de  hexano/acetona  para  o  béquer  (câmara  cromatográfica). 
+Adicione  o  papel  filtro  dentro  do  béquer  e  utilize  o  vidro  de  relógio  para  tampar. 
+Aguarde  10  minutos  para  que  a  ambientação  seja  concluída  e  então  destampe  o 
+béquer.  Leve  a  placa  cromatográfica  ao  béquer  e  tampe  com  o  vidro  de  relógio 
+novamente. Aguarde 15 minutos até o final da eluição, então aproxime-se do béquer 
+para retirar a placa cromatográfica e movê-la para a bancada.  
+ 
+3. COLHENDO OS DADOS OBTIDOS 
+ 
+Posicione  a  placa  ao  lado  da  régua  (bancada  de  medição)  para  analisar  a  distância 
+percorrida pelas substâncias separadas no processo. Utilize a linha guia para auxiliar 
+na observação da distância.  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+9 
+ 
+4. REPETINDO O EXPERIMENTO 
+ 
+Retorne a placa para bancada. Troque a placa por uma nova, repita a etapa de adição 
+das amostras. Retire o papel filtro da câmara cromatográfica e troque por um novo. 
+Limpe o conteúdo da câmara e, em seguida, repita o processo de eluição substituído 
+a  solução  de  hexano/acetona  pela  solução  de  acetona  pura.  Observe  o  resultado 
+obtido. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas de 09 a 11 deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+10 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais os principais adsorventes usados em cromatografia? Que outros adsorventes 
+podem ser usados para a cromatografia?  
+ 
+ 
+ 
+2.  Quais  os  principais  fatores  que  afetam  a  ordem  de  eluição  de  uma  substância  em 
+uma coluna cromatográfica.  
+ 
+ 
+ 
+3. Quais as principais diferenças entre cromatografia de adsorção e partição?  
+ 
+ 
+ 
+4. Como se classificam os métodos cromatográficos quanto à técnica e ao mecanismo 
+de separação?  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+11 
+5. Qual o tipo de mecanismo de separação envolvido na cromatografia em camada 
+delgada e em cromatografia em coluna?  
+ 
+ 
+ 
+6. Duas substâncias que interagem da mesma forma com uma fase estacionária podem 
+ser separadas por cromatografia em papel? Explique. 
+ 
+ 
+ 
+7. O que é o fator de retenção (Rf) na CCD? Como ele é calculado?  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+12 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+13 
+ 
+TUTORIAL VIRTUALAB 
+ 
+CROMATOGRAFIA EM COLUNA 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+14 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, óculos 
+e as luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+15 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+16 
+ 
+2. PREPARANDO A COLUNA CROMATOGRÁFICA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque  o  algodão  na bureta  clicando  com  o  botão  esquerdo  do  mouse  no  pote  de 
+algodão. 
+ 
+   
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+17 
+Posicione o funil na bureta clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Posicione  a  pisseta com  hexano  no  béquer  contendo  sílica  em  gel  clicando  na  pisseta 
+com o botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+ 
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+18 
+Despeje o hexano no béquer clicando e pressionando o botão esquerdo do mouse sobre 
+a pisseta.  
+ 
+ 
+ 
+Retorne a pisseta para a bancada clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+19 
+Misture  os  compostos  clicando  no  bastão  de  vidro  com  o  botão  direito  do  mouse  e 
+selecionando a opção “Misturar béquer 1”. 
+ 
+ 
+ 
+Despeje o conteúdo do béquer 1 na bureta clicando no béquer com o botão esquerdo 
+do mouse.  
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+20 
+Sedimente o adsorvente presente na bureta clicando com o botão direito do mouse na 
+bureta.  
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+21 
+ 
+3. REALIZANDO A CROMATOGRAFIA EM COLUNA  
+ 
+Mova o Erlenmeyer 1 para a bureta clicando com o botão direito do mouse sobre ele.  
+ 
+ 
+ 
+Abra a válvula clicando com o botão esquerdo do mouse sobre ela. Aguarde até que a 
+adição do extrato de espinafre esteja completa.  
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+22 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela e observe 
+a adição do hexano/acetona na bureta. 
+ 
+ 
+ 
+Abra, novamente, a válvula da bureta e observe a adição da solução de acetona pura. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+23 
+Observe  a  coluna  cromatográfica  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+bureta.  
+ 
+ 
+ 
+Note que uma janela pop-up será exibida no canto superior direito com a visualização 
+aproximada. Para fechá-la, clique no “X” com o botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+24 
+Retorne  o  Erlenmeyer  1  para  a  posição  inicial  clicando  nele  com  o  botão  direito  do 
+mouse e selecionando a opção “Mover para a bancada”.  
+ 
+ 
+ 
+Mova o Erlenmeyer 2 para a bureta clicando com o botão direito do mouse sobre ele.  
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+25 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela. Aguarde 
+até que a transferência da macha amarela esteja completa  
+ 
+ 
+ 
+Retorne  o  Erlenmeyer  2  para  a  posição  inicial  clicando  nele  com  o  botão  direito  do 
+mouse e selecionando a opção “Mover para a bancada”.  
+ 
+  
+  
+ 
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+26 
+Mova o Erlenmeyer 3 para a bureta clicando com o botão direito do mouse sobre ele.  
+ 
+ 
+ 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela. Aguarde 
+até que a transferência da macha azul esteja completa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+27 
+Retorne  o  Erlenmeyer  3  para  a  posição  inicial  clicando  nele  com  o  botão  direito  do 
+mouse e selecionando a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Mova o Erlenmeyer 4 para a bureta clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+28 
+Abra a válvula da bureta clicando com o botão esquerdo do mouse sobre ela. Aguarde 
+até que a transferência da macha verde esteja completa. 
+ 
+ 
+ 
+Retorne  o Erlenmeyer  4 para  a posição  inicial  clicando  com  o botão  direito  do  mouse 
+sobre ele e selecionando a opção “Mover para a bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+29 
+CROMATOGRAFIA EM PAPEL 
+ 
+1. PREPARANDO A PLACA CROMATOGRÁFICA 
+ 
+Visualize as amostras clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostras” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Marque a base da placa clicando com o botão direito do mouse no lápis e selecionando 
+a opção “Riscar base”. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+30 
+Marque o limite da placa clicando com o botão direito do mouse no lápis e selecionando 
+a opção “Riscar limite”. 
+ 
+ 
+ 
+Adicione  a  amostra  do  extrato  de  espinafre  na  placa clicando  com  o  botão  direito  do 
+mouse no tubo capilar e selecione a opção “Do béquer”. Repita o processo com um novo 
+tubo capilar para coletar uma amostra do Erlenmeyer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+31 
+Adicione a amostra do Erlenmeyer na placa clicando com o botão direito do mouse no 
+tubo capilar e selecione a opção “Do Erlenmeyer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+32 
+ 
+2. ELUINDO A PLACA CROMATOGRÁFICA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”.  
+ 
+ 
+ 
+Mova  a garrafa  com  solução  de  hexano/acetona  para  bancada  clicando  com  o  botão 
+direito do mouse na garrafa e selecionando a opção “Colocar na mesa”. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+33 
+Adicione  a  solução  no  béquer  clicando  com  o  botão  direito  do  mouse  na  garrafa  e 
+selecionando a opção “Colocar no béquer”. 
+ 
+ 
+ 
+Mova a garrafa de hexano acetona para a prateleira clicando com o botão direito do 
+mouse e selecionando a opção “Colocar na prateleira”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+34 
+Mova o papel filtro para o béquer clicando com o botão esquerdo do mouse no papel 
+filtro. 
+ 
+ 
+ 
+Tampe o béquer clicando com o botão direito do mouse no vidro de relógio e selecione 
+a opção “Posicionar no béquer”. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+35 
+Aguarde 10 minutos até que o béquer esteja ambientado. Avance o tempo clicando 
+com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+Mova a placa cromatográfica para o béquer clicando com o botão direito do mouse na 
+placa e selecionando a opção “Mover para o béquer”.  
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+36 
+Tampe o béquer clicando com o botão direito do mouse no vidro de relógio e selecione 
+a opção “Posicionar no béquer”. 
+ 
+ 
+ 
+Observe  que,  ao  tampar  o  béquer,  um  novo  cronômetro  aparece  na  tela.  Utilize  o 
+cronômetro caso queira marcar o tempo que o solvente leva para chegar até a marcação 
+final ou selecione a opção “Avançar” para avançar ao final da eluição.  
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+37 
+Visualize  o béquer  clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Béquer” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Coloque a placa sobre a bancada clicando com o botão direito do mouse sobre a placa 
+e selecionando a opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+38 
+Remova o papel filtro do béquer clicando com o botão esquerdo sobre o papel filtro. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+39 
+ 
+3. COLHENDO OS DADOS OBTIDOS 
+ 
+Mova  a  placa  clicando  com  o  botão  direito  do  mouse  na  placa  e  selecione  a  opção 
+“Mover para medição”. 
+ 
+ 
+ 
+Visualize  aplaca  cromatográfica  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Medição” ou através do atalho do teclado “Alt+6”. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+40 
+Observe  que,  no  canto  inferior  esquerdo  da  tela,  existe  a  opção  de  utilizar  uma  linha 
+guia facilitando o processo de leitura. Faça os cálculos e anote os resultados em uma das 
+tabelas da seção “Avaliação de resultados”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+41 
+ 
+4. REPETINDO O EXPERIMENTO 
+ 
+Mova  a  placa  para  a  bancada  clicando  com  o  botão  direito  do  mouse  na  placa 
+cromatográfica e selecionando a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Visualize a amostra clicando com o botão esquerdo do mouse na câmera com o nome 
+“Amostras” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+42 
+Substitua   a   placa   utilizada   clicando   com   o   botão   direito   do   mouse   na   placa 
+cromatográfica e selecionando a opção “Trocar placa”. 
+ 
+ 
+ 
+Adicione  a  amostra  do  extrato  de  espinafre  na  placa  clicando  com  o  botão  direito  do 
+mouse no tubo capilar e selecione a opção “Do béquer”. Repita o processo com um novo 
+tubo capilar para coletar uma amostra do Erlenmeyer. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+43 
+Adicione a amostra do Erlenmeyer na placa clicando com o botão direito do mouse no 
+tubo capilar e selecione a opção “Do Erlenmeyer”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”.  
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+44 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre o béquer. 
+ 
+ 
+ 
+Troque o papel filtro clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+45 
+Mova a garrafa de acetona para bancada clicando com o botão direito do mouse sobre 
+ela e selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Adicione a solução de acetona no béquer clicando com o botão direito sobre a garrafa e 
+selecionando a opção “Colocar no béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+46 
+Coloque  a  garrafa  na  prateleira  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na prateleira”. 
+ 
+ 
+ 
+Repita  o  processo  de  incubação  da  placa  cromatográfica  e  do  papel  filtro  na  câmara 
+cromatográfica e observe o resultado obtido. 
+ 
+  
+
+ 
+ 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+CROMATOGRAFIA EM COLUNA E EM CAMADA DELGADA 
+ 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+47 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Realize a leitura da placa cromatográfica. Em seguida, siga para a seção “Avaliação dos 
+Resultados”, localizada nas páginas 09 a 11 deste roteiro, e responda de acordo com o 
+que  foi  observado  nos  experimentos,  associando  também  com  os  conhecimentos 
+aprendidos sobre o tema. 
+ 
+ 
+ 

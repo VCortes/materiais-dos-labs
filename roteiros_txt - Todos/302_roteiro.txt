@@ -1,0 +1,1213 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento,  você  irá realizar  explorar  duas  formas  de  identificar  e/ou 
+caracterizar  aminoácidos  e  proteínas  através  da  análise  qualitativa  de  reações 
+químicas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada; 
+• Banho-maria; 
+• Béqueres; 
+• Jaleco; 
+• Luva de latex; 
+• Pera; 
+• Pipetas; 
+• Pisseta; 
+• Solução de Albumina; 
+• Solução de Biureto; 
+• Solução de Ninidrina; 
+• Solução de Prolina; 
+• Solução de Triptofano; 
+• Suporte de tubos; 
+• Tubos de ensaio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual localizados  no  “Armário  de  EPIs”.  Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas e óculos de proteção. 
+ 
+2. SELECIONANDO OS MATERIAIS 
+ 
+Abra a primeira gaveta da bancada clicando com o botão esquerdo nela. Mova os béqueres 
+para mesa. 
+ 
+3. REALIZANDO A REAÇÃO DE NINIDRINA 
+ 
+Preencha os béqueres até a metade: no béquer 1 com a solução de Prolina, no béquer 2 com 
+a  solução de Triptofano.  Transfira 1  mL do  conteúdo dos béqueres  para os  tubos de ensaio 
+utilizando as pipetas. Em seguida, goteje 5 gotas da solução de Ninidrina nos tubos de ensaio, 
+homogeneíze e mova os tubos para o banho-maria entre 90 e 95 °C por 2 minutos. 
+ 
+4. REALIZANDO A REAÇÃO DE BIURETO 
+ 
+Preencha os béqueres até a metade: no béquer 1 com a solução de Albumina, no béquer 2 
+com água destilada, no béquer 3 com a solução de Prolina e no béquer 4 com a solução de 
+Biureto. Transfira o conteúdo dos béqueres para os tubos de ensaio utilizando as pipetas. Em 
+seguida, transfira 2 mL da solução de Biureto para cada tubo e homogeneíze. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+  
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique   como a   estrutura   primária   de   uma   proteína   está   relacionado   à 
+sequência de aminoácidos presentes. 
+ 
+ 
+ 
+2. Quais  são os  métodos  mais  comuns  utilizados  para  determinar  a  estrutura 
+secundária de uma proteína? 
+ 
+ 
+ 
+3. Qual  a  relação  entre  a  estrutura tridimensional  de  uma  proteína  e  sua  função 
+biológica? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs”, localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a gaveta de vidrarias clicando com o botão esquerdo do mouse na câmera com 
+o nome “Gaveta de vidrarias” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+2. SELECIONANDO OS MATERIAIS 
+ 
+Abra a gaveta clicando com o botão esquerdo do mouse sobre a gaveta indicada. 
+ 
+ 
+ 
+Mova os béqueres clicando com o botão esquerdo do mouse sobre os béqueres. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Feche a gaveta clicando com o botão esquerdo do mouse sobre a gaveta indicada. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+3. REALIZANDO A REAÇÃO DE NINIDRINA 
+ 
+Mova a solução de Prolina clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para béquer 1”. 
+ 
+ 
+ 
+Preencha com  a  solução até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a garrafa âmbar indicada. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova a solução de Prolina clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para prateleira”. 
+ 
+ 
+ 
+Mova a solução de Triptofano clicando com o botão direito do mouse sobre a garrafa 
+âmbar indicada e selecione a opção “Mover para béquer 2”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Preencha  com  a  solução  até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a garrafa âmbar indicada. 
+ 
+ 
+ 
+Mova a solução de Triptofano clicando com o botão direito do mouse sobre a garrafa 
+âmbar indicada e selecione a opção “Mover para prateleira”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  indicada  e 
+selecione a opção “Mover para béquer 1”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 1 mL da solução pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para tubo 1”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Despeje o conteúdo pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para suporte”. 
+ 
+ 
+ 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte de pipetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para béquer 2”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Aspire 1 mL da solução pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para tubo 2”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Despeje o conteúdo pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para suporte”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova o conta-gotas clicando com o botão direito do mouse sobre o frasco indicado e 
+selecione a opção “Mover para tubo 1”. 
+ 
+ 
+ 
+Goteje 5 gotas da solução de Ninidrina clicando com o botão esquerdo do mouse sobre 
+o conta-gotas indicado. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova o conta-gotas clicando com o botão direito do mouse sobre o frasco indicado e 
+selecione a opção “Mover para tubo 2”. 
+ 
+ 
+ 
+Goteje 5 gotas da solução de Ninidrina clicando com o botão esquerdo do mouse sobre 
+o conta-gotas indicado. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova o conta-gotas clicando com o botão direito do mouse sobre o frasco indicado e 
+selecione a opção “Mover para mesa”. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Homogeneíze  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tubo 
+indicado. 
+ 
+ 
+ 
+Homogeneíze  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tubo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova o tubo para o banho-maria clicando com o botão direito do mouse sobre o tubo 
+indicado. 
+ 
+ 
+ 
+Mova o tubo para o banho-maria clicando com o botão direito do mouse sobre o tubo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize o  banho-maria clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Banho-maria” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Configure para uma temperatura  entre  90  e 95  °C  clicando  com  o botão esquerdo  do 
+mouse sobre o local indicado e arraste o mouse para a direita. 
+ 
+ 
+ 
+Após 2 minutos, desligue o banho-maria clicando com o botão esquerdo do mouse sobre 
+o equipamento. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse sobre o tubo indicado. 
+ 
+ 
+ 
+Mova o tubo de ensaio clicando com o botão esquerdo do mouse sobre o tubo indicado. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Observe  o  resultado  e  prossiga  para  o  próximo  experimento  clicando  com  o  botão 
+esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+4. REALIZANDO A REAÇÃO DE BIURETO 
+ 
+Visualize a gaveta de vidrarias clicando com o botão esquerdo do mouse na câmera com 
+o nome “Gaveta de vidrarias” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra a gaveta clicando com o botão esquerdo do mouse sobre a gaveta indicada. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova os béqueres clicando com o botão esquerdo do mouse sobre os béqueres. 
+ 
+ 
+ 
+Feche a gaveta clicando com o botão esquerdo do mouse sobre a gaveta indicada. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  a  solução de  Albumina clicando  com  o  botão  direito  do  mouse  sobre  a  garrafa 
+âmbar indicada e selecione a opção “Mover para béquer 1”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Preencha  com  a  solução  até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a garrafa âmbar indicada. 
+ 
+ 
+ 
+Mova  a  solução  de Albumina clicando  com  o  botão  direito  do  mouse  sobre  a  garrafa 
+âmbar indicada e selecione a opção “Mover para prateleira”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova a água destilada clicando com o botão direito do mouse sobre a pisseta indicada 
+e selecione a opção “Mover para o béquer 2”. 
+ 
+ 
+ 
+Preencha  com  a  solução  até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a pisseta. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova a água destilada clicando com o botão direito do mouse sobre a pisseta indicada 
+e selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Mova a solução de Prolina clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para béquer 3”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Preencha  com  a  solução  até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a garrafa âmbar indicada. 
+ 
+ 
+ 
+Mova a solução de Prolina clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para prateleira”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova a solução de Biureto clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para béquer 4”. 
+ 
+ 
+ 
+Preencha  com  a  solução  até  a  metade do  béquer clicando  com  o  botão  esquerdo  do 
+mouse sobre a garrafa âmbar indicada. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova a solução de Biureto clicando com o botão direito do mouse sobre a garrafa âmbar 
+indicada e selecione a opção “Mover para prateleira”. 
+ 
+ 
+ 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte com pipetas” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para béquer 1”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Aspire 2 mL da solução pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+ 
+Visualize a pera da pipeta clicando com o botão esquerdo do mouse na câmera com o 
+nome “Prateleira” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+ 
+Despeje o conteúdo pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize as pipetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Suporte com pipetas” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Repita os procedimentos anteriores, mova a pipeta para o béquer 2, visualize a bancada, 
+retire o ar da pera, aspire 2 mL da solução, mova a pipeta para o tubo de ensaio 2, retire 
+o ar da pera, despeje o conteúdo, mova a pipeta para o suporte. Mova a pipeta para o 
+béquer 3, visualize a bancada, retire o ar da pera, aspire 2 mL da solução, mova a pipeta 
+para o tubo de ensaio 3, retire o ar da pera, despeje o conteúdo, mova a pipeta para o 
+suporte. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o béquer 4”. 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Aspire 2 mL da solução pressionando com o botão esquerdo do mouse no botão “S”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para tubo de ensaio 1”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize a pera da pipeta clicando com o botão esquerdo do mouse na câmera com o 
+nome “Prateleira” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no centro da pera. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Despeje o conteúdo pressionando com o botão esquerdo do mouse no botão “E”. 
+ 
+ 
+ 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o béquer 4”. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, retire o ar da pera, aspire 2 mL da solução, mova a 
+pipeta para o tubo de ensaio 2, retire o ar da pera, despeje o conteúdo, mova a pipeta 
+para o béquer 4, retire o ar da pera, aspire 2 mL da solução, mova a pipeta para o tubo 
+de ensaio 3, retire o ar da pera, despeje o conteúdo. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Mova  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  indicada  e 
+selecione a opção “Mover para o suporte”. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+Homogeneíze  o  conteúdo  clicando  com  o  botão esquerdo  do  mouse  sobre  o  tubo 
+indicado. 
+ 
+ 
+ 
+Repita o procedimento anterior, homogeneíze o conteúdo dos tubos 2 e 3. Observe o 
+resultado. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+CARACTERIZAÇÃO DE AMINOÁCIDOS E PROTEÍNAS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

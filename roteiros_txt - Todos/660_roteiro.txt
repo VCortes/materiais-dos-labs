@@ -1,0 +1,947 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,    você    irá    aprimorar    seus   conhecimentos    sobre   os 
+procedimentos e testes realizados para a determinação da qualidade do batom. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador magnético; 
+• Balas de batom; 
+• Bandeja plástica branca; 
+• Béquer de 50 mL; 
+• Béquer de 500 mL; 
+• Bico de Bunsen 
+• Chapa de aquecimento; 
+• Escala de 1 metro; 
+• Esfera de aço;  
+• Pisseta com água; 
+• Suporte em aço;  
+• Termômetro; 
+• Tubos capilares; 
+• Vidro de relógio. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+2. TESTANDO A DUREZA 
+ 
+Uma a uma, coloque as balas de batom no topo da escala e jogue-as a uma altura de 1 metro 
+sobre a bancada. Observe se houve rachadura de alguma das balas. Após o teste, descarte-as. 
+ 
+3. DETERMINANDO O PONTO DE FUSÃO 
+ 
+Acenda o bico de Bunsen com o fósforo. Pegue cada um dos três capilares e sele uma de suas 
+pontas passando-a duas vezes na chama produzida pelo bico de Bunsen , por fim, desligue o  
+bico de Bunsen. Com a ponta dos capilares que não foi ao fogo, insira em cada um dos batons 
+para  recolher  uma amostra.  Em  seguida,  coloque  25  mL de  água  armazenada  na  pisseta no 
+béquer de 50 mL. Coloque o capilar com o batom e o termômetro no béquer sobre a chapa 
+de aquecimento e ligue-a. Observe a temperatura indicado no termômetro quando o batom 
+no capilar se tornar transparente. Então, desligue a chapa de aquecimento e troque o béquer. 
+Repita este procedimento para os outros dois batons. 
+ 
+4. DETERMINANDO O PONTO DE AMOLECIMENTO 
+ 
+Preencha o béquer de 500 mL com a água armazenada na pisseta. Coloque a esfera de aço em 
+uma das balas de batom. Mova o batom com a esfera para o suporte de aço dentro do béquer 
+de 500 mL. Em sequência, coloque o termômetro no béquer.  Ligue a chapa de aquecimento 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+  
+e  o  agitador. Observe  a  temperatura  no  termômetro  ao  batom  se  desprender  a  esfera. 
+Finalmente,  desligue  a  chapa  de  aquecimento, troque o  béquer.  Repita  este  procedimento 
+para os outros dois batons. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Houve rachadura em algum/alguns dos batons? 
+ 
+ 
+ 
+2. Indique os pontos de fusão medidos para cada um dos batons: 
+ 
+ Batom vermelho Batom vinho Batom rosa  
+Ponto de fusão 
+(°C) 
+      
+Tabela 1 – Ponto de fusão dos batons. 
+ 
+3. Indique os pontos de amolecimento medidos para cada um dos batons: 
+ 
+ Batom vermelho Batom vinho Batom rosa  
+Ponto de 
+amolecimento 
+(°C) 
+      
+Tabela 2 – Ponto de amolecimento dos batons. 
+ 
+4. O que é possível inferir sobre a qualidade dos batons?  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro do painel  de  visualização no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Abra a torneira clicando com o botão esquerdo do mouse na torneira e passe o cursor 
+do mouse sobre a água. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPI” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse nas portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse nas portas. 
+ 
+ 
+ 
+Visualize as balas de batom clicando com o botão esquerdo do mouse na câmera com o 
+nome “Batons” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+2. TESTANDO A DUREZA 
+ 
+Posicione a bala de batom vermelho no topo da escala e jogue-a na bancada clicando 
+com o botão direito do mouse sobre ela e selecione a opção “Colocar na escala e soltar”. 
+Observe se houve rachaduras no batom. 
+ 
+ 
+ 
+Descarte a bala de batom clicando com o botão esquerdo do mouse no batom. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Posicione a bala de batom vinho no topo da escala e jogue-a na bancada clicando com 
+o  botão  direito  do  mouse sobre  ela e selecione  a opção  “Colocar  na  escala  e  soltar”. 
+Observe se houve rachaduras no batom. 
+ 
+ 
+ 
+Descarte a bala de batom clicando com o botão esquerdo do mouse no batom. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Posicione a bala de batom rosa no topo da escala e jogue-a na bancada clicando com o 
+botão  direito  do  mouse sobre  ela e selecione a  opção  “Colocar  na  escala  e  soltar”. 
+Observe se houve rachaduras no batom. 
+ 
+ 
+ 
+Descarte a bala de batom clicando com o botão esquerdo do mouse no batom. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+3. DETERMINANDO O PONTO DE FUSÃO 
+ 
+Visualize o bico de Bunsen clicando com o botão esquerdo do mouse na câmera com o 
+nome “Bico de Bunsen” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acenda o bico de Bunsen clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Acender/Apagar”. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Visualize os tubos capilares clicando com o botão esquerdo do mouse na câmera com o 
+nome “Tubos capilares” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Passe uma ponta dos capilares pela chama clicando com o botão direito do mouse sobre 
+os capilares e selecione a opção “Selar na chama”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Apague o bico de Bunsen clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Acender/Apagar”. 
+ 
+ 
+ 
+Visualize os tubos capilares clicando com o botão esquerdo do mouse na câmera com o 
+nome “Tubos capilares” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Retire  uma  amostra  de  cada batom  em um capilar  clicando  com  o  botão  direito  do 
+mouse nos capilares e selecione a opção “Mergulhar no batom”. 
+ 
+ 
+ 
+Coloque 25 mL de água destilada no béquer de 50 mL clicando com o botão direito do 
+mouse na pisseta e selecione a opção “Encher béquer de 50 ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque  o  capilar  1  no  béquer  de  50  mL  clicando  com  o  botão  direito  do  mouse no 
+capilar 1 e selecione a opção “Mover para béquer”. 
+ 
+ 
+ 
+Meça a temperatura clicando com o botão direito do mouse no termômetro e selecione 
+a opção “Mover para o béquer de 50ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Ligue   a   chapa   de   aquecimento   clicando   com   o   botão   esquerdo   do   mouse no 
+equipamento. 
+ 
+ 
+ 
+Observe  o  ponto  de  fusão  no  termômetro.  A  temperatura  de  fusão  é  a  que  torna 
+transparente  a  coloração  do  batom  no  capilar. Anote  o  valor  encontrado  na  tabela  1, 
+localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Visualize  o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Tubos capilares” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Substitua  o  béquer  clicando  com  o  botão  direito  do  mouse no  béquer e  selecione  a 
+opção “Trocar béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque 25 mL de água destilada no béquer de 50 mL clicando com o botão direito do 
+mouse na pisseta e selecione a opção “Encher béquer de 50 ml”. 
+ 
+ 
+ 
+Coloque  o  capilar  2  no  béquer  de  50  mL  clicando  com  o  botão  direito  do  mouse no 
+capilar 2 e selecione a opção “Mover para béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Meça a temperatura clicando com o botão direito do mouse no termômetro e selecione 
+a opção “Mover para o béquer de 50ml”. 
+ 
+ 
+ 
+Ligue   a   chapa   de   aquecimento   clicando   com   o   botão   esquerdo   do   mouse no 
+equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Observe  o  ponto  de  fusão  no  termômetro.  A  temperatura  de  fusão  é  a  que  torna 
+transparente  a  coloração  do  batom  no  capilar. Anote  o  valor  encontrado  na  tabela  1, 
+localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+Visualize  o  béquer clicando  com  o  botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Tubos capilares” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Substitua  o  béquer  clicando  com  o  botão  direito  do  mouse no  béquer e  selecione  a 
+opção “Trocar béquer”. 
+ 
+ 
+ 
+Coloque 25 mL de água destilada no béquer de 50 mL clicando com o botão direito do 
+mouse na pisseta e selecione a opção “Encher béquer de 50 ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque  o  capilar  3  no  béquer  de  50  mL  clicando  com  o  botão  direito  do  mouse no 
+capilar 3 e selecione a opção “Mover para béquer”. 
+ 
+ 
+ 
+Meça a temperatura clicando com o botão direito do mouse no termômetro e selecione 
+a opção “Mover para o béquer de 50ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Ligue   a   chapa   de   aquecimento   clicando   com   o   botão   esquerdo   do   mouse   no 
+equipamento. 
+ 
+ 
+ 
+Observe  o  ponto  de  fusão  no  termômetro.  A  temperatura  de  fusão  é  a  que  torna 
+transparente  a  coloração  do  batom  no  capilar. Anote  o  valor  encontrado  na  tabela  1, 
+localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+4. DETERMINANDO O PONTO DE AMOLECIMENTO 
+ 
+Visualize as balas de batom clicando com o botão esquerdo do mouse na câmera com o 
+nome “Batons” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque  a  esfera  de  aço  na  bala  de  batom  vermelho  clicando  com  o  botão  direito  do 
+mouse na bala e selecione a opção “Colocar na esfera”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque  a  bala  de  batom  com  a  esfera  no  suporte  dentro  do  béquer  clicando  com  o 
+botão esquerdo do mouse na esfera. 
+ 
+ 
+ 
+Preencha  o  béquer  de  500  mL  com  água  destilada  clicando  com  o  botão  direito  do 
+mouse na pisseta e selecione a opção "Encher béquer de 500 ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque o termômetro no béquer de 500 mL clicando com o botão direito do mouse no 
+termômetro e selecione a opção “Mover para o béquer de 500ml”. 
+ 
+ 
+ 
+Ligue a chapa aquecedora clicando com o botão esquerdo do mouse no equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Observe o ponto de amolecimento no termômetro. A temperatura de amolecimento é 
+a que faz com que a bala de batom se desprenda da esfera. Anote o valor encontrado 
+na tabela 2, localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+Substitua o  béquer  clicando  com  o  botão  direito  do  mouse no  béquer e  selecione  a 
+opção “Trocar béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Visualize as balas de batom clicando com o botão esquerdo do mouse na câmera com o 
+nome “Batons” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque a esfera de aço na bala de batom vinho clicando com o botão direito do mouse 
+na bala e selecione a opção “Colocar na esfera”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque  a  bala  de  batom  com  a  esfera  no  suporte dentro  do  béquer clicando  com  o 
+botão esquerdo do mouse na esfera. 
+ 
+ 
+ 
+Preencha  o  béquer  de  500  mL  com  água  destilada  clicando  com  o  botão  direito  do 
+mouse na pisseta e selecione a opção "Encher béquer de 500 ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque o termômetro no béquer de 500 mL clicando com o botão direito do mouse no 
+termômetro e selecione a opção “Mover para o béquer de 500ml”. 
+ 
+ 
+ 
+Ligue a chapa aquecedora clicando com o botão esquerdo do mouse no equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Observe o ponto de amolecimento no termômetro. A temperatura de amolecimento é 
+a que faz com que a bala de batom se desprenda da esfera. Anote o valor encontrado 
+na tabela 2, localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+Substitua o  béquer  clicando  com  o  botão  direito  do  mouse no  béquer e  selecione  a 
+opção “Trocar béquer”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Visualize as balas de batom clicando com o botão esquerdo do mouse na câmera com o 
+nome “Batons” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque a esfera de aço na bala de batom rosa clicando com botão direito do mouse no 
+batom e selecione a opção “Colocar na esfera”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque  a  bala  de  batom  com  a  esfera  no  suporte dentro  do  béquer clicando  com  o 
+botão esquerdo do mouse na esfera. 
+ 
+ 
+ 
+Preencha  o  béquer  de  500  mL  com  água  destilada  clicando  com  o  botão  direito  do 
+mouse na pisseta e selecione a opção "Encher béquer de 500 ml”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Coloque o termômetro no béquer de 500 mL clicando com o botão direito do mouse no 
+termômetro e selecione a opção “Mover para o béquer de 500ml”. 
+ 
+ 
+ 
+Ligue a chapa aquecedora clicando com o botão esquerdo do mouse no equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+Observe o ponto de amolecimento no termômetro. A temperatura de amolecimento é 
+a que faz com que a bala de batom se desprenda da esfera. Anote o valor encontrado 
+na tabela 2, localizada na página 08 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+TESTANDO A QUALIDADE DO BATOM 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

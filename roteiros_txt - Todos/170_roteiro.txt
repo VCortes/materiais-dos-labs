@@ -1,0 +1,541 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá determinar o Coeficiente de Atrito de Coulomb (μ) 
+para o material AA6351, verificando as alterações nas dimensões dos corpos de 
+prova após o ensaio de compressão. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Prensa hidráulica; 
+• Corpos de prova; 
+• Paquímetro; 
+• Pisseta com lubrificante; 
+• Flanela. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. PREPARANDO O ENSAIO 
+ 
+Com o auxílio do paquímetro, meça a altura e o diâmetro iniciais de todos os corpos 
+de  prova. Aplique  lubrificante  na  flanela  e  passe  os  corpos  de  prova  de  4  a  6  nela. 
+Ligue o notebook. 
+ 
+2. ENSAIANDO COM CARGA DE 20% 
+ 
+Mova o corpo de prova 1 para a prensa hidráulica e aplique a carga de 20%. Eleva a 
+parte móvel da prensa, retorne o corpo de prova para a bancada e, com o paquímetro, 
+meça a altura e diâmetro finais. Repita esse procedimento com o corpo de prova 4. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+  
+3. ENSAIANDO COM CARGA DE 40% 
+ 
+Repita o procedimento do Passo 2 com os corpos de prova 2 e 5, aplicando carga de 
+40% na prensa hidráulica. 
+ 
+4. ENSAIANDO COM CARGA DE 60% 
+ 
+Repita o procedimento do Passo 2 com os corpos de prova 3 e 6, aplicando carga de 
+60% na prensa hidráulica. 
+ 
+5. OBSERVANDO O GRÁFICO 
+ 
+Insira os valores da altura e diâmetro finais de cada corpo na planilha exibida na tela 
+do  notebook. Em  seguida,  observe  o  gráfico  com  as  curvas  de  calibração  para 
+obtenção do coeficiente de Atrito de Coulomb, com os pontos que representam cada 
+corpo de prova. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais foram os coeficientes de Atrito de Coulomb (μ) obtidos através das curvas 
+de calibração? 
+ 
+ 
+ 
+2. Quais as diferenças entre os anéis ensaiados com e sem lubrificante? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. PREPARANDO O ENSAIO 
+ 
+Posicione o corpo de prova 1 para medição clicando com o botão esquerdo do mouse 
+sobre ele e selecionando a opção “Posicionar para medição”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Meça a altura do corpo de prova 1 com o paquímetro clicando com o botão esquerdo 
+do mouse sobre o instrumento e selecionando a opção “Medir altura”. 
+ 
+ 
+ 
+Faça a leitura da medida. Para auxiliar a leitura, utilize as setas para a esquerda e direita 
+para  movimentar  a  janela  que  exibe  a  escala  do  paquímetro  clicando  com  o  botão 
+esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Posicione o paquímetro para medir o diâmetro interno do corpo de prova clicando com 
+o  botão  esquerdo  do  mouse  sobre  o  paquímetro  e  selecionando  a  opção  “Medir 
+diâmetro interno”. 
+ 
+ 
+ 
+Após a leitura da medida, retorne o paquímetro para a bancada clicando com o botão 
+esquerdo do mouse sobre ele e selecionando a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Retorne o corpo de prova também para a bancada clicando com o botão esquerdo do 
+mouse sobre ele e selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Repita o procedimento desse passo para todos os outros corpos de prova disponíveis. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Visualize  a  flanela clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Flanela” localizada dentro do painel de visualização no canto superior esquerdo da tela. 
+Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Aplique lubrificante na flanela clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Visualize os corpos de prova clicando com o botão esquerdo do mouse na câmera com 
+o nome “Paquímetro” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Passe  os  corpos  de  prova  4  a  6  na flanela  clicando  com  o  botão  esquerdo  do  mouse 
+sobre cada um deles e selecionando a opção “Passar na flanela”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Ligue o notebook clicando com o botão esquerdo do mouse sobre o botão indicado na 
+imagem abaixo. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+2. ENSAIANDO COM CARGA DE 20% 
+ 
+Mova o corpo de  prova 1 para  a  prensa  hidráulica  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele e selecionando a opção “Colocar na prensa”. 
+ 
+ 
+ 
+Aplique  a  carga  de 20% no  corpo  de  prova  clicando  com  o botão  esquerdo  do  mouse 
+sobre o botão 20%. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Perceba que surgirá um cronômetro no canto superior direito da tela. Espere até que a 
+janela do cronômetro desapareça. 
+ 
+ 
+ 
+Eleve a parte móvel da prensa clicando com o botão esquerdo do mouse sobre o botão 
+indicado na imagem abaixo. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Posicione o corpo de prova na bancada clicando com o botão esquerdo do mouse sobre 
+ele e selecionando a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Repita o procedimento apresentado no passo 1 para medir a altura e o diâmetro finais 
+do corpo de prova 1. 
+ 
+ 
+ 
+Repita todo o procedimento desse passo para o corpo de prova 4.  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+3. ENSAIANDO COM CARGA DE 40% 
+ 
+Repita  todo  o  procedimento  apresentado  no  Passo  2  com  os  corpos  de  prova  2  e  5, 
+substituindo  o  botão  20% da  prensa  hidráulica pelo botão  40%,  indicado  na  imagem 
+abaixo. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+4. ENSAIANDO COM CARGA DE 60% 
+ 
+Repita  todo  o  procedimento  apresentado  no  Passo  2  com  os  corpos  de  prova  3  e  6, 
+substituindo  o  botão  20%  da  prensa  hidráulica  pelo  botão  60%,  indicado  na  imagem 
+abaixo. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+5. OBSERVANDO O GRÁFICO 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Preencha a tabela exibida na tela do notebook clicando com o botão esquerdo do mouse 
+sobre cada célula e digitando o valor obtido. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Observe o gráfico com as curvas de calibração e os pontos que representam cada corpo 
+de prova clicando com o botão esquerdo do mouse sobre o botão “Ver gráfico”. 
+ 
+ 
+ 
+Caso deseje, é possível retornar para a tela com a tabela para verificar qual o ponto que 
+representa cada corpo de prova clicando com o botão esquerdo do mouse sobre a tela 
+do notebook. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+Caso  deseje  também,  é  possível  aumentar  o  zoom  da  tela  do  gráfico  clicando  com  o 
+botão esquerdo do mouse sobre o botão indicado na imagem abaixo e arrastando sobre 
+a barra de ajuste  
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS DE NATUREZA MECÂNICA 
+ENSAIO DO ANEL 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+V 1.0 - AB1 

@@ -1,0 +1,183 @@
+
+
+   
+ 
+INSTRUÇÕES GERAIS
+1.  Neste  experimento, você irá  aprimorar seus conhecimentos sobre o  experimento de
+Reynolds.
+2. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da experiência
+virtual e para respostas às perguntas frequentes a respeito do Laboratório Virtual.
+3. Caso não saiba como manipular o Laboratório Virtual, utilize o “Tutorial” presente neste
+Roteiro.
+4. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as instruções para
+realização desta prática na subseção “Procedimentos”.
+5. Ao  finalizar o  experimento, responda aos  questionamentos da  seção “Avaliação dos
+Resultados”.
+
+RECOMENDAÇÕES DE ACESSO
+DICAS DE DESEMPENHO
+Para otimizar a sua experiência no acesso aos laboratórios virtuais, siga as seguintes dicas de
+desempenho:
+Feche outros aplicativos e abas: Certifique-se de fechar quaisquer outros aplicativos ou
+abas que possam estar consumindo recursos do  seu computador,  garantindo um
+desempenho mais eficiente.
+Navegador Mozilla Firefox:  Recomendamos o  uso  do  navegador   Mozilla Firefox,
+conhecido por  seu  baixo consumo de  recursos em  comparação a  outros navegadores,
+proporcionando uma navegação mais fluida.
+Aceleração de hardware: Experimente habilitar ou desabilitar a aceleração de hardware
+no seu navegador para otimizar o desempenho durante o acesso aos laboratórios virtuais.
+Requisitos mínimos  do  sistema:  Certifique-se de  que  seu  computador atenda aos
+requisitos mínimos para acessar os laboratórios virtuais. Essa informação está disponível
+em nossa Central de Suporte.
+Monitoramento do sistema:  Utilize o  Gerenciador de Tarefas (Ctrl +  Shift +  Esc)  para
+verificar o uso do disco, memória e CPU. Se estiverem em 100%, considere fechar outros
+aplicativos ou reiniciar a máquina para otimizar o desempenho.
+Teste de velocidade de internet: Antes de  acessar,  realize um  teste de  velocidade de
+internet para garantir uma conexão estável e rápida durante o uso dos laboratórios virtuais.
+Atualizações do navegador e sistema operacional: Mantenha seu navegador e sistema
+operacional atualizados para garantir compatibilidade e segurança durante o acesso aos
+laboratórios.
+
+PRECISA DE AJUDA?
+Em caso de dúvidas ou dificuldades técnicas, visite nossa Central de Suporte para encontrar
+artigos de  ajuda e  informações para  usuários. Acesse a Central de Suporte  através do  link:
+https://suporte-virtual.algetec.com.br
+Se preferir, utilize os QR Codes abaixo para entrar em contato via WhatsApp ou ser direcionado
+para a Central de Suporte. Estamos aqui para ajudar! Conte conosco!
+                                 
+ 
+
+DESCRIÇÃO DO LABORATÓRIO
+ 
+MATERIAIS NECESSÁRIOS
+ 
+·       Bancada didática de Mecânica dos Fluidos e Bombas da Algetec;
+·       Cronômetro.
+ 
+PROCEDIMENTOS
+ 
+1.     HABILITANDO AS BOMBAS
+ 
+Habilite as bombas no painel elétrico e, em seguida, ligue a bancada.
+ 
+2.     ENCHENDO O RESERVATÓRIO
+Ajuste o potenciômetro e aguarde o preenchimento do reservatório. Assim que    o nível de água
+no  reservatório atingir o  valor máximo, a  bancada será desligada. Nesse momento, feche a
+válvula 12 para impedir a recirculação da água do reservatório.
+3.     MEDINDO A VAZÃO E OBSERVANDO O REGIME DE ESCOAMENTO
+ 
+Observe o volume de água presente no reservatório. Considere as seguintes dimensões: 400
+mm de comprimento, 320 mm de largura e 474 mm de altura. Ajuste as válvulas 14 (tubulação de
+Reynolds) e 15 (corante) para as posições desejadas. Para iniciar a observação, é necessário
+manipular a válvula 15 até que seja possível observar o fluxo do corante em todo o comprimento
+do tubo de Reynolds. Verifique qual a cota inicial do tanque e ative o cronômetro. Observando o
+comportamento do escoamento (água + corante), aguarde até que o nível da água varie 30 a 50
+mm e, em seguida, desligue o cronômetro e feche as válvulas. Registre as informações obtidas
+para usá-las posteriormente, durante o  cálculo da  vazão para a  porcentagem de  trabalho
+escolhida para a válvula 14 (tubulação de Reynolds) e classificação do regime de escoamento. 
+
+4.     OBSERVANDO UM NOVO REGIME DE ESCOAMENTO
+Repita os  procedimentos anteriores para realizar uma nova medição de  vazão e  uma nova
+observação do regime de escoamento, enchendo o tanque, escolhendo outra porcentagem de
+trabalho para a válvula 14. Lembre-se que,    para iniciar a observação, é necessário manipular a
+válvula 15 até que seja    possível observar o fluxo do corante em todo o comprimento do tubo
+de Reynolds.
+5.       AVALIANDO OS RESULTADOS
+Siga para a seção “Avaliação dos Resultados” e responda de acordo com o que foi observado
+nos experimentos, associando também com os conhecimentos aprendidos sobre o tema.
+
+ 
+AVALIAÇÃO DOS RESULTADOS
+ 
+ 
+Observação: Para as questões a seguir, considere as seguintes medidas para o reservatório
+de   acrílico: comprimento: 400 mm; largura: 320 mm; altura: 474 mm e o diâmetro interno no tubo
+de Reynolds D = 44 mm.
+1.    A partir dos dados obtidos no laboratório, considerando a passagem de tempo e alteração
+do nível da água, determine a vazão do sistema para a porcentagem utilizada na válvula
+de escoamento do tubo de Reynolds. Registre as informações na tabela abaixo.
+ 
+ 
+ 
+2.   Com base nos dados obtidos durante a etapa de medindo a vazão, calcule o número de
+Reynolds e, a partir disso, classifique o regime de escoamento.
+ 
+
+3. Considerando as  informações obtidas durante a  etapa de  observação do  regime de
+escoamento, qual o regime de escoamento encontrado?
+ 
+ 
+
+ 
+ 
+TUTORIAL
+ 
+1.     HABILITANDO AS BOMBAS
+ 
+Visualize o painel elétrico clicando com o botão esquerdo do mouse na câmera “Painel Elétrico”
+localizada dentro do painel de visualização no canto superior esquerdo da tela.
+ 
+
+Habilite as bombas 1 e 2 no painel elétrico clicando com o botão esquerdo do mouse sobre o
+botão “Habilitar bomba 1” e sobre o botão “Habilitar bomba 2”.
+Ligue o painel elétrico clicando com o botão esquerdo do mouse no botão “LIGA”.
+
+ 
+2.     ENCHENDO O RESERVATÓRIO
+Habilite a  janela de  popup do  potenciômetro clicando com o  botão direito do  mouse sobre o
+botão indicado.
+Varie a vazão clicando com o botão esquerdo do mouse sobre o local indicado e arraste para a
+direita.
+
+Feche a janela de popup clicando com o botão esquerdo do mouse sobre o local indicado.
+Visualize o reservatório de  acrílico  clicando  com o  botão esquerdo do  mouse na  câmera
+“Reservatório de acrílico”.
+
+Feche a válvula de esfera 13 clicando com o botão esquerdo do mouse sobre ela.
+Aguarde o preenchimento do reservatório. 
+
+Observe que bancada será desligada assim que o nível de água no reservatório atingir o valor
+máximo. Nesse momento, feche a válvula 12 clicando com o botão esquerdo do mouse sobre
+ela.
+ 
+
+3. MEDINDO A  VAZÃO E  OBSERVANDO O  REGIME DE
+ESCOAMENTO
+ 
+Habilite a janela popup do reservatório de acrílico clicando com o botão direito do mouse sobre
+ele.
+Observe o volume de água no reservatório.
+
+Habilite o  cronômetro clicando com o  botão esquerdo do  mouse sobre a  aba do
+menu cronômetro.
+Visualize o painel elétrico clicando com o botão esquerdo do mouse na câmera com o nome
+“Painel Elétrico”.
+
+Habilite a janela popup da válvula 15 clicando com o botão direito do mouse sobre ela.
+Visualize o tubo de Reynolds clicando com o botão esquerdo do mouse na câmera “Tubo de
+Reynolds”.
+
+Ajuste a válvula gaveta 14 para a posição desejada clicando com o botão direito ou esquerdo
+mouse, de acordo com a porcentagem de abertura escolhida.
+Ajuste a válvula 15 para a posição desejada clicando com o botão esquerdo do mouse sobre o
+local indicado e arraste para a direita. 
+
+Verifique a cota inicial do tanque e ative o cronômetro.
+Observe o comportamento do escoamento (água + corante) e aguarde até que o nível da água
+varie de 30 a 50 mm.
+
+Registre as informações obtidas.
+Desligue o cronômetro e feche as válvulas clicando com o botão esquerdo do mouse sobre os
+locais indicados. No caso da válvula 15, feche clicando com o botão esquerdo do mouse sobre o
+local indicado e arraste para a esquerda.
+
+4.   OBSERVANDO UM NOVO REGIME DE ESCOAMENTO
+ 
+Repita os procedimentos anteriores, enchendo o tanque, e escolhendo outra porcentagem de
+trabalho para a válvula 14.
+ 
+
+5.     AVALIANDO OS RESULTADOS
+ 
+Siga para a seção “Avaliação dos Resultados” e responda de acordo com o que foi observado
+nos experimentos, associando também com os conhecimentos aprendidos sobre o tema.

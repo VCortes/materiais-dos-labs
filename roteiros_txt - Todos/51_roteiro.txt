@@ -1,0 +1,824 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  irá  verificar  o  comportamento  de  diversos  complexos 
+metálicos  em  solução  aquosa  na  presença  de  diferentes  ligantes,  através  da 
+espectroscopia eletrônica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Tubos de ensaio; 
+• Suporte para tubos de ensaio; 
+• Pipeta Pasteur; 
+• Cubeta; 
+• Espectrofotômetro UV-Vis; 
+• Pisseta com água destilada; 
+• Etilenodiamina 0,10 mol/L; 
+• Solução de hidróxido de amônio 3,00 mol/L; 
+• Solução aquosa de nitrato de níquel II 0,100 mol/L; 
+• Solução aquosa de nitrato de cobalto II 0,100 mol/L; 
+• Solução aquosa de nitrato de cobre II 0,100 mol/L; 
+• Solução aquosa de cloreto de titânio III 0,100 mol/L. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+2. PREPARANDO O ESTUDO DOS ÍONS METÁLICOS 
+ 
+Prepare os tubos de ensaio para o estudo da natureza dos íons metálicos. Para 
+isso,  utilize  5 tubos  de  ensaio  para  adicionar  primeiro,  a  água  destilada  e,  em 
+seguida,  cerca  de  1  mL  (medido  na  pipeta  Pasteur)  de  solução  aquosa  0,100 
+mol/L  de  íons  metálicos  (Ti3+,  Co2+,  Ni2+,  Cu2+).  Utilize  um  tubo  para  cada 
+complexo metálico, e anote a cor de cada solução e o possível comprimento de 
+onda  na  Tabela  1  em  “Avaliando  os  resultados”.  Se  faz  necessário  limpar  o 
+béquer e a pipeta sempre antes de utilizar uma nova solução. 
+ 
+3. CALIBRANDO O ESPECTROFOTÔMETRO 
+ 
+Agora que a água destilada e as soluções já se encontram nos tubos de ensaio, 
+você  deve  calibrar  o  espectrofotômetro  para  dar  início  às  análises.  Para  isso, 
+ligue o Espectrofotômetro, em seguida, selecione a faixa que irá trabalhar. Para 
+este  experimento, a  faixa  ideal  é  900  nm.  Feito  isso,  levante  a  tampa  do 
+espectrofotômetro, derrame o tubo de ensaio com água destilada na cubeta e 
+insira  a  cubeta  no  equipamento.  Após  isso,  feche  a  tampa  e observe,  na  tela, 
+curva de absorbância x comprimento de onda, referente à água, que aparecerá. 
+Quando isso acontecer, clique no botão TARA. O equipamento está calibrado e 
+pronto para ser utilizado! 
+ 
+4. ESTUDANDO A NATUREZA DOS ÍONS METÁLICOS 
+ 
+Retire  a  cubeta  do  equipamento  e  limpe-a  para  iniciar  as  análises  com  os 
+complexos metálicos.  Derrame   um   dos   tubos   de   ensaio   que   contém   os 
+complexos  na  cubeta  e  mova-a  para  o  espectrofotômetro.  Feche  a  tampa  e 
+observe o espectro que aparece na tela do equipamento. Preencha a Tabela 1 
+em “Avaliando os resultados” com o comprimento de onda, a absorbância e a 
+cor  absorvida  pelo  composto.  Repita  o  mesmo  procedimento  para  os  outros 
+compostos de coordenação. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+5. PREPARANDO O ESTUDO DA NATUREZA DOS LIGANTES 
+ 
+Inicie  o  estudo  da  natureza  dos  ligantes.  Para  isso,  utilize  3  tubos  de  ensaio  e 
+adicione, em todos eles, cerca de 1 mL da solução aquosa de nitrato de níquel II 
+0,100 mol/L. Em um desses 3 tubos utilizados, acrescente também cerca  de  1 
+mL de NH4OH 3,00 mol/L e em outro, adicione cerca de 1 mL de etilenodiamina 
+0,10  mol/L.  Anote  as  cores  das  soluções  e  os  seus  possíveis  comprimentos  de 
+onda na Tabela 2 em “Avaliando os resultados”. 
+ 
+6. ESTUDANDO A NATUREZA DOS LIGANTES 
+ 
+Em  seguida,  derrame  uma  dessas  3  soluções  na  cubeta,  faça  a  análise  do 
+espectro que aparece na tela do equipamento e anote os valores observados do 
+comprimento  de  onda  e  da  absorbância  do  composto  na  Tabela  2.  Feito  isso, 
+anote  nessa  mesma  tabela,  a  cor  absorvida  pelo  composto  de  coordenação. 
+Repita  esse  mesmo  procedimento  para  os  outros  2  compostos  nos  tubos  de 
+ensaio. 
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados e encerre o experimento.   
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+ 
+[Ti(H
+2
+O)
+6
+]
+3+
+ [Co(H
+2
+O)
+6
+]
++2
+ [Ni(H
+2
+O)
+6
+]
++2
+ [Cu(H
+2
+O)
+6
+]
++2
+ 
+Cor observada 
+(transmitida) 
+    
+Comprimento de onda 
+    
+Cor absorvida 
+    
+Comprimento de onda 
+    
+ 
+ 
+ 
+Ligantes H
+2
+O NH
+3
+ Etilenodiamina 
+Cor observada (transmitida) 
+   
+Comprimento de onda 
+   
+Cor absorvida 
+   
+ 
+ 
+  
+Tabela 1 – Dados do estudo da natureza dos íons metálicos. 
+Tabela 2 – Dados do estudo da natureza dos ligantes. 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “Armário de EPI’s”, clicando com o botão esquerdo do mouse sobre o 
+menu superior esquerdo. 
+ 
+ 
+ 
+Abra as portas do armário, clicando com o botão esquerdo do mouse sobre elas. 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Selecionar  os  equipamentos  de  proteção,  clicando com  o  botão  esquerdo  do  mouse 
+sobre  o  armário  de  EPIs. Os  EPIs  utilizados  serão:  jaleco,  luvas  de  látex,  óculos  de 
+proteção e máscara. 
+ 
+ 
+ 
+Após ter selecionado todos os EPIs, eles aparecerão no comando “EPI”. Clicando sobre 
+seu ícone com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Acesse a câmera “Geral”. 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+2. PREPARANDO O ESTUDO DOS ÍONS METÁLICOS 
+ 
+Para  iniciar  o  estudo  da  natureza  dos  íons  metálicos,  utilize  5  tubos  de  ensaio  para 
+adicionar  em  um  deles  a  água  destilada  e,  em  cada  um  dos  outros,  um  complexo 
+metálico.  Dessa  forma,  clique  com  o  botão  esquerdo  do  mouse  sobre  a  pisseta  para 
+colocar uma quantidade de água destilada no béquer.  
+Acesse a câmera “Béquer” para melhor visualização.  
+ 
+ 
+Em  seguida,  transfira cerca  de  1  mL  de  água  destilada  para  um  dos  tubos  de  ensaio, 
+clicando com o botão esquerdo do mouse sobre a pipeta Pasteur. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Após isso, ainda com o mouse sobre a pipeta, escolha para qual tubo de ensaio gostaria 
+de transferir a água destilada, clicando com o botão esquerdo ou direito do mouse sobre 
+a pipeta Pasteur. 
+ 
+ 
+ 
+Transfira a água destilada para o tubo de ensaio 1. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Feito isso, o béquer e a pipeta Pasteur precisam ser higienizados para serem utilizados 
+para outra solução.  
+Dessa forma, remova a solução e limpe o béquer, colocando o mouse sobre o béquer e 
+apertando a tecla C do teclado.  
+ 
+ 
+ 
+Faça o mesmo com a pipeta Pasteur. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Repita o mesmo procedimento feito com a água destilada, para as soluções aquosas dos 
+íons metálicos localizados na prateleira de soluções.  
+Comece  pela  solução  aquosa  de  nitrato  de  cobalto  II  0,100  mol/L,  colocando  uma 
+amostra dela no béquer, clicando com o botão esquerdo do mouse sobre a solução. 
+ 
+ 
+ 
+Pipete cerca de 1 mL da solução aquosa de nitrato de cobalto II 0,1 mol/L, clicando com 
+o botão esquerdo do mouse sobre a pipeta Pasteur.  
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Transfira o conteúdo para o tubo de ensaio, clicando com o botão esquerdo do mouse 
+sobre a pipeta Pasteur. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 2. 
+ 
+ 
+Repita esse mesmo procedimento para as soluções aquosas de nitrato de níquel II 0,100 
+mol/L, nitrato de cobre II 0,100 mol/L e de cloreto de titânio III 0,100 mol/L. 
+Lembre-se sempre de limpar o béquer e a pipeta Pasteur após utilizar uma solução. 
+Anote  as  cores  observadas  e  seus  possíveis  comprimentos  de  onda  na  Tabela  1  em 
+“Avaliando os resultados”. 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+3. CALIBRANDO O ESPECTROFOTÔMETRO 
+ 
+Agora  que  a  água  destilada  e  os  complexos  metálicos  já  se  encontram  nos  tubos  de 
+ensaio, você deve calibrar o espectrofotômetro para dar início às análises. 
+Acesse a câmera “Liga/Desliga Espectrofotômetro”. 
+Ligue o  equipamento,  clicando  com o botão  esquerdo  do mouse  sobre  o  botão 
+liga/desliga do equipamento. 
+ 
+ 
+Acesse a câmera “Tela”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Em seguida, selecione a faixa de medição do espectro que irá trabalhar. 
+Utilize as setas para escolher a faixa de medição. Para este experimento, a faixa ideal é 
+900 nm. 
+ 
+ 
+ 
+Feito isso, acesse a câmera “Espectrofotômetro”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Abra a tampa do equipamento, clicando sobre ela com o botão esquerdo do mouse a 
+tampa. 
+ 
+ 
+ 
+Agora  que  a  tampa  já  está  aberta,  nessa  mesma câmera,  despeje  a  água  destilada  na 
+cubeta  e,  em  seguida,  transfira  a  cubeta  para  o  equipamento,  clicando com  o  botão 
+esquerdo do mouse sobre os tubos de ensaio. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Selecione o tubo de ensaio que contém a água destilada. 
+ 
+ 
+ 
+A água será transferida para a cubeta. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Em seguida, coloque a cubeta no espectrofotômetro, clicando com o botão esquerdo do 
+mouse sobre a cubeta. 
+ 
+ 
+ 
+Feche a tampa do equipamento, clicando sobre ela com o botão esquerdo do mouse. 
+Acesse a câmera “Tela”. 
+Observe  que  a  curva  de  absorbância  x  comprimento  de  onda  (nm)  referente  à  água 
+aparecerá. Quando isso acontecer, clique no botão TARA. 
+ 
+ 
+ 
+O equipamento está calibrado e pronto para ser utilizado! 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+4. ESTUDANDO A NATUREZA DOS ÍONS METÁLICOS 
+ 
+Acesse a câmera “Espectrofotômetro”. 
+Agora  que  o  espectrofotômetro  foi  calibrado,  retire  a  cubeta  com  água  destilada  e 
+limpe-a para iniciar as análises com os complexos metálicos. 
+ 
+ 
+ 
+Para retirar a cubeta do equipamento, clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Limpe a cubeta, clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Despeje um dos tubos que contém os complexos metálicos na cubeta, clicando com o 
+botão esquerdo do mouse sobre os tubos de ensaio. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Selecione o tubo de ensaio 2. 
+ 
+ 
+ 
+Agora  que  a  cubeta  já  contém  um  dos  compostos  de  coordenação,  mova-a  para  o 
+espectrofotômetro. Feche a tampa do equipamento e acesse a câmera “Tela”. 
+ 
+ 
+Observe o espectro que aparece na tela do equipamento. 
+Preencha  a  Tabela  1  em  “Avaliando  os  resultados”  com  o  comprimento  de  onda,  a 
+absorbância e a cor absorvida pelo composto. 
+Repita o mesmo procedimento para os outros compostos contidos nos tubos de ensaio 
+e anote os resultados na Tabela 1. 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+5. PREPARANDO O ESTUDO DA NATUREZA DOS LIGANTES 
+ 
+  
+Inicie o estudo da natureza dos ligantes. Para isso, utilize 3 tubos de ensaio e adicione, 
+em todos eles, cerca de 1 ml da solução aquosa de nitrato de níquel II 0,100 mol/L. 
+Coloque a solução no béquer, clicando com o botão esquerdo do mouse sobre ela. 
+ 
+Em seguida, utilize a pipeta Pasteur para pipetar o béquer e transferir cerca de 1 mL da 
+solução  para  os  3  tubos  de  ensaio.  Para  isso,  clique  com  o  botão  esquerdo  do  mouse 
+sobre a pipeta Pasteur. 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Após  isso, escolha  para  qual  tubo  de  ensaio  gostaria  de  transferir  a  solução,  clicando 
+com o botão esquerdo ou direito do mouse sobre o tubo de ensaio. 
+ 
+ 
+ 
+Selecione o tubo de ensaio 1. 
+ 
+ 
+ 
+Faça o mesmo procedimento de pipetar nos outros 2 tubos de ensaio. 
+Limpe o béquer e a pipeta Pasteur. 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Em apenas um desses 3 tubos utilizados, acrescente também cerca de 1 mL de NH
+4
+OH 
+3,00 mol/L, clicando com o botão esquerdo do mouse sobre a solução para colocá-la no 
+béquer. 
+ 
+ 
+ 
+Em seguida, faça o procedimento de pipetar o béquer e transferir para apenas um dos 
+tubos de ensaio. 
+Feito isso, limpe o béquer e a pipeta Pasteur novamente. 
+Agora,  acrescente  em  outro  tubo  de  ensaio,  diferente  daquele  que  contém  o  NH
+4
+OH 
+3,00 mol/L, 1 mL de etilenodiamina 0,10 mol/L, repetindo os mesmos procedimentos. 
+Portanto, ao final desse processo, têm-se um tubo de ensaio contendo apenas a solução 
+aquosa  de  nitrato  de  níquel  II  0,100  mol/L,  outro  tubo  de  ensaio  contendo  a  solução 
+aquosa de nitrato de níquel II 0,100 mol/L e o NH
+4
+OH 3,00 mol/L, e outro tubo de ensaio 
+contendo a solução aquosa de nitrato de níquel II 0,100 mol/L e a etilenodiamina 0,10 
+mol/L. 
+Anote as cores observadas e os seus possíveis comprimentos de onda na Tabela 2 em 
+“Avaliando os resultados”. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+6. ESTUDANDO A NATUREZA DOS LIGANTES 
+ 
+Acesse a câmera “Espectrofotômetro”. 
+Retire a cubeta do equipamento. 
+ 
+ 
+Realize a higienização da cubeta. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+Despeje um dos compostos de coordenação contidos no béquer na cubeta, clicando com 
+o botão esquerdo do mouse sobre os tubos de ensaio e selecione um deles. 
+ 
+ 
+Transfira novamente a cubeta para o equipamento e feche a tampa. 
+Acesse a câmera “Tela” e observe o espectro que aparece na tela do equipamento. 
+Preencha  a  Tabela  2  em “Avaliando  os  resultados”  com  o  comprimento  de  onda  e  a 
+absorbância. 
+Feito isso, anote nessa mesma tabela, a cor absorvida pelo composto de coordenação. 
+Repita  o  mesmo  procedimento  para  os  outros 2 compostos  contidos  nos  tubos  de 
+ensaio e anote os resultados na Tabela 2. 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+ESPECTROSCOPIA  ELETRÔNICA  APLICADA 
+A COMPOSTOS DE COORDENAÇÃO 
+ 
+7. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados e encerre o experimento.   
+ 

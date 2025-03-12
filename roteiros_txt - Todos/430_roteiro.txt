@@ -1,0 +1,890 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  realizar  as  etapas  envolvidas  no  processo  de 
+sequenciamento de ácidos nucleicos para análise subsequente. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Sequenciando automático; 
+• Capela de fluxo laminar; 
+• Termociclador; 
+• Centrifuga; 
+• Estufa de secagem; 
+• Placa de 96 poços; 
+• Isopropanol; 
+• Adhesive PCR; 
+• Formamida; 
+• Kit BigDye terminator; 
+• Primer F; 
+• Primer R; 
+• Papel alumínio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente, higienize  as  mãos  e coloque  os  equipamentos  de  proteção  individual 
+localizados no armário de EPIs. 
+ 
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+  
+2. PREPARANDO A MISTURA DE SEQUENCIAMENTO 
+ 
+Em  uma  capela de fluxo  laminar separe  dois  tubos  eppendorf. Adicione  2 μl  do 
+reagente BigDye Mix, 1 μl do BigDye buffer, 1 μl do Primer F, 1 μl da amostra de PCR 
+e 5 μl de água ultrapura no primeiro tubo. Adicione esses mesmos componentes no 
+segundo eppendorf substituindo apenas o Primer F por 1 μl Primer R. 
+ 
+3. AMPLIFICANDO A AMOSTRA 
+ 
+Transfira 10 μl da mistura de sequenciamento com o primer F para o primeiro poço 
+da placa de 96 poços e, 10 μl da mistura contendo o primer R para o segundo poço. 
+Cubra a placa com papel alumínio, leve-a para o termociclador e ligue o equipamento. 
+ 
+4. LAVAGEM DA AMOSTRA 
+ 
+Após realização do PCR, adicione 60 μl de isopropanol em cada poço. Sele a placa com 
+o  adesivo  (Adhesive)  e  misture  o  conteúdo  por  inversão  3  vezes.  Deixe  a  placa 
+repousar por 15 minutos ao abrigo da luz. Transcorrido o tempo, centrifugue a placa 
+por 45 minutos a 3400rpm. Descarte o excesso de isopropanol na pia e, em seguida, 
+inverta a placa sobre o papel toalha. Adicione 60 μl de isopropanol em cada poço e 
+centrifugue a placa por 10 minutos. Descarte o excesso isopropanol e repita o último 
+passo do processo mais uma vez. 
+ 
+5. COLOCANDO A PLACA NO SEQUENCIADOR 
+ 
+Seque  a  placa  na  estufa  por  15  minutos. Após  isso adicione  10 μl  de  formamida  e 
+submeta  a  placa  a  reação  de  desnaturação  no termociclador (5  minutos  a  96°C). 
+Resfrie a amostra por 1 minutos em um recipiente contendo gelo e, após essa etapa, 
+encaminhe a placa ao sequenciador automático. 
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+  
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique o funcionamento do sequenciador automático. 
+ 
+ 
+ 
+ 
+2. Qual a finalidade do Primer R e Primer R na reação? 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira da pia. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas de látex. 
+ 
+ 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+2. PREPARANDO A MISTURA DE SEQUENCIAMENTO 
+ 
+Visualize o interior da capela de fluxo laminar clicando com o botão esquerdo do mouse 
+sobre a câmera “Capela”, ou utilizado o atalho do teclado “Alt+03”. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta para 2 μl clicando com o botão direito do mouse sobre 
+ela e selecionando a opção “Reajustar volume”. 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Perceba que irá abrir uma caixa de texto onde deve ser inserido o volume utilizado. 
+ 
+ 
+ 
+Coloque a micropipeta sobre o BigDye mix clicando com o botão direto do mouse sobre 
+ela e selecionando a opção “Colocar em BigDye Mix”. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o tubo 1 clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Colocar em tubo 1”. 
+ 
+ 
+ 
+Troque a ponteira e retorne a micropipeta para o suporte clicando com o botão direito 
+do mouse sobre a micropipeta e selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Repita o procedimento desprezando 2 μl do BigDye Mix no tubo 2. 
+ 
+ 
+ 
+Ajuste o volume para 1 μl e coloque a micropipeta sobre o recipiente que contém BigDye 
+Buffer  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e  selecionando  a 
+opção “Colocar em BigDye Buffer”. 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Mova  a  micropipeta  para  o  tubo  1  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta e selecionando a opção “Colocar em tubo eppendorf”. Troque a ponteira e 
+repita o procedimento para o tubo 2. 
+ 
+ 
+ 
+Coloque a micropipeta sobre o Primer F clicando com o botão direto do mouse sobre 
+ela e selecionando a opção “Colocar em Primer F”. 
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o tubo 1 clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Colocar em tubo 1”. Troque a ponteira após o 
+uso. 
+ 
+ 
+ 
+Coloque a micropipeta sobre o Primer R clicando com o botão direto do mouse sobre 
+ela e selecionando a opção “Colocar em Primer R”. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o tubo 2 clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Colocar em tubo 2”. Troque a ponteira após o 
+uso. 
+ 
+ 
+ 
+Coloque a micropipeta sobre a amostra de DNA clicando com o botão direto do mouse 
+sobre ela e selecionando a opção “Colocar em Amostra DNA”. 
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o tubo 1 clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Colocar em tubo 1”. Troque a ponteira após o 
+uso e repita o procedimento desprezando a amostra no tubo 2. 
+ 
+ 
+ 
+Ajuste o volume para 5 μl e coloque a micropipeta sobre o recipiente que contém água 
+ultra pura clicando com o botão direito do mouse sobre a micropipeta e selecionando a 
+opção “Colocar em água ultra pura”. 
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o tubo 1 clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Colocar em tubo 1”. Troque a ponteira após o 
+uso e repita o procedimento desprezando a amostra no tubo 2. 
+ 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+3. AMPLIFICANDO A AMOSTRA 
+ 
+Ajuste o volume para 10 μl e coloque a micropipeta sobre o tubo 1 clicando com o botão 
+direito do mouse sobre a micropipeta e selecionando a opção “Colocar em tubo 1”. 
+ 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Despreze  o  aspirado  no  poço  1  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar em poço 1”. Troque a ponteira após o uso 
+e repita o procedimento desprezando a amostra no tubo 2. 
+ 
+ 
+ 
+Cubra  a placa  com  papel  alumínio  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+papel. 
+ 
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Mova a placa para o termociclador clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Colocar em termociclador”. 
+ 
+ 
+ 
+Feche  a  tampa  do  termociclador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Ligue o termociclador clicando com o botão direito do mouse sobre ele e selecionando 
+a opção “Ligar”. 
+ 
+ 
+ 
+Aguarde  por  1  hora  e  20  minutos.  Se  preferir,  avance  o  tempo  clicando  com  o  botão 
+esquerdo do mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Abra o termociclador e retire as amostras clicando com o botão direito do mouse sobre 
+o equipamento e selecionando a opção “Retirar amostra”. 
+ 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+4. LAVAGEM DA AMOSTRA 
+ 
+Retire a folha de papel alumínio da placa clicando com o botão direito do mouse sobre 
+ela e selecionando a opção “Retirar papel alumínio”. 
+ 
+ 
+ 
+Visualize  as  micropipetas  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Pipetagem” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Ajuste o volume da micropipeta para 60 μl e coloque-a sobre o recipiente que contém 
+isopropanol clicando com o botão direito do mouse sobre a micropipeta e selecionando 
+a opção “Colocar em isopropanol”. 
+ 
+ 
+ 
+Despreze  o  aspirado  no  poço  1  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecionando a opção “Colocar em poço 1”. Troque a ponteira após o uso 
+e repita o procedimento desprezando a amostra no tubo 2. 
+ 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Sele  a  placa  com  o  filme  adesivo  clicando  sobre  ele  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Homogeneíze  a  solução  da  placa  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Misturar por inversão”. 
+ 
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Aguarde por 15 minutos. Se preferir, avance o tempo clicando com o botão esquerdo 
+do mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+Coloque  a  placa  na  centrífuga  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar em centrífuga”. 
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Feche  a  tampa  da  centrífuga  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Ligue  a  centrífuga clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecionando  a 
+opção “Ligar”. Avance o tempo para acelerar o processo. 
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Abra  a  centrífuga  e  retire  a  placa  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Retirar placa”. 
+ 
+ 
+ 
+Retire  o  adesivo  selante clicando  com  o botão direito  do  mouse  sobre  a microplaca  e 
+selecionando a opção “Retirar adesivo”. 
+ 
+ 
+ 
+  
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Descarte o excesso de solução contida na microplaca clicando com o botão direito do 
+mouse sobre ela e selecionando a opção “Descartar excesso”. 
+ 
+ 
+ 
+Adicione 60 μl de isopropanol nos dois poços, sele a placa com adesivo, centrifugue por 
+10 minutos e descarte o excesso. Esse processo deve ser repetido duas vezes. 
+ 
+  
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+5. COLOCANDO A PLACA NO SEQUENCIADOR 
+ 
+Coloque  a  placa  para  secar  na  estufa  clicando  com  o  botão  direito  do  mouse  na 
+microplaca e selecionando a opção “Colocar na estufa”. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre o equipamento. Aguarde 
+por 15 minutos. 
+ 
+  
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Abra  a  estufa  e  retire  a  microplaca  clicando  com  o  botão  direito  do  mouse  sobre  o 
+equipamento.  
+ 
+ 
+ 
+Pipete 10 μl de formamida clicando com o botão direito do mouse sobre a micropipeta 
+e selecionando a opção “Colocar em formamida”. 
+ 
+ 
+ 
+  
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Transfira o líquido aspirado para o poço 1 da microplaca clicando com botão direito do 
+mouse na micropipeta e selecionando a opção “Colocar em poço 1”. Troque a ponteira 
+após o uso e repita o procedimento no poço 2. 
+ 
+ 
+ 
+Mova a placa para o termociclador clicando com o botão direito do mouse sobre ela e 
+selecionando a opção “Colocar em termociclador”. 
+ 
+ 
+ 
+  
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Feche  a  tampa  do  termociclador  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Configure o termociclador para executar o ciclo de desnaturação clicando com o botão 
+direito  do  mouse  sobre  o  equipamento  e  selecionando  a  opção  “Programar  ciclo  de 
+desnaturação”. 
+ 
+ 
+ 
+  
+
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Ligue o termociclador clicando com o botão direito do mouse sobre ele e selecionando 
+a opção “Ligar”. Aguarde por 5 minutos. 
+ 
+ 
+ 
+Abra o termociclador e retira as amostras clicando com o botão direito do mouse sobre 
+o equipamento e selecionando a opção “Retirar amostra”. 
+ 
+ 
+ 
+  
+
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+Resfrie  a  amostra  no  gelo  clicando  como  botão  direito  do  mouse  na  microplaca  e 
+selecionando a opção “Colocar em recipiente com gelo”. Aguarde por 1 minuto. 
+ 
+ 
+ 
+Coloque a amostra no sequenciador automático clicando com o botão direito do mouse 
+na microplaca e selecionando a opção “Colocar em sequenciador”. 
+ 
+ 
+ 
+  
+
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+SEQUENCIAMENTO AUTOMÁTICO DE DNA 
+  
+ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 

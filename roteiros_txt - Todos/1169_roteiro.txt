@@ -1,0 +1,935 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá   aprender   sobre   a quantificação   sérica   de 
+paracetamol, um  procedimento  laboratorial  que  mede  a  quantidade  desse 
+medicamento no sangue. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido Tricloroacético (TCA); 
+• Água destilada; 
+• Amostra de soro; 
+• Banho-maria; 
+• Caneta marcadora; 
+• Centrifuga; 
+• Cubeta; 
+• Espectrofotômetro; 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Micropipeta de 1000 μL; 
+• Óculos; 
+• Pipeta volumétrica 5 mL; 
+• Recipiente de descarte; 
+• Solução de NaOH; 
+• Solução de Nitrito de Sódio; 
+• Tubo de ensaio; 
+• Vórtex. 
+ 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,  coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de 
+EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Primeiro  identifique  o  primeiro  tubo  de  ensaio  com  a  sigla  A  usando  a  caneta,  e  depois 
+identifique o segundo tubo de ensaio com a sigla B. 
+ 
+3. PREPARANDO A AMOSTRA 
+ 
+Ajuste  o  volume  da  micropipeta  de  1000  μL  para  500  μL,  pipete  500  μL  da  amostra  (soro), 
+transfira  a  solução  pipetada para o  tubo de  ensaio,  ao  terminar  descarte  a  ponteira;  abra  a 
+garrafa contendo ácido tricloroacético (TCA), mova a pipeta volumétrica de 5 mL até a garrafa, 
+pipete 5 mL de TCA com a pipeta, mova a pipeta graduada para o tubo A. Limpe a pipeta e 
+retorne para o suporte 
+ 
+4. PROCESSANDO A AMOSTRA 
+ 
+Ajuste o volume da micropipeta de 1000 μL para 500 μL. Pipete os 500 μL da amostra (soro), 
+da solução pipetada para o tubo de ensaio A. Descarte a ponteira e abra a garrafa contendo 
+ácido tricloroacético (TCA), mova a pipeta volumétrica de 5 mL até a garrafa e pipete 5 mL de 
+TCA,  mova  a  pipeta  graduada  para o tubo  A.  Transfira  a  solução  mensurada para  o  tubo de 
+ensaio A, por fim, limpe a pipeta e retorne para o suporte. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+  
+5. REALIZANDO A LEITURA 
+ 
+Ligue  o  espectrofotômetro  e  configure  para  o  comprimento  de  onda  de  430  nm,  abra  o 
+equipamento, adicione água na cubeta I e coloque a cubeta com água no equipamento. Feche 
+o  equipamento  e  zere  ele.  Abra  e  retire  o  tubo  do  espectrofotômetro,  ajuste  a  pipeta  para 
+1000  μL  e  pipete  a  amostra  do  tubo  B  e  transfira  para  cubeta  II,  Coloque  a  cubeta  II  no 
+espectrofotômetro, feche  o  equipamento  e  realize  a  leitura. Abra  o equipamento  e retire  a 
+cubeta. Feche e desligue o equipamento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais fatores devem ser considerados na interpretação dos resultados, além da 
+concentração de paracetamol no sangue? 
+ 
+ 
+ 
+2. Por que a quantificação sérica de paracetamol é essencial em casos de possível 
+overdose? 
+ 
+ 
+ 
+3. Qual é o nível de paracetamol no sangue? Qual é o tratamento indicado? 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. 
+ 
+ 
+ 
+Abra o armário e EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Selecione os EPIs necessários para a realização do procedimento clicando com o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas 
+e óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”. 
+ 
+ 
+ 
+Identifique os tubos de ensaio A e B clicando com o botão esquerdo do mouse na caneta. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+3. PREPARANDO A AMOSTRA 
+ 
+Ajuste  a  micropipeta  para 500  μL clicando  com  o  botão direito do  mouse  sobre a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo contendo a amostra clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em amostra de soro”. 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova a micropipeta para o tubo contendo a amostra clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio A”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Adicione TCA no béquer clicando com o botão esquerdo do mouse sobre a solução. 
+ 
+ 
+ 
+Mova  a pipeta  volumétrica clicando  com  o  botão direito do  mouse  sobre a  pipeta e 
+selecione a opção “Colocar em ácido tricloroacético”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Libere o ar pipeta volumétrica pressionado com o botão esquerdo do mouse sobre “A”. 
+ 
+ 
+ 
+Aspire 5 mL  de TCA com a pipeta volumétrica pressionado com o botão esquerdo do 
+mouse sobre “S”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova  a pipeta  volumétrica clicando  com  o  botão direito do  mouse  sobre pipeta e 
+selecione a opção “Colocar no tubo de ensaio A”. 
+ 
+ 
+ 
+Despeje 5 mL  de TCA com a pipeta volumétrica pressionado com o botão esquerdo do 
+mouse sobre “E”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Higieniza a pipeta volumétrica clicando com o botão direito do mouse sobre a pipeta e 
+selecione a opção “Higienizar”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+4. PROCESSANDO A AMOSTRA 
+ 
+Tampe o tubo A clicando com o botão direito do mouse sobre o tubo e selecione a opção 
+“Tampar/Destampar”. 
+ 
+ 
+ 
+Mova  o  tubo  A  para  o  vórtex clicando  com  o  botão direito do  mouse  sobre o  tubo e 
+selecione a opção “Colocar no vórtex”. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Ligue o vórtex clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Mova o tubo A clicando com o botão direito do mouse sobre o tubo e selecione a opção 
+“Colocar na centrifuga”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Ajuste  a  velocidade  da  centrifuga  clicando  com  o  botão direito do  mouse  sobre a 
+centrifuga e selecione a opção “Ajustar Velocidade”. 
+ 
+ 
+ 
+Tampe  a  centrifuga  clicando  com  o  botão direito do  mouse  sobre a  centrifuga e 
+selecione a opção “Abrir/Fechar Tampa”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Ligue a centrifuga clicando com o botão direito do mouse sobre a centrifuga e selecione 
+a opção “Ligar”. 
+ 
+ 
+ 
+Abra a centrifuga clicando com o botão direito do mouse sobre a centrifuga e selecione 
+a opção “Abrir/Fechar Tampa”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Coloque o tubo de ensaio A para o suporte clicando com o botão direito do mouse sobre 
+o tubo e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta para 1000 μL clicando com o botão direito do mouse 
+sobre a micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova a micropipeta para o tubo contendo a amostra clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio A”. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo contendo a amostra B clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio B”. 
+Repita o procedimento uma vez mais. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Troque  a  ponteira  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  para  500  μL  clicando  com  o  botão direito do  mouse 
+sobre a micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova  a  micropipeta  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Colocar em nitríto de sódio”. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo contendo a amostra B clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio B”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Troque  a  ponteira  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Homogeneíze  a  solução  clicando  com  o  botão esquerdo do  mouse  sobre  o  tubo  de 
+ensaio B. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova o tubo de ensaio B clicando com o botão direito do mouse sobre o tubo e selecione 
+a opção “Colocar no banho-maria”. 
+ 
+ 
+ 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o banho-maria. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova o tubo ao suporte clicando com o botão direito do mouse sobre o tubo de ensaio 
+e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  para  100  μL  clicando  com  o  botão direito do  mouse 
+sobre a micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova  a  micropipeta  para  o  tubo  contendo  Hidróxido  de  Sódio  clicando  com  o  botão 
+direito do mouse sobre a micropipeta e selecione a opção “Colocar em NaHO”. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo contendo a amostra B clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio B”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Troque  a  ponteira  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Visualize o espectrofotômetro, em detalhes, acessando a câmera “Espectrofotômetro”, 
+clicando com o botão esquerdo do mouse sobre o menu lateral esquerdo. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+5. REALIZANDO A LEITURA 
+ 
+Ligue o espectrofotômetro clicando com o botão direito do mouse sobre o equipamento 
+e selecione a opção “Ligar”. 
+ 
+ 
+ 
+Configure o espectrofotômetro para 430 nm clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Abra    o    equipamento    clicando    com    o    botão esquerdo do    mouse    sobre o 
+espectrofotômetro. 
+ 
+ 
+ 
+Visualize a bancada, em detalhes, acessando a câmera “Bancada”, clicando com o botão 
+esquerdo do mouse sobre o menu lateral esquerdo. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova a água destilada pra a cubeta A clicando com o botão esquerdo do mouse sobre 
+a pisseta. 
+ 
+ 
+ 
+Coloque a cubeta A no espectrofotômetro clicando com o botão direito do mouse sobre 
+a cubeta e selecione a opção “Colocar no espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Feche o equipamento clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Zere o equipamento clicando com o botão esquerdo do mouse sobre o botão. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Abra    o    equipamento    clicando    com    o    botão esquerdo do    mouse    sobre o 
+espectrofotômetro. 
+ 
+ 
+ 
+Coloque a cubeta A na bancada clicando com o botão direito do mouse sobre a cubeta 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Ajuste o volume da micropipeta para 1000 μL clicando com o botão direito do mouse 
+sobre a micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo contendo a amostra B clicando com o botão direito do 
+mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio B”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Mova  a  micropipeta  para  a  cubeta  B  clicando  com  o  botão direito do  mouse  sobre a 
+micropipeta e selecione a opção “Colocar em cubeta B”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão direito do  mouse  sobre a  micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Coloque a cubeta B no espectrofotômetro clicando com o botão direito do mouse sobre 
+a cubeta e selecione a opção “Colocar no espectrofotômetro”. 
+ 
+ 
+ 
+Feche   o   equipamento   clicando   com   o   botão esquerdo do   mouse   sobre o 
+espectrofotômetro. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Realize a leitura clicando com o botão esquerdo do mouse sobre o botão. 
+ 
+ 
+ 
+Abra    o    equipamento    clicando    com    o    botão esquerdo do    mouse    sobre o 
+espectrofotômetro. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+Coloque a cubeta B na bancada clicando com o botão direito do mouse sobre a cubeta 
+e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Desligue   o   espectrofotômetro   clicando   com   o   botão direito do   mouse   sobre o 
+equipamento e selecione a opção “Desligar”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TOXICOLOGIA 
+QUANTIFICAÇÃO SÉRICA DE PARACETAMOL 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada  na página 08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  

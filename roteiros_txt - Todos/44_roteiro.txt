@@ -1,0 +1,433 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  será  avaliada  a  reatividade  dos  metais  e,  em  consequência  da 
+reação, será obtido o gás hidrogênio.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer; 
+• Tubos de ensaio; 
+• Vidro de relógio; 
+• Pipeta Pasteur; 
+• Espátula; 
+• Suporte para tubos de ensaio; 
+• Bolinhas de papel alumínio; 
+• Solução de ácido clorídrico. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Prepare a capela abrindo a janela, acendendo a luz interna e ligando o exaustor. 
+Feito   isso,   coloque   todos   os   itens   necessários   ao   experimento,   que   se 
+encontram no Armário inferior, dentro da capela. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+3. PROMOVENDO A SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+Coloque as bolinhas de alumínio no vidro de relógio, para em seguida, despejar 
+em um dos tubos de ensaio. 
+Agora que o alumínio já se encontra no tubo de  ensaio, coloque uma amostra 
+da solução de ácido  clorídrico  no  béquer e pipete uma amostra  dessa solução 
+para colocar no mesmo tubo de ensaio que contém o alumínio. 
+Observe, análise e anote os resultados. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados,  guarde-os  no  armário,  feche  a 
+janela da capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre 
+o experimento.   
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Uma  reação  de  simples  troca  entre  o  alumínio  metálico  (Al)  e  o  ácido  clorídrico 
+aconteceu dentro do tubo de ensaio. Qual a evidência de que dois produtos foram 
+formados a partir da reação? 
+ 
+ 
+2. Quais produtos foram formados a partir da reação de simples troca? 
+ 
+ 
+3. Quais são os metais que não reagiriam e não formariam o gás hidrogênio? Justifique. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+ 
+Os   equipamentos   de   proteção   individual   são   obrigatórios   para   a   realização   do 
+experimento, então sua interação com os componentes do laboratório será limitada até 
+que eles sejam selecionados. 
+Acesse a câmera “Armário de EPI’s”, clicando com o botão esquerdo do mouse no menu 
+lateral esquerdo. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+Abra o armário de EPI’s, clicando com o botão esquerdo do mouse sobre a porta. 
+Selecione  os  EPI’s  necessários  ao  experimento,  clicando  com o  botão  esquerdo  do 
+mouse sobre eles.   Os EPIs utilizados serão: jaleco, luvas de látex e óculos de proteção. 
+ 
+ 
+ 
+Perceba  que,  ao  clicar  no  botão  do  escudo,  os  equipamentos  de  proteção  individual 
+foram marcados, indicando que você está devidamente protegido. 
+ 
+ 
+ 
+Acesse a câmera “Capela”, clicando com o botão esquerdo do mouse no menu lateral 
+esquerdo. 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Abra o vidro da capela, clicando com o botão esquerdo do mouse sobre ele e, logo após, 
+acesse a câmera “Painel de Controle” para preparar a capela. 
+Acenda  a  luz  e  ligue  o  exaustor,  clicando  com  o  botão  esquerdo  do  mouse  sobre  os 
+respectivos interruptores. 
+ 
+ 
+Acesse a câmera “Armário inferior”. 
+Abra os armários, clicando com o botão esquerdo do mouse sobre as portas. Selecione 
+todos  os  itens  necessários  para  o  experimento,  clicando  com  o  botão  esquerdo  do 
+mouse sobre eles. Quando terminar de selecionar todos os itens, feche os armários. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+3. PROMOVENDO A SÍNTESE DO GÁS HIDROGÊNIO 
+ 
+Acesse a câmera “Interior da Capela”.  
+Todos os itens necessários ao experimento estarão posicionados no interior da capela. 
+ 
+ 
+ 
+Destampe  o  pote  de  bolinhas  de  alumínio,  clicando com  o  botão  esquerdo  do  mouse 
+sobre o pote. 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+Coloque o alumínio no vidro do relógio, clicando com o botão esquerdo do mouse sobre 
+o pote, agora destampado. 
+ 
+ 
+ 
+Despeje as bolinhas no tubo de ensaio, clicando com o botão esquerdo do mouse sobre 
+o vidro do relógio contendo as bolinhas.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+Escolha o tubo de ensaio que deseja depositar as bolinhas de alumínio, clicando com o 
+botão esquerdo do mouse sobre a opção desejada.  
+ 
+ 
+ 
+Agora que o alumínio já se encontra dentro do tubo de ensaio, despeje uma amostra de 
+ácido clorídrico no béquer, clicando com o botão esquerdo do mouse sobre a solução. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+Pipete uma amostra do ácido clorídrico para transferi-la para o tubo de ensaio, clicando 
+com o botão esquerdo do mouse sobre a pipeta Pasteur.  
+ 
+ 
+ 
+Transfira  o  conteúdo  da  pipeta  Pasteur  para  o  tubo  de  ensaio,  clicando  com  o  botão 
+esquerdo do mouse sobre a pipeta, já contendo a solução de ácido clorídrico. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA 
+REATIVIDADE DOS METAIS 
+SÍNTESE DO GÁS HIDROGÊNIO 
+Deposite a solução no mesmo tubo de ensaio que contém as bolinhas de alumínio. 
+ 
+ 
+ 
+Acesse a câmera “Tubos de ensaio” e observe os resultados. 
+Analise e anote os resultados. Note que a equação da reação será exibida posicionando 
+o mouse sobre a solução que se encontra contida no tubo de ensaio.  
+ 
+4. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi  observado no experimento. Caso seja necessário, retorne a câmera “Tubos de 
+Ensaio” para auxiliar a avaliação dos resultados.  
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados, guarde-os  no  armário,  feche  a  janela  da 
+capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre o experimento.   
+ 

@@ -1,0 +1,1288 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprender sobre o  uso  de  uma  balança  analítica, 
+além de vidrarias e acessórios utilizados para medir massas e volumes de líquidos 
+em laboratórios de química. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança analítica; 
+• Béquer de 50 mL; 
+• Béquer de 250 mL; 
+• Pera; 
+• Pipeta de 10 mL; 
+• Pisseta com água destilada; 
+• Proveta de 50 mL. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco e luvas de procedimento. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Mova as seguintes vidrarias para a mesa: Béquer de 50 mL, béquer de 250 mL e proveta de 50 
+mL. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+  
+3. UTILIZANDO A PISSETA E O BÉQUER 
+ 
+Utilizando a pisseta, transfira 10 mL de água destilada para o béquer de 50 mL. 
+ 
+4. UTILIZANDO A FUNÇÃO TARA DA BALANÇA 
+ 
+Ligue a balança analítica, mova o béquer de 250 mL, feche a porta e anote o valor registrado. 
+Em seguida, aperte o botão TARA.  
+ 
+5. ENTENDENDO O USO DA PERA E DA PIPETA 
+ 
+Mova  a  pipeta  para  o  béquer  de  50  mL,  retire  todo  o  ar  da  pera  e  succione  o  conteúdo  do 
+béquer. Despeje o conteúdo pipetado no béquer de 50 mL. 
+ 
+6. UTILIZANDO A PIPETA 
+ 
+Com o auxílio da pipeta, succione 10 mL de água destilada do béquer de 50 mL e, em seguida, 
+retire a pipeta do recipiente. 
+ 
+7. MEDINDO A MASSA DE ÁGUA NA PIPETA 
+ 
+Abra a porta superior da balança analítica e certifique-se de que ela está zerada. Insira a pipeta 
+de  10  mL  na  balança  analítica e despeje  seu  conteúdo  sobre o  béquer  de  250  mL.    Anote a 
+massa  encontrada. Retire  o  béquer  de  250  mL  da  balança e remova  o  conteúdo  dos  dois 
+béqueres. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+8. MEDINDO COM A PROVETA 
+ 
+Retire  a  tara da  balança  analítica  vazia,  coloque  a  proveta  de  50  mL  na balança  analítica  e 
+anote a massa da proveta. Retorne a proveta para a mesa. Mensure 15 mL de água destilada 
+na proveta de 50 mL. Meça a massa total da proveta com os 15 mL de água e anote a massa 
+encontrada. Retire a proveta da balança. Anote a temperatura do ambiente e calcule o valor 
+da massa da água na proveta. 
+ 
+(M
+água
+ = M
+proveta+água
+ – M
+proveta
+). 
+ 
+9. CALCULANDO A DENSIDADE 
+ 
+Coloque o béquer de 50 mL na balança analítica e anote a massa. Retire o béquer da balança. 
+Adicione 15 mL de água destilada no béquer de 50 mL. Retorne a pisseta para a mesa. Meça, 
+utilizando a balança analítica, a massa total do béquer com os 15 mL de água e anote o valor 
+da massa encontrada e da temperatura ambiente. Retire o béquer da balança. Calcule o valor 
+da massa da água no béquer. 
+ 
+(M
+água
+ = M
+béquer+água
+ – M
+béquer
+) 
+ 
+Com base nos valores encontrados, determine a densidade da água destilada, para os casos 
+de medição com a proveta e medição com o béquer. 
+ 
+퐷=
+푚
+푣
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+  
+10. EXPLORANDO A PRECISÃO DAS VIDRARIAS 
+ 
+Coloque sobre a mesa o béquer de 50 mL, a proveta de 50 mL, o béquer de 250 mL, a pipeta 
+de 10 mL e o acessório pera. Adicione 10 mL de água destilada no béquer de 250 mL. Conecte 
+a pera à pipeta de 10 mL e succione 6,5 mL da água no béquer (note que a escala da pipeta é 
+invertida).  Retorne  a  pipeta  para  o  suporte. Mensure  6,5  mL  de  água  destilada  na  proveta. 
+Mensure 6,5 mL de água destilada no béquer. 
+ 
+11. FINALIZANDO O EXPERIMENTO 
+ 
+Limpe todos  os  materiais  utilizados,  guarde-os  nas  gavetas, desligue  a  balança  analítica e 
+encerre o experimento. 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 09 e 10 deste roteiro, e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Com base nos seus conhecimentos, qual a vantagem de tarar a balança com o 
+béquer dentro? Justifique. 
+ 
+ 
+ 
+2. O   valor   medido   na   pipeta   foi   próximo   ao   esperado?   Quais   os   valores 
+imediatamente  acima  e  imediatamente  abaixo  do  valor  medido  na  escala 
+graduada da pipeta? 
+ 
+ 
+ 
+3. O   valor   medido   na   proveta   foi próximo   ao   esperado?   Quais   os   valores 
+imediatamente  acima  e  imediatamente  abaixo  do  valor  medido  na  escala 
+graduada da proveta? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+4. O   valor   medido   no   béquer   foi   próximo   ao   esperado?   Quais   os   valores 
+imediatamente acima e abaixo do valor medido na escala graduada do béquer? 
+ 
+ 
+ 
+5. Considerando  as  vidrarias  selecionadas,  quais  seriam  as  mais  indicadas  em 
+termos de medição de volumes? Reflita sobre sua resposta. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Abra a primeira gaveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o béquer de 250 mL para a mesa clicando com o botão direito do mouse sobre as 
+vidrarias indicadas e selecione a opção “Colocar sobre a mesa”. 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Repita o procedimento anterior para o béquer de 50 mL. 
+ 
+ 
+ 
+Feche a gaveta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+3. UTILIZANDO A PISSETA E O BÉQUER 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Observe a temperatura do laboratório clicando com o botão esquerdo do mouse sobre 
+o termômetro. Registre o valor encontrado. 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Posicione  a  pisseta contendo  água  destilada clicando  com  o  botão direito do  mouse 
+sobre a pisseta e selecione a opção “Colocar sobre o béquer 50 mL”. 
+ 
+ 
+ 
+Despeje 10 mL de água pressionando o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Retorne  a  pisseta  para  a  mesa  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+4. UTILIZANDO A FUNÇÃO TARA DA BALANÇA 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra  a  porta  lateral  esquerda  da  balança  analítica  clicando  com  o  botão esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova o béquer de 250 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar na balança”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Feche  a  porta lateral  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela. Registre  o 
+valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão “TARA”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+5. ENTENDENDO O USO DA PERA E DA PIPETA 
+ 
+Conecte a pera á pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova a  pipeta  clicando  com  o  botão direito do  mouse  na  pipeta e selecione a  opção 
+“Colocar sobre o béquer de 50 mL”. 
+ 
+ 
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Insira a pipeta no recipiente clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Inserir no recipiente”. 
+ 
+ 
+ 
+Pressione a pera clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Succione  o  conteúdo  clicando com o  botão  esquerdo  do  mouse sobre  a válvula  “S” e 
+mantenha pressionado. 
+ 
+ 
+ 
+Despeje todo o conteúdo clicando com o botão esquerdo do mouse sobre a válvula “E” 
+e mantenha pressionado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+6. UTILIZANDO A PIPETA 
+ 
+Succione 10 mL de água clicando com o botão esquerdo do mouse sobre a válvula “S” e 
+mantenha pressionado. 
+ 
+ 
+ 
+Movimente a câmera de graduação clicando com o botão esquerdo do mouse sobre o 
+botão e arrastando.  
+ 
+ 
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Retire a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Retirar do recipiente”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Balança Analítica” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+7. MEDINDO A MASSA DE ÁGUA NA PIPETA 
+ 
+Abra a porta superior clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Colocar na balança”. 
+ 
+ 
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Despeje o  conteúdo clicando com o  botão  esquerdo  do  mouse  sobre  a válvula  “E” e 
+mantenha pressionado. 
+ 
+ 
+ 
+Mova  a  pipeta para  o  suporte clicando com o  botão direito do  mouse  sobre ela  e 
+selecione a opção “Colocar no suporte para pipetas”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Feche a porta superior clicando com o botão esquerdo do mouse sobre ela. Registre os 
+valores encontrados. 
+ 
+ 
+ 
+Abra a porta lateral clicando com o botão esquerdo mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova o béquer de 250 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Remova o conteúdo clicando com o botão direito do mouse sobre o béquer de 250 mL 
+e selecione a opção “Descartar o conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Remova o conteúdo clicando com o botão direito do mouse sobre o béquer de 50 mL e 
+selecione a opção “Descartar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+8. MEDINDO COM A PROVETA 
+ 
+Retire a tara da balança analítica clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Colocar na balança”. 
+ 
+ 
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Feche a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Abra a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Colocar sobre a mesa”. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a opção 
+“Colocar sobre a proveta”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Despeje 15 mL de água destilada na proveta clicando com o botão esquerdo do mouse 
+sobre a pisseta e mantenha pressionado. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão direito do  mouse  sobre a  pisseta e  selecione  a 
+opção “Colocar sobre a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Colocar na balança”. 
+ 
+ 
+ 
+Feche a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Registre o valor encontrado e calcule o valor da massa da água na proveta. 
+(M
+água
+ = M
+proveta+água
+ – M
+proveta
+). 
+Mova a proveta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Colocar sobre a mesa”. 
+ 
+ 
+ 
+Remova o conteúdo da proveta clicando com o botão direito do mouse sobre a proveta 
+e selecione a opção “Descartar conteúdo”. 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+9. CALCULANDO A DENSIDADE 
+ 
+Mova o béquer de 50 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar na balança”. 
+ 
+ 
+ 
+Feche  a  porta  lateral  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela. Registre  o 
+valor encontrado. 
+ 
+ 
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Abra a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o béquer de 50 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar sobre a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Posicione  a  pisseta contendo  água  destilada clicando  com  o  botão direito do  mouse 
+sobre a pisseta e selecione a opção “Colocar sobre o béquer de 50 mL”. 
+ 
+ 
+ 
+Despeje 15 mL  de água  clicando com o  botão esquerdo do  mouse  sobre  a  pisseta e 
+mantenha pressionado. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Retorne  a  pisseta  para  a  mesa  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Mova o béquer de 50 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar na balança”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Feche a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Registre o valor encontrado e calcule a massa da água: 
+ 
+(M
+água
+ = M
+béquer+água
+ – M
+béquer
+) 
+ 
+Com base nos valores encontrados, determine a densidade da água destilada, para os 
+casos de medição com a proveta e com o béquer: 
+ 
+퐷= 
+푚
+푣
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Abra a porta lateral clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Mova o béquer de 50 mL clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar sobre a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Remova o conteúdo clicando com o botão direito do mouse sobre o béquer de 50 mL e 
+selecione a opção “Descartar o conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+10.  EXPLORANDO A PRECISÃO DAS VIDRARIAS 
+ 
+Mova  a  pisseta  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Colocar no béquer de 250 mL”. 
+ 
+ 
+ 
+Deposite 10  mL  de água destilada clicando com o  botão  esquerdo  do  mouse  sobre  a 
+pisseta e mantenha pressionado. 
+ 
+ 
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova  a  pisseta para  a  bancada clicando  com  o  botão direito do  mouse sobre  ela  e 
+selecione a opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Colocar sobre o béquer de 250 mL”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Retire o ar da pera clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Insira a  pipeta no  recipiente clicando  com  o  botão direito do  mouse  sobre a  pipeta  e 
+selecione a opção “Inserir no recipiente”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Succione  o  conteúdo  clicando com o  botão  esquerdo  do  mouse sobre  a válvula  “S” e 
+mantenha pressionado. 
+ 
+ 
+ 
+Retire  a  pipeta do  recipiente clicando  com  o  botão direito do  mouse  sobre a pipeta e 
+selecione a opção “Remover do recipiente”. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a opção 
+“Colocar no suporte para pipetas”. 
+ 
+ 
+ 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse sobre  a  pisseta e  selecione  a 
+opção “Colocar na proveta”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Deposite 6,5  mL  de água destilada clicando com o  botão  esquerdo  do  mouse  sobre  a 
+pisseta e mantenha pressionado. 
+ 
+ 
+ 
+Mova a pisseta para a bancada clicando com o botão direito do mouse sobre a pisseta e 
+selecione a opção “Colocar sobre a mesa”.  
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Mova a pisseta para ao béquer de 50 mL clicando com o botão direito do mouse sobre 
+a pisseta e selecione a opção “Colocar sobre o béquer de 50 mL”.  
+ 
+ 
+ 
+Despeje 6,5  mL  de água  clicando com o  botão esquerdo do  mouse  sobre  a  pisseta e 
+mantenha pressionado.  
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Retorne  a  pisseta  para  a  mesa  clicando  com  o  botão direito do  mouse  sobre  ela  e 
+selecione a opção “Colocar sobre a mesa”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+11. FINALIZANDO O EXPERIMENTO 
+ 
+Remova o conteúdo das vidrarias clicando com o botão direito do mouse sobre elas e 
+selecione a opção “Descartar conteúdo”. 
+ 
+ 
+ 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Abra a gaveta indicada clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+Guarde  as  vidrarias  clicando  com  o  botão  direito  do  mouse  sobre  elas  e  selecione  a 
+opção “Colocar na gaveta”. 
+ 
+ 
+ 
+Desligue  a  balança  analítica  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+MEDIDAS DE MASSA E VOLUME DE LÍQUIDOS 
+ 
+12.  AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas páginas 09  e  10 deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

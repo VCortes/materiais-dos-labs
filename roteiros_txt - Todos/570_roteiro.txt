@@ -1,0 +1,2315 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você conhecer o perfil de restrição e sua utilização na análise 
+e identificação de DNA. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador orbital; 
+• Água ultrapura; 
+• Amostra de PCR do rRNA 16S de cepas bacterianas; 
+• Balança analítica; 
+• Banho-maria; 
+• Brometo de Etídio; 
+• Buffer 10x para enzima de restrição; 
+• Buffer TAE 1x; 
+• Caixa para ponteira com filtro (micropipeta 2 μL e 20 μL); 
+• Cooler de refrigeração de bancada; 
+• Cuba para eletroforese horizontal; 
+• Enzima de restrição HinP1l; 
+• Erlenmeyer 250 mL; 
+• Espátula de metal; 
+• Freezer; 
+• Gel Documentation System; 
+• Luvas para autoclave; 
+• Microcentrífuga; 
+• Micro-ondas; 
+• Micropipeta de 2 μL e 20 μL; 
+• Notebook; 
+• Padrão de corrida 100 bp Plus DNA Ladder; 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+• Pente para gel agarose; 
+• Pó Agarose; 
+• Ponteira para micropipeta (2 μL e 20 μL); 
+• Recipiente (barquinha) para pesagem; 
+• Recipiente com gelo; 
+• Suporte de micropipeta; 
+• Suporte flutuante para tubo; 
+• Suporte para gel de agarose; 
+• Tampão 6X Loading dye; 
+• Tubo Eppendorf; 
+• Vórtex. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia. Coloque  os equipamentos de  proteção  individual  localizados no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e máscara.  
+ 
+2. PREPARANDO AS SOLUÇÕES 
+ 
+Identifique os tubos Eppendorf com o marcador permanente. Ligue o banho-maria e ajuste a 
+temperatura para 37°C. Abra o freezer -20° C, retire o tubo que contém o buffer 10x e mova 
+o  tubo  para  o  suporte  de  Eppendorf.  Aguarde  por  10  minutos  até  descongelamento  do 
+conteúdo do Eppendorf. Mova o tubo buffer 10x para o vórtex e agite por 5 segundos. Mova 
+o tubo para microcentrífuga e centrifugue por 5 segundos, retire da microcentrífuga e mova 
+para o suporte Eppendorf. Retire do freezer -20° C a caixa que contém a amostra rRNA 16S, a 
+água ultrapura e a enzima de restrição HinP1l. Retire a enzima de restrição HinP1l e mova para 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+  
+o  cooler  de  refrigeração.  Retire  o  rRNA  16S  e  a  água  ultrapura  e  mova  para  o  suporte  de 
+Eppendorf. Aguarde por 10 minutos até descongelamento do conteúdo do Eppendorf. 
+ 
+3. PIPETANDO ENZIMA DE RESTRIÇÃO E BUFFER 10X 
+ 
+Ajuste  o  volume  da  micropipeta  de  2  μL  para  1  μL.  Pipete  1  μL  da  enzima  de  restrição  e 
+transfira  para  cada  um  dos  tubos  (Bac1,  Bac2,  Bac3,  Bac4  e  Bac5),  descartando  a  ponteira 
+entre os tubos. Pipete 2 μL do buffer 10x e transfira para cada um dos tubos (Bac1, Bac2, Bac3, 
+Bac4 e Bac5), descartando a ponteira entre os tubos. 
+ 
+4. PIPETANDO RRNA 
+ 
+Ajuste o volume da micropipeta de 20 μL para 5 μL. Pipete 5 μL da amostra 16S rRNA e transfira 
+para  cada  um  dos  tubos  (Bac1, Bac2,  Bac3,  Bac4  e  Bac5),  descartando  a  ponteira  entre  os 
+tubos. Ajuste o volume da micropipeta para 12 μL. Pipete 12 μL de água ultrapura e transfira 
+para  cada  um  dos  tubos  (Bac1,  Bac2,  Bac3,  Bac4  e  Bac5),  descartando  a  ponteira  entre  os 
+tubos.  
+ 
+5. HOMOGENEIZANDO OS TUBOS 
+ 
+Ajuste o volume da micropipeta de 20 μL para 10 μL. Homogeneíze o tubo Bac1 e descarte a 
+ponteira.  Repita  o  processo  de  homogeneização  em  todos  os  tubos.  Feche  os  Eppendorf. 
+Mova os Eppendorf para o banho-maria e aguarde por 1 hora. Mova os tubos para o suporte 
+de Eppendorf e aguarde 5 minutos. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+6. COLOCANDO DNA PADRÃO 
+ 
+Retire do freezer -20° C a caixa que contém tampão 6X Loading dye e o padrão de corrida DNA 
+Ladder. Mova os tubos para o suporte de Eppendorf e aguarde descongelar por 10 minutos. 
+Ajuste o volume da micropipeta de 20 μL para 4 μL. Pipete 4 μL do tampão 6X Loading dye e 
+transfira  para  cada  um  dos  tubos  (Bac1,  Bac2,  Bac3,  Bac4  e  Bac5),  descartando  a  ponteira 
+entre  os  tubos.  Ajuste  o  volume  da  micropipeta  para  12  μL, homogeneíze o  tubo  Bac1  e 
+descarte a ponteira.  
+ 
+7. PREPARANDO A ESCALA 
+ 
+Identifique um Eppendorf vazio com o nome “escala” com o marcador permanente e coloque 
+no  suporte.  Ajuste  o  volume  da  micropipeta  de  2  μL  para  1  μL.  Pipete  1  μL  do  tampão  6X 
+Loading dye, transfira para o Eppendorf e descarte a ponteira. Ajuste o volume da micropipeta 
+de  20  μL para  5  μL.  Pipete  o  padrão  de  corrida  DNA,  transfira  para  o  Eppendorf  “escala”  e 
+descarte a ponteira. Ajuste o volume da micropipeta para 3 μL, homogeneíze o tubo e descarte 
+a ponteira. 
+ 
+8. PREPARANDO O GEL DE AGAROSE 
+ 
+Ligue a balança, mova o recipiente de pesagem e tare a balança. Pese 1,5 g de agarose com 
+auxílio da espátula. Transfira o pó de agarose pesado para o Erlenmeyer de 250 mL. Transfira 
+100 mL de TAE buffer 1x no Erlenmeyer e mova para o micro-ondas. Programe o micro-ondas 
+para 1 minuto. Coloque as luvas de autoclave e retire o Erlenmeyer. Homogeneíze o conteúdo 
+do Erlenmeyer com movimentos circulares e aguarde esfriar por 30 minutos. Monte o suporte 
+horizontal e transfira a agarose derretida, aguarde 20 minutos até que o gel solidifique. Retire 
+o pente de 8 poços e desmonte o suporte. Mova o gel solidificado para a cuba de eletroforese. 
+Adicione TAE buffer na cuba de eletroforese até cobrir toda superfície do gel, deixe incubar 
+por 5 minutos. 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+  
+9. CORRENDO A AMOSTRA DE DNA 
+ 
+Ajuste  o  volume  da  micropipeta  de  20  μL  para  5  μL.  Pipete  5  μL  da  solução  do Eppendorf 
+“escala”,  transfira  para  o  primeiro  poço  do  gel  e  descarte  a  ponteira.  Ajuste  o  volume  da 
+micropipeta  para  15  μL.  Pipete  15  μL  do  tubo  Bac1,  transfira  para  o poco  2  e  descarte  a 
+ponteira. Transfira as demais amostras para os outros poços respeitando a seguinte ordem: 
+Bac2 – Poço  3;  Bac3 – Poço  4;  Bac4 – Poço  5;  Bac5 – Poço  6.  Coloque  a  tampa  da  cuba  de 
+eletroforese. Ligue a fonte de energia, a 120 volts por 45 minutos. Desligue a fonte de energia, 
+retire  a  tampa  da  cuba,  mova  o  gel  para  o  recipiente  com  brometo  de  etídio  e  mova  o 
+recipiente  para  o  agitador  magnético,  a  30  rpm  por  10  minutos.  Remova  o  recipiente  do 
+agitador e transfira o gel para o recipiente com água. Mova o recipiente para o agitador, a 30 
+rpm por 10 minutos. 
+ 
+10. OBSERVANDO AS BANDAS DE DNA 
+ 
+Mova  o  gel  para  o transiluminador,  ligue  o  equipamento  e  o  notebook.  Clique  no  ícone  do 
+programa localizado na área de trabalho, em seguida clique em “Acquire icon”, selecione “UV 
+light”, clique em “Auto Exposure” e observe o resultado do gel. 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 10 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a aplicabilidade principal das enzimas de restrição? 
+ 
+ 
+ 
+2. A partir do resultado obtido quais linhagens pertencem às mesmas espécies? 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos e 
+máscara. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+2. PREPARANDO AS SOLUÇÕES 
+ 
+Identifique  os  tubos  Eppendorfs  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+caneta marcadora. 
+ 
+ 
+ 
+Visualize o  banho-maria clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Banho-maria” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Aumente  a temperatura  para  37°C  clicando  com  o botão  esquerdo do mouse sobre  o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Visualize o freezer clicando  com o botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Freezer” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra o freezer clicando com o botão esquerdo do mouse sobre o freezer. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra a tampa clicando com o botão esquerdo do mouse sobre a caixa organizadora. 
+ 
+ 
+ 
+Mova  o  Buffer  10X  clicando  com  o  botão direito  do  mouse  sobre o tubo  Buffer 10X e 
+selecione a opção “Colocar no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde o tubo descongelar por 10 minutos ou avance o tempo clicando com o botão 
+esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+Mova  o  Buffer  10X  clicando  com  o  botão direito  do  mouse  sobre o tubo  Buffer 10X e 
+selecione a opção “Posicionar em vórtex”. Aguarde 5 segundos. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra  a  tampa  da  microcentrífuga  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+microcentrífuga. 
+ 
+ 
+ 
+Mova  o  Buffer  10X  clicando  com  o  botão direito  do  mouse  sobre o tubo  Buffer 10X e 
+selecione a opção “Posicionar em centrífuga”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Feche   a   microcentrífuga   clicando   com   o   botão   esquerdo   do   mouse   sobre   a 
+microcentrífuga. 
+ 
+ 
+ 
+Ligue  a  microcentrífuga  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. Aguarde 5 segundos. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Desligue  a  microcentrífuga clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Abra   a   microcentrífuga   clicando   com   o   botão   esquerdo   do   mouse   sobre   a 
+microcentrífuga. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Retire o tubo clicando com o botão direito do mouse sobre a microcentrífuga. 
+ 
+ 
+ 
+Visualize o freezer clicando  com o botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Freezer” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra o freezer clicando com o botão esquerdo do mouse sobre o freezer. 
+ 
+ 
+ 
+Mova a amostra de PCR do rRNA 16S (1) clicando com o botão direito do mouse sobre 
+o tubo indicado e selecione a opção “Colocar no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita esse processo para os tubos com as amostras de PCR do rRNA 16S (2-3-4-5) e de 
+água ultrapura. 
+ 
+ 
+ 
+Mova  a enzima  de  restrição clicando  com  o  botão direito  do  mouse  sobre  o tubo 
+indicado e selecione a opção “Colocar no cooler de refrigeração”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde descongelar por 10 minutos ou avance o tempo clicando com o botão esquerdo 
+do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+3. PIPETANDO ENZIMA DE RESTRIÇÃO E BUFFER 10X 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 1 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova a micropipeta clicando  com  o  botão  direito  do  mouse  sobre a micropipeta e 
+selecione a opção “Colocar em enzima de restrição”. 
+ 
+ 
+ 
+Mova a micropipeta clicando  com  o  botão  direito  do  mouse  sobre a micropipeta e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque a  ponteira clicando  com  o  botão  direito  do  mouse  sobre a micropipeta e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova a micropipeta, aspire a enzima de restrição, 
+despeje no tubo bac2 e troque a ponteira. Realize esse procedimento em todos os tubos, 
+bac3, bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 2 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Buffer 10x”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova a micropipeta, aspire o Buffer 10x, despeje 
+no tubo bac2 e troque a ponteira. Realize esse procedimento em todos os tubos, bac3, 
+bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+4. PIPETANDO rRNA 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 5 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em rRNA16S 1”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em rRNA16S 2”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac2”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em rRNA16S 3”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac3”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em rRNA16S 4”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac4”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em rRNA16S 5”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac5”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure  o  volume  para 12μL utilizando  o  seu  teclado  numérico  e  confirme  clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em água ultrapura”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita  os  procedimentos anteriores,  mova  a  micropipeta,  aspire  a água  ultrapura, 
+despeje no tubo bac2 e troque a ponteira. Realize esse procedimento em todos os tubos, 
+bac3, bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+5. HOMOGENEIZANDO OS TUBOS 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 10 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+ 
+Homogeneíze o  tubo  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Homogeneizar”. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Repita   os   procedimentos   anteriores,   mova   a   micropipeta para   o   tubo Bac2, 
+homogeneíze e troque a ponteira. Realize esse procedimento em todos os tubos, bac3, 
+bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Tampe o tubo Eppendorf Bac1 clicando com o botão esquerdo sobre o tubo. 
+ 
+ 
+ 
+Repita o procedimento anterior, tampe os tubos bac2, bac3, bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova o tubo bac1 clicando com o botão direito do mouse sobre o tubo bac1 e selecione 
+a opção “Posicionar em banho-maria”. 
+ 
+ 
+ 
+Repita o procedimento anterior, mova os tubos bac2, bac3, bac4 e bac5 para o banho-
+maria. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde o aquecimento por 1 hora ou avance o tempo clicando com o botão esquerdo 
+do mouse em “Avançar”. 
+ 
+ 
+ 
+Retire  os  tubos  Eppendorfs  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  tubo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde esfriar por 5 minutos ou avance o tempo clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+6. COLOCANDO DNA PADRÃO 
+ 
+Visualize o  freezer clicando  com o botão  esquerdo  do  mouse  na  câmera com  o  nome 
+“Freezer” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra o freezer clicando com o botão esquerdo do mouse sobre o freezer. 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  tampão  6x  loading  dye clicando  com  o  botão direito  do  mouse  sobre  o tubo 
+indicado e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+Visualize o  freezer clicando  com o botão  esquerdo  do  mouse  na  câmera com  o nome 
+“Freezer” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra o freezer clicando com o botão esquerdo do mouse sobre o freezer. 
+ 
+ 
+ 
+Mova o padrão de corrida clicando com o botão direito do mouse sobre o tubo indicado 
+e selecione a opção “Colocar no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde descongelar por 10 minutos ou avance o tempo clicando com o botão esquerdo 
+do mouse em “Avançar”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure o volume para 4 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em tampão 6x loading dye”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita  os  procedimentos  anteriores,  mova  a  micropipeta,  aspire o tampão  6x  loading 
+dye, despeje no tubo bac2 e troque a ponteira. Realize esse procedimento em todos os 
+tubos, bac3, bac4 e bac5. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure o volume para 12 μL utilizando o seu teclado numérico e confirme clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Homogeneíze  o  tubo clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita   os   procedimentos   anteriores,   mova   a   micropipeta para   o   tubo Bac2, 
+homogeneíze e troque a ponteira. Realize esse procedimento em todos os tubos, bac3, 
+bac4 e bac5. 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+7. PREPARANDO A ESCALA 
+ 
+Identifique  o  Eppendorf  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  caneta 
+marcadora. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure o volume para 1 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em tampão 6x loading dye”. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em escala”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 5 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em padrão de corrida DNA Ladder”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em escala”. 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure o volume para 3μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em escala”. 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Homogeneíze  o  tubo  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Homogeneizar”. 
+ 
+ 
+ 
+Troque  a ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+8. PREPARANDO O GEL DE AGAROSE 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  recipiente  de  pesagem  clicando  com  o  botão esquerdo  do  mouse  sobre  o 
+recipiente. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Retire a tampa clicando com o botão esquerdo do mouse sobre o pote de pó de agarose. 
+ 
+ 
+ 
+Pegue  o  pó  de  agarose clicando  com  o  botão  direito  do  mouse  sobre  a  espátula  e 
+selecione a opção “Pegar agarose”. 
+ 
+ 
+  
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Pese 1,5g do pó de agarose clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Posicionar na bancada”. 
+ 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Despeje o pó de agarose clicando com o botão direito do mouse sobre o recipiente de 
+pesagem. 
+ 
+ 
+ 
+Visualize  a  escala  do  Erlenmeyer  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+Erlenmeyer. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Despeje o tampão de corrida clicando com o botão esquerdo do mouse sobre a garrafa 
+de Buffer TAE 1x. 
+ 
+ 
+ 
+Visualize o  micro-ondas clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Micro-ondas” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Abra a porta do micro-ondas clicando com o botão esquerdo do mouse sobre a porta do 
+micro-ondas. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Colocar no micro-ondas”. 
+ 
+ 
+ 
+Configure o micro-ondas clicando duas vezes com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Feche a porta do micro-ondas clicando com o botão esquerdo do mouse sobre a porta 
+do micro-ondas 
+ 
+ 
+ 
+Ligue o micro-ondas clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Coloque as luvas clicando com o botão esquerdo do mouse sobre as luvas. 
+ 
+ 
+ 
+Abra a porta do micro-ondas clicando com o botão esquerdo do mouse sobre a porta do 
+micro-ondas. 
+ 
+ 
+  
+
+ 
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Homogeneíze clicando com o botão direito do mouse sobre o Erlenmeyer e selecione a 
+opção “Homogeneizar”. 
+ 
+ 
+  
+
+ 
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde esfriar por 30 minutos ou avance o tempo clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+ 
+Coloque o pente clicando com o botão esquerdo do mouse sobre o pente. 
+ 
+ 
+  
+
+ 
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Despeje o gel de agarose clicando com o botão direito do mouse sobre o Erlenmeyer e 
+selecione a opção “Despejar no suporte horizontal”. 
+ 
+ 
+ 
+Aguarde  o  gel  solidificar  por  20  minutos  ou  avance  o  tempo clicando  com  o  botão 
+esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Desmonte o suporte clicando com o botão direito do mouse sobre o suporte e selecione 
+a opção “Desmontar suporte”. 
+ 
+ 
+ 
+Mova  o  gel  de  agarose  clicando  com  o  botão  direito  do  mouse  sobre  o  suporte  e 
+selecione a opção “Colocar na cuba de eletroforese”. 
+ 
+ 
+  
+
+ 
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Despeje o tampão de corrida clicando com o botão direito do mouse sobre a garrafa de 
+Buffer TAE 1x. 
+ 
+ 
+ 
+Aguarde incubar por 5 minutos ou avance o tempo clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+9. CORRENDO A AMOSTRA DE DNA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova  o  suporte  de  Eppendorf  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+suporte. 
+ 
+  
+
+ 
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 5 μL utilizando o seu teclado numérico e confirme clicando com 
+o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+ 
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em escala”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em poço (0)”. 
+ 
+ 
+  
+
+ 
+ 
+88 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+ 
+ 
+89 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure  o  volume  para 15μL utilizando  o  seu  teclado  numérico  e  confirme  clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em Bac1”. 
+ 
+ 
+  
+
+ 
+ 
+90 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Colocar em poço (1)”. 
+ 
+ 
+ 
+Troque  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+ 
+ 
+91 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita  os  procedimentos  anteriores,  mova  a  micropipeta,  aspire  o  conteúdo  do  tubo 
+bac2, despeje no poço (2) e troque a ponteira. Realize esse procedimento em todos os 
+tubos, bac3, bac4 e bac5. 
+ 
+ 
+ 
+Coloque  a  tampa  da  cuba  de  eletroforese  clicando  com  o  botão esquerdo  do  mouse 
+sobre a cuba de eletroforese. 
+ 
+ 
+  
+
+ 
+ 
+92 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Coloque o cabo eletrodo clicando com o botão direito do mouse no cabo 1 e selecione 
+a opção “Colocar no pino 2”. 
+ 
+ 
+ 
+Coloque o cabo eletrodo clicando com o botão direito do mouse no cabo 2 e selecione 
+a opção “Colocar no pino 1”. 
+ 
+ 
+  
+
+ 
+ 
+93 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Visualize o agitador clicando com o botão esquerdo do mouse na câmera com o nome 
+“Agitador” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Ligue a fonte de energia clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+94 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure a voltagem para 120 clicando com o botão esquerdo do mouse sobre o botão 
+indicado. 
+ 
+ 
+ 
+Selecione o tempo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+95 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure o tempo para 45 minutos clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Ligue  a  fonte  de  energia  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+96 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde por 45 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Retire o cabo eletrodo clicando com o botão esquerdo do mouse sobre o cabo eletrodo 
+ 
+ 
+  
+
+ 
+ 
+97 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Retire o cabo eletrodo clicando com o botão esquerdo do mouse sobre o cabo eletrodo 
+ 
+ 
+ 
+Retire a tampa clicando com o botão esquerdo do mouse sobre a cuba de eletroforese. 
+ 
+ 
+  
+
+ 
+ 
+98 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  gel  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  gel  na  cuba  de 
+eletroforese. 
+ 
+ 
+ 
+Ligue o agitador clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+99 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Configure para  30  rpm clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Configure  o  tempo para  10  minutos clicando  com  o  botão  esquerdo  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+100 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  recipiente  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  recipiente  com 
+brometo de etídio. 
+ 
+ 
+ 
+Ligue o agitador clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+101 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ative o tempo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+102 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Mova  o  recipiente  clicando  com  o  botão  direito  do  mouse  sobre  o  recipiente  com 
+brometo de etídio. 
+ 
+ 
+ 
+Mova o gel de agarose clicando com o botão direito do mouse sobre o gel e selecione a 
+opção “Colocar em recipiente com água”. 
+ 
+ 
+  
+
+ 
+ 
+103 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Repita  os  procedimentos  anteriores,  configure  o agitador  orbital  para 30  rpm  por  10 
+minutos. 
+ 
+ 
+ 
+Mova  o  recipiente  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  recipiente  com 
+água destilada. 
+ 
+ 
+  
+
+ 
+ 
+104 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ligue o agitador clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Ative o tempo clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+105 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Mova o recipiente clicando com o botão direito do mouse sobre o recipiente com água 
+destilada. 
+ 
+ 
+  
+
+ 
+ 
+106 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+10.  OBSERVANDO AS BANDAS DE DNA 
+ 
+Mova  o  gel  de  agarose  clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Colocar em transiluminador”. 
+ 
+ 
+ 
+Feche   o   transiluminador clicando   com   o   botão   esquerdo   do   mouse   sobre   o 
+transiluminador. 
+ 
+  
+
+ 
+ 
+107 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ligue o transiluminador clicando com o botão direito do mouse sobre o transiluminador. 
+ 
+ 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+10”. 
+ 
+ 
+  
+
+ 
+ 
+108 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Ligue o notebook clicando com o botão esquerdo do mouse sobre o notebook. 
+ 
+ 
+ 
+Abra o programa clicando com o botão esquerdo do mouse sobre o símbolo indicado na 
+área de trabalho. 
+ 
+ 
+  
+
+ 
+ 
+109 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+Selecione  o  “acquire  icon”  clicando  com  o  botão  esquerdo  do  mouse  sobre  botão 
+indicado. 
+ 
+ 
+ 
+Selecione  “UV  light” e  o  “Auto  Exposure” clicando  com  o botão  esquerdo  do  mouse 
+sobre os botões indicados. 
+ 
+ 
+  
+
+ 
+ 
+110 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+ANÁLISES DE RESTRIÇÃO 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 10 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,538 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste  experimento  você  irá  explorar  as  características  e  propriedades  do 
+pêndulo físico. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Base do Pêndulo Físico; 
+• Transferidor; 
+• Corpos Rígidos; 
+• Cronômetro. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. FIXANDO A BARRA PELO PONTO P 
+ 
+Fixe a barra (corpo rígido) na base pelo ponto P. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+2. AJUSTANDO O ÂNGULO INICIAL DO PÊNDULO 
+ 
+Estabeleça um ângulo de 5 graus suspendendo lateralmente o corpo que você 
+fixou e o mantendo levantado. 
+ 
+3. MEDINDO O PERÍODO DE OSCILAÇÃO DA BARRA 
+ 
+Ligue  o  cronômetro  ao mesmo  tempo  que  abandona  a  barra  da  posição 
+estabelecida no passo anterior. Verifique o tempo que ela realiza 10 oscilações.  
+Repita esta medida cinco vezes, e determine a média e o desvio padrão. Calcule 
+o período. 
+ 
+4. REPETINDO COM A BARRA FIXA PELO PONTO O 
+ 
+Fixe a barra na base do pêndulo físico pelo ponto O. Repita os passos 2 e 3. 
+ 
+5. REPETINDO COM A BARRA FIXA PELO PONTO G 
+ 
+Fixe a barra na base pelo ponto G. Suspenda o corpo até o ângulo de 5 graus e 
+solte. Anote o comportamento observado. 
+ 
+6. REPETINDO COM OUTROS CORPOS RÍGIDOS 
+ 
+Retire a barra da base. Repita os passos anteriores para os outros corpos rígidos 
+disponíveis. Fixe os corpos por todos pontos disponíveis e calcule o período para 
+cada ponto. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Calcule o período teórico. Compare com o obtido experimentalmente, e calcule 
+o erro. Quais possíveis fontes deste erro? 
+ 
+ 
+ 
+ 
+ 
+2. Na barra, houve diferença de período entre os pontos P e O? Justifique. 
+ 
+ 
+ 
+ 
+ 
+3. Fixando a barra pelo ponto G, houve oscilação? Justifique. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+4. Houve diferença ao utilizar os outros corpos rígidos (pêndulos físicos)? 
+ 
+ 
+ 
+ 
+ 
+5. Calcule o comprimento do pêndulo físico correspondente a cada eixo de rotação, 
+ou  seja,  pontos  de  fixação,  para  todos  os  três  corpos.  Explique  o  que  mudou 
+entre eles. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. FIXANDO A BARRA PELO PONTO P 
+ 
+No início do experimento uma notificação irá surgir informando sobre como utilizar o 
+mouse corretamente durante o experimento e que, ao pressionar a letra “H”, serão 
+sinalizados os itens com os quais se pode interagir. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+No canto superior esquerdo da tela é possível acessar diversas opções de câmera que 
+podem ser utilizadas no decorrer do experimento, clicando com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Para  mudar  a  angulação  do pêndulo  pressione  o  botão  esquerdo  do  mouse  sobre  o 
+botão azul localizado na caixa “Pêndulo físico” e arraste-o até o ângulo escolhido. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Para escolher o corpo de prova que irá analisar inicialmente, acesse a opção de câmera 
+“Corpos de prova”. 
+ 
+ 
+ 
+Escolha a barra como corpo de prova. Para isso, clique com o botão direito do mouse no 
+ponto de fixação P e escolha a opção “Colocar na base”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+ 
+2. AJUSTANDO O ÂNGULO INICIAL DO PÊNDULO 
+ 
+Para posicionar o pêndulo no ângulo requerido, pressione o botão esquerdo do mouse 
+sobre o botão azul disposto na caixa “Pêndulo físico” e gire-o para o ângulo desejado. 
+ 
+ 
+ 
+Posicione o pêndulo no ângulo inicial de 5°. Observe que ao posicionar o botão azul no 
+ângulo requerido o pêndulo começa a realizar o movimento oscilatório. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Você pode parar o movimento oscilatório do pêndulo clicando no botão “Parar pêndulo” 
+localizado acima da caixa de ajuste do ângulo. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+ 
+3. MEDINDO O PERÍODO DE OSCILAÇÃO DA BARRA 
+ 
+Para obter o período de oscilação do pêndulo, utilize o cronômetro. Ative-o após o início 
+do movimento do pêndulo, clicando com o botão esquerdo do mouse sobre o símbolo 
+destacado abaixo ou clicando na tecla “P” do teclado. O mesmo procedimento é feito 
+para pausar a medição. 
+ 
+ 
+ 
+Ao realizar futuras medições, você poderá zerar o cronômetro clicando no “X” localizado 
+ao  lado  do  botão  de  ativação. Faça  a  medição  do  tempo  de  10  oscilações  e  anote  os 
+valores obtidos no experimento em uma tabela. 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Durante  o  movimento  oscilatório  do  pêndulo  físico  é  possível  visualizar  o  gráfico 
+referente  a  este  movimento.  Para  isso,  acesse  a  opção  “Gráfico”  disposta  no  canto 
+superior direito da tela. 
+ 
+ 
+ 
+O gráfico aparece ao canto da tela. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Você  pode  também  visualizar  os  pontos  do  gráfico.  Para  isso,  clique  com  o botão 
+esquerdo do mouse sobre a opção “Visualizar pontos”. 
+ 
+ 
+ 
+Observe os pontos do gráfico dispostos na tabela abaixo. 
+ 
+ 
+ 
+Você pode usar esses dados para construir o gráfico em outros softwares de avaliação 
+de dados e analisar outras particularidades do experimento. 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Para ocultar o gráfico e os pontos, clique com o botão esquerdo do mouse no botão de 
+minimizar indicado. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+ 
+4. REPETINDO COM A BARRA FIXA PELO PONTO O 
+ 
+Clique com o botão direito do mouse na barra e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Clique com o botão direito do mouse na barra no ponto de fixação O e escolha a opção 
+“Colocar na base”. 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Ajuste novamente a angulação do corpo rígido para 5° e realize a medição do tempo de 
+10 oscilações. 
+ 
+ 
+ 
+Faça a medição do tempo 5 vezes e anote os valores obtidos no experimento em uma 
+tabela. 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+ 
+5. REPETINDO COM A BARRA FIXA PELO PONTO O 
+ 
+Clique com o botão direito do mouse na barra e selecione a opção “Colocar na mesa” 
+ 
+ 
+ 
+Clique com o botão direito do mouse na barra no ponto de fixação G e escolha a opção 
+“Colocar na base”. 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+Ajuste novamente o ângulo para 5°. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO FÍSICO 
+ 
+ 
+6. REPETINDO COM OUTROS CORPOS RÍGIDOS 
+ 
+Realize  os  passos anteriores  para  os  outros  corpos  de  prova,  alterando  os  ângulos  de 
+posicionamento. 

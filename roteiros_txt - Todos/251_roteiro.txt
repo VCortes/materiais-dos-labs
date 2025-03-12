@@ -1,0 +1,552 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender a respeito de como utilizar um simulador 
+illustrator. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. UTILIZANDO OS ELEMENTOS DO SIMULADOR 
+ 
+Utilize o lápis selecionando a opção “Lápis”, logo após clique e arraste para desenhar 
+a forma desejada. Altere a cor a ser utilizada e ajuste a intensidade da cor dentro do 
+triângulo  apresentado  na  lateral  direita  do  laboratório.  Confira  a  cor  escolhia  no 
+círculo  abaixo  da  figura  de  seleção  de  cores.  É  possível  ajustar a  espessura  do  lápis 
+utilizando o menu de espessura ajustando a qual é desejada. 
+A borracha é acionada ao  clicar em “Borracha”. Para utilizá-la,  clique e  arraste  para 
+apagar o que deseja ser apagado. Ajuste a espessura da borracha no menu localizado 
+do lado direito da tela.  
+Para   realizar   o   preenchimento   das   formas   já   realizadas,   selecione   a   opção 
+“Preencher”.  Preencha  espaços  internos  ou externos  clicando  dentro  dos  espaços 
+internos  ou  externos  com  o  auxílio  do  cursor.  Altere  a  cor  a  ser  utilizada  para 
+preencher conforme já orientado. 
+Utilize o conta-gotas selecionando a opção “Conta-gotas”. Logo após, utilize o cursor 
+do mouse para realizar na imagem a quantidade de pontos desejada. Altere a cor e a 
+espessura a serem utilizadas para preencher conforme orientado anteriormente. 
+Para inserir formatos geométricos, selecione a opção “Formas”  e selecione a forma 
+desejada  dentre  as  que  aparecem  na  tela. Ajuste  o  tamanho  e  rotação  utilizando  o 
+menu  ao  lado  da  figura.  Altere  a  cor  da  forma  utilizada  conforme  orientado 
+anteriormente. Em seguida, posicione a forma no local desejado. Após realizar todos 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+os  ajustes,  decida  se  aplicará  a  forma  feita  selecionando  a  opção  “Aplicar”,  caso 
+contrário, selecione a opção “Cancelar”.  
+Para  inserir  textos,  selecione  a  opção  “Texto”.  Logo  depois,  escreva  o  que  deseja 
+inserir utilizando o teclado do seu computador. Ajuste a largura, altura e rotação no 
+menu ao lado do texto. Posicione o texto no local desejado arrastando-o para o lugar 
+escolhido.   Escolha   após   todos   os   ajustes   se   gostaria   de   aplicar   o   texto   feito 
+selecionando a opção “Aplicar”, caso contrário, selecione a opção “Cancelar”.  
+Utilize as imagens do banco  de dados de imagem selecionando a opção “Imagens”. 
+Escolha  no  banco  de  dados  de  imagem  disponíveis  qual  deseja  utilizar.  Selecione  a 
+imagem que deseja utilizar. Ajuste o tamanho e rotação desejado no menu ao lado da 
+imagem.  É  possível  ainda  adicionar,  copiar  e  excluir  camadas  utilizando  o  menu  de 
+camadas. Ajuste a opacidade das camadas no menu de opacidade. 
+Por fim, exporte a imagem criada para seu computador. Insira o nome do arquivo na 
+caixa de texto. Em seguida, selecione a opção “Exportar”. 
+ 
+2. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Indique uma aplicação prática da sobreposição utilizada no laboratório? 
+ 
+ 
+ 
+2. Indique aspectos práticos que podem ser utilizados com cada ferramenta nos menus 
+laterais esquerdos do laboratório? 
+ 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. UTILIZANDO OS ELEMENTOS DO SIMULADOR 
+ 
+Utilize  o  lápis  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  opção  “Lápis”.  Logo 
+após,  utilize  o  cursor  do  mouse  clicando,  segurando  e  arrastando  para  fazer  a  forma 
+desejada. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Altere  a  cor  a  ser  utilizada  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  cor  no 
+círculo  fora  do  triângulo.  Ajuste  a  intensidade  da  cor  dentro  do  triângulo  clicando 
+novamente com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Observe que após os ajustes a cor ajustada aparece no canto inferior direito do círculo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Ajuste  a  espessura  do  lápis  clicando  com  o  botão  esquerdo  do  mouse  no  menu  de 
+espessura ajustando a qual é desejada. 
+ 
+ 
+ 
+Utilize a borracha clicando com o botão esquerdo do mouse sobre a opção “Borracha”. 
+Em  seguida,  utilize  o  cursor  do  mouse  clicando,  segurando  e  arrastando  o  botão 
+esquerdo do mouse para apagar o que deseja. 
+ 
+ 
+ 
+Ajuste a espessura da borracha clicando sobre o menu de espessura localizado no menu 
+lateral esquerdo. Ajuste de maneira semelhante ao que foi realizado no lápis.  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Utilize o comando preencher clicando com o botão esquerdo do mouse sobre a opção 
+“Preencher”. 
+ 
+ 
+ 
+Preencha  espaços  internos  ou  externos  clicando  com  o  botão  esquerdo  do  mouse 
+dentro dos espaços internos ou externos com o auxílio do cursor.  
+ 
+ 
+ 
+Altere a cor a ser utilizada para preencher conforme orientado anteriormente nas ações 
+do lápis. 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Utilize o conta-gotas clicando com o botão esquerdo do mouse sobre a opção “Conta-
+gotas”. Logo após, utilize o cursor do mouse e clique com o botão esquerdo para realizar 
+as marcações. 
+ 
+ 
+ 
+Altere  a  cor  e  a  espessura  a  serem  utilizadas  para  preencher  conforme  orientado 
+anteriormente. 
+ 
+Utilize  as  formas  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  opção “Formas” 
+localizada no menu lateral esquerdo. 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Selecione a forma que deseja utilizar clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Ajuste  o  tamanho  e  rotação  desejado  clicando  com  o  botão  esquerdo  do  mouse.  Em 
+seguida, arraste sobre o menu ao lado da figura. 
+ 
+ 
+ 
+Altere a cor da forma utilizada conforme orientado anteriormente na utilização do lápis. 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Posicione a forma no local desejado clicando com o botão esquerdo do mouse sobre o 
+centro da forma e arrastando-a para o local escolhido. 
+ 
+ 
+ 
+Após todos os ajustes, escolha se gostaria de aplicar a forma feita clicando com o botão 
+esquerdo do mouse sobre a opção “Aplicar”. Caso contrário, clique na opção “Cancelar” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Insira  uma  caixa  de  texto  clicando  com  o  botão esquerdo  do  mouse  sobre  a  opção 
+“Texto” localizada no menu lateral esquerdo. Em seguida, escreva o que deseja colocar 
+na imagem utilizando o teclado. 
+ 
+ 
+ 
+Ajuste a largura, altura e rotação desejada clicando com o botão esquerdo do mouse e 
+arrastando sobre o menu ao lado do texto. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Ajuste a formatação de texto desejada clicando com o botão esquerdo do mouse sobre 
+as opções menu ao lado do texto. 
+ 
+ 
+ 
+Posicione o texto no local desejado clicando com o botão esquerdo do mouse sobre o 
+centro do texto e arrastando para o local desejado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Após todos os ajustes, decida se gostaria de aplicar o texto feito clicando com o botão 
+esquerdo  do  mouse  sobre  a  opção  “Aplicar”.  Caso  contrário,  clique  com  o  botão 
+esquerdo do mouse na opção “Cancelar”. 
+ 
+ 
+ 
+Utilize  as  imagens  do  banco  de  dados  de  imagem  clicando  com  o  botão  esquerdo  do 
+mouse sobre a opção “Imagens”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Escolha o banco de dados de imagem que deseja utilizar clicando com o botão esquerdo 
+do mouse sobre ele. 
+ 
+ 
+ 
+Selecione a imagem que deseja utilizar clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Ajuste  o  tamanho  e  rotação  desejados  clicando  com  o  botão  esquerdo  do  mouse  e 
+arrastando sobre o menu ao lado da imagem. 
+ 
+ 
+ 
+Posicione a imagem no local desejado clicando com o botão esquerdo do mouse sobre 
+o centro da imagem e arrastando para o local desejado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Adicione, copie e exclua camadas clicando com o botão esquerdo do mouse em uma das 
+opções do menu  o menu de camadas. 
+ 
+ 
+ 
+Ajuste  a  opacidade  das  camadas  para sobrepor  uma  imagens    clicando  com  o  botão 
+esquerdo do mouse sobre o menu de opacidade e ajustando até o desejado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+Exporte  a  imagem  criada  para  seu  computador  clicando  com  o  botão  esquerdo  do 
+mouse sobre a opção “Exportar Imagem’’. 
+ 
+ 
+ 
+Insira o nome do arquivo na caixa de texto. Em seguida, clique em exportar com o botão 
+esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE EDIÇÃO 
+MODELO ILLUSTRATOR 
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

@@ -1,0 +1,421 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  irá  explorar  um  importante  tipo  de  ação  constitucional,  o 
+ofício protocolar. Com base na análise do caso proposto, você deverá completar 
+o ofício selecionando, dentre diversas opções, textos que melhor se adequam ao 
+caso estudado. Um feedback será dado ao final da atividade. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. CONHECENDO O CASO 
+ 
+Ao  iniciar  a  prática,  você  será  apresentado  a  um  caso  hipotético e  a  partir  dele,  deverá  um 
+documento  denominado  Ofício.  Fique  à  vontade  para  explorar  todas  as  possibilidades  de 
+respostas e, em caso de dúvidas, consulte seus colegas, professores ou tutores.  
+ 
+2. IDENTIFICANDO OS REQUISITOS 
+ 
+Após  concluir  a  leitura  do  caso,  utilize  Tabela  1,  localizada  na  página  10  deste  roteiro,  para 
+identificar diversos requisitos necessários no momento da elaboração do ofício. Não avance 
+para  a  seção  de  escrita  do  ofício  sem  antes  responder  e  compreender  cada  um  desses 
+requisitos. 
+ 
+3. CONSTRUINDO O OFÍCIO 
+ 
+Acesse  o  ambiente  de  escrita.  Nesta  etapa,  você  encontrará  um  painel  no  qual  estarão, 
+sequencialmente,  textos contendo  possíveis  trechos  a  serem  utilizados  no  seu  ofício.  Com 
+base no caso apresentado e no sumário elaborado com auxílio do guia auxiliar, selecione os 
+textos  mais  apropriados para  seu ofício. Note  que,  nesta  etapa,  além  de observar questões 
+jurídicas atinentes  ao  caso  apresentado,  suas  respostas  devem  também  estar  escritas 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+  
+utilizando  a  norma  padrão  da  língua  portuguesa,  evitando  erros  gramaticais,  tipográficos, 
+entre outros. Após, você deverá fazer o download do arquivo e juntar as suas respostas com 
+a peça,  e  por  fim  anexar  na  aba  de  avaliação  dos  resultados,  localizada  na  página  07  deste 
+roteiro. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Descreva  quais  são  os  procedimentos  gerais  para  a  realização  de  um  oficio 
+(endereçamento, partes, conteúdo, etc.) 
+ 
+ 
+ 
+2. Em um texto de no máximo 10 linhas, discorra sobre a aplicação do Código de 
+Defesa    do    Consumidor,    no    presente    caso,    citando    os    artigos    a    ele 
+correspondente.  
+ 
+ 
+ 
+3. Em quais situações o ofício pode ser utilizado na prática jurídica?  
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO O CASO 
+ 
+Amplie a tela clicando com o botão esquerdo do mouse no botão indicado abaixo. Leia 
+atentamente a descrição do caso. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+Assista ao vídeo complementar clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+2. IDENTIFICANDO OS REQUISITOS 
+ 
+Após  concluir  a  leitura  do  caso,  utilize  Tabela  1  para  identificar  diversos  requisitos 
+necessários no momento da elaboração do ofício. Não avance para a seção de escrita 
+do ofício, sem antes responder e compreender cada um desses requisitos. 
+ 
+Descritivo Informativo para Elaboração do Ofício 
+1. Título e endereçamento: 
+(descreva aqui o título e o endereçamento do ofício) 
+ 
+2. Vocativo: 
+(vocativo identificando os destinatários) 
+ 
+3. Mensagem principal: 
+(descreva aqui as informações que precisam ser comunicadas) 
+ 
+4. Informações adicionais: 
+(quando necessário, descreva as informações complementares à mensagem principal) 
+ 
+5. Encerramento: 
+(apresentar saudações, identificação e assinatura do emissor) 
+ 
+Tabela 1 – Modelo de sumário de informações para síntese de um ofício. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+3. CONSTRUINDO O OFÍCIO 
+ 
+Acesse  o  ambiente  de  escrita  clicando  com o botão  esquerdo  do  mouse  no  botão 
+“Próximo”. 
+ 
+ 
+ 
+Escolha o texto referente ao endereçamento clicando com o botão esquerdo do mouse 
+em uma das alternativas de texto. Na parte superior da coluna à direita está o nome da 
+seção do texto a que as opções se referem. O texto escolhido será exibido à esquerda. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+Escolha o texto sobre o vocativo clicando com o botão esquerdo do mouse em uma das 
+opções de texto à direita. 
+ 
+ 
+ 
+Escolha o texto da  introdução clicando  com  o  botão  esquerdo  do  mouse  em  uma das 
+opções de texto à direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+Escolha  o  texto  das  informações  complementares  clicando  com  o  botão  esquerdo  do 
+mouse em uma das opções de texto à direita. 
+ 
+ 
+ 
+Escolha o texto do fechamento clicando com o botão esquerdo do mouse em uma das 
+opções de texto à direita.  
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+Edite e formate o texto do ofício clicando com o botão esquerdo do mouse dentro da 
+área de texto e utilizando o teclado de seu computador. Utilize as funções de formatação 
+clicando  com o  botão  esquerdo  do  mouse  em  um  dos  botões  no  menu  superior  da 
+coluna de texto. 
+ 
+ 
+ 
+Baixe uma cópia do ofício produzida clicando com o botão esquerdo do mouse no botão 
+“Baixar cópia em PDF”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+Salve o ofício clicando com o botão esquerdo do mouse no botão “Salvar”. 
+ 
+ 
+ 
+Confirme  para  visualizar  o  feedback  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Confirmar”. Leia as observações do feedback recebido e anexe as respostas sobre as 
+perguntas abordadas nesse roteiro. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE DIREITO DO CONSUMIDOR 
+RESPONSABILIDADE DO FORNECEDOR - OFÍCIO 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

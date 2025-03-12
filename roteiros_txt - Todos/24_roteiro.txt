@@ -1,0 +1,478 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá explorar o comportamento de um pêndulo balístico 
+utilizado para o estudo de projéteis. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Esferas maciças de 23, 46 e 100 gramas; 
+• Pêndulo Balístico AREU EQ 166. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. POSICIONANDO O GATILHO 
+ 
+Posicione  o  contra  encosto  a  uma  distância  de  5  mm  e  arme  o  dispositivo 
+disparador. 
+ 
+2. POSICIONANDO O CORPO DE PROVA 
+ 
+Anote a massa do corpo de prova azul e posicione-o no disparador. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+3. DISPARANDO O PROJÉTIL 
+ 
+Dispare  o  corpo  de prova  e  anote  o  ângulo  máximo  de  movimentação  do 
+pêndulo após a colisão conforme indicado pelo ponteiro no transferidor. 
+ 
+4. DEVOLVENDO O PROJÉTIL À MESA 
+ 
+Retire o corpo de prova de dentro do bloco do pêndulo e devolva-o à mesa. 
+ 
+5. REPETINDO O EXPERIMENTO 
+ 
+Repita os procedimentos anteriores, anotando a massa de cada corpo de prova 
+e o ângulo máximo de movimentação do pêndulo. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+Analise os dados obtidos no experimento e realize os cálculos das velocidades iniciais 
+dos projéteis utilizando as equações dispostas no resumo teórico. Em seguida, 
+construa uma tabela semelhante a apresentada abaixo e anote os valores 
+encontrados. 
+ 
+Dados do experimento 
+Projétil Energia potencial 
+gravitacional (J) 
+Velocidade V
+2
+ do bloco 
+com o projétil (m/s)
+ 
+Velocidade V
+1
+ inicial 
+do projétil (m/s) 
+Azul    
+Dourado    
+Prateado    
+ 
+Para encontrar a velocidade V2, utilize a equação da energia cinética no instante 2 
+(projétil associado ao bloco), igualando- a com a energia potencial gravitacional. 
+Por fim, para determinar a velocidade do projétil (V1) antes da colisão com o pêndulo, 
+utilize a equação da conservação da quantidade de movimento. 
+Depois disso, responda os questionamentos a seguir: 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+1. Qual projétil atingiu a maior angulação? Justifique o resultado encontrado. 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Coloque  em  ordem  crescente  os  ângulos  atingidos  em  cada lançamento  dos 
+projéteis. O que você conclui acerca destes resultados? 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. POSICIONANDO O GATILHO 
+ 
+Se houver dificuldade para identificar algum elemento dentro do ambiente do 
+laboratório virtual, pressione a letra “H” no teclado para realçar em azul todos os 
+objetos passíveis de interação conforme imagem abaixo. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+Acesse  a  câmera  com  o  nome  “Gatilho”  através  do  painel  de  Visualização  no  canto 
+superior esquerdo da tela ou por meio do atalho “Alt+6” para iniciar o ajuste do conjunto 
+lançamento de projétil. 
+ 
+ 
+ 
+Para ajustar o contra encosto, pressione o botão esquerdo do mouse e arraste-o para a 
+posição desejada. Para este experimento, você posicionará o encosto em 5mm. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+Observe que no canto inferior direito da tela é possível visualizar o display referente à 
+posição do encosto. Utilize-o para posicioná-lo corretamente. 
+ 
+ 
+ 
+Clique  com  o  botão  direito  do  mouse  no  disparador  e  selecione  a  opção  “Armar 
+disparador”. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+ 
+2. POSICIONANDO O CORPO DE PROVA 
+ 
+Acesse a câmera com o nome “Corpos de Prova” através do painel de Visualização no 
+canto superior esquerdo da tela ou por meio do atalho “Alt+2” para retornar à tela inicial 
+do experimento. 
+ 
+ 
+ 
+Posicione  a  seta  do  mouse  sobre a  esfera  maciça  azul e anote o valor  de  sua  massa 
+disposto na caixa de informações. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+Então,  clique  com  o botão  direito  do  mouse  sobre  o projétil de  cor  azul e  selecione  a 
+opção “Inserir no disparador”, para que o corpo esférico seja posicionado no conjunto 
+lançamento de projétil. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+ 
+3. DISPARANDO O PROJÉTIL 
+ 
+Acesse a câmera com o nome “Vista Frontal” através do painel de Visualização no canto 
+superior  esquerdo  da  tela  ou  por  meio  do  atalho  “Alt+3” para  visualizar  o  pêndulo 
+balístico de frente. 
+ 
+ 
+ 
+Clique com o botão no gatilho e escolha a opção “Disparar”. 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+No canto inferior esquerdo da tela será exibido o ângulo de movimentação do pêndulo 
+após  a  colisão.  Anote  o  valor  máximo  registrado.  Caso  não  consiga  anotar  a  tempo 
+acesse a câmera com o nome “Transferidor” através do painel de Visualização no canto 
+superior esquerdo da tela ou por meio do atalho “Alt+4” para observar mais de perto o 
+valor indicado pelo ponteiro do transferidor. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+ 
+4. DEVOLVENDO O PROJÉTIL À MESA 
+ 
+Acesse a câmera com o nome “Disparador” através do painel de Visualização no canto 
+superior esquerdo da tela ou por meio do atalho “Alt+5” para visualizar de perto o bloco 
+do pêndulo. 
+ 
+ 
+ 
+Clique com o botão direito do mouse na esfera maciça alojada no interior do bloco do 
+pêndulo e selecione a opção “Retornar ao disparador”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+Clique novamente com o botão direito do mouse localizada no disparador e selecione a 
+opção “Retornar à mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+PÊNDULO BALÍSTICO 
+ 
+ 
+5. REPETINDO O EXPERIMENTO 
+ 
+Repita os mesmos procedimentos experimentais para os projéteis prata e dourado. 
+ 
+ 
+ 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. 

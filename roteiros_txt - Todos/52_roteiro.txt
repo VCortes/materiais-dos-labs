@@ -1,0 +1,851 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste  experimento  você  irá  verificar  os  conceitos  relacionados  as  leis  da 
+cinemática e as leis de conservação de energia em um sistema composto esferas 
+metálicas e uma rampa de lançamento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Lançador horizontal; 
+• Esferas metálicas; 
+• Balança; 
+• Papel ofício; 
+• Papel carbono; 
+• Compasso; 
+• Caneta; 
+• Régua graduada. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+PARTE I - LANÇAMENTOS HORIZONTAIS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Posicione uma folha de papel ofício sobre o lançador. Utilize o prumo de centro 
+para realizar uma marcação na folha, indicando a projeção ortogonal do final da 
+rampa  sobre  o  papel.  Mova  a  folha  de  papel  carbono  sobre  a  folha  de  papel 
+ofício. 
+ 
+3. PROMOVENDO OS LANÇAMENTOS HORIZONTAIS  
+ 
+Posicione  a  esfera  metálica  2  na  altura  de  100  mm  do  lançador  e aguarde  a 
+conclusão do lançamento horizontal. Repita este procedimento até que a esfera 
+tenha sido lançada 5 vezes da altura indicada. 
+ 
+4. TRATANDO OS DADOS OBTIDOS  
+ 
+Remova   o   papel   carbono   e   com   o   compasso,   faça   uma   circunferência 
+envolvendo todas as marcações na folha de papel ofício. Utilize a caneta para 
+marcar o centro dessa circunferência. 
+ 
+5. MEDINDO O ALCANCE E CALCULANDO A VELOCIDADE 
+ 
+Utilize a régua para medir a distância entre a marcação do final da rampa e o 
+centro  da  circunferência.  Realize  os  cálculos  necessários  para  encontrar  a 
+velocidade.  
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os nas gavetas, guarde os 
+EPIs no armário e encerre o experimento.   
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+PARTE II – COLISÕES 
+ 
+1. ENCONTRANDO AS MASSAS DAS ESFERAS METÁLICAS 
+ 
+Ligue a balança e encontre as massas das esferas metálicas 1 e 2. 
+ 
+2. PREPARANDO O EXPERIMENTO  
+ 
+Posicione uma folha de papel ofício sobre o lançador. Utilize o prumo de centro 
+para realizar uma marcação na folha, indicando a projeção ortogonal do final da 
+rampa sobre o papel. Mova a folha de papel carbono sobre a folha de papel ofício. 
+ 
+3. PROMOVENDO AS COLISÕES COM LANÇAMENTOS HORIZONTAIS 
+ 
+Posicione a esfera metálica 1 na altura de 0 mm e a esfera metálica 2 na altura de 
+100 mm e aguarde até que as esferas retornem as suas posições iniciais. Repita 
+este procedimento mais 4 vezes, totalizando 5 colisões entre as esferas. 
+ 
+4. TRATANDO OS DADOS OBTIDOS 
+ 
+Remova   o   papel   carbono   e   com   o   compasso,   faça   duas circunferências 
+envolvendo  todas  as  marcações  causadas  por  uma  mesma  esfera  na  folha  de 
+papel ofício. Utilize a caneta para marcar o centro dessas circunferências. 
+ 
+5. MEDINDO OS ALCANCES E CALCULANDO AS VELOCIDADES 
+ 
+Utilize a régua para medir as distâncias entre a marcação do final da rampa e os 
+centros das circunferências. Responda as questões do item 3 das diretrizes gerais. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os nas gavetas, guarde os 
+EPIs no armário e encerre o experimento.   
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Qual foi o valor médio do alcance horizontal para os lançamentos realizados? 
+ 
+ 
+2. Qual a velocidade da esfera metálica quando ela perde contato com a rampa? 
+ 
+ 
+3. No ensaio de colisão, duas circunferências são marcadas no papel ofício baseada nas 
+marcações  feitas  pelas  esferas.  Identifique  qual  esfera  metálica  produziu  cada 
+circunferência. 
+ 
+ 
+4. Qual o alcance de cada esfera metálica no ensaio de colisão? 
+ 
+ 
+5. Qual a velocidade de cada uma das esferas metálicas logo após a colisão? 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+PARTE I - LANÇAMENTOS HORIZONTAIS 
+ 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+ 
+Para  dar  início  a  este  laboratório  virtual,  é  necessário  que  você  conheça  os  principais 
+recursos disponíveis.  
+A  janela  de  Visualização  permite  selecionar  entre  quatro  opções  de  câmeras  pré-
+estabelecidas. Elas devem ser utilizadas para que o experimento seja monitorado de um 
+ponto  de  vista  adequado,  além  de  permitir  que  os  principais  componentes  sejam 
+visualizados da melhor forma possível. 
+Dica: A  janela  de  Visualização  pode  ser  expandida  ou  recolhida  de  acordo  com  a 
+necessidade do usuário, bastando clicar na região do título. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Dica: Em  vez  de  clicar  nas  opções  de  visualização,  é  possível  alterar  entre  as  telas 
+disponíveis utilizando os atalhos no teclado, que podem ser vistos ao lado do título de 
+cada câmera. Por exemplo, ao pressionar Alt+3 (as duas teclas devem ser pressionadas 
+simultaneamente), a câmera das Esferas será exibida. 
+Na parte superior direita da tela são disponibilizados alguns botões (em verde e branco) 
+com recursos e informações do laboratório.  
+O  botão  com  engrenagem  é  utilizado para  acessar  o  menu  de  OPÇÕES,  onde  o 
+experimento  pode  ser  reiniciado.  O  botão  com  o  caderno  fornece  um  bloco  de  notas 
+que  pode  ser  utilizado  para  escrever  informações  obtidas  durante  a  realização  do 
+laboratório virtual.  
+Ao posicionar o mouse sobre algum dos objetos do laboratório virtual, será exibido no 
+canto  inferior  direito  da  tela  os  comandos  ligados  ao  objeto.  Para  realizar  uma 
+determinada ação, deve ser utilizado o atalho indicado, que no caso da imagem abaixo, 
+é  clicar  com  o  botão  direito  do  mouse.  Uma  janela  com  as  ações  deste  objeto  será 
+exibida. Clique com o botão esquerdo do mouse na ação que deseja realizar.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+ 
+Visualize o armário de EPI’s, acessando a câmera “EPIs”, clicando com o botão esquerdo 
+do mouse no menu superior esquerdo.  
+ 
+  
+ 
+  
+Abra o armário de EPI’s, clicando com o botão esquerdo do mouse sobre as portas.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Selecione  o  EPI  necessário para  a  realização  do  experimento,  clicando  com  o  botão 
+esquerdo do mouse sobre ele. Neste experimento será necessário o uso do jaleco. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Mova o papel ofício para sob o lançador, clicando com o botão direito do mouse sobre 
+os papeis e selecionando a opção “Colocar sob o lançador”.  
+ 
+ 
+ 
+Utilize o prumo de centro para marcar a projeção ortogonal do final da rampa sobre o 
+papel,  clicando  com  o  botão  direito  sobre  o  prumo  e  selecionando  a  opção  “Marcar 
+origem”.  
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Perceba que uma linha foi feita no papel ofício, indicando a posição inicial para a medida 
+do alcance horizontal. 
+Posicione o papel carbono sobre a folha de papel ofício, clicando com o botão direito do 
+mouse sobre o papel carbono e selecionando a opção “Colocar sobre o papel”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+3. PROMOVENDO OS LANÇAMENTOS HORIZONTAIS 
+ 
+Posicione a  esfera  metálica 2 no  lançador  horizontal,  clicando com  o  botão  direito do 
+mouse sobre ela e selecionando a opção “Colocar no lançador”. 
+ 
+ 
+Observe que uma nova janela será exibida com as opções de altura. Selecione a opção 
+de posicionar a esfera metálica em 100 mm. 
+ 
+ 
+Quando a esfera entrar em contato, a primeira vez, com o papel carbono, uma marca 
+será deixada na folha de papel ofício. Perceba que a esfera vai retornar para a posição 
+inicial  dela. Repita  o  procedimento  apresentado  neste  passo  até  que  a  esfera  tenha 
+sido lançada 5 vezes da altura indicada. 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+4. TRATANDO OS DADOS OBTIDOS 
+ 
+Remova  o  papel  carbono  posicionado  sobre  a  folha  de  papel,  clicando  com  o  botão 
+direito sobre o papel carbono e selecionando a opção “Remover de ciam do papel”. 
+ 
+ 
+Utilize o compasso para fazer uma circunferência que envolve todos os pontos marcados 
+na  folha, clicando  com  o  botão  direito  sobre  o  compasso  e  selecionando  a  opção 
+“Circular marcações”. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Com a caneta, assinale o centro da circunferência, clicando com o botão direito sobre a 
+caneta e selecionando a opção “Assinalar centros das marcações”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+ 
+ 
+Acesse a  janela  de  opções  da  régua,  clicando nela  com  o  botão  direito  do  mouse.  Já, 
+para  abrir  uma  janela  com  a  graduação  da  régua  em  detalhes,  clique  com  o  botão 
+esquerdo do mouse sobre o instrumento. 
+ 
+ 
+ 
+Faça  a  medição  da  primeira  marcação  com  a  régua,  clicando  com  o  botão  direito  do 
+mouse sobre o a régua e selecionando a opção “Medir primeira marcação”. 
+ 
+ 
+ 
+Visualize a escala da régua. 
+5. MEDINDO O ALCANCE E CALCULANDO A VELOCIDADE 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Observe que uma nova janela é exibida no canto inferior direito da tela. Clique e arraste 
+o botão para cima e para baixo para deslocar o ponto de vista sobre a régua. Para fechar 
+a janela, clique com o botão esquerdo do mouse no X. 
+ 
+ 
+ 
+Também é possível alterar o modo de visualização para “Região sobre a rampa”. Este 
+modo permite um outro ponto de vista para a medição.  
+Utilize a régua para encontrar o valor médio do alcance horizontal para os lançamentos 
+realizados. 
+ 
+ 
+Calcule o valor da velocidade da esfera metálica no momento em que ela deixa a rampa 
+utilizando as equações apresentadas no sumário teórico deste laboratório virtual. 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Descarte a folha de papel utilizada, clicando com o botão direito do mouse sobre o papel 
+e selecionando a opção “Descartar objeto”.  
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+PARTE II – COLISÕES 
+ 
+ 
+1. ENCONTRANDO AS MASSAS DAS ESFERAS METÁLICAS 
+ 
+Ligue a balança, pressionando o botão esquerdo do mouse sobre o botão em destaque. 
+ 
+ 
+ 
+Mova a esfera metálica 1 para a balança, clicando com o botão direito do mouse sobre 
+a esfera e selecionando a opção “Colocar na balança”. Verifique sua massa em gramas.  
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Retorne com a esfera metálica 1 para sua posição inicial, clicando com o botão direito 
+sobre a esfera e selecionando a opção “Colocar na posição e inicial”.  
+ 
+ 
+Mova a esfera metálica 2 para a balança, clicando com o botão direito do mouse sobre 
+a esfera e selecionando a opção “Colocar na balança”. Verifique sua massa em gramas. 
+ 
+ 
+ 
+Retorne com a esfera metálica 2 para sua posição inicial. 
+Desligue a balança. 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Posicione o papel ofício sob o lançador, clicando com o botão direito do mouse sobre o 
+papel e selecionando a opção “Colocar sob o lançador”. 
+ 
+ 
+ 
+Utilize o prumo de centro para marcar a projeção ortogonal do final da rampa sobre o 
+papel,  clicando  com  o  botão  direito  sobre  o  prumo  e  selecionando  a  opção  “Marcar 
+origem”. 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Perceba que uma linha foi feita no papel ofício, indicando a posição inicial para a medida 
+do alcance horizontal. 
+Posicione o papel carbono sobre a folha de papel ofício, clicando com o botão direito do 
+mouse sobre o papel carbono e selecionando a opção “Colocar sobre o papel”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+ 
+ 
+Coloque a esfera no lançador, clicando com o botão direito do mouse sobre a esfera e 
+selecionando a opção “Colocar no lançador.  
+ 
+ 
+ 
+Posicione a esfera metálica 1 na altura de 0 mm.  
+Observe que esfera vai ficar parada no final da rampa. 
+ 
+ 
+3. PROMOVENDO AS COLISÕES COM LANÇAMENTOS HORIZONTAIS 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Posicione a esfera metálica 2 na altura de 100 mm. 
+ 
+ 
+ 
+Repita o procedimento apresentado neste passo até que as esferas tenham colidido e 
+sido lançadas 5 vezes das alturas indicadas. 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+4. TRATANDO OS DADOS OBTIDOS 
+ 
+Remova  o  papel  carbono  posicionado  sobre  a folha  de  papel,  clicando  com  o  botão 
+direito sobre o papel carbono e selecionando a opção “Remover de cima do papel”. 
+ 
+ 
+ 
+Utilize  o  compasso  para  fazer duas  circunferências  envolvendo  todas  as  marcações 
+causadas por uma mesma esfera na folha de papel ofício, clicando com o botão direito 
+do mouse sobre o compasso e selecionando a opção “Circular marcações”. 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Com  a  caneta,  assinale  os centros das circunferências,  clicando  com  o  botão  direito 
+sobre a caneta e selecionando a opção “Assinalar centros das marcações”. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+ 
+ 
+Para acessar a janela de opções da régua, clique nela com o botão direito do mouse. Já 
+para  abrir  uma  janela  com  a  graduação  da  régua  em  detalhes,  clique  com  o  botão 
+esquerdo do mouse sobre o instrumento. 
+ 
+ 
+ 
+Faça a medição da primeira marcação com a régua. 
+ 
+ 
+Visualize a escala da régua. 
+5. MEDINDO OS ALCANCES E CALCULANDO AS VELOCIDADES 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Observe que uma nova janela é exibida no canto inferior direito da tela. Clique e arraste 
+o botão para cima e para baixo para deslocar o ponto de vista sobre a régua. Para fechar 
+a janela, clique com o botão esquerdo do mouse no X. 
+ 
+ 
+ 
+Também é possível alterar o modo de visualização para “Região sobre a rampa”. Este 
+modo permite um outro ponto de vista para a medição. 
+Utilize  a  régua  para  encontrar  o  valor  médio  do  alcance  horizontal da  esfera  que 
+produziu as marcações no papel. 
+Nesta  primeira  medição,  a  circunferência  mais  à  direita  está  sendo  utilizada  como 
+referência.  
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+Faça a medição da segunda marcação com a régua. 
+Nesta  primeira  medição,  a  circunferência  mais  à esquerda  está  sendo  utilizada  como 
+referência.  
+ 
+ 
+ 
+Utilize  a  régua  para  encontrar  o  valor  médio  do  alcance  horizontal da  esfera  que 
+produziu as marcações no papel. 
+Calcule o valor da velocidade para cada esfera metálica logo após a colisão utilizando as 
+equações apresentadas no sumário teórico deste laboratório virtual. 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LANÇAMENTOS HORIZONTAIS E COLISÕES 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Descarte a folha de papel utilizada, clicando com o botão direito do mouse sobre o papel 
+e selecionando a opção “Descartar objeto”.  
+ 
+ 
+ 

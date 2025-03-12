@@ -1,0 +1,1069 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá vivenciar  a  padronização  de  equipamentos  e 
+vidrarias. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador magnético;  
+• Balança semi-analítica; 
+• Barra magnética;   
+• Béquer; 
+• Bureta de 25 mL;  
+• Caixa de ponteira para micropipeta de 1000 μl; 
+• Caixa de ponteira para micropipeta de 20 μl; 
+• Caixa de ponteira para micropipeta de 200 μl; 
+• Espátula de metal; 
+• Funil;   
+• Micropipeta 1000 μl; 
+• Micropipeta 200 μl; 
+• Micropipeta de 20 μl; 
+• NaCl; 
+• Pera de sucção;  
+• Pinça metálica;  
+• Pipeta graduada de 10 mL;  
+• Pisseta com água destilada;  
+• Proveta de 20 mL.  
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+PROCEDIMENTOS 
+ 
+1. ESCOLHENDO A BANCADA 
+ 
+Ao inicializar a prática, escolha entre a “Bancada 1” e a “Bancada 2”. 
+ 
+2. SEGURANÇA DO EXPERIMENTO: “BANCADA 1” 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco e luvas.  
+3. PESANDO O NaCl 
+ 
+Ligue  a  balança,  mova  o  béquer  de 250  mL  para  a  balança  e  tare-a. Com  auxílio  da 
+espátula, pese 10 g de NaCl. Retorne a espátula para a bancada, desligue a balança e 
+retire o béquer. 
+ 
+4. SOLUBILIZANDO O NaCl 
+ 
+Adicione água destilada ao béquer que contém NaCl, até atingir a marca de 100 mL. 
+Com auxílio da pinça metálica, lave a barra metálica e coloque no béquer. Em seguida, 
+mova  o  béquer  para  o  agitador  magnético. Ligue  o  agitador  e  mantenha  o  béquer 
+sobre o agitador  até  a  dissolução  de  todo  NaCl.  Desligue  o  agitador  magnético  e 
+retorne o béquer para bancada. Retire a barra metálica do  béquer com o auxílio da 
+pinça metálica.  
+ 
+ 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+  
+5. LIMPANDO A BURETA 
+ 
+Direcione  a  pisseta  com  água  destilada  para  a  bureta,  e  preencha-a  com  a  água. 
+Despreze a água no béquer abaixo da bureta. Realize essa etapa 3 vezes consecutivas.  
+6. MENSURANDO A SOLUÇÃO 
+ 
+Preencha a bureta com a solução de NaCl dissolvida. Acerte o menisco na marca do 
+zero.  Retire  o  béquer  da  parte  de  baixo  da  bureta  e  coloque  a  proveta  na  parte  de 
+baixo da bureta. Transfira 20 mL da solução para proveta. 
+ 
+7. ESCOLHENDO A BANCADA 
+ 
+Selecione a engrenagem, e selecione a opção de “reiniciar o laboratório”. Escolha a 
+“Bancada 2”. 
+ 
+8. SEGURANÇA DO EXPERIMENTO: “BANCADA 2” 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco e luvas.  
+ 
+9. MANUSEANDO A PIPETA GRADUADA 
+ 
+Adicione água destilada ao béquer de 100 mL que se encontra vazio. Coloque a pera 
+na pipeta graduada e aspire 10 mL de água. Mova a pipeta para o béquer vazio. Repita 
+o procedimento com o volume de 10 mL, 5 mL e 1 mL. Retorne a pipeta graduada para 
+o suporte. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+  
+10. MANUSEANDO A MICROPIPETA 
+ 
+Mova  a  micropipeta  de  20 μl para  o  béquer  com  água  destilada.  Ative  o  primeiro 
+estágio do êmbolo da micropipeta, coloque a micropipeta dentro do béquer, aspire o 
+líquido  e  mova  micropipeta  para  o  microtubo.  Despreze  o  líquido  dentro  do  tubo 
+apertando  o  êmbolo  até  o  segundo  estágio  e descarte  a  ponteira.  Repita  esse 
+processo. 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são as vidrarias de maior precisão para medição de volume? 
+ 
+ 
+ 
+2. Por que não é indicado utilizar a balança semi-analítica para pesagem de sólidos ou 
+líquidos que não estejam à temperatura ambiente? 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ESCOLHENDO A BANCADA 
+ 
+Selecione a “Bancada 1” ou a “Bancada 2” clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+2. SEGURANÇA DO EXPERIMENTO: BANCADA 1 
+ 
+Lave as mãos clicando na torneira com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+3. PESANDO O NaCl 
+ 
+Ligue a balança clicando no botão “on/off” como botão esquerdo do mouse. 
+ 
+ 
+ 
+Mova  o  béquer  para  a  balança  clicando  no  béquer  com  o  botão  direito  do  mouse  e 
+selecione a opção “Colocar na balança”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Tare a balança clicando em “Tara” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Transfira a amostra para pesagem clicando na espátula com o botão direito do mouse. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Pese 10 g de NaCl clicando como botão esquerdo do mouse na espátula. 
+ 
+ 
+ 
+Mova a espátula para a bancada clicando com o botão direito do mouse e selecione a 
+opção “Colocar na mesa”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Mova o béquer com amostra pesada clicando com o botão direito do mouse no béquer 
+e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Desligue a balança clicando com o botão esquerdo do mouse no botão “on/off”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+4. SOLUBILIZANDO O NaCl 
+ 
+Mova a pisseta com água destilada clicando com o botão direito do mouse na pisseta e 
+selecione a opção “Posicionar no béquer”. 
+ 
+ 
+ 
+Mensure 100 mL de água clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Retorne a pisseta para a bancada clicando com o botão direito do mouse na pisseta. 
+ 
+ 
+ 
+Feche a câmera de visualização do béquer clicando com o botão esquerdo do mouse no 
+“X”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Com o auxílio da pinça pegue a barra metálica clicando com o botão direito do mouse 
+na barra metálica. 
+ 
+ 
+ 
+Lave a barra metálica clicando com o botão direito do mouse na pinça metálica. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque  a  barra  metálica  no  béquer  clicando  como  botão  direito  do  mouse  na  pinça 
+metálica. 
+ 
+ 
+ 
+Coloque  o  béquer  no  agitador  magnético  clicando  com  o  botão  direito  do  mouse  no 
+béquer e selecione a opção “Colocar no agitador”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Ligue o agitador clicando com o botão esquerdo do mouse no agitador magnético. 
+ 
+ 
+ 
+Retorne o béquer para a bancada clicando com o botão direito no mouse no béquer e 
+selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Retire a barra metálica clicando com o botão direito do mouse na pinça metálica. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+5. LIMPANDO A BURETA 
+ 
+Mova  a  pisseta  para  a bureta  clicando  com  o  botão  direito  do  mouse  na  pisseta  e 
+selecione a opção “Posicionar na bureta”. 
+ 
+ 
+ 
+Preencha  a  bureta  com  água  destilada  clicando  com  o  botão  esquerdo  do  mouse  na 
+pisseta.  
+ 
+ 
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque a pisseta na bancada clicando com o botão direito do mouse na pisseta. 
+ 
+ 
+ 
+Visualize  a  bureta  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o nome 
+“Bureta” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Abra a válvula da bureta clicando como botão esquerdo do mouse na válvula. 
+ 
+ 
+ 
+Preencha a bureta com água destilada e realize esse processo por mais duas vezes. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+6. MENSURANDO A SOLUÇÃO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Mova a solução de NaCl para a bureta clicando com o botão direito do mouse no 
+béquer e selecione a opção “Colocar na bureta”. 
+ 
+ 
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Preencha a bureta com a solução de NaCl clicando com o botão esquerdo do mouse no 
+béquer. 
+ 
+ 
+ 
+Coloque  o  béquer  na  bancada clicando  como  botão  direito  do  mouse  no  béquer  e 
+selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Retire o béquer da parte de baixo da bureta clicando com o botão direito do mouse no 
+béquer e selecione a opção “Retirar da bureta”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque a proveta na parte de baixo da bureta clicando com o botão direito do mouse 
+na proveta e selecione a opção “Colocar na bureta”. 
+ 
+ 
+ 
+Transfira 20 mL da solução para proveta clicando com o botão esquerdo do mouse na 
+válvula da bureta. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+7. ESCOLHENDO A BANCADA 
+ 
+Clique na “engrenagem” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Selecione “Reiniciar Laboratório” clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Selecione a “Bancada 2” clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+8. SEGURANÇA DO EXPERIMENTO: BANCADA 2 
+ 
+Lave as mãos clicando na torneira com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+9. MANUSEANDO A PIPETA GRADUADA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Direcione  a  pisseta  com  água  destilada  ao  béquer  clicando com  o  botão  direito  do 
+mouse na pisseta. 
+ 
+ 
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Despeje água no béquer clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+Retorne a pisseta à mesa clicando com o botão direito do mouse na pisseta. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque a pera na pipeta clicando com o botão direito do mouse na pera. 
+ 
+ 
+ 
+Mova  a  pipeta para  o  béquer 1  clicando  com  o  botão  direito  do  mouse  na  pipeta  e 
+selecione a opção “Posicionar no béquer 1”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque a pipeta dentro do béquer 1 clicando com o botão direito do mouse na pipeta 
+e selecione a opção “Colocar dentro do béquer”. 
+ 
+ 
+ 
+Retire o ar da pera clicando com o botão esquerdo do mouse no meio da pera. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Succione  10  mL  de  água  destilada  pressionando  com  o  botão  esquerdo  do  mouse  o 
+botão “S” da pera. 
+ 
+ 
+ 
+Retire  a  pipetado  do  béquer 1  clicando  com  o  botão  direito  do  mouse  na pipeta  e 
+selecione a opção “Retirar de dentro béquer 1”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Mova  a  pipeta clicando com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a  opção 
+“Posicionar no béquer 2”. 
+ 
+ 
+ 
+Coloque a pipeta dentro do béquer 2 clicando com o botão direito do mouse na pipeta 
+e selecione a opção “Colocar dentro do béquer”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Despeje o líquido clicando com o botão esquerdo do mouse no botão “E” da pera.  
+ 
+ 
+ 
+Retorne a pipeta ao béquer 1 e repita o procedimento com o volume de 10 mL, 5 mL e 
+1 mL. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Retorne  a  pipeta  graduada  para  o  suporte  clicando  com  o  botão  direito do  mouse  na 
+pipeta e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+10.  MANUSEANDO A MICROPIPETA 
+ 
+Mova a micropipeta para o béquer com água destilada clicando com o botão direito do 
+mouse na pipeta e selecione a opção “Posicionar acima do béquer”. 
+ 
+ 
+ 
+Ative o primeiro estágio do êmbolo clicando com o botão direito do mouse na pipeta e 
+selecione a opção “Pressionar êmbolo”. 
+ 
+ 
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Coloque a ponteira dentro do béquer clicando com o botão direito do mouse na pipeta 
+e selecione a opção “Colocar dentro do béquer”. 
+ 
+ 
+ 
+Aspire o líquido clicando com o botão direito do mouse na pipeta e selecione a opção 
+“Soltar êmbolo”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Retire  a  micropipeta  do béquer clicando  com  o  botão direito  do  mouse  na  pipeta  e 
+selecione a opção “Retirar do béquer”. 
+ 
+ 
+ 
+Mova  a  micropipeta  clicando  com  o  botão  direito  do  mouse  na  pipeta  e  selecione  a 
+opção “Posicionar acima do tubo Eppendorf”. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Despreze o líquido no tubo clicando com o botão direito do mouse na pipeta e selecione 
+a opção “Pressionar êmbolo”. 
+ 
+ 
+ 
+Solte o êmbolo clicando com o botão direito do mouse na pipeta e selecione a opção 
+“Soltar êmbolo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+Retorne a micropipeta para o béquer com água destilada e repita o procedimento com 
+a micropipeta. 
+ 
+ 
+ 
+Ao finalizar a pipetagem retorne a micropipeta ao suporte clicando com o botão direito 
+do mouse na pipeta e selecione a opção “Colocar no suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA  
+EQUIPAMENTOS E VIDRARIAS LABORATORIAIS 
+ 
+11.  AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

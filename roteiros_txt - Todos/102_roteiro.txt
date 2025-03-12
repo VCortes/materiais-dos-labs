@@ -1,0 +1,533 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento, você irá determinar a dureza Brinell dos materiais utilizando 
+uma máquina universal de ensaios mecânicos em materiais.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Paquímetro; 
+• Bomba hidráulica manual; 
+• Manômetro; 
+• Penetrador para dureza Brinell; 
+• Máquina universal de ensaios em materiais; 
+• Corpos de prova (latão, alumínio e cobre). 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. MOVENDO O CORPO DE PROVA PARA A MÁQUINA 
+ 
+Mova  o  corpo  de  prova  de  latão  para  a  mesa  e  posicione  o  penetrador  na 
+máquina. Em seguida, mova o corpo de prova para a máquina. 
+ 
+2. APLICANDO A CARGA 
+ 
+Aplique  a  carga  requerida  para  o  material  ensaiado,  mantendo-a  por  15 
+segundos após atingido o valor da carga. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+3. MEDINDO A ENDENTAÇÃO 
+ 
+Alivie a carga aplicada pela bomba e mova o corpo de prova para a mesa. Com 
+o auxílio do paquímetro, meça a endentação. Em seguida, descarte o corpo de 
+prova e ensaie outros dois corpos de prova de latão.  
+ 
+ 
+4. REPETINDO COM OUTROS CORPOS DE PROVA 
+ 
+Repita os passos acima listados para os corpos de prova dos materiais restantes 
+contidos na maleta, determinando a dureza Brinell de cada um deles. Siga para 
+a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Crie uma tabela semelhante à apresentada abaixo para cada um dos materiais 
+ensaiados  e anote  os  valores  da  carga  e  deformação  sofrida  pelos corpos  de 
+prova.  
+ 
+Ensaio de dureza – Material XX 
+Corpo de prova Carga (N) Ø
+endentação
+ (mm) 
+CP 01   
+CP 02  
+CP 03  
+Tabela 1 – Dados obtidos no experimento 
+ 
+ 
+2. Baseando-se  nos valores encontrados de  carga  em  N  e  nos  diâmetros  das 
+endentações (mm), encontre a dureza Brinell dos materiais ensaiados. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MOVENDO O CORPO DE PROVA PARA A MÁQUINA 
+ 
+Para  a  realização  do  ensaio  de  dureza  Brinell,  é  necessário  inicialmente  posicionar  o 
+corpo  de  prova  na  máquina  de  ensaios. Para  visualizá-los,  acesse  a  opção  de  câmera 
+“Corpos de prova”. 
+ 
+ 
+ 
+Clique com o botão esquerdo do mouse sobre a maleta para abri-la. 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Observe os corpos de prova. 
+ 
+ 
+ 
+Escolha o corpo de prova desejado clicando com o botão direito do mouse sobre ele e 
+selecionando a opção “Mover para a mesa”.  
+Nesse experimento, ensaie inicialmente o corpo de prova de latão. 
+ 
+ 
+ 
+Atenção: Além dos feitos de latão, serão utilizados outros corpos de prova de alumínio 
+e cobre. 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Observe que o corpo de prova é movido para a mesa. 
+ 
+ 
+ 
+Acesse novamente a opção de câmera “Corpos de prova” para visualizar a maleta. 
+Observe o penetrador para medição de dureza Brinell. 
+ 
+ 
+ 
+Atenção: O diâmetro da esfera do penetrador é igual a 10 mm. Você usará esse valor 
+para determinar a dureza Brinell do material ensaiado. 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Posicione o penetrador na máquina de ensaio. Para isso, clique com o botão direito do 
+mouse sobre ele e selecione a opção “Mover para máquina”. 
+ 
+ 
+ 
+O penetrador é posicionado na máquina. 
+ 
+ 
+ 
+Após  o  posicionamento  da  ponta  de  prova,  coloque  o  corpo  de  prova  na  máquina 
+universal. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Para isso, acesse a opção de câmera “Paquímetro”. 
+ 
+ 
+ 
+Em seguida, clique com o botão direito do mouse sobre o corpo de prova e selecione a 
+opção “Mover para a máquina”. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Observe que o corpo de prova é inserido na máquina universal de ensaios. 
+ 
+ 
+ 
+Em  seguida,  acesse  a opção  de  câmera  “Bancada”  para  retornar  à  tela  inicial  do 
+experimento. 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+2. APLICANDO A CARGA 
+ 
+Inicialmente, é necessário que você faça a conversão de unidades para a carga aplicada 
+pela  bomba.  Note  que  a  carga  no  manômetro  é  dada  em  kgf/cm²,  e  a  unidade 
+apresentada na tabela de cargas, disposta no resumo teórico, é o newton (N). Utilize o 
+valor correspondente ao material que será ensaiado. 
+ Para encontrar o valor da carga aplicada em kgf/cm², você precisará da área do pistão 
+da máquina universal. Para visualizar esta informação, posicione a seta do mouse sobre 
+a bomba manual e observe a caixa de mensagem. 
+ 
+ 
+ 
+Em seguida, aplique o valor da área do pistão na equação abaixo. 
+퐶
+푀 
+=
+퐹
+9,80665 × 퐴
+푃푖푠푡ã표
+ 
+Onde: 
+F = Valor da carga em newtons; 
+C
+M
+ = Valor da carga em kgf/cm²; 
+A
+Pistão
+ = Área do pistão em cm². 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Atenção: Observe  atentamente  a  tabela  para  os  valores  de  carga  em  N,  disposta  no 
+resumo teórico. O valor da carga recomendada para o latão, por exemplo, é 9800 N. 
+A bomba manual é utilizada para aplicação da carga no corpo de prova posicionado na 
+máquina. É possível observar o equipamento na opção de câmera “Bomba manual”. 
+ 
+ 
+ 
+Para aplicar a carga no material, é necessário fechar a válvula da bomba manual. Para 
+isso, clique com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Dica: Observe  que,  ao  fechar  a  válvula,  o  display  do  manômetro  aparece  no  canto 
+inferior direito da tela. 
+ 
+ 
+ 
+Aplique  a  carga  requerida  para  o  latão,  determinada  no  passo  anterior.  Para  isso, 
+movimente  a  alavanca  da bomba  manual  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela. Efetue, simultaneamente, a leitura no manômetro da carga aplicada. 
+ 
+ 
+ 
+Atenção: Ao atingir a carga determinada, deve-se mantê-la sobre o corpo de prova por 
+15 segundos. 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+3. MEDINDO A ENDENTAÇÃO 
+ 
+Para remover a carga aplicada no corpo de prova, você deverá abrir a válvula da bomba 
+manual novamente. Para isso, clique sobre ela com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Observe que o ponteiro do manômetro retorna para o zero. 
+Após  a  remoção da  carga  aplicada,  posicione  o  corpo  de  prova na  mesa para  medir  a 
+endentação deixada pelo penetrador Brinell. Para visualizar o corpo de prova, acesse a 
+opção de câmera “Prato de pressão”. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Em seguida, retire o corpo de prova da máquina universal e insira-o na mesa clicando 
+com o botão direito do mouse sobre o corpo de prova e selecionando a opção “Mover 
+para a mesa”. 
+ 
+ 
+ 
+Observe que o corpo de prova se posiciona sobre a mesa. 
+Utilizando  o  paquímetro  localizado  sobre  a  mesa,  efetue  a  medição  do  diâmetro  da 
+endentação conferida pela ponta de prova.  
+Para medir a endentação, clique com o botão direito sobre o paquímetro e selecione a 
+opção “Medir endentação”. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+Efetue a leitura na escala de medida do paquímetro. 
+ 
+ 
+ 
+Em seguida, descarte o corpo de prova para poder ensaiar um novo. 
+Para  descartar  o  corpo  de  prova,  clique  sobre  ele  com  o  botão  direito  do  mouse  e 
+selecione a opção “Descartar esse corpo de prova”. 
+ 
+ 
+ 
+Observe que o corpo de prova é descartado. 
+Ensaie outros  dois  corpos  de  prova  de  latão.  Para  selecioná-los,  acesse  novamente  a 
+maleta. 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTRUTURAS 
+ENSAIO DE DUREZA 
+ 
+4. REPETINDO COM OUTROS CORPOS DE PROVA 
+ 
+Repita os passos acima listados para os corpos de prova dos materiais restantes contidos 
+na maleta, determinando a dureza Brinell de cada um deles. 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  

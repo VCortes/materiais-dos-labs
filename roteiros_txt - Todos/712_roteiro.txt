@@ -1,0 +1,508 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  aprenderá  a  avaliar  os  fatores  que  influenciam  no 
+comportamento  dos  diapasões  e  reconhecer  as  condições  de  ressonância  e 
+batimento.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Conjunto de diapasões; 
+• Massa; 
+• Martelo de borracha.  
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no “Armário  de  EPIs”. 
+Para esse experimento será necessário a utilização do jaleco. 
+ 
+2. OUVINDO OS DIAPASÕES 
+ 
+Aproxime os diapasões, posicionando-os lado a lado. Bata com o martelo de borracha 
+sobre a extremidade do primeiro diapasão e observe o som produzido. Em seguida, 
+pare o primeiro diapasão e repita o procedimento para o segundo diapasão. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+  
+3. PROMOVENDO O PRIMEIRO FENÔMENO 
+ 
+Aproxime  os  diapasões,  posicionando-os  frente  a  frente.  Bata  com  o  martelo  de 
+borracha sobre a extremidade do primeiro diapasão e observe o som produzido. Em 
+seguida,  pare  o  primeiro  e  o  segundo  diapasão.  Quando  o  sistema  não  estiver 
+emitindo  nenhum  som,  bata  com  o  martelo  de  borracha  sobre  a  extremidade  do 
+segundo diapasão e observe o som produzido. Em seguida, pare o segundo diapasão 
+e, logo após, pare o primeiro diapasão. 
+ 
+4. PROMOVENDO O SEGUNDO FENÔMENO 
+ 
+Com os diapasões posicionados frente a frente, altere a posição da massa anexado ao 
+primeiro diapasão. Bata com o martelo de borracha sobre a extremidade do primeiro 
+diapasão e  observe  o  som  produzido.  Em  seguida,  bata  com  o  martelo de  borracha 
+sobre a extremidade do segundo diapasão e observe o fenômeno provocado. Pare os 
+diapasões,  começando  pelo  primeiro  e  depois  o  segundo.  Quando  o  sistema  não 
+estiver emitindo nenhum som, bata com o martelo de borracha sobre a extremidade 
+do segundo diapasão e observe o som produzido. Em seguida, bata com o martelo de 
+borracha   sobre   a   extremidade   do   primeiro   diapasão   e   observe   o   fenômeno 
+provocado. Pare os diapasões, começando pelo segundo e, logo após, o primeiro. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O  que  foi  possível  observar acerca dos  sons  produzidos  pelos  diapasões  na 
+primeira etapa do procedimento? Qual a explicação para tal comportamento?  
+ 
+ 
+ 
+2. Qual   o   fenômeno   provocado   durante   a   realização   da   segunda   etapa   do 
+procedimento? Qual a explicação para tal comportamento? 
+ 
+ 
+ 
+3. Qual   o   fenômeno   provocado   durante   a   realização   da   terceira   etapa   do 
+procedimento? Qual a explicação para tal comportamento? 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+2. OUVINDO DIAPASÕES 
+ 
+Visualize os diapasões clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Posicione  os  diapasões  lado  a  lado  clicando  com  o  botão  direito  do  mouse  sobre  o 
+primeiro diapasão e selecione a opção “Aproximar diapasões (ao lado)”.  
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Repita o procedimento anterior, posicione o segundo diapasão ao lado. 
+ 
+ 
+ 
+Bata no primeiro diapasão clicando com o botão direito do mouse sobre o martelo de 
+borracha e selecione a opção “Bater no Diapasão 1”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Pare o primeiro diapasão clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Parar Diapasão 1”.  
+ 
+ 
+ 
+Repita os procedimentos anteriores, bata o segundo diapasão com o martelo e pare o 
+diapasão. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Continue a prática clicando com o botão esquerdo do mouse sobre o botão “Prosseguir”.  
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+3. PROMOVENDO O PRIMEIRO FENÔMENO  
+ 
+Aproxime os diapasões frente a frente clicando com o botão direito do mouse sobre o 
+primeiro diapasão e selecione a opção “Aproximar diapasões (a frente)”.  
+ 
+ 
+ 
+Repita o procedimento anterior, posicione o segundo diapasão a frente. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Bata com o martelo de borracha clicando com o botão direito do mouse sobre o martelo 
+de borracha e selecione a opção “Bater no diapasão 1”. 
+ 
+ 
+ 
+Pare o diapasão 1 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Parar Diapasão 1”. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Observe o fenômeno de ressonância e pare o diapasão 2 clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Parar Diapasão 2”.  
+ 
+ 
+ 
+Repita os procedimentos anteriores, bata com o martelo de borracha sobre o segundo 
+diapasão,  observe  o  som  produzido,  pare  o  segundo  diapasão  e  pare  o  primeiro 
+diapasão. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Continue a prática clicando com o botão esquerdo do mouse sobre o botão “Prosseguir”.  
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+4. PROMOVENDO O SEGUNDO FENÔMENO 
+ 
+Desloque a massa do primeiro diapasão clicando com o botão direito do mouse sobre o 
+peso e selecione a opção “Deslocar massa”. 
+ 
+ 
+ 
+Bata no primeiro diapasão clicando com o botão direito do mouse sobre o martelo de 
+borracha e selecione a opção “Bater no Diapasão 1”. 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Bata no segundo diapasão clicando com o botão direito do mouse sobre o martelo de 
+borracha e selecione a opção “Bater no Diapasão 2”. 
+ 
+ 
+ 
+Pare o diapasão 1 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Parar Diapasão 1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+Pare o diapasão 2 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Parar Diapasão 2” 
+ 
+ 
+ 
+Repita  os procedimentos  anteriores,  bata  no  segundo  diapasão,  bata  no  primeiro 
+diapasão, pare o segundo diapasão e pare o primeiro diapasão. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TERMODINÂMICA 
+RESSONÂNCIA E BATIMENTO EM DIAPASÕES 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

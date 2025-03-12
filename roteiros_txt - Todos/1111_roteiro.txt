@@ -1,0 +1,429 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre o processo de 
+precificação de um produto. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEPARANDO OS GASTOS 
+ 
+Leia  o  texto  introdutório  da  prática.  Em  seguida,  considerando  os  dados  para  a 
+simulação  do  preço  de  venda  do  produto,  separe  os  gastos  em  custo,  despesa, 
+investimento e desperdício. Receba o total de cada categoria de gastos. 
+ 
+2. SEPARANDO AS DESPESAS FIXAS E VARIÁVEIS 
+ 
+Indique  se  cada  uma  das  despesas  enumeradas  anteriormente  é  classificada  como 
+despesa fixa ou despesa variável. Receba o total das despesas fixas e das variáveis. 
+ 
+3. CALCULANDO A REPRESENTATIVIDADE DAS DESPESAS SOBRE O PREÇO 
+DE REFERÊNCIA 
+ 
+Com  o  total  das  despesas  fixas  e  das  variáveis,  calcule  a  representatividade  das 
+despesas fixas e variáveis sobre o preço de referência. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+  
+4. CALCULANDO O MARKUP E O PREÇO DE VENDA 
+ 
+Com o preço de custo, as porcentagens das despesas fixas e variáveis, e a margem de 
+lucro desejada, calcule o markup e o preço de venda ideal para atingir a margem de 
+lucro desejada. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o impacto de precificar incorretamente um produto? 
+ 
+ 
+ 
+2. O que é o markup e como ele é calculado? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEPARANDO OS GASTOS 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse em “Iniciar”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Leia  o  texto  introdutório  da  prática  e,  em  seguida,  vá  para  a  etapa  de  separação  de 
+gastos clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+ 
+ 
+Visualize os dados que deverão ser considerados para a simulação do preço de venda 
+do produto na parte superior da tela. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Visualize todos os gastos envolvidos na obtenção do produto clicando e arrastando com 
+o botão esquerdo do mouse no botão de rolagem do quadro na esquerda da tela. 
+ 
+ 
+ 
+Defina a categoria de cada opção de gasto clicando e arrastando com o botão esquerdo 
+em  cada  uma  das  opções  do  quadro  na  esquerda  da  tela  até  o  espaço  adequado  no 
+quadro do centro da tela. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Visualize as  listas de  gastos  e  os  totais  referentes  aos  custos,  às  despesas,  aos 
+investimentos  e  aos desperdícios  clicando  com  o  botão  esquerdo do  mouse  no  botão 
+indicado abaixo. 
+ 
+ 
+ 
+Siga para a próxima etapa clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+2. SEPARANDO AS DESPESAS FIXAS E VARIÁVEIS 
+ 
+Defina se cada despesa é fixa ou variável clicando com o botão esquerdo do mouse no 
+campo em verde claro e selecione a opção “Fixa” ou “Variável”. 
+ 
+ 
+ 
+Visualize  o  total  de  despesas  fixas  e  o  de  despesas  variáveis  clicando  com  o  botão 
+esquerdo do mouse em “Verificar”. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Siga para a próxima etapa clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+3. CALCULANDO A REPRESENTATIVIDADE DAS 
+DESPESAS SOBRE O PREÇO DE REFERÊNCIA 
+ 
+Insira  o  valor  total  das despesas  fixas  clicando  com  o  botão  esquerdo  do  mouse  no 
+campo referente e digite o valor através do teclado do seu computador. Lembre-se de 
+utilizar o ponto para separar as casas decimais. 
+ 
+ 
+ 
+Repita o procedimento anterior, insira o valor total das despesas variáveis. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Calcule a representatividade das despesas fixas e variáveis sobre o preço de referência 
+clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+O  primeiro  resultado  corresponde  à  representatividade  das  despesas  fixas sobre  o 
+preço, já o segundo corresponde à representatividade das despesas variáveis. Siga para 
+a próxima etapa clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+  
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+4. CALCULANDO O MARKUP E O PREÇO DE VENDA 
+ 
+Insira  o  valor  total  de  custos  clicando  com  o  botão  esquerdo  do  mouse  no  campo 
+referente e digite o valor através do teclado do seu computador. 
+ 
+ 
+ 
+Repita o procedimento anterior, insira o valor total de despesas fixas, o valor total de 
+despesas variáveis e a porcentagem da margem de lucro desejada. 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+Calcule o markup e o preço de venda clicando com o botão esquerdo do mouse no botão 
+indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PROCESSOS GERENCIAIS 
+GESTÃO E ANÁLISE DE CUSTOS: CALCULADORA DE PREÇOS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

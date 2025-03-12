@@ -1,0 +1,749 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender a montar um minissistema aquapônico e 
+aprimorar suas técnicas de amostragem vegetal. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Argila expandida; 
+• Balde de 30 L; 
+• Barbante; 
+• Bomba de aquário; 
+• Caixas organizadoras de 18 L e 36 L; 
+• Cano 10 mm com quepe; 
+• Cano 20 mm com luva de redução de 25 para 20; 
+• Cano de 50 mm com quepe; 
+• Estaca de madeira; 
+• Fita adesiva; 
+• Flange de 20 mm; 
+• Folha de papel manteiga; 
+• Giz de cera; 
+• Máquina com serra copo; 
+• Mudas de cebolinhas, alecrim, salsa e manjericão; 
+• Mudas de alface e alface roxo; 
+• Peixe dourado; 
+• Quadrat de pvc; 
+• Sifão; 
+• Solo seco; 
+• Solo úmido; 
+• Tubulação com registro.  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize  o  menu  numérico,  de  1  e  2,  dos  métodos  a  serem  realizados:  Minissistema 
+Aquapônico e Técnicas de Amostragem Vegetal. 
+ 
+MINISSISTEMA AQUAPÔNICO 
+ 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e  coloque  os  equipamentos  de  proteção individual  localizados  no 
+“Armário de EPIs”. Para esse experimento será necessário a utilização do jaleco. 
+ 
+3. MONTANDO UM MINISSISTEMA AQUAPÔNICO 
+ 
+Faça um furo com a serra copo na caixa organizadora de 18 L e encaixe a flange de 20 mm no 
+fundo da caixa. Encaixe a conexão para gás na extremidade da bomba e a mangueira na ponta 
+final  do  encaixe  de  gás.  Posicione  o  sistema  bomba-mangueira  na  caixa  menor  e  faça  a 
+adaptação  do  tubo  com  a  bomba  submersa. Encaixe  o  sifão  na  parte  externa  do  flange  e 
+encaixe  a  tubulação  com  registro  na  bomba.  Posicione  a  caixa  menor  sobre  a  caixa  maior, 
+encha a caixa maior com 25 L de água e adicione os peixes dourados. Encaixe o quepe no cano 
+de  100  mm  e repita  o procedimento para o  cano  de  50  mm.  Encaixe  a  luva  de  redução  (25 
+para 20) no cano de 20 mm e conecte-o na parte flange no interior da caixa menor. Cubra o 
+cano  de  20  mm  com  o  cano  de  50  mm  e  cubra  o  cano  de  50  mm  com  o  cano  de  100  mm. 
+Adicione  a  argila  expandida  em  toda  a  superfície e  adicione as  plantas  na  argila.  Ligue  o 
+minissistema e observe o funcionamento. 
+TÉCNICAS DE AMOSTRAGEM VEGETAL 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+  
+ 
+ 
+2. TRAÇANDO PERFIL DE PLANTAS 
+ 
+Finque uma estaca de madeira na zona de solo seco e a outra na zona de solo úmido. Faça nós 
+no  barbante  a  cada  metro  de  distância.  Estique  o  barbante  e  prenda-o  entre  as  estacas. 
+Aguarde por 30 dias. Observe o crescimento das plantas ao longo do barbante na zona de solo 
+seco e na zona de solo úmido. 
+ 
+3. REALIZANDO O LEVANTAMENTO E IDENTIFICAÇÃO 
+ 
+Passe  os  fios  pelos  furos  do  quadrat  de  pvc  e  jogue-o  na  área  plana.  Identifique  as  plantas 
+dentro dos quadrantes. 
+ 
+4. REALIZANDO OS DECALQUES 
+ 
+Prenda o papel manteiga na árvore com auxílio da fita adesiva. Esfregue o giz de cera sobre o 
+papel. Retire o papel da árvore e observe o decalque pronto.  
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o benefício de se cultivar hortaliças no sistema aquapônico? 
+ 
+ 
+ 
+2. Quais as diferenças do crescimento das plantas em solo seco e em solo úmido? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize  o  menu  numérico,  de  1  e  2,  das  práticas  a  serem  realizadas:  Minissistema 
+Aquapônico e Técnicas de Amostragem Vegetal. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Selecione a prática  1  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  opção 
+“Minissistema Aquapônico”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+3. MONTANDO UM MINISSISTEMA AQUAPÔNICO 
+ 
+Fure  a  caixa  de  18  L clicando  com  o  botão esquerdo  do  mouse  sobre  a  máquina  com 
+serra copo. 
+ 
+ 
+ 
+Encaixe a flange de 20 mm na caixa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Encaixe a conexão para gás na extremidade da bomba clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+ 
+ 
+Encaixe a mangueira na conexão de gás clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Insira a bomba de aquário na caixa de 30 L clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+ 
+Encaixe o sifão na flange clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Coloque a caixa de 18 L sobre a caixa de 36 L clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+ 
+Encaixe a tubulação na bomba clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Encha a caixa de 36 L com água clicando com o botão esquerdo do mouse sobre o balde. 
+ 
+ 
+ 
+Coloque os peixes dourados na caixa clicando com o botão esquerdo do mouse sobre 
+eles. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Encaixe o quepe no cano de 100 mm clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+Encaixe o quepe no cano de 50 mm clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Encaixe  a  luva de  redução no  cano  de  20 mm clicando  com  o  botão direito  do mouse 
+sobre ela. 
+ 
+ 
+ 
+Encaixe  o  cano  de  20  mm  na  caixa  de  18  L  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Repita o procedimento anterior, encaixe os canos de 50 mm e 100 mm. 
+ 
+ 
+ 
+Coloque a argila na caixa clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Coloque a muda de manjericão na caixa clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Repita o procedimento anterior, coloque as demais mudas na argila. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Ligue o sistema clicando com o botão esquerdo do mouse sobre a caixa de 36 L. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+4. SELECIONANDO O EXPERIMENTO 
+ 
+Abra a aba “Opções” clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Retorne ao menu numérico clicando com o botão esquerdo do mouse em “Opções” e 
+selecione a opção “Reiniciar experimento”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Visualize o menu numérico, de 1 e 2, das práticas a serem realizadas: Minissistema 
+Aquapônico e Técnicas de Amostragem Vegetal. 
+ 
+ 
+ 
+Selecione prática 2 clicando com o botão esquerdo do mouse sobre a opção “Técnicas 
+de Amostragem Vegetal”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+5. TRAÇANDO PERFIL DE PLANTAS 
+ 
+Finque  a  estaca de  madeira  no  solo  úmido  clicando  com  o botão  esquerdo  do  mouse 
+sobre ela. 
+ 
+ 
+ 
+Finque a outra estaca de madeira no solo seco clicando com o botão esquerdo do mouse 
+sobre ela.  
+ 
+ 
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Prenda o barbante nas estacas clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Aguarde ou avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Visualize o solo seco clicando com o botão esquerdo do mouse na câmera com o nome 
+“Solo seco” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Visualize o solo úmido clicando com o botão esquerdo do mouse na câmera com o nome 
+“Solo úmido” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+6. REALIZANDO O LEVANTAMENTO E IDENTIFICAÇÃO 
+ 
+Visualize  a  mesa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque os fios de quadrat de PVC clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Jogue o quadrat de PVC no solo clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+7. REALIZANDO OS DECALQUES 
+ 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque  o papel manteiga  na  árvore  clicando  com  o  botão  esquerdo do mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Passe o giz de cera na árvore clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE BOTÂNICA 
+MINISSISTEMA AQUAPÔNICO E TÉCNICAS DE AMOSTRAGEM 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também, 
+com os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,612 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá observar o preparo de uma suspensão de enxofre. 
+Além  disso,  você  irá  aprimorar  seus  conhecimentos  sobre farmacotécnica.  A 
+farmacotécnica é uma área da Farmácia que tem como objetivo a fabricação de 
+medicamentos através de uma forma farmacêutica ideal para maior absorção do 
+princípio ativo.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Almofariz com pistilo; 
+• Balança semi-analítica; 
+• Bastão de vidro; 
+• Benzoato de sódio (0,06 g); 
+• Béquer (100 mL); 
+• Cálice (125 mL); 
+• Carboximetilcelulose (0,4 g); 
+• Chapa aquecedora; 
+• Enxofre (5 g); 
+• Espátula; 
+• Glicerina (4 g); 
+• Pisseta contendo água destilada (50 mL); 
+• Polietilenoglicol 400 (20 g); 
+• Polissorbato 20 (1 mL); 
+• Proveta (100 mL); 
+• Recipiente de armazenamento; 
+• Recipiente de pesagem. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Realize a  higienização  das  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual 
+localizados  no  “Armário  de  EPIs”. Nesse  experimento,  é  obrigatório  o  uso  de  jaleco, luvas, 
+máscara e óculos. 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Identifique os componentes que serão utilizados na formulação, de acordo com a função de 
+cada um. 
+ 
+3. PREPARANDO A SUSPENSÃO DE ENXOFRE 
+ 
+Adicione  benzoato  de  sódio  no  béquer  1.  Adicione  50  mL  de  água  destilada  na  proveta  e 
+transfira  para  o  béquer  1.  Mova  o  béquer  1  para  chapa  de  aquecimento  e  coloque  o 
+termômetro  no  béquer.  Ligue  o  equipamento  e  aguarde  a  solução  atingir  a  temperatura 
+atingir  60  °C.  Adicione  a  carboximetilcelulose  no  béquer  1 e  aguarde até  não  ser  possível 
+visualizar grumos. Aqueça a mistura por mais 15 segundos aquecendo. Mova o béquer para a 
+bancada.  Transfira  o  enxofre,  o  polissorbato  20,  a  glicerina, o  polietilenoglicol  400 e  o 
+conteúdo  do  béquer para  o gral e  triture  com  pistilo  todos  os  componentes.  Despeje  o 
+conteúdo  do gral no  cálice,  com  auxílio  da  espátula.  Misture  o  conteúdo  com  o  bastão  de 
+vidro. Adicione 20 mL de água destilada na proveta e transfira para o cálice. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+  
+4. ARMAZENANDO A SUSPENSÃO DE ENXOFRE 
+ 
+Transfira o conteúdo do cálice para o recipiente de armazenamento. Identifique o recipiente 
+com a etiqueta e adicione a informação “agitar antes de usar”. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são   as características   necessárias para   caracterizar uma   suspensão 
+farmacêutica? 
+ 
+ 
+ 
+2. Qual a função dos agentes suspensores? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre as 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Visualize a tabela clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Identifique os componentes de acordo com a função de cada um clicando com o botão 
+esquerdo do mouse sobre cada campo indicado e selecione uma das opções. 
+ 
+ 
+ 
+Após responder, feche o quadro clicando com o botão esquerdo do mouse sobre o X. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+3. PREPARANDO A SUSPENSÃO DE ENXOFRE 
+ 
+Adicione benzoato de sódio no béquer 1 clicando com o botão esquerdo do mouse sobre 
+o recipiente indicado. 
+ 
+ 
+ 
+Mova  a  pisseta clicando  com  o  botão direito do  mouse  sobre a  pisseta e  selecione  a 
+opção “Mover para a proveta”. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Adicione  50  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre a 
+proveta. 
+ 
+ 
+ 
+Mova  a  pisseta clicando  com  o  botão direito do  mouse  sobre a  pisseta e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Transfira  para  o  béquer clicando  com  o  botão direito do  mouse  sobre a  proveta e 
+selecione a opção “Béquer”. 
+ 
+ 
+ 
+Mova  o  béquer clicando  com  o  botão direito do  mouse  sobre o  béquer e  selecione  a 
+opção “Mover para a chapa”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Coloque  o termômetro  no  béquer clicando  com  o  botão direito do  mouse  sobre o 
+termômetro e selecione a opção “Béquer”. 
+ 
+ 
+ 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+Aguarde a solução atingir a temperatura atingir 60 °C. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Mova  o  termômetro clicando  com  o  botão direito do  mouse  sobre o  termômetro e 
+selecione a opção “Bancada”. 
+ 
+ 
+ 
+Adicione  a  carboximetilcelulose clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+recipiente indicado. Aguarde até não ser possível visualizar grumos. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Aqueça a mistura por mais 15 segundos. 
+ 
+ 
+ 
+Mova  o  béquer clicando  com  o  botão direito do  mouse  sobre o  béquer e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Transfira  o  enxofre clicando  com  o  botão  esquerdo  do  mouse  sobre o  recipiente 
+indicado. 
+ 
+ 
+ 
+Repita   os   procedimentos   anteriores,   mova o   polissorbato   20,   a   glicerina   e   o 
+polietilenoglicol 400 para o gral. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Transfira o conteúdo do béquer clicando com o botão direito do mouse sobre o béquer 
+e selecione a opção “Transferir para o gral”. 
+ 
+ 
+ 
+Triture com pistilo clicando com o botão esquerdo do mouse sobre o pistilo. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Transfira  o  conteúdo  do  gral clicando  com  o  botão direito do  mouse  sobre o  gral e 
+selecione a opção “Transferir para o cálice”. 
+ 
+ 
+ 
+Misture o conteúdo do cálice clicando com o botão direito do mouse sobre o bastão de 
+vidro e selecione a opção “Misturar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Mova  a  pisseta clicando  com  o  botão direito do  mouse  sobre a  pisseta e  selecione  a 
+opção “Mover para a proveta”. 
+ 
+ 
+ 
+Adicione  20  mL  de  água  destilada clicando  com  o  botão  esquerdo  do  mouse  sobre a 
+pisseta. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+Mova  a  pisseta clicando  com  o  botão direito do  mouse  sobre a  pisseta e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Despeje o conteúdo no cálice clicando com o botão direito do mouse sobre a proveta e 
+selecione a opção “Cálice”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+4. ARMAZENANDO A SUSPENSÃO DE ENXOFRE 
+ 
+Preencha o frasco clicando com o botão esquerdo do mouse sobre o cálice. 
+ 
+ 
+ 
+Identifique o recipiente com a etiqueta clicando com o botão esquerdo do mouse sobre 
+o frasco indicado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+PREPARO DE SUSPENSÃO DE ENXOFRE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

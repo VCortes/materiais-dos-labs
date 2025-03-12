@@ -1,0 +1,1517 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar a montagem e análise de circuitos utilizados 
+em instalações elétricas residenciais. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bancada didática de instalações elétricas residenciais; 
+• Lâmpadas LED; 
+• Lâmpadas incandescentes; 
+• Multímetro. 
+ 
+PROCEDIMENTOS 
+ 
+LEI DE KIRCHHOFF 
+ 
+1. MONTANDO O CIRCUITO DE COMANDO PARA UMA LÂMPADA 
+ 
+Utilize o primeiro esquemático de Leis de Kirchhoff para orientar a conexão dos 
+cabos do circuito. Conecte uma lâmpada incandescente no soquete L1. 
+ 
+2. REALIZANDO  MEDIÇÕES  DO  CIRCUITO  DE  COMANDO  PARA  UMA 
+LÂMPADA 
+ 
+Acione o disjuntor bipolar utilizado no circuito. Utilize o interruptor simples para 
+ligar e desligar a lâmpada. Utilize o multímetro para medir a tensão e a corrente 
+no soquete de L1. Remova os cabos e lâmpadas do módulo 1. Siga para a seção 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+“Avaliação  de  Resultados”,  neste  roteiro,  e  responda  de  acordo  com  o  que  foi 
+observado neste experimento.  
+ 
+3. MONTANDO O  CIRCUITO  DE  COMANDO  PARA  DUAS  LÂMPADAS  EM 
+SÉRIE 
+ 
+Utilize o segundo esquemático de Leis de Kirchhoff para orientar a conexão dos 
+cabos do circuito. Conecte as lâmpadas incandescentes nos soquetes L1 e L2. 
+ 
+4. REALIZANDO  MEDIÇÕES NO CIRCUITO  DE  COMANDO  PARA  DUAS 
+LÂMPADAS EM SÉRIE 
+ 
+Acione o disjuntor bipolar utilizado no circuito. Utilize o interruptor simples para 
+ligar  e  desligar  as lâmpadas. Utilize  o  multímetro  para  medir  a  tensão total do 
+circuito  e  as  tensões  nos  soquetes  L1  e  L2.  Utilize  o  multímetro  para  medir  a 
+correte total do circuito e as correntes nos soquetes L1 e L2. Remova os cabos e 
+lâmpadas  do  módulo  1. Siga  para  a  seção  “Avaliação  de  Resultados”,  neste 
+roteiro, e responda de acordo com o que foi observado neste experimento. 
+ 
+5. MONTANDO O  CIRCUITO  DE  COMANDO  PARA  DUAS  LÂMPADAS  EM 
+PARALELO 
+ 
+Utilize o terceiro esquemático de Leis de Kirchhoff para orientar a conexão dos 
+cabos do circuito. Conecte as lâmpadas incandescentes nos soquetes L1 e L2. 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+6. REALIZANDO  MEDIÇÕES NO CIRCUITO  DE  COMANDO  PARA  DUAS 
+LÂMPADAS EM PARALELO 
+ 
+Acione o disjuntor bipolar utilizado no circuito. Utilize o interruptor simples para 
+ligar e  desligar  as lâmpadas. Utilize  o  multímetro  para  medir  a  tensão total do 
+circuito  e  as  tensões  nos  soquetes  L1  e  L2.  Utilize  o  multímetro  para  medir  a 
+correte total do circuito e as correntes nos soquetes L1 e L2. Remova os cabos e 
+lâmpadas do módulo 1. Siga para a seção “Avaliação dos Resultados”, localizada 
+nas páginas 10-14 deste roteiro, e responda de acordo com o que foi observado 
+no experimento, associando também com os conhecimentos aprendidos sobre 
+o tema. 
+ 
+INTERRUPTOR PARALELO E INTERMEDIÁRIO 
+ 
+1. MONTANDO O CIRCUITO COM INTERRUPTOR PARALELO 
+ 
+Utilize  o primeiro esquemático de  interruptor  paralelo  e  intermediário para 
+orientar a conexão dos cabos do circuito. Conecte uma lâmpada LED no soquete 
+L1. 
+ 
+2. TESTANDO O CIRCUITO COM INTERRUPTOR PARALELO 
+ 
+Acione o disjuntor bipolar utilizado no circuito. Utilize os interruptores paralelos 
+S2 e S4 para ligar e desligar a lâmpada. Remova os cabos e lâmpadas do módulo 
+1. Siga  para  a  seção  “Avaliação  de  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado neste experimento. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+3. MONTANDO O CIRCUITO COM INTERRUPTOR INTERMEDIÁRIO 
+ 
+Utilize  o segundo esquemático de  interruptor  paralelo  e  intermediário para 
+orientar a conexão dos cabos do circuito. Conecte uma lâmpada LED no soquete 
+L1. 
+ 
+4. TESTANDO O CIRCUITO COM INTERRUPTOR INTERMEDIÁRIO 
+ 
+Acione o disjuntor bipolar utilizado no circuito. Utilize os interruptores paralelos 
+S2,  S3  e  S4 para  ligar  e  desligar  a  lâmpada. Remova  os  cabos  e  lâmpadas  do 
+módulo 1. Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 
+10-14 deste  roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no 
+experimento,  associando  também  com  os  conhecimentos  aprendidos  sobre  o 
+tema. 
+ 
+DISPOSITIVO DIFERENCIAL RESIDUAL 
+ 
+1. MONTANDO O CIRCUITO QUE UTILIZA O DISPOSITIVO DR 
+ 
+Siga o primeiro esquemático de  dispositivo  diferencial  residual para  orientar  a 
+conexão dos cabos do circuito. Utilize os conectores do lado superior direito do 
+módulo   1 da   bancada   que   estão   protegidos   pelo   equipamento.   Ligue   o 
+dispositivo DR e verifique o acionamento da lâmpada pelo interruptor simples. 
+Com a lâmpada acesa, utilize o botão de teste do equipamento. Remova os cabos 
+e lâmpadas do módulo 1. 
+ 
+ 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+2. MONTANDO O CIRCUITO COM ATUAÇÃO DO DISPOSITIVO DR 
+ 
+Siga o segundo esquemático de  dispositivo  diferencial  residual para  orientar  a 
+conexão  dos  cabos  do circuito. Ligue  o  dispositivo  DR  e  utilize  o  interruptor 
+simples para ligar a lâmpada L2. Com a lâmpada L2 ligada, acione o interruptor 
+S2. Remova os cabos e lâmpadas do módulo 1. Siga para a seção “Avaliação dos 
+Resultados”,  localizada nas páginas 10-14 deste  roteiro,  e  responda  de  acordo 
+com   o   que   foi   observado   no   experimento,   associando   também   com   os 
+conhecimentos aprendidos sobre o tema. 
+ 
+DIMMER ROTATIVO 
+ 
+1. MONTANDO E TESTANDO O CIRCUITO COM DIMMER ROTATIVO 
+ 
+Utilize o esquemático de dimmer rotativo para orientar a conexão dos cabos do 
+circuito. Conecte uma lâmpada LED no soquete L1 e acione o disjuntor bipolar. 
+Varie  a  posição  do  dimmer  e  observe  o  comportamento  da  lâmpada  LED. 
+Substitua    a    lâmpada    LED    pela    lâmpada    incandescente    e    verifique    o 
+comportamento da lâmpada ao utilizar o dimmer. Remova os cabos e lâmpadas 
+do  módulo  1. Siga  para  a  seção “Avaliação  dos  Resultados”,  localizada  nas 
+páginas 10-14 deste roteiro, e responda de acordo com o que foi observado no 
+experimento,  associando  também  com  os  conhecimentos  aprendidos  sobre  o 
+tema. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+LEIS DE KIRCHHOFF 
+CIRCUITO DE COMANDO PARA UMA LÂMPADA 
+ 
+1. Qual é o valor da tensão em L1 exibida pelo multímetro? 
+ 
+ 
+ 
+2. Qual é o valor da corrente em L1 exibida pelo multímetro? 
+ 
+ 
+ 
+3. Utilizando  os  seus  conhecimentos  de  circuitos,  encontre  a  resistência  equivalente 
+desta lâmpada incandescente com os dados obtidos anteriormente. 
+ 
+ 
+ 
+CIRCUITO DE COMANDO PARA DUAS LÂMPADAS EM SÉRIE  
+ 
+1. Comparando  este  circuito  com  o  circuito  de  comando  para  uma  lâmpada,  existe 
+alguma diferença na luminosidade das lâmpadas em L1? Qual? 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+2. Quais são os valores das tensões em L1 e L2 que são exibidas pelo multímetro? Qual 
+é o valor da tensão total do circuito? 
+ 
+ 
+ 
+3. Quais  são  os  valores  das  correntes  em  L1  e  L2  que  são  exibidas  pelo  multímetro? 
+Qual é o valor da corrente total do circuito? 
+ 
+ 
+ 
+4. Quais as relações que podem ser observadas entre as tensões e correntes medidas 
+neste circuito? 
+ 
+ 
+ 
+CIRCUITO DE COMANDO PARA DUAS LÂMPADAS EM PARALELO 
+ 
+1. Comparando  este  circuito  com  o  circuito  de  comando  para  uma  lâmpada,  existe 
+alguma diferença na luminosidade das lâmpadas em L1? Qual? 
+ 
+ 
+ 
+2. Quais são os valores das tensões em L1 e L2 que são exibidas pelo multímetro? Qual 
+é o valor da tensão total do circuito? 
+ 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+3. Quais  são  os  valores  das  correntes  em  L1  e  L2  que  são  exibidas  pelo  multímetro? 
+Qual é o valor da corrente total do circuito? 
+ 
+ 
+ 
+4. Quais as relações que podem ser observadas entre as tensões e correntes medidas 
+neste circuito? 
+ 
+ 
+ 
+INTERRUPTOR PARALELO E INTERMEDIÁRIO 
+CIRCUITO COM INTERRUPTOR PARALELO 
+ 
+1. Qual o comportamento da lâmpada neste circuito ao realizar mudanças no estado 
+dos interruptores paralelos S2 e S4?  
+ 
+ 
+ 
+2.  Cite  uma  aplicação  deste  tipo  de  circuito  que  é  utilizada  em  instalações  elétricas 
+residenciais? 
+ 
+ 
+ 
+CIRCUITO COM INTERRUPTOR INTERMEDIÁRIO 
+ 
+1. Qual o comportamento da lâmpada neste circuito ao realizar mudanças no estado 
+dos interruptores paralelos S2, S3 e S4? 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+2. Caso  fosse  necessário  adicionar  um  quarto  interruptor  no  circuito, mantendo  o 
+princípio de funcionamento do circuito proposto, qual seria o tipo de interruptor? 
+Justifique. 
+ 
+ 
+ 
+DISPOSITIVO DIFERENCIAL RESIDUAL 
+CIRCUITO UTILIZANDO DISPOSITIVO DR 
+ 
+1. Quando o dispositivo diferencial residual atua, o que ocorre com o circuito? Cite um 
+circuito em instalações elétricas residenciais no qual o dispositivo DR é indicado. 
+ 
+ 
+ 
+CIRCUITO COM ATUAÇÃO DO DISPOSITIVO DR 
+ 
+1. O  que  ocorreu  ao  acionar  o  interruptor  S2?  Este  era  o  comportamento  esperado 
+para este tipo de circuito? 
+ 
+ 
+ 
+DIMMER ROTATIVO 
+CIRCUITO COM DIMMER ROTATIVO 
+ 
+1. Qual  o  comportamento  da  lâmpada  LED  quando  o  dimmer é  utilizado?  O  fluxo 
+luminoso está variando de acordo com a variação do dimmer? 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+2. Qual o comportamento da lâmpada incandescente quando o dimmer é utilizado? O 
+fluxo luminoso está variando de acordo com a variação do dimmer? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ 
+1. COMPREENDENDO O FUNCIONAMENTO 
+DO EXPERIMENTO 
+ 
+Dos passos 1 ao 5 deste tutorial você vai aprender as principais interações que podem 
+ser  feitas  durante  a  realização  dos  experimentos.  Esses  passos  vão  te  fornecer  as 
+informações  necessárias  para  que  você utilize  este  laboratório  virtual  com  facilidade, 
+observando alguns dispositivos de proteção e acionamento de lâmpadas em instalações 
+elétricas residenciais. 
+Na tela inicial é possível selecionar qual dos experimentos você vai realizar primeiro. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Selecione a opção Leis de Kirchhoff. 
+Todos  os  experimentos  começam  exibindo  esta  tela  da  figura  abaixo.  Você  pode 
+selecionar no canto superior esquerdo as opções de câmera, definindo o ponto de vista 
+que você terá do experimento. 
+ 
+ 
+ 
+Dica: Durante  a  realização  do  experimento,  você  pode  alterar  entre  as  câmeras 
+disponíveis para observar melhor o circuito que você está montando. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Na  parte  superior  direita  da  tela  inicial  do  experimento  é  possível  visualizar  os 
+esquemáticos dos circuitos a serem montados, a caixa de anotações e as configurações 
+do experimento. 
+Acesse a opção “Esquemáticos”. 
+ 
+ 
+ 
+Observe  o  esquemático  na  janela  abaixo,  ele  mostra  o  circuito  que  será  montado 
+durante o experimento. 
+ 
+ 
+ 
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Dica: Alguns experimentos possuem mais de um circuito que deve ser montado! Para 
+visualizar  os  outros  esquemáticos disponíveis  dentro  do  experimento  de  Leis  de 
+Kirchhoff (ou outro experimento), clique com o botão esquerdo no botão destacado em 
+vermelho na imagem acima. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+2. REALIZANDO A MONTAGEM DO CIRCUITO 
+ 
+Vamos  utilizar  o primeiro  esquemático  como  exemplo.  As  conexões  realizadas devem 
+seguir o circuito proposto. Vamos utilizar a câmera livre para montar o circuito. 
+Clique no botão conector vermelho da fase R da alimentação trifásica. 
+ 
+ 
+ 
+Observe que a coloração do conector mudou indicando que o ponto inicial da conexão 
+foi selecionado.  
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Importante: Note que cada conector possui uma letra ou número de identificação (na 
+imagem acima as setas indicam as entradas 1 e 3 do disjuntor), eles são usados para que 
+você possa identificar mais facilmente o conector. Nas instruções do experimento essas 
+identificações serão apresentadas entre parênteses. 
+ 
+ 
+ 
+Observe  que  os  conectores  (1)  e  (3)  também  mudaram  de coloração,  isso  indica  que 
+ponto final da conexão que se inicia na fase (R) pode ser uma dessas opções. 
+Clique no conector (1) dos disjuntores. 
+ 
+ 
+ 
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Observe que  um  cabo  de  conexão  está  realizando  a  ligação  entre os  pontos definidos 
+anteriormente. 
+Realize  o  procedimento  de  conexão  entre  o  conector  (S)  da  alimentação  trifásica  e  o 
+conector (3) do disjuntor. 
+ 
+ 
+ 
+Observe que a conexão foi realizada da forma esperada. 
+Verifique o esquemático para observar que a conexão das fases (R) e (S) foi feita com os 
+terminais de entrada do disjuntor bipolar. 
+ 
+ 
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Seguindo  as  instruções  do  esquemático,  deve  ser  feita  uma  conexão  da  saída  do 
+disjuntor bipolar com a entrada do interruptor simples. 
+Conecte a saída (2) do disjuntor bipolar com a entrada (1) do interruptor simples. 
+ 
+ 
+ 
+Verifique que a conexão foi realizada de acordo com o esperado. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Seguindo  a  orientação  do  esquemático  você  deve  conectar  a  saída  (2)  do  interruptor 
+simples com a entrada (1) do bocal da lâmpada L1. 
+ 
+ 
+ 
+Verifique que a conexão foi realizada de acordo com o esperado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Seguindo  a  orientação  do  esquemático  você  deve  conectar  a  saída  (2)  do  bocal  da 
+lâmpada L1 com a saída (4) do disjuntor bipolar. 
+ 
+ 
+ 
+Verifique que a conexão foi realizada de acordo com o esperado. 
+ 
+ 
+ 
+Observe  as  conexões  do  esquemático  e  confirme  se  as  ligações  que  você  realizou 
+condizem com elas. 
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Para  completar  o  circuito  é  necessário  colocar  uma  das  lâmpadas  disponibilizadas  no 
+bocal adequado. 
+Clique em uma das lâmpadas incandescentes na bancada. 
+ 
+ 
+ 
+Observe que é exibido no ponto que você clicou as opções que onde a lâmpada pode 
+ser conectada. 
+Selecione a opção: Posicionar no primeiro soquete. 
+ 
+ 
+ 
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Observe que a lâmpada incandescente escolhida foi encaixada no bocal escolhido. 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+3. FUNCIONAMENTO DO EXPERIMENTO 
+ 
+Com o circuito devidamente montado e com as conexões realizadas estando de acordo 
+com o esquemático, é hora de testar o funcionamento do experimento. 
+ 
+ 
+ 
+Para acionar o disjuntor bipolar que permite que o circuito seja energizado, você deve 
+clicar na alavanca vermelha indicada na imagem acima. 
+ 
+ 
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Importante: Caso o circuito esteja realmente condizente com o esquemático o disjuntor 
+vai ser acionado normalmente, se houver algum erro na montagem vai ser exibida uma 
+mensagem  avisando  que  o  “Circuito  montado  não  condiz  com  o  proposto  pelo 
+experimento”.  Se  esta  mensagem  for  exibida,  siga  para  o  Passo  5,  lá  você  terá  as 
+instruções necessárias para corrigir seu circuito. 
+ 
+ 
+ 
+Para utilizar o interruptor simples (ou o interruptor paralelo e intermediário) você deve 
+clicar  na  parte  esquerda  ou  na  parte  direita  do  interruptor  que  está  indicada  pelo 
+retângulo vermelho na imagem acima. 
+Acione o interruptor clicando na parte direita do interruptor. 
+ 
+ 
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Observe que a lâmpada incandescente acendeu devido ao fato que o interruptor fechou 
+o circuito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+4. MEDIÇÕES COM O MULTÍMETRO 
+ 
+Neste  experimento  você  pode  realizar  medições  de  tensão  e  corrente  em  diferentes 
+pontos do circuito. Para isso você pode clicar no multímetro exibido na imagem abaixo. 
+ 
+ 
+ 
+Observe que uma janela com opções de medidas que podem ser realizadas apareceu no 
+ponto onde você clicou. Selecione a opção “Medir Tensão Soquete 1”. 
+ 
+ 
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Note que o multímetro exibe em sua tela a tensão sobre a lâmpada incandescente. 
+Importante: Para  realizar  outras  medições  você pode  clicar  no  multímetro,  onde  será 
+exibida uma janela com a opção “Remover”, clicando nesta opção o multímetro voltará 
+para a mesa e você poderá selecionar um novo ponto de medição.  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+5. REMOVENDO OS EQUIPAMENTOS E MENU DE OPÇÕES 
+ 
+Caso  você  tenha  feito  alguma  conexão  errada  durante  a  montagem  dos  circuitos  ou 
+quando   você   deseja   realizar   a   montagem   de   outro   esquemático   disponível   no 
+experimento, você pode remover as conexões e recomeçar a montagem do circuito do 
+início ou de algum ponto desejado. 
+Importante: Para  remover  um  dos  cabos  de  conexão  do  circuito  (ou  todos  eles), 
+primeiro o circuito montado deve ser desenergizado, para que isso aconteça você deve 
+desligar o disjuntor bipolar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Se você deseja remover os cabos de conexão individualmente, clique em algum ponto 
+da extensão do cabo e observe que vai surgir uma opção de “Remover este cabo”. 
+ 
+ 
+ 
+Dica: Existe a opção de remover todos os cabos ao mesmo tempo, para fazer isso você 
+deve clicar na opção “Remover todos os cabos” no canto superior direito da tela. 
+Para  remover  a  lâmpada,  basta  clicar  nela  e  uma  opção  “Remover”  vai  aparecer, 
+clicando nesta opção a lâmpada vai retornar a sua posição inicial na mesa. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Desta forma você retornou ao ponto inicial do experimento. 
+ 
+ 
+ 
+Você  pode  acessar  as  “Opções”  do  experimento  clicando  na  parte  assinalada  em 
+vermelho no canto superior direito da tela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Você terá três opções neste menu:  
+Ao clicar em Retornar você vai ser direcionado para a tela anterior. 
+Ao   clicar   em   Reiniciar   Experimento   você   vai   retornar   as   condições   iniciais   do 
+experimento que você está utilizando.  
+Ao clicar em Menu Principal você vai ser direcionado para a tela onde poderá escolher 
+qual dos experimentos vai ser montado. 
+Agora  você  está  pronto  para  realizar  os  experimentos  disponibilizados  na  bancada  de 
+instalações elétricas residenciais. 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+EXPERIMENTO SOBRE LEIS DE KIRCHHOFF 
+ 
+ 
+Neste experimento você vai realizar a montagem de circuitos onde você poderá aplicar 
+os  conhecimentos  relacionado  as  Leis  de  Kirchhoff  na  análise  de  instalações  elétricas 
+residenciais. Nos esquemáticos você encontrará: 
+➢ Circuito de comando para uma lâmpada. 
+➢ Circuito de comando para duas lâmpadas em série. 
+➢ Circuito de comando para duas lâmpadas em paralelo. 
+ 
+ 
+ 
+ 
+Neste passo você vai realizar a montagem do circuito utilizado no Passo 3 do tutorial. O 
+esquemático desse circuito e sua montagem podem ser observados na imagem abaixo. 
+ 
+ 
+ 
+Verifique se a montagem que você realizou condiz com o esquemático e com a imagem 
+acima.  
+Escolha uma das lâmpadas incandescentes e a posicione no soquete de L1. 
+1. MONTANDO O CIRCUITO DE COMANDO PARA UMA LÂMPADA 
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+ 
+Para  realizar  as  medições,  você  deve  ligar  a  lâmpada  incandescente.  Para  que  isso 
+aconteça você deve acionar o disjuntor bipolar e utilizar o interruptor simples para que 
+a lâmpada em L1 acenda. O resultado pode ser observado na imagem abaixo. 
+ 
+ 
+ 
+Utilize o multímetro para medir a tensão no soquete de L1. 
+ 
+2. REALIZANDO MEDIÇÕES DO CIRCUITO DE COMANDO 
+PARA UMA LÂMPADA 
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+Lembrete: Quando for realizar as medidas com o multímetro, verifique se o circuito está 
+energizado  e  caso  queira  realizar  uma medição  diferente  da  que  você  está  fazendo, 
+remova  o  equipamento  e  selecione  a  nova  medida  dentre  as  opções  vistas  da  figura 
+acima. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+O esquemático que vai ser utilizado neste passo e o circuito montado podem ser vistos 
+na imagem abaixo. Neste tipo de circuito a saída (2) da lâmpada L1 vai ser conectada na 
+entrada (1) de L2. 
+Utilize o esquemático fornecido pelo experimento para realizar a montagem do circuito. 
+ 
+ 
+ 
+Verifique  se  a  montagem  que  você  fez  está  semelhante  a  montagem  observada  no 
+circuito da imagem acima. 
+Conecte as duas lâmpadas incandescentes nos soquetes 1 e 2. 
+ 
+  
+3. MONTANDO  O  CIRCUITO  DE  COMANDO  PARA DUAS 
+LÂMPADAS EM SÉRIE 
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+ 
+Para  realizar  as  medições,  você  deve  ligar  as  lâmpadas  incandescentes.  Para  que  isso 
+aconteça você deve acionar o disjuntor bipolar e utilizar o interruptor simples para que 
+as lâmpadas em L1 e L2 acendam. O resultado pode ser observado na imagem abaixo. 
+ 
+ 
+ 
+Utilize o multímetro para medir a tensão no soquete de L1. Remova o multímetro. 
+Utilize o multímetro para medir a tensão no soquete de L2. Remova o multímetro. 
+Utilize o multímetro para medir a tensão total do circuito. Remova o multímetro. 
+Utilize o multímetro para medir a corrente no soquete de L1. Remova o multímetro. 
+Utilize o multímetro para medir a corrente no soquete de L2. Remova o multímetro. 
+Utilize o multímetro para medir a corrente total do circuito. Remova o multímetro. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+  
+4. REALIZANDO MEDIÇÕES NO CIRCUITO DE COMANDO 
+PARA DUAS LÂMPADAS EM SÉRIE 
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+O esquemático que vai ser utilizado neste passo e o circuito montado podem ser vistos 
+na imagem abaixo. Neste tipo de circuito a saída (2) da lâmpada L1 vai ser conectada na 
+entrada (1) de L2. 
+Utilize o esquemático fornecido pelo experimento para realizar a montagem do circuito. 
+ 
+ 
+ 
+Verifique  se  a  montagem que  você  fez  está  semelhante  a  montagem  observada  no 
+circuito da imagem acima. 
+Conecte as duas lâmpadas incandescentes nos soquetes 1 e 2. 
+ 
+ 
+ 
+  
+5. REALIZANDO MEDIÇÕES DO CIRCUITO DE COMANDO 
+PARA UMA LÂMPADA 
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+Para  realizar  as medições,  você  deve  ligar  as  lâmpadas  incandescentes.  Para  que  isso 
+aconteça você deve acionar o disjuntor bipolar e utilizar o interruptor simples para que 
+as lâmpadas em L1 e L2 acendam. O resultado pode ser observado na imagem abaixo. 
+ 
+ 
+ 
+Utilize o multímetro para medir a tensão no soquete de L1. Remova o multímetro. 
+Utilize o multímetro para medir a tensão no soquete de L2. Remova o multímetro. 
+Utilize o multímetro para medir a tensão total do circuito. Remova o multímetro. 
+Utilize o multímetro para medir a corrente no soquete de L1. Remova o multímetro. 
+Utilize o multímetro para medir a corrente no soquete de L2. Remova o multímetro. 
+Utilize o multímetro para medir a corrente total do circuito. Remova o multímetro. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial.  
+6. REALIZANDO  MEDIÇÕES  NO  CIRCUITO  DE  COMANDO 
+PARA DUAS LÂMPADAS EM PARALELO 
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+EXPERIMENTO SOBRE INTERRUPTOR PARALELO E INTERMEDIÁRIO 
+ 
+Neste experimento você vai realizar a montagem de circuitos utilizados na maioria das 
+residências, onde é realizado o acionamento de uma lâmpada por dois ou mais pontos 
+diferentes.  Este  tipo  de  circuito  é  muito  utilizado  em  corredores  ou  escadas  onde  é 
+interessante que  o  morador possa  acionar  a  lâmpada em um ponto,  como  o  início da 
+escada, e possa desligar a lâmpada em outro ponto, como o final da escada. 
+Neste experimento você vai utilizar dois esquemáticos, eles são: 
+➢ Circuito com interruptor paralelo. 
+➢ Circuito com interruptor intermediário. 
+ 
+ 
+Este interruptor possui três terminais de conexão, que devem ser conectados de acordo 
+com o esquemático. O circuito montado pode ser visto na imagem abaixo. 
+Utilize o esquemático fornecido pelo experimento para realizar a montagem do circuito. 
+Dica: Utilize  o  modo  de  visualização  Livre  durante  a  montagem  do circuito,  ele  vai  te 
+permitir observar o circuito de diferentes pontos, facilitando o processo de conexão dos 
+cabos. 
+Conecte a lâmpada LED no soquete 1. 
+ 
+ 
+1. MONTANDO O CIRCUITO COM INTERRUPTOR PARALELO 
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+Inicialmente o circuito deve ser energizado, para que isso aconteça, você deve acionar 
+o disjunto bipolar utilizado no circuito.  
+Acione o disjuntor bipolar. 
+O interruptor paralelo possui dois estados, ou ele liga o conector (2) com (1) ou ele liga 
+o conector (2) com (3). 
+Observe  o  esquemático,  perceba  que  entre  os  interruptores  S2  e  S4  existem  dois 
+caminhos DISTINTOS que a corrente pode percorrer no circuito. Para que a lâmpada seja 
+acionada, os dois interruptores devem estar na posição que seleciona um caminho, isto 
+é,  ambos devem estar  conectando  (2)  com  (1)  ou  ambos  devem  estar  conectando  (2) 
+com (3). 
+ 
+ 
+ 
+ 
+2.  TESTANDO O CIRCUITO COM INTERRUPTOR PARALELO 
+ 
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Você  pode  realizar  diversos  testes  utilizando  os  interruptores  S2  e  S4.  Perceba  que 
+existem  combinações  de  posições  dos  interruptores  que  acionam  a  lâmpada  e  outras 
+que deixam ela desligada. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+O  interruptor  intermediário possui  quadro  conectores e foi  projetado para  operar  em 
+situações em  que são  necessários  mais  de  dois  interruptores  para  controlar  uma 
+lâmpada.  Este  interruptor  (S3)  sempre  deve  ser  utilizado  entre  dois  interruptores 
+paralelos (S2) e (S4). O circuito montado pode ser visto na imagem abaixo. 
+Utilize o esquemático fornecido pelo experimento para realizar a montagem do circuito. 
+Dica:  Utilize  o  modo  de  visualização  Livre  durante  a  montagem  do  circuito,  ele  vai  te 
+permitir observar o circuito de diferentes pontos, facilitando o processo de conexão dos 
+cabos. 
+Conecte a lâmpada LED no soquete 1. 
+ 
+ 
+ 
+Verifique  se  a  montagem  que  você  fez  está  semelhante  a  montagem  observada  no 
+circuito da imagem acima.  
+3. MONTANDO O CIRCUITO COM INTERRUPTOR INTERMEDIÁRIO 
+ 
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+Inicialmente o circuito deve ser energizado, para que isso aconteça, você deve acionar 
+o disjunto bipolar utilizado no circuito.  
+Acione o disjuntor bipolar. 
+Lembrando que interruptor paralelo possui dois estados, ou ele liga o conector (2) com 
+(1) ou ele liga o conector (2) com (3). 
+O interruptor paralelo também possui dois estados, em um deles ele liga o conector (1) 
+com  (3)  e  o  conector  (2)  com  (4),  no  outro  estado  ele  liga  o  conector  (1)  com  (4)  e  o 
+conector (2) com (3). 
+Observe  o  esquemático.  De  acordo  com  o  que  foi  visto  no  funcionamento  dos 
+interruptores  em  paralelo,  para  que  a  lâmpada  seja  acionada,  é  necessário  que  a 
+corrente  percorra  o  circuito.  Conhecendo  o  princípio  de  funcionamento  desses  dois 
+tipos de interruptores, é possível concluir o comportamento do circuito. 
+ 
+ 
+ 
+4. TESTANDO O CIRCUITO COM INTERRUPTOR INTERMEDIÁRIO 
+ 
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Você  pode  realizar  diversos  testes  utilizando  os  interruptores  S2  e  S4.  Perceba  que 
+existem  combinações  de  posições  dos  interruptores  que  acionam  a  lâmpada  e  outras 
+que deixam ela desligada. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+EXPERIMENTO SOBRE DISPOSITIVO DIFERENCIAL RESIDUAL 
+ 
+Neste  experimento  você  vai  realizar  a  montagem  de  circuitos  onde  será  observado  o 
+funcionamento   do   dispositivo   diferencial residual,   um   equipamento   destinado   a 
+proteger pessoas e animais contrachoques elétricos. 
+Neste experimento você encontrará dois circuitos, o primeiro deles você vai encontrar 
+a forma correta de utilizar este dispositivo, no segundo vai ser apresentado um circuito 
+onde  você  poderá  verificar  a  atuação  do  dispositivo  DR  impedindo  uma  fuga  de 
+corrente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+O dispositivo DR é obrigatório em diversos tipos de instalações elétricas residenciais. A 
+forma correta de utilizar este equipamento é passando por ele todas as fases e o neutro 
+do circuito elétrico. Os conectores de alimentação trifásica localizados na parte superior 
+esquerda do  módulo  1  não  passaram  pelo  dispositivo  DR, enquanto  os  conectores  do 
+lado superior direito do módulo 1 já estão protegidos pelo equipamento. 
+Dica: No  esquemático  disponibilizado  no  experimento  é  utilizada  a  simbologia  do 
+dispositivo  DR,  onde  é  possível  ver  que  o  neutro  e  as  fases  R,  S  e  T  passam  por  este 
+equipamento. 
+Realize a montagem do circuito de acordo com o esquemático abaixo e verifique se o 
+circuito que você montou condiz que a montagem da imagem abaixo. 
+ 
+ 
+ 
+Ligue o dispositivo DR utilizando a chave vermelha na parte frontal do equipamento. 
+Observe  com  a visualização  na  câmera  livre  que  na  chave  vermelha  está  escrito  ON 
+quando o dispositivo DR é acionado, isso indica que sua saída está energizada. 
+Utilize o interruptor para ligar e desligar a lâmpada. 
+1. MONTANDO O CIRCUITO QUE UTILIZA O DISPOSITIVO DR 
+ 
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Perceba  que  a  lâmpada  acende  e  apaga  normalmente  de  acordo  com  o  comando  do 
+interruptor. 
+Na parte frontal do dispositivo DR é possível observar um botão vermelho com a letra 
+T.  Este  botão  é  utilizado  para  simular  o  comportamento  do  equipamento  ao  detectar 
+uma corrente de fuga, interrompendo a alimentação do circuito. 
+Mantenha a lâmpada acesa e clique no botão de teste do dispositivo DR. 
+ 
+ 
+ 
+Observe    que    a    lâmpada    apagou    devido    ao    dispositivo    DR    ser    desativado 
+automaticamente devido ao botão de teste. 
+Ligue o dispositivo DR utilizando a chave vermelha na parte frontal do equipamento. 
+Perceba que a lâmpada acendeu devido ao interruptor simples está na posição fechada. 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+ 
+ 
+ 
+Agora  que  você  já  verificou  como  deve  ser  montado  um  circuito  com  a  proteção 
+adequada do dispositivo DR, você vai montar um circuito onde você poderá verificar a 
+atuação desse equipamento ao detectar uma fuga de corrente. 
+Verifique o próximo esquemático desse experimento, nele você pode observar que foi 
+adicionado um interruptor (S2) com uma lâmpada (L1) entre a saída (2) de L2 e a fase R 
+antes de ser protegida pelo DR. 
+Realize a montagem do circuito de acordo com o esquemático abaixo e verifique se o 
+circuito que você montou condiz que a montagem da imagem abaixo. 
+ 
+ 
+ 
+Ligue o dispositivo DR utilizando a chave vermelha na parte frontal do equipamento. 
+Utilize o interruptor simples para ligar e desligar a lâmpada L2. 
+Perceba  que  a  lâmpada  acende  e  apaga  normalmente  de  acordo  com  o  comando  do 
+interruptor. 
+2. MONTANDO O CIRCUITO COM ATUAÇÃO DO DISPOSITIVO DR 
+ 
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Com a lâmpada L2 ligada, acione o interruptor S2. 
+Importante: Observe que no momento que a lâmpada L1 foi acionada pelo interruptor 
+S2, o dispositivo DR atua, interrompendo a alimentação do circuito. 
+Desative o interruptor S2 e acione o dispositivo DR. 
+Observe  que  o  DR  não  atua imediatamente  como  no  caso  anterior  pois  a  fuga  de 
+corrente  (que  ocorre  quando  o  interruptor  S2  é  acionado)  não  está  acontecendo  no 
+momento. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+EXPERIMENTO SOBRE DIMMER ROTATIVO 
+ 
+Neste experimento você vai realizar a montagem de um circuito para o acionamento de 
+uma lâmpada utilizando um dimmer. Esse dispositivo permite que o fluxo luminoso de 
+alguns tipos de lâmpada seja controlado. 
+ 
+ 
+ 
+O  dimmer  possui  dois  conectores  assim  como  o  interruptor  simples,  este  é  um 
+equipamento  de  fácil  instalação  e  utilização.  É  importante  lembrar  que  a  lâmpada 
+utilizada na montagem do circuito deve ser dimerizável, isto é, está lâmpada pode ter 
+seu fluxo luminoso controlado por um dimmer. 
+Neste  experimento,  além  de  montar  o  circuito  com  a  utilização  do  dimmer,  você  vai 
+observar como uma lâmpada dimerizável e uma lâmpada não dimerizável se comportam 
+quando são utilizadas no circuito com dimmer.  
+Realize a montagem do circuito de acordo com o esquemático abaixo e verifique se o 
+circuito que você montou condiz que a montagem da imagem abaixo. 
+ 
+ 
+ 
+1. MONTANDO E TESTANDO O CIRCUITO COM DIMMER ROTATIVO 
+ 
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS 
+INSTALAÇÕES ELÉTRICAS RESIDENCIAIS – CIRCUITOS BÁSICOS 
+Acione o disjuntor dipolar para alimentar o circuito. 
+Conecte a lâmpada LED no soquete da lâmpada L1. 
+Observe que quando você deixa o cursor do seu mouse em cima da lâmpada LED vai ser 
+disponibilizado  no  canto  inferior  direito  da tela uma  breve  descrição do componente, 
+nesta descrição é dito que a lâmpada LED é não dimerizável. 
+Varie a posição do dimmer e observe o comportamento da lâmpada LED. 
+Dica: Para  utilizar  o  dimmer  no  acionamento  da  lâmpada  você  deve  clicar  e  manter 
+pressionado o botão esquerdo do mouse no dimmer. Você pode deslocar o mouse ao 
+redor do dimmer para variar a posição desse botão.  
+Retire a lâmpada LED do soquete e coloque a lâmpada incandescente. 
+Varie a posição do dimmer e observe o comportamento da lâmpada incandescente. 
+Remova as ligações realizadas utilizando as instruções do Passo 5 do tutorial. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 10-14 deste roteiro, 
+e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 
+ 

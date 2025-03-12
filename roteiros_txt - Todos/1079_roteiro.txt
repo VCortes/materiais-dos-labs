@@ -1,0 +1,639 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre desgaste de 
+rochas pela ação mecânica de materiais abrasivos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 2 corpos de prova (fragmento de rocha); 
+• Chapa para suporte do corpo de prova; 
+• Equipamento de abrasão; 
+• Escova; 
+• Espessímetro digital; 
+• Recipiente com areia branca. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, óculos, luvas e 
+máscara. 
+ 
+2. PREPARANDO O ABRASÍMETRO 
+ 
+Mova os corpos de prova para o equipamento. Acople as amostras descendo as sapatas e, em 
+seguida, despeje a areia branca do recipiente dentro dos dois cones. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+  
+3. LIGANDO O EQUIPAMENTO 
+ 
+Visualize o odômetro e ligue o equipamento. Usando os botões contidos no painel, configure 
+para 250 voltas e acione o abrasímetro. 
+ 
+4. MANIPULANDO OS CORPOS DE PROVA 
+ 
+Observe  o  movimento  realizado.  Ao  término  das  250  voltas,  remova  os  corpos  de  prova, 
+desacoplando as sapatas e colocando-os na bancada. Por fim, com o auxílio da escova, remova 
+os resíduos das duas amostras. 
+ 
+5. REALIZANDO AS MEDIÇÕES 
+ 
+Posicione o fragmento de rocha 1 sobre a chapa. Mova o espessímetro para o corpo de prova, 
+realize  a  sua  medição  e  registre  o  valor.  Em  sequência,  mova  o  espessímetro  e  o  corpo  de 
+prova 1 de volta para a bancada, e posicione o corpo de prova 2 sobre a chapa. Use novamente 
+o  espessímetro  para  realizar  a  medição  do segundo  corpo  de  prova e  registre  o  valor.  Para 
+concluir, repita os procedimentos anteriores, a partir do tópico 2, realizando novas medições 
+e comparando os valores encontrados. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como o uso de um abrasímetro pode ajudar a determinar a resistência de uma 
+rocha ao desgaste abrasivo? 
+ 
+ 
+ 
+2. Quais  são  as  limitações  e  desafios  associados  ao  uso  de  um  abrasímetro  para 
+avaliar a resistência de rochas ao desgaste abrasivo em comparação com testes 
+realizados em ambientes naturais? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos, luvas e 
+máscara. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Feche as portas clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+2. PREPARANDO O ABRASÍMETRO 
+ 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Posicionar no abrasão”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova o corpo de prova 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar na posição inicial”. 
+ 
+ 
+ 
+Acople  o  corpo  de  prova  1  clicando  com  o  botão  direito  do  mouse  sobre  a  sapata  e 
+selecione a opção “Descer sapata”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Acople  o  corpo  de  prova  2  clicando  com  o  botão  direito  do  mouse  sobre  a  sapata  e 
+selecione a opção “Descer sapata”. 
+ 
+ 
+ 
+Despeje a areia no cone 1 clicando com o botão direito do mouse sobre a areia branca 
+e selecione a opção “Despejar no recipiente 1”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Despeje a areia no cone 2 clicando com o botão direito do mouse sobre a areia branca 
+e selecione a opção “Despejar no recipiente 2”. 
+ 
+ 
+ 
+Visualize o odômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Odômetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+3. LIGANDO O EQUIPAMENTO 
+ 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Ajuste a rotação do equipamento clicando com o botão esquerdo do mouse sobre os 
+botões indicados. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Acione o abrasímetro clicando com o botão esquerdo do mouse sobre o botão indicado 
+do painel. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+4. MANIPULANDO OS CORPOS DE PROVA 
+ 
+Desacople o corpo de prova 1 clicando com o botão direito do mouse sobre a sapata e 
+selecione a opção “Subir sapata”. 
+ 
+ 
+ 
+Desacople o corpo de prova 2 clicando com o botão direito do mouse sobre a sapata e 
+selecione a opção “Subir sapata”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Voltar para bancada”. 
+ 
+ 
+ 
+Visualize  o  equipamento  de  abrasão  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Equipamento de abrasão” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova o corpo de prova 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Voltar para bancada”. 
+ 
+ 
+ 
+Remova os resíduos clicando com o botão direito do mouse sobre a escova e selecione 
+a opção “Escovar prova 1”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Remova os resíduos clicando com o botão direito do mouse sobre a escova e selecione 
+a opção “Escovar prova 2”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+5. REALIZANDO AS MEDIÇÕES 
+ 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a chapa”. 
+ 
+ 
+ 
+Mova  o  espessímetro  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Mover para a prova”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Meça o corpo de prova 1 clicando com o botão direito do mouse sobre o espessímetro 
+e selecione a opção “Medir prova”. 
+ 
+ 
+ 
+Mova o espessímetro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Voltar para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova o corpo de prova 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Voltar para bancada”. 
+ 
+ 
+ 
+Mova o corpo de prova 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para chapa”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova  o  espessímetro clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a 
+opção “Mover para a prova”. 
+ 
+ 
+ 
+Meça o corpo de prova 2 clicando com o botão direito do mouse sobre o espessímetro 
+e selecione a opção “Medir prova”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Mova o espessímetro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Voltar para bancada”. 
+ 
+ 
+ 
+Mova o corpo de prova 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Voltar para bancada”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+Repita  os  procedimentos  anteriores a  partir  do  tópico  2 e,  ao  final,  realize  novas 
+medições nos dois corpos de prova. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GEOLOGIA 
+DESGASTE ABRASIVO DE ROCHAS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

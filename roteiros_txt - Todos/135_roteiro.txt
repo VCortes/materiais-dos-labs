@@ -1,0 +1,598 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você realizará ações para determinar a curva da bomba.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Tubulação de PVC 32 mm; 
+• Tubulação de PVC 25 mm; 
+• Tubulação de cobre 28 mm; 
+• Tubulação de acrílico 25 mm; 
+• Manômetro em U; 
+• Manovacuômetro; 
+• Rotâmetro; 
+• Válvulas; 
+• Bombas. 
+ 
+PROCEDIMENTOS 
+ 
+1. ENTENDENDO O FUNCIONAMENTO DA PRÁTICA  
+ 
+Para   dar   início   ao   laboratório   virtual   de   Perda   de   Carga   Distribuída,   é 
+recomendado que se explore os principais recursos disponíveis. 
+ 
+2. REALIZANDO O LEVANTAMENTO DA CURVA DA BOMBA CENTRÍFUGA 
+ 
+Posicione as válvulas na seguinte posição: válvulas A1 e B2 abertas e válvulas B1 
+e A2 fechadas. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+3. CONFIGURANDO O PAINEL DE CONTROLE 
+ 
+Mantenha o botão de emergência desativado, habilite a bomba 2. Em seguida, 
+configure  o  potenciômetro aumentando  a  vazão  até  o  valor  máximo. Por  fim, 
+ligue o sistema. 
+ 
+4. COLETANDO OS RESULTADOS 
+ 
+Realize a leitura do manovacuômetro e do manômetro da bomba 2. Em seguida, 
+colete os dados do rotâmetro. Anote os valores encontrados. Logo após, feche 
+um pouco a válvula C2 e repita o mesmo processo de coleta de dados fechando 
+um pouco mais a válvula C2 a cada nova aferição. 
+ 
+5. DESLIGANDO A BOMBA 
+ 
+Após finalizar a coleta de dados, desligue o equipamento. 
+ 
+6. ASSOCIANDO AS BOMBAS EM SÉRIE  
+ 
+Inicialmente, posicione as válvulas na seguinte posição: válvulas A1 e A2 abertas 
+e válvulas B1 e B2 fechadas. Em seguida, Habilite as 2 bombas, ligue o sistema e 
+aumente a vazão para o valor máximo.  
+Colete  os  dados  do  manovacuômetro e  do  manômetro  das  2  bombas. Colete 
+também os dados do rotâmetro.  
+Feche um pouco a válvula C2 e repita o mesmo procedimento de coleta de dados 
+mais algumas vezes sempre lembrando de diminuir a abertura da válvula C2 e 
+anotar os dados de todas as variáveis. 
+Por fim, desligue o equipamento. 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+7. ASSOCIANDO AS BOMBAS EM PARALELO 
+ 
+Inicialmente,  posicione  as  válvulas  na  seguinte  posição:  válvulas  A1, B1 e  B2 
+abertas e a válvula A2 fechada. Em seguida, Habilite as 2 bombas, ligue o sistema 
+e aumente a vazão para o valor máximo.  
+Colete  os  dados  do  manovacuômetro  e  do  manômetro  das  2  bombas.  Colete 
+também os dados do rotâmetro.  
+Feche um pouco a válvula C2 e repita o mesmo procedimento de coleta de dados 
+mais algumas vezes sempre lembrando de diminuir a abertura da válvula C2 e 
+anotar os dados de todas as variáveis. 
+Por fim, desligue o equipamento. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+  
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Plote num  software  ou em papel  milimetrado  os  pontos  coletados, traçando a 
+curva 퐻
+퐵
+ 푥 푄 (de  cada  bomba  individualmente  e  da  associação  no  mesmo 
+gráfico). No total, 3 curvas devem ser plotadas, exibindo o comportamento de 
+cada bomba e da associação em série. 
+Observando  as  3  curvas  plotadas,  quais  são  as  vantagens  e  desvantagens  da 
+associação em série de bombas centrífugas? 
+ 
+ 
+ 
+2. Plote num  software  ou em papel  milimetrado  os  pontos  coletados, traçando a 
+curva 퐻
+퐵
+ 푥 푄 (de  cada  bomba  individualmente  e  da  associação  no  mesmo 
+gráfico). No total, 3 curvas devem ser plotadas, exibindo o comportamento de 
+cada bomba e da associação em paralelo. 
+O que foi observado de diferente entre os sistemas com associação das bombas 
+em paralelo e em série? 
+ 
+ 
+ 
+3. Compare a curva das bombas em paralelo com a curva da bomba individual na 
+mesma altura de carga manométrica. O que se pôde observar na vazão de água 
+no sistema, para ambos os casos? 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ENTENDENDO O FUNCIONAMENTO DA PRÁTICA 
+ 
+Durante a realização do laboratório virtual, estarão disponíveis na tela algumas opções 
+de atalhos para auxiliar durante o experimento. 
+Inicialmente, explore o menu de visualização clicando com o botão esquerdo do mouse 
+sobre  cada  câmera,  a  visualização  será  alterada.  Note  que  atalhos  também  são 
+disponibilizados para facilitar a transição de uma câmera para outra.  
+ 
+ 
+ 
+No canto superior direito da tela está o botão da engrenagem que representa o menu 
+de  opções,  onde  a  prática  pode  ser  reiniciada. Já  o  botão  com  o  caderno  fornece  o 
+esquemático  da  bancada  didática,  onde  podem  ser  visualizados  todos  os  acessórios  a 
+serem ensaiados e dispositivos auxiliares. Clique com o botão esquerdo do mouse sobre 
+cada opção para visualizar. 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Para facilitar na realização dos experimentos, janelas de pop-up podem ser acessadas 
+no  rotâmetro  (medidor  de  vazão)  e  no  manômetro  em  U  (medidor  diferencial  de 
+pressão).   Para   acessá-las,   basta   clicar   com   o   botão   direito   do   mouse   sobre   os 
+dispositivos e as janelas serão abertas. 
+ 
+ 
+ 
+As  janelas  de  pop-up  também  estão  disponíveis para  o manovacuômetro  e  para  o 
+manômetro.  
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+ 
+ 
+Mude a câmera para “Bombas”, “Alt+4”. Em seguida, configure o posicionamento das 
+válvulas clicando com o botão esquerdo do mouse sobre a manopla (parte laranja).  
+ 
+ 
+ 
+Posicione as válvulas de acordo com o que segue:  
+• Válvulas abertas: A1 e B2;  
+• Válvulas Fechadas: B1 e A2. 
+ 
+ 
+ 
+2. REALIZANDO O LEVANTAMENTO DA CURVA 
+DA BOMBA CENTRÍFUGA 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+3. CONFIGURANDO O PAINEL DE CONTROLE 
+ 
+Mude a visualização para o painel elétrico, “Alt+3”. 
+Inicialmente, observe se o botão de emergência está desativado. Nesta condição, a luz 
+verde “Painel Energizado” permanece acionada.  
+ 
+ 
+ 
+Habilite a bomba 2 clicando com o botão esquerdo do mouse sobre a chave seletora da 
+bomba 2. Note que a luz vermelha referente a “Bomba 2 operando”, acenderá.  
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Habilite a  janela  de pop-up do  potenciômetro  clicando  nele  com  o  botão  direito  do 
+mouse. 
+ 
+ 
+ 
+Posicione o potenciômetro na posição indicada clicando na barra com o botão esquerdo 
+do e arraste para um dos lados. 
+ 
+ 
+ 
+Após realizar a configuração, feche a janela.  
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Ligue a bomba clicando com o botão esquerdo do mouse no botão “LIGA”. Note que a 
+luz verde do inversor será ativada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+4. COLETANDO OS RESULTADOS 
+ 
+Mude a visualização para as bombas, “Alt+4”. 
+Ative a janela de pop-up do manovacuômetro clicando com o botão direito do mouse 
+sobre ele. Faça a leitura do valor e anote.  
+ 
+ 
+ 
+Ative a janela de pop-up do manômetro clicando com o botão direito do mouse sobre 
+ele. Faça a leitura do valor e anote.  
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Mude a visualização para a Frontal livre, “Alt+2”. 
+Ative a janela de pop-up do rotâmetro clicando com o botão direito do mouse sobre ele. 
+Faça a leitura do valor e anote.  
+ 
+ 
+ 
+Feche um pouco a válvula C2 clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Repita    os    procedimentos    realizados    neste    passo para    realizar    a    leitura    do 
+manovacuômetro,  manômetro  e  rotâmetro. Anote  o  resultado,  feche  a  válvula  mais 
+algumas vezes, repita a leitura e anote os dados.  
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+5. DESLIGANDO A BOMBA 
+ 
+Mude a visualização para o painel de controle, “Alt+3” 
+Desligue a bomba clicando com o botão esquerdo do mouse sobre o botão desliga. Note 
+que a luz verde do inversor será apagada. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+6. ASSOCIANDO AS BOMBAS EM SÉRIE 
+ 
+Mude a câmera para “Bombas”, “Alt+4”. Em seguida, configure o posicionamento das 
+válvulas clicando com o botão esquerdo do mouse sobre a manopla (parte laranja).  
+ 
+ 
+ 
+Posicione as válvulas de acordo com o que segue:  
+• Válvulas abertas: A1 e A2;  
+• Válvulas Fechadas: B1 e B2. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Mude a visualização para o painel de controle, “Alt+3”. 
+Habilite as bombas 1 e 2 clicando nas chaves seletoras das bombas 1 e 2. Note que as 
+luzes vermelhas referentes a “Bomba 1 operando” e “Bomba 2 operando, acenderam.  
+ 
+  
+ 
+As demais configurações são análogas as realizadas no passo 3 deste roteiro. Em caso 
+de dúvida, retorne para o passo 3.  
+Agora, realize a coleta de dados no manovacuômetro, no manômetro e no rotâmetro. 
+O  procedimento  é  igual  ao  realizado  no  passo  4  deste  roteiro.  Em  caso  de  dúvidas, 
+retorne para o passo 4.  
+Lembre-se de desligar o sistema seguindo o passo 5 deste roteiro. 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+ 
+7. ASSOCIANDO AS BOMBAS EM PARALELO 
+ 
+Mude a câmera para “Bombas”, “Alt+4”. Em seguida, configure o posicionamento das 
+válvulas clicando com o botão esquerdo do mouse sobre a manopla (parte laranja).  
+ 
+ 
+ 
+Posicione as válvulas de acordo com o que segue:  
+• Válvulas abertas: A1, B1 e B2;  
+• Válvula Fechada: A2. 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+ASSOCIAÇÃO DE BOMBAS 
+Mude a visualização para o painel de controle, “Alt+3”. 
+Ligue o sistema clicando com o botão esquerdo do mouse no botão “LIGA” com as 
+bombas 1 e 2 habilitadas. 
+ 
+ 
+ 
+As demais configurações são análogas as realizadas no passo 3 deste roteiro. Em caso 
+de dúvida, retorne para o passo 3.  
+Agora, realize a coleta de dados no manovacuômetro, no manômetro e no rotâmetro. 
+O  procedimento  é  igual  ao  realizado  no  passo  4  deste  roteiro.  Em  caso  de  dúvidas, 
+retorne para o passo 4.  
+Lembre-se de desligar o sistema seguindo o passo 5 deste roteiro. 
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 

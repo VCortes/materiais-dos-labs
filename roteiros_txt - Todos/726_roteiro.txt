@@ -1,0 +1,640 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, será feito o processo de calibração e testes de um detector 
+de gases e, em seguida, será feita uma coleta de dados com este equipamento 
+para que seja feita uma análise das atividades de um operador. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Carregador; 
+• Cilindro de calibração; 
+• Cilindro de teste; 
+• Mangueira com adaptador; 
+• Regulador de vazão; 
+• Tripé detector de gases. 
+ 
+PROCEDIMENTOS 
+ 
+1. CARREGANDO O DETECTOR DE GASES 
+ 
+Ligue  o  detector  de  gases  e  verifique  se  o equipamento  está  carregado,  caso  seja 
+exibida um aviso de bateria baixa, carregue o equipamento. 
+ 
+2. CALIBRANDO O DETECTOR DE GASES 
+ 
+Ligue o detector de gases. Posicione o cilindro de calibração, conecte o regulador de 
+vazão  ao  cilindro  de  calibração  e  conecte  a  mangueira  ao  regulador  de  vazão. 
+Configure o detector para realizar a calibração.  Encaixe o adaptador da mangueira no 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+detector de gases e abra o regulador de vazão do cilindro. Feche o regulador de vazão 
+do  cilindro.  Remova  o  adaptador  da  mangueira  do  detector  de  gases.  Remova  a 
+mangueira  do  regulador  de  vazão.  Desconecte  o  regulador  de  vazão  do  cilindro  de 
+calibração. Retorne o cilindro de calibração para a bancada. 
+ 
+3. TESTANDO O DETECTOR DE GASES 
+ 
+Posicione  o  cilindro  de  teste.  Conecte  o  regulador  de vazão  ao  cilindro  de  teste. 
+Conecte a  mangueira  ao  regulador de  vazão.  Encaixe  o  adaptador  da  mangueira  no 
+detector de gases. Abra o regulador de vazão do cilindro. Feche o regulador de vazão 
+do  cilindro.  Remova  o  adaptador  da  mangueira  do  detector  de  gases.  Remova  a 
+mangueira  do  regulador  de  vazão.  Desconecte  o  regulador  de  vazão  do  cilindro  de 
+calibração. Retorne o cilindro de teste para a bancada. 
+ 
+4. UTILIZANDO O EQUIPAMENTO EM AMBIENTE CONFINADO 
+ 
+Verifique o ciclo de trabalho do operador na prancheta para entender alguns detalhes 
+dos espaços confinados. Conecte o detector de gases ao operário que vai entrar no 
+ambiente  confinado.  Instruir  ao  operador  iniciar  o  ciclo  de  trabalho  e  monitore  os 
+valores exibidos pelo equipamento ao longo das medições realizadas nos espaços 1 e 
+2 obtendo os valores pertinentes a cada 30 minutos. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1.  Realize  3  m3dições  com  variação  de  1  hora  cada.  Em  seguida,  calcule  a 
+concentração média de cada momento. 
+ 
+ 
+ 
+2. Uma vez calculada a concentração média, faça o cálculo da dose que o operador 
+está  sendo  exposto  no  ciclo  de  trabalho  analisado.  Verifique  se  existe  uma 
+exposição  a  esses  componentes  acima  dos  Limites  de  Exposição  permissíveis 
+(LEs), considerando-se a contribuição de cada um deles. 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CARREGANDO O DETECTOR DE GASES 
+ 
+Verifique  se  o  detector  de  gases  está  carregado  clicando  com  o  botão esquerdo  do 
+mouse sobre o menu de visualização na câmera do “Detector de Gases”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Clique com o botão direito do mouse sobre o botão vermelho do detector de gases e 
+selecionar a opção “Ligar detector de gases”, com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Aparecendo a mensagem “ESGOTDA” na tela o detector deve ser recarregado. 
+Volte  para  a  câmera  “Sala  de  preparação”  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a opção “Sala de preparação” no menu de visualização. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Carregue  o  detector  de  gases  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+carregador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+2. CALIBRANDO O DETECTOR DE GASES 
+ 
+Ligue  o  detector  de  gases  com  o  botão  direito  do  mouse  sobre  o  botão  vermelho  do 
+detector de gases e selecionar a opção “Ligar detector de gases” como o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Posicione o cilindro de calibração para a calibração do detector de gases mudando para 
+câmera da “Sala de preparação”, e logo após, clique com o botão direito do mouse sobre 
+o cilindro e escolhendo a opção “Posicionar para calibração” com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Conecte  o  regulador  de  vazão  ao  cilindro  de  calibração  clicando  com  o  botão  direito 
+sobre  ele  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Posicionar  no 
+cilindro”. 
+ 
+ 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Conecte a mangueira com adaptador ao regulador de vazão clicando como botão direito 
+do  mouse  sobre  ele  e  escolhendo  a  opção  “Conectar  ao  regulador”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Mude a câmera para “Detector de gases” e inicie a calibração clicando  como  o  botão 
+direito do mouse sobre o botão vermelho do detector e escolhendo a opção “Calibrar 
+equipamento” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Conecte a mangueira com adaptador ao detector de gases clicando como botão direito 
+do mouse sobre ele e escolhendo a opção “Conectar ao detector” com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+Abra  o  regulador  de  vazão  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+escolhendo a opção “Abrir regulador”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Após a calibração, feche o regulador de pressão clicando com o botão direito sobre ele 
+e selecionando a opção “Fechar regulador” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Desconecte  a  mangueira  com  adaptador  ao  detector  de  gases  clicando  como  botão 
+direito do mouse sobre ele e escolhendo a opção “Remover do detector” com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Desconecte  a  mangueira  com  adaptador  ao  regulador  de  vazão  clicando  como  botão 
+direito do mouse sobre ele e escolhendo a opção “Remover do regulador” com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Desconecte o regulador de vazão ao cilindro de calibração clicando com o botão direito 
+sobre  ele  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Remover  do 
+cilindro”. 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Retorne o cilindro de calibração para a bancada clicando com o botão direito do mouse 
+do  mouse  sobre  ele  e  selecionando  a  opção  “Retornar  posição  inicial”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+3. TESTANDO O DETECTOR DE GASES 
+ 
+Posicione o cilindro de teste para o teste do detector de gases mudando para câmera 
+da  “Sala  de  preparação”,  e  logo  após  clique  com  o  botão  direito  do  mouse  sobre  o 
+cilindro e escolhendo a opção “Posicionar para teste” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Conecte o regulador de vazão ao cilindro de teste clicando com o botão direito sobre ele 
+e selecionando com o botão esquerdo do mouse a opção “Posicionar no cilindro”. 
+ 
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Conecte a mangueira com adaptador ao regulador de vazão clicando como botão direito 
+do  mouse  sobre  ele  e  escolhendo  a  opção  “Conectar  ao  regulador”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Conecte a mangueira com adaptador ao detector de gases clicando como botão direito 
+do mouse sobre ele e escolhendo a opção “Conectar ao detector” com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Abra  o  regulador  de  vazão  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+escolhendo a opção “Abrir regulador”. 
+ 
+ 
+ 
+Note que um alarme é acionado quando se excede os valores aceitáveis. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Após  o  teste,  feche  o  regulador  de  pressão  clicando  com  o  botão  direito  sobre  ele  e 
+selecionando a opção “Fechar regulador” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Desconecte  a  mangueira  com  adaptador  ao  detector  de  gases  clicando  como  botão 
+direito do mouse sobre ele e escolhendo a opção “Remover do detector” com o botão 
+esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Desconecte  a  mangueira  com  adaptador  ao  regulador  de  vazão  clicando  como  botão 
+direito do mouse sobre ele e escolhendo a opção “Remover do regulador” com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Desconecte o regulador de vazão ao cilindro de teste clicando com o botão direito sobre 
+ele e selecionando com o botão esquerdo do mouse a opção “Remover do cilindro”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Retorne o cilindro de teste para a bancada clicando com o botão direito do mouse do 
+mouse  sobre  ele  e  selecionando  a  opção  “Retornar  posição  inicial”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+4. UTILIZANDO O EQUIPAMENTO EM AMBIENTE 
+CONFINADO 
+ 
+Verifique o ciclo de trabalho do operador na prancheta clicando com o botão esquerdo 
+do mouse na opção “Prancheta” do menu de visualização. 
+ 
+ 
+ 
+Retorne  a  câmera  “Sala  de  preparação”  e  conecte  o  detector  de  gases  ao  operador 
+clicando com o botão direito do mouse sobre o detector de gases. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Instrua o operador a iniciar o ciclo de trabalho clicando com o botão esquerdo do mouse 
+sobre o botão “Iniciar ciclo de trabalho”. 
+ 
+ 
+ 
+Mude  para  a  câmera  “Detector  de  gases”  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela no menu de visualização e anote os valores no espaço 1 e 2. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+Avance 30 minutos clicando com o botão esquerdo do mouse sobre o botão “Avançar 
+30 minutos” e anote os valores no mesmo espaço dito no espaço anterior. 
+ 
+ 
+ 
+Repita esse processo até terminar o turno do operador nesse espaço. 
+Ao final desse processo o operador irá se deslocar para outro espaço e se deve repetir 
+os passos anteriores de avançar os 30 minutos e anotar os valores no espaço 1 e 2. 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE SEGURANÇA DO TRABALHO 
+DETECTORES DE GASES 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

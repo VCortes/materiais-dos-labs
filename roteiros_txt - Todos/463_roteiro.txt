@@ -1,0 +1,578 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você   irá conhecer   os   processos   de   preparo de   talco 
+desodorante e antisséptico para os pés. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador de peneiras; 
+• Amido; 
+• Balança; 
+• Cânfora; 
+• Espátula; 
+• Funil; 
+• Gral; 
+• Mentol; 
+• Óxido de zinco; 
+• Pistilo; 
+• Recipiente de armazenamento; 
+• Talco neutro; 
+• Tamises; 
+• Vidro de relógio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas, máscara e touca descartável. 
+ 
+2. PESANDO OS INSUMOS 
+ 
+Ligue  a  balança. Mova  o  béquer para  balança  e  tare  o  peso.  Pese 2,5 g  de  cânfora, com  o 
+auxílio da espátula. Transfira o conteúdo do béquer para o gral. Limpe a espátula e o béquer. 
+Mova o béquer para balança e pese 0,5 g de mentol. Utilizando o pistilo, triture o conteúdo 
+do  gral  por  5  minutos.  Repita  os  procedimentos  anteriores,  pese  3 g  de  óxido  de  zinco, 
+transfira para o gral e triture. Limpe a espátula e o béquer. Pese 3 g de amido, transfira para 
+o gral e homogeneíze. Limpe a espátula e o béquer. Pese 50 g de talco, transfira para o gral e 
+homogeneíze. 
+ 
+3. PENEIRANDO O TALCO 
+ 
+Transfira o conteúdo do gral para as tamises. Mova as tamises para o agitador de peneiras e 
+trave o equipamento. Ligue o agitador e aguarde o processo finalizar. Destrave o equipamento 
+e retorne as tamises para a bancada. Desmonte as peneiras. Mova o funil para o recipiente de 
+armazenamento. Transfira o conteúdo peneirado para o recipiente e tampe. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+  
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Durante  a  realização  do  talco  pode-se  observar  incompatibilidade  de  misturas 
+de pós conhecida como mistura eutética. Comente sobre a mistura eutética na 
+preparação do talco. 
+ 
+ 
+ 
+2. Comente sobre aplicações do talco e como deve ser realizada sua armazenagem. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento, máscara descartável e touca descartável. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+2. PESANDO OS INSUMOS 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Mova  o béquer clicando  com  o  botão direito  do  mouse  sobre  o béquer e  selecione  a 
+opção “Mover para a balança”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Tare o peso clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra  a  tampa  do  frasco clicando  com  o  botão  esquerdo  do  mouse  sobre a  tampa 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Mova  a  cânfora  clicando  com  o  botão  direito  do  mouse  sobre  o  frasco  indicado  e 
+selecione a opção “Mover para a balança”. 
+ 
+ 
+ 
+Pese 2,5 g de cânfora clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Mova  a  cânfora  clicando  com  o  botão  direito  do  mouse  sobre  o  frasco  indicado  e 
+selecione a opção “Mover para a bancada”. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Transfira o conteúdo clicando com o botão direito do mouse sobre o béquer e selecione 
+a opção “Transferir para o gral”. 
+ 
+ 
+ 
+Limpe  o béquer clicando  com  o botão direito  do mouse  sobre o béquer e  selecione  a 
+opção “Limpar conteúdo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Limpe a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Limpar espátula”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, pese 0,5 g de mentol e realize a limpeza da espátula 
+e do béquer. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Triture  as  duas  substâncias clicando  com  o  botão direito  do  mouse  sobre  o  pistilo  e 
+selecione a opção “Triturar conteúdo do gral”. 
+ 
+ 
+ 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Repita os procedimentos anteriores, limpe a espátula e o béquer. Pese 3 g de óxido de 
+zinco, transfira para o  gral  e  triture. Limpe  a  espátula e  o béquer. Pese 3  g  de  amido, 
+transfira  para  o  gral  e  homogeneíze utilizando  o  pistilo. Limpe  a  espátula  e  o béquer. 
+Pese 50 g de talco, transfira para o gral e homogeneíze. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+3. PENEIRANDO O TALCO 
+ 
+Transfira o conteúdo clicando com o botão esquerdo do mouse sobre o gral.  
+ 
+ 
+ 
+Mova as tamises clicando com o botão direito do mouse sobre as tamises e selecione a 
+opção “Mover para o agitador”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Trave o equipamento clicando com o botão direito do mouse sobre o agitador. 
+ 
+ 
+ 
+Ligue o agitador clicando com o botão esquerdo do mouse sobre o agitador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Destrave o equipamento clicando com o botão direito do mouse sobre o agitador. 
+ 
+ 
+ 
+Mova as tamises clicando com o botão direito do mouse sobre as tamises e selecione a 
+opção “Mover para a bancada”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Desmonte  as  peneiras clicando  com  o  botão direito  do mouse  sobre  as  tamises  e 
+selecione a opção “Desmontar peneiras”. 
+ 
+ 
+ 
+Visualize o funil clicando com o botão esquerdo do mouse na câmera com o nome “Gral” 
+ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para o pote”. 
+ 
+ 
+ 
+Transfira o conteúdo peneirado clicando com o botão direito do mouse sobre as tamises 
+e selecione a opção “Transferir para o pote”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+Mova o funil clicando com o botão direito do mouse sobre o funil e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Tampe o recipiente clicando com o botão esquerdo do mouse sobre o pote. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA 
+TALCO DESODORANTE E ANTISSÉPTICO PARA OS PÉS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

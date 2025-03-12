@@ -1,0 +1,539 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender a realizar o teste de BhCG quantitativo e 
+qualitativo que  tem  como  objetivo  investigar  a  presença  e  quantificação  do 
+antígeno beta gonadotrofina coriônica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Equipamento - WF 500; 
+• Kit teste-rápido BhCG (diluente e placa teste); 
+• Micropipeta de 100 μL; 
+• Papel toalha; 
+• Ponteira para micropipeta; 
+• Recipiente de descarte de ponteira; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Tira-teste; 
+• Tubo de coleta com amostra de sangue total. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”.  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+ 
+2. REALIZANDO ANÁLISE QUALITATIVA 
+ 
+Retire a tira teste da embalagem. Abra a tampa do tubo com a amostra. Mova a tira 
+teste  para  a  amostra. Retire  a  tira  da  amostra  e  posicione  na  bancada,  em  cima  de 
+uma folha de papel toalha e aguarde 5 minutos. Faça a leitura do resultado. 
+ 
+3. PREPARANDO A AMOSTRA PARA ANÁLISE QUANTITATIVA 
+ 
+Retire a placa teste da embalagem e deixe na bancada. Abra o tubo Eppendorf (tubo 
+diluente). Mova a pipeta para amostra com soro. Pipete 100 μL da amostra e adicione 
+no  tubo  diluente. Descarte  a  ponteira. Feche  o tubo  diluente. Homogeneíze  o  tubo 
+com  o diluente  e  amostra. Mova a pipeta  para  o  tubo  diluente. Pipete  100  μL  da 
+amostra diluída e adicione no espaço (S) na placa teste. Descarte a ponteira. 
+ 
+4. REALIZANDO A ANÁLISE QUANTITATIVA 
+ 
+Configure o aparelho, selecionando o teste e a amostra que será analisada no painel. 
+Insira a placa teste no encaixe do equipamento e clique no ícone “iniciar”. Aguarde 10 
+minutos até o equipamento fazer a leitura. Visualize o resultado do teste. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual é a diferença entre o teste BHCG quantitativo e BHCG qualitativo? 
+ 
+ 
+ 
+2. Explique o princípio imunológico no qual o teste BHCG quantitativo e qualitativo se 
+baseia. 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+  
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira na pia. 
+ 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do  mouse  sobre  eles.  Nesse  experimento,  é  obrigatório  o  uso  de  jaleco  e  luvas 
+descartáveis. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Mova  a  tira  teste  para  a  amostra clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+2. REALIZANDO A ANÁLISE QUANTITATIVA  
+ 
+Retire a tira teste da embalagem clicando com o botão esquerdo do mouse sobre o teste 
+na bancada. 
+ 
+  
+ 
+Abra a tampa do tubo com a amostra clicando com o botão esquerdo do mouse. 
+ 
+  
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Mova a tira teste para o tubo com a amostra clicando com o botão direito do mouse e 
+selecione a opção “Mover para a amostra”. 
+ 
+ 
+ 
+Insira a tira teste por 5 minutos para o tubo com a amostra clicando com o botão direito 
+do mouse e selecione a opção “Inserir na amostra”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Aguarde  5  minutos e  posicione a  tira na  bancada clicando  com  o  botão  esquerdo  do 
+mouse, em cima de uma folha de papel toalha e aguarde 5 minutos. 
+ 
+  
+ 
+Faça a leitura do resultado clicando como botão esquerdo do mouse no ícone verde do 
+lado direito da tela. 
+ 
+  
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Preencha o laudo clicando com o botão esquerdo do mouse no resultado interpretado. 
+Caso houver resultado inválido, repita todo o procedimento. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+3. PREPARANDO A AMOSTRA PARA ANÁLISE 
+QUANTITATIVA 
+ 
+Retire a placa teste da embalagem e deixe na bancada clicando com o botão esquerdo 
+do mouse no kit. 
+ 
+ 
+ 
+Abra o tubo diluente clicando com o botão esquerdo do mouse. 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Abra a tampa do tubo com a amostra clicando com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Mova  a  pipeta  para  amostra  com  soro clicando  com  o  botão  direito  do  mouse  e 
+selecione a opção “Mover para amostra”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Pipete 100 μL da amostra e adicione no tubo diluente clicando com o botão direito do 
+mouse e selecione a opção “Mover para amostra”. 
+ 
+  
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  e selecione  a  opção 
+“Descartar ponteira”. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Feche o tubo diluente clicando com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Homogeneíze o tubo com o diluente e amostra clicando com o botão direito do mouse.  
+ 
+  
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Mova a pipeta para o tubo diluente clicando com o botão direito do mouse e selecione 
+a opção “Mover para diluente”. 
+ 
+  
+ 
+Pipete 100 μL da amostra diluída e adicione no espaço (S) na placa teste clicando com o 
+botão direito do mouse na pipeta e selecione a opção “Mover para placa”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+4. REALIZANDO A ANÁLISE QUANTITATIVA 
+ 
+Insira  a  placa  no  equipamento  de  quantificação clicando  com  o  botão  esquerdo  do 
+mouse sobre o teste na bancada. 
+ 
+  
+ 
+Inicie o equipamento clicando com o botão esquerdo do mouse no botão “Iniciar”. 
+ 
+ 
+   
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+Preencha o resultado clicando como botão esquerdo do mouse no ícone verde do lado 
+direito da tela. 
+ 
+  
+ 
+Preencha o valor obtido e o resultado clicando com o botão direito do mouse em cada 
+campo da ficha do laudo. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE IMUNOLOGIA CLÍNICA 
+BHCG - QUANTI E QUALITATIVO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 
+ 

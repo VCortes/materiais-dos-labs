@@ -1,0 +1,1597 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento   você   irá compreender o   teste ELISA (Enzyme Linked 
+ImmunonoSorbent Assay), reações  antígeno-anticorpo  detectáveis  através  de 
+reações enzimáticas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Adhesive PCR film; 
+• Bancada com pia; 
+• Béquer de 500 mL com hipoclorito de sódio; 
+• Conjugado; 
+• Controle negativo; 
+• Controle positivo; 
+• Cuba para reagente; 
+• Espectrofotômetro para leitura de policubeta; 
+• Estufa bacteriológica; 
+• Lavadora de microplaca; 
+• Micropipeta de 50 μL; 
+• Micropipeta multicanal de 1000 μL; 
+• Microplaca de 96 poços; 
+• Papel toalha; 
+• Ponteira para micropipeta de 50 μL; 
+• Ponteira para micropipeta multicanal de 1000 μL; 
+• Revelador; 
+• Stopper; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Tampão de lavagem; 
+• Tubo de coleta com amostra de soro. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos. Coloque o equipamento de proteção individual localizado no “Armário de 
+EPIs”. Para esse experimento será necessário a utilização do jaleco, luvas, óculos e máscara. 
+ 
+2. PREPARANDO MICROPLACA 
+ 
+Selecione a micropipeta de 50 μL, mova a micropipeta para o recipiente com controle positivo, 
+aspire  50 μL do  reagente  e  transfira  para  o  primeiro  poço  (posição  A1).  Troque  a  ponteira. 
+Selecione  a  micropipeta  de  50 μL,  mova  a  micropipeta  para  o  recipiente  com  controle 
+negativo,  aspire  50 μL do  reagente  e  transfira  para  o  segundo  poço  (posição  A2).  Troque  a 
+ponteira. Mova a micropipeta para a amostra com soro, aspire 50 μL do soro, transfira o soro 
+para o terceiro poço (posição A3). Troque a ponteira. 
+ 
+3. INCUBANDO A AMOSTRA 
+ 
+Cubra a placa com o adhesive film. Abra a estufa, coloque a placa na estufa. Incube a placa na 
+estufa por 30 minutos. Transcorrido o tempo, direcione a placa para a bancada e descarte o 
+adesivo. Selecione a micropipeta multicanal, regule o volume para 50 μL, mova para a placa 
+de 96 poços e aspire as soluções dos poços A1, A2 e A3. 
+ 
+4. LAVANDO A AMOSTRA COM O TAMPÃO DE LAVAGEM 
+ 
+Coloque o tampão de lavagem na cuba para reagente. Regule a micropipeta multicanal para o 
+volume de 350 μL e aspire o tampão de lavagem. Transfira o reagente para microplaca. Troque 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+  
+a  ponteira.  Aguarde  60  segundos  e  descarte  o  excesso  de  líquido  na  pia.  Coloque  o  papel 
+toalha sobre a microplaca e bata a 3x na bancada. Retire o papel toalha da placa. 
+ 
+5. REPETINDO A LAVAGEM 
+ 
+Selecione a micropipeta multicanal e aspire o tampão de lavagem. Transfira o reagente para 
+microplaca. Troque a ponteira. Aguarde 60 segundos e descarte o excesso de líquido na pia. 
+Coloque o papel toalha sobre a microplaca e bata a 3x na bancada. Retire o papel toalha da 
+placa. Repita esse processo por 4 vezes. 
+ 
+6. INCUBANDO A AMOSTRA COM O CONJUGADO 
+ 
+Coloque o conjugado na cuba para reagente. Regule a micropipeta multicanal para o volume 
+de  100 μL e  aspire  o  conjugado.  Transfira  o  reagente  para microplaca.  Troque  a  ponteira. 
+Cubra a placa com o adhesive film. Abra a estufa, coloque a placa na estufa. Incube a placa na 
+estufa por 30 minutos. Transcorrido o tempo, direcione a placa para a bancada e descarte o 
+adesivo.  Selecione  a  micropipeta,  regule  o  volume  para  100 μL,  mova  a  micropipeta  para  a 
+placa e aspire a amostra de soro e os controles. Troque a ponteira. 
+ 
+7. REPETINDO A LAVAGEM 
+ 
+Selecione  a  micropipeta  multicanal,  regule  o  volume  para  350 μL e  aspire  o  tampão  de 
+lavagem.  Transfira  o  reagente  para  microplaca.  Troque  a  ponteira.  Aguarde  60  segundos  e 
+descarte o excesso de líquido na pia. Coloque o papel toalha sobre a microplaca e bata a 3x na 
+bancada. Retire o papel toalha da placa. Repita esse processo por 3 vezes. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+  
+8. COLOCANDO O REVELADOR 
+ 
+Coloque o revelador na cuba para reagente. Regule a micropipeta multicanal para o volume 
+de  100 μL e  aspire  o  revelador.  Transfira  o  reagente para  microplaca.  Troque  a  ponteira.  A 
+placa será movida para o ambiente escuro automaticamente por 30 minutos. 
+ 
+9. COLOCANDO O STOPPER 
+ 
+Coloque o stopper na cuba para reagente. Regule a micropipeta multicanal para o volume de 
+100 μL e aspire o stopper. Transfira o reagente para microplaca. Troque a ponteira. 
+ 
+10. FINALIZANDO O PROCEDIMENTO 
+ 
+Mova a microplaca para o espectrofotômetro. Ligue o notebook e realize a leitura da amostra. 
+Observe o resultado. Valor referência: controle positivo: >0,268, controle negativo: ≦ 0,268. 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09  deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também, com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Conceitue o ensaio imunoenzimático. 
+ 
+ 
+ 
+2. Cite exames que podem ser realizados pelo método de ELISA. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Higienize as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, óculos de 
+proteção e máscara. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+2. PREPARANDO A MICROPLACA 
+ 
+Selecione a micropipeta de 50 μL clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Colocar em controle positivo”. 
+ 
+ 
+ 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em poço A1”. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Selecione a micropipeta de 50 μL clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Colocar em controle negativo”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em poço A2”. 
+ 
+ 
+ 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Coloque a tampa dos reagentes clicando com o botão esquerdo do mouse no reagente. 
+ 
+ 
+ 
+Selecione a micropipeta de 50 μL clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Colocar em amostra de soro”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em poço A3”. 
+ 
+ 
+ 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Coloque  a  tampa  do  tubo  com  amostra  de  soro  clicando  com  o  botão  esquerdo do 
+mouse no tubo. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+3. INCUBANDO A AMOSTRA 
+ 
+Cubra a placa com o filme adesivo clicando com o botão esquerdo do mouse no 
+“Adhesive film”.  
+ 
+ 
+ 
+Visualize  a  estufa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a placa de 96 poços para a estufa clicando com o botão esquerdo do mouse na 
+placa. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse na porta. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Aguarde a placa incubando por 30 minutos ou avance clicando com o botão esquerdo 
+do mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+ 
+Retire a placa de 96 poços da estufa clicando com o botão esquerdo do mouse na placa. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Retire o adesivo da placa de 96 poços clicando com o botão direito do mouse no adesivo 
+e selecione a opção “Retirar adesivo”. 
+ 
+ 
+ 
+Selecione a micropipeta multicanal para a ajustar o volume clicando com o botão direito 
+do mouse na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Configure o volume para 50 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Aspire a amostra clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Colocar em placa de 96 poços”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+4. LAVANDO A AMOSTRA COM O TAMPÃO DE LAVAGEM 
+ 
+Visualize as soluções de lavagem clicando com o botão esquerdo do mouse na câmera 
+com o nome “Cubas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o recipiente do tampão de lavagem clicando com o botão esquerdo do mouse no 
+recipiente de tampão de lavagem. 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Preencha a cuba com o tampão de lavagem clicando com o botão direito de mouse no 
+recipiente de tampão de lavagem. 
+ 
+ 
+ 
+Feche o recipiente do tampão de lavagem clicando com o botão esquerdo do mouse no 
+recipiente de tampão de lavagem. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Selecione a micropipeta multicanal para a ajustar clicando com o botão direito do mouse 
+na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 350 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova  a  micropipeta e  aspire  o  tampão  de  lavagem clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecione a opção “Colocar em tampão de lavagem”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em placa de 96 poços”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Aguarde por 60  segundos ou  avance clicando  com  o  botão  esquerdo  do  mouse em 
+“Avançar”.  
+ 
+ 
+ 
+Mova a microplaca para a pia clicando com o botão direito do mouse na microplaca e 
+selecione a opção “Verter na pia”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Coloque  o  papel  toalha  na  placa  clicando  com  o  botão  esquerdo  do  mouse no  papel 
+toalha. 
+ 
+ 
+ 
+Bata a placa na bancada clicando com o botão direito do mouse na placa e selecione a 
+opção “Bater 3x na bancada”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Retire  o  papel  toalha  da  placa  clicando  com  o  botão  direito  do  mouse na  placa e 
+selecione a opção “Retirar papel”. 
+ 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+5. REPETINDO A LAVAGEM 
+ 
+Mova  a  micropipeta  e  aspire  o  tampão  de  lavagem  clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecione a opção “Colocar em tampão de lavagem”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em placa de 96 poços”. 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Aguarde por 60  segundos ou  avance clicando  com  o  botão  esquerdo  do  mouse em 
+“Avançar”.  
+ 
+ 
+ 
+Mova a microplaca para a pia clicando com o botão direito do mouse na microplaca e 
+selecione a opção “Verter na pia” 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Coloque  o  papel  toalha  na  placa  clicando  com  o  botão  esquerdo  do  mouse no  papel 
+toalha. 
+ 
+ 
+ 
+Bata a placa na bancada clicando com o botão direito do mouse na placa e selecione a 
+opção “Bater 3x na bancada”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Retire  o  papel  toalha  da  placa  clicando  com  o  botão  direito  do  mouse na  placa e 
+selecione a opção “Retirar papel”. 
+ 
+ 
+ 
+Repita o processo descrito anteriormente por mais 3 vezes. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+6. INCUBANDO A AMOSTRA COM O CONJUGADO 
+ 
+Visualize as soluções de lavagem clicando com o botão esquerdo do mouse na câmera 
+com o nome “Cubas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o recipiente do conjugado clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Preencha a cuba com o conjugado clicando com o botão direito de mouse no recipiente 
+do conjugado. 
+ 
+ 
+ 
+Feche o recipiente do conjugado clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Ajuste o volume da micropipeta multicanal para a cuba clicando com o botão direito do 
+mouse na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 100 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova  a  micropipeta  e  as  pire o  conjugado  clicando  com  o botão direito  do  mouse na 
+micropipeta e selecione a opção “Colocar em conjugado”. 
+ 
+ 
+ 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em placa de 96 poços”. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Cubra  a  placa  com  o  filme  adesivo  clicando  com  o  botão  esquerdo  do  mouse no 
+“Adhesive film”.  
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Visualize  a  estufa clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Estufa” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova a placa de 96 poços para a estufa clicando com o botão esquerdo do mouse na 
+placa. 
+ 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Feche a estufa clicando com o botão esquerdo do mouse na porta. 
+ 
+ 
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Aguarde a placa incubar por 30 minutos ou avance clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse na porta da estufa. 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Retire a placa de 96 poços da estufa clicando com o botão esquerdo do mouse na placa. 
+ 
+ 
+ 
+Retire o adesivo da placa de 96 poços clicando com o botão direito do mouse no adesivo 
+e selecione a opção “Retirar adesivo”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+7. REPETINDO A LAVAGEM 
+ 
+Selecione a micropipeta multicanal para a ajustar o volume clicando com o botão direito 
+do mouse na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 100 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Aspire a amostra clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Colocar em placa de 96 poços”. 
+ 
+ 
+ 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Selecione a micropipeta multicanal para a ajustar clicando com o botão direito do mouse 
+na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 350 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova  a  micropipeta  e  aspire  o  tampão  de  lavagem  clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecione a opção “Colocar em tampão de lavagem”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em placa de 96 poços”. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Aguarde por 60  segundos ou  avance clicando  com  o  botão  esquerdo  do  mouse em 
+“Avançar”.  
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a microplaca para a pia clicando com o botão direito do mouse na microplaca e 
+selecione a opção “Verter na pia”. 
+ 
+ 
+ 
+Coloque  o  papel  toalha  na  placa  clicando  com  o  botão  esquerdo  do  mouse no  papel 
+toalha. 
+ 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Bata a placa na bancada clicando com o botão direito do mouse na placa e selecione a 
+opção “Bater 3x na bancada”. 
+ 
+ 
+ 
+Retire  o papel  toalha  da  placa  clicando  com  o  botão  direito  do  mouse na  placa e 
+selecione a opção “Retirar papel”. 
+ 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Repita o processo descrito anteriormente por mais 3 vezes. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+8. COLOCANDO O REVELADOR 
+ 
+Mova  a  micropipeta  e  aspire  o  tampão  de  lavagem  clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecione a opção “Colocar em tampão de lavagem”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em placa de 96 poços”. 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Aguarde por 60  segundos ou  avance clicando  com  o  botão  esquerdo  do  mouse em 
+“Avançar”.  
+ 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a microplaca para a pia clicando com o botão direito do mouse na microplaca e 
+selecione a opção “Verter na pia”. 
+ 
+ 
+ 
+Coloque  o  papel  toalha  na  placa  clicando  com  o  botão  esquerdo  do  mouse no  papel 
+toalha. 
+ 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Bata a placa na bancada clicando com o botão direito do mouse na placa e selecione a 
+opção “Bater 3x na bancada”. 
+ 
+ 
+ 
+Retire  o  papel  toalha  da  placa  clicando  com  o  botão  direito  do  mouse na  placa e 
+selecione a opção “Retirar papel”. 
+ 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+9. COLOCANDO O STOPPER 
+ 
+Visualize as soluções de lavagem clicando com o botão esquerdo do mouse na câmera 
+com o nome “Cubas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o recipiente do revelador clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Preencha a cuba com o conjugado clicando com o botão direito de mouse no recipiente 
+do conjugado. 
+ 
+ 
+ 
+Feche o recipiente do conjugado clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Ajuste o volume da micropipeta multicanal para a cuba clicando com o botão direito do 
+mouse na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 100 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a micropipeta e as pire o conjugado clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em revelador”. 
+ 
+ 
+ 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em placa de 96 poços”. 
+ 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+A placa será movida para ambiente escuro automaticamente. Aguarde por 30 minutos 
+em  temperatura  ambiente ou  avance clicando  com  o  botão  esquerdo  do  mouse em 
+“Avançar”.  
+ 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+10. FINALIZANDO O PROCEDIMENTO 
+ 
+Visualize as soluções de lavagem clicando com o botão esquerdo do mouse na câmera 
+com o nome “Cubas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Abra o recipiente do “Stopper” clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Preencha a cuba com o conjugado clicando com o botão direito de mouse no recipiente 
+do conjugado. 
+ 
+ 
+ 
+Feche o recipiente do conjugado clicando com o botão esquerdo do mouse no recipiente 
+do conjugado. 
+ 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Ajuste o volume da micropipeta multicanal para a cuba clicando com o botão direito do 
+mouse na micropipeta e selecione a opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 100 μL utilizando seu teclado numérico, em seguida, confirme 
+clicando com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Mova a micropipeta e as pire o “Stopper” clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em stopper”. 
+ 
+ 
+ 
+Mova a micropipeta para a placa de 96 poços clicando com o botão direito do mouse na 
+micropipeta e selecione a opção “Colocar em placa de 96 poços”. 
+ 
+ 
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Troque a ponteira da micropipeta clicando com o botão direito do mouse na micropipeta 
+e selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova a microplaca para o espectrofotômetro clicando com o botão esquerdo do mouse 
+na microplaca. 
+ 
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Feche  a  tampa  do  espectrofotômetro  clicando com  o  botão  esquerdo  do  mouse no 
+espectrofotômetro. 
+ 
+ 
+ 
+Ligue o computador clicando com o botão esquerdo do mouse no botão “on/off”. 
+ 
+ 
+  
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Visualize a tela do notebook clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tela notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Inicie o programa clicando com o botão esquerdo do mouse no ícone do programa. 
+ 
+ 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+Visualize  a  leitura da  amostra  clicando  com  o  botão  esquerdo  do  mouse no  ícone 
+destacado. 
+ 
+ 
+ 
+Observe o resultado na tela do notebook e realize a análise necessária conforme o valor 
+de referência: Controle positivo: > 0,268 e Controle negativo: < 0,268. 
+ 
+ 
+  
+
+  
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICOLOGIA CLÍNICA E VIROLOGIA CLÍNICA 
+ELISA PARA DETECÇÃO DE DOENÇAS VIRAIS - HIV 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também, com 
+os conhecimentos aprendidos sobre o tema. 

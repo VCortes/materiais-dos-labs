@@ -1,0 +1,256 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Esta  prática  demonstrará  a  utilização  do  método  de  análise  e  solução  de 
+problemas   (MASP),   através   do   ciclo   PDCA,   no   combate   as   perdas   de 
+produtividade  em  um  estudo  de  caso  durante  o  processo  produtivo  em  uma 
+empresa do ramo madeireiro. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Computador. 
+ 
+PROCEDIMENTOS 
+ 
+1. REALIZANDO O PRÁTICA 
+ 
+Leia atentamente as questões que serão exibidas na tela do computador. Com base 
+nos  seus  conhecimentos  sobre  o  ciclo  PDCA  (Plan,  Do,  Check,  Action),  selecione  a 
+alternativa que melhor se adequa ao que foi solicitado. Ao escolher uma alternativa, 
+uma mensagem será exibida revelando se a opção escolhida está de acordo ou não 
+com o que foi solicitado. Caso a alternativa esteja correta, avance para as próximas 
+questões.  Se  estiver  incorreta,  releia  o  enunciado  e  repense entre as  alternativas 
+restantes. Caso necessário, revisite o material teórico para relembrar os conceitos e 
+fixar melhor o conteúdo.  
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O  ciclo  PDCA  pode  ser  aplicado  a qualquer  atividade? Caso  sim,  escolha  uma 
+atividade  do  seu  cotidiano  e  aplique  o  ciclo  PDCA.  Se  a  resposta  for  negativa, 
+justifique.  
+ 
+ 
+ 
+2. Qual a importância de respeitar cada uma das etapas de ciclo PDCA?   
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. REALIZANDO A PRÁTICA 
+ 
+Inicie  a  prática  lendo  a  mensagem  exibida  no  monitor  do  computador  e  clicando  no 
+botão “Continuar” com o botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+Leia a questão e escolha a alternativa que responde ao que foi solicitado clicando com 
+o botão esquerdo do mouse sobre a alternativa correta.  
+ 
+ 
+ 
+Após selecionar a alternativa correta, prossiga a execução da prática clicando no botão 
+indicado com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Responda a todas as etapas seguintes até a conclusão da prática. 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GESTÃO DA PRODUÇÃO INDUSTRIAL 
+APLICAÇÃO DA FERRAMENTA MASP  
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

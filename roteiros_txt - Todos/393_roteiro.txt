@@ -1,0 +1,505 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você  irá avaliar  a  fragilidade  dos  vasos  capilares,  sob  uma 
+pressão controlada conhecida como a prova do laço. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ATENÇÃO:  
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+ 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+ 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+ 
+4. Verifique se o seu navegador está atualizado; 
+ 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://cliente.grupoa.com.br. 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa central de suporte. Conte conosco! 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Esfigmomanômetro; 
+• Quadrado de 2,5x2,5cm; 
+• Caneta; 
+• Cronômetro; 
+• Algodão; 
+• Álcool 70%. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos  de  proteção individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. MARCANDO A REGIÃO NO PACIENTE 
+ 
+Marque a região do quadrado no braço do paciente. 
+ 
+3. MEDINDO A PRESSÃO DO PACIENTE 
+ 
+Meça a pressão do paciente e calcule o ponto médio de pressão arterial. 
+ 
+4. REALIZANDO A PROVA DO LAÇO 
+ 
+Garroteie  o  braço  do  paciente  sob o  ponto  médio  de  pressão  arterial com  o 
+auxílio  do esfigmomanômetro e acione o  cronômetro deixando durante  5 
+minutos, sob observação constante. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da do tempo de garroteamento para a prova do laço? 
+ 
+ 
+ 
+2. Como é calculado a pressão arterial para a prova do laço? 
+ 
+ 
+ 
+3. O que a prova do laço positiva indica? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPI’s, acessando a câmera “EPI”, clicando com o botão esquerdo 
+do mouse sobre o menu lateral esquerdo, ou apertando as teclas “Alt+4”.  
+ 
+  
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre suas portas. 
+ 
+  
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Selecione os EPIs necessários para a realização do experimento, clicando com o botão 
+esquerdo  do  mouse  sobre  eles. Nesse  experimento  serão  necessários  jaleco,  luvas, 
+touca e máscara. 
+ 
+  
+ 
+Note  que  no  lado  direito da  tela tem  um  ícone  com  escudo  que  indica  os EPIs 
+anteriormente selecionados. 
+ 
+  
+ 
+ 
+ 
+ 
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+2. MARCANDO A REGIÃO NO PACIENTE 
+ 
+Visualize a mesa, acessando a câmera “Mesa”, clicando com o botão esquerdo do mouse 
+sobre o menu lateral esquerdo, ou apertando as teclas “Alt+1”.  
+ 
+  
+ 
+Chame  a  paciente,  clicando  com  o  botão  esquerdo  do  mouse  sobre o box “Chamar 
+paciente”. 
+ 
+  
+ 
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Meça o braço da paciente, clicando com o botão esquerdo do mouse sobre o quadrado 
+branco. 
+ 
+  
+ 
+Destampe a caneta, clicando com o botão direito do mouse sobre a caneta. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Mova  a  caneta  para  o  braço  da  paciente,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a caneta. 
+ 
+ 
+ 
+Marque a região no braço da paciente, clicando com o botão direito do mouse sobre a 
+caneta. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Retorne a caneta a mesa, clicando com o botão esquerdo do mouse sobre a caneta. 
+ 
+ 
+ 
+Retorne  o  quadrado  a  mesa,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+quadrado. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+3. MEDINDO A PRESSÃO DO PACIENTE  
+ 
+Visualize  a ficha  do  paciente, clicando  com  o  botão  esquerdo  do  mouse  sobre a 
+prancheta.  
+ 
+ 
+ 
+Calcule a pressão arterial media, observando a pressão arterial aferida. 
+  
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+4. REALIZANDO A PROVA DO LAÇO  
+ 
+Abaixe a prancheta, clicando com o botão esquerdo do mouse sobre a prancheta.  
+ 
+  
+ 
+Mova o esfigmomanômetro para o braço da paciente, clicando com o botão esquerdo 
+do mouse sobre o esfigmomanômetro. 
+ 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Visualize  o esfigmomanômetro, acessando a câmera “Esfigmomanômetro”, clicando 
+com o botão esquerdo do mouse sobre o menu lateral esquerdo, ou apertando as teclas 
+“Alt+2”.  
+ 
+ 
+ 
+Libre o ar, clicando com o botão esquerdo do mouse sobre a válvula. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Esvazie a válvula, clicando com o botão esquerdo do mouse sobre o ajuste da válvula. 
+ 
+ 
+ 
+Infle o  balão até  a  pressão  arterial média,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o ajuste da balão. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Visualize o braço a paciente, acessando a câmera “Braço”, clicando com o botão 
+esquerdo do mouse sobre o menu lateral esquerdo, ou apertando as teclas “Alt+3”.  
+ 
+ 
+ 
+Visualize o aparecimento das petéquias no braço a paciente. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+Visualize o esfigmomanômetro, acessando a câmera “Esfigmomanômetro”, clicando 
+com o botão esquerdo do mouse sobre o menu lateral esquerdo, ou apertando as teclas 
+“Alt+2”.  
+ 
+ 
+ 
+Retire a pressão, clicando com o botão esquerdo do mouse sobre o ajuste da válvula. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+PROVA DO LAÇO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. 
+ 
+ 

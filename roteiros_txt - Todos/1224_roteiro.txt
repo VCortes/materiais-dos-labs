@@ -1,0 +1,484 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a medição de 
+luminosidade com o auxílio de um decibelímetro luxímetro e observar o impacto 
+da substituição de luminárias fluorescentes por LEDs. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Galão/depósito; 
+• Luminária de LED T8 2x18 W 3700 lm; 
+• Luminária fluorescente 2x40 W 5400 lm; 
+• Luxímetro; 
+• Wattímetro. 
+ 
+PROCEDIMENTOS 
+ 
+1. INICIANDO O EXPERIMENTO 
+ 
+Acesse a ficha técnica e observe as informações contidas na aba. Alterne entre as câmeras do 
+laboratório e conheça os ambientes. 
+ 
+2. SELECIONANDO O TIPO DE LUMINÁRIA 
+ 
+Escolha um tipo de luminária, de LED ou fluorescente, acesse a câmera do interruptor e ligue 
+a fonte de alimentação. Observe o resultado no wattímetro e registre o valor encontrado para 
+a potência elétrica. Visualize o luxímetro, ligue o dispositivo e registre o valor obtido. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+  
+3. TROCANDO AS LUMINÁRIAS 
+ 
+Desligue a fonte de iluminação. Troque o tipo de luminária, acesse a câmera do interruptor e 
+ligue a fonte de alimentação novamente. Observe o resultado no wattímetro e registre o valor 
+encontrado para a potência elétrica. Visualize o luxímetro, ligue o dispositivo e registre o valor 
+obtido. 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. De  qual forma a  variação  da  altura  de  instalação  das  lâmpadas  de  LED  e 
+fluorescentes, influência na   eficiência   energética   e   no   desempenho   da 
+iluminação? 
+ 
+ 
+ 
+2. Qual seria a economia estimada em termos de consumo de energia ao substituir 
+as luminárias fluorescentes  por  luminárias de  LED,  considerando  uma  tarifa 
+elétrica de R$ 0,50 por kWh? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. INICIANDO O EXPERIMENTO 
+ 
+Acesse as informações clicando com o botão esquerdo do mouse sobre o botão “Ficha 
+técnica”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Observe as informações. 
+ 
+ 
+ 
+Feche a aba clicando com o botão esquerdo do mouse sobre o botão “Fechar”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Alterne entre as câmeras do laboratório clicando com o botão esquerdo do mouse sobre 
+elas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+2. SELECIONANDO O TIPO DE LUMINÁRIA 
+ 
+Selecione o tipo de lâmpada clicando com o botão esquerdo do mouse sobre a opção 
+desejada. 
+ 
+ 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Interruptor” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Ligue  a  fonte  de  iluminação  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+ 
+Visualize  a  potência  elétrica  clicando  com  o  botão esquerdo  do  mouse  sobre  o 
+wattímetro. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Registre o valor encontrado. 
+ 
+ 
+ 
+Visualize o luxímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Luxímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Ligue o luxímetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Registre o valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+3. TROCANDO AS LUMINÁRIAS 
+ 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Interruptor” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Desligue a fonte de iluminação clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Visualize as lâmpadas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Iluminação” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Toque as lâmpadas clicando com o botão esquerdo do mouse sobre a opção restante. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Visualize o interruptor clicando com o botão esquerdo do mouse na câmera com o nome 
+“Interruptor” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue  a  fonte  de  iluminação  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Visualize  a  potência  elétrica  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+wattímetro. 
+ 
+ 
+ 
+Registre o valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Visualize o luxímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Luxímetro” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue o luxímetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+Registre o valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENERGIAS RENOVÁVEIS 
+EFICIÊNCIA ENERGÉTICA NA ILUMINAÇÃO 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 

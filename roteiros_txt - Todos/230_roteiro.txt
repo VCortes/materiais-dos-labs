@@ -1,0 +1,617 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre as políticas de 
+RH. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cadeiras; 
+• Mesa; 
+• Notebook; 
+• Retroprojetor. 
+ 
+PROCEDIMENTOS 
+ 
+1. OPTANDO PELO TUTOR VIRTUAL 
+ 
+Escolha se deseja utilizar o tutor virtual ou não. 
+ 
+UTILIZANDO O TUTOR VIRTUAL 
+ 
+2. SEGUINDO AS INSTRUÇÕES DO TUTOR VIRTUAL 
+ 
+Observe as instruções que o tutor virtual indicará na janela encontra na parte inferior 
+da  tela.  Faça  as  configurações  que  desejar  na  tela  de  exibição  e  siga  os  passos  à 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+medida  que  eles  forem  mostrados.  Caso  desejar,  encerre  o  modo  de  utilização  do 
+tutor virtual. 
+ 
+NÃO UTILIZANDO O TUTOR VIRTUAL 
+ 
+2. SELECIONANDO OS PERSONAGENS 
+ 
+Escolha entre o personagem masculino ou feminino e nomeie a sua escolha. 
+ 
+3. INICIANDO A REUNIÃO 
+ 
+Abra  a  apresentação  no  notebook.  Em  seguida,  organize  as  pautas  em  ordem 
+cronológica  de apresentação.  Faça  as  apresentações  iniciais  dos  participantes  da 
+reunião e introduza os benefícios a serem discutidos na reunião. 
+ 
+4. INICIANDO AS DISCUSSÕES 
+ 
+Escolha   o   primeiro   benefício   a   ser   discutido.   Apresente   o   benefício   para   os 
+participantes e ouça a exposição do ponto de vista de cada um. Caso seja decidida a 
+concessão do benefício pela empresa, inicie a votação e tome a decisão final sobre o 
+formato de aplicação do benefício. Caso não, prossiga para o próximo benefício. 
+ 
+5. REGISTRANDO AS DECISÕES E FINALIZANDO A REUNIÃO 
+ 
+Registre  as  decisões  para  a  confecção  do  “Manual  de  Política  de  RH”.  Finalmente, 
+finalize a reunião. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+  
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Os benefícios estabelecidos em acordos de convenção coletiva são obrigatórios? 
+ 
+ 
+ 
+2. Quais benefícios são obrigatórios por lei? 
+ 
+ 
+ 
+3. Em que a concessão de benefícios ao empregado favorece a imagem da empresa? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. OPTANDO PELO TUTOR VIRTUAL 
+ 
+Escolha utilizar ou não o tutor virtual clicando com o botão esquerdo do mouse e um 
+dos botões indicados abaixo. 
+ 
+ 
+  
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+UTILIZANDO O TUTOR VIRTUAL 
+ 
+2. SEGUINDO AS INSTRUÇÕES DO TUTOR VIRTUAL 
+ 
+Leia as instruções dadas pelo tutor virtual. 
+ 
+ 
+ 
+Visualize  as  opções  da  tela  de  exibição  do  tutor  clicando  com  o  botão  esquerdo  do 
+mouse no botão indicado abaixo. 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Faça  as  configurações necessárias  clicando  com o  botão  esquerdo  do  mouse em  cada 
+umas das opções. 
+ 
+ 
+ 
+Avance  para  o  próximo  passo  ou  retorne  para  o  passo  anterior  clicando  com  o  botão 
+esquerdo do mouse em cada uma das setas indicadas abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Caso necessário, encerre a utilização do tutor clicando com o botão esquerdo do mouse 
+no botão indicado abaixo. 
+ 
+ 
+ 
+Confirme sua escolha clicando com o botão esquerdo do mouse no botão “Sim” ou no 
+botão “Não”. 
+ 
+ 
+ 
+  
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+NÃO UTILIZANDO O TUTOR VIRTUAL 
+ 
+2. SELECIONANDO OS PERSONAGENS 
+ 
+Escolha entre o personagem feminino ou masculino clicando com o botão esquerdo do 
+mouse em um deles. 
+ 
+ 
+ 
+Digite um nome para o personagem escolhido clicando com o botão esquerdo do mouse 
+no campo indicado e digitando o nome através do teclado de sua máquina. 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Avance  para  a  próxima  etapa  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+3. INICIANDO A REUNIÃO 
+ 
+Visualize  a  tela  do  notebook  clicando  com  o  botão  esquerdo  do mouse  na  câmera 
+“Notebook” do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+ 
+Abra   a   apresentação   clicando   com   o   botão   esquerdo   do   mouse   no   arquivo 
+“Apresentação” na tela do notebook. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Numere  as  pautas  de  1  a  5  na  ordem  em  que  elas  serão  apresentadas  na  reunião 
+clicando com o botão esquerdo do mouse nas caixas de texto referentes a cada uma das 
+pautas.  Então,  digite  um  número  de  1  a  5  através  do  teclado  numérico  de  seu 
+computador. 
+ 
+ 
+ 
+Inicie a reunião clicando com o botão esquerdo do mouse no botão “Iniciar a reunião”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Inicie a apresentação clicando com o botão esquerdo do mouse no botão “Iniciar”. 
+ 
+ 
+ 
+Avance na reunião e faça as apresentações iniciais clicando com o botão esquerdo do 
+mouse  no  botão  indicado  abaixo.  Leia  as  mensagens  de apresentação  de  todos  os  4 
+participantes clicando com o botão esquerdo do mouse no botão indicado quantas vezes 
+forem necessárias. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Avance  para  apresentação  dos  benefícios  a  serem  discutidos  clicando  com  o  botão 
+esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+4. INICIANDO AS DISCUSSÕES 
+ 
+Leia a mensagem sobre os benefícios e avance na apresentação clicando com o botão 
+esquerdo  do  mouse  no  botão  indicado  abaixo.  Lembre-se  que  deverão  ser  aprovados 
+até 5 benefícios, contando com os que são obrigatórios por lei. 
+ 
+ 
+ 
+Inicie a apresentação dos benefícios clicando com o botão esquerdo do mouse no botão 
+indicado abaixo. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Leia a mensagem sobre os benefícios a serem discutidos e avance para a discussão dos 
+benefícios clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Selecione o benefício a ser discutido clicando com o botão esquerdo do mouse em um 
+dos botões indicados abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Visualize  as  opiniões de cada  um  clicando  com  o  botão  esquerdo  do  mouse  no botão 
+indicado abaixo quantas vezes forem necessárias. 
+ 
+ 
+ 
+Caso o benefício não seja obrigatório, pondere as opiniões e decida sobre concessão ou 
+não do benefício clicando com botão esquerdo do mouse em uma das caixas de seleção 
+referentes a “Sim” ou “Não”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Caso o benefício deva ser implementado, avance para iniciar a votação das formas de 
+implementação  do  benefício  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado abaixo. 
+ 
+ 
+ 
+Visualize os votos dos participantes clicando com o botão esquerdo do mouse no botão 
+indicado abaixo quantas vezes foram necessárias. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Leia e escolha a forma de implementação do benefício na empresa clicando com o botão 
+esquerdo do mouse em um dos botões indicados abaixo. 
+ 
+ 
+ 
+Avance para escolher um outro benefício clicando com o botão esquerdo do mouse no 
+botão indicado abaixo. 
+ 
+ 
+ 
+Repita  os  passos  apresentados  nessa  seção  do  tutorial  para  a  discussão  dos  outros  6 
+benefícios restantes.  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+5. REGISTRANDO AS DECISÕES E FINALIZANDO A 
+REUNIÃO 
+ 
+Visualize os benefícios escolhidos e as suas formas de implementação no registro. 
+ 
+ 
+ 
+Visualize todos os registros clicando e arrastando com o botão esquerdo do mouse no 
+botão de rolagem. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+Finalize a reunião clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ADMINISTRAÇÃO 
+POLÍTICAS DE RH 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

@@ -1,0 +1,992 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  irá  aprender  como  ocorre  uma  reação  espontânea,  o 
+comportamento  do  cátodo  e  do  ânodo,  entender  como  acontece  a  reação  de 
+oxidação e redução. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de capacidade volumétrica de 50 mL; 
+• Lixa; 
+• Multímetro; 
+• Papel filtro; 
+• Placa de Petri; 
+• Placas de cobre, ferro e zinco; 
+• Solução de Sulfato de cobre II a 0,3 mol.L
+-1
+; 
+• Solução de Sulfato de ferro II a 0,3 mol.L
+-1
+; 
+• Solução de Sulfato de zinco a 0,3 mol.L
+-1
+; 
+• Solução saturada de cloreto de sódio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Coloque  todos  os  itens  necessários  ao  experimento,  que  se  encontram nas  gavetas  e no 
+armário. 
+ 
+3. ANALISANDO A PILHA DE DANIELL 
+ 
+Transfira 40 mL de sulfato de zinco para béquer 1 e 40 mL de solução de Sulfato de cobre II a 
+0,3 mol.L
+-1
+ para o béquer 2. Lixe os eletrodos de zinco e cobre localizados em suas respectivas 
+placas.  Coloque  a placa de zinco no  béquer 1 e a  placa  de  cobre  no béquer  2.  Faça  a  ponte 
+salina, enrolando o papel filtro, e coloque-a na placa de Petri. Transfira um pouco da solução 
+saturada  de  cloreto  de  sódio  para  a  placa  de  Petri  para  umedecer  a  ponte  salina e  insira a 
+ponte salina nos béqueres. Ponha a ponta positiva do multímetro no béquer 2 e a negativa no 
+béquer 1. Gire o botão do multímetro para a esquerda, na posição de 20 V (corrente contínua), 
+meça   a   tensão,   anote   a   D.D.P   encontrada   e   identifique   as   semirreações   que   estão 
+acontecendo. Note os efeitos causados nos eletrodos, após a passagem de, pelo menos, 24h. 
+Desfaça as configurações do experimento e faça a limpeza dos béqueres, para prosseguir com 
+a prática. 
+ 
+4. ANALISANDO A PILHA DE DANIELL COM FERRO 
+ 
+Despeje 40 mL de sulfato de ferro no béquer 1 e 40 mL de solução de Sulfato de cobre II a 0,3 
+mol.L
+-1
+ no béquer 2. Lixe os eletrodos de ferro e cobre localizados em suas respectivas placas. 
+Coloque  a  placa  de  ferro  no  béquer  1  e  a  placa  de  cobre  no  béquer  2.  Faça  a ponte  salina, 
+enrolando o papel filtro, e coloque-a na placa de Petri. Coloque o cloreto de sódio na ponte 
+salina e insira a ponte salina nos béqueres. Ponha a ponta positiva do multímetro no béquer 
+2  e  a  negativa  no  béquer  1.  Meça  a  tensão  e  anote  a  D.D.P  encontrada  e  identifique  as 
+semirreações  que  estão  acontecendo.  Note  os  efeitos  causados  nos  eletrodos,  após  a 
+passagem de, pelo menos, 24h. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+  
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Remova  as  ponteiras  do  multímetro,  faça  a  limpeza  dos  materiais,  guarde-os  e  finalize o 
+experimento. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 08 e 09 deste roteiro, e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Por que se faz necessário lixar as placas antes de irem para os béqueres? 
+ 
+ 
+ 
+2. Qual o papel da ponte salina e por que é necessário molhar a ponte salina?  
+ 
+ 
+ 
+3. Com  base  nos  seus  conhecimentos,  a  pilha  funcionaria  sem  a ponte salina? 
+Justifique.  
+ 
+ 
+ 
+4. Identifique, na  pilha, qual  o  eletrodo que  corresponde  ao cátodo e ânodo  da 
+pilha.  
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+5. O que  aconteceria  com  a  tensão, caso  as  ponteiras  do  multímetro fossem 
+trocadas e colocasse nos eletrodos errados? Caso seja necessário, realize o teste 
+para embasar a respostas, logo após retorne ao arranjo original. 
+ 
+ 
+ 
+6. Utilizando as semirreações de oxidação e redução da pilha de Daniell, encontre 
+a equação global da pilha. 
+ 
+ 
+ 
+7. Qual o efeito notado nas placas? 
+ 
+ 
+ 
+8. A tensão permaneceu constante ou teve alguma variação?  
+ 
+ 
+ 
+9. Com base nos seus conhecimentos, qual dos eletrodos utilizados conseguiriam 
+substituir o zinco na pilha e gerar uma D.D.P positiva? 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque os EPIs adequados ao experimento clicando com o botão esquerdo do mouse 
+sobre ele. Neste experimento serão utilizados jaleco e luvas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize as gavetas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Gavetas” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra  as  gavetas  clicando  com  o  botão  esquerdo do  mouse sobre  elas.  Faça  o  mesmo 
+para fechá-las. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Escolha as vidrarias, na primeira gaveta, clicando com o botão direito do mouse sobre 
+elas  e  selecione  a opção  “Colocar  na  mesa”. Nesse  experimento  serão  necessários  2 
+béqueres de capacidade volumétrica de 50 mL e a placa de Petri. Faça o mesmo com o 
+multímetro localizado na terceira gaveta.  
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Abra o armário clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque sobre a mesa o papel filtro, a lixa e as placas de cobre, ferro e zinco, clicando 
+com o botão esquerdo do mouse sobre elas e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Soluções” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque sobre a mesa as soluções de solução de Sulfato de cobre II a 0,3 mol.L
+-1 
+e Sulfato 
+de  Zinco, clicando  com  o  botão  esquerdo  do  mouse  sobre  elas  e  selecione a opção 
+“Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+3. ANALISANDO A PILHA DE DANIELL 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Despeje 40 mL de Sulfato de Zinco no béquer 1 clicando com o botão esquerdo do mouse 
+sobre  a  solução e selecione a  opção  “Colocar  no  béquer  1”.  Ao  chegar  no  nível  de 
+solução desejado selecione a opção “Parar”. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Despeje  40 mL de  Sulfato  de  Cobre no  béquer  2 clicando  com  o  botão  esquerdo  do 
+mouse sobre a solução e selecione a opção “Colocar no béquer 2”. Ao chegar no nível 
+de solução desejado selecione a opção “Parar”. 
+ 
+ 
+ 
+Lixe o eletrodo de zinco clicando com o botão esquerdo do mouse na placa de zinco e 
+selecione a opção “Lixar eletrodo”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Lixe o eletrodo de cobre clicando com o botão esquerdo do mouse na placa de cobre e 
+selecione a opção “Lixar eletrodo”. 
+ 
+ 
+ 
+Ponha a placa de zinco dentro do béquer 1 clicando com o botão esquerdo do mouse na 
+placa de zinco e selecione a opção “Colocar no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Ponha a placa de cobre dentro do béquer 2 clicando com o botão esquerdo do mouse 
+na placa de cobre e selecione a opção “Colocar no béquer 2. 
+ 
+ 
+ 
+Faça a ponte com o papel filtro clicando com o botão esquerdo do mouse no papel filtro 
+e selecione a opção “Enrolar”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque a ponte sobre a placa de Petri clicando com o botão esquerdo do mouse sobre 
+ela e selecione a opção “Colocar na Placa de Petri”. 
+ 
+ 
+ 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Soluções” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque  a  solução  saturada  de  cloreto  de  sódio clicando  com  o  botão  esquerdo  do 
+mouse sobre ela e selecione a opção “Colocar na mesa”.  
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Transfira  um  pouco  da  solução  saturada  de  cloreto  de  sódio clicando  com  o botão 
+esquerdo do mouse sobre a solução e selecione a opção “Colocar na Ponte Salina”. 
+ 
+ 
+ 
+Coloque a ponte salina nos béqueres clicando com o botão esquerdo do mouse na 
+ponte salina e selecione a opção “Colocar nos Béqueres”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque a ponta positiva do multímetro no béquer 2 clicando com o botão esquerdo do 
+mouse sobre o multímetro e selecione a opção “Ponta positiva no béquer 2”. 
+ 
+ 
+ 
+Coloque a ponta negativa do multímetro no béquer 1 clicando com o botão esquerdo 
+do mouse sobre o multímetro e selecione a opção “Ponta negativa no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Arraste a chave selecionadora clicando com o botão esquerdo do mouse sobre ela e gire 
+o botão do multímetro para a esquerda, na posição de 20 V (corrente contínua). Meça 
+a   tensão   e   anote   a   D.D.P   encontrada,   clicando   sobre   a   opção   apresentada   no 
+multímetro. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Visualize a  pilha  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Pilha” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Aguarde  por 24h ou  avance clicando com  o  botão  esquerdo  do  mouse na opção 
+“Avançar 24h”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Remova as ponteiras dos béqueres clicando com o botão esquerdo do mouse sobre o 
+multímetro e selecione a opção “Remover pontas”. 
+ 
+ 
+ 
+Coloque a ponte salina sobre a mesa clicando com o botão esquerdo do mouse sobre a 
+ponte e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Troque a ponte salina clicando com o botão esquerdo do mouse sobre ela e selecione a 
+opção “Substituir”. 
+ 
+ 
+ 
+Coloque os eletrodos de cobre e zinco sobre a mesa clicando com o botão esquerdo do 
+mouse sobre eles e selecione a opção “Colocar na mesa”. Note o efeito das placas após 
+a utilização na pilha. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Descarte as soluções dos béqueres clicando com o botão esquerdo do mouse sobre eles 
+e selecione a opção “Remover conteúdo”. 
+ 
+ 
+ 
+Coloque o sulfato de Zinco na prateleira clicando com o botão direito do mouse sobre a 
+solução e selecione a opção “Colocar na prateleira”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Substitua  os  eletrodos  de  cobre  e  zinco  clicando  com  o botão  direto  do mouse  sobre 
+eles e selecione a opção “Substituir eletrodo”. 
+ 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+4. ANALISANDO A PILHA DE DANIELL COM FERRO 
+ 
+Visualize as soluções clicando com o botão esquerdo do mouse na câmera com o nome 
+“Soluções” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque o sulfato de ferro sobre a mesa clicando com o botão direito do mouse sobre a 
+solução e selecione a opção “Colocar na mesa”. 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Despeje 40 mL de sulfato de ferro no béquer 1 clicando com o botão esquerdo do mouse 
+sobre  a  solução e selecione a  opção  “Colocar  no  béquer  1”.  Ao  chegar  no  nível  de 
+solução desejado selecione a opção “Parar”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Despeje  40 mL de  Sulfato  de cobre  no  béquer 2 clicando com  o  botão  esquerdo  do 
+mouse sobre a solução e selecione a opção “Colocar no béquer 2”. Ao chegar no nível 
+de solução desejado selecione a opção “Parar”. 
+ 
+ 
+ 
+Lixe o eletrodo de ferro clicando com o botão esquerdo do mouse na placa de ferro e 
+selecione a opção “Lixar eletrodo”. Faça o mesmo com a placa de cobre. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloca a placa de ferro no béquer 1 clicando com o botão esquerdo do mouse sobre ela 
+e selecione a opção “Colocar no béquer 1”. 
+ 
+ 
+ 
+Coloca a placa de cobre no béquer 2 clicando com o botão esquerdo do mouse sobre 
+ela e selecione a opção “Colocar no béquer 2”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Faça a ponte com o papel filtro clicando com o botão esquerdo do mouse sobre o papel 
+filtro e selecione a opção “Enrolar”. 
+ 
+ 
+ 
+Coloque a ponte na placa de Petri clicando com o botão esquerdo do mouse sobre ela e 
+selecione a opção “Colocar na placa de Petri”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque a solução saturada de cloreto de sódio na ponte salina clicando com o botão 
+esquerdo do mouse na solução e selecione a opção “Colocar na ponte salina”. 
+ 
+ 
+ 
+Coloque a ponte salina nos béqueres clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar nos béqueres”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque a ponta positiva do multímetro no béquer 2 clicando com o botão esquerdo do 
+mouse sobre ele e selecione a opção “Ponta positiva no béquer 2”. 
+ 
+ 
+ 
+Coloque a ponta negativa do multímetro no béquer 1 clicando com o botão esquerdo 
+do mouse sobre ele e selecione a opção “Ponta negativa no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Visualize o multímetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Multímetro” ou através  do  atalho  do  teclado “Alt+5” e  registre  a  D.D.P  encontrada 
+nesse arranjo de pilha. 
+ 
+ 
+ 
+Visualize a  pilha  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Pilha” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Identifique as semi reações que estão ocorrendo passando o cursor do mouse sobre os 
+béqueres. Aguarde  por 24h ou  avance clicando  com  o  botão  esquerdo  do  mouse  na 
+opção “Avançar 24h”. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Remova as ponteiras do multímetro clicando com o botão esquerdo do mouse sobre ele 
+e selecione a opção “Remover pontas”. 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Coloque  a ponte  salina  sobre  a  mesa  clicando  com o  botão  direito  do  mouse sobre  a 
+ponte e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Coloque as placas sobre a mesa clicando com o botão esquerdo do mouse sobre elas e 
+selecione a opção “Colocar na mesa”.  
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+Descarte  as  soluções  clicando  com  o  botão  esquerdo  do  mouse  sobre  os  béqueres  e 
+selecione a opção “Remover conteúdo”. 
+ 
+ 
+ 
+Guarde todos os materiais nos seus devidos lugares e as soluções na prateleira. 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+PILHA DE DANIELL 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  08  e  09  deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 

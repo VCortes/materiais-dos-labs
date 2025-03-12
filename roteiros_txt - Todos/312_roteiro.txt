@@ -1,0 +1,979 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você irá   executar   os   procedimentos   adequados   para 
+promover experimentos de microbiologia. Dessa forma, você poderá analisar os 
+resultados   desses   experimentos   e   se   precaver   de   eventuais resultados 
+inesperados. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ágar MacConkey; 
+• Água destilada; 
+• Autoclave; 
+• Balança; 
+• Banho-maria; 
+• Erlenmeyer; 
+• Espátula; 
+• Material para vedação; 
+• Pisseta; 
+• Placa de Petri; 
+• Proveta; 
+• Vidro de relógio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas e máscara. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+  
+2. CONHECENDO O MEIO DE CULTURA 
+ 
+Conhecer  o  meio  de  cultura  é  crucial  para  o  sucesso  do  experimento.  Por  isso,  examine 
+atentamente a descrição do rótulo do produto que será utilizado. 
+ 
+3. SEPARANDO AS MEDIDAS 
+ 
+Escolha a quantidade de água destilada que usará para realizar o experimento. Em seguida, 
+realize uma conta (regra de três simples) para calcular a quantidade de Ágar MacConkey que 
+deve ser adicionado ao Erlenmeyer e, posteriormente, dissolvido na água. 
+ 
+4. VEDANDO O ERLENMEYER 
+ 
+Utilizando os insumos disponíveis na bancada, vede o Erlenmeyer e mova-o para a autoclave. 
+ 
+5. AUTOCLAVANDO O ERLENMEYER 
+ 
+Atente-se as instruções de tempo e temperatura descritas pelo fabricante no rótulo do meio. 
+Em seguida, abra a autoclave e mova o Erlenmeyer para o seu interior. Ligue o equipamento 
+e configure de acordo com as recomendações do fabricante. Espere a temperatura chegar ao 
+valor recomendado, pressurize a autoclave e aguarde o tempo necessário para conclusão do 
+processo. Libere a pressão na autoclave e aguarde a estabilização da temperatura, chegando 
+à temperatura ambiente, para retirar o Erlenmeyer da autoclave. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+  
+6. COLOCANDO NA PLACA DE PETRI 
+ 
+Mova o Erlenmeyer para a capela de fluxo laminar. Em seguida, remova a vedação. Feito isso, 
+coloque  o  meio  de  cultura  na  placa  de  Petri.  Em  seguida,  examine  mais  detalhadamente  o 
+resultado. 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  os  materiais  utilizados, certifique-se  que  todos  os  equipamentos 
+utilizados foram devidamente desligados. 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Cite duas possíveis consequências de não seguir a recomendação do fabricante 
+do  meio  de  cultura.  Uma  relacionada à quantidade  de  meio  que  deve  ser 
+dissolvido e outra relacionada ao tempo na autoclave. 
+ 
+ 
+ 
+2. Qual a importância de realizar parte do experimento na capela de fluxo laminar? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do  mouse  sobre  eles.  Nesse  experimento,  é  obrigatório  o  uso  de  jaleco,  luvas  e  a 
+máscara. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+2. CONHECENDO O MEIO DE CULTURA 
+ 
+Examine o rótulo clicando com o botão direito do mouse sobre o pote indicado. 
+ 
+ 
+ 
+Gire a embalagem pressionando com o botão direito do mouse sobre o pote e arraste o 
+curso do mouse para a direita e para esquerda. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+3. SEPARANDO AS MEDIDAS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+e selecione a opção “Colocar na balança”. 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Realize  a  tara  da  balança  clicando  com  o  botão esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Abra o pote clicando com o botão esquerdo do mouse sobre a embalagem. 
+ 
+ 
+ 
+Pegue  o  ágar  clicando  com  o  botão  direito  do  mouse  sobre  a  espátula  e  selecione  a 
+opção “Encher e colocar na balança”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Despeje o pó de ágar clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Colocar na mesa”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+e selecione a opção “Posicionar no Erlenmeyer”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre o vidro de relógio. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Mova o vidro de relógio clicando com o botão direito do mouse sobre o vidro de relógio 
+e selecione a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Mova a pisseta para a proveta clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Despeje a água na proveta clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Mova a pisseta para a bancada clicando com o botão direito do mouse sobre a pisseta. 
+ 
+ 
+ 
+Mova a proveta clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Despeje a água destilada clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+ 
+Mova a proveta para a bancada clicando com o botão direito do mouse sobre a proveta. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Visualize o   menu   de câmeras clicando   com   o   botão   esquerdo   do   mouse   em 
+“Visualização”. 
+ 
+ 
+ 
+Homogeneíze o conteúdo clicando com o botão direito do mouse sobre o Erlenmeyer e 
+selecione a opção “Agitar”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+4. VEDANDO O ERLENMEYER 
+ 
+Tampe o Erlenmeyer clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Mover para mesa do autoclave”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+5. AUTOCLAVANDO O ERLENMEYER 
+ 
+Abra  a  tampa  da  autoclave  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção “Colocar dentro da autoclave”. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Feche a autoclave clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Ligue o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Visualize o visor clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Altere  a temperatura para  121  °C clicando  com o  botão  esquerdo  do  mouse  sobre  os 
+botões indicados. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Verifique  a  próxima  configuração  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão indicado. 
+ 
+ 
+ 
+Altere o tempo para 900 segundos clicando com o botão esquerdo do mouse sobre os 
+botões indicados. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Visualize a autoclave clicando com o botão esquerdo do mouse na câmera com o nome 
+“Autoclave” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Aguarde  a  temperatura  aumentar  ou  avance  clicando  com  o  botão  direito  do  mouse 
+sobre a autoclave e selecione a opção “Aguardar temperatura estabilizar”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Abra a válvula clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Aguarde por 15  minutos ou  avance o  tempo clicando  com  o  botão  direito  do  mouse 
+sobre a autoclave e selecione a opção “Aguardar tempo programado”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Aguarde  a  temperatura  deminuir  ou  avance  clicando  com  o  botão  direito  do  mouse 
+sobre a autoclave e selecione a opção “Aguardar temperatura estabilizar”. 
+ 
+  
+ 
+Abra  a  tampa  da  autoclave  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tampa 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Visualize  o  interior  da  autoclave  clicando  com  o  botão  direito  do  mouse  sobre  a 
+autoclave e selecione a opção “Visualizar interior”. 
+ 
+ 
+ 
+Mova o Erlenmeyer clicando com o botão direito do mouse sobre o Erlenmeyer. 
+ 
+  
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+6. COLOCANDO NA PLACA DE PETRI 
+ 
+Visualize  a  capela  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Exterior da capela” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Ligue a luz da capela clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Ligue a ventilação clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra a capela clicando com o botão esquerdo do mouse na janela do capela. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Visualize a autoclave clicando com o botão esquerdo do mouse na câmera com o nome 
+“Autoclave” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção "Mover para o fluxo laminar”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção "Mover para o banho-maria”. 
+ 
+ 
+ 
+Remova  a  vedação clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção "Remover vedação”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção "Posicionar na placa de Petri”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Abra  a  placa  de  Petri  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Abrir placa de petri”. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  clicando  com  o  botão  direito  do  mouse  sobre  o  Erlenmeyer  e 
+selecione a opção "Posicionar na placa de Petri”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre o Erlenmeyer. 
+ 
+ 
+ 
+Mova o Erlenmeyer para o fluxo laminar clicando com o botão direito do mouse sobre 
+o Erlenmeyer. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Feche a placa de Petri clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Fechar placa de Petri”. 
+ 
+ 
+ 
+Examine  a  placa  clicando  com  o  botão  direito  do  mouse  sobre  a  placa  de  Petri  e 
+selecione a opção “Examinar”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Gire a placa pressionando com o botão direito do mouse sobre a placa de Petri e arraste 
+o curso do mouse para a direita e para esquerda. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Abra a tampa da placa clicando com o botão direito do mouse sobre a placa de Petri e 
+selecione a opção “Deixar a placa de petri entreaberta”. 
+ 
+ 
+ 
+Espere a reação acontecer clicando com o botão direito do mouse sobre a placa de Petri 
+e selecione a opção “Esperar reação”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Feche a placa de Petri clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Fechar placa de petri”. 
+ 
+ 
+ 
+Examine  a  placa  clicando  com  o  botão  direito  do  mouse  sobre  a  placa  de  Petri  e 
+selecione a opção “Examinar”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+Gire a placa pressionando com o botão direito do mouse sobre a placa de Petri e arraste 
+o curso do mouse para a direita e para esquerda. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos os materiais utilizados e desligue os equipamentos. 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MICROBIOLOGIA 
+PREPARAÇÃO DE MEIO DE CULTURA 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

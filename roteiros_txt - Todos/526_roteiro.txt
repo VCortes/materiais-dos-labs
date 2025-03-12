@@ -1,0 +1,512 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você irá identificar  os  riscos  químicos,  físicos,  biológicos, 
+ergonômicos e de acidentes presentes no laboratório. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Luvas de proteção; 
+• Máscara; 
+• Óculos de segurança; 
+• Notebook. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+2. LIGANDO O NOTEBOOK 
+ 
+Ligue o notebook para começar a fazer a confecção do mapa de risco. 
+ 
+3. ANALISANDO O ESPAÇO FÍSICO 
+ 
+Observe o cenário 1 e identifique os riscos presentes nesse ambiente, com auxílio das 
+setas de navegação e de zoom. Em seguida, volte para o notebook e faça o mapa de 
+risco daquele cenário. Faça o mesmo processo com o cenário 2 e 3. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+  
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. De  que  forma esta  medida  pode  favorecer  trabalhadores  e  empregadores  de 
+laboratórios clínicos? 
+ 
+ 
+ 
+2. Qual é a definição dos riscos? Cite exemplos do que pode causá-los.  
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize  a  pia  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Lavagem de mãos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Lave as mãos clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de luvas, máscara e óculos. 
+As portas do armário serão fechadas após colocar todos os EPIs. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+2. LIGANDO O NOTEBOOK 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse no botão “on/off” 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+3. ANALISANDO O ESPAÇO FÍSICO 
+ 
+Visualize o laboratório clicando com o botão esquerdo do mouse na câmera com o nome 
+“Cenário 1” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Identifique  os  riscos  presentes  nesse  ambiente  clicando  com  o  botão  esquerdo  do 
+mouse nas  setas  de  “Navegação”  e  “Zoom”.  Rotacione  o  ângulo  de  visualização 
+pressionando e movendo o botão direito do mouse. 
+ 
+ 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Preencha o mapa de riscos conforme a análise realizada. Arraste o ícone do “tamanho” 
+pressionando o botão esquerdo do mouse para a área desejada. 
+ 
+ 
+ 
+Arraste o ícone do grupo pressionando o botão esquerdo do mouse na cor para o ícone 
+da etapa anterior. 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Arraste  o  ícone  do  extintor de  incêndio pressionando  o  botão  esquerdo do  mouse  no 
+símbolo correspondente ao tipo de extintor específico ao cenário analisado. 
+ 
+ 
+ 
+Remova  o  ícone  clicando  com  o  botão  direito  do  mouse  sobre  o  ícone  indesejado  ou 
+incorreto de alguma área específica. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Realize o relatório clicando com o botão esquerdo do mouse em “Relatório”. 
+ 
+ 
+ 
+Realize a especificação de cada risco e agente clicando com o botão esquerdo do mouse 
+em cada célula da tabela, com o auxílio do seu teclado descreva. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Visualize o cenário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Cenário 2” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Identifique  os  riscos  presentes  nesse  ambiente  clicando  com  o  botão esquerdo  do 
+mouse nas setas de “Navegação” e “Zoom”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Preencha o mapa de riscos conforme a análise realizada. Em seguida, visualize o cenário 
+clicando com o botão esquerdo do mouse na câmera com o nome “Cenário 3” ou através 
+do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Identifique  os  riscos  presentes  nesse  ambiente  clicando  com  o  botão  esquerdo  do 
+mouse nas setas de “Navegação” e “Zoom”. 
+ 
+ 
+ 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+Preencha o mapa de riscos conforme a análise realizada e finalize o relatório. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MAPA DE RISCOS 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

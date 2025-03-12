@@ -1,0 +1,827 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você   irá   preparar   concreto   na   forma   manual   e   com 
+betoneira. Diferentes traços podem ser utilizados para obter o concreto. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cimento; 
+• Água; 
+• Areia; 
+• Brita No 1; 
+• Brita No 2; 
+• Betoneira; 
+• Enxada. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+  
+MISTURA MANUAL 
+ 
+1. ESCOLHENDO O TRAÇO 
+ 
+Um  traço  é uma forma  rápida de  apresentar  a quantidade  de  cimento e agregados 
+que  são  utilizados  em  um  concreto.  Os  agregados  podem  ser  graúdos  (britas)  e 
+miúdos (areias). Um traço indicado por (1 : 2 : 3), por exemplo, indica que a proporção 
+do  concreto  será  de  1  parte  de  cimento  por  2  partes  de  areia  e  3  partes  de  brita. 
+Também é comum apresentar o traço com apenas dois números, como (1 : 5). Estes 
+números  indicam  que  para  uma  parte  de  cimento,  serão  utilizadas  5  partes  de 
+agregados. 
+O  traço  utilizado  pelo  aluno  para  a  produção  do  concreto  pode  ser  escolhido  pelo 
+aluno desde que algumas condições sejam cumpridas.  
+As condições são: 
+• O traço deve ser Rico (1 : 3,5), Médio (1 : 5,0) ou Pobre (1 : 6,5).  
+• As quantidades de brita No 1 e brita No 2 devem ser iguais. 
+• A  relação  de  água/cimento  utilizada  no  concreto  deve  ser  maior  que  0,4  e 
+menor  que  0,55.  O  valor  máximo  para  cada  aplicação  do  concreto  pode  ser 
+encontrado na NBR 12655:2006. 
+Alguns exemplos de traços podem ser observados na tabela 1. 
+Escolha um traço e calcule a quantidade de cada componente do concreto. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Tipo Traço a/c Cimento Areia Brita 1 Brita 2 
+Brita 
+Total 
+Pobre 
+1 : 6,5 1 : 1,62 : 4,88 0,4 1 1,62 2,44 2,44 4,88 
+1 : 6,5 1 : 2,68 : 3,82 0,45 1 2,68 1,91 1,91 3,82 
+1 : 6,5 1 : 3,88 : 2,62 0,52 1 3,88 1,31 1,31 2,62 
+Médio 
+1 : 5 1 : 1,1 : 3,9 0,41 1 1,1 1,95 1,95 3,9 
+1 : 5 1 : 2,06 : 2,94 0,46 1 2,06 1,47 1,47 2,94 
+1 : 5 1 : 2,9 : 2,1 0,5 1 2,9 1,05 1,05 2,1 
+Rico 
+1 : 3,5 1 : 0,58 : 2,92 0,44 1 0,58 1,46 1,46 2,92 
+1 : 3,5 1 : 1,3 : 2,2 0,48 1 1,3 1,1 1,1 2,2 
+1 : 3,5 1 : 1,92 : 1,58 0,51 1 1,92 0,79 0,79 1,58 
+ 
+  
+2. ADICIONANDO A AREIA 
+ 
+Escolha a quantidade de areia que será adicionada na superfície de mescla. Espalhe a 
+areia com a enxada. 
+ 
+3. ADICIONANDO O CIMENTO 
+ 
+Escolha a quantidade de cimento que será adicionada na superfície de mescla. Espalhe 
+o cimento com a enxada. 
+ 
+4. ADICIONANDO A BRITA Nº1 
+ 
+Escolha a quantidade de brita No 1 que será adicionada na superfície de mescla. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+  
+5. ADICIONANDO A BRITA Nº2 
+ 
+Escolha a quantidade de brita No 2 que será adicionada na superfície de mescla. Utilize 
+a enxada até obter uma mistura homogênea. 
+ 
+6. ADICIONANDO ÁGUA 
+ 
+Defina a quantidade de água que deve ser adicionada no buraco formado no centro 
+na   mistura.   Utilize   a   enxada   para   misturar  o   material   até   obter  uma   mescla 
+homogênea e plástica. 
+ 
+7. VERIFICANDO O RESULTADO OBTIDO 
+ 
+Verifique  a  mensagem  exibida  no  laboratório  virtual  que  indica  o  resultado  do 
+concreto obtido. 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de acordo 
+com o que foi observado nos experimentos. 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+MISTURA MECÂNICA (BETONEIRA) 
+ 
+1. ESCOLHENDO O TRAÇO 
+ 
+Escolha um traço e calcule a quantidade de cada componente do concreto. 
+ 
+2. ADICIONANDO A BRITA NA BETONEIRA 
+ 
+Utilize  a  concha  para  adicionar  na betoneira  a  quantidade  de  brita  No  1  definida 
+anteriormente. Também adicione na betoneira a mesma quantidade de brita No 2. 
+ 
+3. ADICIONANDO PARTE DA ÁGUA NA BETONEIRA 
+ 
+Adicione  metade  da  água  definida  anteriormente  na  betoneira  e  acione-a  para 
+misturar seu conteúdo durante um minuto. 
+ 
+4. ADICIONANDO O CIMENTO NA BETONEIRA 
+ 
+Abra  o  saco  que  contém  o  cimento  e  adicione  na  betoneira  a  quantidade  definida 
+anteriormente. Acione a betoneira para misturar seu conteúdo durante dois minutos. 
+ 
+5. ADICIONANDO A AREIA E A ÁGUA NA BETONEIRA 
+ 
+Abra  o  saco  que  contém  a  areia  e  adicione  na  betoneira  a  quantidade  definida 
+anteriormente.  Adicione  a  quantidade  de  água  restante.  Acione  a  betoneira  para 
+misturar seu conteúdo durante três minutos. 
+ 
+6. VERIFICANDO O RESULTADO OBTIDO 
+ 
+Verifique  a  mensagem  exibida  no  laboratório  virtual  que  indica  o  resultado  do 
+concreto obtido. 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+  
+7. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  foi  o  resultado  obtido  ao  seguir  o  procedimento  de  mistura  manual  do 
+concreto? Qual traço foi utilizado? 
+ 
+ 
+ 
+2. Qual  foi  o  resultado  obtido  ao  seguir  o  procedimento  de  mistura  mecânica  do 
+concreto? Qual traço foi utilizado? 
+ 
+ 
+ 
+3. Qual a importância de definir um traço adequado para o concreto utilizado em 
+uma obra? 
+ 
+ 
+ 
+4. Cite uma vantagem e uma desvantagem de cada um dos métodos utilizados para 
+produzir concreto utilizados neste laboratório. 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+TUTORIAL VIRTUALAB 
+MISTURA MANUAL 
+ 
+ 
+1. ESCOLHENDO O TRAÇO 
+ 
+Escolha a opção “Manual” clicando com o botão esquerdo do mouse no botão 
+indicado na imagem abaixo. 
+ 
+ 
+ 
+Defina qual o traço vai ser utilizado. Siga as condições estabelecidas no procedimento 
+do experimento para definir as proporções de cada componente do concreto. 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+2. ADICIONANDO A AREIA 
+ 
+Posicione o mouse sobre o saco de areia. 
+Observe que no canto inferior direito da tela é exibido o comando (usar saco) e a ação 
+que o usuário deve realizar para realizar o comando (clicar com o botão direito do 
+mouse). 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Clique com o botão direito do mouse no saco de areia. 
+Uma janela com as opções de ações que podem ser realizadas com o saco de areia é 
+exibida. 
+Escolha a opção de abrir o saco clicando com o botão esquerdo do mouse nela. 
+ 
+ 
+Acesse novamente as opções de ações do saco de areia e escolha a opção de despejar. 
+ 
+ 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Uma janela será exibida perguntando quantos quilos de areia devem ser utilizados na 
+produção do concreto. Insira quantos quilos de areia devem ser utilizados na produção 
+de concreto. Importante: Caso seja necessário utilizar casas decimais no valor escolhido, 
+utilize o ponto final como separador decimal. Por exemplo: 1.73 e 6.27. 
+ 
+ 
+ 
+Clique em prosseguir. Observe que o conteúdo foi despejado na área onde o concreto 
+será produzido. Posicione o mouse sobre a enxada. Use a enxada para espalhar a areia 
+clicando com o botão esquerdo do mouse nela. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+3. ADICIONANDO O CIMENTO 
+ 
+O  procedimento  utilizado  neste  passo  é semelhante  ao  passo  2,  onde  a  areia  foi 
+adicionada. Abra o saco de cimento. 
+ 
+ 
+ 
+Despeje o cimento onde a areia foi depositada. 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Insira quantos quilos de cimento devem ser utilizados na produção de concreto e clique 
+em prosseguir. 
+ 
+ 
+ 
+Utilize a enxada para misturar a areia e o cimento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+4. ADICIONANDO A BRITA Nº1 
+ 
+Dois  recipientes  com  brita  são  disponibilizados  para  utilizar  no  experimento.  Ao 
+posicionar o mouse sobre cada um dos recipientes, é possível identificar qual é o tipo da 
+brita pela janela exibida na tela. 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Ao  lado  de  cada  um  dos  reservatórios,  é  disponibilizada  uma  concha  que  pode  ser 
+utilizada para adicionar a brita deste reservatório na mistura do concreto. 
+Posicione o  mouse  sobre  a  concha  do reservatório  com  brita N
+o
+1  e adicione britas na 
+mistura. 
+ 
+ 
+ 
+Insira quantos quilos de brita N
+o
+1 devem ser utilizados na produção de concreto e clique 
+em prosseguir. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+5. ADICIONANDO A BRITA Nº2 
+ 
+O  procedimento  utilizado  neste  passo  é  semelhante  ao  passo  4,  onde  a  brita  N
+o
+1  foi 
+adicionada. 
+Utilize a concha próxima ao reservatório com brita N
+o
+2 para adicionar a brita na mistura 
+do concreto. 
+Insira quantos quilos de brita N
+o
+2 devem ser utilizados na produção de concreto e clique 
+em prosseguir. 
+ 
+ 
+ 
+Utilize a enxada para misturar as britas com a mistura de cimento e areia. 
+Perceba que a mistura foi realizada e foi aberto um orifício no meio para que a água seja 
+adicionada. 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+6. ADICIONANDO ÁGUA 
+ 
+Use o balde com água para adicionar água na mistura feita anteriormente. 
+ 
+ 
+ 
+Insira quantos litros de água devem ser utilizados na produção de concreto e clique em 
+prosseguir. Utilize a enxada para misturar o material até obter uma mescla homogênea 
+e plástica, concluindo a produção do concreto com traço escolhido. 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+7. VERIFICANDO O RESULTADO OBTIDO 
+ 
+Na tela será exibida uma janela indicando o resultado com concreto produzido. Caso o 
+resultado não seja satisfatório, reinicie o experimento e repita os passos apresentados 
+nesta etapa. 
+ 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+TUTORIAL VIRTUALAB 
+MISTURA MECÂNICA 
+ 
+ 
+1. ESCOLHENDO O TRAÇO 
+ 
+Na tela inicial do experimento, é exibida a escolha do tipo do procedimento utilizado 
+para produzir o concreto. 
+Escolha a opção da Betoneira. 
+ 
+ 
+ 
+Defina qual o traço vai ser utilizado. Siga as condições estabelecidas no procedimento 
+do experimento para definir as proporções de cada componente do concreto. 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+2. ADICIONANDO A BRITA NA BETONEIRA 
+ 
+Utilize a concha próxima do reservatório com brita N
+o
+1 para adicionar a brita na 
+betoneira. 
+Insira quantos quilos de brita N
+o
+1 devem ser utilizados na produção de concreto e 
+clique em prosseguir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Utilize a concha próxima do reservatório com brita N
+o
+2 para adicionar a brita na 
+betoneira. 
+Insira quantos quilos de brita N
+o
+2 devem ser utilizados na produção de concreto e 
+clique em prosseguir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+3. ADICIONANDO PARTE DA ÁGUA NA BETONEIRA 
+ 
+Use o balde para adicionar água na betoneira. 
+Importante: Neste passo, utilize apenas metade da quantidade de água total calculada 
+para elaboração do concreto. 
+Insira quantos litros de água devem ser adicionados na betoneira. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+Ao posicionar o mouse sobre a betoneira, uma opção de ação é exibida no canto inferior 
+da tela. 
+Acione a betoneira clicando com o botão esquerdo do mouse nela. 
+ 
+ 
+ 
+Um aviso será exibido na parte superior da tela, indicando que o procedimento realizado 
+pela betoneira de misturar seu conteúdo foi realizado durante um minuto. 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+4. ADICIONANDO O CIMENTO NA BETONEIRA 
+ 
+Abra o saco de cimento. 
+Despeje o conteúdo do saco de cimento na betoneira. 
+Insira  quantos  quilos  de  cimento  devem  ser  adicionados  na  betoneira  e  clique  em 
+prosseguir. 
+ 
+ 
+ 
+Acione a betoneira clicando com o botão esquerdo do mouse nela. 
+Um aviso será exibido na parte superior da tela, indicando que o procedimento realizado 
+pela betoneira de misturar seu conteúdo foi realizado durante dois minutos. 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+5. ADICIONANDO A AREIA E A ÁGUA NA BETONEIRA 
+ 
+O procedimento realizado neste passo é semelhante ao passo 4, onde foi adicionado o 
+cimento na betoneira. 
+Abra o saco de areia. Despeje o conteúdo do saco de areia na betoneira. 
+Insira  quantos  quilos  de  areia  devem  ser  adicionados  na  betoneira  e  clique  em 
+prosseguir. 
+ 
+ 
+ 
+Use o balde para adicionar água na betoneira. 
+Importante: Neste passo utilize apenas metade da quantidade de água total calculada 
+para elaboração do concreto. 
+Insira quantos litros de água devem ser adicionados na betoneira. 
+Acione a betoneira clicando com o botão esquerdo do mouse nela. 
+Um aviso será exibido na parte superior da tela, indicando que o procedimento realizado 
+pela betoneira de misturar seu conteúdo foi realizado durante três minutos.  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+EXECUÇÃO DE TRAÇO DO CONCRETO 
+ 
+ 
+6. VERIFICANDO O RESULTADO OBTIDO 
+ 
+Na tela, será exibida uma janela indicando o resultado com concreto produzido. Caso o 
+resultado não seja satisfatório, reinicie o experimento e repita os passos apresentados 
+nesta etapa. 
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

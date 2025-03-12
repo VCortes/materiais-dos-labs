@@ -1,0 +1,937 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre algumas das 
+técnicas de escultura. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Argila; 
+• Bloco de madeira; 
+• Cadinho de fundição; 
+• Esteca; 
+• Ferro de solda; 
+• Formão; 
+• Lima; 
+• Luva térmica; 
+• Martelo; 
+• Moldes de metal; 
+• Peças de metal; 
+• Pinça de fundição. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO A TÉCNICA 
+ 
+Escolha a técnica que será utilizada para confeccionar a escultura dentre “Modelagem 
+e adição”, “Fundição”, “Construção” ou “Talha”. Em seguida, leia o texto introdutório 
+do laboratório. 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize   as   mãos   na   pia   e   coloque   os   equipamentos   de   proteção   individual 
+localizados no “Armário de EPIs”. 
+ 
+MODELAGEM E ADIÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE MODELAGEM E ADIÇÃO 
+ 
+Homogeneíze  o  bloco  de  argila  e molde  a  argila  com  as  mãos  para  dar  forma  à 
+escultura.  Então,  utilizando  a  esteca,  retire  o  excesso  de  argila  da  escultura  e,  em 
+sequência, faça as marcações e os detalhes (olhos, bocas, relevos) na escultura. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+FUNDIÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE FUNDIÇÃO 
+ 
+Coloque  as  luvas  térmicas.  Em  seguida,  coloque  o  cadinho  com  o  material  a  ser 
+derretido no forno. Após o derretimento, retire o cadinho do forno. Então, selecione 
+um dos moldes para despejar o material derretido. Faça isso para os outros moldes 
+para obter as três esculturas. 
+ 
+CONSTRUÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE CONSTRUÇÃO 
+ 
+Posicione, uma a uma, as peças metálicas que compõe as arestas do cubo no centro 
+da mesa. Utilize o ferro de solda para unir as arestas que compõe o cubo para finalizar 
+a  escultura.  Em  seguida,  posicione,  uma  a  uma,  as  peças  metálicas  que  compõe  as 
+arestas da pirâmide no centro da mesa. Então, una-as, com o auxílio do ferro de solda, 
+para finalizar a montagem da pirâmide. 
+ 
+TALHA 
+ 
+3. UTILIZANDO A TÉCNICA DE TALHA 
+ 
+Entalhe o formato da escultura no bloco de madeira utilizando a talha e o martelo. Em 
+seguida, ainda utilizando a talha e o martelo, retire o excesso de material e adicione 
+os detalhes da escultura. Utilize a lima para polir a superfície da escultura. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+  
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Em que consiste a técnica de modelagem e adição? 
+ 
+ 
+ 
+2. Para quais materiais a técnica de talha é mais apropriada? Por quê? 
+ 
+ 
+ 
+3. Como  funciona  a  união  das  peças  metálicas  para  formar  uma  escultura  pela 
+técnica de construção? 
+ 
+ 
+ 
+4. Descreva, brevemente, os passos para a produção de uma escultura pela técnica 
+de construção. 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO A TÉCNICA 
+ 
+Escolha  a  técnica  para  a  confecção  da  escultura  clicando  com  o  botão  esquerdo  do 
+mouse  em  um  dos  botões  destacados  em  verde-claro,  “Modelagem  ou  adição”  ou 
+“Talha”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Leia o texto introdutório referente à técnica escolhida e prossiga para a prática clicando 
+com o botão esquerdo do mouse em “Continuar”. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na pia clicando com o botão esquerdo do mouse na torneira. 
+ 
+ 
+ 
+Visualize  a  estante  com  os  EPIs clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Estante EPIs” do menu “Visualização” ou utilizando o atalho “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque os EPIs clicando com o botão esquerdo do mouse nos óculos e no avental. 
+ 
+ 
+ 
+Visualize  a  bancada  principal  clicando  com  o botão  esquerdo  do  mouse  na  câmera 
+“Bancada Principal” do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+MODELAGEM E ADIÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE MODELAGEM E ADIÇÃO 
+ 
+Homogeneíze  o  bloco  de  argila  clicando  com  o  botão  direito  do  mouse  no bloco  e 
+selecionando a opção “Homogenizar bloco” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Molde a argila para dar forma à escultura clicando com o botão esquerdo do direito do 
+mouse na argila e selecionando a opção “Moldar” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Retire o excesso de argila na escultura clicando com o botão direito do mouse na esteca 
+e selecionando a opção “Retirar excesso”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Faça  as  marcações  e  detalhes  da  escultura  clicando  como  botão  direito  do  mouse  na 
+esteca e selecionando a opção “Adicionar detalhes” com o botão esquerdo do mouse. 
+Ao final do processo, observe a escultura pronta.  
+ 
+ 
+ 
+Abra o menu de opções para reiniciar o experimento clicando com o botão esquerdo do 
+mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Reinicie  a  prática  para utilizar  outra  técnica  de  escultura.  Em  seguida,  retorne  para  a 
+página 09 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+FUNDIÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE FUNDIÇÃO 
+ 
+Coloque as luvas térmicas clicando com o botão esquerdo do mouse nas luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque o cadinho no forno com o auxílio da piça clicando com o botão direito do mouse 
+no cadinho e selecionando com o botão esquerdo do mouse a opção “Colocar no forno”. 
+ 
+ 
+ 
+Após  o  material  ter  sido  derretido,  retire  o  cadinho  do  forno  clicando  com  o  botão 
+direito  do  mouse no  forno  e  selecionando  com  o  botão  direito  do  mouse  a  opção 
+“Retirar do forno”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Selecione  o  molde  de  folhas  para  receber  o  material  derretido  clicando  com  o  botão 
+esquerdo do mouse no molde de folhas. 
+ 
+ 
+ 
+Coloque o material derretido no molde de folhas clicando com o botão direito do mouse 
+no cadinho e selecionando a opção “Derramar no molde”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Após a solidificação do material no molde, retire a escultura produzida clicando com o 
+botão direito do mouse no molde utilizado. 
+ 
+ 
+ 
+Selecione  o  molde  da  mão  para  receber  o  material  derretido  clicando  com  o  botão 
+esquerdo do mouse no molde da mão. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque o material derretido no molde da mão clicando com o botão direito do mouse 
+no cadinho e selecionando a opção “Derramar no molde”. 
+ 
+ 
+ 
+Após a solidificação do material no molde, retire a escultura produzida clicando com o 
+botão direito do mouse no molde utilizado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Selecione  o molde  bailarina  para  receber  o  material  derretido  clicando  com  o  botão 
+esquerdo do mouse no molde da bailarina. 
+ 
+ 
+ 
+Coloque o material derretido no molde bailarina clicando com o botão direito do mouse 
+no cadinho e selecionando a opção “Derramar no molde”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Após a solidificação do material no molde, retire a escultura produzida clicando com o 
+botão direito do mouse no molde utilizado. 
+ 
+ 
+ 
+Visualize as esculturas produzidas clicando com o botão esquerdo do mouse na câmera 
+“Bancada Alternativa” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Abra o menu de opções para reiniciar o experimento clicando com o botão esquerdo do 
+mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Reinicie  a  prática  para  utilizar  outra  técnica  de  escultura.  Em  seguida,  retorne para  a 
+página 09 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+CONSTRUÇÃO 
+ 
+3. UTILIZANDO A TÉCNICA DE CONSTRUÇÃO 
+ 
+Observe as peças metálicas que formarão o cubo destacadas abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque no centro da mesa uma peça da base do cubo clicando com o botão direito do 
+mouse sobre a área onde estão as peças do cubo. Em seguida, selecionando com o botão 
+esquerdo do mouse a opção “Colocar na base” e escolhendo uma das posições da base 
+com o botão esquerdo do mouse. Repita esse passo e coloque as outras peças da base 
+até que seja indicada a necessidade de soldar as arestas. 
+ 
+ 
+ 
+Leia as instruções dos pontos que devem receber solda na parte superior da tela. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Solde os pontos indicados, um a um, clicando com o botão direito do mouse no ferro de 
+solda, selecionando a opção “Soldar cubo” e escolhendo uma das posições indicadas na 
+mensagem de instrução das posições de soldagem. Repita esse passo para soldar a outra 
+posição indicada na instrução. Em seguida, posicione e solde as peças restantes da base 
+do cubo. 
+ 
+ 
+ 
+Coloque  no  centro  da  mesa  uma  das  peças  da  lateral  do  cubo  clicando  com  o  botão 
+direito do mouse sobre a área onde estão as peças do cubo. Em seguida, selecionando 
+com  o  botão  esquerdo  do  mouse  a  opção  “Colocar  na  lateral”  e  escolhendo  uma das 
+posições da lateral com o botão esquerdo do mouse. 
+ 
+  
+ 
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Leia as instruções dos pontos que devem receber solda na parte superior da tela. 
+ 
+ 
+ 
+Solde  o  ponto  indicado  clicando  com  o  botão  direito  do  mouse  no  ferro  de  solda, 
+selecionando a opção “Soldar cubo” e escolhendo a posição indicada na mensagem de 
+instrução das posições de soldagem. Em seguida, posicione e solde as peças restantes 
+da lateral do cubo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque  no  centro  da  mesa  uma  das  peças  do  ápice  do  cubo  clicando  com  o  botão 
+direito do mouse sobre a área onde estão as peças do cubo. Em seguida, selecionando 
+com  o  botão  esquerdo  do  mouse  a  opção  “Colocar  no  ápice”  e  escolhendo  uma  das 
+posições do ápice do cubo com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Leia as instruções dos pontos que devem receber solda na parte superior da tela. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Solde os pontos indicados, um a um, clicando com o botão direito do mouse no ferro de 
+solda, selecionando a opção “Soldar cubo” e escolhendo uma das posições indicadas na 
+mensagem de instrução das posições de soldagem. Repita esse passo para soldar a outra 
+posição indicada na instrução. Em seguida, posicione e solde as peças restantes do ápice 
+do cubo. 
+ 
+ 
+ 
+Observe as peças metálicas que formarão a pirâmide destacadas abaixo. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Coloque no centro da mesa uma peça da base da pirâmide clicando com o botão direito 
+do mouse sobre a área onde estão as peças da pirâmide. Em seguida, selecionando com 
+o botão esquerdo do mouse a opção “Colocar na base” e escolhendo uma das posições 
+da base com o botão esquerdo do mouse. Repita esse passo e coloque as outras peças 
+da base até que seja indicada a necessidade de soldar as arestas. 
+ 
+ 
+ 
+Leia as instruções dos pontos que devem receber solda na parte superior da tela. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Solde  o  ponto  indicado  clicando  com  o  botão  direito  do  mouse  no  ferro  de  solda, 
+selecionando a opção “Soldar pirâmide” e escolhendo a posição indicada na mensagem 
+de instrução das posições de soldagem. Em seguida, posicione e solde as peças restantes 
+da base da pirâmide. 
+ 
+ 
+ 
+Coloque  no  centro  da  mesa  uma peça  da  lateral  da  pirâmide  clicando  com  o  botão 
+direito  do   mouse   sobre   a  área   onde   estão  as   peças  da   pirâmide.   Em   seguida, 
+selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Colocar  na  lateral”  e 
+escolhendo uma das posições da lateral com o botão esquerdo do mouse. Repita esse 
+passo e coloque as outras peças da lateral até que seja indicada a necessidade de soldar 
+as arestas. 
+ 
+ 
+ 
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Leia as instruções dos pontos que devem receber solda na parte superior da tela. 
+ 
+ 
+ 
+Solde  o  ponto  indicado  clicando  com  o  botão  direito  do  mouse  no  ferro  de  solda, 
+selecionando a opção “Soldar pirâmide” e escolhendo a posição indicada na mensagem 
+de instrução das posições de soldagem. Em seguida, posicione e solde as peças restantes 
+da lateral da pirâmide. 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Abra o menu de opções para reiniciar o experimento clicando com o botão esquerdo do 
+mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Reinicie  a  prática  para  utilizar  outra  técnica  de  escultura.  Em  seguida,  retorne  para  a 
+página 09 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+TALHA 
+ 
+3. UTILIZANDO A TÉCNICA DE TALHA 
+ 
+Entalhe  o  bloco  de  madeira  clicando  com  o botão direito  do  mouse no martelo ou  na 
+talha e selecionando a opção “Entalhar” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Retire o excesso de material da forma entalhada clicando com o botão direito do mouse 
+no martelo ou na talha e selecionando a opção “Tirar excesso” com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+Adicione detalhes à escultura clicando com o botão direito do mouse no martelo ou na 
+talha e selecionando a opção “Adicionar detalhes” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Faça o polimento da superfície da escultura clicando com o botão esquerdo do mouse 
+na lima. Ao final do processo, observe a escultura pronta. 
+ 
+ 
+ 
+Abra o menu de opções para reiniciar o experimento clicando com o botão esquerdo do 
+mouse no botão indicado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+Reinicie  a  prática  para  utilizar  outra  técnica  de  escultura.  Em  seguida,  retorne  para  a 
+página 09 deste roteiro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TÉCNICAS E GÊNEROS DE ESCULTURA 
+TÉCNICAS DE ESCULTURA 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada  na página 09 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 

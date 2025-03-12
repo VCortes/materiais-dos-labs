@@ -1,0 +1,695 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da 
+experiência virtual e para respostas às perguntas frequentes a respeito do 
+VirtuaLab.  
+ 
+2. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+3. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir, apresentamos  as  duas principais  dúvidas na  utilização  dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte.  Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o uso do disco no Gerenciador de Tarefas (Ctrl + Shift + Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros  aplicativos  ou  reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção  e  reinicie  o  navegador.  Caso  persista,  desative  a  opção  e  tente 
+novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+x Béquer de 50 mL; 
+x Vidro de relógio; 
+x Proveta; 
+x Calorímetro; 
+x Espátula metálica; 
+x Peróxido de hidrogênio; 
+x Dióxido de manganês. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no ͞Armário de 
+EPIs͟. 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Prepare a capela abrindo a janela, acendendo a luz interna e ligando o exaustor. 
+Feito  isso,  coloque  todos  os  itens  necessários  ao  experimento,  que  se 
+encontram no Armário inferior, dentro da capela. A balança e o calorímetro já 
+estarão sobre a bancada.  
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+3. ADICIONANDO O PERÓXIDO DE HIDROGÊNIO 
+ 
+Transfira 40 mL de peróxido de hidrogênio para a proveta. Certifique-se  de 
+preencher a proveta com o volume correto em todas as vezes que realizar o 
+experimento. Em seguida, transfira o líquido para o béquer e despeje-o  no 
+calorímetro. Mude para a visualizaçãŽ dŽ ƚeƌŵƀŵeƚƌŽ ͞Aůƚнρ͕͟ Ɖaƌa ŽbƐeƌǀaƌ a 
+temperatura indicada. Anote o resultado.  
+ 
+4. ADICIONANDO O DIÓXIDO DE MANGANÊS  
+ 
+Para adicionar o dióxido de manganês no calorímetro, destampe o pote. Em 
+seguida, com  o auxílio da espátula metálica despeje no vidro de relógio. A 
+quantidade recomendada é de 1 g. Para certificar que a quantidade despejada 
+é condizente com a recomendada, pese o composto na balança. Feito isso, 
+despeje o dióxido de manganês no calorímetro.  
+ 
+5. HOMOGENEIZANDO A MISTURA 
+ 
+Para tornar a mistura homogênea, agite o conteúdo do calorímetro. Feito isso, 
+ŵƵde Ɖaƌa a ǀiƐƵaůinjaçãŽ dŽ ƚeƌŵƀŵeƚƌŽ ͞Aůƚнρ͘͟ ObƐeƌǀe Ž aƵŵeŶƚŽ da 
+temperatura e anote o resultado. 
+ 
+6. VARIANDO O VOLUME DE H
+2
+0
+2
+  
+ 
+Remova o conteúdo e limpe o calorímetro. Em seguida, repita mais duas vezes 
+os procedimentos descritos acima. A mudança, no entanto, estará no volume do 
+peróxido de hidrogênio que deverá ser adicionado no calorímetro em cada um 
+dos experimentos. No primeiro caso, deve-se adicionar 40 mL. No segundo caso, 
+deve-se adicionar 42 mL e no último caso, 45 mL. Analise cuidadosamente cada 
+uma das temperaturas em cada experimento e anote os resultados.  
+ 
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaůiaçãŽ de ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ 
+com o que foi observado nos experimentos.  
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos os materiais  utilizados, guarde-os e  encerre  o 
+experimento. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Após a realização do experimento, você deve ter anotado as temperaturas iniciais e 
+finais de cada procedimento. Com base nos seus conhecimentos prévios, justifique 
+porque houve um aumento brusco nas temperaturas após a adição do dióxido de 
+manganês. 
+ 
+ 
+ 
+2. Com base nos seus conhecimentos sobre reações químicas e trocas de energia, o 
+que aconteceria com as temperaturas finais, caso fosse adicionado 1,5 g de dióxido 
+de manganês ao invés de 1 g? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ 
+ 
+Os  equipamentos  de  proteção  individual  são  obrigatórios  para  a  realização  do 
+experimento, portanto, eƐcŽůha a ǀiƐƵaůinjaçãŽ dŽ aƌŵáƌiŽ de EPIƐ ƉƌeƐƐiŽŶaŶdŽ ͞Aůƚн7͘͟ 
+ 
+Clique com o botão esquerdo do mouse sobre o armário de EPIs para selecionar os 
+equipamentos de proteção. 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+
+  
+ 
+10 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Selecione os EPIs que se encontram no armário. Os EPIs utilizados serão: jaleco, luvas de 
+látex, máscara para vapores e óculos de proteção. 
+Após ter selecionado todos os EPIs, eles aparecerão ŶŽ cŽŵaŶdŽ ͞EPI͘͟ CůiƋƵe ƐŽbƌe ƐeƵ 
+ícone com o botão esquerdo do mouse. 
+ 
+MƵde Ɖaƌa a ǀiƐƵaůinjaçãŽ da caƉeůa ƉƌeƐƐiŽŶaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+ 
+ 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse sobre ela. 
+ 
+Para acender a luz interna da capela e ligar exaustor, mude para a visualização do painel 
+de cŽŶƚƌŽůe͕ ƉƌeƐƐiŽŶaŶdŽ ͞Aůƚнϯ͘͟ 
+Em seguida, acenda a luz interna e ligue o exaustor.  
+ 
+ 
+ 
+2. PREPARANDO A CAPELA 
+
+  
+ 
+12 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Feito isso, coloque todos os itens necessários ao experimento, que se encontram no 
+Armário inferior, dentro da capela. 
+Paƌa iƐƐŽ͕ ŵƵde Ɖaƌa a ǀiƐƵaůinjaçãŽ dŽ aƌŵáƌiŽ iŶfeƌiŽƌ ƉƌeƐƐiŽŶaŶdŽ ͞Aůƚнκ͘͟ 
+ 
+Para abrir cada armário, clique com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Selecione todos os itens necessários para a realização do experimento, clicando com o 
+botão esquerdo do mouse sobre eles. 
+ 
+Quando terminar de colocar todos os itens na mesa, mude para a visualização do interior 
+da caƉeůa ƉƌeƐƐiŽŶaŶdŽ ͞AůƚнϮ͘͟ O calorímetro e a balança já estarão sobre a bancada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+  
+  
+ 
+Coloque o peróxido de hidrogênio na proveta. Para isso, clique na proveta com o botão 
+direito do mouse na pisseta contendo a solução.  
+ 
+Em seguida, clique com o botão esquerdo do mouse sobre a pisseta para despejar a 
+solução de H
+2
+O
+2
+ na proveta. Atente-se a graduação da proveta. Certificando-se que o 
+valor indicado corresponde ao solicitado para a realização de cada fase do 
+experimento.  
+ 
+ 
+3. ADICIONANDO O PERÓXIDO DE HIDROGÊNIO 
+
+  
+ 
+15 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Coloque a pisseta na mesa. Clique com o botão direito do mouse sobre ela. 
+ 
+Transfira o hidróxido de hidrogênio para o béquer. Clique com o botão direito do 
+mouse sobre a proveta para transferir o H
+2
+O
+2
+ para o béquer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Em seguida, abra o calorímetro. Para isso, clique com o lado direito do mouse sobre 
+eůe e ƐeůeciŽŶe a ŽƉçãŽ ͞Abƌiƌ caůŽƌíŵeƚƌŽ͘͟  
+ 
+Transfira a solução de H
+2
+O
+2
+ para o calorímetro. Clique com o lado direito do mouse 
+ƐŽbƌe Ž béƋƵeƌ e ƐeůeciŽŶe a ŽƉçãŽ ͞DeƐƉejaƌ ŶŽ caůŽƌíŵeƚƌŽ͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+ 
+ 
+Para adicionar o dióxido de manganês, destampe o pote. Para isso, clique com o botão 
+esquerdo do mouse sobre ele. 
+ 
+Em seguida, clicando novamente com o botão esquerdo sobre o pote de MnO
+2
+, despeje 
+no vidro de relógio.    
+ 
+ 
+ 
+4. ADICIONANDO O DIÓXIDO DE MANGANÊS 
+
+  
+ 
+18 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Certifique-se de que a quantidade despejada no vidro de relógio é compatível com o 
+recomendado. Para isso, ŵƵde a ǀiƐƵaůinjaçãŽ Ɖaƌa BaůaŶça ͞Aůƚнϳ͘͟ Eŵ ƐegƵida͕ com o 
+mouse sobre a porta da balança, clique com o botão esquerdo do mouse sobre ela. 
+ 
+Em seguida, clique no vidro de relógio com o botão direito do mouse e selecione a ação 
+͞MŽǀeƌ Ɖaƌa baůaŶça͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Feche a balança. Clique com o botão esquerdo do mouse sobre a porta da balança para 
+fecha-la.  
+ 
+Em seguida, clique nos botões cŽŵ ƐíŵbŽůŽ ͞ůigaƌͬdeƐůigaƌ͟ e ͞Taƌaƌ͘͟ ObƐeƌǀe Ž ǀaůŽƌ 
+indicado pela balança.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Tire o vidro de relógio contendo o MnO
+2
+ da balança. Clique com o botão esquerdo do 
+mouse sobre a porta da balança para abri-la. Em seguida, clique com o botão esquerdo 
+do mouse sobre o vidro de relógio para move-lo novamente para a bancada.  
+ 
+Despeje o MnO
+2
+ no calorímetro. Para isso, mude a visualização para o interior da capela 
+͞AůƚнϮ͘͟ CůiƋƵe ŶŽ ǀidƌŽ de ƌeůsgiŽ cŽŵ Ž ůadŽ diƌeiƚŽ dŽ ŵŽƵƐe e ƐeůeciŽŶe ͞DeƉŽƐiƚaƌ 
+ŶŽ caůŽƌíŵeƚƌŽ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+  
+ 
+ 
+Feche o calorímetro. Clique com o botão esquerdo do mouse sobre ele. 
+ 
+Agite o conůŽƌíŵeƚƌŽ͘ CůiƋƵe cŽŵ Ž bŽƚãŽ diƌeiƚŽ ƐŽbƌe eůe e ƐeůeciŽŶe a ŽƉçãŽ ͞Agiƚaƌ 
+calorímetro͟. Você pode acelerar a homogeinezação ƐeůeciŽŶaŶdŽ aƐ ŽƉçƁeƐ ͞PƵůaƌ ϭ 
+ŵiŶƵƚŽ͟ ŽƵ ͞PƵůaƌ ϭ SegƵŶdŽ͘͟ 
+ 
+ 
+5. HOMOGENEIZANDO A MISTURA 
+
+  
+ 
+22 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+AŶaůiƐe a ƚeŵƉeƌaƚƵƌa fiŶaů͘ Paƌa iƐƐŽ͕ ŵƵde a ǀiƐƵaůinjaçãŽ Ɖaƌa ƚeƌŵƀŵeƚƌŽ ͞Aůƚнρ͘͟ 
+Quando não houver mais aumento da temperatura, pare de agitar o calorímetro 
+clicando com o botão esquerdo sobre ele.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+ 
+ 
+ 
+Esse experimento deve ser executado em triplicata. O processo é similar ao descrito 
+anteriormente, a única mudança está no volume de peróxido de hidrogênio que deve 
+ser adicionado cada vez que o experimento for realizado.  
+Antes  de  repetir  é  preciso  limpar o  calorímetro,  removendo  a  mistura  da  reação 
+anterior. Para isƐŽ͕ cŽůŽƋƵe Ž ŵŽƵƐe ƐŽbƌe eůe e aƉeƌƚe a ƚecůa ͞C͟ dŽ ƚecůadŽ͘  
+ 
+Em seguida, volte para o item 3 deste roteiro e repita o experimento adicionando dessa 
+vez 42 mL de H
+2
+O
+2
+. Repita todo procedimento e anote a temperatura final da reação. 
+ 
+6. VARIANDO O VOLUME DE H
+2
+O
+2
+  
+ 
+
+  
+ 
+24 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+Depois de limpar o calorímetro repita doto procedimento. Dessa vez adicionando 45 mL 
+de H
+2
+O
+2
+. Observe o resultado e anote a temperatura final.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+REAÇÕES QUÍMICAS E TROCAS DE ENERGIA 
+ 
+ 
+ 
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaůiaçãŽ de ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ cŽŵ Ž 
+que foi observado no experimento.  
+ 
+ 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os e encerre o experimento.   
+ 
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+8. FINALIZANDO O EXPERIMENTO 

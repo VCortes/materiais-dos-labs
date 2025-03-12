@@ -1,0 +1,441 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento,  você  irá  compreender  a heurística  de  aplicação das  cartas 
+“De – Para” na análise de layout.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. CALCULANDO A FUNÇÃO 
+ 
+Calcule  a  função  custo  para  o layout original.  Realize  as  respectivas  multiplicações  obtendo 
+como resultado os custos de movimentação por par de departamentos. 
+ 
+2. DESENVOLVENDO O LAYOUT 
+ 
+Desenvolva de novo o layout, a partir da aproximação dos setores com custo de transporte mais 
+elevado. 
+ 
+3. DETERMINANDO AS NOVAS DISTÂNCIAS 
+ 
+Determine as novas distâncias entre os departamentos a partir da análise no novo layout. 
+ 
+4. CALCULANDO OS CUSTOS 
+ 
+Calcule os custos de movimentação para o novo layout proposto. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+ 
+  
+5. COMPARANDO OS CUSTOS 
+ 
+Compare os custos entre layouts e determine o percentual de melhoria, a partir da redução de 
+custos de movimentação. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e responda 
+de acordo com o que foi observado no experimento, associando também com os conhecimentos 
+aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual foi a redução de custo observada ao aplicar a Carta De - Para? 
+ 
+ 
+ 
+2. Explique o novo design de layout e porque ele é mais eficiente. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CALCULANDO A FUNÇÃO 
+ 
+Analise o problema proposto na primeira página do laboratório e logo após siga para a 
+página de dados clicando com o botão esquerdo do mouse sobre a opção “Dados”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+Analise os dados dos números de viagens entre departamentos e logo após siga para a 
+página de dados clicando com o botão esquerdo do mouse sobre a opção “Resolução”. 
+ 
+ 
+ 
+Calcule a função custo para o layout original, preencha a tabela clicando com o botão 
+esquerdo do mouse sobre o quadrado vazio e digite o valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+Ache o custo total para aquele layout e preencha na parte de baixo da tabela clicando 
+com o botão esquerdo do mouse sobre o quadrado vazio e digite o valor encontrado. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+2. DESENVOLVENDO O LAYOUT 
+ 
+Se  dirija  para  seção  que desenvolve  o novo  layout  clicando  com  o botão  esquerdo  do 
+mouse sobre a opção “Novo Layout”. 
+ 
+ 
+ 
+Desenvolva um novo layout de acordo com a análise anterior visando diminuir os custos 
+de  transporte  clicando  com  o  botão  esquerdo  do  mouse  sobre  os  espaços  vazios  e 
+preenchendo os dados para determinar onde fica cada setor. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+Siga para a  seção novas  distâncias  clicando com o  botão  esquerdo  do  mouse  sobre  a 
+opção “Novas distâncias”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+3. DETERMINANDO AS NOVAS DISTÂNCIAS 
+ 
+Determine as novas distâncias através do novo layout e preenchendo a tabela conforme 
+já orientado anteriormente no passo 01. 
+ 
+ 
+ 
+Siga para a seção novo custo clicando o botão esquerdo do mouse sobre a opção “Novo 
+custo”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+4. CALCULANDO OS CUSTOS 
+ 
+Calcule os novos custos conforme orientado anteriormente no passo 01. 
+ 
+ 
+ 
+Siga  para  a  seção  comparação  clicando  o  botão  esquerdo  do  mouse  sobre  a  opção 
+“Comparação”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+5. COMPARANDO OS CUSTOS 
+ 
+Compare  os  dados obtidos  na primeira  tabela  de  resolução  do  layout  original  e das 
+tabelas de  novo  custo  do  novo  layout,  e  preencha  os  dados  clicando com  o  botão 
+esquerdo do mouse sobre os espaços vazios e digite os respectivos valores de custos. 
+ 
+ 
+ 
+Preencha o valor da redução de custos clicando com o botão esquerdo do mouse sobre 
+o espaço vazio e digite o valor de custo. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+Gere  um relatório  com  seus  dados  clicando  com o  botão  esquerdo do  mouse  sobre a 
+opção “Relatório”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+LABORATÓRIO DE PROJETO DE FÁBRICA E MANUTENÇÃO INDUSTRIAL 
+USO DE CARTAS DE – PARA NA AVALIAÇÃO E MELHORIA DE LAYOUT (MICROANALIZAÇÃO) 
+ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

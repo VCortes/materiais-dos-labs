@@ -1,0 +1,399 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento,   você   irá aprender sobre o   sistema cardiovascular   e 
+respiratório. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Indique as estruturas anatômicas mais fáceis de compreender. 
+ 
+ 
+ 
+2. Indique as estruturas anatômicas mais difíceis de compreender. 
+ 
+ 
+ 
+3. Como  o  laboratório  virtual  possibilita  a  compreensão  dos  sistemas  anatômicos 
+estudados? 
+ 
+ 
+ 
+4. O sistema cardiovascular é responsável por possibilitar a distribuição de oxigênio e 
+nutrientes para os mais diversos tecidos do corpo humano. Conceitue 2 patologias 
+importantes que o acomete. 
+ 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+5. Discorra   sobre   as   estruturas   cardíacas:   ápice,   base,   faces,   margens,   câmaras 
+cardíacas, esqueleto fibroso e pericárdio. 
+ 
+ 
+ 
+6. Quais peças anatômicas estão responsáveis pelo sistema respiratório? 
+ 
+ 
+ 
+7. Conceitue o pulmão e suas estruturas. 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CONHECENDO A INTERFACE 
+ 
+Essa é a interface geral. Veja que há muitos elementos e iremos falar a função de cada 
+um deles nos itens a seguir. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+É importante que você tenha expandido a tela do experimento, para que as funções do 
+navegar  não  conflitem  com  as  funções  do  experimento.  Assim,  quando  a  tela  é 
+expandida, você poderá rotacionar o modelo, ao deixar pressionado o botão direito do 
+mouse e movê-lo. 
+ 
+ 
+ 
+Controle o  zoom clicando  com  o  botão  esquerdo  do  mouse nos  botões  “Zoom –“  e 
+“Zoom +” ou utilize o botão de rolagem do mouse. 
+ 
+ 
+  
+ 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Para movimentar o modelo em diferentes angulações clicando com o botão esquerdo 
+do mouse nos botões indicados. 
+ 
+ 
+ 
+Realize movimentações no modelo (direita, esquerda, para cima e para baixo) clicando 
+com o botão esquerdo do mouse nos botões indicados. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Pesquise uma peça anatômica clicando com o botão esquerdo do mouse sobre a caixa 
+indicada e digite utilizando o seu teclado. 
+ 
+ 
+ 
+Escolha  o  modo  do  modelo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado e selecione uma das opções: Modo instrucional ou Modo cadavérico. 
+ 
+ 
+  
+c 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Visualize o nome da peça passando o cursor do mouse sobre a peça de interesse. 
+ 
+ 
+ 
+Desfaça  a  seleção  da  peça  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Obtenha informações sobre a peça a ser analisada clicando com o botão esquerdo do 
+mouse sobre “Indicações” e selecione uma das opções a ser estudada. 
+ 
+ 
+ 
+Caso  precise  de  mais  atenção  na  peça  anatômica,  isole-a  das  demais clicando com  o 
+botão esquerdo do mouse sobre “Isolar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Pince uma peça para identificar as estruturas clicando com o botão esquerdo do mouse 
+sobre “Pinagem”.  
+ 
+ 
+ 
+Visualize a identificação das estruturas com o recurso de pinagem passando o cursor do 
+mouse sobre o pino de interesse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Selecione grupo  anatômico clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+“Selecionar  Grupo” e  selecione  uma  das  opções. Observe  na  imagem  abaixo  que  o 
+sistema escolhido foi o respiratório. 
+ 
+ 
+ 
+Após  selecionar  uma  peça, retire-a  do  campo  de  visualização clicando  com  o  botão 
+esquerdo  do  mouse  sobre “Esconder”.  Observe  na  imagem  abaixo  que o  recurso  foi 
+aplicado na veia cava inferior 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+Ative a  transparência  da peça selecionada clicando  com  o  botão  esquerdo  do  mouse 
+sobre “Transparência”.  Regule pressionando e  arrastando  o  cursor  do  mouse sobre 
+barra indicada. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMIA 
+SISTEMA CARDIOVASCULAR E RESPIRATÓRIO 
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 05 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

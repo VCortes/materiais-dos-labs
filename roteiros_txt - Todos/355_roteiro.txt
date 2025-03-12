@@ -1,0 +1,493 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá realizar a drenagem linfática em pós-operatório de 
+mentoplastia. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Maca; 
+• Mocho; 
+• Escadinha de três degraus; 
+• Carrinho acessório; 
+• Lençol descartável; 
+• Touca descartável; 
+• Máscara descartável;  
+• Higienizante facial; 
+• Álcool 70%. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Limpe  as  mãos  e  coloque  os equipamentos  de  proteção  individual localizados 
+no “Armário de EPIs”. 
+ 
+2. LIMPANDO A FACE DA PACIENTE 
+ 
+Limpe a face da paciente com sabonete. 
+ 
+3. MARCANDO A CICATRIZ 
+ 
+Marque com caneta demográfica a cicatriz da mentoplastia. 
+ 
+4. REALIZANDO DRENAGEM LINFATICA 
+ 
+Realize  a  sequência  da  drenagem  linfática  da  face  de  acordo  com  o  pós-
+operatório de mentoplastia.  
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da drenagem linfática no pós operatório de mentoplastia? 
+ 
+ 
+ 
+2. Qual a importância da delimitação dos linfonodos? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize  a  pia,  acessando  a  câmera  “Pia”,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o menu lateral esquerdo, ou apertando as teclas “Alt+9”.  
+ 
+Higienize as mãos, clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Visualize o armário de EPIs, acessando a câmera “EPI”, clicando com o botão esquerdo 
+do mouse sobre o menu lateral esquerdo, ou apertando as teclas “Alt+3”.  
+ 
+  
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre suas portas. 
+ 
+  
+ 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Selecione os EPIs necessários para a realização do experimento, clicando com o botão 
+esquerdo  do  mouse  sobre  eles. Nesse  experimento  serão  necessários  jaleco,  luvas, 
+touca e máscara. 
+ 
+ 
+ 
+Note  que  no  lado  direito da  tela tem  um  ícone  com  escudo  que  indica  os EPIs 
+anteriormente selecionados. 
+ 
+  
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+2. LIMPANDO A FACE DA PACIENTE 
+ 
+Visualize  a maca,  acessando  a  câmera  “Maca – Visão Geral”,  clicando  com  o  botão 
+esquerdo do mouse sobre o menu lateral esquerdo, ou apertando as teclas “Alt+2”.  
+ 
+ 
+ 
+Coloque o lençol descartável na maca, clicando com o botão esquerdo do mouse sobre 
+a bobina com lençol descartável. 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Coloque a touca na paciente, clicando com o botão esquerdo do mouse sobre a touca. 
+ 
+  
+ 
+Remova a sujidade da pele da paciente com o lenço umedecido, clicando com o botão 
+esquerdo do mouse sobre o lenço umedecido. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Visualize a mesa com equipamentos, acessando a câmera “Mesa com equipamentos - 
+1”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu  lateral  esquerdo,  ou 
+apertando as teclas “Alt+4”.  
+ 
+ 
+ 
+Aplique  a  emulsão  de  limpeza,  clicando  com  o  botão esquerdo do  mouse  sobre  o 
+sabonete emulsão de limpeza. 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Visualize a mesa com equipamentos, acessando a câmera “Mesa com equipamentos - 
+1”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu  lateral  esquerdo,  ou 
+apertando as teclas “Alt+4”.  
+ 
+ 
+ 
+Limpe a paciente, clicando com o botão esquerdo do mouse sobre o pote com algodão 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+3. MARCANDO A CICATRIZ  
+ 
+Visualize a mesa com equipamentos, acessando a câmera “Mesa com equipamentos - 
+1”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu  lateral  esquerdo,  ou 
+apertando as teclas “Alt+4”.  
+ 
+ 
+ 
+Mova  a  caneta  demográfica  preta  para  a  paciente,  clicando  com  o  botão  direito  do 
+mouse sobre a caneta demográfica e selecionando “Modelo”. 
+ 
+  
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Marque a cicatriz, clicando com o botão esquerdo do mouse sobre a caneta demográfica 
+e selecionando “Marcar cicatriz”. 
+ 
+ 
+ 
+Marque  as  linhas  de  drenagem,  clicando  com  o  botão esquerdo do  mouse  sobre  a 
+caneta demográfica e selecionando “Marcar linhas de drenagem”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+Marque  os  linfonodos,  clicando  com  o  botão esquerdo do  mouse  sobre  a  caneta 
+demográfica e selecionando “Marcar linfonodos”. 
+ 
+  
+ 
+Retorne a caneta demográfica a mesa, clicando com o botão direito do mouse sobre a 
+caneta demográfica e selecionando “Mesa”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+4. REALIZANDO DRENAGEM LINFATICA  
+ 
+Realize a drenagem linfática, clicando com o botão esquerdo do mouse sobre o mento 
+da paciente. 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+DRENAGEM LINFÁTICA MANUAL DO PÓS-OPERATÓRIO DE MENTOPLASTIA 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 

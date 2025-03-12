@@ -1,0 +1,715 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a verificação 
+de sinais vitais. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool 70%; 
+• Bandeja; 
+• Bolas de algodão; 
+• Esfigmomanômetro; 
+• Estetoscópio; 
+• Relógio analógico ou cronômetro; 
+• Termômetro digital. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento é obrigatório o uso de jaleco, máscara e luvas.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+  
+2. ORGANIZANDO OS MATERIAIS 
+ 
+Abra  o  armário  auxiliar  e  mova  os  equipamentos – esfigmomanômetro,  estetoscópio, 
+termômetro,  álcool  70%  e  algodão – para  a  bandeja.  E,  em  seguida  mova  a bandeja  para  a 
+mesa auxiliar. 
+3. VERIFICANDO A FREQUÊNCIA CARDÍACA 
+ 
+Chame o paciente e posicione-o na maca. Peça que o paciente apoie o braço sobre o suporte 
+da  maca  e  pressione  levemente  os  dedos  sobre  a  artéria  radial  do  paciente.  Conte  a 
+quantidade de batimentos durante 60 segundos e anote o resultado do teste no prontuário. 
+ 
+4. VERIFICANDO A PRESSÃO ARTERIAL 
+ 
+Mantenha  o  paciente  deitado. Aplique  o  álcool  70%  no  algodão  e  higienize  o  estetoscópio. 
+Descarte o algodão utilizado. Após isso, coloque o manguito em torno do braço do paciente, 
+ajustando-o 2 a 3 cm acima da fossa cubital sem deixar folgas. Posicione seus dedos, indicador 
+e médio, no pulso dele e sinta a pulsação da artéria braquial na fossa cubital. Pressione a pera 
+para  insuflar  o  manguito  até  que  não  sinta  mais  o  batimento  do  pulso.  Posicione  o 
+estetoscópio abaixo do manguito no braço do paciente. Libere a pressão abrindo a válvula de 
+pressão e observe a pressão arterial sistólica (PAS) quando ouvir o primeiro som de batimento. 
+Continue  a  deflação  e  observe  a  pressão  diastólica  (PAD)  quando  ouvir  o  último  som  de 
+batimento. Remova  o  estetoscópio  do  braço do  paciente. Higienize o  estetoscópio com  o 
+algodão embebido em álcool. Descarte o algodão. Por fim, registre os valores encontrados no 
+prontuário. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+  
+5. VERIFICANDO A FREQUÊNCIA RESPIRATÓRIA 
+ 
+Pressione levemente os dedos sobre a artéria radial do paciente e, enquanto isso, observe os 
+movimentos  de  inspiração  e  expiração.  Conte  os  movimentos  respiratórios  durante  60 
+segundos e anote o resultado do teste no prontuário.  
+ 
+6. VERIFICANDO A TEMPERATURA AXILAR 
+ 
+Aplique o álcool 70% no algodão e higienize o termômetro. Descarte o algodão. Seque a região 
+axilar do paciente utilizando um algodão seco. Ligue o termômetro e coloque-o na região axilar 
+do paciente. Mantenha o termômetro na posição até terminar a leitura e anote o resultado 
+no prontuário.  
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância de higienizar os equipamentos antes e após a sua utilização? 
+ 
+ 
+ 
+2. Por que é escolhida a artéria radial para realizar o teste de frequência cardíaca? 
+Em crianças esse teste é realizado da mesma maneira? 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre uma das portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e máscara. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse em uma das portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+2. ORGANIZANDO OS MATERIAIS 
+ 
+Abra o armário auxiliar clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  o  esfigmomanômetro  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Mover para bandeja”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Repita  o  procedimento  anterior,  mova  o estetoscópio,  o  termômetro,  o  algodão  e o 
+álcool 70% para a bandeja. 
+ 
+ 
+ 
+Mova a bandeja clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+3. VERIFICANDO A FREQUÊNCIA CARDÍACA 
+ 
+Chame o paciente clicando com o botão esquerdo do mouse em “Chamar paciente”. 
+ 
+ 
+ 
+Peça que o paciente estenda o braço clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Estender o braço”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Pressione a artéria radial do paciente clicando com o botão direito do mouse sobre as 
+mãos e selecione a opção “Pressionar artéria radial”. 
+ 
+ 
+ 
+Observe e conte a quantidade de batimentos durante 60 segundos. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Abra o prontuário clicando com o botão esquerdo do mouse no ícone “Prontuário”. 
+ 
+ 
+ 
+Anote  o  resultado  do  teste clicando  com  o  botão  esquerdo do  mouse  sobre  o  local 
+indicado e digite utilizando o teclado numérico do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Feche o prontuário clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+4. VERIFICANDO A PRESSÃO ARTERIAL 
+ 
+Aplique  álcool  no  algodão  clicando  com  o botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Aplicar álcool no algodão”. 
+ 
+ 
+ 
+Higienize  o  estetoscópio  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Higienizar estetoscópio”. 
+ 
+ 
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Aguarde o repouso do paciente por 5 minutos ou avance clicando com o botão esquerdo 
+do mouse sobre “Avançar”. 
+ 
+ 
+ 
+Coloque o manguito clicando com o botão direito do mouse sobre as mãos e selecione 
+a opção “Colocar manguito”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Posicione os dedos no pulso do paciente clicando com o botão direito do mouse sobre 
+as mãos e selecione a opção “Posicionar dedos no pulso”. 
+ 
+ 
+ 
+Insufle    o    manguito    clicando    com    o    botão    esquerdo    do    mouse    sobre    o 
+esfigmomanômetro e selecione a opção “Insuflar manguito”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Coloque  o  estetoscópico  clicando com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Colocar estetoscópio”. 
+ 
+ 
+ 
+Insufle o manguito clicando com o botão direito do mouse sobre o esfigmomanômetro 
+e selecione a opção “Insuflar manguito”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Libere a pressão clicando com o botão direito do mouse sobre o esfigmomanômetro e 
+selecione a opção “Liberar pressão”. 
+ 
+ 
+ 
+Remova  os  equipamentos  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Remover equipamentos”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Aplique  álcool  no  algodão clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Aplicar álcool no algodão”. 
+ 
+ 
+ 
+Higienize  o  estetoscópio  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Higienizar estetoscópio”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Abra o prontuário clicando com o botão esquerdo do mouse no ícone “Prontuário”. 
+ 
+ 
+ 
+Repita o procedimento descrito no tópico anterior, anote o resultado do teste. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+5. VERIFICANDO A FREQUÊNCIA RESPIRATÓRIA 
+ 
+Verifique a frequência respiratória clicando com o botão direito do mouse sobre as mãos 
+e selecione a opção “Checar frequência respiratória”. 
+ 
+ 
+ 
+Observe e conte os movimentos de inspiração e expiração durante 60 segundos. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Abra o prontuário clicando com o botão esquerdo do mouse no ícone “Prontuário”. 
+ 
+ 
+ 
+Repita o procedimento descrito no tópico anterior, anote o resultado do teste. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+6. VERIFICANDO A TEMPERATURA AXILAR 
+ 
+Aplique  álcool  no  algodão  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Aplicar álcool no algodão”. 
+ 
+ 
+ 
+Higienize  o  termômetro  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Higienizar termômetro”. 
+ 
+ 
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Seque  a  axila  do  paciente  clicando  com  o  botão  direito  do  mouse  sobre  as  mãos  e 
+selecione a opção “Secar axila”. 
+ 
+ 
+ 
+Ligue o termômetro clicando com o botão direito do mouse sobre as mãos e selecione 
+a opção “Ligar termômetro”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Aguarde a leitura do termômetro ou avance clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Abra o prontuário clicando com o botão esquerdo do mouse no ícone “Prontuário”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+Repita o procedimento descrito no tópico anterior, anote o resultado do teste. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DE ENFERMAGEM 
+VERIFICAÇÃO DE SINAIS VITAIS 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08  deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

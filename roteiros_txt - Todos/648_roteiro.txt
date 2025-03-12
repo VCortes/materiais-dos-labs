@@ -1,0 +1,591 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  aprender  a  realizar  o  preparo  de  uma  pomada 
+simples e com própolis 5%. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Balança analítica; 
+• Bastão de vidro; 
+• Béquer (100 mL); 
+• Béquer contendo lanolina anidra; 
+• Béquer contendo tintura de própolis; 
+• Béquer contendo vaselina líquida; 
+• Béquer contendo vaselina sólida; 
+• Espátula de silicone; 
+• Espátula metálica; 
+• Gral e pistilo; 
+• Papel de pesagem contendo BHT; 
+• Papel de pesagem contendo cloridrato de benzocaína; 
+• Pipeta Pasteur. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no “Armário 
+de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, máscara, luvas e óculos. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+  
+2. PREPARANDO A POMADA SIMPLES 
+ 
+Transfira  70  g  de  vaselina  sólida  contida  no  béquer  para  o  gral 1. Adicione  30  g  de  lanolina 
+anidra do béquer no gral 1. Utilizando o pistilo, misture o conteúdo do gral 1. Adicione 0,05 g 
+de BHT contido no papel de pesagem no gral 2. Com a pipeta de Pasteur, transfira a vaselina 
+líquida do béquer e pingue 10 gotas sobre o BHT no gral 2. Misture com o pistilo o conteúdo 
+do gral 2. Com a espátula de silicone, transfira a conteúdo do gral 2 para o gral 1. Homogeneíze 
+as misturas com o pistilo. 
+ 
+3. PREPARANDO A POMADA DE PRÓPOLIS  
+ 
+Transfira  2  g  de  cloridrato  de  benzocaína para  o gral 2.  Utilize  um  pistilo  para  triturar  o 
+cloridrato de benzocaína no gral. Adicione 5 g da tintura de própolis contida no béquer para o 
+gral 2 e misture com o pistilo. Ligue a balança e mova o béquer de 100 mL. Tare o seu peso. 
+Pese  93  g  de  pomada  simples  no  béquer.  Com  uma  espátula, transfira  uma  pequena 
+quantidade de pomada simples (cerca de 
+1
+3
+) do béquer para o gral 2. Misture o conteúdo do 
+gral 2 com o pistilo. Repita os procedimentos anteriores mais duas vezes, pese 93 g de pomada 
+simples no béquer, transfira 
+1
+3
+ da pomada simples para o gral 2 e misture o conteúdo, até que 
+toda a pomada seja incorporada.  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como são classificados os tipos de pomadas? 
+ 
+ 
+ 
+2. Qual a diferença de creme para pomada? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos passando o cursor do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, máscara, luvas 
+e óculos. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+2. PREPARANDO A POMADA SIMPLES 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Transfira  a vaselina  sólida  clicando  com  o  botão  direito  do  mouse  sobre o  béquer 
+indicado e selecione a opção “Transferir para Gral”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira  a lanolina  anidra clicando  com  o  botão  direito  do  mouse  sobre o  béquer 
+indicado e selecione a opção “Transferir para Gral”. 
+ 
+ 
+ 
+Misture o conteúdo clicando com o botão esquerdo do mouse no pistilo. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira 0,05  g  de  BHT clicando  com  o  botão  esquerdo  do  mouse  sobre o  papel  de 
+pesagem indicado. 
+ 
+ 
+ 
+Pegue uma pipeta Pasteur clicando com o botão direito do mouse sobre o pote indicado 
+e selecione a opção “Pegar pipeta”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Mova a pipeta Pasteur clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Béquer 3”. 
+ 
+ 
+ 
+Aspire o conteúdo clicando com o botão esquerdo do mouse sobre a pipeta Pasteur. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Mova a pipeta Pasteur clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Gral 2”. 
+ 
+ 
+ 
+Despreze  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a 
+opção “Desprezar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+Misture o conteúdo do gral 2 clicando com o botão esquerdo do mouse sobre o pistilo 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira  o  conteúdo  do  gral  2  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Transferir para gral 1”. 
+ 
+ 
+ 
+Homogeneíze  as  misturas  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  pistilo 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+3. PREPARANDO A POMADA DE PRÓPOLIS 
+ 
+Transfira  2  g  de  cloridrato  de  benzocaína clicando  com  o  botão  esquerdo  do  mouse 
+sobre o papel de pesagem indicado. 
+ 
+ 
+ 
+Triture o conteúdo clicando com o botão esquerdo do mouse sobre o pistilo. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira  5  g  da  tintura  de  própolis clicando  com  o  botão  direito  do  mouse  sobre o 
+béquer indicado e selecione a opção “Transferir para o gral” 
+ 
+ 
+ 
+Misture o conteúdo clicando com o botão esquerdo do mouse sobre o pistilo indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue   a   balança clicando   com   o   botão   esquerdo   do   mouse   sobre   o   botão   de 
+ligar/desligar. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Mova o béquer clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a balança”. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão “Tara”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira o conteúdo do gral 1 clicando com o botão direito do mouse sobre o gral 1 e 
+selecione a opção “Transferir para o béquer”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Transfira 
+1
+3
+ da pomada simples clicando com o botão direito do mouse sobre o béquer e 
+selecione a opção “Transferir para o gral”. 
+ 
+ 
+ 
+Misture o conteúdo clicando com o botão esquerdo do mouse sobre o pistilo indicado. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+Repita os procedimentos anteriores mais duas vezes, transfira 
+1
+3
+ da pomada simples para 
+o gral 2 e misture o conteúdo, até que toda a pomada seja incorporada. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FARMACOTÉCNICA  
+PREPARO DE POMADA SIMPLES/POMADA PRÓPOLIS 5% (P/P) 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,1180 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+  
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  irá  explorar  fenômenos  de  transferência  de  calor  em 
+fluidos. 
+ 
+2. Utilize  a  seção “Recomendações  de  Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer; 
+• Termômetro; 
+• Calorímetro; 
+• Pisseta; 
+• Água; 
+• Óleo; 
+• Garrafa térmica; 
+• Bico de Bunsen; 
+• Aparato para aquecimento. 
+ 
+ 
+ 
+PROCEDIMENTOS 
+ 
+PARTE I – DETERMINAÇÃO DA CAPACIDADE TÉRMICA DE UMA CALORÍMETRO 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de 
+EPIs”. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+2. TARANDO A BALANÇA 
+ 
+Posicione  o  béquer  sobre  a  balança,  ligue-a  e  utiliza  a  função  “TARA”  para 
+desconsiderar a massa do béquer, durante a realização do experimento.  
+ 
+3. ADICIONANDO ÁGUA NO BÉQUER 
+ 
+Transfira, da pisseta para o béquer, 100 mL da água. 
+ 
+4. MEDINDO A MASSA DA ÁGUA 
+ 
+Posicione o béquer, já com água, sobre a balança e meça a massa da água. 
+Anote o valor observado. 
+ 
+5. AJUSTANDO O AQUECIMENTO 
+ 
+Posicione  o  béquer  no  sistema  de  aquecimento  e  ligue  a  chama  do  bico  de 
+Bunsen. Se possível, acelere a troca térmica. 
+ 
+6. MEDINDO A TEMPERATURA DE AQUECIMENTO 
+  
+Utilize o termômetro para medir a temperatura da água em aquecimento. 
+Aguarde a água aquecer até aproximadamente 80° C e então desligue o sistema 
+de aquecimento.  
+Retire o béquer do sistema de aquecimento e posicione-o sobre a mesa.  
+ 
+7. MEDINDO A TEMPERATURA INICIAL DO CALORÍMETRO 
+ 
+Meça a temperatura inicial do calorímetro, utilizando o termômetro. Anote essa 
+temperatura.  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+8. ADICIONANDO ÁGUA AQUECIDA AO CALORÍMETRO 
+ 
+Despeje a água aquecida, contida no béquer, sobre o calorímetro e agite-o, para 
+acelerar a troca térmica.  
+ 
+9. MEDINDO A TEMPERATURA DO CALORÍMETRO 
+ 
+Espera  a  temperatura  do  calorímetro  estabilizar  e  meça,  novamente,  a sua 
+temperatura, utilizando o termômetro. Anote o valor encontrado. 
+ 
+10. DESMONTANDO O EXPERIMENTO 
+ 
+Descarte o conteúdo do calorímetro e desligue o termômetro.  
+ 
+11. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+PARTE II – DETERMINAÇÃO DO CALOR ESPECÍFICO DE LÍQUIDOS 
+ 
+1. ADICIONANDO ÓLEO NO BÉQUER 
+ 
+Transfira, da pisseta para o béquer, 100 mL de óleo.  
+ 
+2. MEDINDO A MASSA DO ÓLEO 
+ 
+Coloque o béquer, já com o óleo, sobre a balança e realize a pesagem. Anote a 
+massa encontrada.  
+ 
+3. AJUSTANDO O AQUECIMENTO  
+ 
+Posicione  o  béquer  no  sistema  de  aquecimento  e  ligue  a  chama  do  bico  de 
+Bunsen. Se possível, acelere a troca térmica. 
+ 
+4. MEDINDO A TEMPERATURA DE AQUECIMENTO 
+ 
+Utilize o termômetro para medir a temperatura do óleo em aquecimento. 
+Aguarde o óleo aquecer até aproximadamente 80° C e então desligue o sistema 
+de aquecimento.  
+Retire o béquer do sistema de aquecimento e posicione-o sobre a mesa.  
+ 
+5. MEDINDO A TEMPERATIRA INICIAL DO CALORÍMETRO 
+ 
+Meça a temperatura inicial do calorímetro, utilizando o termômetro. Anote essa 
+temperatura. 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+6. ADICIONANDO ÓLEO AQUECIDO AO CALORÍMETRO 
+ 
+Despeje o óleo aquecido, contido no béquer, sobre o calorímetro e agite-o, para 
+acelerar a troca térmica.  
+ 
+7. MEDINDO A TEMPERATURA DO CALORÍMETRO 
+ 
+Espera  a  temperatura  do  calorímetro  estabilizar  e  meça,  novamente,  a  sua 
+temperatura, utilizando o termômetro. Anote o valor encontrado. 
+ 
+8. DESMONTANDO O EXPERIMENTO 
+ 
+Descarte o conteúdo do calorímetro e desligue o termômetro.  
+ 
+9. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado no experimento. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+PARTE I – DETERMINAÇÃO DA CAPACIDADE TÉRMICA DE UMA CALORÍMETRO 
+ 
+A  capacidade  térmica  C  do  calorímetro  pode  ser  determinada  pelo  princípio  da 
+conservação de energia: 
+Q
+CEDIDO
+ = Q
+RECEBIDO
+ 
+Q
+CEDIDO
+ 
+PELA ÁGUA QUENTE
+ = Q
+ABSORVIDO PELO CALORÍMETRO
+ 
+m
+1
+c (T
+1
+ - T
+f
+) = C (T
+f
+ - T
+C
+) 
+C = m
+1
+c (T
+1
+ - T
+f
+) / (T
+f
+ - T
+C
+) 
+ 
+Onde: 
+C = capacidade térmica do calorímetro; 
+m1 = massa de água; 
+c = calor específico da água (1cal/g °C); 
+T1= temperatura da água quente; 
+Tf = temperatura final de equilíbrio sistema; 
+TC = temperatura no interior do calorímetro 
+ 
+ 
+1. Com os dados obtidos, calcule a capacidade térmica do calorímetro. 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+PARTE II – DETERMINAÇÃO DO CALOR ESPECÍFICO DE LÍQUIDOS 
+ 
+A  capacidade  térmica  C  do  calorímetro  pode  ser  determinada  pelo  princípio  da 
+conservação de energia: 
+Q
+CEDIDO
+ = Q
+RECEBIDO
+ 
+Q
+CEDIDO PELO ÓLEO QUENTE
+ = Q
+ABSORVIDO PELO CALORÍMETRO
+  
+ 
+m
+1
+c (T
+1
+ - T
+f
+) = C (T
+f
+ - T
+C
+) 
+c = C (T
+f
+ - T
+C
+) / m
+1
+ (T
+1
+ – T
+f
+) 
+ 
+Onde: 
+ 
+C = capacidade térmica do calorímetro; 
+m
+1
+ = massa de óleo; 
+c = calor específico do óleo; 
+T
+1
+= temperatura do óleo quente; 
+T
+f
+ = temperatura final de equilíbrio sistema; 
+T
+C
+ = temperatura no interior do calorímetro 
+ 
+1. Com os dados obtidos, calcule o calor específico do óleo. Compare o valor obtido 
+com  valores  de  calor  específico  de  óleos  vegetais  encontrados  na  internet. 
+Justifique eventuais diferenças. 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+PARTE I – DETERMINAÇÃO DA CAPACIDADE TÉRMICA DE 
+UMA CALORÍMETRO 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+ Acesse  a  câmera  “EPI”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu 
+superior esquerdo da tela.  
+ 
+ 
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Selecione os EPI’s necessários ao experimento, clicando com o botão direito do mouse 
+sobre o EPI desejado e selecionando a opção “Colocar EPI” para que você possa utilizá-
+lo. Os EPI’s utilizados serão: Jaleco e óculos de proteção. 
+ 
+ 
+ 
+Acesse a câmera “Bancada”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+2. TARANDO A BALANÇA 
+ 
+ Posicione o béquer na balança, clicando com o botão direito do mouse sobre o béquer 
+e selecionando a opção “Colocar na balança”. 
+ 
+ 
+Acesse a câmera “Balança” para visualizar o béquer na balança. 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Ligue a balança, clicando com botão esquerdo do mouse sobre o botão “Power”. 
+ 
+ 
+ 
+Observe se a balança ligou. 
+Tare a balança para desprezar a massa do béquer, clicando com o botão esquerdo do 
+mouse sobre o botão “TARA”. 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Observe que a balança foi zerada, após a tara. 
+Retorne o béquer  para  a  bancada,  clicando com  o  botão  direito  do  mouse  sobre  o 
+béquer e selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Acesse a câmera “Bancada” para retornar a tela inicial do experimento. 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+3. ADICIONANDO ÀGUA NO BÉQUER 
+ 
+Transfira  100  mL  de água para o  béquer,  clicando com  o  botão  direito  do  mouse  na 
+pisseta com água em destaque e selecionando a opção “Despejar no béquer”. 
+ 
+ 
+ 
+Pressione  a pisseta, para  inserir  água  no  béquer,  e  observe  a  quantidade  de  água, 
+adicionada, pela escala que aparece ao canto da tela. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Retorne a pisseta para a bancada, clicando com o botão direito do mouse sobre a pisseta 
+e selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+4. MEDINDO A MASSA DA ÁGUA 
+ 
+Coloque  o  béquer,  já  com  a água,  sobre  a  balança,  clicando com  o  botão  direito  do 
+mouse sobre o béquer e selecione a opção “Colocar na balança”. 
+ 
+ 
+ 
+Em seguida, acesse a câmera “Balança” para visualizar a medição da massa. 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Observe e anote o valor da massa, exibido pela balança. 
+ 
+ 
+ 
+Retire o  béquer  da  balança,  clicando com  o  botão  direito  do  mouse  no  béquer  e 
+selecionando a opção “Colocar na mesa”. 
+ 
+ 
+Retorne a tela inicial do experimento, acessando a câmera “Bancada”. 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+5. AJUSTANDO O AQUECIMENTO 
+ 
+Posicione béquer sobre  o  sistema  de  aquecimento,  clicando com  o  botão  direito  do 
+mouse sobre o béquer e selecionando a opção “Posicionar no sistema de aquecimento”. 
+ 
+ 
+ 
+Observe que o béquer se posicionou no sistema de aquecimento. 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Acesse a câmera “Aquecimento” para visualizar o sistema de aquecimento. 
+ 
+ 
+ 
+Ligue o sistema de aquecimento, clicando com o botão direito do mouse sobre bico de 
+Bunsen e selecionando a opção “Ligar chama”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Observe a chama do bico de Bunsen. 
+ 
+ 
+ 
+Ajuste a velocidade de aquecimento do fluído contido no béquer, clicando e arrastando, 
+com o botão esquerdo do mouse, sobre a janela “Acelerar troca térmica”. 
+Em seguida, acesse a câmera “Bancada” para retornar a tela inicial do experimento. 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+6. MEDINDO A TEMPERATURA DE AQUECIMENTO 
+ 
+Meça a temperatura de aquecimento, clicando com o botão direito do mouse sobre o 
+termômetro e selecionando a opção “Medir béquer”. 
+ 
+ 
+ 
+Observe que a temperatura da água em aquecimento aparece no canto da tela. 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Aguarde o  aquecimento  da  água  até  aproximadamente  80°  C  e, então, desligue  o 
+sistema de aquecimento, acessando a opção de câmera “Aquecimento”, clicando com o 
+botão  direito  do  mouse  sobre  o  bico  de  Bunsen  e  selecionando  a  opção  “Desligar 
+chama”.  Lembre-se  que  você  pode  acelerar  o  aquecimento  da  água  ajustando  o 
+aquecimento na janela “Acelerar troca térmica”. 
+ 
+ 
+Em seguida para retirar o béquer do sistema de aquecimento, clique com o botão direito 
+do mouse sobre o béquer e selecione a opção “Colocar na mesa”.  
+Só  será  possível  remover  o  béquer  do  sistema  de  aquecimento  se  o  Bico  de  Bunsen 
+estiver desligado! 
+ 
+Em seguida,  acesse  a  opção  de  câmera  “Bancada”  para  retornar  a  tela  inicial  do 
+experimento. 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+7. MEDINDO A TEMPERATURA INICIAL DO CALORÍMETRO 
+ 
+Meça a temperatura inicial do calorímetro, clicando com o botão direito do mouse sobre 
+o termômetro e selecionando a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Observe e anote a temperatura inicial do calorímetro. 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+8. ADICIONANDO ÁGUA AO CALORÍMETRO 
+ 
+Transfira a água aquecida, contida no béquer, para o calorímetro, clicando com o botão 
+direito do mouse sobre o béquer e selecionando a opção “Despejar no calorímetro”. 
+ 
+ 
+ 
+Observe que a água é adicionada ao calorímetro. 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Acelere a troca térmica entre o calorímetro e a água aquecida agitando o conteúdo do 
+calorímetro, clicando com o botão direito do mouse sobre o calorímetro e selecionando 
+a opção “Agitar conteúdo”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+9. MEDINDO A TEMPERATURA DO CALORÍMETRO 
+ 
+Meça a  temperatura  no  calorímetro,  clicando com  o  botão  direito  do  mouse  sobre  o 
+termômetro e selecionando a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Observe a temperatura do calorímetro, aguarde que que ela estabilize e anote seu valor. 
+T
+c 
+= ___________ °C 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+10.  DESMONTANDO O EXPERIMENTO 
+ 
+Retire a água do calorímetro, clicando com o botão direito do mouse sobre o calorímetro 
+e selecionando a opção “Descartar conteúdo”.  
+ 
+ 
+ 
+Desligue o termômetro, clicando com o botão direito do mouse sobre o termômetro e 
+selecione a opção “Desligar termômetro”. 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+11. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+PARTE II – DETERMINAÇÃO DO CALOR ESPECÍFICO DE 
+LÍQUIDOS 
+ 
+ 
+1. ADICIONANDO ÓLEO NO BÉQUER 
+ 
+ 
+Transfira  100  mL  de óleo para o  béquer,  clicando com  o  botão  direito  do  mouse  na 
+pisseta com óleo em destaque e selecionando a opção “Despejar no béquer”. 
+ 
+ 
+ 
+Pressione a pisseta para inserir óleo no béquer.  
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Observe a quantidade de água, adicionada, pela escala que aparece ao canto da tela. 
+ 
+ 
+ 
+Retorne a pisseta para a bancada, clicando com o botão direito do mouse sobre a pisseta 
+e selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+2. MEDINDO A MASSA DO ÓLEO 
+ 
+Acesse a câmera “Balança” e verifique se a balança está ajustada apresentando um valor 
+negativo equivalente à massa do béquer. Em caso afirmativo, coloque o béquer, já com 
+o  óleo,  sobre  a  balança,  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  e 
+selecione a opção “Colocar na balança”. 
+Em caso negativo, tare novamente a balança, como demonstrado na PARTE I.  
+ 
+ 
+Observe e anote o valor da massa! 
+ 
+ 
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Retire  o  béquer  da  balança,  clicando  com  o  botão  direito  do  mouse  no  béquer  e 
+selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Retorne a tela inicial do experimento, acessando a câmera “Bancada”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+3. AJUSTANO O AQUECIMENTO 
+ 
+Posicione béquer sobre  o  sistema  de  aquecimento,  clicando com  o  botão  direito  do 
+mouse sobre o béquer e selecionando a opção “Posicionar no sistema de aquecimento”. 
+ 
+ 
+ 
+Observe que o béquer se posiciona no sistema de aquecimento. 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Acesse a câmera “Aquecimento” para visualizar o sistema de aquecimento. 
+ 
+ 
+ 
+Ligue o sistema de aquecimento, clicando com o botão direito do mouse sobre bico de 
+Bunsen e selecionando a opção “Ligar chama”. 
+ 
+ 
+ 
+Observe a chama do bico de Bunsen. 
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+4. MEDINDO A TEMPERATURA DE AQUECIMENTO 
+ 
+Meça a temperatura de aquecimento, clicando com o botão direito do mouse sobre o 
+termômetro e selecionando a opção “Medir béquer”. 
+ 
+ 
+ 
+Observe que a temperatura do óleo em aquecimento aparece no canto da tela. 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Aguarde o aquecimento do óleo até aproximadamente 80° C e, então, desligue o sistema 
+de aquecimento, acessando a opção de câmera “Aquecimento”, clicando com o botão 
+direito  do  mouse  sobre  o  bico  de  Bunsen  e  selecionando  a  opção  “Desligar  chama”. 
+Lembre-se que você pode acelerar o aquecimento da água ajustando o aquecimento na 
+janela “Acelerar troca térmica”. 
+ 
+ 
+ 
+Em seguida para retirar o béquer do sistema de aquecimento, clique com o botão direito 
+do mouse sobre o béquer e selecione a opção “Colocar na mesa”.  
+Só  será  possível remover  o  béquer  do  sistema  de  aquecimento  se  o  Bico  de  Bunsen 
+estiver desligado. 
+ 
+ 
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+5. MEDINDO A TEMPERATURA INICIAL DO CALORÍMETRO 
+ 
+Acesse a opção de câmera “Bancada” para retornar a tela inicial do experimento. 
+Meça a temperatura inicial do calorímetro, clicando com o botão direito do mouse sobre 
+o termômetro e selecionando a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Observe e anote a temperatura inicial do calorímetro. 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+6. ADICIONANDO ÓLEO AO CALORÍMETRO 
+ 
+Transfira o óleo aquecido, contida no béquer, para o calorímetro, clicando com o botão 
+direito do mouse sobre o béquer e selecionando a opção “Despejar no calorímetro”. 
+ 
+ 
+ 
+Observe que a água é adicionada ao calorímetro. 
+ 
+ 
+ 
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+Acelere a troca térmica entre o calorímetro e o óleo aquecido agitando o conteúdo do 
+calorímetro, clicando com o botão direito do mouse sobre o calorímetro e selecionando 
+a opção “Agitar conteúdo”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+7. MEDINDO A TEMPERATURA DO CALORÍMETRO 
+ 
+Meça a  temperatura  no  calorímetro,  clicando com  o  botão  direito  do  mouse  sobre  o 
+termômetro e selecionando a opção “Medir calorímetro”. 
+ 
+ 
+ 
+Observe a temperatura do calorímetro, aguarde que que ela estabilize e anote seu valor. 
+T
+c 
+= ___________ °C 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+8. DESMONTANDO O EXPERIMENTO 
+ 
+Retire o óleo do calorímetro, clicando com o botão direito do mouse sobre o calorímetro 
+e selecionando a opção “Descartar conteúdo”.  
+ 
+ 
+ 
+Desligue o termômetro, clicando com o botão direito do mouse sobre o termômetro e 
+selecione a opção “Desligar termômetro”. 
+ 
+ 
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+CALORIMETRIA 
+ 
+9. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 

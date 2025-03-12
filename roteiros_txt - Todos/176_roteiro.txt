@@ -1,0 +1,1037 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento,  você  irá  realizar  a  montagem  e  análise  de  circuitos  para 
+verificar o comportamento de motores e geradores elétricos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amperímetro; 
+• Bancada didática para estudo de máquinas elétricas rotativas; 
+• Cabos; 
+• Gerador; 
+• Motor. 
+ 
+  
+PROCEDIMENTOS 
+ 
+ESQUEMÁTICO 1 
+ 
+1. CONECTANDO A ALIMENTAÇÃO TRIFÁSICA AO MULTIMEDIDOR 
+ 
+Conecte  os  terminais  R,  S  e  T  aos  terminais  L1,  L2  e  L3  do  multimedidor  industrial, 
+respectivamente.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+  
+2. CONECTANDO O MULTIMEDIDOR AO MOTOR TRIFÁSICO 
+ 
+Conecte os terminais do L1’, L2’ e L3’ do multimedidor aos terminais U1, V1 e W1 do motor 
+trifásico, respectivamente. 
+ 
+3. REALIZANDO O FECHAMENTO DO MOTOR 
+ 
+Conecte os terminais do motor trifásico seguindo a seguinte combinação: V1 em U2, W1 em 
+V2 e U1 em W2. 
+ 
+4. REALIZANDO O ATERRAMENTO DO MOTOR 
+ 
+Conecte o terminal “terra” da bancada ao terminal “terra” do motor trifásico.  
+ 
+5. ENERGIZANDO A BANCADA 
+ 
+Verifique  se  todos  os  passos  anteriores  foram  executados  de  maneira  correta.  Em  seguida, 
+energize a bancada. Se o procedimento tiver sido executado de maneira correta, a bancada 
+será energizada. Ligue a proteção e o contator. Depois disso, colete os dados. 
+ 
+ESQUEMÁTICO 2 
+ 
+6. CONECTANDO O INVERSOR AO MOTOR 
+ 
+Conecte os terminais U, V e W aos terminais U1, V1 e W1 do motor trifásico, respectivamente.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+  
+7. REALIZANDO O FECHAMENTO DO MOTOR 
+ 
+Conecte os terminais do motor trifásico seguindo a seguinte combinação: V1 em U2, W1 em 
+V2 e U1 em W2. 
+ 
+8. REALIZANDO O FECHAMENTO DO GERADOR  
+ 
+Conecte os terminais do gerador trifásico seguindo a seguinte combinação: 2 em 4, 3 em 5 e 
+1 em 6. 
+ 
+9. CONECTANDO O GERADOR AO MULTIMEDIDOR 
+ 
+Conecte  os  terminais  1,  2  e  3  do  gerador  aos  terminais  L1,  L2  e  L3  do  multimedidor, 
+respectivamente. 
+ 
+10. REALIZANDO O ATERRAMENTO DO MOTOR E DO GERADOR 
+ 
+Conecte o terminal “terra” da bancada aos terminais “terra” do motor e do gerador trifásicos. 
+ 
+11. CONECTANDO OS TERMINAIS DE EXCITAÇÃO DO GERADOR 
+ 
+Conecte  os  termais  I+  e  I- do gerador.  Em  seguida,  energize  a  bancada,  ligue  a  proteção,  o 
+contator e o conversor de frequência e colete os resultados obtidos. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+  
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 09 a 12 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+ Experimento 1 
+1. Verifique  os  parâmetros  exibidos  no  multimedidor  no  momento  da  partida  do 
+gerador. Algum deles sofreu variações significativas nos primeiros segundos após 
+a  partida  do  motor?  Caso  algum  parâmetro  tenha  sofrido  variação,  justifique 
+este comportamento. 
+ 
+ 
+ 
+Experimento 2 
+1.  Preencha  a  tabela  1  com  os  dados  referentes  coletados  no  multimedidor  ao 
+variar a frequência da tensão fornecida ao gerador no conversor. 
+ 
+Conversor 
+(Hz) 
+Multimedidor 
+(RPM) 
+Multimedidor 
+(Frequência) 
+25   
+30   
+35   
+40   
+45   
+50   
+55   
+60   
+Tabela 1. 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+2. Utilizar os valores contidos na tabela 1 criar um gráfico relacionando a frequência 
+no gerador e a velocidade do eixo mecânico. 
+ 
+ 
+ 
+ 
+3. Realize  o  procedimento  de  acionar  no  motor  pelo  contador  1  e  verifique  o 
+comportamento  da  corrente  pelo  multimedidor.  Repita  este  procedimento  10 
+vezes  acompanhando  a  corrente  de  partida  direta.  Qual  foi  a  maior  corrente 
+observada.  
+ 
+ 
+ 
+Experimento 3 
+A tensão de saída de um gerador depende do fluxo e da velocidade angular do 
+gerador, logo a tensão é dada por: 
+ = 퐾 ∙ ω∙  
+ 
+Gráfico 1. 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Onde: 
+K é o constante de proporcionalidade. 
+ é a velocidade angular. 
+ é o fluxo magnético. 
+Como   o   fluxo   gerado   pelo enrolamento   de   excitação   em   sua   região   de 
+linearidade é dada por uma constante multiplicada pela corrente de excitação no rotor, 
+temos: 
+ = 퐾’ ∙  
+Substituindo tem-se que: 
+ =  ∙  ∙  
+ 
+1. Preencha  a  tabela  2  com  os  dados  referentes  coletados  no  multimedidor  e  no 
+amperímetro analógico ao variar a frequência da tensão fornecida ao gerador no 
+conversor. 
+ 
+Frequência do 
+Conversor (Hz) 
+Corrente de 
+Excitação (A) 
+Frequência x 
+Corrente de 
+Excitação 
+Tensão 
+Gerada 
+25    
+30    
+35    
+40    
+45    
+50    
+55    
+60    
+Tabela 2. 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+2. Utilizar  os  valores  contidos  na  tabela  2  criar  um  gráfico  relacionando  a  tensão 
+gerada e a multiplicação entre a frequência pela corrente de excitação. 
+ 
+ 
+ 
+ 
+3. A reta traçada no gráfico se comporta de acordo com o princípio teórico visto no 
+início do experimento? Justifique. Encontre o valor de 퐾
+푡표푡푎푙
+. 
+ 
+ 
+ 
+4. Determine  o  coeficiente  angular  da  reta  do  gráfico  2  e  utilize  seu  valor  para 
+determinar o número de polos do motor utilizado neste experimento.  
+ 
+  
+Gráfico 2. 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ESQUEMÁTICO 1 
+ 
+1. CONECTANDO    A    ALIMENTAÇÃO    TRIFÁSICA    AO 
+MULTIMEDIDOR 
+ 
+Visualize a  visão  frontal  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Visão  frontal” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Selecione o terminal R clicando com o botão esquerdo do mouse sobre ele. Em seguida, 
+faça a conexão clicando com o botão esquerdo do mouse sobre o terminar L1. 
+ 
+ 
+ 
+Repita  o  passo  anterior  para os  terminais  “S”  e  “T”  e  os  terminais  L2  e  L3  do 
+multimedidor o que foi feito anteriormente.  
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Se preferir, altere a visualização para o modo didático clicando com o botão esquerdo 
+do mouse sobre o botão com o nome “Visual clássico”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+2. CONECTANDO O MULTIMEDIDOR AO MOTOR TRIFÁSICO 
+ 
+Realize a conexão do multimedidor clicando com o botão esquerdo do mouse sobre o 
+terminal L1’ do multimedidor. 
+ 
+ 
+ 
+Visualize o conjunto motor gerador clicando com o botão esquerdo do mouse sobre a 
+câmera com o nome “Conjunto gerador motor”. ou utilize o atalho “Alt+4”. 
+ 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Realize  a  conexão  de  L1’  com  U1  clicando  no  terminal  U1  com  o  botão  esquerdo  do 
+mouse.  
+ 
+ 
+ 
+Repita o procedimento anterior para as conexões L2’ e V1, L3’ e W1 seguindo os mesmos 
+passos vistos anteriormente.  
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+3. REALIZANDO O FECHAMENTO DO MOTOR 
+ 
+Visualize o conjunto motor gerador clicando com o botão esquerdo do mouse sobre a 
+câmera com o nome “Conjunto gerador motor”. ou utilize o atalho “Alt+4”. 
+ 
+ 
+ 
+Conecte  o  terminal  V1  do  motor  no  terminal  U2  clicando  nos  terminais  com  o  botão 
+esquerdo do mouse.  
+ 
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Repita o procedimento anterior para as conexões W1 em V2 e U1 em W2. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+4. REALIZANDO O ATERRAMENTO DO MOTOR 
+ 
+Conecte  o  terminal  “terra”  da  bancada  ao  terminal  “terra”  do  motor  clicando  com  o 
+botão esquerdo do mouse o terminal terra do motor. 
+ 
+ 
+ 
+Visualize a visão frontal clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão frontal”. ou utilize o atalho “Alt+2”. 
+ 
+ 
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Complete a conexão clicando no terra da bancada com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+5. ENERGIZANDO A BANCADA 
+ 
+Visualize a visão lateral clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão lateral”. ou utilize o atalho “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Clique com o botão esquerdo do mouse na alavanca vermelha para acionar o dispositivo 
+DR, protegendo a bancada e permitindo que ela seja energizada. 
+ 
+ 
+ 
+Visualize a visão frontal clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão frontal”. ou utilize o atalho “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Ligue  a  proteção  clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão  verde 
+localizado no painel frontal. 
+ 
+ 
+ 
+ 
+Ligue  o  contator clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  “Liga” 
+localizado no painel frontal. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Inicie  a  coleta  de  dados  no  multimedidor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Após coletar todos os dados necessários, desenergize a bancada clicando no interruptor 
+com o botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Em  seguida,  remova  todos  os fios  clicando com o botão  esquerdo  do  mouse no  ícone 
+indicado.  
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ESQUEMÁTICO 2 
+ 
+6. CONECTANDO O INVERSOR AO MOTOR 
+ 
+Selecione o terminal U clicando nele com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Visualize o conjunto motor gerador clicando com o botão esquerdo do mouse sobre a 
+câmera com o nome “Conjunto gerador motor”. ou utilize o atalho “Alt+4”. 
+ 
+ 
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Conecte  o  terminal  U  ao  terminal  U1  do  motor  clicando  no  terminal  U1  com  o  botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Agora, repita o procedimento anterior conectando o terminal V em V1 e W em W1. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+7. REALIZANDO O FECHAMENTO DO MOTOR 
+ 
+Visualize o conjunto motor gerador clicando com o botão esquerdo do mouse sobre a 
+câmera com o nome “Conjunto gerador motor”. ou utilize o atalho “Alt+4”. 
+ 
+ 
+ 
+Conecte o  terminal  V1  do  motor  no  terminal  U2  clicando  nos  terminais  com  o  botão 
+esquerdo do mouse.  
+ 
+ 
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Repita o processo anterior para conectar o W1 em V2 e U1 em W2 seguindo o mesmo 
+procedimento usado no passo anterior.  
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+8. REALIZANDO O FECHAMENTO DO GERADOR 
+ 
+Conecte  os  terminais  2  e  4  do  gerador  trifásico  clicando  nos  terminais  com  o  botão 
+esquerdo do mouse.  
+ 
+ 
+ 
+Repita o procedimento acima para conectar o terminal 3 ao 5 e o terminal 1 em 6. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+9. CONECTANDO O GERADOR AO MULTIMEDIDOR 
+ 
+Selecione a conexão 1 do Gerador clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a visão frontal clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão frontal”. ou utilize o atalho “Alt+2”. 
+ 
+ 
+ 
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Conecte o terminal 1 do gerador ao terminal L1 do multimedidor clicando no terminal 
+com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Repita o procedimento anterior para os terminais 2 em L2 e 3 em L3. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+10.REALIZANDO   O   ATERRAMENTO   DO   MOTOR   E   DO 
+GERADOR 
+ 
+Conecte o terminal terra da bancada ao terminal terra do motor clicando em cada um 
+dos terminais com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Repita o procedimento anterior para o gerador. 
+ 
+ 
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+11. CONECTANDO   OS   TERMINAIS   DE   EXCITAÇÃO   DO 
+GERADOR 
+ 
+Visualize o rotor do gerador clicando com o botão esquerdo do mouse sobre a câmera 
+com o nome “Rotor do gerador”. ou utilize o atalho “Alt+5”. 
+ 
+ 
+ 
+Em  seguida,  conecte os terminais  I+  e  I- do  gerador  clicando em  cada terminal  com o 
+botão esquerdo do mouse.  
+ 
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+ 
+Acione os 3 disjuntores gerais clicando neles individualmente com o botão esquerdo do 
+mouse.  
+ 
+ 
+ 
+Visualize a visão lateral clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão lateral”. ou utilize o atalho “Alt+3”. 
+ 
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Clique com o botão esquerdo do mouse na alavanca vermelha para acionar o dispositivo 
+DR, protegendo a bancada e permitindo que ela seja energizada. 
+ 
+ 
+ 
+Visualize a visão frontal clicando com o botão esquerdo do mouse sobre a câmera com 
+o nome “Visão Frontal”. ou utilize o atalho “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Ligue  a  proteção  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  verde  do 
+disjuntor. 
+ 
+ 
+ 
+Ligue o contator clicando com o botão esquerdo do mouse sobre o botão “Liga”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Ligue o conversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“Liga”. 
+ 
+ 
+ 
+Visualize o conversor de frequência clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Abra o conversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+amarelo. 
+ 
+ 
+ 
+Inicie o conversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“run”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Após coletar todos os dados necessários, desenergize a bancada clicando no interruptor 
+com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Visualize o rotor do gerador clicando com o botão esquerdo do mouse sobre a câmera 
+com o nome “Rotor do gerador”. ou utilize o atalho “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+Remova a conexão entre os terminais I+ e I- do gerador clicando em qualquer lugar do 
+fio com o botão esquerdo do mouse.  
+ 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MÁQUINAS ELÉTRICAS ROTATIVAS 
+ACIONAMENTO E PARÂMETROS DE GERAÇÃO 
+ 
+12. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  09 a  12 deste 
+roteiro, e responda de acordo com o que foi observado nos experimentos, associando 
+também com os conhecimentos aprendidos sobre o tema.  
+ 

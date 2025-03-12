@@ -1,0 +1,1186 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você preparará  diferentes  soluções  químicas,  observará 
+suas fases e diferenciará misturas homogêneas e heterogêneas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béqueres de capacidade volumétrica de 50 mL; 
+• Pipeta de Pasteur; 
+• Tubos de ensaio; 
+• Balança; 
+• Vidro de relógio; 
+• Óleo vegetal; 
+• Cloreto de Sódio (NaCl); 
+• Água de destilada (H
+2
+O); 
+• Hexano P.A. (C
+6
+H
+14
+).  
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Prepare a capela de exaustão abrindo a janela, acendendo a luz interna e ligando 
+o exaustor. Feito isso, coloque todos os itens necessários ao experimento, que 
+se encontram no armário inferior, dentro da capela. 
+ 
+3. ANALISANDO A SOLUBILIDADE NA ÁGUA 
+ 
+Despeje a água destilada, da pisseta, no béquer 1. Utilize a pipeta Pasteur para 
+transferir a água, do béquer 1, para os tubos de ensaio 1, 2, 3 e 4.  
+Coloque uma amostra de etanol no béquer 2 e transfira-a, com a pipeta Pasteur, 
+para  o  tubo  de  ensaio  1.  Promova  a  mistura  no  tubo  de  ensaio  e  avalie  os 
+resultados.  
+Faça  a  limpeza  dos  béqueres de  capacidade  volumétrica  de  50  mL para 
+prosseguir com o experimento.  
+Despeje uma  amostra  de  hexano  no  béquer  2  e  transfira-a,  com  a  pipeta 
+Pasteur, para o tubo de ensaio 2. Promova a mistura no tubo de ensaio e avalie 
+os resultados.  
+Faça  a  limpeza  dos béqueres  de  capacidade  volumétrica  de  50  mL para 
+prosseguir com o experimento.  
+Repita  o  procedimento  com  o  óleo vegetal. Coloque uma  amostra  de óleo 
+vegetal no béquer 2 e transfira-a, com a pipeta Pasteur, para o tubo de ensaio 
+3. Promova a mistura no tubo de ensaio e avalie os resultados.  
+Pese aproximadamente 0,25g de NaCl, utilizando o vidro de relógio na balança 
+e despeje esse conteúdo sobre o tubo de ensaio 4. Promova a mistura no tubo 
+de ensaio e avalie o resultado.  
+Remova  os  resíduos dos  béqueres de  capacidade  volumétrica de  50  mL,  vidro 
+de relógio e pipeta Pasteur para prosseguir com a prática.  
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+4. ANALISANDO A SOLUBILIDADE NO ETANOL 
+ 
+Despeje  uma  amostra  de  etanol  no  béquer  1.  Utilize  a  pipeta  Pasteur  para 
+transferir o etanol, do béquer 1, para os tubos de ensaio 5, 6 e 7.  
+Coloque  uma  amostra  de  hexano  no  béquer  2  e  transfira-a,  com  a  pipeta 
+Pasteur, para o tubo de ensaio 5. Promova a mistura no tubo de ensaio e avalie 
+os resultados.  
+Faça a limpeza dos béqueres para prosseguir com o experimento.  
+Repito  o  procedimento  para  o óleo  vegetal.  Coloque uma  amostra  de óleo 
+vegetal no béquer 2 e transfira-a, com a pipeta Pasteur, para o tubo de ensaio 
+6. Promova a mistura no tubo de ensaio e avalie os resultados.  
+Pese aproximadamente 0,25g de NaCl, utilizando o vidro de relógio na balança 
+e despeje esse conteúdo sobre o tubo de ensaio 7. Promova a mistura no tubo 
+de ensaio e avalie o resultado.  
+Remova  os  resíduos dos béqueres  de  capacidade  volumétrica de  50  mL,  vidro 
+de relógio e pipeta Pasteur para prosseguir com a prática.  
+ 
+ 
+5. ANALISANDO A SOLUBILIDADE NO HEXANO 
+ 
+Despeje  uma  amostra  de  hexano  no  béquer  1.  Utilize  a  pipeta  Pasteur  para 
+transferir o hexano, do béquer 1, para os tubos de ensaio 8 e 9.  
+Coloque uma amostra de óleo vegetal no béquer 2 e transfira-a, com a pipeta 
+Pasteur, para o tubo de ensaio 8. Promova a mistura no tubo de ensaio e avalie 
+os resultados.  
+Pese aproximadamente 0,25g de NaCl, utilizando o vidro de relógio na balança 
+e despeje esse conteúdo sobre o tubo de ensaio 9. Promova a mistura no tubo 
+de ensaio e avalie o resultado.  
+Remova  os  resíduos dos béqueres  de  capacidade  volumétrica de  50  mL,  vidro 
+de relógio e pipeta Pasteur para prosseguir com a prática.  
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de 
+acordo  com  o  que  foi  observado  nos  experimentos. Caso  seja  necessário, 
+retorne aos tubos de ensaio para analisar os resultados obtidos.  
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de todos  materiais  utilizados,  guarde-os  no  armário,  feche  a 
+janela da capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre 
+o experimento.   
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+A cerca  das substâncias listadas  abaixo, correspondo  as  misturas  promovidas  no 
+experimento, responda  os  questionamentos  as  questões  1,  2  e  3,  justificando  a  sua 
+resposta. 
+ 
+1. As substâncias são miscíveis entre si?  
+ 
+ 
+2. Após promover a mistura no tudo de ensaio, é possível distingui-las? 
+ 
+ 
+3. É possível observar a formação de duas fases entre elas? 
+ 
+ 
+Água e Etanol; 
+Água e Óleo vegetal; 
+Água e Hexano; 
+Água e NaCl; 
+Etanol e Hexano; 
+Etanol e Óleo vegetal; 
+Etanol e NaCl; 
+Hexano e Óleo vegetal; 
+Hexano e NaCl. 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse  a  câmera “EPI”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu 
+apresentado na lateral superior esquerda.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Abra o armário, clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Em seguida, selecione os EPI’s necessários para a realização do experimento, clicando 
+sobre  eles  e  selecionando  a  opção  “Usar  este  item”.  Nesse  experimento  serão 
+necessários jaleco, luvas e máscara.  
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPI’s anteriormente 
+selecionados.  Clicando  com  o  botão  esquerdo  do  mouse  nos  mesmos,  eles  retornam 
+para o armário, o que pode ocasionar a não permissão para a execução do experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize a capela de exaustão, acessando a câmera “Geral”. 
+ 
+ 
+ 
+Abra o vidro da capela, clicando com o botão esquerdo do mouse ele. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Selecione os materiais necessários ao experimento, acessando a câmera “Armário”. 
+ 
+ 
+ 
+Selecione  dois  béqueres  de  50ml,  vidro  de relógio,  pote  de  NaCl,  pisseta com  água 
+destilada. As soluções de óleo vegetal, etano e hexano.  E no armário seguinte os tubos 
+de ensaios, pipeta Pasteur e espátula de aço inox. 
+Para acionar a capela de exaustão, acesse a câmera “Painel”. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Clique com o botão esquerdo do mouse no botão “ON” e no interruptor da luz para ligar 
+o exaustor e a luz, respectivamente. 
+ 
+ 
+ 
+Inicie o experimento, acessando câmera “Capela”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+3. ANALISANDO A SOLUBILIDADE NA ÁGUA 
+ 
+Despeje uma amostra de água destilada, clicando com o botão esquerdo do mouse na 
+pisseta e selecionando a opção “Colocar no béquer 1”. 
+ 
+ 
+ 
+Succione o com conteúdo do béquer 1, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 1”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  1,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 1”. 
+ 
+ 
+ 
+Colete mais amostra da água destilada, para adicionar no tubo, clicando sobre a pipeta 
+com o botão esquerdo do mouse e selecionando opção “Coletar mais solução”.  
+ 
+ 
+ 
+Repita os mesmos procedimentos para adicionar água destilada nos tubos 2, 3 e 4.  
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Depois de adicionar água destilada nos quatro tubos, despeje uma amostra da solução 
+de etanol, clicando com o botão esquerdo do mouse na solução e selecionando a opção 
+“Colocar no béquer 2”. 
+ 
+ 
+ 
+Remova os resíduos da pipeta Pasteur, clicando com o botão esquerdo do mouse sobre 
+ela e selecionando a opção “Remover a solução e limpar”. 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  1,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 1”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 1”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Observe o resultado, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Acesse a câmera capela. 
+Remova as soluções dos béqueres de capacidade volumétrica de 50 mL. Clique com o 
+botão  esquerdo  sobre  eles  e  escolha  a  opção  “Remover  a  solução  e limpar”.  Faça  o 
+mesmo  para  a  pipeta  Pasteur,  clicando sobre  ela  e  escolhendo  a  opção  “Remover  a 
+solução e limpar”. 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje uma amostra da solução de hexano, clicando com o botão esquerdo do mouse 
+na solução e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  2,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 2”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 2”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Observe o resultado, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Acesse a câmera capela. 
+Remova as soluções dos béqueres de capacidade volumétrica de 50 mL. Clique com o 
+botão  esquerdo  sobre  eles  e  escolha  a  opção  “Remover  a  solução  e  limpar”.  Faça  o 
+mesmo  para  a  pipeta  Pasteur,  clicando  sobre  ela  e  escolhendo  a  opção  “Remover  a 
+solução e limpar”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  uma  amostra  do óleo vegetal,  clicando  com  o botão  esquerdo  do  mouse  na 
+solução e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  3,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 3”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 3”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Observe o resultado, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Acesse a câmera capela. 
+Remova as soluções dos béqueres de capacidade volumétrica de 50 mL. Clique com o 
+botão  esquerdo  sobre  eles  e  escolha  a  opção  “Remover  a  solução  e  limpar”.  Faça  o 
+mesmo  para  a  pipeta  Pasteur,  clicando  sobre  ela  e  escolhendo  a  opção  “Remover  a 
+solução e limpar”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Acesse a câmera “Balança”. Para pesar o NaCl. 
+ 
+ 
+ 
+Ligue  a  balança  analítica,  clicando com  o  botão  esquerdo  do  mouse  na  tecla  de  ligar 
+presente na balança.   
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Abra a porta lateral da balança para inserir o vidro de relógio, clicando sobre a porta. 
+Tare  a  balança  com  a vidraria,  clicando sobre  o  vidro  de  relógio  e  selecione  a  opção 
+“Colocar na balança”.  
+ 
+ 
+ 
+Ative a função TARA. E retire o vidro de relógio da balança. 
+Abra  o  pote  de  NaCl,  clicando com  o  botão  esquerdo  do  mouse sobre  o  pote e 
+selecionando a  opção  “Destampar”.    Em  seguida, clique novamente sobre  o  pote  e 
+selecionado a opção “Depositar no vidro de relógio”. 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Verifique a massa, coloque o vidro de relógio com NaCl sobre a balança, clicando com o 
+botão esquerdo do mouse sobre o vidro de relógio e selecionando a opção “Colocar na 
+balança”. Um valor de aproximadamente 0,25g já é o suficiente. Em seguida, coloque na 
+mesa o vidro de relógio com o NaCl. 
+ 
+ 
+ 
+Despeje a amostra de NaCl, pesada, no tubo de ensaio 4, clicando com o botão esquerdo 
+do mouse sobre o vidro de relógio e selecionando a opção “Colocar no tubo de ensaio”, 
+e em seguida a opção “Colocar no tubo de ensaio 4”. 
+ 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e  selecionando  a  opção  “Misturar  tubo  de  ensaio  4”.  Em  seguida,  acesse  a  câmera 
+“Tubos de ensaio”. 
+Examine os resultados, acessando a câmera “Tubos de Ensaio”. 
+Remova todo tipo de resíduo nos béqueres, vidro de relógio e pipeta Pasteur para iniciar 
+o próximo passo. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+4. ANALISANDO A SOLUBILIDADE NO ETANOL 
+ 
+Despeje uma amostra de etanol, clicando com o botão esquerdo do mouse na solução 
+e selecionando a opção “Colocar no béquer 1”. 
+ 
+ 
+  
+Succione o com conteúdo do béquer 1, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 1”. 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  5,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 5”. 
+ 
+ 
+ 
+Colete mais amostra do etanol, clicando sobre a pipeta com o botão esquerdo do mouse 
+e selecionando opção “Coletar mais solução”. 
+Despeje o conteúdo da pipeta no tubo de ensaio 6, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no tubo de ensaio 6”. 
+ 
+ 
+Repita os mesmos procedimentos e adicione uma amostra de etanol no tubo 7.  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Depois de adicionar etanol nos três tubos, deposite uma amostra da solução de hexano 
+no  béquer  2,  clicando  com o  botão  esquerdo  do  mouse sobre a  solução  de hexano e 
+selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Remova o conteúdo da pipeta Pasteur, clicando com o botão esquerdo do mouse sobre 
+ela e selecionando a opção “Remover a solução e limpar”.  
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+Despeje o conteúdo da pipeta no tubo de ensaio 5, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no tubo de ensaio 5”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 5”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Observe os resultados, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Analise o tubo 5 com etanol e hexano.  
+Em seguida, acesse a câmera “Capela”. 
+Remova as soluções dos béqueres de capacidade volumétrica de 50 mL, clicando com o 
+botão esquerdo do mouse sobre e eles e selecionando a opção “Remover a solução e 
+limpar”.  Faça o mesmo para a pipeta Pasteur, clicando sobre ela e selecionando a opção 
+“Remover a solução e limpar”. 
+ 
+ 
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Deposite uma amostra de óleo vegetal no béquer 2, clicando com o botão esquerdo do 
+mouse sobre o óleo vegetal e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Remova o conteúdo da pipeta Pasteur, clicando com o botão esquerdo do mouse sobre 
+ela e selecionando a opção “Remover a solução e limpar”.  
+ 
+ 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+Despeje o conteúdo da pipeta no tubo de ensaio 6, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no tubo de ensaio 6”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 6”. 
+ 
+ 
+ 
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Observe os resultados, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Analise o tubo 6 com etanol e óleo vegetal.  
+Em seguida, acesse a câmera “Capela”. 
+Remova as soluções dos béqueres de capacidade volumétrica de 50 mL, clicando com o 
+botão esquerdo do mouse sobre e eles e selecionando a opção “Remover a solução e 
+limpar”.  Faça o mesmo para a pipeta Pasteur, clicando sobre ela e selecionando a opção 
+“Remover a solução e limpar”. 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Realizado as análises com as soluções, acesse a câmera “Balança”, para pesar o NaCl. 
+ 
+ 
+ 
+Deposite uma amostra de NaCl sobre o vidro de relógio, clicando com o botão esquerdo 
+do mouse sobre o pote e selecionando a opção “Depositar no vidro de relógio”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Verifique a massa, coloque o vidro de relógio com NaCl sobre a balança, clicando com o 
+botão esquerdo do mouse sobre o vidro de relógio e selecionando a opção “Colocar na 
+balança”. Um valor de aproximadamente 0,25g já é o suficiente. Em seguida, coloque na 
+mesa o vidro de relógio com o NaCl. 
+ 
+ 
+ 
+Despeje o conteúdo do vidro de relógio no tubo 7, clicando com o botão esquerdo do 
+mouse sobre o vidro de relógio e selecionando a opção “Colocar no tubo de ensaio”, em 
+seguida escolha “Colocar no tubo de ensaio 7”. 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Promova  a  mistura,  clicando  com  o  botão  esquerdo  do  mouse  no  tudo  de  ensaio  e 
+selecionando a opção “Misturar tubo de ensaio 7”. 
+Observe o resultado, acessando a câmera “Tubo de ensaio”.  
+Para iniciar o próximo passo, remova todo tipo de resíduo nos béqueres de capacidade 
+volumétrica de 50 mL, vidro de relógio e pipeta Pasteur. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+5. ANALISANDO A SOLUBILIDADE NO HEXANO 
+ 
+Despeje uma amostra de hexano, clicando com o botão esquerdo do mouse na solução 
+e selecionando a opção “Colocar no béquer 1”. 
+ 
+ 
+  
+Succione o com conteúdo do béquer 1, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 1”. 
+ 
+ 
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  8,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 8”. 
+ 
+ 
+ 
+Colete  mais  amostra  de  hexano,  clicando  sobre  a  pipeta  com  o  botão  esquerdo  do 
+mouse e selecionando opção “Coletar mais solução”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje  uma  amostra  de óleo vegetal,  clicando  com  o botão  esquerdo  do  mouse  na 
+solução e selecionando a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Remova os resíduos da pipeta Pasteur, clicando com o botão esquerdo do mouse sobre 
+ela e selecionando a opção “Remover a solução e limpar”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Succione o com conteúdo do béquer 2, clicando com o botão esquerdo do mouse sobre 
+a pipeta Pasteur e selecionando a opção “Succionar no béquer 2”. 
+Despeje  o  conteúdo  da  pipeta  Pasteur  no  tudo  de  ensaio  8,  clicando  sobre  ela e 
+selecionando opção “Colocar no tubo de ensaio 8”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 8”. 
+ 
+ 
+ 
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+Observe os resultados, acessando a câmera “Tubos de ensaio”.  
+ 
+ 
+ 
+Analise o tubo 8 com hexano e óleo vegetal.  
+Em seguida, acesse a câmera “Capela”. 
+Realizado  as  análises  com  as  soluções. Para  pesar  o  NaCl,  acesse a  opção  de  câmera 
+“Balança”.  
+ 
+ 
+ 
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Deposite uma amostra de NaCl no vidro de relógio, clicando com o botão esquerdo do 
+mouse sobre o pote e selecionando a opção “Depositar no vidro de relógio”. 
+ 
+ 
+ 
+Verifique a massa, coloque o vidro de relógio com NaCl sobre a balança, clicando com o 
+botão esquerdo do mouse sobre o vidro de relógio e selecionando a opção “Colocar na 
+balança”. Um valor de aproximadamente 0,25g já é o suficiente. Em seguida, coloque na 
+mesa o vidro de relógio com o NaCl. 
+ 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+Despeje o conteúdo do vidro de relógio no tubo 9, clicando com o botão esquerdo do 
+mouse sobre o vidro de relógio e selecionando a opção “Colocar no tubo de ensaio”, em 
+seguida escolha “Colocar no tubo de ensaio 9”. 
+ 
+ 
+ 
+Promova a mistura, clicando com o botão esquerdo do mouse sobre os tubos de ensaio 
+e selecionando a opção “Misturar tubo de ensaio 9”. 
+Em seguida escolha a opção de câmera “Tubos de ensaio” para analisar o tubo de ensaio 
+9. 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ENSAIO DE SOLUBILIDADE DOS COMPOSTOS 
+ 
+6. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. Caso seja necessário, retorne a câmera “Tubos de 
+Ensaio” para auxiliar a avaliação dos resultados.  
+ 
+ 
+7. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados,  guarde-os  no  armário,  feche  a  janela  da 
+capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre o experimento.   
+ 

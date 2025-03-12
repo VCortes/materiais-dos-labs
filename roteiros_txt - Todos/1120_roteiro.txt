@@ -1,0 +1,554 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender aprimorar os seus conhecimentos sobre 
+as estratégias que um psicopedagogo pode aplicar para diagnosticar o paciente. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cadeiras; 
+• Mesa; 
+• Notebook. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO OS PERSONAGENS 
+ 
+Selecione  o(a)  personagem  do(a)  psicopedagogo(a) e  escolha um nome.  Selecione  o(a) 
+personagem do(a) professor(a) e em seguida, escolha um nome para o(a) professor(a) e para 
+a escola. 
+ 
+2. ENTENDENDO A PROBLEMÁTICA 
+ 
+O(A) professor(a) e o(a) psicopedagogo(a) farão uma reunião. Mantenha o diálogo entre eles 
+e observe as falas com atenção. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+  
+3. REALIZANDO A ORGANIZAÇÃO DE TRABALHO 
+ 
+Observe  o  psicopedagogo.  Em  seguida,  utilize  a  tela  do  computador  e  organize  o  trabalho 
+selecionando as informações corretas para a identificação do problema. 
+ 
+4. REALIZANDO A CARACTERIZAÇÃO DA ORGANIZAÇÃO 
+ 
+Selecione as opções corretas para caracterizar a organização. Investigue os dados no PPP da 
+escola. Entreviste a equipe gestora. Analise o regimento interno da escola. 
+ 
+5. REALIZANDO A INTERVENÇÃO 
+ 
+Identifique o problema. Continue a explicação sobre o tema. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Cite três testes que podem ser aplicados pelo psicopedagogo para identificar o 
+problema do aluno. 
+ 
+ 
+ 
+2. Quais estratégias podem ser utilizadas no trabalho do psicopedagogo? 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO OS PERSONAGENS 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse em “Começar”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Selecione o(a) personagem clicando com o botão esquerdo do mouse sobre um deles.  
+ 
+ 
+ 
+Em  seguida  escolha  um  nome  para  o  personagem  clicando  com  o  botão  esquerdo  do 
+mouse sobre o campo indicado e digite através do teclado da sua máquina. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Prossiga para   a   próxima   etapa clicando   com   o   botão   esquerdo   do   mouse   em 
+“Continuar”. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  identifique  o(a)  personagem  do  professor(a)  e  a 
+escola. Em seguida, prossiga para a próxima etapa. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+2. ENTENDENDO A PROBLEMÁTICA 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Abra a porta clicando com o botão esquerdo do mouse na porta. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Observe a fala do psicopedagogo e continue o diálogo clicando com o botão esquerdo 
+do mouse no local indicado. 
+ 
+ 
+ 
+Observe  a  fala  da  professora  e visualize  a  continuação  da  fala clicando com  o  botão 
+esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Observe  a  fala completa  da  professora  e continue  o  diálogo clicando com  o  botão 
+esquerdo do mouse no local indicado. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  visualize  os  demais  diálogos  e  prossiga  com  a 
+prática. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+3. REALIZANDO A ORGANIZAÇÃO DE TRABALHO 
+ 
+A  tela  do computador  irá  se  abrir.  Visualize  as opções  de  ações clicando com  o  botão 
+esquerdo do mouse em “ações”. 
+ 
+ 
+ 
+Visualize  as  opções  de  diagnóstico clicando com  o  botão  esquerdo  do  mouse  em 
+“Identificação do Problema (Diagnóstico Psicopedagógico)”. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Selecione as  opções que  julgar  como  ação  correta clicando com o  botão esquerdo do 
+mouse nas caixas de resposta indicadas. 
+ 
+ 
+ 
+Visualize o restante das opções clicando com o botão esquerdo do mouse sobre a barra 
+lateral e arrastando o mouse para baixo. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Após selecionar as opções corretas, prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “continuar”. 
+ 
+ 
+ 
+Observe a fala do psicopedagogo e continue a prática clicando com o botão esquerdo 
+do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+4. REALIZANDO A CARACTERIZAÇÃO DA ORGANIZAÇÃO 
+ 
+Visualize as opções de ações clicando com o botão esquerdo do mouse em “ações”. 
+ 
+ 
+ 
+Visualize as opções de caracterização da organização clicando com o botão esquerdo do 
+mouse em “Caracterização da Organização”. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Selecione as opções que julgar como correta clicando com o botão esquerdo do mouse 
+nas caixas de resposta indicadas. 
+ 
+ 
+ 
+Após selecionar as opções corretas, prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “continuar”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Observe a fala do psicopedagogo e continue a prática clicando com o botão esquerdo 
+do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+5. REALIZANDO A INTERVENÇÃO 
+ 
+Visualize as opções de ações clicando com o botão esquerdo do mouse em “ações”. 
+ 
+ 
+ 
+Visualize as opções de caracterização da organização clicando com o botão esquerdo do 
+mouse em “Intervenção”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Repita  os  procedimentos  anteriores,  selecione as  opções  que  julgar  como  correta. 
+Utilize a barra lateral de rolagem para visualizar as demais opções 
+ 
+ 
+ 
+Após selecionar as opções corretas, prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “continuar”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Observe a fala do psicopedagogo e continue a prática clicando com o botão esquerdo 
+do mouse no local indicado. 
+ 
+ 
+ 
+Visualize as opções de ações clicando com o botão esquerdo do mouse em “ações”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+Visualize as opções de caracterização da organização clicando com o botão esquerdo do 
+mouse em “Integração”. 
+ 
+ 
+ 
+Observe  o  plano  de  trabalho  do  psicopedagogo. Caso  queira,  realize  o  download do 
+plano de trabalho clicando com o botão esquerdo do mouse em “Baixar Relatório”. 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPEDAGOGIA NA PRÁTICA EDUCACIONAL 
+ESTRATÉGIAS DE TRABALHO DO PSICOPEDAGOGO 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

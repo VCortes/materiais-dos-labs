@@ -1,0 +1,1108 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento  você  irá  aprender  a  analisar  a  condutividade  de  soluções 
+eletrolíticas,  não-eletrolíticas  e  identificar  condutividade  elétrica  em  alguns 
+sólidos  e  correlacionar  de  maneira  qualitativa  com  a estrutura  atômica  dos 
+materiais e soluções. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Placa de Petri; 
+• Béquer de 50 mL; 
+• Béquer de 250 mL; 
+• Sacarose; 
+• Cimento em pó; 
+• Carvão ativado; 
+• Espátula de aço inox; 
+• Bastão de vidro; 
+• Pisseta com água destilada; 
+• Sulfato de Cobre; 
+• Ácido Acético; 
+• Ácido Clorídrico; 
+• Circuito elétrico; 
+• Multímetro; 
+• Sólidos  (cobre, papelão,  isopor,  espuma,  parafina,  grafite,  mármore,  granito, 
+plástico, alumínio, porcelana e ferro). 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+2. SELECIONANDO AS VIDRARIAS E ACESSÓRIOS 
+ 
+Coloque na mesa todos os itens necessários ao experimento, que se encontram 
+na gaveta e no armário. São eles:  placa de Petri,  béquer de 50 mL,  béquer de 
+250  mL,  espátula  de  aço  inox,  bastão  de  vidro  e sólidos (papelão,  isopor, 
+espuma,  parafina,  grafite,  mármore,  granito,  plástico,  alumínio,  porcelana  e 
+ferro).   O cimento, sacarose e carvão ativado já devem estar sobre a mesa.  
+ 
+3. SELECIONANDO AS SOLUÇÕES 
+ 
+Coloque sobre a mesa a Solução aquosa de Sulfato de Cobre, Solução aquosa de 
+Ácido Acético e Ácido Clorídrico.  
+ 
+4. UTILIZANDO ÁGUA DESTILADA E AS SOLUÇÕES 
+ 
+Coloque uma amostra de água destilada no béquer de 50mL, posicione o circuito 
+no   béquer   de   50   mL   e   ligue   o   circuito   elétrico. Observe   e   registre   o 
+comportamento   da   lâmpada e   analise   o comportamento   das   estruturas 
+atômicas dentro do béquer. Desenergize o circuito e retire o circuito do béquer. 
+Remova  o  conteúdo  do  béquer  de  50  mL  e  realize  a  limpeza  dos terminais 
+utilizando a pisseta com água.  
+Repita os passos anteriores substituindo a água destilada pela solução de Sulfato 
+de Cobre, Ácido Clorídrico e Ácido Acético. Mantenha a água destilada apenas 
+na  lavagem  dos  terminais. Observe  o  comportamento  nas  duas  situações  e 
+registre na tabela presente na presente em “Avaliação dos Resultados”. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+5. UTILIZANDO SACAROSE E CIMENTO 
+ 
+Coloque  uma  amostra  de  água  destilada  no  béquer  de  50 mL,  transfira  uma 
+quantidade  de  sacarose  para  o  béquer  de  50  mL utilizando  a  espátula  de  aço 
+inox.  Promova  a  mistura  no  béquer  utilizando  o  bastão  de  vidro,  posicione  o 
+circuito  no  béquer  de  50  mL  e  ligue  o  circuito  elétrico. Observe  e  registre  o 
+comportamento   da   lâmpada e   analise   o   comportamento   das   estruturas 
+atômicas dentro do béquer. Desenergize o circuito e retire o circuito do béquer. 
+Remova  o  conteúdo  do  béquer  de  50  mL  e  realize  a  limpeza  dos terminais 
+utilizando a pisseta com água.  
+Repita os passos anteriores substituindo a sacarose pelo cimento. Mantenha a 
+água destilada na lavagem dos terminais. Observe o comportamento nas duas 
+situações  e  registre  na  tabela  presente  na  presente  em  “Avaliação  dos 
+Resultados”. 
+ 
+6. UTILIZANDO CARVÃO ATIVADO E CIMENTO SÓLIDO 
+ 
+Utilizando a espátula de aço, preencha totalmente a placa de Petri com carvão 
+ativado. Posicione o circuito na placa de Petri, ligue o circuito elétrico, observe 
+e  registre  o  comportamento  da  lâmpada e  analise  o  comportamento  das 
+estruturas atômicas dentro da  placa de Petri. Desenergize o circuito e retire-o 
+da placa de Petri. Remova o conteúdo da placa de Petri e realize a limpeza dos 
+terminais utilizando a pisseta com água.  
+Repita os passos anteriores substituindo o carvão ativado pelo cimento sólido. 
+Mantenha    a    água    destilada    na    lavagem    dos    terminais. Observe o 
+comportamento  nas  duas  situações  e  registre  na  tabela  presente  na  presente 
+em “Avaliação dos Resultados”. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+7. UTILIZANDO OS SÓLIDOS 
+ 
+Posicione a placa de cobre na placa de Petri e, em seguida, posicione o circuito 
+na placa de Petri, ligue o circuito elétrico, observe e registre o comportamento 
+da lâmpada e analise o comportamento das estruturas atômicas dentro a placa 
+de  Petri. Desenergize  o  circuito  e  retire-o  da  placa  de  Petri.  Retire  a  placa  de 
+cobre da placa de Petri. 
+Repita os passos anteriores substituindo a placa de cobre pelos sólidos restantes 
+(papelão,   isopor,   espuma,   parafina,   grafite,   mármore,   granito,   plástico, 
+alumínio, porcelana e ferro). Observe o comportamento nas situações e registre 
+na tabela presente na presente em “Avaliação dos Resultados”. 
+ 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+9. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos os materiais utilizados, guarde-os no armário, gaveta e 
+prateleira, guarde os EPIs e encerre o experimento.   
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Avalie e descreva o comportamento da lâmpada em cada solução, registre esses 
+dados em uma tabela que se encontra abaixo: 
+ 
+ 
+ 
+  
+Material 
+Intensidade da luz 
+Alta Baixa Não observada 
+Água 
+   
+Sulfato de Cobre 
+   
+Ácido Clorídrico 
+   
+Ácido Acético 
+   
+Água e Sacarose 
+   
+Água e Cimento 
+   
+Carvão Ativado 
+   
+Cimento Sólido 
+   
+Cobre 
+   
+Papelão 
+   
+Isopor 
+   
+Espuma 
+   
+Parafina 
+   
+Grafite 
+   
+Mármore 
+   
+Granito 
+   
+Plástico 
+   
+Alumínio 
+   
+Porcelana  
+   
+Ferro 
+   
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+2. Com base nos seus conhecimentos, qual  o objetivo de colocar  os terminais do 
+circuito dentro do béquer com as soluções? Justifique. 
+ 
+ 
+3. Em  seu  entendimento,  por  que  é  necessário  lavar  os  terminais  com  o circuito 
+desligado? 
+ 
+ 
+4. Você  conseguiria  realizar  o  experimento  de  maneira  correta  sem  lavar  os 
+terminais? Justifique. 
+ 
+ 
+5. Descreva o  comportamento  da  lâmpada  na  solução  aquosa  de  sacarose  e  na 
+mistura de cimento com água e justifique. 
+ 
+ 
+6. A intensidade da lâmpada foi constante na mistura de água e cimento, ou teve 
+variação, ou você não notou diferença? Justifique sua resposta. 
+ 
+ 
+7. Explique  o  comportamento  da  lâmpada  na  solução  de  água  com  cimento 
+correlacionando com a estrutura atômica.  
+ 
+ 
+8. Explique o comportamento da lâmpada no carvão ativado. 
+ 
+ 
+9. Justifique a diferença  de comportamento da lâmpada na mistura de água com 
+cimento e o comportamento na de cimento puro. 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+10. Com  base  nos  seus  conhecimentos,  por  que  algumas  substâncias  conduzem 
+eletricidade em meio aquoso, porém em meio sólido isso não ocorre? 
+ 
+ 
+11. Quais  materiais  sólidos  utilizados  no  experimento  você  indicaria  para  ser  um 
+isolante elétrico? 
+ 
+ 
+12. Com   base   nos   seus   conhecimentos,   por   que   alguns   sólidos   conduzem 
+eletricidade e outros não?  
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Ao iniciar o laboratório será possível escolher entre o “Modo Experimento” e o “Modo 
+Aprendizagem. 
+ 
+ 
+ 
+Para  iniciar  a  realização  da  prática,  selecione  o  “Modo  Experimento”,  clicando  com  o 
+botão esquerdo do mouse sobre a opção em destaque.  
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “EPI”, clicando com o botão esquerdo do mouse sobre o menu superior 
+esquerdo.   
+ 
+ 
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre as portas.  
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Em  seguida,  selecione  os  EPIs  necessários  para  a  realização  do  experimento,  clicando 
+sobre eles com o botão esquerdo do mouse e selecionando a opção “Usar este item”. 
+Nesse experimento serão necessários jaleco, luvas e máscara. 
+ 
+ 
+ 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPIs  anteriormente 
+selecionados.  Caso  você  clique  com  o  botão  esquerdo  do  mouse  nos  mesmos,  eles 
+retornam  para  o  armário,  o  que  pode  ocasionar  a  não  permissão  para  a  execução  do 
+experimento. 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+2. SELECIONANDO VIDRARIAS E ACESSÓRIOS 
+ 
+Acesse  a câmera “Gavetas”,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  menu 
+superior esquerdo.   
+ 
+ 
+ 
+Em seguida, abra a gaveta, clicando com o botão esquerdo do mouse sobre elas.  
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Posicione o béquer de 250 ml sobre a mesa, clicando com o botão esquerdo do mouse 
+sobre ele e selecionando a opção “Colocar na mesa”. Faça o mesmo para o béquer de 
+50 ml e para a placa de Petri.  
+ 
+ 
+ 
+Acesse a câmera “Armário”.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Em seguida, abra a porta do armário, clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Selecione os sólidos que farão parte do experimento, clicando com o botão esquerdo do 
+mouse sobre elas e selecionando a opção “Colocar na mesa”. Em seguida, faça o mesmo 
+com a espátula e com o bastão de vidro.  
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+3. SELECIONANDO AS SOLUÇÕES 
+ 
+Acesse a câmera “Soluções” para visualizá-las.  
+ 
+ 
+ 
+Coloque sobre a mesa a Solução aquosa de Sulfato de Cobre, Solução aquosa de Ácido 
+Acético  e  Ácido  Clorídrico,  clicando  com  o botão  esquerdo  do  mouse  sobre  elas  e 
+selecionando a opção “Colocar na mesa”.  
+Em seguida, retorne a mesa clicando na opção de câmera “Mesa”.  
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+4. UTILIZANDO A ÁGUA DESTILADA E AS SOLUÇÕES 
+ 
+Coloque  uma  amostra  de  água  destilada  no  béquer  de  50  mL,  clicando com  o  botão 
+esquerdo  do  mouse sobre a  pisseta e selecionando a  opção  “Colocar  no  béquer  de 
+50ml”. 
+ 
+ 
+ 
+Posicione o circuito no béquer de 50 mL, clicando com o botão esquerdo do mouse sobre 
+ele e selecionando a opção “Colocar no béquer de 50 mL”.  
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Ligue  o  circuito  elétrico,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Ligar circuito”.  
+ 
+ 
+ 
+Observe e registre o comportamento da lâmpada.   
+Acesse a câmera “Béquer”.  
+ 
+ 
+ 
+Analise o comportamento das estruturas atômicas. 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Retorne a câmera “Mesa”.  
+Desenergize  o  circuito, clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Desligar circuito”.  
+ 
+ 
+ 
+Retire  o  circuito  do  béquer,  clicando  com  o  botão  esquerdo  do  mouse sobre  ele  e 
+selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Limpe os terminais, clicando com o botão esquerdo do mouse sobre o circuito elétrico 
+e selecionando a opção “Lavar terminais”. 
+ 
+ 
+ 
+Utilize a pisseta para lavagem dos terminais, clicando com o botão esquerdo do mouse 
+sobre ela e selecionando a opção “Colocar no béquer de 250 ml”.  
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Despeje  a  água  sobre  os  terminais,  pressionando  a  pisseta  com  o  botão  esquerdo  do 
+mouse sobre ela.  
+ 
+ 
+ 
+Retorne,  clicando  com  o botão  esquerdo do  mouse  sobre  a  opção  adequada  e, em 
+seguida  coloque  o  circuito  sobre  a  mesa,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o circuito e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Remova  o  conteúdo  do  béquer  de  50  mL,  clicando com  o  botão  esquerdo  do  mouse 
+sobre o béquer e selecionando a opção “Remover e limpar conteúdo”. 
+ 
+ 
+ 
+Repita  os  passos  anteriores substituindo  a  água  destilada  pela  solução  de  Sulfato  de 
+Cobre, Ácido Clorídrico e Ácido Acético. Mantenha a água destilada apenas na lavagem 
+dos terminais. 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+ 
+  
+Coloque uma amostra de água sobre o béquer de 50 mL, clicando com o botão esquerdo 
+do mouse sobre a pisseta e selecionando a opção “Colocar no béquer de 50 ml”. 
+ 
+ 
+ 
+Acesse a câmera de “Sólidos”.  
+Retire a tampa do pote de Sacarose, clicando com o botão esquerdo mouse sobre o pote 
+e selecionando a opção “Retirar tampa”.  
+ 
+ 
+5. UTILIZANDO SACAROSE E CIMENTO 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Acesse a câmera “Mesa”. 
+Transfira uma  quantidade de sacarose para o  béquer de 50 mL, clicando com o  botão 
+esquerdo do mouse sobre a espátula de inox e selecionando a opção “Colocar sacarose 
+no béquer de 50 ml”. 
+ 
+ 
+ 
+Promova a mistura no béquer, clicando com o botão esquerdo do mouse sobre o bastão 
+de vidro e selecionando a opção “Misturar solução do béquer de 50 ml”. 
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Coloque o circuito no béquer de 50 mL, clicando com o botão esquerdo do mouse sobre 
+o circuito elétrico e selecionando a opção “Colocar no béquer de 50 ml”. 
+ 
+ 
+ 
+Ligue  o  circuito,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Ligar Circuito”.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Observe e registre o comportamento da lâmpada.   
+Acesse a câmera béquer e analise o comportamento das estruturas atômicas. 
+Retorne a câmera “Mesa”.  
+Desligue  o  circuito,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Desligar Circuito”.  
+ 
+ 
+ 
+Retire  o  circuito  do  béquer  e  realize  a  limpeza  dos  terminais,  clicando  com  o  botão 
+esquerdo do mouse sobre o circuito e selecionando a opção “Lavar Terminais”.  
+ 
+ 
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Utilize a pisseta para lavagem dos terminais, clicando com o botão esquerdo do mouse 
+sobre ela e selecionando a opção “Colocar no béquer de 250 ml”.  
+ 
+ 
+ 
+Despeje  a  água  sobre  os  terminais,  pressionando  a  pisseta  com  o botão  esquerdo  do 
+mouse sobre ela.  
+ 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Retorne,  clicando  com  o botão  esquerdo do  mouse  sobre  a  opção  adequada  e, em 
+seguida, coloque  o  circuito  sobre  a  mesa,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o circuito e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+Remova  o  conteúdo  do  béquer  de  50  mL,  clicando com  o  botão  esquerdo  do  mouse 
+sobre o béquer e selecionando a opção “Remover e limpar conteúdo”. 
+ 
+ 
+ 
+Repita  os  passos  anteriores substituindo  a sacarose  por  cimento.  Mantenha  a  água 
+destilada  na  lavagem  dos  terminais. Observe  o  comportamento  nas  duas  situações  e 
+registre na tabela presente na presente em “Avaliação dos Resultados”, neste roteiro. 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+ 
+ 
+Acesse a câmera “Sólidos”.  
+ 
+, 
+ 
+Retire a tampa do pote de Carvão, clicando com o botão esquerdo mouse sobre o pote 
+e selecionando a opção “Retirar tampa”.  
+ 
+ 
+ 
+6. UTILIZANDO CARVÃO ATIVADO E CIMENTO SÓLIDO 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Retorne para a câmera “Mesa”. 
+Transfira uma quantidade de carvão ativado para a placa de Petri, clicando com o botão 
+esquerdo do mouse sobre a espátula de inox e selecionando a opção “Colocar carvão 
+ativado na placa de Petri”. Preencha totalmente a placa com carvão ativado repetindo 
+o passo 3 vezes. 
+ 
+ 
+ 
+Coloque o circuito na placa de Petri, clicando com o botão esquerdo do mouse sobre o 
+circuito elétrico e selecionando a opção “Colocar na placa de Petri”. 
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Ligue  o  circuito  elétrico,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Ligar circuito”.  
+ 
+ 
+ 
+Observe e registre o comportamento da lâmpada.   
+Acesse a câmera “Placa de Petri” e analise o comportamento das estruturas atômicas. 
+ 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Desenergize  o  circuito  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Desligar circuito”.  
+ 
+ 
+ 
+Retire o circuito da placa de Petri, clicando com o botão esquerdo do mouse sobre ele e 
+selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Limpe os terminais, clicando com o botão esquerdo do mouse sobre o circuito elétrico 
+e selecionando a opção “Lavar terminais”. 
+ 
+ 
+ 
+Utilize a pisseta para lavagem dos terminais, clicando com o botão esquerdo do mouse 
+sobre ela e selecionando a opção “Colocar no béquer de 250 ml”.  
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Despeje  a  água  sobre  os  terminais,  pressionando  a  pisseta  com  o  botão  esquerdo  do 
+mouse sobre ela.  
+ 
+ 
+ 
+Retorne,  clicando  com  o botão  esquerdo do  mouse  sobre  a  opção  adequada  e, em 
+seguida, coloque  o  circuito  sobre  a  mesa,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o circuito e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Remova o conteúdo da placa de Petri, clicando com o botão esquerdo do mouse sobre 
+a placa e selecionando a opção “Remover conteúdo”. 
+ 
+ 
+ 
+Repita o procedimento para o cimento.  
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+7. UTILIZANDO OS SÓLIDOS 
+ 
+Acesse a câmera “Sólidos”. 
+ 
+ 
+ 
+Posicione a placa de cobre na placa de Petri, clicando com o botão esquerdo do mouse 
+sobre a placa de cobre e selecionando a opção “Colocar na placa de Petri”.  
+ 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Retorne para a câmera “Mesa”. 
+Coloque o circuito na placa de Petri, clicando com o botão esquerdo do mouse sobre o 
+circuito elétrico e selecionando a opção “Colocar na placa de Petri”. 
+ 
+ 
+ 
+Ligue  o  circuito  elétrico,  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Ligar circuito”.  
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Observe e registre o comportamento da lâmpada.   
+Acesse a câmera “Placa de Petri” e analise o comportamento das estruturas atômicas. 
+ 
+ 
+ 
+Retorne a câmera “Mesa”.  
+Desenergize  o  circuito  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  tomada  e 
+selecionando a opção “Desligar circuito”.  
+ 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+Retire o circuito da placa de Petri, clicando com o botão esquerdo do mouse sobre ele e 
+selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+Retire  a  placa  de  cobre  da  placa  de  Petri,  clicando com  o  botão  esquerdo  do  mouse 
+sobre o sólido e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+Repita  as  etapas  desse  passo  para  os  sólidos  restantes  (papelão,  isopor,  espuma, 
+parafina, grafite, mármore, granito, plástico, alumínio, porcelana e ferro). 
+Observe e registre o comportamento da lâmpada na tabela. 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA  
+CONDUTIVIDADE ELÉTRICA E SUAS INTERAÇÕES ATÔMICAS E MOLECULARES 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 
+ 
+9. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  os  materiais  utilizados,  guarde-os  no  armário,  gaveta  e 
+prateleira, guarde os EPIs e encerre o experimento.   
+ 
+ 
+ 
+ 
+ 
+ 

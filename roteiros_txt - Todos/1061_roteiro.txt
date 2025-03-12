@@ -1,0 +1,807 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    o 
+dimensionamento de um sistema de geração de energia fotovoltaica. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Baterias; 
+• Controlador de carga; 
+• Inversor; 
+• Placas solares. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. DIMENSIONANDO AS PLACAS SOLARES 
+ 
+Inicialmente, calcule a potência consumida diariamente em Wh no local da instalação 
+do  sistema.  Em  seguida,  encontre  a radiação  solar  média  em  kWh/m².  dia para  a 
+localidade  onde  o  sistema  deve  ser  instalado.  Com  as  informações  de  potência  e 
+eficiência dos painéis disponíveis na loja e com a radiação solar média do local, calcule 
+a energia gerada por cada painel. A partir do consumo diário e da energia gerada pelo 
+painel  escolhido,  calcule  a  quantidade  mínima  de  painéis  necessária  para  suprir  a 
+demanda de consumo do local da instalação. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+  
+2. DIMENSIONANDO O INVERSOR 
+ 
+Através da potência máxima e do fator de demanda, calcule a demanda máxima de 
+potência. Em seguida, utilize o fator de potência e a demanda máxima para obter a 
+potência aparente oferecida pelo inversor. Por fim, dentre os inversores disponíveis 
+na  loja,  escolha  o  que  possui  a  potência  adequada  e  as  tensões  de  entrada  e  saída 
+necessárias para o sistema. 
+ 
+3. DIMENSIONANDO O CONTROLADOR DE CARGA 
+ 
+Utilizando  a  potência  instalada  do  sistema  e  tensão  de  trabalho  definida  para  o 
+inversor,  determine  a  corrente  de  carga  esperada  para  o  sistema.  Então,  escolha, 
+dentre os controladores de carga disponíveis na loja, o controlador adequado para a 
+instalação. 
+ 
+4. DIMENSIONANDO AS BATERIAS 
+ 
+Com  o  consumo  diário,  a  autonomia  do  sistema,  a  profundidade  de  descarga  e  a 
+tensão de trabalho, calcule a capacidade do banco de baterias. Finalmente, escolha, 
+dentre as baterias disponíveis na loja, a bateria com a tensão de trabalho adequada e 
+que  é  ideal  para  formar  um  banco  de  até  4  baterias  com  a  capacidade  mínima 
+calculada. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual  a  energia  gerada  e  a quantidade  de  placas  necessárias  para  suprir  a 
+demanda de potência? 
+ 
+ 
+ 
+2. Qual a potência aparente calculada? 
+ 
+ 
+ 
+3. Qual a corrente de carga calculada? 
+ 
+ 
+ 
+4. Qual a capacidade demanda para o banco de baterias? 
+ 
+ 
+ 
+5. Qual o custo total do sistema dimensionado?  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. DIMENSIONANDO AS PLACAS SOLARES 
+ 
+Abra o arquivo com o exemplo de cálculo de consumo diário de potência clicando com 
+o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique toda a tabela com o exemplo de cálculo de consumo diário em uma residência 
+clicando  e  arrastando  verticalmente  com  o  botão  esquerdo  do  mouse  no  botão  de 
+rolagem. Em seguida, feche o arquivo clicando com o botão esquerdo do mouse no “X”. 
+ 
+ 
+ 
+Visualize o menu de ajuda clicando com o botão esquerdo do mouse no botão indicado 
+abaixo. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Indique o consumo diário calculado clicando com o botão esquerdo do mouse na caixa 
+de texto e inserindo o valor através do teclado do seu computador. 
+ 
+ 
+ 
+Verifique  as  instruções  para  definir  a  radiação  solar  média  clicando e  arrastando 
+verticalmente com o botão esquerdo do mouse no botão de rolagem. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Insira a radiação solar média definida clicando com o botão esquerdo do mouse na 
+caixa de texto e inserindo o valor através do teclado do seu computador. Lembre-se de 
+utilizar o “.” para separar as casas decimais. 
+ 
+ 
+ 
+Visualize as instruções para o dimensionamento das placas solares clicando com o botão 
+esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Abra a loja clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Abra a seção de painéis clicando com o botão esquerdo do mouse em “Painéis solares”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Visualize todos os painéis disponíveis clicando e arrastando verticalmente com o botão 
+do mouse no botão de rolagem. 
+ 
+ 
+ 
+Escolha um dos painéis e verifique suas informações clicando com o botão esquerdo do 
+mouse no painel escolhido. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique as informações do painel escolhido. 
+ 
+ 
+ 
+Visualize  novamente  o  menu  de  ajuda  clicando  com  o  botão  esquerdo  do  mouse  no 
+botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Utilize as informações da potência e da eficiência do painel, bem como a radiação solar 
+média para calcular a energia gerada com a fórmula indicada. 
+ 
+ 
+ 
+Calcule  a  quantidade  mínima  de  placas,  através  do  consumo  diário  e  energia  gerada, 
+com a fórmula indicada. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Retorne à loja clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Selecione  a  quantidade  mínima  de  placas  a  serem  instaladas  clicando  com  o  botão 
+esquerdo  do  mouse  no  botão  indicado.  Atente-se  que,  nessa  prática,  as placas  são 
+instaladas aos pares, logo o número de placas deve ser um número par. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Instale as placas clicando com o botão esquerdo do mouse em “Instalar”. 
+ 
+ 
+ 
+Após a instalação, abra o menu de ajuda clicando com o botão esquerdo do mouse no 
+botão indicado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+2. DIMENSIONANDO O INVERSOR 
+ 
+Verifique  as  instruções  para  o  dimensionamento  do  inversor  clicando  com  o  botão 
+esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Insira o fator de demanda clicando com o botão esquerdo do mouse na caixa de texto e 
+inserindo o valor através do teclado do seu computador. Lembre-se de utilizar o “.” para 
+separar as casas decimais. 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Insira o fator de potência clicando com o botão esquerdo do mouse na caixa de texto e 
+inserindo o valor através do teclado do seu computador. Lembre-se de utilizar o “.” para 
+separar as casas decimais. 
+ 
+ 
+ 
+Calcule a potência aparente, através da demanda máxima e do fator de carga, utilizando 
+a equação indicada. Lembre-se que, para o cálculo da demanda máxima, é necessário 
+multiplicar a potência instalado, com base no arranjo de placas, pelo fator de demanda. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Retorne à loja clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Abra  a  seção  de  inversores  de  tensão  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Inversor de tensão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique  todos  os  inversores  disponíveis  clicando  e  arrastando  verticalmente  com  o 
+botão esquerdo do mouse no botão de rolagem. 
+ 
+ 
+ 
+Escolha a tensão de trabalho do inversor, dentre 12V, 24V e 48V, e a tensão de saída do 
+inversor,  dentre  110V  e  220V,  clicando  com  o  botão  esquerdo  do  mouse  em  um  dos 
+inversores. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique  as  informações  do  inversor  escolhido  e  confira  se  a  potência  aparente 
+calculada é suprida pelo equipamento escolhido. 
+ 
+ 
+ 
+Selecione uma unidade do inversor escolhido clicando com o botão esquerdo do mouse 
+no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Instale o inversor clicando com o botão esquerdo do mouse em “Instalar”. 
+ 
+ 
+ 
+Após a instalação, abra o menu de ajuda clicando com o botão esquerdo do mouse no 
+botão indicado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+3. DIMENSIONANDO O CONTROLADOR DE CARGA 
+ 
+Verifique as instruções para o dimensionamento do controlador de carga clicando com 
+o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Calcule  a  corrente  de  carga,  através  da  potência  instalada  e  da  tensão  de  trabalho 
+selecionada para o inversor de tensão, utilizando a fórmula indicada. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Retorne à loja clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Abra a seção de controladores de carga clicando com o botão esquerdo do mouse em 
+“Controladores de carga”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique todos os controladores disponíveis clicando e arrastando verticalmente com o 
+botão esquerdo do mouse no botão de rolagem. 
+ 
+ 
+ 
+Escolha o controlador de carga com a tensão de trabalho compatível com o inversor de 
+tensão e com a corrente de carga calculada clicando com o botão esquerdo do mouse 
+em um dos controladores. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Selecione  uma  unidade  do  controlador  de  carga  escolhido  clicando  com  o  botão 
+esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Instale o controlador clicando com o botão esquerdo do mouse em “Instalar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Após a instalação, abra o menu de ajuda clicando com o botão esquerdo do mouse no 
+botão indicado abaixo. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+4. DIMENSIONANDO AS BATERIAS 
+ 
+Verifique  as  instruções  para  o  dimensionamento  das  baterias  clicando  com  o  botão 
+esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Selecione a autonomia do sistema clicando com o botão esquerdo do mouse na caixa de 
+texto e inserindo o valor através do teclado do seu computador. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Selecione  a  profundidade  de  descarga  clicando  com  o  botão  esquerdo  do  mouse  na 
+caixa de texto e inserindo o valor através do teclado do seu computador. Lembre-se de 
+utilizar o “.” para separar as casas decimais. 
+ 
+ 
+ 
+Calcule  a  capacidade  do  banco  de  baterias,  com  base  na  autonomia  do  sistema,  do 
+consumo  diário,  da  profundidade  de  descarga  e  da  tensão  de  trabalho,  utilizando  a 
+equação indicada. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Retorne à loja clicando com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Abra a seção de baterias clicando com o botão esquerdo do mouse em “Baterias”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Verifique todas as baterias disponíveis clicando e arrastando verticalmente com o botão 
+esquerdo do mouse no botão de rolagem. 
+ 
+ 
+ 
+Escolha a  bateria  com  a  tensão  de  trabalho  adequada  e  que  é  ideal  para  formar  um 
+banco  de  até  4  baterias  com  a  capacidade  mínima  calculada clicando  com  o  botão 
+esquerdo do mouse em uma das baterias. 
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Selecione a quantidade de baterias necessária para formar um banco de baterias com a 
+capacidade  mínima  calculada  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+ 
+Instale as baterias clicando com o botão esquerdo do mouse em “Instalar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+Após a instalação, feche a loja e verifique as instalações internas da residência clicando 
+com o botão esquerdo do mouse no botão indicado abaixo. 
+ 
+ 
+ 
+Verifique as instalações externas clicando com o botão esquerdo do mouse na câmera 
+“Telhado” do menu “Visualização” ou utilizando o atalho “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+PROJETO E DIMENSIONAMENTO DE UM SISTEMA DE GERAÇÃO FOTOVOLTAICO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

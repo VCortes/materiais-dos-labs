@@ -1,0 +1,1302 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá realizar  a  montagem  e  análise  de  alguns  circuitos 
+utilizados na automação residencial e telecomunicações. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bancada de Instalações Elétricas Residenciais; 
+• Cabos; 
+• Lâmpadas. 
+ 
+  
+PROCEDIMENTOS 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Antes de realizar a montagem de qualquer circuito elétrico no laboratório virtual, é necessário 
+que  você  reconheça  os  principais  recursos  da  bancada.  Nesta  etapa,  serão  apresentadas 
+algumas funcionalidades deste laboratório, permitindo que os experimentos sejam realizados 
+sem dificuldades. 
+ 
+UNIDADE FOTOELÉTRICA 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+  
+1. MONTANDO O DIAGRAMA DE COMANDO 
+ 
+Conecte a alimentação para o fusível 1. Ligue a saída do fusível à unidade fotoelétrica e, em 
+seguida, a unidade à bobina do contator. Conecte a alimentação para o fusível 2. Conecte a 
+saída do fusível 2 à unidade fotoelétrica e ao terminal A2 do contator. 
+ 
+2. MONTANDO O DIAGRAMA DE FORÇA 
+ 
+Conecte  a  alimentação trifásica do  módulo  1 para  os  disjuntores  1  e  2. Ligue  as  saídas  de 
+ambos os disjuntores para o contator. Conecte a saída do contator para a lâmpada e a saída 
+da lâmpada para o contator. 
+ 
+3. TESTANDO O CIRCUITO 
+ 
+Posicione  a  lâmpada  no primeiro  soquete.  Ligue o  disjuntor  geral  na  lateral  da bancada  e  o 
+primeiro disjuntor do módulo 1. Cubra a unidade fotoelétrica com uma caixa preta. 
+ 
+SENSOR DE PRESENÇA 
+ 
+4. MONTANDO O CIRCUITO 
+ 
+Conecte a alimentação dos fusíveis 1 e 2. Conecte o sensor de presença a uma das lâmpadas 
+e, em seguida, a saída do fusível 1 ao sensor de presença. Ligue a saída do fusível 2 à lâmpada 
+e ao sensor de presença. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+  
+5. TESTANDO O CIRCUITO 
+ 
+Posicione  a  lâmpada  no soquete  adequado  e  ligue  o  disjuntor  geral  na  lateral  da  bancada. 
+Mova a sua posição em relação à bancada, verificando o campo do sensor de presença. 
+ 
+SENSORES DE NÍVEL 
+ 
+6. MONTANDO O CIRCUITO DO SENSOR TIPO BOIA 
+ 
+Conecte a alimentação dos fusíveis 1 e 2. Conecte a saída de um dos fusíveis à boia e a saída 
+do  outro  fusível  para  as  lâmpadas  LED  1  e  3. Conecte  uma  saída  do  sensor  de  nível  para  a 
+lâmpada LED 1 e outra saída para a lâmpada LED 3. 
+ 
+7. TESTANDO O PRIMEIRO CIRCUITO 
+ 
+Ligue  o  disjuntor  geral  na  lateral  da  bancada  e  retire  a  boia  do  suporte.  Levante  a  boia, 
+verificando as lâmpadas LED. 
+ 
+8. MONTANDO O DIAGRAMA DE COMANDO DO SENSOR TIPO REED SWITCH 
+ 
+Desligue o disjuntor geral e remova todos os cabos. Conecte a alimentação do fusível 1, e a 
+saída do fusível para o sensor tipo Reed Switch. Conecte o sensor de nível para a bobina do 
+contator e, em seguida, a outra saída do fusível para a bobina do contator.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+  
+9. MONTANDO O DIAGRAMA DE FORÇA DO SENSOR TIPO REED SWITCH 
+ 
+Conecte  a  alimentação trifásica  do  módulo  1 para  os  disjuntores  1  e  2.  Ligue  as  saídas  de 
+ambos os disjuntores para o contator. Conecte a saída do contator para a lâmpada e a saída 
+da lâmpada para o contator. 
+ 
+10. TESTANDO O SEGUNDO CIRCUITO 
+ 
+Ligue  o  disjuntor  geral  na  lateral  da  bancada.  Abra  e  feche  o  Reed  Switch,  verificando a 
+lâmpada LED. 
+ 
+PORTEIRO ELETRÔNICO 
+ 
+11. MONTANDO O CIRCUITO  
+ 
+Conecte a alimentação do módulo 3 e o fio terra na unidade interna do porteiro eletrônico. 
+Conecte  os  terminais  F1  e  F2  da  unidade  externa  ao  simulador  de  fechadura.  Conecte  os 
+terminais 1, 4 V e + da unidade externa à unidade interna. 
+ 
+12. TESTANDO O CIRCUITO 
+ 
+Ligue o disjuntor geral na lateral da bancada. Teste a unidade externa, a unidade interna e o 
+simulador de fechadura. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+  
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 10, 11 e 12 deste roteiro, 
+e responda de acordo com o que foi observado no experimento, associando também com os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+UNIDADE FOTOELÉTRICA 
+ 
+1. Cite uma aplicação de uma unidade fotoelétrica na automação residencial. 
+ 
+ 
+ 
+2. Qual  o  comportamento  da  lâmpada  quando  a  unidade  fotoelétrica  é  coberta 
+pela caixa preta disponível na bancada? Justifique este comportamento. 
+ 
+ 
+ 
+SENSOR DE PRESENÇA 
+ 
+1. Cite uma aplicação de um sensor de presença na automação residencial. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+2. Utilize o modo de visualização "Campo" para verificar o raio de detecção deste 
+equipamento e mova sua posição utilizando a janela no canto superior direito da 
+tela.  Estime  qual  o  ângulo  de  abertura  da  detecção  deste  sensor.  Como  este 
+equipamento detecta a presença? 
+ 
+ 
+ 
+SENSORES DE NÍVEL 
+ 
+1. Cite uma aplicação de sensores de nível na automação residencial. 
+ 
+ 
+ 
+2. Qual o motivo para o sensor de nível tipo Reed Switch ser utilizado em conjunto 
+com um contator quando é realizado o acionamento de uma bomba d'água? 
+ 
+ 
+ 
+3. Cite  duas  vantagens  do  sensor  de  tipo  boia  no  controle  do  nível  de  um 
+reservatório. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+PORTEIRO ELETRÔNICO 
+ 
+1. Quais são as vantagens da utilização do sistema de porteiro eletrônico utilizado 
+neste experimento? 
+ 
+ 
+ 
+2. O  que  ocorre  quando  o  terceiro  botão  da  unidade  interna  é  pressionado?  Em 
+qual aplicação prática esta funcionalidade é aplicada? 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+Na  tela  inicial,  é  possível  ver  a  Bancada  de  Instalações  Elétricas  Industriais.  No  canto 
+superior esquerdo, é possível acessar as opções de câmera. Nelas, você pode visualizar 
+os componentes da bancada de forma mais detalhada.  
+ 
+ 
+ 
+Importante: No modo de visualização “Livre”, o mouse pode ser utilizado para deslocar 
+o  ponto  de  observação  e  o  botão  de  rolagem  do  mouse  pode  ser  utilizado  para 
+aproximar ou distanciar o modo de visualização. Utilize esta ferramenta para facilitar a 
+montagem  dos  esquemáticos  e  para  identificar  a  simbologia  e  nomenclatura  dos 
+terminais de conexão.  
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Na parte superior direita, é possível selecionar o painel de esquemáticos e o menu de 
+opções, além da função “Remover todos os cabos”. 
+ 
+Ao  acessar  os  esquemáticos,  é  possível  visualizar  todos  os  diagramas  que  serão 
+utilizados no experimento. Troque de circuito clicando com o botão esquerdo do mouse 
+no  botão  destacado  em  vermelho  na  imagem abaixo. Feche  o pop-up clicando com  o 
+botão esquerdo do mouse no “X”. Utilize o mouse e o botão de rolagem para alterar o 
+ponto de visualização dentro da janela do esquemático. 
+ 
+ 
+ 
+Importante: Alguns  passos da  montagem possuem  mais  de  uma  forma  de  serem 
+realizados, desde que o esquemático seja seguido corretamente. 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Realize uma  conexão clicando com  o  botão  esquerdo  do  mouse  sobre  o terminal  de 
+saída. Os terminais de entrada disponíveis para conexão serão destacados. Conecte os 
+terminais clicando com o botão esquerdo do mouse sobre o terminal desejado. 
+ 
+ 
+ 
+Remova um cabo clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+UNIDADE FOTOELÉTRICA 
+ 
+1. MONTANDO O DIAGRAMA DE COMANDO 
+ 
+Conecte o terminal R do módulo 2 ao terminal 1 do fusível 1. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 1 ao terminal 1 da unidade fotoelétrica. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 3 da unidade fotoelétrica ao terminal A1 do contator. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 2 ao terminal 1 do fusível 2. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do fusível 2 ao terminal 2 da unidade fotoelétrica. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 2 ao terminal A2 do contator. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+2. MONTANDO O DIAGRAMA DE FORÇA 
+ 
+Conecte o terminal R do módulo 1 ao terminal 1 do disjuntor 1. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 1 ao terminal 3 do disjuntor 2. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do disjuntor 1 ao terminal 1L1 do contator. 
+ 
+ 
+ 
+Conecte o terminal 4 do disjuntor 2 ao terminal 3L2 do contator. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2T1 do contator ao terminal 1 da lâmpada 1. 
+ 
+ 
+ 
+Conecte o terminal 2 da lâmpada 1 ao terminal 4T2 do contator. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+3. TESTANDO O CIRCUITO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”  localizada dentro do painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Posicione  a  lâmpada  no  soquete  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lâmpada e selecione a opção “Posicionar no primeiro soquete”. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Ligue o primeiro disjuntor do módulo 1 clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Cubra  a  unidade  fotoelétrica  clicando  com  o  botão  esquerdo  do  mouse  sobre  a caixa 
+preta e selecione a opção “Cobrir unidade fotoelétrica”. 
+ 
+ 
+ 
+Verifique o comportamento da lâmpada. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+SENSOR DE PRESENÇA 
+ 
+4. MONTANDO O CIRCUITO 
+ 
+Conecte o terminal R do módulo 2 ao terminal 1 do fusível 1. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 2 ao terminal 1 do fusível 2. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 3 do sensor de presença ao terminal 1 da lâmpada 1. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 1 ao terminal 1 do sensor de presença. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do fusível 2 ao terminal 2 do sensor de presença. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 2 ao terminal 2 da lâmpada 1. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+5. TESTANDO O CIRCUITO 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada”  localizada dentro do painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Posicione  a  lâmpada 1 no  soquete  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lâmpada e selecione a opção “Posicionar no primeiro soquete”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Ligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Campo” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Mova a sua posição em relação à bancada clicando e arrastando o botão esquerdo do 
+mouse sobre a barra de ajuste no canto superior direito da tela. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Verifique o raio de detecção do sensor de presença e o comportamento da lâmpada. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+SENSORES DE NÍVEL 
+ 
+6. MONTANDO O CIRCUITO DO SENSOR TIPO BOIA 
+ 
+Conecte o terminal R do módulo 2 ao terminal 1 do fusível 1. Nesse experimento, serão 
+utilizados os esquemáticos 1 para o sensor tipo Boia e 2 para o sensor tipo Reed Switch. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 2 ao terminal 1 do fusível 2. 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do fusível 1 no terminal 1 do sensor de nível tipo boia. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 2 nos terminais 2 das lâmpadas de sinalização 1 e 3. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do sensor de nível no terminal 1 da lâmpada de sinalização 1. 
+ 
+ 
+ 
+Conecte o terminal 3 do sensor de nível no terminal 1 da lâmpada de sinalização 3. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+7. TESTANDO O PRIMEIRO CIRCUITO 
+ 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” localizada dentro do painel de visualização no canto superior esquerdo 
+da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele.  
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Retire a boia do suporte clicando com o botão esquerdo do mouse sobre ela e selecione 
+a opção “Retirar boia”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Levante a boia clicando com o botão esquerdo do mouse sobre ela e selecione a opção 
+“Levantar boia”. 
+ 
+ 
+ 
+Verifique o comportamento das lâmpadas de sinalização. 
+Retorne  a  boia  para  o  suporte  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  e 
+selecione a opção “Colocar boia no suporte”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+8. MONTANDO O DIAGRAMA DE COMANDO DO SENSOR TIPO 
+REED SWITCH 
+ 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Desligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele.  
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Livre” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Remova todos os cabos da bancada clicando com o botão esquerdo do mouse sobre o 
+botão “Remover todos os cabos”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal R do módulo 2 no terminal 1 do fusível 1. 
+ 
+ 
+ 
+Conecte o terminal 2 do fusível 1 ao terminal 1 do sensor de nível tipo Reed Switch. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do sensor de nível ao terminal A1 do contator. 
+ 
+ 
+ 
+Conecte o terminal A2 do contator ao terminal 2 do fusível 2. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 1 do fusível 2 ao terminal S do módulo 2. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+9. MONTANDO O DIAGRAMA DE FORÇA DO SENSOR TIPO 
+REED SWITCH 
+ 
+Conecte o terminal R do módulo 1 ao terminal 1 do disjuntor 1. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 1 ao terminal 3 do disjuntor 2. 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2 do disjuntor 1 ao terminal 1L1 do contator. 
+ 
+ 
+ 
+Conecte o terminal 4 do disjuntor 2 ao terminal 3L2 do contator. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o terminal 2T1 do contator ao terminal 1 da lâmpada de sinalização 1. 
+ 
+ 
+ 
+Conecte o terminal 4T2 do contator ao terminal 2 da lâmpada de sinalização 1. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+10. TESTANDO O SEGUNDO CIRCUITO 
+ 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Ligue o primeiro disjuntor do módulo 1 clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Abra o Reed Switch clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Verifique o comportamento da lâmpada de sinalização. 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+PORTEIRO ELETRÔNICO 
+ 
+11. MONTANDO O CIRCUITO 
+ 
+Conecte o terminal R do módulo 3 a um dos módulos de alimentação da unidade interna. 
+ 
+ 
+ 
+Conecte o terminal S do módulo 3 ao outro terminal de alimentação da unidade interna. 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte o fio-terra do módulo 3 ao fio-terra da unidade interna. 
+ 
+ 
+ 
+Conecte os terminais F1 da unidade externa e do simulador de fechadura. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte os terminais F2 da unidade externa e do simulador de fechadura. 
+ 
+ 
+ 
+Conecte os terminais V das unidades interna e externa. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte os terminais 1 das unidades interna e externa. 
+ 
+ 
+ 
+Conecte os terminais 4 das unidades interna e externa. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Conecte os terminais + das unidades interna e externa. 
+ 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+12. TESTANDO O CIRCUITO 
+ 
+Visualize o disjuntor geral clicando com o botão esquerdo do mouse na câmera com o 
+nome “Lateral” localizada dentro do painel de visualização no canto superior esquerdo 
+da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o disjuntor geral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Livre” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Teste  a  unidade  externa  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  da 
+unidade. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Teste  o  simulador  de  fechadura  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+terceiro botão da unidade interna. 
+ 
+ 
+ 
+Retire  o  interfone  do  suporte  clicando  com  o  botão  esquerdo  do  mouse  sobre  ele  e 
+selecione a opção “Retirar interfone”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+Coloque o interfone no suporte clicando com o botão esquerdo do mouse sobre ele e 
+selecione a opção “Colocar interfone no suporte”. 
+ 
+ 
+ 
+Teste a câmera da unidade interna clicando com o botão esquerdo do mouse sobre o 
+primeiro botão da unidade. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE INSTALAÇÕES ELÉTRICAS RESIDENCIAIS  
+AUTOMAÇÃO RESIDENCIAL E TELECOMUNICAÇÕES 
+ 
+13. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 10, 11 e 12 deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 

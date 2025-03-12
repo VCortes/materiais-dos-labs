@@ -1,0 +1,784 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você irá reconhecer  a  formação  e  dissolução  de  um 
+precipitado. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido acético diluído (HAc) 1 L; 
+• Ácido clorídrico diluído (HCl) 1 L; 
+• Ácido nítrico diluído (HNO
+3
+) 1 L; 
+• Ácido sulfúrico diluído (H
+2
+SO
+4
+) 1 L; 
+• Béquer 50 mL; 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Nitrato de Bário Ba (NO
+3
+)
+2
+; 
+• Nitrato de chumbo Pb (NO
+3
+)
+2
+; 
+• Óculos; 
+• Pipeta Pasteur; 
+• Solução aquosa de hidróxido de sódio (NaOH) 1 L; 
+• Solução de carbonato de sódio (Na
+2
+CO
+3
+) 1 L; 
+• Solução de cromato de potássio (K₂CrO₄) 1 L; 
+• Solução de iodeto de potássio (KI) 1 L; 
+• Solução de nitrato de prata (AgNO
+3
+); 
+• Solução de tioacetamida (TAA) 10 mL; 
+• Solução hidróxido de amônio (NH
+4
+OH) 1 L; 
+• Sulfato de cobre II (Cu
+2
+SO
+4
+); 
+• Suporte para tubo de ensaio; 
+• Tubo de ensaio. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no “Armário 
+de EPIs”. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+2. PREPARANDO A SOLUÇÃO 
+ 
+Transfira 10  mL da  substância  1  para  o  béquer  1. Com  a  pipeta  Pasteur,  pingue 5  gotas  da 
+substância  1  no  tubo  de  ensaio  1. Transfira  10  mL da  substância  2  para  o  béquer  2. Com  a 
+pipeta Pasteur, pingue 5 gotas da substância 2 no tubo de ensaio 1, já contendo a substância 
+1. Homogeneíze a amostra do tubo de ensaio 1 três vezes. Observe a reação no tubo de ensaio, 
+repita isso para outras substâncias. 
+ 
+3. OBSERVANDO A REAÇÃO 
+ 
+Transfira  10  mL  da  substância  1  para  o  béquer  1.  Com  a  pipeta  Pasteur,  pingue  5  gotas  da 
+substância  1  no  tubo  de  ensaio  1. Adicione  5  gotas  de  tioacetamida  no  tubo  de  ensaio  e 
+homogeneíze a solução em movimentos circulares três vezes. Em seguida, aqueça em banho 
+maria  por  5  minutos,  depois  retire  o  tubo  do  banho-maria  e  coloque  no  suporte, deixando 
+esfriar por 5 minutos. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique  o  que  são  as  regras  de  solubilidade  em  química  e  como  elas  são 
+aplicadas para prever se um composto é solúvel ou insolúvel em um solvente. 
+ 
+ 
+ 
+2. Discuta como a polaridade das moléculas afeta a solubilidade de compostos em 
+solventes. 
+ 
+ 
+ 
+3. Como a presença de um sal comum pode afetar a solubilidade de outro sal em 
+uma solução? 
+ 
+ 
+ 
+4. Analise  as  regras  de  solubilidade  em  relação  a  íons  comuns,  como  o  íon 
+hidrogênio (H+) e o íon hidróxido (OH-). Como esses íons afetam a solubilidade 
+de substâncias iônicas e ácidos fracos em água? 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Higienize as mãos passando o cursor do mouse sobre a torneira da pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+2. PREPARANDO A SOLUÇÃO 
+ 
+Mova a substância 1 clicando com o botão direito do mouse sobre uma garrafa âmbar e 
+selecione a opção “Mover para béquer 1”.  
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a garrafa. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova  a  substância 1 clicando  com o  botão direito  do  mouse sobre  a  garrafa âmbar e 
+selecione a opção “Devolver à Estante”.  
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores,  mova  a  solução  2  para  o  béquer 2,  despeje  o 
+conteúdo e devolva a garrafa para a estante. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Pegue  uma  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  o  pote  indicado  e 
+selecione a opção "Pegar pipeta". 
+ 
+ 
+ 
+Mova a pipeta Pasteur para o béquer 1 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Béquer 1”.  
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Aspire a substância 1 clicando com o botão esquerdo do mouse na pipeta. 
+ 
+ 
+ 
+Mova a pipeta Pasteur para o tubo de ensaio 1 clicando com o botão direito do mouse 
+sobre a pipeta e selecione a opção “Tubo 1”.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Despeje o conteúdo da pipeta clicando com o botão esquerdo do mouse sobre a pipeta 
+Pasteur. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a 
+opção “Descartar”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Repita  os  procedimentos  anteriores,  pegue  a  pipeta,  mova  a  pipeta  para  o  béquer  2, 
+aspire  o  conteúdo,  mova  para  o  tubo  de ensaio  1,  despeje  o  conteúdo e  descarte  a 
+pipeta. 
+ 
+ 
+ 
+Visualize a solução clicando com o botão esquerdo do mouse na câmera com o nome 
+“Tubos de ensaio” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Homogeneíze a solução clicando com o botão direito do mouse sobre o tubo de ensaio 
+e selecione a opção “Homogeneizar soluções”. Repita o procedimento mais duas vezes, 
+no total o tubo precisa ser homogeneizado 3 vezes. 
+ 
+ 
+ 
+Observe o resultado da reação clicando com o botão direito do mouse sobre o tubo de 
+ensaio e selecione a opção “Observar”.  
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Esvazie e limpe o tubo de ensaio clicando com o botão direito do mouse sobre o tubo 
+de ensaio e selecione a opção “Esvaziar e limpar vidraria”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Esvazie e limpe o béquer 1 clicando com o botão direito do mouse sobre o béquer 1 e 
+selecione a opção “Esvaziar e limpar”. 
+ 
+ 
+ 
+Repita o procedimento anterior, esvazie e limpe o béquer 2. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+3. OBSERVANDO A REAÇÃO 
+ 
+Mova a substância 1 clicando com o botão direito do mouse sobre uma garrafa âmbar e 
+selecione a opção “Mover para béquer 1”.  
+ 
+ 
+ 
+Despeje a substância 1 no béquer 1 clicando com o botão esquerdo do mouse sobre a 
+garrafa âmbar.  
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova  a  substância 1 clicando  com o  botão direito  do  mouse sobre  a  garrafa âmbar e 
+selecione a opção “Devolver à Estante”.  
+ 
+ 
+ 
+Pegue  uma  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  o  pote  indicado  e 
+selecione a opção "Pegar pipeta". 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova a pipeta Pasteur para o béquer 1 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Béquer 1”.  
+ 
+ 
+ 
+Aspire a substância 1 clicando com o botão esquerdo do mouse na pipeta. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova a pipeta Pasteur para o tubo de ensaio 1 clicando com o botão direito do mouse 
+sobre a pipeta e selecione a opção “Tubo 1”.  
+ 
+ 
+ 
+Despeje o conteúdo da pipeta clicando com o botão esquerdo do mouse sobre a pipeta 
+Pasteur. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Descarte a pipeta clicando com o botão direito do mouse sobre a pipeta e selecione a 
+opção “Descartar”. 
+ 
+ 
+ 
+Aspire 5 gotas de tioacetamida clicando com o botão esquerdo do mouse sobre o conta-
+gotas.  
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova para o  tubo  de  ensaio  1 clicando  com  o  botão direito  do  mouse sobre o  conta-
+gotas e selecione a opção “Mover para tubo de ensaio 1”.  
+ 
+ 
+ 
+Despeje a tioacetamida clicando com o botão esquerdo do mouse sobre o conta-gotas.  
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Devolva  o  conta-gotas  para  o  frasco  clicando  com  o  botão  direito do  mouse  sobre  o 
+conta-gotas e selecione a opção “Devolver ao frasco”. 
+ 
+ 
+ 
+Homogeneíze a solução clicando com o botão direito do mouse sobre o tubo de ensaio 
+e selecione a opção “Homogeneizar soluções”. Repita o procedimento mais duas vezes, 
+no total o tubo precisa ser homogeneizado 3 vezes. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Transfira o tubo de ensaio com a reação para o banho maria clicando com o botão direito 
+do mouse sobre o tubo de ensaio e selecione a opção “Espaço 1”. 
+ 
+ 
+ 
+Visualize  o Banho  maria clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Banho maria” ou através do atalho do teclado “Alt+5. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Ligue o banho maria clicando com o botão esquerdo do mouse no local indicado.  
+ 
+ 
+ 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre a escala de tempo.  
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Mova o tubo de ensaio para o suporte clicando com o botão direito do mouse sobre o 
+tubo de ensaio e selecione a opção “Devolver ao suporte”.  
+ 
+ 
+ 
+Observe o resultado da reação através do tubo clicando com o botão direito do mouse 
+sobre o tubo de ensaio e selecione a opção “Observar”.  
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Esvazie e limpe o tubo de ensaio clicando com o botão direito do mouse sobre o tubo 
+de ensaio e selecione a opção “Esvaziar e limpar vidraria”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão Geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+Esvazie e limpe o béquer 1 clicando com o botão direito do mouse sobre o béquer 1 e 
+selecione a opção “Esvaziar e limpar”. 
+ 
+ 
+ 
+Repita o experimento com outras substâncias para observar novas reações.  
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DA QUÍMICA ANALÍTICA FARMACÊUTICA 
+REGRAS DE SOLUBILIDADE 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

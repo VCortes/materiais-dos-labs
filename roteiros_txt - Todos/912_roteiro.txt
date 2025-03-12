@@ -1,0 +1,395 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste    experimento,    você    irá    aprimorar    seus    conhecimentos    sobre    a 
+magnetização  por  contato.  Na  magnetização  por  contato  o  campo  magnético 
+gera  orientações  dos  elétrons  constituintes  do  corpo,  que  passa  a  ser  um  imã 
+momentâneo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Corpo de prova de alumínio; 
+• Corpo de prova de cobre; 
+• Corpo de prova de ferro; 
+• Folha de papel; 
+• Imã tipo anel; 
+• Limalha de ferro. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+2. IMANTAÇÃO DA BARRA DE FERRO 
+ 
+Aproxime  a  barra  de  ferro  da  limalha  de  ferro  e  observe  o  que  ocorre.  Feito  isso, 
+encoste  na  outra  extremidade  da  barra  de  ferro  o  imã  tipo  anel.  Afaste  a  barra  de 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+  
+ferro junto com o imã da limalha de ferro e observe o resultado. Por fim, afaste o imã 
+da barra de ferro e veja o que acontece. 
+ 
+3. IMANTAÇÃO DA BARRA DE COBRE E ALUMÍNIO 
+ 
+Repita o procedimento 2 para a barra de cobre e alumínio. 
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Descreva o que foi observado quando apenas a barra de ferro foi aproximada da 
+limalha. 
+ 
+ 
+ 
+2. Ao  encostar  o  imã  na  barra  houve  atração  na  limalha  de  ferro?  Justifique  o 
+fenômeno observado. 
+ 
+ 
+ 
+3. Ao afastar o imã a barra de ferro ainda se comportou como um imã? Descreva o 
+que foi observado. 
+ 
+ 
+ 
+4. Descreva o que foi observado quanto ao comportamento das barras de alumínio 
+e cobre. 
+ 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPI clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos de proteção. 
+ 
+ 
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+2. IMANTAÇÃO DA BARRA DE FERRO 
+ 
+Aproxime o corpo de prova de ferro da limalha clicando com o botão direito do mouse 
+sobre a corpo de prova e selecione a opção “Mover para a limalha”. 
+ 
+ 
+ 
+Observe se a limalha é atraída ou não pela barra de ferro. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+Aproxime o imã do corpo de prova de ferro clicando com o botão direito sobre o imã e 
+selecione a opção “Aproximar imã”.  
+ 
+ 
+ 
+Aproxime o corpo de prova junto com o imã da limalha de ferro clicando com o botão 
+direito sobre o corpo de prova e selecione a opção “Aproximar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+Afaste o corpo de prova junto com o imã da limalha clicando com o botão direito sobre 
+ele e selecione a opção “Afastar”.  
+ 
+ 
+ 
+Observe se a limalha foi atraída. 
+Afaste o imã do corpo de prova clicando com o botão direito do mouse sobre o imã e 
+selecione a opção “Afastar imã”. 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+Devolva  a  barra  de  ferro  de  volta  a  bancada  clicando  com o  botão direito  sobre ela  e 
+selecionando a opção “Voltar”. 
+ 
+ 
+ 
+Devolva o imã de volta a bancada clicando com o botão direito sobre ele e selecionando 
+a opção “Voltar a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MAGNETISMO E ELETROMAGNETISMO 
+PROCESSOS DE IMANTAÇÃO - MAGNETIZAÇÃO POR CONTATO 
+ 
+3. IMANTAÇÃO DAS BARRAS DE COBRE E ALUMÍNIO 
+ 
+Repita o procedimento 2 para os corpos de prova de alumínio e cobre 
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

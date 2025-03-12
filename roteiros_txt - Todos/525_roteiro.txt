@@ -1,0 +1,652 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá aprender a mexer no microscópio de luz. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luva; 
+• Microscópio de luz; 
+• Lâmina; 
+• Lamínula; 
+• Óleo de imersão; 
+• Swab estéril descartável; 
+• Pisseta com água destilada; 
+• Azul de metileno; 
+• Papel filtro; 
+• Gaze; 
+• Béquer de 50 mL contendo álcool 70%; 
+• Lixo biológico; 
+• Frasco âmbar com álcool 99%; 
+• Frasco âmbar com solução de limpeza; 
+• Laminário: lâmina de análises citopatológicas; lâmina de invertebrados; lâmina 
+de criptógamas; lâmina de parasitologia; lâmina de hematologia. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+PROCEDIMENTOS 
+ 
+ 
+1. SELECIONANDO TUTOR VIRTUAL 
+ 
+Esse laboratório tem auxílio de um tutor virtual. Selecione a opção desejada ao iniciar 
+o laboratório. 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. Para esse experimento será necessário o uso do jaleco e luvas. 
+ 
+3. COLETANDO A AMOSTRA 
+ 
+Colete a amostra de célula da bochecha com auxílio do swab. Em seguida, transfira o 
+material para a lâmina de vidro e descarte o swab. 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Coloque a lâmina dentro do béquer com álcool 70% e deixe lá por 2 minutos. Retire a 
+lâmina do béquer e core a lâmina com o azul de metileno. Deixe o corante agir por 2 
+minutos.  Leve  a  lâmina  para  a  pia,  descarte  o  excesso  de  corante  e  lave  com  água 
+destilada.  Em  seguida,  adicione  uma  gota  de  água  na  lâmina  e  depois  coloque  a 
+lamínula por cima. 
+ 
+5. VISUALIZANDO NO MICROSCÓPIO 
+ 
+Leve  a  lâmina  para  o  microscópio  e  ajuste-o  com  auxílio  do  macrométrico  e  do 
+micrométrico. Coloque uma gota de óleo de imersão ao mudar a objetiva para 100x. 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+ 
+  
+Abra  o  laminário  e  mova  a  lâmina  do  microscópio  para  o  microscópio.  Desligue  o 
+microscópio. Realize a higienização do microscópio. 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais estruturas celulares foram possíveis observar com a lente de imersão? 
+ 
+ 
+ 
+2. Seria  possível  visualizar  as  células  mesmo  sem  a  utilização  do  corante  azul  de 
+metileno? 
+ 
+ 
+ 
+3. Ao utilizar a objetiva de 40x, em quantas vezes a célula visualizada é ampliada? 
+ 
+ 
+ 
+4. Por que não se deve retornar às objetivas de menor aumento uma vez utilizado óleo 
+de imersão? 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO TUTOR VIRTUAL 
+ 
+Esse  laboratório  pode  ser  usado  com  auxílio  de  um  tutor  virtual.  Selecione  a  opção 
+desejada com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+  
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+3. COLETANDO A AMOSTRA 
+ 
+Visualize  a  mesa  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Mesa auxiliar” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Colete a amostra da bochecha clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Fixe a amostra na lâmina clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+ 
+Descarte o swab clicando com o botão esquerdo do mouse no swab. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+4. PREPARANDO A LÂMINA 
+ 
+Mova a lâmina para o béquer com álcool clicando com o botão esquerdo do mouse na 
+lâmina. 
+ 
+ 
+ 
+Core a lâmina clicando com o botão esquerdo do mouse no azul de metileno. Deixe o 
+corante agir por 2 minutos. 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Mova a lâmina para a pia clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Retire o excesso de corante clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Limpe a lâmina clicando com o botão esquerdo do mouse na pisseta. 
+ 
+ 
+ 
+Adicione uma  gota de  água  clicando  com  o  botão  esquerdo do  mouse no  conta-gotas 
+contendo água destilada. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Coloque a lamínula na lâmina clicando com o botão esquerdo do mouse na lamínula. 
+ 
+ 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Mova a lâmina corada para o microscópio clicando com o botão esquerdo do mouse no 
+microscópio. 
+ 
+ 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize  o  ajuste do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+ 
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Visualize  a  lâmina  na  objetiva  de  4,  10  e  40x pressionando  com  o  botão  esquerdo  do 
+mouse sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Para visualização na objetiva de 100x coloque o óleo de imersão clicando com o botão 
+esquerdo do mouse no conta-gotas. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Visualize a lâmina na objetiva de 100x pressionando com o botão esquerdo do mouse 
+sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Abra o laminário clicando com o botão esquerdo do mouse no laminário. 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Mova a lâmina para o microscópio clicando com o botão esquerdo do mouse na lâmina 
+de vidro. Visualize a lâmina utilizando os parafusos, charriot e lentes objetivas. 
+ 
+ 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Feche o laminário clicando com o botão esquerdo do mouse no laminário. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse no interruptor. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+Realize a higienização do microscópio clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FUNDAMENTOS DAS ANÁLISES CLÍNICAS E BIOSSEGURANÇA 
+MICROSCOPIA DE LUZ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 
+ 
+ 

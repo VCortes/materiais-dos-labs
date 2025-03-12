@@ -1,0 +1,891 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da 
+experiência virtual e para respostas às perguntas frequentes a respeito do 
+VirtuaLab.  
+ 
+2. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+3. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir, apresentamos  as  duas principais  dúvidas na  utilização  dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte.  Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o uso do disco no Gerenciador de Tarefas (Ctrl + Shift + Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros  aplicativos  ou  reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção  e  reinicie  o  navegador.  Caso  persista,  desative  a  opção  e  tente 
+novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+x Balança; 
+x Funil de Buchner, kitassato e bomba de vácuo; 
+x Papel filtro; 
+x Proveta, béquer e bastão de vidro; 
+x Espátula; 
+x Marcador; 
+x Alumínio (Al), água deionizada (H
+2
+O), ácido sulfúrico (H
+2
+SO
+4
+), etanol (C
+2
+H
+5
+OH) e 
+hidróxido de potássio (KOH) 1,5 mol/L. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no ͞Armário de 
+EPIs͟. 
+ 
+2. PREPARANDO A CAPELA 
+ 
+Prepare a capela abrindo a janela, acendendo a luz interna e ligando o exaustor. 
+Feito  isso,  coloque  todos  os  itens  necessários  ao  experimento,  que  se 
+encontram no Armário inferior, dentro da capela. 
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+3. REAGINDO ALUMÍNIO COM O HIDRÓXIDO DE POTÁSSIO  
+ 
+Coloque  o  alumínio  no vidro  de  relógio.  Em  seguida, pese  o  alumínio  para 
+conferir se a massa presente no vidro de relógio corresponde ao recomendado 
+para esse experimento. Neste caso, 2 g. Logo depois, despeje o hidróxido de 
+potássio na proveta. Preencha até alcançar o volume desejado. Neste caso, 50 
+mL.  Usando o marcador, marque no béquer o volume preenchido. Com o auxilio 
+do  bastão  de  vidro, homogeneíze  a  mistura.  Observe  e  anote  as  suas 
+impressões.  
+ 
+4. DISSOLVENDO O ALUMÍNIO E FILTRNADO A SOLUÇÃO 
+ 
+Para dissolver o metal, aqueça a mistura em banho-maria. Note a mudança na 
+coloração e o volume final da solução. Anote suas impressões. Volte o béquer 
+para a bancada. Em seguida, adicione água destilada. Filtre o resultado obtido 
+no processo anterior. Para isso, use o papel filtro em conjunto com o kitassato 
+e o funil de Buchner. Transfira o líquido do béquer para o sistema. Em seguida, 
+automaticamente será adicionada cerca de 10 mL de água destilada no kitassato 
+e será despejada no mesmo béquer que está a solução. 
+ 
+5. RESFRIANDO A SOLUÇÃO COM ÁGUA CORRENTE E COM GELO 
+ 
+Resfrie o béquer contendo a solução em água corrente. Em seguida, utilizando 
+a proveta, adicione sob agitação cerca de 20 mL de ácido sulfúrico ao béquer. 
+Logo depois, resfrie a solução no pote com gelo. Observe que o bastão de vidro 
+será  acionado  automaticamente.  Ocorrerá  a  precipitação  por  um  tempo 
+compreendido entre 15 a 20 minutos. Após esse período os cristais de alúmen 
+serão formados. 
+ 
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+6. OBTENDO O ALÚMEN 
+ 
+Com o béquer na mesa, troque o filtro do funil de Buchner e espalhe o alúmen 
+no filtro usando o bastão de vidro. Em seguida, transfira o alúmen do filtro para 
+o vidro de relógio.  
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaliaçãŽ de ReƐƵlƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ 
+com o que foi observado nos experimentos.  
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos os materiais  utilizados, guarde-os e  encerre  o 
+experimento. 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1.  Que motivo justifica a liberação de gases durante a dissolução do alumínio? 
+ 
+ 
+ 
+ 
+ 
+ 
+2. A quantidade de ácido sulfúrico adicionada interfere no tempo de aquecimento 
+necessário para a dissolução completa? Se fosse adicionado o dobro de H
+2
+SO
+4
+ qual 
+deveria ser o resultado esperado? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+ 
+ 
+Os  equipamentos  de  proteção  individual  são  obrigatórios  para  a  realização  do 
+experimento. Dessa forma, escolha a visualização do armário  de EPIs pressionando 
+͞Alƚн9͘͟ 
+ 
+Clique com o botão esquerdo do mouse sobre o armário de EPIs para selecionar os 
+equipamentos de proteção. 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+
+  
+ 
+10 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Selecione os EPIs que se encontram no armário. Os EPIs utilizados serão: jaleco, luvas de 
+látex e óculos de proteção. 
+AƉsƐ ƚeƌ ƐeleciŽŶadŽ ƚŽdŽƐ ŽƐ EPIƐ͕ eleƐ aƉaƌeceƌãŽ ŶŽ cŽmaŶdŽ ͞EPI͘͟ CliƋƵe ƐŽbƌe ƐeƵ 
+ícone com o botão esquerdo do mouse. 
+ 
+ 
+ 
+MƵde Ɖaƌa a ǀiƐƵalinjaçãŽ da caƉela ƉƌeƐƐiŽŶaŶdŽ ͞Alƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+ 
+ 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Para acender a luz interna da capela e ligar exaustor, mude para a visualização do painel 
+de cŽŶƚƌŽle͕ ƉƌeƐƐiŽŶaŶdŽ ͞Alƚнϯ͘͟ 
+Em seguida, acenda a luz interna e ligue o exaustor. 
+ 
+ 
+2. PREPARANDO A CAPELA 
+
+  
+ 
+12 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Feito isso, coloque todos os itens necessários ao experimento, que se encontram no 
+Armário inferior, dentro da capela. 
+Paƌa iƐƐŽ͕ mƵde Ɖaƌa a ǀiƐƵalinjaçãŽ dŽ aƌmáƌiŽ iŶfeƌiŽƌ ƉƌeƐƐiŽŶaŶdŽ ͞Alƚнκ͘͟ 
+ 
+ 
+ 
+Para abrir cada armário, clique com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Selecione todos os itens necessários para a realização do experimento, clicando com o 
+botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Quando terminar de colocar todos os itens na mesa, mude para a visualização do interior 
+da caƉela ƉƌeƐƐiŽŶaŶdŽ ͞AlƚнϮ͘͟ A bomba em conjunto com o kitassato e o funil de 
+Buchner já estarão sobre a bancada, juntamente com a bacia de gelo e o equipamento 
+para o banho maria. 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+  
+  
+ 
+IŶicialmeŶƚe͕ abƌa a balaŶça͘ Paƌa iƐƐŽ͕ mƵde a ǀiƐƵalinjaçãŽ Ɖaƌa a balaŶça ͞Alƚнϳ͟ e 
+clique com o botão direito do mouse sobre a porta da balança.  
+ 
+ 
+ 
+ Em seguida, mova o vidro de relógio para a balança. Clique com o botão direito sobre o 
+ǀidƌŽ de ƌelsgiŽ e ƐeleciŽŶe a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa balaŶça͘͟  
+ 
+ 
+3. REAGINDO O ALUMÍNIO COM O HIDRÓXIDO DE POTÁSSIO 
+
+  
+ 
+15 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Feche a balança e configure-a. Clique nos respectivos botões para ligar e tarar.  
+ 
+ 
+ 
+Retire o vidro de relógio da balança. Incialmente, abra a porta. Em seguida, clique com 
+o botão esquerdo do mouse sobre o vidro de relógio e retorne-o para a bancada.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+CŽm a ǀiƐƵalinjaçãŽ já ŶŽ iŶƚeƌiŽƌ da caƉela ͞AlƚнϮ͕͟ destampe o pote que contém o 
+alumínio. Para isso, clique com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque o alumínio no vidro de relógio, clique novamente com o botão esquerdo do 
+mouse sobre o pote para despejar.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Mova o alumínio para a balança. Verifique se o peso está coerente com o solicitado para 
+o experimento. Neste caso aproximadamente 2 g. Clique no vidro de relógio contendo 
+alƵmíŶiŽ cŽm Ž ladŽ eƐƋƵeƌdŽ dŽ mŽƵƐe e ƐeleciŽŶe a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa balaŶça͘͟  
+ 
+ 
+ 
+Pese o alumínio. Para isso, feche a porta da balança, clicando com o botão esquerdo do 
+mouse sobre ela. Anote o valor indicado na balança. 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Retorne o vidro de relógio para a mesa. Primeiro, abra a porta da balança clicando como 
+botão esquerdo do mouse sobre ela. Depois, clique no vidro de relógio com o botão 
+direito do mouse.  
+ 
+ 
+ 
+Coloque o alumínio no béquer. Para isso, mude a visualização para o interior da capela 
+͞AlƚнϮ͊͟ e, em seguida, clique com o botão direito do mouse sobre o vidro de relógio e 
+ƐeleciŽŶe a ŽƉçãŽ ͞DeƉŽƐiƚaƌ ŶŽ béƋƵeƌ ϭ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Adicione o hidróxido de potássio ao béquer. Inicialmente, coloque a quantidade de KOH 
+recomendada na proveta. Para isso, clique com o botão esquerdo do mouse sobre a 
+garrafa de KOH.  
+ 
+ 
+ 
+Em seguida, clique com o botão esquerdo do mouse sobre a garrafa para despejar. 
+Atente-se a escala da proveta e preencha o volume recomendado. Neste caso, 50 mL.  
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Transfira o hidróxido de potássio da proveta para o béquer. Clique com o botão direito 
+dŽ mŽƵƐe ƐŽbƌe a ƉƌŽǀeƚa e ƐeleciŽŶe a ŽƉçãŽ ͞CŽlŽcaƌ ŶŽ béƋƵeƌ ϭ͘͟ 
+ 
+ 
+ 
+Misture o alumínio com o hidróxido de potássio. Use o bastão de vidro. Clique com o 
+bŽƚãŽ diƌeiƚŽ dŽ mŽƵƐe ƐŽbƌe Ž baƐƚãŽ e ƐeleciŽŶe a ŽƉçãŽ ͞MiƐƚƵƌaƌ béƋƵeƌ ϭ͘͟  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Registre o volume do béquer com o marcador. Para isso, clique no marcador com o 
+botão direito do mouse e ƐeleciŽŶe a ŽƉçãŽ ͞MŽǀeƌ Ɖaƌa béƋƵeƌ ϭ͘͟ 
+ 
+ 
+ 
+Marque o béquer. Para isso, regule a altura com as setas e clique com o botão esquerdo 
+do mouse sobre o marcador.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+ 
+ 
+Para promover a dissolução do alumínio, mova o béquer contendo a mistura para o 
+banho-maria. Para isso, clique com o botão direito do mouse sobre o béquer e selecione 
+a ŽƉçãŽ ͞cŽlŽcaƌ em baŶhŽ-maƌia͘͟  
+ 
+ 
+ 
+Observe a  dissolução  completa  do  alumínio  no  banho  maria.  Para  isso,  mude  a 
+visualização para banho-maƌia ͞Alƚнϳ͘͟ QƵaŶdŽ a ƌeaçãŽ ceƐƐaƌ͕ ƌeƚŽƌŶe Ž béƋƵeƌ baƌƌa 
+a bancada clicando com o lado direito do mouse sobre ele.  
+ 
+ 
+4. DISSOLVENDO O ALUMÍNIO E FILTRANDO A SOLUÇÃO 
+
+  
+ 
+23 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+É possível notar uma diminuição do volume. Acrescente água destilada. Para isso, clique 
+cŽm Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ mŽƵƐe ƐŽbƌe a ƉiƐƐeƚa e ƐeleciŽŶe a ŽƉçãŽ ͞CŽlŽcaƌ ŶŽ béƋƵeƌ 
+ϭ͘͟ 
+ 
+ 
+ 
+Despeje a água destilada de modo que o volume final fique em torno de 60% do volume 
+inicial. Clique com o botão direito do mouse sobre a pisseta para despejar.  
+ 
+ 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Coloque o filtro no funil de Buchner. Clique com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+Em seguida, ligue a bomba. Clique com o botão esquerdo do mouse sobre o interruptor.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Finalmente, filtre a solução. Clique com o botão direito sobre o béquer e acione a opção 
+͞DeƐƉejaƌ ŶŽ filƚƌŽ͘͟  
+ 
+ 
+ 
+Retire o filtro do funil de Buchner para que a solução possa ser depositada no béquer. 
+Clique com o botão esquerdo do mouse sobre ele.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Mova a solução filtrada para o béquer limpo e seco, neste caso, o béquer 2. Clique com 
+o botão direito do mouse sobre o kitassato. Note que, automaticamente, o kitassato 
+será lavado com cerca de 10 mL de água destilada. O resultado dessa lavagem também 
+será depositado no béquer que contém a solução.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+27 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+  
+ 
+Resfrie a solução em água corrente. Para isso, clique com o botão direito do mouse sobre 
+o béquer e selecione a opção ͞ReƐfƌiaƌ em ágƵa cŽƌƌeŶƚe͘͟ 
+ 
+ 
+ 
+Coloque o ácido sulfúrico na proveta. Para tal, clique com o botão esquerdo sobre a 
+garrafa que contém a solução.   
+ 
+ 
+5. RESFRIANDO A SOLUÇÃO COM ÁGUA CORRENTE E COM GELO 
+
+  
+ 
+28 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Despeje a solução na proveta. Clique com o botão esquerdo do mouse sobre a pisseta e 
+pressione para adicionar a medida desejada, neste caso, 20 mL. 
+ 
+ 
+ 
+Logo depois, transfira o ácido sulfúrico para o béquer 2. Clique com o botão direito do 
+mŽƵƐe  ƐŽbƌe  a  ƉƌŽǀeƚa  e  ƐeleciŽŶe  a  ŽƉçãŽ  ͞CŽlŽcaƌ  ŶŽ  béƋƵeƌ  Ϯ͘͟  NŽƚe  ƋƵe, 
+automaticamente, o  bastão  irá  misturar  a  solução e o  H
+2
+SO
+4
+ será adicionado  sob 
+agitação.  
+ 
+ 
+ 
+
+  
+ 
+29 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Resfrie a solução no pote de gelo. Clique com o botão direito do mouse sobre o béquer 
+e, em ƐegƵida͕ eƐcŽlha a ŽƉçãŽ ͞CŽlŽcaƌ ŶŽ ƉŽƚe de gelŽ͘͟  
+ 
+ 
+ 
+Observe que o bastão de vidro será acionado automaticamente.  Ocorrerá a precipitação 
+por um tempo compreendido entre 15 a 20 minutos. Após esse período, os cristais de 
+alúmen irão se formar. Retorne o béquer para a mesa. Clique com o botão esquerdo do 
+mouse sobre o béquer. 
+ 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+ 
+ 
+ 
+Para obter o alúmen é necessário submeter a solução a filtração sob pressão reduzida. 
+Use um novo filtro de papel que já estará disponível sobre a bancada. A bomba já estará 
+ligada e o kitassato limpo. Transfira a solução do béquer para o filtro. Clique com o botão 
+diƌeiƚŽ dŽ mŽƵƐe ƐŽbƌe Ž béƋƵeƌ e ƐeleciŽŶe a ŽƉçãŽ ͞DeƐƉejaƌ ŶŽ filƚƌŽ͘͟  
+ 
+Em seguida, prepare uma solução com aproximadamente 15 mL de etanol resfriado e 
+água para enxaguar o béquer e garantir que todos os cristais serão transferidos para o 
+béquer. Inicialmente, adicione  cerca  de 7 mL  de C
+2
+H
+5
+OH na  proveta.  Logo  depois, 
+transfira para o béquer. Nesse caso, escolha o béquer 1.  
+ 
+6. OBTENDO O ALÚMEN 
+
+  
+ 
+31 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Repita o processo anterior, agora adicione aproximadamente 7 mL de água na proveta. 
+Logo depois, transfera para o béuqer.  
+Transfira a solução bara o funil. Clique com o botão direito do mouse e selecione a opção 
+͞DeƐƉejaƌ ŶŽ filƚƌŽ͘͟  
+ 
+ 
+ 
+Espalhe os cristais no filtro dentro do funil de Buchner. Para isso, use o bastão de vidro. 
+CliƋƵe cŽm Ž bŽƚãŽ diƚeiƚŽ dŽ mŽƵƐe ƐŽbƌe Ž baƐƚãŽ e ƐeleciŽŶe ͞EƐƉalhaƌ Ž alƷmeŶ ŶŽ 
+filƚƌŽ͘͟  
+ 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Leve o vidro de relógio para a balança. Tare e retorne para a bancada. Em seguida, 
+deposite o alúmen no vidro de relógio para analisar o resultado. Clique sobre o filtro 
+cŽm Ž bŽƚãŽ diƌeiƚŽ dŽ mŽƵƐe e ƐeleciŽŶe a ŽƉçãŽ ͞DeƉŽƐiƚaƌ ŶŽ ǀidƌŽ de ƌelsgiŽ͘͟ 
+ 
+ 
+ 
+Confira a massa resultante do processo. Para isso, leve o vidro de relógio para a balança.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+33 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+Analise a massa resultante, anote e compare com a massa de um dado teórico. Por fim, 
+calcule o rendimento da reação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+34 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+PRODUÇÃO DE ALÚMEN 
+ 
+ 
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaliaçãŽ de ReƐƵlƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ cŽm Ž 
+que foi observado no experimento.  
+ 
+ 
+ 
+Faça a limpeza de todos materiais utilizados, guarde-os e encerre o experimento.   
+ 
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+8. FINALIZANDO O EXPERIMENTO 

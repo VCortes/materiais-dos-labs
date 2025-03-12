@@ -1,0 +1,497 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta   prática,   você   realizará   a   investigação   geotécnica   de   um   solo   para 
+identificar sua resistência à penetração e os tipos de solo de uma determinada 
+região.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Torre com roldana; 
+• Tubo de revestimento; 
+• Trado concha; 
+• Trado helicoidal; 
+• Amostrador; 
+• Cabeça de bater; 
+• Hastes; 
+• Martelo padronizado. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. CAVANDO O BURACO 
+ 
+Posicione o martelo padronizado na torre e utilize o trado concha para escavar 
+e colher uma amostra de solo do primeiro metro de profundidade. Insira o tubo 
+de revestimento no buraco feito pelo trado concha. 
+ 
+2. REALIZANDO AS MARCAÇÕES 
+ 
+Insira o amostrador no buraco. Utilize um giz para fazer marcações em 15, 30 e 
+45 cm.  
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+3. GOLPEANDO A CABEÇA DE BATER 
+ 
+Posicione o martelo padronizado na altura adequada, solte a roldana para que ela 
+atinja a cabeça de bater e posicione novamente o martelo. Repita essas ações e 
+verifique  quantos  golpes  foram  necessários  para  que  cada marcação  de  giz 
+chegue ao nível do tubo de revestimento.  
+ 
+4. COLETANDO A AMOSTRA 
+ 
+Levante o martelo e remova o amostrador do buraco. Abra e colete uma amostra 
+de  solo  contida  no  amostrador.  Utilize  o  trado  helicoidal  para  cavar  os  55  cm 
+restantes do segundo metro de solo. 
+ 
+5. REPETINDO OS PROCEDIMENTOS 
+ 
+Repita os procedimentos apresentados nos passos 2, 3 e 4 até que o ensaio deva 
+ser encerrado de acordo com as condições apresentadas na norma vigente. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Verifique a Tabela 1 e durante a realização dos procedimentos experimentais 
+realize a coleta de dados necessárias para preenchê-la com os dados adequados. 
+ 
+ 
+2. Qual foi a condição que determinou o término do ensaio? 
+ 
+ 
+3. Qual a importância de se realizar a sondagem em uma obra de construção civil? 
+ 
+ 
+4. A partir do ensaio de SPT, qual o principal parâmetro encontrado? 
+ 
+ 
+5. Por que o ensaio de SPT é comumente realizado no Brasil? 
+ 
+ 
+6. Após a cravação dos 45 cm, como se realizar a leitura da resistência à penetração 
+do solo? 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Tabela 1 – Relatório de sondagem 
+ 
+ 
+ 
+Gráfico SPT 
+30 cm INICIAIS 
+30 cm FINAIS 
+ 
+Profundidade 
+(m) 
+ 
+Ensaio de 
+Penetração 
+(Golpes/Penetração) 
+ 
+Resistência à Penetração 
+SPT 
+Inicial Final 
+ 
+   
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. CAVANDO O BURACO 
+ 
+Posicione  o  martelo  padronizado  na  torre  clicando  nele  com  o  botão  esquerdo  do 
+mouse.  
+ 
+ 
+ 
+Mova o trado concha para o buraco clicando nele com o botão esquerdo do mouse.  
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Escave e colha uma amostra do solo clicando no trado concha com o botão esquerdo do 
+mouse.  
+ 
+ 
+ 
+Retorne o trado concha para o chão clicando nele com o botão direito do mouse.  
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Insira o tubo de revestimento no buraco clicando no tubo com o botão esquerdo do 
+mouse.  
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+2. REALIZANDO AS MARCAÇÕES 
+ 
+Insira o amostrador no buraco clicando nele com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Aproxime a visualização da haste que está no buraco clicando com o motão esquerdo 
+do mouse nela.  
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Realize marcações em 15, 30 e 45 cm posicionando o giz na posição adequada e clicando 
+com o botão esquerdo do mouse no giz. Para mudar a posição do giz, utilize a barra de 
+rolagem.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+3. GOLPEANDO A CABEÇA DE BATER 
+ 
+Após realizar as marcações, retorne a visualização clicando na tecla “B” do teclado.  
+ 
+ 
+ 
+Posicione o martelo padronizado clicando na manivela com o botão direito do mouse e 
+selecionando a opção “Posicionar peso”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Golpeie a cabeça de bater clicando na manivela com o botão esquerdo do mouse.  
+ 
+ 
+ 
+Repita  essas  ações e  verifique  quantos  golpes  foram  necessários  para  que  cada 
+marcação de giz chegue ao nível do tubo de revestimento.  
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+4. COLETANDO A AMOSTRA 
+ 
+Levante o martelo clicando na manivela com o botão direito do mouse e selecionando 
+a opção “Levantar peso”. 
+ 
+ 
+ 
+Mude   a   visualização   para   “Visão   geral” selecionando   essa   opção   no   menu   de 
+visualizações.  
+ 
+ 
+Retire o amostrador do solo clicando na cabeça de bater com o botão direito do mouse.  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+ 
+ 
+Colete  outra  amostra  de  solo  contida  no  amostrador  clicando  no  amostrador  com  o 
+botão direito do mouse.  
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+Para cavar os 55 cm restantes do segundo metro de solo, mova o trado helicoidal para 
+o buraco clicando nele com o botão esquerdo do mouse nele.  
+ 
+ 
+ 
+Realize  a  escavação  clicando  na  haste  que  está  posicionada  no  buraco  com  o  botão 
+esquerdo do mouse.  
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+SONDAGENS 
+ 
+5. REPETINDO OS PROCEDIMENTOS 
+ 
+Repita  os  procedimentos  apresentados  nos  passos  2,  3  e  4  até  que  o  ensaio  deva  ser 
+encerrado de acordo com as condições apresentadas na norma vigente. 
+Em seguida, verifique as amostras obtidas clicando com o botão esquerdo do mouse no 
+menu de amostras.  
+ 
+ 
+ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 
+ 
+ 

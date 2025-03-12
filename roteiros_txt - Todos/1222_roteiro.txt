@@ -1,0 +1,634 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá aprender  os  conceitos  e  etapas  da  geração  de 
+energia elétrica utilizando a energia solar. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amperímetro; 
+• Bateria Estacionária; 
+• Chave Seletora; 
+• Controlador de Carga; 
+• Dispositivo DR; 
+• Painel Solar; 
+• Voltímetro. 
+ 
+PROCEDIMENTOS 
+ 
+1. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos dos circuitos a serem implementados para obter mais informação 
+sobre o funcionamento. 
+ 
+2. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes do painel solar com a bancada e posicione a chave seletora na posição 0. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+3. ENERGIZANDO A BANCADA 
+ 
+Energize a bancada ligando o sistema de proteção, disjuntor do dispositivo DR.  
+ 
+4. LIGANDO O DIMMER 
+ 
+Configure o dimmer do painel solar para que a luz acenda. Observe os valores de corrente e 
+tensão que são mostradas no voltímetro e amperímetro. 
+ 
+5. VARIANDO A INCLINAÇÃO DOS SPOTS 
+ 
+Varie a inclinação dos spots. Observe a variação de tensão no voltímetro e amperímetro. Faça 
+a análise da variação de tensão para todas as inclinações. 
+ 
+6. VARIANDO O DIMMER 
+ 
+Varie o dimmer para alterar a potência da luz e observe a variação da tensão no voltímetro. 
+ 
+7. MUDANDO A POSIÇÃO DA CHAVE SELETORA 
+ 
+Mude  a  posição  da  chave  seletora  do  painel  solar  para  alterar  o  fechamento  e  observe os 
+valores de tensão e corrente nessa nova condição. Repita os procedimentos 5 e 6 analisando 
+a variação de tensão e corrente em todas as posições da chave seletora. 
+ 
+8. DESENERGIZANDO A BANCADA 
+ 
+Desligue o disjuntor DR e remova todos os cabos. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+ 
+ 
+  
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é um painel solar? 
+ 
+ 
+ 
+2. Como funciona o painel solar? 
+ 
+ 
+ 
+3. Qual a influência da inclinação do painel solar na produção de energia? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize os outros esquemáticos clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+2. MONTANDO O CIRCUITO 
+ 
+Visualize o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” localizada no painel de visualização no canto superior esquerdo 
+da tela. Se preferir, também pode ser utilizado o atalho “Alt+2”. 
+ 
+ 
+ 
+Selecione o borne vermelho do painel fotovoltaico clicando com o botão esquerdo do 
+mouse sobre ele. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize  o ajuste do painel  solar  clicando  com  botão  esquerdo  do  mouse  na  câmera 
+com nome “Ajuste do painel solar” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Conecte  o  borne  vermelho  do  painel  solar clicando  com  o  botão  esquerdo  do  mouse 
+sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize o painel frontal clicando com botão esquerdo do mouse na câmera com nome 
+“Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para conectar o borne preto. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Posicione a chave seletora do painel solar na posição 0 clicando com o botão direito do 
+mouse sobre a chave e selecione a opção “Colocar na posição 0”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+3. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione o disjuntor DR clicando com o botão esquerdo do mouse sobre ele. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+4. LIGANDO O DIMMER 
+ 
+Visualize o ajuste do painel solar clicando com o botão esquerdo do mouse na câmera 
+com o nome “Ajuste do painel” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Abra  o  pop  up  clicando com  o  botão direito do mouse sobre  o  dimmer e selecione  a 
+opção “Abrir popup”. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Rotacione o dimmer no sentido horário clicando com o botão esquerdo do mouse sobre 
+o local indicado e movimente o cursor para a direita. 
+ 
+ 
+ 
+Feche o  popup  do  dimmer clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize o painel frontal  clicando  com  o botão esquerdo do  mouse na câmera com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Observe os valores de tensão e corrente no voltímetro e amperímetro utilizando o botão 
+de rolagem do mouse para aproximar a câmera de visualização. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+5. VARIANDO A INCLINAÇÃO DOS SPOTS 
+ 
+Visualize o painel solar clicando com o botão esquerdo do mouse na câmera com nome 
+“Painel solar” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Altere  a  inclinação  do  painel  clicando com  o  botão  direito do  mouse nos spots e 
+selecione uma das opções. 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize o painel frontal clicando com o botão direito do mouse na câmera com o nome 
+“Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Observe a  variação  da  tensão  que  ocorreu no  voltímetro  por  conta  da  variação  da 
+inclinação dos spots. Analise a variação de tensão para todas as inclinações dos spots. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+6. VARIANDO O DIMMER 
+ 
+Visualize  o  ajuste  do  painel  solar  clicando  com  botão  esquerdo  do  mouse  na  câmera 
+com nome “Ajuste do painel solar” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Abra  o  pop  up  clicando com  o  botão  direito do mouse  sobre  o  dimmer  e  selecione  a 
+opção “Abrir popup”. 
+ 
+ 
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Rotacione o dimmer no sentido horário clicando com o botão esquerdo do mouse sobre 
+o local indicado e movimente o cursor para a direita. 
+ 
+ 
+ 
+Feche  o  popup  do  dimmer  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  local 
+indicado. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Observe  a  variação  da  tensão  que  ocorreu  no  voltímetro  por  conta  da  variação  do 
+dimmer. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+7. MUDANDO A POSIÇÃO DA CHAVE SELETORA 
+ 
+Mude a posição da chave seletora da saída do painel solar clicando com o botão direito 
+do mouse sobre a chave e selecione uma das opções. 
+ 
+ 
+ 
+Observe os valores de tensão e corrente nessa nova condição. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+8. DESENERGIZANDO A BANCADA 
+ 
+Visualize  o  disjuntor  DR  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO AG-RNV 
+ESTUDO DE COMPORTAMENTO DO PAINEL FOTOVOLTAICO 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  

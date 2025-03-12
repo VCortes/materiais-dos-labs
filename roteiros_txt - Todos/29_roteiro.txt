@@ -1,0 +1,597 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste  experimento  você  irá  explorar  o  teorema  da  máxima  transferência  de 
+potência, verificando como a variação da resistência de uma carga pode afetar 
+na potência máxima transferida à mesma.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Protoboard; 
+• Multímetros; 
+• Bateria; 
+• Fonte de tensão; 
+• Chave alavanca; 
+• Potenciômetro; 
+• Resistores. 
+ 
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO O SISTEMA 
+ 
+Utilize a chave alavanca para interromper a passagem de corrente pelo circuito 
+montado  na  protoboard.  Ajuste  a  resistência  do  potenciômetro  para  0  ohms. 
+Acione a chave alavanca. 
+ 
+2. REALIZANDO MEDIDAS 
+ 
+Varie a resistência do potenciômetro de acordo com a tabela 1 e verifique nos 
+multímetros  a  tensão do  resistor  R2 e  a tensão no  potenciômetro. Identifique 
+qual  a  tensão  fornecida  pela  fonte  conectada  a  protoboard  e  a  resistência  do 
+resistor R1. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos.  
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+Medição 
+Resistência do 
+potenciômetro (Ω) 
+Tensão do 
+resistor R2 (V) 
+Tensão no 
+potenciômetro (V) 
+1 8   
+2 16   
+3 24   
+4 32   
+5 40   
+6 48   
+7 56   
+8 64   
+9 72   
+10 80   
+11 88   
+12 96   
+Tabela 1 – Dados experimentais da tensão 
+ 
+1. Preencha  a  tabela 1  de acordo  com  os dados  experimentais  obtidos  durante  a 
+realização do ensaio. 
+ 
+2. Qual o valor a tensão aplicada pela fonte? Qual o valor da resistência? 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+Para o cálculo da corrente utilize a equação abaixo. 
+푉
+푓
+=푅
+푝
+∗푖 
+Onde: 
+V
+f
+ = Tensão da fonte 
+R
+P
+ = Resistência do potenciômetro 
+i = Corrente elétrica do circuito 
+Os   valores   de   corrente   elétrica   encontrados   serão   baseados   na resistência   do 
+potenciômetro, no entanto, por se tratar de um circuito em série, a corrente que passa 
+pelo potenciômetro é igual a corrente que circula pelos demais resistores. 
+3. Preencha a tabela 2 com a corrente que percorre o circuito em cada medição. 
+Tabela 2 – Dados experimentais do experimento 
+ 
+ 
+Medição 
+Resistência do 
+potenciômetro 
+(Ω) 
+Corrente 
+do circuito 
+(A) 
+Resistência 
+R2 (Ω) 
+R
+eq = 
+(R
+p 
++ R
+2
+) 
+Eficiência 
+(훈) 
+Potência 
+dissipada no 
+circuito 
+1 8      
+2 16      
+3 24      
+4 32      
+5 40      
+6 48      
+7 56      
+8 64      
+9 72      
+10 80      
+11 88      
+12 96      
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+4. Com  base  nos  valores  obtidos  de  resistência  dos  resistores,  determine  a 
+resistência  equivalente  (R
+eq
+)  para  cada  medição  feita  no  circuito  e  anote  na 
+tabela 2. 
+Para  encontrar  a potência  dissipada  do  circuito,  você  utilizará  as  resistências 
+apresentadas pelos resistores e potenciômetros, associando-as com os seus valores 
+de tensão. 
+Utilize a equação abaixo para encontrar a potência dissipada no circuito. 
+푃표푡
+퐷푖푠푠푖푝푎푑푎
+= 
+푉
+푖
+²
+푅
+푖
++ 
+푉
+2
+²
+푅
+2
++ 
+푉
+푝
+²
+푅
+푝
+ 
+Onde: 
+푉
+푖
+ = Tensão da resistência interna da fonte 
+R
+i
+ = Resistência interna da fonte 
+푉
+2
+ = Tensão no resistor R2 
+R
+2
+ = Resistência do resistor R2 
+푉
+푝
+ = Tensão no potenciômetro 
+R
+P
+ = Resistência do potenciômetro 
+ 
+5. Anote os valores da potência dissipada na tabela 2. 
+ 
+Encontre os valores para a eficiência da transferência de potência utilizando a equação 
+abaixo. 
+휂= 
+푅
+푒푞
+푅
+푒푞
++ 푅
+1
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+Onde: 
+휂 = Eficiência na transferência de potência 
+R
+eq
+ = Resistência equivalente do circuito. 
+푅
+1
+ = Resistência interna na fonte 
+ 
+6. Anote os valores da eficiência na tabela 2. 
+ 
+7. Construa o gráfico da potência dissipada em função da eficiência. Para que valor 
+de  eficiência  foi  observada  a  menor  potência dissipada?  Pode-se  afirmar  que 
+esse ponto é o de maior transferência de potência? 
+ 
+8. Analisando  a  resistência  interna  e  externa.  Quando  transferência  de  potência 
+apresentará seu valor máximo? Justifique.  
+ 
+9. Como  o  resistor  R1  atua  no  circuito?  Se  não  fosse  colocado  este  resistor  no 
+circuito  o  valor  encontrado  para  máxima  transferência  de  potência  seria  o 
+mesmo? Justifique 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+TUTORIAL VIRTUALAB 
+ 
+CONHECENDO O LABORATÓRIO 
+ 
+No início do experimento é vista uma notificação onde é informado os itens que você 
+pode interagir  ao  longo  da  realização  do  experimento,  além  da  indicação  de  como 
+utilizar corretamente o mouse.  
+ 
+ 
+O potenciômetro encontra-se em 55Ω. Seu valor pode ser visto no canto valor no canto 
+inferior esquerdo da tela.  
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+O multímetro A mede a voltagem do resistor R2 e o multímetro B mede a voltagem do 
+potenciômetro. 
+ 
+ 
+ 
+Você  consegue  variar  o  potenciômetro  clicando  com  o botão  esquerdo  do  mouse  e 
+arrastando  a  “bola”  azul  para  o  valor  desejado.  Volte  para  o  mínimo  valor  do 
+potenciômetro.  
+ 
+ 
+ 
+ 
+A 
+B 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+Note  que  os  valores  de  voltagem  dos  multímetros  são  alterados  conforme  o  valor  do 
+potenciômetro é alterado. 
+ 
+Acessando a opção de câmera “Circuito” você irá visualizar o esquema montado para o 
+experimento 
+ 
+ 
+ 
+Observe o circuito montado. 
+ 
+ 
+ 
+Em  seguida,  clique  com o  botão  esquerdo  do  mouse  no  “x” para  visualizar  a bancada 
+novamente. 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+1. AJUSTANDO O SISTEMA 
+ 
+Clique com o botão esquerdo do mouse sobre a chave alavanca para desligá-la, abrindo 
+o circuito. 
+ 
+ 
+ 
+Observe que os multímetros começam a apresentar o valor zero em suas medidas. 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+Em   seguida,   pressione   a   seta   do   mouse   sobre   o   botão   azul   da   caixa   “Girar 
+potenciômetro” e ajuste-o para zero. 
+ 
+ 
+ 
+Faça o movimento circular para posicionar o botão azul no valor mínimo. 
+ 
+ 
+ 
+Ao posicionar o botão azul no valor zero, acione novamente a chave alavanca, clicando 
+com o botão esquerdo do mouse sobre ela. 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+2. REALIZANDO MEDIDAS 
+ 
+Partindo do valor inicial zero, varie a resistência de acordo com os valores estabelecidos 
+na tabela acima para cada medição, realizando as medidas das tensões no resistor 2 e 
+no potenciômetro. 
+ 
+Movimente  o  botão  azul  da  caixa  “Girar  potenciômetro”  e  posicione-o  nas  posições 
+respectivas aos valores determinados. 
+ 
+ 
+ 
+Anote os valores apresentados nos multímetros. 
+ 
+Atenção: lembre-se que  o  multímetro  da  esquerda  mede  a  tensão  do  resistor  R2  e  o 
+multímetro da direita mede a tensão do potenciômetro. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+Para a realização dos cálculos da corrente do circuito é necessário conhecer a resistência 
+apresentada pelo resistor R2 e a tensão pela qual o sistema encontra-se submetido. Para 
+isso, posicione a seta do mouse sobre a fonte de tensão e observe o valor disposto na 
+caixa de informações. 
+ 
+ 
+ 
+Além da tensão, você precisará da resistência referente ao resistor R1 (que atua como 
+resistor interno da fonte) do circuito, para obtê-la acesse a opção de câmera “Placa de 
+ensaio” e em seguida posicione a seta do mouse sobre o resistor R1 e observe a caixa 
+de informações. 
+ 
+ 
+ 
+Este valor será utilizado no cálculo da potência dissipada pelo potenciômetro. 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+MÁXIMA TRANSFERÊNCIA DE POTÊNCIA 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos.  
+ 

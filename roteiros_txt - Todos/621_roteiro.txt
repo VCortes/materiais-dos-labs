@@ -1,0 +1,856 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá aprender  a realizar  a  análise  laboratorial  de 
+triglicerídeos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Banho-maria; 
+• Caneta marcadora; 
+• Cubeta; 
+• Espectrofotômetro; 
+• Kit triglicerídeos (reagente de trabalho e solução padrão de colesterol); 
+• Micropipeta de 100 μL; 
+• Micropipeta de 1000 μL; 
+• Ponteira para micropipeta; 
+• Recipiente de descarte; 
+• Suporte para micropipeta; 
+• Suporte para tubo de coleta; 
+• Suporte para tubo de ensaio; 
+• Tubo de coleta com amostra de soro; 
+• Tubo de ensaio. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco, luvas e óculos. 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Identifique  os  3  tubos  de  ensaio  cada  um  respectivamente  com  as  siglas  A,  B  e  P. 
+Identifique as 3 cubetas cada uma respectivamente com as siglas A, B e P. 
+ 
+3. ADICIONANDO A AMOSTRA 
+ 
+Pipete 1000 μL do reagente de trabalho e transfira o conteúdo para o tubo de ensaio 
+B.  Pipete  1000  μL  do  reagente  de  trabalho  e  transfira  o  conteúdo  para  o  tubo  de 
+ensaio P. Pipete 1000 μL do reagente de trabalho e transfira o conteúdo para o tubo 
+de ensaio A. Descarte a ponteira. Configure a micropipeta de 100 μL para 10 μL. Pipete 
+10 μL da solução padrão e transfira o conteúdo para o tubo de ensaio P. Descarte a 
+ponteira. Pipete 10 μL da amostra de soro e transfira o conteúdo para o tubo de ensaio 
+A.  Descarte  a  ponteira.  Homogeneíze  o  tubo  de  ensaio  por  20  segundos.  Mova  os 
+tubos de ensaio para o banho-maria a 37 °C e aguarde por 10 minutos. Retire os tubos 
+de ensaio do banho-maria. 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+  
+4. REALIZANDO A LEITURA 
+ 
+Ligue o espectrofotômetro e configure o comprimento de onda para 510 mm. Abra o 
+equipamento.  Pipete  1000  μL  do  conteúdo  do  tubo  B  e  transfira  para  a  cubeta  B. 
+Descarte   a   ponteira.   Posicione   a   cubeta   B   no   equipamento   e   feche.   Zere   o 
+espectrofotômetro. Abra e retire a cubeta B do espectrofotômetro. Pipete 1000 μL do 
+conteúdo  do  tubo  P  e  transfira  para  a  cubeta  P.  Descarte  a  ponteira.  Posicione  a 
+cubeta P no equipamento e feche. Realize a leitura com o espectrofotômetro. Abra e 
+retire  a  cubeta  P  do  espectrofotômetro.  Pipete  1000  μL  do  conteúdo  do  tubo  A  e 
+transfira para a cubeta A. Descarte a ponteira. Posicione a cubeta A no equipamento 
+e  feche.  Realize  a  leitura  com  o  espectrofotômetro.  Abra  e  retire  a  cubeta  A  do 
+espectrofotômetro. Feche o equipamento. Calcule a concentração de triglicerídeos na 
+amostra utilizando a seguinte fórmula: Triglicerídeos (mg/dL) = Abs. amostra / Abs. 
+padrão x 200. Preencha o laudo com o resultado encontrado. 
+ 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Níveis altos de triglicerídeos podem ser indicativos de quais doenças? 
+ 
+ 
+ 
+2. O que causa o aumento de triglicerídeos no sangue? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+2. IDENTIFICANDO OS TUBOS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Identifique  os  tubos  e  as  cubetas  clicando  com  o  botão esquerdo  do  mouse  sobre  a 
+caneta marcadora. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+3. ADICIONANDO A AMOSTRA 
+ 
+Mova  a  micropipeta de  1000 μl clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar no reagente de trabalho”. 
+ 
+ 
+ 
+Adicione o reagente de trabalho no tubo de ensaio B clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio B”. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Mova a micropipeta para o reagente de trabalho clicando com o botão direito do mouse 
+sobre a micropipeta e selecione a opção “Colocar no reagente de trabalho”. 
+ 
+ 
+ 
+Adicione o reagente de trabalho no tubo de ensaio P clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio P”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Mova a micropipeta para o reagente de trabalho clicando com o botão direito do mouse 
+sobre a micropipeta e selecione a opção “Colocar no reagente de trabalho”. 
+ 
+ 
+ 
+Adicione o reagente de trabalho no tubo de ensaio A clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio A”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta de 100 μl clicando com o botão direito do mouse sobre 
+a micropipeta e selecionando a opção “Reajustar volume”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Configure  o  volume  para  10 μl  utilizando  o  seu  teclado  numérico  e  confirme  clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse sobre ela e selecionando a 
+opção “Colocar em solução padrão”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Adicione a solução padrão de triglicerídeos no tubo de ensaio P clicando com o botão 
+direito do mouse sobre a micropipeta e selecione a opção “Colocar em tubo de ensaio 
+P”. 
+ 
+ 
+ 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Pipeta a amostra de soro clicando com o botão direito do mouse sobre a micropipeta de 
+100 μL e selecionando a opção “Colocar na amostra de soro”. 
+ 
+ 
+ 
+Adicione a amostra de soro no tubo de ensaio A clicando com o botão direito do mouse 
+sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio A”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Homogeneíze os tubos A e P clicando com o botão esquerdo do mouse sobre os tubos 
+indicados. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Visualize  o  banho-maria  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Banho-maria” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova  os  tubos  de  ensaio  clicando  com  o  botão  direito  do  mouse  sobre  cada  um  dos 
+tubos indicados e selecione a opção “Colocar no banho-maria”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Aguarde 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse em 
+“Avançar”. 
+ 
+ 
+ 
+Retire os tubos de ensaio do banho-maria clicando com o botão direito do mouse sobre 
+cada um dos tubos indicados e selecione a opção “Colocar no suporte”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+4. REALIZANDO A LEITURA 
+ 
+Mova a micropipeta 1000 μl para o tubo de ensaio B clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio B”. 
+ 
+ 
+ 
+Adicione  o  conteúdo  na  cubeta  B  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecione a opção “Colocar na cubeta B”. 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta e 
+selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Ligue    o    espectrofotômetro    clicando    com    o    botão    direito    do    mouse    sobre 
+espectrofotômetro. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Abra  a  tampa  do  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Mova a cubeta B para o espectrofotômetro clicando com o botão direito do mouse sobre 
+a cubeta B e selecionando a opção “Colocar no espectrofotômetro”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Feche a tampa do espectrofotômetro clicando com o botão esquerdo do mouse sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Zere o equipamento clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Abra  a  tampa  do  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Mova a cubeta para bancada clicando com o botão direito do mouse sobre a cubeta e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Mova a micropipeta de 1000 μl para o tubo de ensaio P clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio P”. 
+ 
+ 
+ 
+Adicione  o  conteúdo  na  cubeta  P  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar na cubeta P”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecione a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova a cubeta P para o espectrofotômetro clicando com o botão direito do mouse sobre 
+a cubeta P e selecionando a opção “Colocar no espectrofotômetro”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Feche a tampa do espectrofotômetro clicando com o botão esquerdo do mouse sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Realize  a  leitura  do  padrão  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. Anote o valor da absorbância do padrão. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Abra  a  tampa  do  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Mova a cubeta para bancada clicando com o botão direito do mouse sobre a cubeta e 
+selecionando a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Mova a micropipeta de 1000 μl para o tubo de ensaio A clicando com o botão direito do 
+mouse sobre a micropipeta e selecionando a opção “Colocar no tubo de ensaio A”. 
+ 
+ 
+ 
+Adicione  o  conteúdo  na  cubeta  A  clicando  com  o  botão  direito  do  mouse  sobre  a 
+micropipeta e selecionando a opção “Colocar na cubeta A”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Descarte  a  ponteira  clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e 
+selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Mova  a  cubeta A  para  o  espectrofotômetro clicando  com  o  botão  direito  do  mouse 
+sobre a cubeta A e selecionando a opção “Colocar no espectrofotômetro”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Feche a tampa do espectrofotômetro clicando com o botão esquerdo do mouse sobre 
+espectrofotômetro. 
+ 
+ 
+ 
+Realize  a  leitura da  amostra  clicando  com o  botão  esquerdo do  mouse  sobre  o botão 
+indicado. Anote o valor da absorbância da amostra. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+Abra  o  laudo  do  exame  clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Calcule  a  concentração  de  triglicerídeos  na  amostra  utilizando  a  seguinte  fórmula: 
+Triglicerídeos (mg/dL) = Abs. amostra / Abs. padrão x 200 e digite o resultado no laudo 
+utilizando o seu teclado numérico e confirme clicando com o botão esquerdo do mouse 
+em “Responder”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA CLÍNICA 
+TRIGLICERÍDEOS 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

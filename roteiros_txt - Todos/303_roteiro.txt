@@ -1,0 +1,824 @@
+
+
+  
+ 
+1 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  estudar  a  solubilidade  das  proteínas  frente  a 
+agentes desnaturantes. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+  
+
+  
+ 
+5 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido clorídrico concentrado; 
+• Ácido nítrico concentrado; 
+• Água destilada; 
+• Banho-maria; 
+• Bastão de vidro; 
+• Béqueres; 
+• Clara de ovo; 
+• Etanol absoluto; 
+• Pipetas de Pasteur; 
+• Solução de Albumina; 
+• Solução de cloreto de sódio; 
+• Solução de hidróxido de sódio; 
+• Tubos de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+
+  
+ 
+6 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+  
+2. PREPARANDO O EXPERIMENTO 
+ 
+Ligue o exaustor e a luz da capela. Abra a janela da capela. Abra o armário inferior e selecione 
+os itens necessários e coloque-os no interior da capela. 
+ 
+3. PREPARANDO AS AMOSTRAS 
+ 
+Coloque a solução de Albumina no béquer e, em seguida, pipete 2 mL dessa solução e transfira 
+para os tubos de ensaio 1 a 8. Higienize a pipeta e o béquer. Coloque a clara de ovo no béquer, 
+adicione água destilada, homogeneíze essa solução com o auxílio do bastão de vidro e deixe 
+descansar. Depois, transfira 2 mL da solução da clara de ovo para os tubos de ensaio 9 a 16. 
+ 
+4. ADICIONANDO OS REAGENTES 
+ 
+Aqueça  em  banho-maria  os  tubos  2  e  10.  Após  isso, adicione  os  reagentes  aos  tubos:  água 
+destilada  nos tubos  3  e  11,  ácido  nítrico  concentrado  nos  tubos  4  e  12,  ácido  clorídrico 
+concentrado  nos  tubos  5  e  13,  solução  de  hidróxido  de  sódio  nos  tubos  6  e  14,  solução  de 
+cloreto de sódio nos tubos 7 e 15 e etanol absoluto nos tubos 8 e 16. Por fim, deixe as amostras 
+em repouso e observe o resultado. 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+7 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. De acordo com o procedimento executado, explique como podemos precipitar 
+as proteínas. 
+ 
+ 
+ 
+2. Cite três agentes desnaturantes. 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+8”. 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Visualize  o painel  de  controle da  capela  clicando  com o  botão  esquerdo  do  mouse na 
+câmera com o nome “Painel de controle” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Ligue a luz da capela clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Ligue  o  exaustor  da  capela  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+indicado. 
+ 
+ 
+ 
+Abra a janela da capela clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Visualize o armário inferior clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário inferior” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Abra os armários clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Mova os tubos de ensaio para a capela clicando com o botão esquerdo do mouse sobre 
+eles. Repita esse processo para os demais itens necessários. 
+ 
+ 
+ 
+Feche os armários clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+3. PREPARANDO AS AMOSTRAS 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Interior da capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Coloque a albumina no béquer 1 clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Pipete a solução do béquer 1 clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Transfira a solução para o tubo de ensaio 1 clicando com o botão esquerdo do mouse 
+sobre a pipeta e selecione o tubo desejado. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Colete mais da última solução passando o cursor do mouse sobre a pipeta e pressione a 
+letra E no teclado do seu computador. 
+ 
+ 
+ 
+Repita o procedimento anterior para transferir a albumina para os tubos 2 a 8. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Transfira a clara de ovo para o béquer clicando com o botão esquerdo do mouse sobre 
+ela. 
+ 
+ 
+ 
+Coloque água destilada no béquer clicando com o botão scroll do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Homogeneíze a solução clicando com o botão direito do mouse sobre o bastão de vidro. 
+ 
+ 
+ 
+Colete a clara de ovo clicando com o botão scroll do mouse sobre a pipeta Pasteur. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Transfira a solução para o tubo de ensaio 9 clicando com o botão direito do mouse sobre 
+a pipeta e selecione o tubo desejado. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para transferir a clara de ovo para os tubos 10 a 16. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+4. ADICIONANDO OS REAGENTES 
+ 
+Aqueça  o  tubo  de  ensaio  passando  o cursor  do mouse  sobre  o  suporte  e  pressione  a 
+letra Q no teclado do seu computador. 
+ 
+ 
+ 
+Selecione o tubo 2 clicando com o botão esquerdo do mouse sobre a opção 2. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita o procedimento anterior para aquecer o tubo 10. 
+ 
+ 
+ 
+Coloque  água  destilada  no  béquer  1  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ela. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Pipete a solução do béquer 1 clicando com o botão esquerdo do mouse sobre a pipeta 
+Pasteur. 
+ 
+ 
+ 
+Transfira a solução para o tubo de ensaio 3 clicando com o botão direito do mouse sobre 
+a pipeta e selecione o tubo desejado. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Colete mais da última solução passando o cursor do mouse sobre e pipeta e pressione a 
+letra E no teclado do seu computador. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para transferir a água para o tubo 11. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Coloque o ácido nítrico no béquer 2 clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+Pipete a  solução  do  béquer  2  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta 
+Pasteur. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita os procedimentos anteriores para transferir o ácido nítrico para os tubos 4 e 12. 
+ 
+ 
+ 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Coloque HCl no béquer 1 clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita os procedimentos anteriores e transfira o HCl para os tubos 5 e 13. 
+ 
+ 
+ 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Coloque o hidróxido de sódio no béquer 2 clicando com o botão direito do mouse sobre 
+ele. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita os procedimentos anteriores para transferir o hidróxido de sódio para os tubos 6 
+e 14. 
+ 
+ 
+ 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Coloque o cloreto de sódio no béquer 1 clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita os procedimentos anteriores para transferir o cloreto de sódio para os tubos 7 e 
+15. 
+ 
+ 
+ 
+Limpe a pipeta passando o cursor do mouse sobre ela e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Limpe o béquer passando o cursor do mouse sobre ele e pressione a letra C no teclado 
+do seu computador. 
+ 
+ 
+ 
+Coloque o etanol no béquer 1 clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Repita os procedimentos anteriores para transferir o etanol para os tubos 8 e 16. 
+ 
+ 
+ 
+Visualize o suporte de tubos 1 clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio – suporte 1” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+Observe os resultados e repita o passo anterior para visualizar os suportes 2 e 3. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC - SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+C.P.: 40260-215  Telefone: (+55 71) 3272-3504   
+Correo electrónico: contato@algetec.com.br  |  Página web: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOQUÍMICA 
+SOLUBILIDADE DE PROTEÍNAS E DESNATURAÇÃO 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

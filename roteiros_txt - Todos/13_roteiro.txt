@@ -1,0 +1,903 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá explorar o movimento de queda livre dos corpos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Cesto; 
+• Sensor fotoelétrico; 
+• Multicronômetro; 
+• Plano vertical; 
+• Eletroímã; 
+• Esferas de aço. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. REALIZANDO AS LIGAÇÕES ELÉTRICAS 
+ 
+Conecte o cabo do eletroímã, o cabo do sensor de passagem e o cabo da chave 
+liga/desliga ao cronômetro.  
+Conecte o cabo do eletroímã na chave liga/desliga. 
+Conecte o cabo do cronômetro na chave liga/desliga. 
+ 
+2. LIGANDO CRONÔMETRO 
+ 
+Conecte a fonte de alimentação na fonte de energia e ligue o cronômetro. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+3. ACIONANDO O ELETROÍMÃ 
+ 
+Ligue a chave, acionando o botão liga/desliga. 
+ 
+4. POSICIONANDO A ESFERA 
+ 
+Posicione a esfera menor no eletroímã. 
+ 
+5. MEDINDO O DIÂMETRO DA ESFERA 
+ 
+Realize a medida do diâmetro da esfera, observando, de perto, o eletroímã.  
+ 
+6. POSICIONANDO O SENSOR 
+ 
+Posicione o sensor 100 mm abaixo da esfera. Observe que, como o diâmetro da esfera 
+já  foi  medido  no  passo  anterior, você  deverá  mover  o  sensor  até  a  posição (100  + 
+D
+esfera menor
+) mm. 
+ 
+7. PROMOVENDO A QUEDA LIVRE DA ESFERA 
+ 
+Desligue  o  eletroímã,  para  que  a  esfera  caia  livremente. Após  a  queda  da  esfera  é 
+possível verificar o tempo no visor do cronômetro. Anote este valor! 
+Ligue novamente o eletroímã para que a esfera seja fixada e não caia sobre o cesto.  
+ 
+8. REPETINDO O EXPERIMENTO 
+ 
+Posicione a esfera novamente no plano vertical, resete o cronômetro e certifique-se 
+que  serão  realizadas  cinco  medições. Realize  o  experimento  para  cada  esfera  nas 
+posições (100 + D
+esfera menor
+) mm, (200 + D
+esfera menor
+) mm, (300 + D
+esfera menor
+) mm, (400 
++ D
+esfera menor
+) mm, (500 + D
+esfera menor
+) mm.  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Crie uma tabela semelhante à apresentada e anote os valores encontrados para cada 
+uma das 5 repetições do experimento. 
+ 
+Pos. sensor (mm) T
+1
+ (s) T
+2
+ (s) T
+3
+ (s) T
+4
+ (s) T
+5
+ (s) T
+médio
+ (s) g (m/s
+2
+) V (m/s) 
+100 + D
+esfera menor
+         
+200 + D
+esfera menor
+         
+300 + D
+esfera menor
+         
+400 + D
+esfera menor
+         
+500 + D
+esfera menor
+         
+ 
+Você  usará  esta  tabela  para  anotar  os  valores  da  aceleração  da  gravidade  e  da 
+velocidade da esfera que irá calcular. 
+ 
+9. POSICIONANDO A ESFERA DA MESA 
+ 
+Posicione a esfera sobre a mesa para reiniciar o experimento.  
+ 
+10. ENSAIANDO A SEGUNDA ESFERA 
+ 
+Repita o experimento a partir do passo 3 para a outra esfera. Neste caso as posições 
+do  sensor  deverão  ser  ajustadas em (100  + D
+esfera maior
+) mm, (200  + D
+esfera maior
+) mm, 
+(300 + D
+esfera maior
+) mm, (400 + D
+esfera maior
+) mm, (500 + D
+esfera maior
+) mm.  
+ 
+Pos. sensor (mm) T
+1
+ (s) T
+2
+ (s) T
+3
+ (s) T
+4
+ (s) T
+5
+ (s) T
+médio
+ (s) g (m/s
+2
+) V (m/s) 
+100 + D
+esfera maior
+         
+200 + D
+esfera maior
+         
+300 + D
+esfera maior
+         
+400 + D
+esfera maior
+         
+500 + D
+esfera maior
+         
+ 
+ 
+11. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento.  
+ 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ENSAIANDO A PRIMEIRA ESFERA 
+ 
+1. Construa o gráfico “Posição do sensor x Tempo médio” e observe a relação entre as 
+variáveis posição e tempo. Qual função melhor descreveria esta relação? Exemplos: 
+função linear, quadrática, cúbica etc. 
+ 
+ 
+2. Construa  o  gráfico “Posição  do  sensor  x  Tempo  médio  ao  quadrado” e  observe  a 
+relação  entre  as  variáveis posição  e  tempo.  Qual  função  melhor  descreveria  esta 
+relação? Exemplos: função linear, quadrática, cúbica etc.  
+ 
+ 
+3. Compare  os  gráficos  construídos  anteriormente.  Você  observou  alguma  diferença 
+entre eles? Se sim, qual o motivo desta diferença? 
+ 
+ 
+4. Utilize  a equação  (5)  do  resumo  teórico  para  calcular  o  valor  da  aceleração  da 
+gravidade  em  cada  ponto  e  complete  a  tabela  que  você  fez  anteriormente.  Em 
+seguida compare os valores encontrados. 
+ 
+ 
+푔=
+2ℎ
+푡
+2
+ 
+(5) 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+5. Em   seguida   compare   os   valores encontrados.   Houve   diferença   nos   valores 
+encontrados? Se sim, o que você acha que proporcionou essa diferença? 
+ 
+ 
+6. Utilize  a  equação  (4)  do  resumo  teórico  para  calcular  o  valor  da  velocidade 
+instantânea em cada ponto e complete a tabela. 
+ 
+ 
+푣=푔.푡 
+(4) 
+ 
+7. Construa o gráfico da “Velocidade x Tempo”. Qual o comportamento da velocidade? 
+ 
+ 
+ENSAIANDO A SEGUNDA ESFERA 
+ 
+1. Compare  os  valores  obtidos  para  a  aceleração  da  gravidade.  Houve  diferença  nos 
+valores encontrados? Explique-a. 
+ 
+ 
+2. Compare  os  gráficos  de “Velocidade  x Tempo” obtidos  com  as  duas  esferas.  A 
+velocidade varia igualmente para as duas esferas? 
+ 
+ 
+3. Compare os tempos de queda das esferas. Explique o resultado! 
+ 
+ 
+4. Com   base   nos   resultados   obtidos   e   nos   seus   conhecimentos,   como   seria   o 
+comportamento do tempo se o experimento fosse realizado com uma esfera ainda 
+menor do que as que você utilizou no experimento? 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. REALIZANDO AS LIGAÇÕES ELÉTRICAS 
+ 
+ 
+Neste passo você irá conectar todos os componentes elétricos do circuito abaixo. Isto 
+inclui conectar o sensor, o eletroímã, o cronômetro e a chave liga/desliga, de modo  a 
+possibilitar o adequado andamento do experimento.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Chave Lig / Des 
+Eletroímã 
+Sensor 
+Fotoelétrico 
+Cronômetro 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+No sistema de medidas para o experimento, cada componente exerce uma função para 
+a  obtenção  dos  dados.  A  chave  liga/desliga é  utilizada  para  acionar  o  eletroímã, 
+permitindo, assim, que a esfera seja fixada no topo da haste de ensaio. Desative a chave 
+liga/desliga para que a esfera caia em queda livre. O sensor fotoelétrico é utilizado para 
+identificar a passagem da esfera pela posição determinada. O eletroímã é utilizado para 
+fixar  a  esfera  no  topo  da  haste  de  ensaio, sendo  acionado  e  desativado  pela  chave 
+liga/desliga.  Por  fim,  o  cronômetro  é  utilizado  para  registrar  o  tempo  que  a  esfera 
+percorre o trajeto determinado até o sensor em queda livre. 
+ 
+Acesse a câmera “Cronômetro, clicando com o botão esquerdo do mouse sobre o menu 
+superior esquerdo.  
+Visualize os acoplamentos e cabos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Conecte o eletroímã ao cronômetro, clicando com o botão esquerdo do mouse sobre o 
+cabo vermelho em destaque, arrastando-o e colocando-o na posição indicada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Conecte o cabo do sensor de passagem ao cronômetro, clicando com o botão esquerdo 
+do mouse sobre o cabo amarelo em destaque, arrastando-o e colocando-o na posição 
+indicada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Conecte o cabo da chave liga/desliga ao cronômetro, clicando com o botão esquerdo do 
+mouse sobre o cabo azul em destaque, arrastando-o e colocando-o na posição indicada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Conecte o cabo do eletroímã na chave liga/desliga, clicando com o botão esquerdo do 
+mouse sobre o cabo em destaque, arrastando-o e colocando-o na posição indicada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Em seguida, conecte o cabo que vai do cronômetro para a chave liga/desliga, clicando 
+com o botão esquerdo do mouse sobre o cabo em destaque, arrastando-o e colocando-
+o na posição indicada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+2. LIGANDO O CRONÔMETRO 
+ 
+Acesse a câmera “Bancada”. 
+ 
+ 
+ 
+Conecte a fonte de alimentação do cronômetro à fonte de energia, clicando com o botão 
+esquerdo  do  mouse sobre a  fonte  de  alimentação  e  arraste-a  para  a  posição  em 
+destaque. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+ 
+Agora é possível visualizar a tela do cronômetro. 
+ 
+ 
+ 
+Ligue o cronômetro, clicando com o botão esquerdo do mouse no botão “Power”. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+3. ACIONANDO O ELETROÍMÃ 
+ 
+Clique  com  o  botão  esquerdo  do  mouse  no  botão  da  chave  para  que  ele  mude  de 
+posição, acionando a chave e ligando o eletroímã. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+4. POSICIONANDO A ESFERA 
+ 
+Posicione a esfera menor no eletroímã, clicando com o botão direito do mouse na esfera 
+menor (Peso = 7g) e selecione a opção “Posicionar no plano vertical”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+5. MEDINDO O DIÂMETRO DA ESFERA 
+ 
+Observe o diâmetro da esfera, acessando a câmera “Eletroímã”.  
+ 
+ 
+ 
+Anote esse valor! 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+6. POSICIONANDO O SENSOR 
+ 
+Acesse a câmera “Plano vertical”.  
+Posicione o sensor 100 mm abaixo da esfera, clicando com o botão esquerdo do mouse 
+sobre ele.  
+Observe que, como o diâmetro da esfera já foi medido no passo anterior, você deverá 
+mover o sensor até a posição (100 + D
+esfera menor
+) mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+7. PROMOVENDO A QUEDA LIVRE DA ESFERA 
+ 
+ 
+Desligue o eletroímã, para que a esfera caia livremente, clicando com o botão esquerdo 
+do mouse sobre a chave (liga/desliga). 
+ 
+ 
+ 
+Após a queda da esfera é possível verificar o tempo no visor do cronômetro. Anote este 
+valor! 
+ 
+ 
+Ligue novamente o eletroímã para que a esfera seja fixada e não caia sobre o cesto.  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+8. REPETINDO O EXPERIMENTO 
+ 
+Acesse a câmera “cesto”. 
+Posicione a esfera novamente no plano vertical, clicando com o botão direito do mouse 
+sobre a esfera e selecionando a opção “Posicionar no plano vertical”. 
+ 
+ 
+ 
+Resete o cronômetro, clicando com o botão esquerdo do mouse no botão “Reset” do 
+cronômetro. 
+ 
+ 
+Realize cinco medições. 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+Realize o experimento para cada esfera nas posições 100 + Desfera menor) mm, (200 + 
+Desfera  menor)  mm,  (300  +  Desfera  menor)  mm,  (400  +  Desfera  menor)  mm,  (500  + 
+Desfera menor) mm.  
+Crie  uma  tabela semelhante  à  apresentada  e  anote  os  valores  encontrados  para  cada 
+uma das 5 repetições do experimento. 
+Pos. sensor (mm) T
+1
+ (s) T
+2
+ (s) T
+3
+ (s) T
+4
+ (s) T
+5
+ (s) T
+médio
+ (s) g (m/s
+2
+) V (m/s) 
+100 + D
+esfera menor
+         
+200 + D
+esfera menor
+         
+300 + D
+esfera menor
+         
+400 + D
+esfera menor
+         
+500 + D
+esfera menor
+         
+ 
+Você  usará  esta  tabela  para  anotar  os  valores  da  aceleração  da  gravidade  e  da 
+velocidade da esfera que irá calcular. 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+  
+9. POSICIONANDO A ESFERA NA MESA 
+ 
+Acesse a câmera “Cesto”. 
+Posicione a esfera sobre a mesa, clicando com o botão direito do mouse sobre a esfera 
+e selecione a opção “Posicionar na mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+QUEDA LIVRE 
+ 
+10. ENSAIANDO A SEGUNDA ESFERA 
+ 
+Repita o experimento a partir do passo 3 para a outra esfera. Neste caso as posições do 
+sensor deverão ser ajustadas em (100 + D
+esfera maior
+) mm, (200 + D
+esfera maior
+) mm, (300 + 
+D
+esfera maior
+) mm, (400 + D
+esfera maior
+) mm, (500 + D
+esfera maior
+) mm.  
+ 
+Pos. sensor (mm) T
+1
+ (s) T
+2
+ (s) T
+3
+ (s) T
+4
+ (s) T
+5
+ (s) T
+médio
+ (s) g (m/s
+2
+) V (m/s) 
+100 + D
+esfera maior
+         
+200 + D
+esfera maior
+         
+300 + D
+esfera maior
+         
+400 + D
+esfera maior
+         
+500 + D
+esfera maior
+         
+ 
+ 
+11. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 

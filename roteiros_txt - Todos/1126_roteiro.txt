@@ -1,0 +1,919 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre como realizar 
+uma  anamnese  para  avaliação  psicopedagógica  e  a  importância  da  mediação 
+família-escola nesse processo de avaliação do aluno. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Caneta; 
+• Gravador; 
+• Mesa; 
+• Prancheta com papel; 
+• Três poltronas. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. ESCOLHENDO O AVATAR 
+ 
+Escolha o avatar do (a) psicopedagogo (a) e defina um nome para o personagem. 
+ 
+2. ACOLHENDO E EXPLICANDO O TEMA 
+ 
+Recepcione  a  mãe na  sala  e,  em  seguida,  explique  como  funciona  a  anamnese  e  qual  o  seu 
+objetivo. Pegue os meterias necessários (prancheta, caneta e gravador). Ligue o gravador. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+3. INICIANDO A ANAMNESE 
+ 
+Inicie a anamnese perguntando os dados da criança como: o nome completo, a idade, se tem 
+algum  apelido,  qual  série  ela cursa,  se  gosta  de  ir  à  escola. Pergunte  também  se  há  algum 
+laudo ou diagnóstico apresentado por outro profissional. 
+ 
+4. REGISTRANDO OS DADOS PARENTAIS 
+ 
+Dê continuidade a anamnese realizando perguntas sobre o pai da criança: seu nome completo, 
+idade, estado civil, nível de escolaridade, se apresentou dificuldades no período escolar, qual 
+seu  emprego  no  momento.  Em  seguida,  realize  as  mesmas  perguntas  em  relação  à  mãe  da 
+criança. Pergunte se a criança possui irmãos e como é o cotidiano da família. Pergunte também 
+se há queixas na escola. 
+ 
+5. COLHENDO OS DADOS DE PSICOMOTRICIDADE 
+ 
+Nessa etapa, recolha os dados relacionados à psicomotricidade da criança. Pergunte se ficou 
+no  cercadinho,  se  engatinhou,  se  caia  muito,  com  que  aprendeu  a  andar,  se  se  mostrava 
+corajosa para subir escadas. Pergunte também se a criança é insegura.  
+ 
+6. COLHENDO OS DADOS SOBRE A FALA 
+ 
+Nessa  etapa,  recolha  os  dados  relacionados  à  fala  da  criança.  Pergunte  com  qual  idade 
+começou a falar, com quem mais falava, se alguém pedia para ela repetir a fala, quais foram 
+as primeiras palavras, se ela trocava as letras, se falava muito. Pergunte também em relação 
+a  compreensão  da  fala,  se  ela  fala  de  forma  que  todos  compreendam,  se  consegue  passar 
+recados.  Pergunte  se  ela  consegue  fazer  compras  sozinha  e  se  ela  tem  o  hábito  de  contar 
+histórias e, se elas têm início, meio e fim. Peça um exemplo. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+7. COLHENDO OS DADOS SOBRE O SONO 
+ 
+Nessa etapa, recolha os dados relacionados ao sono da criança. Pergunte se ela tem um sono 
+agitado,  se  possui  sonambulismo,  se  costuma  ter  pesadelos,  se  consegue  dormir sozinha. 
+Pergunte também se ela tem enurese noturna.  
+ 
+8. COLHENDO OS DADOS DA HISTÓRIA CLÍNICA 
+ 
+Nessa etapa, recolha os dados relacionados a história clínica da criança. Pergunte se ela já teve 
+bronquite,  se  possui  alergias,  se  tem  asma,  se  já  foi  internada,  se  já  passou  por  algum 
+procedimento cirúrgico, se possui problemas na visão, audição ou problemas psicossomáticos. 
+Pergunte também sobre o histórico familiar de doenças crônicas e mentais e se houve algum 
+trauma na história da criança. 
+ 
+9. COLHENDO OS DADOS SOBRE A FAMILÍA 
+ 
+Nessa etapa, recolha os dados relacionados ao relacionamento familiar da criança. Pergunte 
+a  mãe  se  a  gravidez  foi  planejada.  Pergunte  como  foi  o  nascimento,  se  foi  prematuro. 
+Questione se a família está passando por algum problema nesse momento e pergunte se há 
+histórico  de uso  de drogas  na  família.  Realize  perguntas  sobre  a  relação familiar,  como  eles 
+estabelecem  limites  com  a  criança,  se  a  criança  é  muito  protegida  ou  censurada,  pergunte 
+também sobre a alimentação. 
+ 
+10. COLHENDO OS DADOS SOBRE TRANSFORMAÇÕES 
+ 
+Nessa  etapa,  recolha  os  dados  relacionados  a  transformações  na  vida  da  criança.  Pergunte 
+sobre o nascimento de irmãos, se houve alguma morte na família recentemente e se alguém 
+se encontra desempregado na casa. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+  
+11. COLHENDO OS DADOS SOBRE ESTIMULAÇÃO 
+ 
+Nessa  etapa,  recolha  os  dados  relacionados  a  estimulação  da  criança.  Pergunte  sobre  as 
+atividades  diárias  da  criança,  se  ala  tem  acesso  a  brinquedos  pedagógicos,  se  tem  jogos  e 
+brinquedos  eletrônicos,  se  possui  acesso  a  livros  e  revistas.  Pergunte  também  como  é  o 
+relacionamento  da  criança  com  os  colegas  de  escola  e  se  ela  normalmente  assume  uma 
+postura de líder. 
+ 
+12. COLHENDO OS DADOS SOBRE HISTÓRIA ESCOLAR 
+ 
+Nessa etapa, recolha os dados relacionados a história escolar da criança. Pergunte se a criança 
+frequentava  creches  e  com que  idade  ela  entrou  na  escola.  Prossiga  perguntando  quem 
+escolheu a escola, se a criança já repetiu de ano ou houve algum problema com professores. 
+Pergunte também sobre a relação da criança com o ambiente escolar, as impressões sobre a 
+escola, atitudes em sala de aula, se a criança fala muito da escola, se realiza reforço escolar.  
+Sobre  a  relação  dos  responsáveis  com  a  escola,  pergunte  como  é  a  participação  deles  em 
+reuniões e eventos escolares e quem ajuda na lição de casa da criança. 
+ 
+13. FINALIZANDO A ANAMNESE 
+ 
+Pergunte a mãe o que ela mais gosta e o que ela menos gosta em relação ao filho.  
+ 
+14. ORIENTANDO OS PAIS 
+ 
+Pergunte a mãe como ela acha que a neuropedagogia pode ajudar. Por fim, dê as orientações 
+finais. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+  
+15. AVALIANDO O RELATÓRIO 
+ 
+Desligue o gravador e emita o relatório. 
+ 
+16. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  10 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância de realizar a anamnese antes do início do acompanhamento 
+com a criança? 
+ 
+ 
+ 
+2. Há  alguma  pergunta  que  você  considera  importante  acrescentar  a  ficha  de 
+anamnese? Se sim, qual? 
+ 
+ 
+ 
+3. De  que  modo  o  histórico  familiar  e  a  relação  dentro  de  casa  influenciam  no 
+comportamento da criança?  
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ESCOLHENDO O AVATAR 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse em “Começar”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Selecione um avatar de sua preferência clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Escolha um nome para o personagem e para a escola clicando com o botão esquerdo do 
+mouse sobre os campos indicados e digite utilizando o teclado do seu computador. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Inicie a prática clicando com o botão esquerdo do mouse em “Continuar”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+2. ACOLHENDO E EXPLICANDO O TEMA 
+ 
+Inicie a reunião clicando com o botão esquerdo do mouse em “Iniciar reunião”. 
+ 
+ 
+ 
+Recepcione a mãe e visualize os próximos diálogos clicando com o botão esquerdo do 
+mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+3. INICIANDO A ANAMNESE 
+ 
+Responda à pergunta anterior clicando com o botão esquerdo do mouse sobre uma das 
+opções. 
+ 
+ 
+ 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+4. REGISTRANDO OS DADOS PARENTAIS 
+ 
+Inicie as perguntas sobre os dados parentais e visualize os próximos diálogos clicando 
+com o botão esquerdo do mouse sobre o local indicado. Repita esse procedimento para 
+os demais diálogos. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+5. COLHENDO OS DADOS DE PSICOMOTRICIDADE 
+ 
+Inicie as perguntas sobre os dados de psicomotricidade e visualize os próximos diálogo 
+clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+6. COLHENDO OS DADOS SOBRE A FALA 
+ 
+Inicie as  perguntas  sobre a  fala e visualize  os  próximos diálogo  clicando  com  o  botão 
+esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+7. COLHENDO OS DADOS SOBRE O SONO 
+ 
+Inicie as perguntas sobre o sono e visualize os próximos diálogo clicando com o botão 
+esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+8. COLHENDO OS DADOS DA HISTÓRIA CLÍNICA 
+ 
+Inicie as perguntas sobre a história clínica e visualize os próximos diálogo clicando com 
+o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+9. COLHENDO OS DADOS SOBRE A FAMÍLIA 
+ 
+Inicie as perguntas sobre a família nuclear e ampliada, e visualize os próximos diálogo 
+clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+10. COLHENDO OS DADOS SOBRE TRANSFORMAÇÕES 
+ 
+Inicie as perguntas sobre as transformações na vida da criança e visualize os próximos 
+diálogo clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+11. COLHENDO OS DADOS SOBRE ESTIMULAÇÃO 
+ 
+Inicie  as  perguntas  sobre estimulação e visualize  os  próximos diálogo  clicando  com  o 
+botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+12. COLHENDO OS DADOS SOBRE HISTÓRIA ESCOLAR 
+ 
+Inicie as perguntas sobre a história escolar e visualize os próximos diálogo clicando com 
+o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+13. FINALIZANDO A ANAMNESE 
+ 
+Realize as perguntas finais da anamnese e visualize os próximos diálogo clicando com o 
+botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para as demais perguntas. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+14. ORIENTANDO OS PAIS 
+ 
+Pergunte  como  a  neuropsicopedagogia  pode  ajudar  e visualize  os  próximos diálogo 
+clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Responda à pergunta clicando com o botão esquerdo do mouse sobre uma das opções. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+Confirme sua escolha clicando com o botão esquerdo do mouse em “Confirmar”. 
+ 
+ 
+ 
+Dê as orientações finais e visualize os próximos diálogo clicando com o botão esquerdo 
+do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+15. AVALIANDO O RELATÓRIO 
+ 
+Finalize o experimento clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PSICOPATOLOGIA, MEDICALIZAÇÃO E SAÚDE 
+ANAMNESE - MEDIAÇÃO FAMÍLA E ESCOLA 
+ 
+16. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 10 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

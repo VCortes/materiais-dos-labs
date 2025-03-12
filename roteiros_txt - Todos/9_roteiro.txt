@@ -1,0 +1,811 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá aprender como ocorrem as reações espontâneas em 
+diferentes  placas  metálicas  utilizando  soluções  salinas  e  observar  de  forma 
+qualitativa os efeitos dessas reações nas placas. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de capacidade volumétrica de 50 mL; 
+• Placa de Cobre; 
+• Placa de Zinco; 
+• Placa de Ferro; 
+• Solução de Sulfato de cobre II a 0,3 mol.L
+-1
+  
+• Solução de Sulfato de zinco a 0,3 mol.L
+-1
+  
+• Solução de Sulfato de ferro II a 0,3 mol.L
+-1
+  
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PREPARANDO O AMBIENTE PARA O EXPERIMENTO 
+ 
+Coloque o béquer e as placas de Cobre, Ferro e Zinco sobre a mesa. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+3. SELECIONANDO AS SOLUÇÕES 
+ 
+Selecione as soluções de Sulfato de cobre II a 0,3 mol.L
+-1
+, de Sulfato de zinco a 
+0,3 mol.L
+-1
+ e de  Sulfato de ferro II a 0,3 mol.L
+-1
+ e coloque-as sobre a mesa.  
+ 
+4. REALIZANDO TESTES COM A PLACA DE ZINCO 
+ 
+Despeje uma amostra da solução de Sulfato de zinco a 0,3 mol.L
+-1
+ sobre o béquer 
+e posicione a placa de Zinco dentro do béquer.  
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+Anote  em  quanto  tempo  foi  observado  os  primeiros  efeitos  na  placa,  caso 
+ocorra. 
+Retire  a  placa  de  Zinco  do  béquer,  substitua  por  uma  nova  placa  e  remova  o 
+conteúdo do béquer.  
+Repita os procedimentos com as soluções de Sulfato de cobre II a 0,3 mol.L
+-1
+ e  
+de Sulfato de ferro II a 0,3 mol.L
+-1
+ , ambas com a placa de Zinco.  
+ 
+5. REALIZANDO OS TESTES COM A PLACA DE COBRE 
+ 
+Despeje uma amostra da solução de sulfato de Zinco a 0,3 mol.L
+-1
+ sobre o béquer 
+e posicione a placa de Cobre dentro do béquer.  
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+Anote  em  quanto  tempo  foi  observado  os  primeiros  efeitos  na  placa,  caso 
+ocorra. 
+Retire  a  placa  de  Cobre  do  béquer,  substitua  por  uma  nova  placa  e  remova  o 
+conteúdo do béquer.  
+Repita os procedimentos com as soluções de Sulfato de cobre II a 0,3 mol.L
+-1
+ e  
+de Sulfato de ferro II a 0,3 mol.L
+-1
+, ambas com a placa de Cobre.  
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+6. REALIZANDO OS TESTES COM A PLACA DE FERRO 
+ 
+Despeje  uma  amostra  da  solução  de Sulfato  de  Zinco a  0,3  mol.L
+-1
+ sobre  o 
+béquer e posicione a placa de Ferro dentro do béquer.  
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+Anote  em  quanto  tempo  foi  observado  os  primeiros  efeitos  na  placa,  caso 
+ocorra. 
+Retire  a  placa  de  Ferro  do  béquer,  substitua  por  uma  nova  placa  e  remova  o 
+conteúdo do béquer.  
+Repita os procedimentos com as soluções de Sulfato de cobre II a 0,3 mol.L-1 e  
+de Sulfato de ferro II a 0,3 mol.L-1, ambas com a placa de Ferro.  
+ 
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Faça  a  limpeza  de  todos  materiais  utilizados e  guarde-os.  Guarde  os  EPIs  no 
+armário e encerre o experimento.   
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+Com  base  nos  resultados  obtidos  nos  experimentos  realizados  nas  placas  de  Ferro, 
+Cobre e Zinco, responda os itens abaixo.  
+ 
+ 
+1. Foi  possível  notar algum  efeito  nas placas após  o  uso  das  diferentes  soluções? 
+Descreva cada efeito observado, justificando através da reatividade dos elementos 
+e explique, com base nos seus conhecimentos, o fenômeno ocorrido. 
+ 
+a) Zinco 
+ 
+b) Cobre 
+ 
+c) Ferro 
+ 
+ 
+2. Quais  reações nas  placas foram  observadas por  você  durante  o  experimento? 
+Explique. 
+ 
+a) Zinco 
+ 
+b) Cobre 
+ 
+c) Ferro 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+ 
+Acesse a câmera “EPIs”,  clicando  com  o  botão  esquerdo  do  mouse  no  menu  superior 
+esquerdo.  
+ 
+ 
+ 
+Abra o armário, clicando com o botão esquerdo do mouse sobre a porta do armário. 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Selecione os EPIs, clicando com o botão esquerdo do mouse sobre ele e selecionando a 
+opção “Usar este item”. Os EPIs utilizados serão: Jaleco e luvas.  
+ 
+ 
+ 
+ Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPI’s anteriormente 
+selecionados.  Caso  você  clique  com  o  botão  esquerdo  do  mouse  nos  mesmos,  eles 
+retornam  para  o  armário,  o  que  pode  ocasionar  a  não  permissão  para  a  execução  do 
+experimento. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+2. PREPARANDO O AMBIENTE PARA O EXPERIMENTO 
+ 
+Acesse a câmera “Gavetas”.  
+ 
+ 
+ 
+Abra a primeira gaveta, clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Posicione o béquer de capacidade volumétrica de 50 mL, clicando com o botão esquerdo 
+do mouse sobre ele e selecionando a opção “Colocar na mesa”. Após selecionar, feche 
+a gaveta, clicando com o botão esquerdo do mouse sobre ela.  
+ 
+ 
+ 
+Acesse a câmera “Armários”.  
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Abra o armário, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Selecione as placas de Cobre, Ferro e Zinco, clicando com o botão esquerdo do mouse 
+sobre elas e selecionando a opção “Colocar na mesa”. Após selecionar, feche o armário, 
+clicando com o botão esquerdo do mouse sobre a porta.  
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 3. SELECIONANDO AS SOLUÇÕES 
+ 
+Acesse a câmera “Soluções”. 
+Selecione a solução de Sulfato de Cobre II a 0,3 mol.L
+-1
+, a solução de Sulfato de Zinco a 
+0,3 mol.L
+-1
+ e a solução de Sulfato de Ferro II a 0,3 mol.L
+-1
+ , clicando com o botão esquerdo 
+do mouse sobre eles e selecionando a opção “Colocar na mesa”. 
+ 
+ 
+ 
+Acesse a câmera “Mesa”. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+  
+4. REALIZANDO OS TESTES COM A PLACA DE ZINCO 
+ 
+ 
+Despeje  uma  amostra  da solução  de  Sulfato  de  ferro  II  a  0,3  mol.L-1,  clicando  com  o 
+botão esquerdo do mouse sobre a solução e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+ 
+Em seguida, posicione a placa de Zinco no  béquer, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+  
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Acesse  a  câmera  “Béquer”  e  acompanhe  os  efeitos  na  placa.  Obtenha  a  reação,  caso 
+ocorra, posicionando o mouse sobre o béquer.  
+ 
+ 
+ 
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+ 
+Note que no canto superior direito da tela possui uma escala de tempo e um cronômetro 
+que você pode acelerar o processo, observando o efeito com o tempo. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Acione o cronômetro e a escala de tempo. 
+ 
+ 
+ 
+Anote em quanto tempo foi observado os primeiros efeitos na placa, caso ocorra. 
+Retira a placa do béquer, clicando com o botão esquerdo do mouse sobre a placa 
+selecionando a opção “Colocar na mesa”.  
+ 
+ 
+Em seguida, acesse a câmera “Eletrodos”.  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Para que o teste seja feito em outra solução, substitua a placa de Zinco, clicando com o 
+botão esquerdo do mouse sobre a placa de Zinco e selecione a opção “Substituir por 
+uma nova placa”.  
+ 
+ 
+ 
+ 
+Acesse a câmera “Mesa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Remova a solução do béquer, clicando com o botão esquerdo do mouse sobre o 
+béquer e selecionando a opção “Remover solução”.  
+ 
+ 
+ 
+Coloque a escala de tempo em “1,00x”, para que possa dar início a um novo teste e zere 
+o cronômetro escolhendo a opção “X” no mesmo. 
+ 
+ 
+ 
+Repita os procedimentos para as soluções de Sulfato de cobre II a 0,3 mol.L-1  
+e de Sulfato de ferro II a 0,3 mol.L-1, ambas em contato com a placa de Zinco e registre 
+as informações. 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+  
+5. REALIZANDO OS TESTES COM A PLACA DE COBRE 
+ 
+ 
+Despeje uma amostra da solução de Sulfato de zinco a  0,3 mol.L
+-1
+, clicando com o 
+botão  esquerdo  do  mouse  sobre  a  solução  e  selecionando  a  opção  “Colocar  no 
+béquer”.  
+ 
+ 
+ 
+Em seguida, posicione a placa de Cobre no béquer, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Acesse  a  câmera  “Béquer”  e  acompanhe  os  efeitos  na  placa.  Obtenha  a  reação,  caso 
+ocorra, posicionando o mouse sobre o béquer.  
+ 
+ 
+ 
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+Acione o cronômetro e a escala de tempo. 
+Anote em quanto tempo foi observado os primeiros efeitos na placa, caso ocorra. 
+Retira a placa do béquer, clicando com o botão esquerdo do mouse sobre a placa 
+selecionando a opção “Colocar na mesa”.  
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Em seguida, acesse a câmera “Eletrodos”. 
+Para que o teste seja feito em outra solução, substitua a placa de Cobre, clicando com 
+o botão esquerdo do mouse sobre a placa de Cobre e selecione a opção “Substituir por 
+uma nova placa”.  
+ 
+ 
+ 
+ 
+Acesse a câmera “Mesa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Remova a solução do béquer, clicando com o botão esquerdo do mouse sobre o 
+béquer e selecionando a opção “Remover solução”.  
+ 
+ 
+ 
+Coloque a escala de tempo em “1,00x”, para que possa dar início a um novo teste e zere 
+o cronômetro escolhendo a opção “X” no mesmo. 
+ 
+ 
+ 
+Repita os procedimentos para as soluções de Sulfato de cobre II a 0,3 mol.L
+-1
+ e de 
+Sulfato de ferro II a 0,3 mol.L
+-1
+, ambas em contato com a placa de Cobre, e registre 
+as informações. 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+  
+6. REALIZANDO OS TESTES COM A PLACA DE FERRO 
+ 
+ 
+Despeje uma amostra da solução de Sulfato de zinco a 0,3 mol.L-1, clicando com o botão 
+esquerdo do mouse sobre a solução e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+ 
+Em seguida, posicione a placa de Ferro no béquer, clicando com o botão esquerdo do 
+mouse sobre ela e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+  
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Acesse  a  câmera  “Béquer”  e  acompanhe  os  efeitos  na  placa.  Obtenha  a  reação,  caso 
+ocorra, posicionando o mouse sobre o béquer.  
+ 
+ 
+ 
+Anote a reação exibida e caso não ocorra, registre essa informação.  
+Acione o cronômetro e a escala de tempo. 
+Anote em quanto tempo foi observado os primeiros efeitos na placa, caso ocorra. 
+Retira a placa do béquer, clicando com o botão esquerdo do mouse sobre a placa 
+selecionando a opção “Colocar na mesa”.  
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Em seguida, acesse a câmera “Eletrodos”. 
+Para que o teste seja feito em outra solução, substitua a placa de Ferro, clicando com o 
+botão esquerdo do mouse sobre a placa de Ferro e selecione a opção “Substituir por 
+uma nova placa”.  
+ 
+ 
+ 
+ 
+Acesse a câmera “Mesa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Remova a solução do béquer, clicando com o botão esquerdo do mouse sobre o 
+béquer e selecionando a opção “Remover solução”.  
+ 
+ 
+ 
+Coloque a escala de tempo em “1,00x”, para que possa dar início a um novo teste e zere 
+o cronômetro escolhendo a opção “X” no mesmo. 
+ 
+ 
+ 
+Repita os procedimentos para as soluções de Sulfato de cobre II a 0,3 mol.L
+-1
+ e de Sulfato 
+de  ferro  II  a  0,3  mol.L
+-1
+,,  ambas  em  contato  com  a  placa  de  Ferro, e registre as 
+informações. 
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+ 
+ 
+7. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento.  
+ 
+ 
+8. FINALIZANDO O EXPERIMENTO 
+ 
+Posicione as soluções na prateleira, clicando com o botão esquerdo mouse sobre elas e 
+selecionando a opção “Colocar na prateleira”. 
+ 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+ESTUDO DA ESPONTANEIDADE DE UMA REAÇÃO 
+Guarde  o  béquer,  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  béquer  e 
+selecionando a opção “Colocar na gaveta”.  
+ 
+ 
+ 
+Guarde  as  placas  de  Ferro,  Zinco  e  Cobre,  clicando  com  o  botão  esquerdo  do  mouse 
+sobre as placas e selecionando a opção “Colocar no armário”.  
+ 
+ 
+ 
+Guarde os EPIs no armário e encerre o experimento.   
+ 

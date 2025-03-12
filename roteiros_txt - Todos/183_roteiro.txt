@@ -1,0 +1,983 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+  
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste     experimento,     você     irá     aprimorar     seus     conhecimentos     sobre 
+transformadores e linhas de transmissão. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1.  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+2. O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bancada de Geração, Transmissão, Distribuição e Consumo de Energia Elétrica; 
+• Conjunto motor-gerador; 
+• Lâmpadas (cargas resistivas); 
+• Transformador abaixador; 
+• Transformador elevador. 
+ 
+  
+PROCEDIMENTOS 
+ 
+TRANSFORMADORES 
+ 
+1. CONECTANDO O MOTOR E O GERADOR 
+ 
+Conecte o inversor ao  motor  e  o  gerador  ao  multimedidor  1. Realize  o  fechamento  e 
+aterramento  do  motor  e  do  gerador. Realize  a  excitação  do  gerador e  ligue  o seu disjuntor 
+geral.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+  
+2. CONECTANDO O TRANSFORMADOR 
+ 
+Conecte a saída do multimedidor 1 à entrada do transformador elevador (220 V). Conecte a 
+saída do transformador elevador (127 V) ao multimedidor 2.  
+ 
+3. VERIFICANDO OS MULTIMEDIDORES 
+ 
+Ligue o dispositivo DR na lateral esquerda da bancada. Ligue o disjuntor motor e o contator 1. 
+Varie a frequência através do conversor de frequência, enquanto verifica os valores de tensão, 
+corrente e fator de potência exibidos nos dois multimedidores. 
+ 
+4. REPETINDO O EXPERIMENTO 
+ 
+Repita o experimento com as outras saídas do transformador elevador (220 e 400 V). 
+ 
+LINHAS DE TRANSMISSÃO 
+ 
+5. CONECTANDO O MOTOR E O GERADOR 
+ 
+Conecte  o  inversor  ao  motor,  e  o  gerador  ao  multimedidor 1.  Realize  o  fechamento  e 
+aterramento  do  motor  e  do  gerador.  Realize  a  excitação  do  gerador  e  ligue  o  seu  disjuntor 
+geral.  
+ 
+6. CONECTANDO O RELÉ DE PROTEÇÃO 
+ 
+Conecte o terminal R do relé de proteção aos terminais A8 e A13. Conecte o terminal S aos 
+terminais  A2  de  BA  e  BF.  Conecte  os  terminais  A1  de  BA  e  BF  aos  terminais  A6  e  A12, 
+respectivamente. Conecte a saída do multimedidor 1 ao relé de proteção. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+  
+7. CONECTANDO A LINHA CURTA 
+ 
+Conecte  o  relé  de  proteção  à  entrada  da  linha  de  transmissão  curta.  Ligue  os  terminais 
+internos da linha e conecte a sua saída ao multimedidor 2. Conecte o multimedidor 2 às cargas 
+resistivas (220 V) e realize o fechamento das cargas. 
+ 
+8. CONFIGURANDO O RELÉ DE PROTEÇÃO 
+ 
+Ligue o disjuntor da linha de transmissão curta na lateral direita da bancada e o dispositivo DR 
+na  lateral esquerda.  Ligue  o disjuntor motor  e  o contator  1. Altere  a  frequência  nominal do 
+relé de proteção para 60 Hz e altere os parâmetros “Primário TC” e “Secundário TC” de forma 
+que a razão entre eles seja 5. Configure as correntes e temporização desejadas para a atuação 
+do relé. 
+ 
+9. VERIFICANDO OS MULTIMEDIDORES 
+ 
+Varie a frequência através do conversor de frequência, enquanto verifica os valores de tensão, 
+corrente e fator de potência exibidos nos dois multimedidores e no relé de proteção. 
+ 
+10. REPETINDO O EXPERIMENTO 
+ 
+Repita o experimento com as outras linhas de transmissão (média e longa). 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que é um transformador abaixador? 
+ 
+ 
+ 
+2. Quais os efeitos da linha de transmissão sobre um circuito? 
+ 
+ 
+ 
+3. De que forma acontece a transformação 110V – 220V? 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+TUTORIAL VIRTUALAB 
+TRANSFORMADORES 
+ 
+1. CONECTANDO O MOTOR E O GERADOR 
+ 
+Visualize o Conjunto  gerador motor clicando  com  o  botão  esquerdo  do  mouse na 
+câmera  com  o  nome “Conjunto  Gerador  motor” localizada  dentro  do  painel  de 
+visualização no canto superior esquerdo da tela. Se preferir, também pode ser utilizado 
+o atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Faça  as conexões  para  ligar o  Gerador  em  Delta clicando  com  o  botão  esquerdo  do 
+mouse sobre as conexões. 
+ 
+ 
+ 
+Repita o procedimento anterior para o motor. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue  o  aterramento  do gerador clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+conexão verde. 
+ 
+ 
+ 
+Visualize a  visão  frontal clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Visão Frontal” ou através do atalho do teclado “Alt+2”.  
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Faça o aterramento do motor clicando com o botão esquerdo do mouse sobre a conexão 
+verde. 
+ 
+ 
+ 
+Repita o procedimento anterior para o motor. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Visualize o rotor do gerador clicando com o botão esquerdo do mouse sobre a câmera 
+com o nome “Rotor do Gerador” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Realize  a  excitação  do  circuito  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+conexão lateral do gerador. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue os disjuntores geral clicando com o botão esquerdo do mouse sobre o botão com 
+o nome “Disjuntor Geral”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+2. CONECTANDO O TRANSFORMADOR 
+ 
+Visualize o  conjunto  Gerador  motor clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Conjunto Gerador motor” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Conecte o gerador ao multimedidor clicando com o botão esquerdo do mouse sobre a 
+conexão indicada abaixo. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Faça  a  conexão  clicando  com  o  botão  esquerdo  do  mouse  como  indicado  na  imagem 
+abaixo. 
+ 
+ 
+ 
+Repita o procedimento anterior para as outras duas conexões do gerador. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Conecte o motor no conjunto motor-gerador clicando com o botão esquerdo do mouse 
+e fazendo as conexões como indicada na imagem abaixo. 
+ 
+ 
+ 
+Complete a conexão clicando com o botão esquerdo do mouse sobre a entrada indicada 
+na imagem abaixo. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Repita o procedimento anterior para as outras duas conexões do motor. 
+ 
+ 
+ 
+Conecte  a  saída  do multimedidor  1  à  entrada  do  transformador  elevador  (220  V) 
+clicando com o botão esquerdo do mouse sobre a conexão indicada na imagem abaixo. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Complete  a  conexão clicando  com  o  botão  esquerdo  do  mouse  sobre  a  entrada  do 
+transformador. 
+ 
+ 
+ 
+Repita o procedimento anterior pra as outras conexões do multimedidor. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Conecte a saída do transformador (127 V) à entrada do multimedidor 2 clicando com o 
+botão esquerdo do mouse sobre a conexão indicada abaixo. 
+ 
+ 
+ 
+Complete  a  conexão  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  entrada  no 
+multimedidor 2. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Repita o procedimento anterior para as outras entradas do multimedidor 2. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+3. VERIFICANDO OS MULTIMEDIDORES 
+ 
+Visualize o Dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Energize a bancada clicando com o botão esquerdo do mouse sobre o dispositivo DR. 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Visualize o a visão frontal clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue a proteção clicando com o botão esquerdo do mouse sobre o botão verde do relé 
+de proteção. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue o contator clicando com o botão esquerdo do mouse sobre o botão “Liga”. 
+ 
+ 
+ 
+Abra o conversor de frequência clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue o conversor clicando com o botão esquerdo do mouse sobre o botão “Run”. 
+ 
+ 
+ 
+Varie  a  frequência  enquanto  observa  ambos  multimedidores  clicando  com  o  botão 
+esquerdo do mouse sobre o local indicado e arrastando para a direita ou esquerda, para 
+alterar os valores de frequência. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+4. REPETINDO O EXPERIMENTO 
+ 
+Repita os passos anteriores desse roteiro para as outras saídas do transformador (220 e 
+440 V). 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+LINHAS DE TRANSMISSÃO 
+ 
+5. CONECTANDO O MOTOR E O GERADOR 
+ 
+Repita o procedimento 1 deste roteiro. 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+6. CONECTANDO O RELÉ DE PROTEÇÃO 
+ 
+Faça  as  conexões  do gerador clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+conexões indicadas na imagem abaixo. 
+ 
+ 
+ 
+Repita o procedimento anterior para as outras duas conexões do gerador. 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Faça as conexões do motor clicando com o botão esquerdo do mouse sobre as conexões 
+indicadas na imagem abaixo. 
+ 
+ 
+ 
+Repita o procedimento anterior para as outras duas conexões do motor. 
+ 
+Conecte a saída do multimedidor 1 ao sistema de proteção e transmissão clicando com 
+o botão esquerdo do mouse sobre as conexões indicadas. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Realize as conexões do relé de proteção clicando com o botão esquerdo do mouse para 
+ligar o terminal R aos terminais A8 e A13. 
+ 
+ 
+ 
+Em  seguida,  conecte o  terminal  S  aos terminais  A2  de  BA  e  BF clicando  com  o  botão 
+esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Clique com o botão esquerdo do mouse para conectar os terminais A1 de BA e BF aos 
+terminais A6 e A12 respectivamente. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+7. CONECTANDO A LINHA CURTA 
+ 
+Conecte o relé de proteção à entrada da linha curta clicando com o botão esquerdo do 
+mouse sobre as conexões indicadas. 
+ 
+ 
+ 
+Realize as conexões internas da linha de transmissão clicando com o botão esquerdo do 
+mouse sobre elas. 
+ 
+ 
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Conecte  a  saída  da  linha  curta  à  entrada  do multimedidor  2  clicando  com  o  botão 
+esquerdo do mouse para fazer as conexões indicadas. 
+ 
+ 
+ 
+Conecte a saída do multimedidor 2 às cargas resistivas clicando com o botão esquerdo 
+do mouse sobre as conexões, como indicado na imagem. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Realize  o  fechamento  das  cargas  clicando  com  o  botão  esquerdo  do  mouse  sobre as 
+conexões indicadas na imagem. 
+ 
+ 
+ 
+Repita o procedimento anterior para as outras duas cargas. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+8. CONFIGURANDO O RELÉ DE PROTEÇÃO 
+ 
+Visualize a manobra de cargas clicando com o botão esquerdo do mouse na câmera com 
+o nome “Manobra de Cargas” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Ligue o disjuntor da linha de transmissão curta clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Ligue o dispositivo DR clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Visualize a  visão  frontal clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Visão Frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue a proteção da rede clicando com o botão esquerdo do mouse sobre o botão verde. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue o contator 1 clicando com o botão esquerdo do mouse sobre o botão “Liga”. 
+ 
+ 
+ 
+Abra o conversor clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ligue o conversor clicando com o botão esquerdo do mouse sobre o botão “Run”. 
+ 
+ 
+ 
+Ajuste  a  frequência  nominal  do  relé  de  proteção  para  60  Hz  clicando  com  o  botão 
+esquerdo do mouse sobre os botões de navegação do painel.  
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Ajuste os parâmetros “Primário TC” e “Secundário TC” de forma que a razão entre eles 
+seja  5  clicando  com  o  botão  esquerdo  do  mouse  sobre  os  botões  de  navegação  do 
+painel. 
+ 
+ 
+ 
+Volte ao menu inicial clicando com o botão esquerdo do mouse sobre o botão “C”. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Entre no menu “50/51” clicando com o botão esquerdo do mouse sobre os botões de 
+navegação. 
+ 
+ 
+ 
+Configure a corrente e o tempo de desarme do disjuntor alterando os parâmetros “TMS” 
+para o tempo e “I>LIMIAR” para a corrente clicando com o botão esquerdo do mouse 
+sobre os botões para alterar os valores. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+Habilite o circuito clicando com o botão esquerdo do mouse sobre o botão “I”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+9. VERIFICANDO OS MULTIMEDIDORES 
+ 
+Varie a frequência do conversor clicando com o botão esquerdo do mouse sobre ele e 
+arrastando para direita ou esquerda para variar a frequência. 
+ 
+ 
+ 
+Observe  o como  a  corrente,  tensão  e  fator  de  potência  exibidos  variam  com  a 
+frequência. Observe também o relé de proteção agindo assim que suas condições são 
+atingidas. 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+10. REPETINDO O EXPERIMENTO 
+ 
+Repita  o  procedimento  “Linhas  de  Transmissão”  dessa  vez  alterando  a  linha  de 
+transmissão curta pelas linhas média e longa, respectivamente. 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GERAÇÃO, TRANSMISSÃO, DISTRIBUIÇÃO E CONSUMO DE ENERGIA ELÉTRICA 
+TRANSFORMADORES E LINHAS DE TRANSMISSÃO 
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

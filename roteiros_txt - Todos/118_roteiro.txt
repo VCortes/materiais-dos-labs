@@ -1,0 +1,573 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste   experimento, você   irá   determinar   qualitativamente   a   presença   de 
+impurezas orgânicas em uma amostra de agregado miúdo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”. Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Água destilada ou deionizada. 
+• Solução de hidróxido de sódio a 3%. 
+• Solução com água (90 ml), álcool (10 ml) e ácido tânico (2 g) (concentração final 
+de 2%). 
+• Balança. 
+• Proveta graduada. 
+• Erlenmeyer. 
+• Funil. 
+• Béquer 1 L. 
+• Papel qualitativo. 
+• Tubos de ensaio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+2. COLOCANDO AS SOLUÇÕES SOBRE A BANCADA 
+ 
+Explore  a bancada  e  o  laboratório,  identificando  o  armário  em  que  se  localizam  as 
+soluções  a  serem  utilizadas.  Coloque-se  sobre  a  bancada.  Estas  soluções  foram 
+previamente preparadas pelo laboratorista. 
+A solução 1 contém hidróxido de sódio a 3% e a solução 2 contém água (90ml), álcool 
+(10ml) e ácido tânico (2g) (concentração final de 2%). 
+ 
+3. PREPARANDO A AMOSTRA DE AGREGADO MIÚDO 
+ 
+Identifique  a  amostra  de  agregado  miúdo,  já  selecionada  conforme  as  normas 
+pertinentes. Despeje o conteúdo da amostra no béquer 2. Em seguida, acrescente 100 
+ml da solução de hidróxido de sódio e agite o conteúdo final. 
+ 
+4. PREPARANDO A SOLUÇÃO PADRÃO COM ÁCIDO TÂNICO 
+ 
+No béquer 1, realize a mistura de 97 ml da solução 1 (hidróxido de sódio) e 3 ml da 
+solução 2 (ácido tânico). 
+ 
+5. ARMAZENANDO AS SOLUÇÕES POR 24 H 
+ 
+Armazene os dois béqueres no armário escuro, longe da luz, e aguarde o período de 
+24 h. 
+ 
+6. FILTRANDO O CONTEÚDO 
+ 
+Após as 24 h, retire os béqueres do armário. Filtre o conteúdo do béquer 1, contendo 
+a  amostra  de  agregado  miúdo, despejando-o  sobre  o  tubo  de  ensaio  1.  Despeje  o 
+conteúdo do béquer dois, contendo a solução padrão de ácido tânico, no tubo ensaio 
+2. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+  
+7. OBSERVANDO OS TUBOS DE ENSAIO 
+ 
+Compare os conteúdos das duas amostras com ajuda da carta de cores, indicada pela 
+NBR 7221/2012. A coloração mais clara ou mais escura que a solução padrão indicará, 
+com  base  na  tabela  de  cores,  uma  estimativa  de  matéria  orgânica  presente  no 
+material. 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que a análise dos dois tubos revelou? Há impurezas orgânicas na amostra? 
+ 
+ 
+ 
+2. Para que serve a solução de ácido tânico neste ensaio? 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Antes  de  iniciar qualquer  experimento  em  laboratório,  certifique-se das exigências  de 
+sua  instituição  e  utilize  os  equipamentos  de  proteção  individual  (EPI’s)  necessários. 
+Nesta atividade, você irá utilizar jaleco, luvas, óculos e máscara. 
+Selecione a câmera “Armário de EPI’s” conforme ilustrado abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Abra o armário, clicando com o mouse sobre o mesmo e selecione os EPI’s. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+2. COLOCANDO AS SOLUÇÕES SOBRE A BANCADA 
+ 
+Agora que você selecionou os EPI’s, deve iniciar o experimento.  
+Altere o modo de visualização para “Armário de soluções”, através da janela de 
+visualização. 
+ 
+ 
+ 
+Abra o armário, clicando sobre os puxadores. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Mova os frascos de solução para a mesa, clicando sobre os mesmos com o botão 
+direito do mouse e selecionando a opção “Posicionar na mesa”. 
+Não se esqueça de observar a descrição do conteúdo de cada frasco, conforme 
+indicado pela seta abaixo. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+3. PREPARANDO A AMOSTRA DE AGREGADO MIÚDO 
+ 
+Passe o mouse sobre os diferentes béqueres e identifique aquele contendo a amostra. 
+O teor de cada béquer é indicado na tela, conforme figura abaixo. 
+ 
+ 
+ 
+Despeje a amostra de agregado miúdo no béquer de trabalho (béquer 2), clicando sobre 
+a amostra com o botão esquerdo do mouse. 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Observe em destaque o preenchimento do béquer enquanto a amostra é depositada no 
+mesmo. 
+ 
+ 
+ 
+Despeje 100 ml de hidróxido de sódio a 3% no béquer contendo a amostra (béquer 2). 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+4. PREPARANDO A SOLUÇÃO PADRÃO COM ÁCIDO TÂNICO 
+ 
+Agora, no béquer 1, realize a mistura de 97 ml da solução 1 (hidróxido de sódio) e 3 ml 
+da solução 2 (ácido tânico).  
+Despeje 97 ml de hidróxido de sódio no béquer 1. 
+ 
+ 
+ 
+Despeje 3 ml de ácido tânico no béquer 1, para completar a solução padrão. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+5. ARMAZENANDO AS SOLUÇÕES POR 24 H 
+ 
+Após  preparar  os  béqueres  contendo  a  amostra  e  a  solução  padrão,  armazene-os  no 
+armário  escuro  (mesmo  local  onde  estavam  armazenadas  as  soluções).  Aguarde  o 
+período de 24h até retirar as amostras do armário. 
+Abra o armário de soluções, clicando sobre o mesmo com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Retorne para o modo de visualização “Bancada”. 
+ 
+ 
+ 
+Clique com o botão direito do mouse sobre os béqueres e selecione a opção “Posicionar 
+no armário”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Note que a porta do armário deve estar aberta, pois senão os béqueres não poderão ser 
+armazenados. Caso o armário esteja fechado, selecione a câmera “Armário de soluções” 
+e clique sobre a porta do armário. Retorne à bancada e então selecione “Posicionar os 
+béqueres no armário”. 
+ 
+ 
+ 
+Feche a porta do armário clicando sobre a mesma. 
+Aguarde o cronômetro marcar 24 h, conforme ilustrado abaixo. 
+ 
+ 
+ 
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+Após as 24 h, abra o armário e coloque as amostras novamente sobre a bancada. 
+ 
+ 
+ 
+Retorne  para  o  modo  de  visualização  “Bancada”  para  visualizar  a  mesa  com  o 
+experimento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+6. FILTRANDO O CONTEÚDO 
+ 
+Decorridas as 24 h, você agora vai analisar os resultados. Para tanto, é preciso 
+transferir o conteúdo dos béqueres para tubos de ensaio. 
+Posicione o funil sobre o tubo de ensaio. 
+ 
+ 
+ 
+Clique sobre o béquer contendo a amostra de agregado miúdo e selecione a opção 
+“Filtrar conteúdo”. 
+ 
+ 
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+O conteúdo da amostra é então filtrado sobre o tubo de ensaio. Você agora fará o 
+mesmo com a solução padrão de ácido tânico. 
+Após retirar o primeiro funil, clique sobre o segundo funil e selecione “Posicionar no 
+tubo de ensaio”. 
+ 
+ 
+ 
+Clique sobre o béquer da solução padrão e selecione “Filtrar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA CIVIL 
+AGREGADO MIÚDO: DETERMINAÇÃO DE IMPUREZAS ORGÂNICAS 
+ 
+ 
+7. OBSERVANDO OS TUBOS DE ENSAIO 
+ 
+Agora você já pode analisar as duas soluções no tubo de ensaio, selecionando a câmera 
+“Tubos de ensaio”. 
+ 
+ 
+ 
+Analise a coloração dos tubos de ensaio resultantes e, com base na discussão teórica, 
+conclua sobre a presença ou não de impurezas na amostra.  
+ 
+ 
+8. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

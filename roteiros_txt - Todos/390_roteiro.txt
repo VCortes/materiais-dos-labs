@@ -1,0 +1,670 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá executar os procedimentos adequados para realizar 
+a contagem manual de eritrócitos (glóbulos vermelhos ou hemácias) na câmara 
+de Neubauer. Dessa forma, você irá aprender a quantificar esse componente, a 
+realizar  corretamente  a  diluição  da  amostra  e  identificar  o  local  correto  na 
+câmara onde deve ser realizada a contagem. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Amostra de sangue total em tubo de EDTA; 
+• Câmara de Neubauer; 
+• Gaze; 
+• Lamínula; 
+• Micropipeta de 1000μL e respectiva ponteira; 
+• Micropipeta de 20μL e respectiva ponteira; 
+• Microscópio; 
+• Reagente de Gower (diluente); 
+• Tubo de ensaio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas, máscara e óculos. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+  
+2. PREPARANDO A AMOSTRA 
+ 
+Inicialmente, pipete 4 mL (4000μL) de solução diluente e transfira para o tubo de ensaio. Feito 
+isso,  utilizando  a  micropipeta  de  20μL,  adicione  a  amostra  ao  tubo  contendo  reagente  e 
+homogeneíze durante o tempo necessário. 
+ 
+3. FIXANDO O MATERIAL NA CÂMARA DE NEUBAUER 
+ 
+Pipetar 20μL da  solução contendo  o agente diluente  e  a  amostra, e  despreze na  câmara  de 
+Neubauer. Após isso, coloque a lamínula e leve a câmara até o microscópio. 
+ 
+4. OBSERVANDO O RESULTADO 
+ 
+Mova a lâmina para o microscópio. Execute todas os ajustes necessários para a visualização. 
+Observe o resultado através da lente ocular. Anote suas impressões. 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos os materiais utilizados, retire a lâmina do microscópio e desligue-o. 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quantos quadrantes precisam ser contados na câmara de Neubauer para obter 
+o número total de hemácias? Informe também a localização deles. 
+ 
+ 
+ 
+2. Para que não ocorra nenhum erro durante a contagem de hemácias é necessário 
+realizar um processo sistemático desse procedimento. Descreva como deve ser 
+feita essa contagem (ordem dos quadrantes, posição da célula no quadrante) e 
+quais objetivas devem ser usadas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Mova a micropipeta de 1000 μL para a solução diluidora clicando com o botão direito 
+do mouse sobre ela e selecione a opção “Colocar sobre a solução diluidora”. 
+ 
+ 
+ 
+Ative  o  primeiro  estágio  da  pipeta clicando com o  botão  esquerdo  do  mouse sobre o 
+êmbolo.  
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Coloque  a micropipeta  dentro  da  solução  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela e selecione a opção “Colocar dentro da solução diluidora”. 
+ 
+ 
+ 
+Aspire a solução clicando com o botão direito do mouse sobre o êmbolo. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Retire a pipeta da solução clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Remover da solução diluidora”.  
+ 
+ 
+ 
+Mova a micropipeta para o tubo de ensaio clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Despreze  a solução  diluidora  no  tubo  de  ensaio clicando  com  o  botão  esquerdo  do 
+mouse sobre o êmbolo da pipeta. 
+ 
+ 
+ 
+Repita o procedimento anterior mais três vezes para transferir 4 mL da solução diluidora 
+para o tubo de ensaio. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Retorne a micropipeta para o suporte clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Mova  a  micropipeta  de  20 μL  para  o  tubo  de  coleta  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar sobre o tubo de coleta”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Ative  o  primeiro  estágio  da  pipeta  clicando  com  o  botão  esquerdo  do  mouse  sobre o 
+êmbolo.  
+ 
+ 
+ 
+Coloque a micropipeta dentro do tubo clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar dentro do tubo de coleta”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Aspire a amostra clicando com o botão direito do mouse sobre o êmbolo da micropipeta. 
+ 
+ 
+ 
+Retire  a  micropipeta  do  tubo clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  e 
+selecione a opção “Remover do tubo de coleta”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Mova a micropipeta para o tubo de ensaio clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Despreze o sangue de dentro do tubo clicando com o botão esquerdo do mouse sobre 
+o êmbolo da micropipeta. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Retorne a micropipeta para o suporte clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Retornar ao suporte”. 
+ 
+ 
+ 
+Homogeneíze o tubo de ensaio clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+3. FIXANDO O MATERIAL NA CÂMARA DE NEUBAUER 
+ 
+Mova  a  micropipeta  de  20 μL  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Aspire  o  conteúdo clicando  com  o  botão  direito  do  mouse  sobre  o  êmbolo  da 
+micropipeta. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Mova a micropipeta para a câmara de Neubauer clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Colocar sobre Neubauer”. 
+ 
+ 
+ 
+Despreze  o  conteúdo  na  câmara  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+êmbolo da micropipeta. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Retorne  a  pipeta  para  o  suporte clicando  com  o  botão  direito  do  mouse sobre  ela  e 
+selecione a opção “Retornar para o suporte”. 
+ 
+ 
+ 
+Coloque a lamínula na câmara de Neubauer clicando com o botão esquerdo do mouse 
+sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Mova  a  câmara  de  Neubauer  para  o  microscópio clicando  com  o  botão  esquerdo  do 
+mouse sobre ela.  
+ 
+ 
+ 
+Visualize o  microscópio  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Microscópio” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+4. OBSERVANDO O RESULTADO 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor 
+ 
+ 
+ 
+Visualize a ocular clicando com o botão esquerdo do mouse em “Ver ocular”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+ 
+ 
+Coloque na objetiva 40X objetivas pressionando com o botão esquerdo do mouse sobre 
+o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+Observe  os  campos  indicados  para  contagem  de  eritrócitos  e  realize  a  contagem  de 
+células. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Desligue o microscópio clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA 
+CONTAGEM MANUAL DE ERITRÓCITOS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

@@ -1,0 +1,1573 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você irá entender  o  estudo  da  velocidade  das  reações  e 
+identificar os fatores que alteram a velocidade de uma reação química. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador magnético com placa de aquecimento; 
+• Água destilada; 
+• Balança analítica; 
+• Béquer de 100 mL; 
+• Espátula; 
+• Ferro em pó; 
+• Gral e pistilo; 
+• Nitrato de sódio (NaNO
+3
+); 
+• Pipeta graduada 5 mL; 
+• Prego de ferro; 
+• Proveta de 50 mL; 
+• Solução de ácido clorídrico (HCl) concentrado 0,6 mol/L; 
+• Solução de ácido clorídrico (HCl) concentrado 6 mol/L; 
+• Solução de ácido sulfúrico (H
+2
+SO
+4
+); 
+• Solução de permanganato de potássio (KMnO
+4
+); 
+• Solução de tiossulfato de sódio (Na
+2
+S
+2
+O
+3
+) 0,5%; 
+• Termômetro; 
+• Tubo de ensaio 10 mL; 
+• Vidro de relógio; 
+• Zinco. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+  
+PROCEDIMENTOS 
+ 
+ 
+1. SELECIONANDOO EXPERIMENTO 
+ 
+Visualize os experimentos a serem realizados: Análise de temperatura, Análise da superfície 
+de contato, Análise do catalisador e Análise da concentração. 
+ 
+2. ANALISANDO A TEMPERATURA 
+ 
+Lave  as  mãos  na  “Pia”  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Encha o béquer 1 com 50 mL de água destilada gelada, e o béquer 3 com 
+50 mL de água destilada natural. Em seguida, aqueça o béquer 3 na placa de aquecimento até 
+a temperatura de 60 ºC, acompanhando com o auxílio de um termômetro. Em seguida, retire 
+o béquer da placa e transfira 50 mL de água quente para a proveta. Transfira a água da proveta 
+para o béquer 2. Triture o comprimido de antiácido no gral e coloque no béquer 1. Repita esse 
+processo para o béquer 2. Observe e cronometre o tempo de dissolução do comprimido. 
+ 
+3. ANALISANDO A SUPERFÍCIE DE CONTATO 
+ 
+Lave  as  mãos  na  “Pia”  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Transfira o ácido clorídrico (HCl) para o béquer de 50 mL. Transfira 5 mL de 
+HCl para os tubos de ensaio 1 e 2, com o auxílio da pipeta graduada. Descarte a pipeta e ligue 
+a balança analítica. Coloque o vidro de relógio dentro da balança e tare-a. Pese 0,5 g de ferro 
+em pó com o auxílio da espátula e transfira para o tubo de ensaio 1. Cronometre o tempo da 
+reação. Coloque o prego no tubo de ensaio 2 e cronometre o tempo de reação. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+  
+4. ANALISANDO O CATALISADOR 
+ 
+Lave  as  mãos  na  “Pia”  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Com auxílio da espátula, adicione um grânulo de zinco nos tubos de ensaio 
+1 e 2. Transfira o ácido sulfúrico (H
+2
+SO
+4
+) para o béquer de 50mL. Pipete 1 mL de H
+2
+SO
+4
+ nos 
+tubos de ensaio 1 e 2. Descarte a pipeta dentro da pia, limpe o conteúdo do béquer de 50 mL 
+e  transfira o permanganato  de  potássio  (KMnO
+4
+) para  o  béquer  de  50  mL. Pipete  1  mL  de 
+KMnO
+4
+ no  tubo  de  ensaio  1  e  observe  a  reação.  Repita  a  mesma  pipetagem  para  o  tubo  2. 
+Descarte a pipeta dentro da pia, colete um cristal de nitrato e transfira para o tubo de ensaio 
+2, com o auxílio da espátula, e observe a reação. 
+ 
+5. ANALISANDO A CONCENTRAÇÃO 
+ 
+Lave  as  mãos  na  “Pia”  e  coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Transfira o ácido clorídrico (HCl) 0,6 mol/L para o béquer de 50 mL. Pipete 
+1 mL do HCl 0,6 mol/L com a pipeta graduada no tubo de ensaio 1. Descarte a pipeta dentro 
+da pia, limpe o conteúdo do béquer de 50 mL e transfira HCl 6 mol/L para o béquer de 50 mL. 
+Pipete  1  mL  de  HCl  6  mol/L com  a  pipeta  graduada  no  tubo  de  ensaio  2.  Descarte a pipeta 
+dentro da pia, limpe o conteúdo do béquer de 50 mL e transfira tiossulfato de sódio (Na
+2
+S
+2
+O
+3
+) 
+para o béquer de 50 mL.  Pipete 5 mL de Na
+2
+S
+2
+O
+3
+ com a pipeta graduada no tubo de ensaio 1 
+e  cronometre  o  tempo  de  reação.  Repita  a  mesma  pipetagem  para  o  tubo  de  ensaio  2,  e 
+cronometre o tempo de reação. 
+ 
+6. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Explique o porquê de a temperatura influenciar na velocidade da reação química. 
+ 
+ 
+ 
+2. Explique o porquê de a concentração influenciar na velocidade da reação. 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO EXPERIMENTO 
+ 
+Selecione  uma  das  práticas  clicando  com o  botão  esquerdo  do  mouse  sobre o  botão 
+indicado. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+2. ANALISANDO A TEMPERATURA 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir utilize o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Transfira  a  água  destilada  da  proveta  para  o  béquer  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje o líquido clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Despejar líquido”. 
+ 
+ 
+ 
+Retorne a proveta para a bancada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Posicione  a  pisseta  no  béquer  3  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Posicionar em béquer 3”. 
+ 
+ 
+ 
+Despeje o líquido clicando com o botão esquerdo do mouse sobre a pisseta. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Retorne  a  pisseta  para  a bancada  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Coloque o béquer 3 na chapa aquecedora clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Colocar na chapa”. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Coloque o termômetro no béquer clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Colocar no béquer”. 
+ 
+ 
+ 
+Ligue  a  chapa  de  aquecimento  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Retorne o termômetro para a bancada clicando com o botão esquerdo do mouse sobre 
+ele e selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Segure o béquer com a pinça clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova  o  béquer  para  a  proveta  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Posicionar na proveta”. 
+ 
+ 
+ 
+Despeje o líquido clicando com o botão direito do mouse sobre o béquer e selecione a 
+opção “Despejar líquido”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Coloque  o  béquer  na  bancada  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Coloque a pinça na bancada clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova  a  proveta  para  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar no béquer”. 
+ 
+ 
+ 
+Despeje o líquido clicando com o botão direito do mouse sobre a proveta e selecione a 
+opção “Despejar líquido”. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Retorne a proveta para a bancada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Coloque o comprimido no gral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Triture o comprimido clicando com o botão esquerdo do mouse sobre o gral. 
+ 
+ 
+ 
+Mova o gral para o béquer 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Posicionar no béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje o conteúdo clicando com o botão direito do mouse sobre o gral e selecione a 
+opção “Despejar no béquer”. 
+ 
+ 
+ 
+Aguarde o tempo da reação e quando o comprimido for dissolvido completamente pare 
+clicando com o botão esquerdo do mouse em “Parar contagem”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Coloque o comprimido no gral clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Triture o comprimido clicando com o botão esquerdo do mouse sobre o gral. 
+ 
+ 
+ 
+Mova o gral para o béquer 2 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Posicionar no béquer 2”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje o conteúdo clicando com o botão direito do mouse sobre o gral e selecione a 
+opção “Despejar no béquer”. 
+ 
+ 
+ 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra a aba de opções clicando com o botão esquerdo do mouse em “Opções”. 
+ 
+ 
+ 
+Volte  para  o  menu  inicial  clicando  com  o  botão  esquerdo  do  mouse  em  “Reiniciar 
+experimento”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+3. ANALISANDO A SUPERFÍCIE DE CONTATO 
+ 
+Selecione a prática a ser realizada clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje o ácido clorídrico no béquer clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Colocar em béquer”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aperte  a  pera  da  pipeta  clicando  com  o  botão  esquerdo  do  mouse  sobre o  centro da 
+pera. 
+ 
+ 
+ 
+Aspire o conteúdo clicando com o botão esquerdo do mouse sobre o botão “S”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar em tubo de ensaio 1”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre o botão “E”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Repita os procedimentos anteriores para colocar HCl no tubo de ensaio 2. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Posicione o vidro de relógio na balança clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Posicione  a  espátula  na  balança  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Posicionar na balança”. 
+ 
+ 
+ 
+Despeje o ferro no vidro de relógio clicando com o botão esquerdo do mouse sobre a 
+espátula. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Retorne a espátula para a bancada clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Posicionar na bancada”. 
+ 
+ 
+ 
+Despeje o ferro no tubo de ensaio 1 clicando com o botão direito do mouse sobre o vidro 
+de relógio. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Coloque o prego de ferro no tubo de ensaio 2 clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra a aba de opções clicando com o botão esquerdo do mouse em “Opções”. 
+ 
+ 
+ 
+Volte  para  o  menu  inicial clicando  com  o  botão  esquerdo  do  mouse  em  “Reiniciar 
+experimento”. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+4. ANALISANDO O CATALIZADOR 
+ 
+Selecione a prática a ser realizada clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Transfira  o  zinco  para  os  tubos  de  ensaio  clicando  com  o  botão  esquerdo  do  mouse 
+sobre a espátula. 
+ 
+ 
+ 
+Despeje  o  ácido  sulfúrico  no  béquer  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova  a  pipeta  para  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar em béquer 1”. 
+ 
+ 
+ 
+Aperte  a  pera  da  pipeta  clicando  com  o  botão  esquerdo  do  mouse  sobre o  centro  da 
+pera. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aspire o conteúdo clicando com o botão esquerdo do mouse sobre o botão “S”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar em tubo de ensaio 1”. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre o botão “E”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Repita os procedimentos anteriores para colocar o ácido sulfúrico no tubo de ensaio 2. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje  o  permanganato  de  potássio  no  béquer  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  béquer  2  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar em béquer 2. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aperte a pera da pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Aspire o conteúdo clicando com o botão esquerdo do mouse sobre o botão “S”. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar em tubo de ensaio 1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  “E”  na 
+pera. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Repita os procedimentos anteriores para colocar o permanganato de potássio no tubo 
+de ensaio 2. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Transfira nitrato para o tubo 2 clicando com o botão direito do mouse sobre a espátula. 
+ 
+ 
+ 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra a aba de opções clicando com o botão esquerdo do mouse em “Opções”. 
+ 
+ 
+ 
+Volte  para  o  menu  inicial  clicando  com  o  botão  esquerdo  do  mouse  em  “Reiniciar 
+experimento”. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+5. ANALISANDO A CONCENTRAÇÃO 
+ 
+Selecione a prática a ser realizada clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Despeje HCl 0,6 mol/L no béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  béquer  1  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar em béquer 1”. 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aperte a pera da pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Aspire o conteúdo clicando com o botão esquerdo do mouse sobre o botão “S” na pera. 
+ 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar em tubo de ensaio 1”. 
+ 
+ 
+ 
+Despeje  o  conteúdo  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão  “E”  na 
+pera. 
+ 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Descarte a pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Despeje o HCl 6 mol/L no béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova  a  pipeta  para  o  béquer  2  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar em béquer 2”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para despejar o líquido no tubo de ensaio 2.  
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Descarte a pipeta clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Despeje  o  tiossulfato  de  sódio  no  béquer  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Mova  a  pipeta  para  o  béquer  3  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecione a opção “Colocar em béquer 3”. 
+ 
+ 
+ 
+Repita  os procedimentos  anteriores  para  despejar  o  tiossulfato  de  sódio  no  tubo  de 
+ensaio 1. 
+ 
+ 
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+Repita  os  procedimentos  anteriores  para  despejar  o  tiossulfato  de  sódio  no  tubo  de 
+ensaio 2. 
+ 
+ 
+ 
+Aguarde o tempo da reação e pare clicando com o botão esquerdo do mouse em “Parar 
+contagem”. 
+ 
+ 
+  
+
+  
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICO-QUÍMICA APLICADA À FARMÁCIA 
+FATORES QUE INFLUENCIAM NA VELOCIDADE DE UMA REAÇÃO QUÍMICA 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 

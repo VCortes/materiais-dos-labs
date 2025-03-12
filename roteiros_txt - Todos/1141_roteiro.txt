@@ -1,0 +1,2641 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos acerca do preparo 
+de alimentos no ambiente hospitalar. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Álcool etílico; 
+• Alecrim; 
+• Alho; 
+• Arroz; 
+• Azeite de oliva; 
+• Bowl; 
+• Cebola; 
+• Embalagem descartável; 
+• Etiquetas; 
+• Feijão; 
+• Filé de peixe; 
+• Hipoclorito de sódio; 
+• Hortelã; 
+• Legumes; 
+• Óleo de girassol; 
+• Sal; 
+• Utensílios de cozinha. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia  e  coloque  os  equipamentos  de  proteção individual  localizados  no 
+“Armário de EPIs”. Nesse experimento é obrigatório o uso de jaleco, touca e luvas. 
+ 
+2. PREPARANDO O ARROZ 
+ 
+Abra o cardápio e visualize a composição. Mova a panela para o fogão e coloque um pouco de 
+óleo vegetal na panela. Ligue o fogão. Mova o alho e a cebola picada para a panela. Misture a 
+cebola e alho com a espátula. Mova o arroz para a panela e despeje. Mova o bowl com água 
+na panela e despeje a água. Após o tempo de 10 minutos, observe a mistura ferver. Abaixe o 
+fogo e tampe a panela. Aguarde 5 minutos e desligue o fogo. Retire metade do arroz com a 
+colher e coloque em outra panela. Coloque água e ferva por 5 minutos. Tampe as panelas e 
+mova-as para a bancada. 
+ 
+3. PREPARANDO O FILÉ DE PEIXE 
+ 
+Mova  a  frigideira  para  o  fogão.  Ligue o  fogão  e  coloque  o  óleo  na frigideira.  Transfira  os 
+pedaços  de  peixe da  bandeja para  a  frigideira, com  auxílio  do  pegador. Aguarde  por 15 
+segundos e vire todos os pedaços. Desligue o fogão. Retire os pedaços de peixe da frigideira e 
+coloque na porcelana branca. Mova a panela para o fogão e adicione as ervas (manjericão e 
+hortelã), o azeite e o alho. Ligue o fogão. Com a espátula, misture os ingredientes. Desligue o 
+fogão.  Transfira  os  ingredientes  da  panela  para  o  liquidificador e  coloque  a  tampa. Ligue  o 
+liquidificador e após 3 segundos, desligue. Coloque o molho no pote pequeno. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+4. PREPARANDO OS LEGUMES RÚSTICOS 
+ 
+Encha  o  copo  dosador  com  água  até  a  marca  de  1L  e transfira  a  água  para  a  vasilha 
+transparente. Coloque uma colher de água sanitária na vasilha. Mova a cenoura, a batata doce 
+e a abobora para a vasilha e, após 10 minutos, enxague os legumes em água corrente. Corte 
+os legumes mantendo a casca. Separe 5 unidades de cada legume e retire a casca. Coloque os 
+legumes sem casca em uma vasilha e mova para a bancada. Transfira os legumes com casca 
+para uma assadeira e adicione alecrim, azeite, óleo e sal. Coloque a assadeira no forno, ligue-
+o e asse a 180 °C por 15 minutos. Abra o forno e mexa com uma colher grande os legumes. 
+Aumente a temperatura para 200 °C e aguarde por 5 minutos. Abra o forno e retire a assadeira 
+com auxílio da luva térmica. Por fim, mexa os legumes com uma colher grande. 
+ 
+5. PREPARANDO O FEIJÃO 
+ 
+Coloque o feijão em um recipiente com água e aguarde por 12 horas. Escorra o feijão na pia e 
+coloque-o  na  panela  de  pressão. Adicione  500  mL  de  água,  utilizando  um  copo  medidor. 
+Tampe a panela e ligue o fogão. Aguarde a panela pegar pressão por 10 minutos e abaixe a 
+chama do fogão. Aguarde 25 minutos e desligue o fogo. Aguarde a pressão da panela sair por 
+10 minutos e abra a panela. Pegue uma outra panela e adicione cebola e óleo. Ligue o fogo e 
+aguarde 2 minutos. Adicione alho na panela e aguarde 2 minutos. Coloque o feijão na panela 
+que refogou a cebola e o alho. Adicione 1 colher de sopa de sal na panela e aguarde 2 minutos. 
+Desligue  o  fogo.  Pegue  a  vasilha  da  refeição  e  coloque  o  arroz  branco,  2  postas  de  filé  de 
+tilápia, o feijão e os legumes. Feche a vasilha e coloque a etiqueta.  
+ 
+6. PREPARANDO A DIETA PARA DIABETES 
+ 
+Com auxílio do copo medidor, coloque água na panela, adicione sal e aguarde a água ferver 
+por 10 minutos. Adicione o arroz integral e mexa com a colher. Aguarde a água ferver por 20 
+minutos e desligue o fogo. Escorra o arroz na pia e o coloque em um refratário de inox. Pegue 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+  
+a vasilha de refeição e coloque o arroz integral, 2 postas de filé de tilápia, feijão e legumes. 
+Feche a vasilha e coloque a etiqueta. 
+ 
+7. PREPARANDO DIETA PASTOSA 
+ 
+Abra o cardápio e visualize a composição. Pegue o arroz preparado no tópico 2, uma posta de 
+peixe e coloque-os em uma vasilha plástica. Triture o peixe por 15 segundos no mixer. Limpe 
+o mixer. Adicione os legumes sem casca, preparados no tópico 4, no mixer e triture-os por 1 
+minutos até apresentar aspecto de purê. Pegue a vasilha de refeição e coloque o arroz branco 
+papa, o filé de peixe batido, o caldo de feijão e o purê de legumes. Feche a vasilha e coloque 
+a etiqueta. 
+ 
+8. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Em quais situações é recomendado a aplicação da dieta pastosa para o paciente? 
+ 
+ 
+ 
+2. Qual  a  importância  de  deixar  os  legumes  de  molho  na  água  sanitária antes  de 
+utilizá-los? 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicie a prática clicando com o botão esquerdo do mouse em “Iniciar”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Leia as instruções e visualize a próxima etapa clicando com o botão esquerdo do mouse 
+em “Iniciar prática”. 
+ 
+ 
+ 
+Selecione a dieta livre clicando com o botão esquerdo do mouse sobre a opção “Dieta 
+livre”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir utilize o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e touca. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize a porta da cozinha clicando com o botão esquerdo do mouse na câmera com 
+o nome “Porta da cozinha” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Abra a porta da cozinha clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+2. PREPARANDO O ARROZ 
+ 
+Abra o cardápio clicando com o botão esquerdo do mouse sobre o ícone “Receitas”. 
+ 
+ 
+ 
+Visualize a composição e passe para próxima clicando com o botão esquerdo do mouse 
+sobre as setas indicadas. 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Feche a aba clicando com o botão esquerdo do mouse sobre o “X”. 
+ 
+ 
+ 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  panela  clicando com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Mover para o fogão”. 
+ 
+ 
+ 
+Destampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Destampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  óleo  clicando  com  o  botão  direito  do mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a panela de arroz”. 
+ 
+ 
+ 
+Despeje o óleo clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  óleo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Acenda o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo alto”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova a vasilha com cebola clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje a cebola picada clicando com o botão esquerdo do mouse sobre a vasilha. 
+ 
+ 
+ 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a vasilha com alho picado clicando com o botão direito do mouse sobre a vasilha 
+indicada e selecione a opção “Mover para a panela”. 
+ 
+ 
+ 
+Despeje o alho picado clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a panela”. 
+ 
+ 
+ 
+Misture os ingredientes clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Mova a vasilha com arroz clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje  o  arroz  na  panela  clicando  com  o  botão  esquerdo  do  mouse  sobre a  vasilha 
+indicada. 
+ 
+ 
+ 
+Mova a vasilha de água clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje a água clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abaixe o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo baixo”. 
+ 
+ 
+ 
+Tampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Tampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Desligue o fogão clicando com o botão direito do mouse sobre a panela e selecione a 
+opção “Apagar o fogo”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova  a panela menor clicando  com o botão  direito do  mouse  sobre  ela e  selecione  a 
+opção “Mover para o fogão”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Destampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Destampar a panela”. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Transfira o arroz clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Transferir arroz”. 
+ 
+ 
+ 
+Repita o procedimento anterior mais 1 vez. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Tampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Tampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Mover para a bancada”. 
+ 
+ 
+ 
+Mova a vasilha de água clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje a água clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Ligue o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo alto”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde por 5 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+ 
+Desligue o fogão clicando com o botão direito do mouse sobre a panela e selecione a 
+opção “Apagar o fogo”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Tampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Tampar a panela”. 
+ 
+ 
+ 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+3. PREPARANDO O FILÉ DE PEIXE 
+ 
+Mova a frigideira clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para o fogão”. 
+ 
+ 
+ 
+Ligue  o  fogo  clicando  com  o  botão  direito  do  mouse  sobre  a  frigideira  e  selecione  a 
+opção “Ligar o fogo”. 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  óleo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a frigideira”. 
+ 
+ 
+ 
+Despeje o óleo clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  óleo  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a bandeja com peixe clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mover para a frigideira”. 
+ 
+ 
+ 
+Mova o peixe cru clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita o procedimento anterior para cada pedaço. 
+ 
+ 
+ 
+Aguarde por 15 segundos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a bandeja clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Vire o peixe clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita o procedimento anterior para os demais pedaços. 
+ 
+ 
+ 
+Desligue o fogo clicando com o botão direito do mouse sobre a frigideira e selecione a 
+opção “Desligar o fogo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a frigideira clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a vasilha”. 
+ 
+ 
+ 
+Mova o peixe clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita o procedimento anterior para os demais pedaços. 
+ 
+ 
+ 
+Mova a frigideira clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a bancada”. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Mover para o fogão”. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Destampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Destampar a panela”. 
+ 
+ 
+ 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a bandeja clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a panela”. 
+ 
+ 
+ 
+Mova o hortelã clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova o manjericão clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Mova a bandeja clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  azeite  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a panela”. 
+ 
+ 
+ 
+Despeje o azeite clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  azeite clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+ 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova o alho picado clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Mover para a panela”. 
+ 
+ 
+ 
+Despeje o alho clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Ligue o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Ligar o fogo”. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Misture os ingredientes clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Desligue  o  fogo  clicando  com  o  botão  direito  do  mouse  sobre  a  panela  e  selecione  a 
+opção “Desligar o fogo”. 
+ 
+ 
+ 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre  ela e  selecione  a  opção 
+“Mover para o liquidificador”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje o conteúdo no liquidificador clicando com o botão esquerdo do mouse sobre a 
+panela. 
+ 
+ 
+ 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Mover para o fogão”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Ligue o liquidificador clicando com o botão esquerdo do mouse sobre o interruptor. 
+ 
+ 
+ 
+Aguarde por 3 segundos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje  o  conteúdo  no  pote  clicando  com  o  botão esquerdo  do  mouse  sobre  o 
+liquidificador. 
+ 
+ 
+ 
+Mova  o  pote  clicando  com  o  botão  direito  do  mouse  sobre  ele  e  selecione  a  opção 
+“Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+4. PREPARANDO OS LEGUMES RÚSTICOS 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova o copo dosador clicando com o botão direito do mouse sobre o copo e selecione 
+a opção “Encher com água”. 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abra a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Despeje a água clicando com o botão esquerdo do mouse sobre o copo. 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Pegue a colher clicando com o botão direito do mouse sobre a colher e selecione a opção 
+“Pegar a colher”. 
+ 
+ 
+ 
+Despeje  a  água  sanitária clicando  com  o  botão esquerdo do  mouse  sobre a  garrafa 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Transfira a água sanitária clicando com o botão esquerdo do mouse sobre a colher. 
+ 
+ 
+ 
+Mova a abóbora clicando com o botão esquerdo do mouse sobre o legume. 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita o procedimento anterior, mova a batata doce e a cenoura. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abra a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Enxague a cenoura clicando com o botão direito do mouse sobre o legume e selecione 
+a opção “Enxaguar”. 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Fatie  a  cenoura  clicando  com  o  botão  direito do mouse  sobre  o  legume e  selecione  a 
+opção “Fatiar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, enxague os legumes e fatie. 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Feche a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Separe  5  unidades  de  cenoura  clicando com  o  botão esquerdo do  mouse  sobre o 
+legume. 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita o procedimento anterior, mova 5 unidades de cada legume para o recipiente. 
+ 
+ 
+ 
+Mova  a  vasilha clicando  com  o  botão direito do  mouse  sobre a  vasilha  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje os legumes fatiados clicando com o botão esquerdo do mouse sobre a tábua. 
+ 
+ 
+ 
+Visualize mesa  clicando  com  o  botão esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  azeite  clicando  com  o  botão  direito  do  mouse  sobre a  garrafa  indicada  e 
+selecione a opção “Mover para a assadeira”. 
+ 
+ 
+ 
+Despeje o azeite clicando com o botão esquerdo do mouse sobre a garrafa. 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  azeite  clicando  com  o  botão  direito  do  mouse  sobre  a  garrafa  indicada  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova o óleo clicando com o botão direito do mouse sobre a garrafa indicada e selecione 
+a opção “Mover para a assadeira”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a garrafa indicada. 
+ 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  garrafa  clicando  com  o  botão  direito  do  mouse  sobre a  garrafa  indicada  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  sal  clicando  com  o  botão  direito  do  mouse  sobre  o  recipiente  indicado  e 
+selecione a opção “Mover para a assadeira”. 
+ 
+ 
+ 
+Despeje o sal clicando com o botão esquerdo do mouse sobre o recipiente indicado. 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  o  sal  clicando  com  o  botão  direito  do  mouse  sobre  o  recipiente  indicado  e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+ 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a bandeja clicando com o botão direito do mouse sobre a bandeja e selecione a 
+opção “Mover para a assadeira”. 
+ 
+ 
+ 
+Mova o alecrim clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a bandeja clicando com o botão direito do mouse sobre a bandeja e selecione a 
+opção “Mover para a mesa”. 
+ 
+ 
+ 
+Mova a assadeira clicando com o botão direito do mouse sobre a assadeira e selecione 
+a opção “Mover para o forno”. 
+ 
+ 
+  
+
+ 
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Asse a 180 °C clicando com o botão direito do mouse sobre o forno e selecione a opção 
+“Assar 180 °C”. 
+ 
+ 
+ 
+Aguarde  por 15 minutos e  avance clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abra o forno elétrico clicando com o botão esquerdo do mouse sobre a porta do forno. 
+ 
+ 
+ 
+Mexa o alimento clicando com o botão direito do mouse sobre a bandeja e selecione a 
+opção “Mexer o alimento”. 
+ 
+ 
+  
+
+ 
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Feche o forno clicando com o botão esquerdo do mouse sobre a porta indicada. 
+ 
+ 
+ 
+Asse a 200 °C clicando com o botão direito do mouse sobre o forno e selecione a opção 
+“Assar 200 °C”. 
+ 
+ 
+  
+
+ 
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde  por  5  minutos  ou  avance clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão indicado. 
+ 
+ 
+ 
+Abra o forno clicando com o botão esquerdo do mouse sobre a porta do forno. 
+ 
+ 
+  
+
+ 
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Coloque as luvas clicando com o botão direito do mouse sobre a assadeira e selecione a 
+opção “Colocar luvas de proteção”. 
+ 
+ 
+ 
+Mova a assadeira clicando com o botão direito do mouse sobre a assadeira e selecione 
+a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mexa o alimento clicando com o botão direito do mouse sobre a assadeira e selecione 
+a opção “Mexer o alimento”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+5. PREPARANDO O FEIJÃO 
+ 
+Mova  a  vasilha  de  feijão clicando  com  o  botão  direito  do  mouse  sobre o  recipiente 
+indicado e selecione a opção “Mover para a pia”. 
+ 
+ 
+ 
+Escorra o feijão clicando com o botão esquerdo do mouse sobre o recipiente indicado. 
+ 
+  
+
+ 
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  vasilha  clicando  com  o  botão  direito  do  mouse  sobre  a  vasilha  e  selecione  a 
+opção “Mover para a panela”. 
+ 
+ 
+ 
+Destampe a panela de pressão clicando com o botão direito do mouse sobre a panela e 
+selecione a opção “Destampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Coloque o feijão na panela de pressão clicando com o botão esquerdo do mouse sobre 
+a vasilha. 
+ 
+ 
+ 
+Mova  a  vasilha clicando  com  o  botão direito do  mouse  sobre a  vasilha  e  selecione  a 
+opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+88 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Mova o copo dosador clicando com o botão direito do mouse sobre o copo e selecione 
+a opção “Encher com água”. 
+ 
+ 
+  
+
+ 
+ 
+89 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abra a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre o copo indicado. 
+ 
+ 
+  
+
+ 
+ 
+90 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Tampe  a  panela  de  pressão clicando  com  o  botão direito do  mouse  sobre a  panela  e 
+selecione a opção “Tampar a panela”. 
+ 
+ 
+ 
+Ligue o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo alto”. 
+ 
+ 
+  
+
+ 
+ 
+91 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde por 10 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Abaixe o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo baixo”. 
+ 
+ 
+  
+
+ 
+ 
+92 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde por 25 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Apague  o  fogo clicando  com  o  botão direito do  mouse  sobre a  panela  e  selecione  a 
+opção “Apagar o fogo”. 
+ 
+ 
+  
+
+ 
+ 
+93 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde por 10 minutos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Destampe a panela clicando com o botão direito do mouse sobre a panela e selecione a 
+opção “Destampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+94 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize o  fogão  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Fogão” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Tampe  a  panela clicando  com  o  botão direito do  mouse  sobre a  panela  e  selecione  a 
+opção “Tampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+95 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre a  panela  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+96 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  panela  clicando  com  o  botão  direito  do  mouse  sobre a  panela  e  selecione  a 
+opção “Mover para o fogão”. 
+ 
+ 
+ 
+Destampe a panela clicando com o botão direito do mouse sobre a panela e selecione a 
+opção “Destampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+97 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  a  cebola clicando  com  o  botão direito do  mouse  sobre a  vasilha  indicada  e 
+selecione a opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+98 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje a cebola clicando com o botão esquerdo do mouse sobre a vasilha indicada. 
+ 
+ 
+ 
+Mova o óleo clicando com o botão direito do mouse sobre a garrafa indicada e selecione 
+a opção “Mover para a panela de feijão”. 
+ 
+ 
+  
+
+ 
+ 
+99 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje o óleo clicando com o botão esquerdo do mouse sobre a garrafa indicada. 
+ 
+ 
+ 
+Mova o óleo clicando com o botão direito do mouse sobre a garrafa indicada e selecione 
+a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+100 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Ligue o fogão clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo alto”. 
+ 
+ 
+ 
+Aguarde  por  2  minutos  ou  avance clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+101 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize os temperos clicando com o botão esquerdo do mouse na câmera com o nome 
+“Temperos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Mova o alho clicando com o botão direito do mouse sobre a vasilha indicada e selecione 
+a opção “Mover para a panela”. 
+ 
+ 
+  
+
+ 
+ 
+102 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a vasilha indicada. 
+ 
+ 
+ 
+Aguarde  por  2  minutos  ou  avance clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+103 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje  o  feijão  clicando  com  o  botão  direito  do  mouse  sobre  a  panela  de  pressão  e 
+selecione a opção “Despejar feijão na panela”. 
+ 
+ 
+ 
+Visualize a  mesa  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mesa” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+104 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Pegue o sal clicando com o botão direito do mouse sobre a colher e selecione a opção 
+“Pegar sal”. 
+ 
+ 
+ 
+Despeje o sal clicando com o botão esquerdo do mouse sobre a colher. 
+ 
+ 
+  
+
+ 
+ 
+105 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde  por  2  minutos  e  avance clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão indicado. 
+ 
+ 
+ 
+Desligue  o  fogo clicando  com  o botão direito do  mouse  sobre a  panela  e  selecione  a 
+opção “Apagar o fogo”. 
+ 
+ 
+  
+
+ 
+ 
+106 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize as  bandejas  para  refeições  clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bandejas para Refeições” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque  o  arroz  branco clicando  com  o  botão direito do  mouse  sobre a  vasilha  e 
+selecione a opção “Colocar arroz”. 
+ 
+ 
+  
+
+ 
+ 
+107 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Coloque 2 postas de filé de tilápia clicando com o botão direito do mouse sobre a vasilha 
+e selecione a opção “Colocar2 postas de tilápia”. 
+ 
+ 
+ 
+Coloque  o feijão clicando  com  o  botão  direito do  mouse  sobre  a  vasilha  e  selecione a 
+opção “Colocar feijão”. 
+ 
+ 
+  
+
+ 
+ 
+108 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Coloque os legumes clicando com o botão direito do mouse sobre a vasilha e selecione 
+a opção “Colocar legumes”. 
+ 
+ 
+ 
+Feche a  vasilha  e  coloque  a  etiqueta clicando  com  o  botão  direito  do  mouse  sobre  a 
+vasilha e selecione a opção “Fechar”. 
+ 
+ 
+  
+
+ 
+ 
+109 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+6. PREPARANDO A DIETA PARA DIABETES 
+ 
+Selecione a dieta clicando com o botão esquerdo do mouse sobre a opção “Dieta para 
+diabetes”. 
+ 
+ 
+ 
+Visualize as panelas clicando com o botão esquerdo do mouse na câmera com o nome 
+“Panelas” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+
+ 
+ 
+110 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  panela clicando  com  o  botão direito do  mouse  sobre a  panela  e  selecione  a 
+opção “Mover para o fogão”. 
+ 
+ 
+ 
+Abra a panela clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Destampar a panela”. 
+ 
+ 
+  
+
+ 
+ 
+111 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Mova o copo dosador clicando com o botão direito do mouse sobre o copo e selecione 
+a opção “Encher com água”. 
+ 
+ 
+  
+
+ 
+ 
+112 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Abra a torneira clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Despeje a água clicando com o botão esquerdo do mouse sobre o copo. 
+ 
+ 
+  
+
+ 
+ 
+113 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Pegue o sal clicando com o botão direito do mouse sobre a colher e selecione a opção 
+“Pegar sal”. 
+ 
+ 
+ 
+Despeje o sal clicando com o botão esquerdo do mouse sobre a colher. 
+ 
+ 
+  
+
+ 
+ 
+114 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Ligue o fogo clicando com o botão direito do mouse sobre a panela e selecione a opção 
+“Fogo alto”. 
+ 
+ 
+ 
+Aguarde por 10 minutos ou avance o tempo clicando com o botão esquerdo do mouse 
+sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+115 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova o arroz integral clicando com o botão direito do mouse sobre a vasilha e selecione 
+a opção “Mover para a panela”. 
+ 
+ 
+ 
+Despeje o arroz cru clicando com o botão esquerdo do mouse sobre a vasilha indicada. 
+ 
+ 
+  
+
+ 
+ 
+116 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para a panela”. 
+ 
+ 
+ 
+Misture os alimentos clicando com o botão esquerdo do mouse sobre a espátula. 
+ 
+ 
+  
+
+ 
+ 
+117 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Aguarde  por  20  minutos  e  avance clicando  com  o  botão esquerdo do  mouse  sobre o 
+botão indicado. 
+ 
+ 
+ 
+Mova a espátula clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Mover para a mesa”. 
+ 
+ 
+  
+
+ 
+ 
+118 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Desligue  o  fogo  clicando  com  o  botão direito  do  mouse  sobre  a  panela  e  selecione  a 
+opção “Apagar fogo”. 
+ 
+ 
+ 
+Mova  a  panela clicando  com  o  botão direito do  mouse  sobre a  panela  e  selecione  a 
+opção “Mover para a pia”. 
+ 
+ 
+  
+
+ 
+ 
+119 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Despeje a água clicando com o botão esquerdo do mouse sobre a panela. 
+ 
+ 
+ 
+Despeje no refratário clicando com o botão esquerdo do mouse sobre o escorredor. 
+ 
+ 
+  
+
+ 
+ 
+120 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Visualize as  bandejas  para  refeições  clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bandejas para Refeições” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, coloque o arroz integral, 2 postas de filé de tilápia, 
+feijão e legumes. Feche a vasilha e coloque a etiqueta. 
+ 
+ 
+  
+
+ 
+ 
+121 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+7. PREPARANDO DIETA PASTOSA 
+ 
+Selecione  a  dieta  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  opção  “Dieta 
+pastosa”. 
+ 
+ 
+ 
+Destampe a panela clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Destampar a panela”. 
+ 
+  
+
+ 
+ 
+122 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova o peixe clicando com o botão direito do mouse sobre a vasilha e selecione a opção 
+“Mover para o mixer”. 
+ 
+ 
+ 
+Mova o mixer clicando com o botão direito do mouse sobre o mixer e selecione a opção 
+“Mover para a vasilha”. 
+ 
+ 
+  
+
+ 
+ 
+123 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Triture clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Aguarde por 15 segundos ou avance clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+124 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  vasilha clicando  com  o  botão direito do  mouse  sobre a  vasilha  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Mova os legumes clicando com o botão direito do mouse sobre a vasilha e selecione a 
+opção “Mover para o mixer”. 
+ 
+ 
+  
+
+ 
+ 
+125 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Limpe o mixer clicando com o botão direito do mouse sobre o mixer e selecione a opção 
+“Limpar o Mixer”. 
+ 
+ 
+ 
+Mova o mixer clicando com o botão direito do mouse sobre o mixer e selecione a opção 
+“Mover para a vasilha”. 
+ 
+ 
+  
+
+ 
+ 
+126 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Triture clicando com o botão esquerdo do mouse sobre o equipamento. 
+ 
+ 
+ 
+Aguarde  por  01  minuto  ou avance clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+127 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Mova  a  vasilha  clicando  com  o  botão  direito  do  mouse  sobre  a  vasilha  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Visualize as  bandejas  para  refeições  clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bandejas para Refeições” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+128 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+Repita  os procedimentos  anteriores, coloque  o arroz  papa,  o  peixe batido,  o  caldo  do 
+feijão e o purê de legumes. Feche a vasilha e coloque a etiqueta. 
+ 
+ 
+  
+
+ 
+ 
+129 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GASTRONOMIA 
+GASTRONOMIA HOSPITALAR 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

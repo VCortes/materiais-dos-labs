@@ -1,0 +1,422 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre o contrato de 
+compra e venda de mercadorias. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. ENTENDENDO O PROBLEMA 
+ 
+Leia o texto contido na introdução e entenda o caso para seguir para a construção do contrato. 
+ 
+2. CONSTRUINDO O CONTRATO 
+ 
+Faça  o  contrato  internacional  de  compra  e  venda,  combinando  os  termos  que  melhor 
+encaixem na construção do contrato. 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  06 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Como a lei protege as partes envolvidas em um contrato de compra e venda de 
+mercadorias em caso de descumprimento dos termos acordados? 
+ 
+ 
+ 
+2. Quais  são  as  cláusulas  comuns  que  devem  ser  incluídas  em  um  contrato  de 
+compra  e  venda  de  mercadorias  para  garantir  a  segurança  e  a  eficácia  da 
+transação? 
+ 
+ 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ENTENDENDO O PROBLEMA 
+ 
+Inicie o experimento clicando com o botão esquerdo do mouse sobre o botão “iniciar”. 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Leia o texto contido na introdução, avance para a próxima etapa clicando com o botão 
+esquerdo do mouse sobre o botão “Próximo”. 
+ 
+ 
+ 
+Leia  e  entenda  o  caso  do  laboratório,  em  seguida  prossiga  clicando  com  o  botão 
+esquerdo do mouse em “Próximo”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+2. CONSTRUINDO O CONTRATO 
+ 
+Preencha a primeira parte do contrato clicando com o botão esquerdo do mouse sobre 
+as opções e arraste-a para o espaço designado. 
+ 
+ 
+ 
+Continue preenchendo as informações clicando com o botão esquerdo do mouse sobre 
+a barra e arraste-a para baixo 
+ 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Continue o experimento clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+ 
+ 
+Complete o contrato clicando com o botão esquerdo do mouse na opção de resposta e 
+arraste até o espaço designado. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Após completar todas as lacunas prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “Próximo” 
+ 
+ 
+ 
+Complete o contrato clicando com o botão esquerdo do mouse na opção de resposta e 
+arraste até o espaço designado. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Após completar todas as lacunas prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “Próximo” 
+ 
+ 
+ 
+Leia o  texto  em  seguida  prossiga  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Próximo”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Complete o contrato clicando com o botão esquerdo do mouse na opção de resposta e 
+arraste até o espaço designado. 
+ 
+ 
+ 
+Após completar todas as lacunas prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “Próximo” 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Complete o contrato clicando com o botão esquerdo do mouse na opção de resposta e 
+arraste até o espaço designado. 
+ 
+ 
+ 
+Após completar todas as lacunas prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “Próximo” 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Complete o contrato clicando com o botão esquerdo do mouse na opção de resposta e 
+arraste até o espaço designado. 
+ 
+ 
+ 
+Após completar todas as lacunas prossiga para a próxima etapa clicando com o botão 
+esquerdo do mouse em “Próximo” 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Leia o e-mail completo clicando com o botão esquerdo do mouse sobre a barra e arraste 
+para baixo. 
+ 
+ 
+ 
+Após ler todo o e-mail prossiga clicando com o botão esquerdo do mouse em “Próximo”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+Faça o download do contrato clicando com o botão esquerdo do mouse “Download do 
+Contrato”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE LEGISLAÇÃO ARDUANEIRA 
+CONTRATO INTERNACIONAL DE COMPRA E VENDA DE MERCADORIA 
+ 
+3. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 06 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

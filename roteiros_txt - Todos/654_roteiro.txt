@@ -1,0 +1,765 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre  preparo  e 
+desenvolvimento  de  xampu.  Na  técnica  de  preparo, é  utilizado  o  agitador 
+mecânico  para  misturar  os  componentes  e  o  pHmetro  para  medir  o  pH  da 
+substância. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador mecânico; 
+• Bastão de vidro; 
+• Béquer (250 mL); 
+• Béquer contendo ácido benzóico 0,50 %; 
+• Béquer contendo água deionizada 5,09 %; 
+• Béquer contendo ácido desidroacético 0,50 %; 
+• Béquer contendo cocamidopropil betaína 10 %; 
+• Béquer contendo cocamida DEA (dietanolamida de ácido graxo) 4 %; 
+• Béquer contendo fenoxietanol 0,50 %; 
+• Béquer contendo perfume 0,25 %; 
+• Béquer contendo sulfato de sódio Laureth 30 %; 
+• Copo graduado; 
+• Copo graduado contendo água deionizada 45 %; 
+• Embalagem para xampu; 
+• Espátula; 
+• Jaleco; 
+• Luvas; 
+• Óculos; 
+• pHmetro; 
+• Proveta (100 mL); 
+• Touca; 
+• Vidro relógio; 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+• Vidro relógio contendo ácido cítrico 0,06 %; 
+• Vidro relógio contendo cloreto de sódio 0,10 %; 
+• Vidro relógio contendo extrato de folha de Hamamelis virginiana. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os equipamentos  de  proteção  individual  localizados  no 
+“Armário  de  EPIs”.  Para  esse  experimento  será  necessário  a  utilização  do  jaleco,  máscara, 
+luvas, óculos de proteção e touca descartável. 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Visualize os componentes presentes na bancada, em seguida, clique no menu lateral para abrir 
+a tabela e preencher a função dos componentes a serem utilizados no experimento. 
+ 
+3. ADICIONANDO INGREDIENTES 
+ 
+Adicione 45 mL de água deionizada contida no copo graduado no béquer de 250 mL e transfira 
+para  o  béquer.  Ligue  o  agitador  mecânico  e  regule  a  velocidade  até  250  rpm.  Mantenha  o 
+agitador mecânico sob agitação constante e mova o béquer para o agitador. Adicione 30 g de 
+sulfato de sódio Laureth , 10 mL de cocamidopropil betaína e 4 mL de cocamida DEA. Adicione, 
+em seguida, o perfume, o fenoxietanol, o ácido benzóico e o ácido desidroacético ao béquer 
+de 250 mL. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+  
+4. FINALIZANDO O PREPARO 
+ 
+Com o auxílio da espátula adicione o extrato de folhas de Hamamelis virginiana previamente 
+pesado  no  vidro  relógio  ao  béquer  de  250  mL.  Com  o  auxílio  da  espátula  adicione  o  ácido 
+cítrico ao béquer. Deixe o agitador mecânico sob agitação constante. Com o auxílio da espátula 
+transfira 10 g do cloreto de sódio do vidro relógio para o béquer de 10 mL contendo 5,09 mL 
+de água  deionizada. Com  o  bastão  de  vidro  homogeneíze  o  conteúdo  do  béquer de  10  mL. 
+Adicione o conteúdo do béquer de 10 mL ao béquer de 250 mL contendo a mistura reacional. 
+Mantenha a agitação mecânica por mais 10 minutos. Desligue o agitador mecânico. Coloque 
+o béquer de 250 mL contendo o xampu na bancada. 
+ 
+5. UTILIZANDO O PHMETRO 
+ 
+Ligue o pHmetro. Direcione o eletrodo do pHmetro para cima. Mova a pisseta contendo água 
+destilada. Limpe  o eletrodo.  Retire  o  béquer de baixo do eletrodo do pHmetro.  Direcione  o 
+béquer  com  o  xampu  para  debaixo do  eletrodo do  pHmetro. Posicione  o  eletrodo  dentro 
+béquer contendo o xampu. Pressione o botão C do pHmetro e aproxime a tela do pHmetro 
+para  visualizar  o  pH.  Anote  o  valor  que  mostrará  na  tela.  Desligue  o  pHmetro  e  retire o 
+eletrodo do béquer. 
+ 
+6. ENVASANDO O XAMPU 
+ 
+Direcione o béquer contendo o xampu até a embalagem para transferir o conteúdo e finalizar 
+o experimento. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+  
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  09  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a metodologia aplicada no experimento? 
+ 
+ 
+ 
+2. Qual a importância da utilização do pHmetro? 
+ 
+ 
+ 
+3. O agitador mecânico poderia ser dispensado do experimento? 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento, óculos, máscara e touca. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+2. IDENTIFICANDO OS COMPONENTES 
+ 
+Abra a classificação clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Identifique a  função  de  cada  ingrediente  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o botão indicado e selecione a opção correspondente. 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+3. ADICIONANDO INGREDIENTES 
+ 
+Adicione 45 mL água deionizada clicando com o botão direito do mouse sobre o béquer 
+com água deionizada e selecione a opção “Adicionar água deionizada”. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Mova para o agitador”. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Ligue  o  agitador  mecânico clicando  com o  botão  direito  do  mouse  sobre  o  agitador 
+mecânico e selecione a opção “Ligar agitador”. 
+ 
+ 
+ 
+Adicione 30 g de sulfato de sódio Laureth clicando com o botão direito do mouse sobre 
+o béquer indicado e selecione a opção “Adicionar sulfato de sódio Laureth”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Adicione 10 mL de cocamidopropil betaína clicando com o botão direito do mouse sobre 
+o béquer indicado e selecione a opção “Adicionar cocamidopropil betaína”. 
+ 
+ 
+ 
+Adicione 4 mL de cocamida DEA clicando com o botão direito do mouse sobre o béquer 
+indicado e selecione a opção “Adicionar cocamida DEA”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Adicione o perfume clicando com o botão direito do mouse sobre o béquer indicado e 
+selecione a opção “Adicionar perfume”. 
+ 
+ 
+ 
+Adicione o fenoxietanol clicando com o botão direito do mouse sobre o béquer indicado 
+e selecione a opção “Adicionar Fenoxietanol”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Adicione o  ácido  benzóico clicando  com  o  botão  direito  do  mouse  sobre  o  vidro  de 
+relógio indicado e selecione a opção “Adicionar ácido benzóico”. 
+ 
+ 
+ 
+Adicione o ácido desidroacético clicando com o botão direito do mouse sobre o vidro de 
+relógio indicado e selecione a opção “Adicionar ácido desidroacético”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+4. FINALIZANDO O PREPARO 
+ 
+Adicione o  extrato do  ativo clicando  com  o  botão  direito  do  mouse  sobre  o  vidro  de 
+relógio e selecione a opção “Adicionar extrato de folha de Hamamelis virginiana”. 
+ 
+ 
+ 
+Adicione o ácido cítrico clicando com o botão direito do mouse sobre o vidro de relógio 
+indicado e selecione a opção “Adicionar ácido cítrico”. 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Adicione 10 g do cloreto de sódio clicando com o botão direito do mouse sobre o vidro 
+de relógio indicado e selecione a opção “Adicionar cloreto de sódio”. 
+ 
+ 
+ 
+Homogeneíze  o  conteúdo  clicando  com  o  botão direito do  mouse  sobre  o bastão  de 
+vidro e selecione a opção “Homogeneizar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Adicione o conteúdo do béquer de 10 mL clicando com o botão direito do mouse sobre 
+o béquer indicado e selecione a opção “Adicionar conteúdo ao béquer”. 
+ 
+ 
+ 
+Aguarde a agitação mecânica por 10 minutos ou avance o tempo clicando com o botão 
+esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Desligue o agitador clicando com o botão direito do mouse sobre o agitador e selecione 
+a opção “Desligar agitador”. 
+ 
+ 
+ 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Mover para o centro da bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+5. UTILIZANDO O PHMETRO 
+ 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Ligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Movimente  o  eletrodo  clicando  com  o  botão  direito  do  mouse  sobre  o  eletrodo  e 
+selecione a opção “Subir eletrodo”. 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para o eletrodo”. 
+ 
+ 
+ 
+Limpe o eletrodo clicando com o botão direito do mouse sobre a pisseta e selecione a 
+opção “Apertar”. 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Mova  a  pisseta  clicando  com  o  botão  direito  do  mouse  sobre  a  pisseta  e  selecione  a 
+opção “Mover para a bancada”. 
+ 
+ 
+ 
+Limpe o eletrodo clicando com o botão direito do mouse sobre o eletrodo e selecione a 
+opção “Limpar eletrodo”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Mova o béquer clicando com o botão esquerdo do mouse sobre o béquer indicado. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Mova  o  béquer  clicando  com  o  botão  direito  do  mouse  sobre  o  béquer  indicado  e 
+selecione a opção “Mova para o pHmetro”. 
+ 
+ 
+ 
+Movimente  o  eletrodo  clicando  com  o  botão  direito  do  mouse  sobre  o  eletrodo  e 
+selecione a opção “Descer eletrodo”. 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Determine o pH clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Visualize o pHmetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“pHmetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+Desligue o pHmetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Movimente  o  eletrodo clicando  com  o  botão  direito  do  mouse  sobre  o  eletrodo  e 
+selecione a opção “Subir eletrodo”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+6. ENVASANDO O XAMPU 
+ 
+Transferir o conteúdo clicando com o botão direito do mouse sobre o béquer indicado 
+e selecione a opção “Envasar o xampu na embalagem”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ESTÉTICA 
+DESENVOLVENDO UM XAMPU 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 
+ 

@@ -1,0 +1,519 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta  prática,  você  irá  utilizar  a  técnica  de  cromatografia  em  papel,  para  a 
+separação das substâncias que estão presentes na formulação da tinta de uma 
+caneta comum. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir, apresentamos   as   duas principais   dúvidas na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte. Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de 500 ml; 
+• Vidro de relógio; 
+• Papel cromatográfico; 
+• Canetas coloridas; 
+• Álcool 55,9%; 
+• Álcool 96%; 
+• Água destilada; 
+• Régua. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual localizados  no “Armário  de 
+EPIs”. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Coloque os  solventes, que  se  encontram  na  prateleira, e a  pisseta,  contendo 
+água destilada, sobre a bancada.  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+3. PROMOVENDO A CROMATOGRAFIA 
+ 
+Escolha  um  dos  solventes  que  foi  colocado  na mesa,  para  ser  derramado  no 
+béquer. 
+Insira  no  béquer  um  dos  papéis  cromatográficos  que  se  encontram  sobre  a 
+mesa. Note que os papéis já possuem todas as marcações necessárias. 
+Tampe o béquer utilizando o vidro de relógio que se encontra sobre a mesa. 
+Utilize  o  cronômetro  caso  queira  marcar  o  tempo  que  o  solvente  leva  para 
+chegar até a marcação final, e utilize a escala de tempo caso queira acelerar o 
+processo. 
+Quando o solvente estiver próximo de atingir a marcação final indicada, retire o 
+vidro  de  relógio.  Quando  o  solvente  finalmente  atingir  a  marcação,  coloque  o 
+papel sobre a mesa. 
+ 
+ 
+4. COLHENDO OS DADOS OBTIDOS 
+ 
+Posicione o papel ao lado da régua para fazer todas as medições necessárias. 
+Utilize  uma linha  guia para  facilitar  o  processo  de  medição  da  distância 
+percorrida pelo solvente e da distância percorrida pela substância. Em seguida, 
+faça os cálculos e anote os resultados em uma das tabelas da seção “Avaliação 
+de resultados”. 
+Repita  o  mesmo  procedimento  utilizando  o  outro  papel  cromatográfico  que 
+contém as outras amostras e coloque os resultados na mesma tabela. 
+Em  seguida, repita  o  experimento utilizando a  água  destilada,  que  está  na 
+pisseta, e a outra solução.  
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde as soluções na prateleira e 
+encerre o experimento.   
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. O que aconteceu ao utilizar o álcool 96% como fase móvel para eluição, comparando 
+com o álcool 55,9%? 
+ 
+2. Ao utilizar a água como solvente (fase móvel) o que foi possível perceber? Explique. 
+ 
+3. Duas substâncias que interagem da mesma forma com uma fase estacionária podem 
+ser separadas por cromatografia em papel? Explique. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “Armário de EPI’s”, clicando com o botão esquerdo do mouse no menu 
+esquerdo superior.  
+ 
+Abra o armário de EPI’s, clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Coloque os EPI’s necessários ao experimento, clicando com o botão esquerdo do mouse 
+sobre  eles.  Neste  experimento  serão  necessários jaleco,  luvas  de  látex  e  óculos  de 
+proteção.  
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Acesse a câmera “Prateleira de Soluções”.  
+ 
+ 
+ 
+Selecione  as  soluções  que  serão  utilizadas  no  experimento,  clicando  com  o  botão 
+esquerdo do mouse sobres os frascos e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+3. PROMOVENDO A CROMATOGRAFIA 
+ 
+Acesse a câmera “Bancada”.  
+ 
+ 
+ 
+Note  que  a  pisseta contendo  água  destilada  já  está  sobre  a  bancada  e  escolha  uma 
+solução para iniciar o experimento. 
+Despeje  uma  amostra  da  primeira  solução  no  béquer,  clicando  o  botão  esquerdo  do 
+mouse sobre o frasco e selecionando a opção “Colocar no béquer”.  
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Acesse a câmera “Amostras”.  
+Selecione  uma  amostra  para  iniciar  o  experimento  e  coloque-a  no  béquer,  clicando 
+sobre ela com o botão esquerdo do mouse e selecionando a opção “Inserir no béquer” 
+ 
+ 
+ 
+Acesse a câmera “Bancada”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Tampe o béquer utilizando o vidro de relógio que se encontra sobre a mesa, clicando 
+com  o  botão  esquerdo  do  mouse  sobre  ele  e  selecionando  a  opção  “Posicionar  no 
+béquer”.  
+ 
+ 
+ 
+Acesse a câmera “Béquer”.  
+Observe que, ao tampar o béquer, um cronômetro e uma escala de tempo aparecem no 
+canto superior direito da tela. Utilize o cronômetro caso queira marcar o tempo que o 
+solvente leva para chegar até a marcação final, e utilize a escala de tempo caso queira 
+acelerar o processo.  
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Quando o solvente estiver próximo de atingir a marcação final indicada, retire o vidro 
+de relógio, clicando sobre o vidro e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+ 
+Quando  o  solvente  finalmente  atingir  a  marcação,  coloque  o  papel  sobre  a  mesa, 
+clicando sobre o papel e selecionando a opção “Colocar na mesa”.  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+4. COLHENDO OS DADOS OBTIDOS 
+ 
+Acesse a câmera “Amostras”. 
+Posicione o papel ao lado da régua para fazer todas as medições necessárias, clicando 
+sobre a amostra utilizada e selecionando a opção “Posicionar para medição”.  
+ 
+ 
+ 
+Acesse a câmera “Área de Medições”.  
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Observe  que,  no  canto  inferior  esquerdo  da  tela,  existe  a  opção  de  utilizar  uma  linha 
+guia. Utilize-a para facilitar o processo de medição da distância percorrida pelo solvente 
+e da distância percorrida pela substância.  
+Faça os cálculos e anote os resultados em uma da seção “Avaliação de resultados”.  
+ 
+ 
+ 
+Repita o mesmo procedimento utilizando o outro papel cromatográfico que contém as 
+outras amostras, clicando com o botão esquerdo sobre o papel e selecionando a opção 
+“Inserir no béquer”.  
+Coloque os resultados na mesma tabela. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+Em seguida, repita o experimento utilizando a água destilada, que está na pisseta, e a 
+outra solução.  
+Remova  o  conteúdo  do  béquer  para  reiniciar  o  experimento  utilizando  outra  solução, 
+clicando com o botão esquerdo do mouse sobre eles e selecionando a opção “Remover 
+Conteúdo”.   
+ 
+ 
+ 
+Substitua as amostras para reiniciar o experimento, clicando com o botão esquerdo do 
+mouse sobre elas e selecionando a opção “Substituir por uma amostra não usada”.  
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+CROMATOGRAFIA EM PAPEL 
+TINTAS DE CANETAS 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. Caso seja necessário, retorne ao experimento para 
+auxiliar a avaliação dos resultados.  
+ 
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Faça a limpeza de todos materiais utilizados, guarde as soluções na prateleira e encerre 
+o experimento.   
+ 
+ 
+ 

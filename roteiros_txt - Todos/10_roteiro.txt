@@ -1,0 +1,756 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesse experimento você irá aprender como ocorre o processo de MRU. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Plano Inclinado; 
+• Disparador; 
+• Multicronômetro.  
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. MONTANDO E AJUSTANDO O EXPERIMENTO 
+ 
+Posicione o nível bolha no plano inclinado. 
+ 
+2. NIVELANDO A BASE 
+ 
+Nivele a base, ajustando os “pés” da base do plano inclinado, deixando a bolha 
+do nível centralizada. 
+ 
+3. POSICIONANDO O FUSO ELEVADOR 
+ 
+Neste  experimento  usaremos  a  posição  para  grandes inclinações. Portanto, 
+posicione o fuso elevador na posição mais próxima do transferidor.  
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+4. AJUSTANDO A INCLINAÇÃO DA RAMPA 
+ 
+Inicie a etapa de regulagem do ângulo da rampa, girando o fuso.  
+Com  o  fuso  na  posição  de  grandes  inclinações e  observando  o  transferidor, 
+ajuste o ângulo para 20°. 
+ 
+5. LIGANDO O MULTICRONÔMETRO 
+ 
+Conecte a fonte de alimentação do multicronômetro na tomada. 
+ 
+6. CONECTANDO O CABO NO MULTICRONÔMETRO 
+ 
+Conecte o cabo do disparador na porta S0 do multicronômetro. Lembre-se que 
+o disparador é ativado ao clicar sobre o botão superior do mesmo.  
+ 
+7. OPERANDO O MULTICRONÔMETRO 
+ 
+Caso não possua familiaridade com a operação do multicronômetro, siga para o 
+passo 7 do Tutorial VirtuaLab deste roteiro. 
+ 
+8. POSICIONANDO A ESFERA E MEDINDO OS INTERVALOS 
+ 
+Utilizando o imã encapsulado, posicione a esfera que está no interior do tubo 
+com água, arrastando-a lentamente até a extremidade da rampa. 
+ 
+Atenção: Durante  a  descida  da  esfera, registre  a  passagem  da  mesma pelas 
+marcações da régua ““0 mm”, “100 mm”, ”200  mm”, “300 mm” e “400 mm”, 
+totalizando 5 marcações, clicando sobre o botão do disparador. 
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+9. REALIZANDO A LEITURA DOS RESULTADOS  
+ 
+Realize a leitura dos resultados, utilizando as funções do multicronômetro. Caso 
+não possua familiaridade com a leitura dos resultados no multicronômetro, siga 
+para o passo 9 do Tutorial VirtuaLab deste roteiro. 
+ 
+10. ANOTANDO OS DADOS 
+ 
+Crie uma tabela semelhante à apresentada e anote os valores encontrados. 
+ 
+Posição - S (m) Descida 1 – t (s) Descida 2 – t (s) Descida 3 – t (s) 
+0,000 0,00000 0,00000 0,00000 
+0,100    
+0,200    
+0,300    
+0,400    
+ 
+Repita  a  descida  da  esfera  mais duas  vezes.  Em  seguida,  calcule  a  média  dos 
+tempos obtidos. 
+ 
+Posição - S (m) Tempo Médio 
+0,000 0,00000 
+0,100  
+0,200  
+0,300  
+0,400  
+ 
+11. AVALIANDO OS RESULTADOS 
+ 
+Após  a  realização  do  experimento  no  ângulo  de  20°,  você  pode  repeti-lo  com 
+ângulos diferentes. 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Por que é importante nivelar a base do plano inclinado? 
+ 
+2. Em  cada  uma  das  descidas,  as medições  do  tempo  para  cada  intervalo  não  se 
+repetiram. Qual a principal razão disso? 
+ 
+3. Com base nos seus conhecimentos, qual a influência do ângulo da rampa no tempo 
+de descida da esfera? 
+ 
+4. Com base nos dados obtidos construa o gráfico de espaço (S) x Tempo (s) da esfera. 
+ 
+5. Qual o significado físico do coeficiente angular do gráfico? 
+ 
+6. Em seguida, calcule a velocidade média da esfera para o trajeto de 0 a 400mm.  
+ 
+푣
+푚
+=
+∆푆
+∆푡
+ 
+Onde:  
+• Vm = Velocidade média (m/s); 
+• ∆S = Espaço percorrido pela esfera (m); 
+• ∆t = Tempo do trajeto (s). 
+ 
+푣
+푚
+=                    
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+7. A  velocidade  é  constante  no  Movimento  Retilíneo  Uniforme  (MRU)  e  define-se 
+como a função horária como:   
+ 
+푆=푣푡+푆
+0
+ 
+ 
+Onde: 
+• S = posição final ocupada pelo móvel; 
+• S0 = posição inicial ocupada pelo móvel; 
+• V = velocidade. 
+ 
+Utilizando  a  função  horária, calcule  a velocidade  média  para  cada  intervalo 
+percorrido pela esfera. 
+ 
+Intervalo - ∆S (m) Tempo Médio (s) Velocidade (m/s) 
+0,000 a 0,100 0,00000 0,00000 
+0,100 a 0,200   
+0,200 a 0,300   
+0,300 a 0,400   
+ 
+ 
+8. As  velocidades  encontradas  para  cada  intervalo  foram  aproximadamente  as 
+mesmas? Elas coincidem com a velocidade média?  
+ 
+9. Você acredita que ao realizar o experimento com 10°, o comportamento da esfera 
+será igual ou diferente em comparação com experimento realizado com o ângulo 
+de 20°? Justifique sua resposta. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. MONTANDO E AJUSTANDO O EXPERIMENTO 
+ 
+Arraste o nível bolha até o plano inclinado, clicando com o botão esquerdo do mouse e 
+sobre ele e arrastando-o. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+2. NIVELANDO A BASE 
+ 
+Nivele a base, clicando com o botão direito do mouse no nível bolha e selecionando a 
+opção “Nivelar base”. 
+ 
+ 
+ 
+ 
+ 
+Os  “pés”  da  base  do  plano  inclinado  serão  ajustados,  deixando  a  bolha  do  nível 
+centralizada. 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+3. POSICIONANDO O FUSO ELEVADOR 
+ 
+ 
+Posicione  o  fuso  elevador,  clicando com  o  botão  esquerdo  do  mouse  sobre  o  fuso  e 
+arrastando-o para uma das posições em destaque. A posição destacada em verde é para 
+pequenas inclinações e a posição destacada em amarelo é para grandes inclinações. 
+ 
+ 
+ 
+Neste experimento usaremos a posição para grandes inclinações. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+4. AJUSTANDO A INCLINAÇÃO DA RAMPA 
+ 
+Inicie a etapa de regulagem do ângulo da rampa, clicando com o botão direito do mouse 
+no fuso elevador e selecionando a opção “Girar fuso”. 
+ 
+ 
+ 
+Com o fuso na posição de grandes inclinações, ajuste o ângulo para 20° clicando com o 
+botão esquerdo do mouse nas setas “Subir” e “Descer”. 
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+5. LIGANDO O MULTICRONÔMETRO 
+ 
+ 
+Visualize o cronômetro, em detalhes, acessando a câmera “Cronômetro”, clicando com 
+o botão esquerdo do mouse sobre o menu lateral esquerdo. 
+ 
+ 
+ 
+Conecte a fonte de alimentação do multicronômetro na tomada, clicando e arrastando 
+com o botão esquerdo do mouse sobre a fonte. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+A janela do multicronômetro será exibida. 
+ 
+ 
+ 
+ 
+Funcionamento do multicronômetro: 
+ 
+Para ligar o multicronômetro, clique com o botão esquerdo do mouse no botão “Power”. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+Clique  com  o  botão  esquerdo  do  mouse  no  botão  “Reset”  para  voltar  à  seleção  de 
+funções. 
+ 
+ 
+ 
+Para selecionar uma das funções que aparecem no visor, clique com o botão esquerdo 
+do mouse nos botões azuis. 
+ 
+ 
+ 
+Para ajustar valores, clique com o botão esquerdo do mouse nas setas. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+6. CONECTANDO O CABO NO MULTICRONÔMETRO 
+ 
+ 
+Conecte o cabo do disparador na porta S0 do multicronômetro, clicando e arrastando 
+com o botão esquerdo do mouse, conforme demonstrado abaixo.  
+ 
+ 
+ 
+Em seguida, a janela do disparador será exibida. 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+O disparador é ativado ao clicar no botão destacado em amarelo ou apertando a tecla 
+“TAB” () do teclado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+, 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+7. OPERANDO O MULTICRONÔMETRO 
+ 
+ 
+Selecionando idioma: 
+ 
+ 
+ 
+Selecionando função: 
+ 
+Clique no botão destacado em  verde até que apareça a função “F10 T MANUAL”. Em 
+seguida, clique no botão destacado em vermelho para selecionar a função. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+Número de intervalos: 
+ 
+Clique na seta destacada em amarelo para escolher o número de intervalos (quatro) e, 
+então, no botão destacado em verde para confirmar. 
+ 
+ 
+ 
+ 
+Você está pronto para começar o experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+ 
+ 
+Acesse a câmera “Plano inclinado”.  
+ 
+ 
+ 
+Clique com o botão esquerdo do mouse no imã encapsulado, arrastando lentamente a 
+esfera que está no interior do tubo com água até a extremidade da rampa. 
+ 
+ 
+ 
+8. POSICIONANDO A ESFERA E MEDINDO OS INTERVALOS 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+Após a retirada do ímã, a descida da esfera será pausada e aparecerá uma câmera para 
+melhor visualizá-la.  
+Atenção: Durante a descida da esfera, registre a passagem da mesma pelas marcações 
+da  régua  “0 mm”,  “100 mm”,  ”200 mm”, “300 mm”  e  “400 mm”,  totalizando 5 
+marcações, apertando a tecla “TAB” ()  ou clicando sobre o botão do disparador. 
+Continue a descida da esfera, clicando com o botão esquerdo do mouse sobre a opção 
+em destaque.   
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+9. REALIZANDO A LEITURA DOS RESULTADOS 
+ 
+ 
+Clique com o botão esquerdo do mouse no botão destacado em amarelo para verificar 
+os resultados e no botão destacado em verde para repetir o experimento. 
+ 
+ 
+ 
+Leia o resultado do experimento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+Clique  nas  setas  destacadas  em amarelo  para  ver  os  pontos  de  medidas  e  seus 
+resultados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+10.  ANOTANDO OS DADOS 
+ 
+ 
+Crie uma tabela semelhante à apresentada e anote os valores encontrados. 
+ 
+Posição - S (m) Descida 1 – t (s) Descida 2 – t (s) Descida 3 – t (s) 
+0,000 0,00000 0,00000 0,00000 
+0,100    
+0,200    
+0,300    
+0,400    
+ 
+ 
+Repita  a  descida  da  esfera  mais duas  vezes.  Em  seguida,  calcule  a  média  dos  tempos 
+obtidos. 
+ 
+Posição - S (m) Tempo Médio 
+0,000 0,00000 
+0,100  
+0,200  
+0,300  
+0,400  
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA  
+MOVIMENTO RETILÍNEO UNIFORME - MRU 
+ 
+11. AVALIANDO OS RESULTADOS  
+ 
+ 
+Após a realização do experimento  no ângulo de  20°, você pode  repeti-lo com ângulos 
+diferentes. 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos.  
+ 

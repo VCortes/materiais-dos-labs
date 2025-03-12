@@ -1,0 +1,1428 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá aprender o método de FISH e o ARRAY CGH. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 2x SSC; 
+• Álcool a 70%, 90% e 100%; 
+• Amostra DNA referência e DNA teste; 
+• Berço lâmina; 
+• Braçadeira metálica; 
+• Câmara úmida; 
+• Chapa de aquecimento; 
+• Estufa bacteriológica; 
+• H
+2
+O destilada; 
+• Hipoclorito de sódio; 
+• Lâmina de vidro e Lamínula aCGH; 
+• Micropipeta 10 μL; 
+• Microscópio de fluorescência; 
+• Notebook; 
+• Óleo de imersão; 
+• Pinça metálica; 
+• Scanner; 
+• Silicone; 
+• Solução DAPI/antifade; 
+• Solução de lavagem 1; 
+• Solução de lavagem 2; 
+• Sonda. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+PROCEDIMENTOS 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 e 2, dos métodos a serem realizados: Hibridização da 
+sonda (Fish) e Método Array CGH (aCGH).  
+ 
+HIBRIDIZAÇÃO DA SONDA 
+ 
+2. SEGURANÇA DO EXPERIMENTO  
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco, luvas, óculos e máscara. 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Pipete 5 μL da sonda na lâmina com o material fixado. Em seguida, coloque a lamínula 
+e aplique o silicone com a bisnaga. Leve a lâmina para chapa de aquecimento e ligue-a, 
+deixe aquecendo por 5 minutos. Retire a lâmina da chapa, coloque-a na câmara úmida, 
+leve para a estufa e incube overnight. Retire a câmara da estufa e a lâmina de dentro 
+dela e, em seguida, retire o silicone e lamínula com a pinça. 
+ 
+4. REMOVENDO O EXCESSO DE SOLUÇÃO 
+ 
+Coloque a lâmina dentro do berço e leve para a cuba contendo a solução 2SSC. Incube 
+por 2 minutos. Depois mova o berço para a cuba com água destilada e deixe incubando 
+por 20 segundos. Em seguida, mova o berço para a cuba com álcool 70%. Repita esse 
+mesmo processo para o álcool 90 % e 100%. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+  
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Coloque a lâmina na banca e espere secar. Em seguida, pipete 10 μL de DAPI na lâmina, 
+coloque uma lamínula por cima, leve ao microscópio e observe até a objetiva de 100x. 
+Lembre-se de adicionar o óleo de imersão para visualizar a lâmina na objetiva de maior 
+aumento. Ligue o notebook para concluir observação. 
+ 
+6. SELEIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 e 2, dos métodos a serem realizados: Hibridização da 
+sonda e  
+ 
+ 
+MÉTODO ARRAY CGH (aCGH) 
+ 
+7. SEGURANÇA DO EXPERIMENTO  
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”: jaleco, luvas, óculos e máscara. 
+ 
+8. MIX DAS AMOSTRAS 
+ 
+Pipete na lâmina: 10 μL da amostra de DNA referência e 10 μL da amostra de DNA teste. 
+ 
+9. HIBRIDIZAÇÃO 
+ 
+Leve  a  lâmina  para  abraçadeira  de  fixação,  coloque  a  lamínula  e  feche  a  braçadeira. 
+Mova a braçadeira para o agitador e ligue-o e deixe a amostra por 24 horas. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+  
+10. REMOÇÃO DO EXCESSO DA AMOSTRA 
+ 
+Retire a braçadeira do agitador, a lâmina de dentro da braçadeira e coloque no berço. 
+Leve o berço para a cuba contendo a solução de lavagem 1. Em seguida, leve para o 
+agitador  e  deixe por 5 minutos. Depois  mova  o  berço  para  a  cuba  com solução  de 
+lavagem 2 e retorne para o agitador deixando por 5 minutos a rotação de 20 rpm a 
+37°C. 
+ 
+11. DETECÇÃO DA FLUORESCÊNCIA 
+ 
+Retire a cuba do agitador, retire o berço da cuba, coloque a lâmina na banca e espere 
+secar. Ligue o computador, selecione o ícone “Scanner array” e leve a lâmina para o 
+scanner. 
+ 
+12. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a diferença do método FISH para o aCGH? 
+ 
+ 
+ 
+2. Quais são as aplicações para esses dois métodos? 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize o menu numérico, de 1 e 2, dos métodos a serem realizados: Método Fish e 
+Método aCGH.  
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Selecione o “Método Fish” clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+   
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+3. PREPARANDO A LÂMINA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Ajuste o volume da micropipeta clicando com o botão direito do mouse e selecione a 
+opção “Reajustar volume”. 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Configure  o  volume  para  5 μL utilizando  o  seu  teclado  numérico e  confirme  clicando 
+com o botão esquerdo do mouse em “Ok”. 
+ 
+ 
+ 
+Destampe  o  tubo  com  substância  fluorescente  clicando  com  o  botão  esquerdo  do 
+mouse na sonda. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Pipete  5 μL da  substância  fluorescente  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta e selecione a opção “Colocar em sonda”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em lâmina”. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Troque a ponteira clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Desprezar líquido”. 
+ 
+ 
+ 
+Coloque a lamínula clicando com o botão esquerdo do mouse na lamínula. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Aplique o silicone clicando com o botão esquerdo do mouse na bisnaga de silicone. 
+ 
+ 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Ligue  a  chapa  de  aquecimento clicando  com  o  botão  esquerdo  do  mouse nos  botões 
+indicados. 
+ 
+ 
+ 
+Aqueça a lâmina por 5 minutos ou avance o tempo clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a lâmina da chapa clicando com o botão direito do mouse na lâmina e selecione 
+a opção “Colocar na bancada”. 
+ 
+ 
+ 
+Mova  a  lâmina  para  a câmara úmida clicando  com  o  botão  esquerdo  do  mouse  na 
+lâmina. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Tampe a câmara úmida clicando com o botão esquerdo do mouse na câmara úmida. 
+ 
+ 
+ 
+Mova câmara para a estufa clicando com o botão direito do mouse na câmara úmida e 
+selecione a opção “Colocar na estufa bacteriológica”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Feche  a porta  da estufa clicando  com  o  botão  esquerdo  do  mouse na porta  da  estufa 
+bacteriológica. 
+ 
+ 
+ 
+Ligue a estufa clicando com o botão esquerdo do mouse no botão “Power”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Incube  a  lâmina  por  24  horas  ou  avance  o  tempo  clicando  com  o  botão  esquerdo  do 
+mouse em “Avançar”. 
+ 
+ 
+ 
+Abra   a   estufa clicando   com   o   botão   esquerdo   do   mouse   na   porta   da   estufa 
+bacteriológica. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a câmara úmida clicando com o botão esquerdo do mouse na câmara úmida. 
+ 
+ 
+ 
+Destampe a câmara clicando com o botão esquerdo do mouse na câmara úmida. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a lâmina clicando com o botão direito do mouse na lâmina e selecione a opção 
+“Retirar objetos”. 
+ 
+ 
+ 
+Retire o silicone clicando com o botão esquerdo do mouse na pinça metálica. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a lamínula clicando com o botão esquerdo do mouse na lamínula. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+4. REMOVENDO O EXCESSO DE SOLUÇÃO 
+ 
+Coloque a lâmina no berço clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Mova  a  o  berço  de  lâminas  clicando  com  o  botão  esquerdo  do  mouse  no  berço  de 
+lâminas. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Incube a lâmina por 2 minutos ou avance o tempo clicando com o botão esquerdo do 
+mouse em “Avançar”. 
+ 
+ 
+ 
+Mova  a  o  berço  de  lâminas  clicando  com  o  botão  esquerdo  do  mouse  no  berço  de 
+lâminas. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Repita esse processo para a cubras com o álcool a 70%, 90% e 100%. 
+ 
+ 
+ 
+Retire o berço de lâminas clicando com o botão esquerdo do mouse na cuba com álcool 
+a 100%. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Retire a lâmina clicando com o botão direito do mouse no berço de lâminas. 
+ 
+ 
+ 
+Espere a lâmina secar por 1 minuto ou avance o tempo clicando com o botão esquerdo 
+do mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Ajuste o volume da micropipeta clicando com o botão direito do mouse e selecione a 
+opção “Reajustar volume”. 
+ 
+ 
+ 
+Configure o volume para 10 μL utilizando o seu teclado numérico, em seguida, clique 
+em “ok” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Pipete 10 μL clicando com o botão direito do mouse na micropipeta e selecione a opção 
+“Colocar em DAPI/Antifade”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em lâmina”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Troque a ponteira clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Desprezar líquido”. 
+ 
+ 
+ 
+Coloque a lamínula clicando com o botão esquerdo do mouse na lamínula. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova  a  lâmina  clicando  com  o  botão  direito  do  mouse  na  micropipeta  e  selecione  a 
+opção “Levar para microscópio”. 
+ 
+ 
+ 
+Visualize  o interruptor  do  microscópio clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Microscópio Lateral” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base lateral do equipamento. 
+ 
+  
+ 
+Visualize  o  microscópio  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Microscópio” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+  
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+  
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Visualize a lâmina em todas as objetivas pressionando com o botão esquerdo do mouse 
+sobre o revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+Para análise na objetiva de 100 X coloque o óleo de imersão na lâmina clicando com o 
+botão esquerdo do mouse no óleo de imersão. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Ligue o Notebook clicando com o botão esquerdo do mouse no botão “on/off”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Inicie o programa clicando com o botão esquerdo do mouse no ícone “Analisar DNA”. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+6. SELECIONANDO O EXPERIMENTO 
+ 
+Visualize as opções para selecionar o experimento clicando com o botão esquerdo do 
+mouse em “Opções”. 
+ 
+ 
+ 
+Selecione o “Método aCGH” clicando com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+7. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+   
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas. 
+ 
+  
+ 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+8. MIX DAS AMOSTRAS 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+ 
+Destampe os tubos Eppendorf clicando com o botão esquerdo do mouse na sonda. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Pipete  10 μL da  substância  fluorescente  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta e selecione a opção “Colocar em amostra DNA referência”. 
+ 
+ 
+ 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em lâmina”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Torque a ponteira clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Trocar ponteira”. 
+ 
+ 
+ 
+Pipete  10 μL da  substância  fluorescente  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta e selecione a opção “Colocar em amostra DNA teste”. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova a micropipeta clicando com o botão direito do mouse na micropipeta e selecione 
+a opção “Colocar em lâmina”. 
+ 
+ 
+ 
+Torque a ponteira clicando com o botão direito do mouse na micropipeta e selecione a 
+opção “Trocar ponteira”. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+9. HIBRIDIZAÇÃO 
+ 
+Mova a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Mova a lamínula clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Monte a braçadeira clicando com o botão esquerdo do mouse na braçadeira. 
+ 
+ 
+ 
+Mova a braçadeira clicando com o botão direito do mouse na braçadeira e selecione a 
+opção “Colocar em chapa de aquecimento”. 
+ 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Ligue a chapa de aquecimento clicando com o botão esquerdo do mouse nos botões 
+indicados. 
+ 
+ 
+ 
+Mantenha a chapa em aquecimento a 20 RPM por 24 horas. Avance o tempo clicando 
+com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+10. REMOVENDO O EXCESSO DA AMOSTRA 
+ 
+Retire a braçadeira clicando com o botão direito do mouse na braçadeira e selecione a 
+opção “Colocar na bancada”. 
+ 
+ 
+ 
+Desmonte a braçadeira clicando com o botão esquerdo do mouse na braçadeira. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a lâmina clicando com o botão direito do mouse na lâmina e selecione a opção 
+“Retirar lâmina”. 
+ 
+ 
+ 
+Coloque a lâmina na braçadeira clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova o berço clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Mova  a  cuba  clicando  com  o  botão  direito  do  mouse  na  cuba  e  selecione  a  opção 
+“Colocar em agitador”. 
+ 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Ligue a chapa de aquecimento clicando com o botão esquerdo do mouse nos botões 
+indicados. 
+ 
+ 
+ 
+Mantenha a chapa de aquecimento ligada por 5 minutos. Avance o tempo clicando cm 
+o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova  a  cuba  clicando  com  o  botão  direito  do  mouse  na  cuba  e  selecione  a  opção 
+“Colocar na bancada”. 
+ 
+ 
+ 
+Mova o berço clicando com o botão esquerdo do mouse no berço. 
+ 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova  a  cuba  clicando  com  o  botão  direito  do  mouse  na  cuba  e  selecione  a  opção 
+“Colocar em agitador”. 
+ 
+ 
+ 
+Ligue a chapa de aquecimento clicando com o botão esquerdo do mouse nos botões 
+indicados. 
+ 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mantenha a chapa de aquecimento ligada por 5 minutos. Avance o tempo clicando cm 
+o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+11. DETECÇÃO DE FLUORESCÊNCIA 
+ 
+Mova  a  cuba  clicando  com  o  botão  direito  do  mouse  na  cuba  e  selecione  a  opção 
+“Colocar na bancada”. 
+ 
+ 
+ 
+Mova  o  berço clicando  com  o  botão  direito  do  mouse  na  cuba  e  selecione  a  opção 
+“Colocar na bancada”. 
+ 
+ 
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Retire a lâmina clicando com o botão direito do mouse no berço. 
+ 
+ 
+ 
+Mantenha  a  lâmina  secando  por  1  minuto.  Avance  o  tempo  clicando  com  o  botão 
+esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Mova a lâmina clicando com o botão esquerdo do mouse na lâmina. 
+ 
+ 
+ 
+Feche a tampa do scanner clicando com o botão esquerdo do mouse no scanner. 
+ 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Visualize o notebook clicando com o botão esquerdo do mouse na câmera com o nome 
+“Notebook” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Ligue o notebook clicando com o botão esquerdo do mouse no botão “on/off”. 
+ 
+  
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+Inicialize  o  sistema  do  scanner  clicando  com  o  botão  esquerdo  do  mouse no  ícone do 
+programa. 
+ 
+  
+ 
+Analise o resultado clicando com o botão esquerdo do mouse em “Analisar”. 
+ 
+  
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE BIOLOGIA MOLECULAR / GENÉTICA 
+HIBRIDIZAÇÃO 
+ 
+12.  AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+ 

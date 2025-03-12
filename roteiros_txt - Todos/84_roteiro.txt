@@ -1,0 +1,3383 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  compreenderá  a  utilização  da  espectrometria  de 
+absorção atômica na determinação do ferro no leite em pó. 
+ 
+2. Utilize  a  seção “Recomendações  de  Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em 100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Leite em pó; 
+• Cadinho de porcelana; 
+• Pinça para cadinho; 
+• Balança Analítica; 
+• Água deionizada; 
+• Peróxido de Hidrogênio (H
+2
+O
+2
+); 
+• Ácido Nítrico concentrado (HNO
+3
+); 
+• Chapa de aquecimento; 
+• Mufla; 
+• Ácido Clorídrico 0,1 mol/L (HCl); 
+• Micropipeta; 
+• Balão volumétrico de 10 mL; 
+• Balão volumétrico de 25 mL; 
+• Béquer de capacidade volumétrica de 100 mL; 
+• Proveta de capacidade volumétrica de 100 mL; 
+• Espectrofotômetro de chama; 
+• Dessecador; 
+• Espátula de aço inox; 
+• Funil. 
+ 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. 
+ 
+2. PREPARANDO AS AMOSTRAS 
+ 
+Ligue a balança e abra a sua porta. Em seguida, coloque o cadinho e tare a balança. 
+Com o auxílio da espátula, coloque 1,000 grama de leite em pó no cadinho A1. Retire 
+o cadinho da balança e repita os passos anteriores para os cadinhos A2 e A3. Coloque 
+10 mL de água deionizada na proveta e transfira-a para cada cadinho com leite em 
+pó. Também coloque 10 mL no que não contém leite em pó. Coloque uma amostra 
+de peróxido de hidrogênio no béquer de 100 mL. Troque a ponteira da micropipeta 
+para uma de 4 mL, succione o conteúdo do béquer e despeje 4 mL em cada cadinho. 
+Esvazie e limpe o béquer, limpe a haste de vidro e troque a micropipeta para outra 
+de  4mL.  Coloque  uma  amostra  de  ácido  nítrico  no  béquer  e,  com  a  micropipeta, 
+coloque   4   mL   do   ácido   em   cada   cadinho.   Ponha   os   cadinhos   na   chapa   de 
+aquecimento,   ligue-a.   Aguarde  o   tempo   de  aquecimento   e   a   chapa   desligará 
+automaticamente. Abra a mufla, coloque os cadinhos, feche a mufla e aguarde quatro 
+horas,  até  o  aquecimento  à  350  °C.  Abra  a  mufla,  abra  o  dessecador  e  retire  os 
+cadinhos da mufla. Coloque os cadinhos no dessecador, feche-o e aguarde o tempo 
+de resfriamento. Por fim, abra o dessecador e posicione os cadinhos sobre a bancada. 
+ 
+3. SOLUBILIZANDO AS CINZAS EM HCL 0,1 MOL/L 
+ 
+Esvazie e limpe o béquer, limpe a haste de vidro e deposite no béquer uma amostra 
+de  HCl. Troque  a  ponteira  da  micropipeta  para uma  de 5  mL  e,  com  ela, succione o 
+líquido do béquer e transfira para o cadinho A1. Repita os passos anteriores para os 
+outros três cadinhos. Com o auxílio de um funil, transfira o conteúdo de cada cadinho 
+para um balão volumétrico de 10 mL.  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+  
+Esvazie e limpe a proveta, coloque nela 40 mL de HCl e complete o volume dos balões 
+volumétricos 10 mL com o auxílio do funil. 
+ 
+4. ANALISANDO  AS  AMOSTRAS  POR  ESPECTROMETRIA  DE  ABSORÇÃO 
+ATÔMICA COM CHAMA (FAAS) 
+ 
+Posicione o balão volumétrico “Solução Padrão 1” no equipamento e realize a leitura 
+da absorbância. Retorne o balão à mesa e posicione o béquer com água deionizado 
+no espectrofotômetro, então, realize a sua limpeza. Repita os passos anteriores para 
+os balões Solução Padrão 2, Solução Padrão 3, Solução Padrão 4, Solução Padrão 5, 
+Solução Padrão 6, Branco, A1, A2, A3. Limpe o capilar ao final de cada leitura. Observe 
+os resultados. 
+ 
+5. AVALIAÇÃO DE RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+ 
+AVALIAÇÃO DE RESULTADOS 
+ 
+ 
+ 
+1. Preencha a tabela abaixo com os valores obtidos durante a realização da prática. 
+ 
+ CURVA ANALÍTICA 
+Balão Concentração do 퐹푒 (푚푔/퐿) Sinal (퐴푏푠표푟푏â푛푐푖푎)  
+1 0,0  
+2 0,5  
+3 2,5  
+4 5,0  
+5 7,5  
+6 10,0  
+AMOSTRAS 
+Balão Concentração do 퐹푒 (푚푔/퐿) Sinal (퐴푏푠표푟푏â푛푐푖푎) 
+Branco 0,0  
+A1   
+A2   
+A3   
+ 
+2. Construa  a  curva  analítica  para  o  Fe  e  obtenha  a  função  da reta.  Para  isso  é 
+necessário plotar um gráfico absorbância (eixo y) por concentração (eixo x) com 
+os valores obtidos na prática. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+3. Determine  a  concentração  de  Fe  nas  amostras  em  mg/kg.  Para  isso  calcule  a 
+concentração  em  mg/L  utilizando  a  função  da reta  e  posteriormente  utilize  a 
+seguinte fórmula: 
+퐶
+푚푔/푘푔
+=
+퐶
+푚푔/퐿
+×푉
+푏푎푙ã표 푣표푙푢푚é푡푟푖푐표 (퐿)
+푚
+푎푚표푠푡푟푎 (푘푔)
+ 
+ 
+ 
+ 
+ 
+4. Quais as vantagens da técnica FAAS para a determinação de Fe em leite? 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Armário EPIs” do menu “Visualização” ou utilizando o atalho “Alt+9”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse em cada uma de suas 
+portas. 
+ 
+ 
+ 
+Coloque  os  EPIs  clicando  com  o  botão  esquerdo  do  mouse  no  jaleco,  nas  luvas,  nos 
+óculos e na máscara. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche o armário de EPIs clicando com o botão esquerdo em cada uma de suas portas. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera “Balança” do 
+menu “Visualização” ou utilizando o atalho “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+2. PREPARANDO AS AMOSTRAS 
+ 
+Ligue a balança clicando com o botão esquerdo do mouse no botão indicado na balança. 
+ 
+ 
+ 
+Abra a balança clicando com o botão esquerdo do mouse na sua porta. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A1  para  balança  clicando  cadinho  com  o  botão  direito  do  mouse  no 
+cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse e 
+clicando com o botão esquerdo do mouse em “Balança”. 
+ 
+ 
+ 
+Tare a balança clicando com o botão esquerdo do mouse no botão “TARA” da balança. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  espátula  para  o  frasco  contendo  leite  em  pó  clicando  com  o  botão  direito  do 
+mouse na espátula e selecionando a opção “mover o pote” com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Coloque 1,000 g de leite em pó no cadinho A1 clicando com o botão direito do mouse 
+na espátula e selecionando a opção “Balança” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne  a  espátula  para  o  pote  clicando  com  o botão  direito do  mouse na  espátula e 
+selecionando a opção “Mover ao pote” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Retorne o cadinho A2 para a bancada clicando cadinho com o botão direito do mouse 
+no cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse 
+e clicando com o botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A2  para  balança  clicando  cadinho  com  o  botão  direito  do  mouse  no 
+cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse e 
+clicando com o botão esquerdo do mouse em “Balança”. 
+ 
+ 
+ 
+Coloque 1,000 g de leite em pó no cadinho A2 clicando com o botão direito do mouse 
+na espátula e selecionando a opção “Balança” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne  a  espátula  para  o  pote  clicando  com  o botão  direito do  mouse na  espátula e 
+selecionando a opção “Mover ao pote” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Retorne o cadinho A2 para a bancada clicando cadinho com o botão direito do mouse 
+no cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse 
+e clicando com o botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A3  para  balança  clicando  cadinho  com  o  botão  direito  do  mouse  no 
+cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse e 
+clicando com o botão esquerdo do mouse em “Balança”. 
+ 
+ 
+ 
+Coloque 1,000 g de leite em pó no cadinho A3 clicando com o botão direito do mouse 
+na espátula e selecionando a opção “Balança” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne a espátula para a bancada clicando com o botão direito do mouse na espátula 
+e selecionando a opção “Devolver à bancada” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Retorne o cadinho A3 para a bancada clicando cadinho com o botão direito do mouse 
+no cadinho, então selecionando a opção “Mover para” com o botão esquerdo do mouse 
+e clicando com o botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche a balança clicando com o botão esquerdo mouse em sua porta. 
+ 
+ 
+ 
+Desligue a balança clicando com o botão esquerdo do mouse no botão indicado da 
+balança. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  proveta  e a  pisseta  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Visão Geral” do menu “Visualização” ou utilizando o atalho “Alt+1”. 
+ 
+ 
+ 
+Mova  a  pisseta  para  a  proveta  clicando  com  o  botão  direito  do  mouse  na  pisseta  e 
+selecionando a opção “Mover para a proveta” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje 10 mL de água na proveta clicando com o botão esquerdo do mouse na pisseta 
+até que o volume indicado na janela da graduação da proveta seja de 10 mL. 
+ 
+ 
+ 
+Retorne a pisseta para a bancada clicando com o botão direito do mouse na pisseta e 
+selecionando a opção “Devolver à bancada”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Transfira  o  conteúdo  da  proveta  para  o  cadinho  A1  clicando  com  o  botão  direito  do 
+mouse na proveta, em seguida, selecionando a opção “Transferir para o” com o botão 
+esquerdo do mouse e, finalmente, clicando em “Cadinho A1” com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Repita  os  passos  anteriores  para  colocar  10  mL  de  água  deionizada  no  cadinho  A2, 
+depois no cadinho A3 e, finalmente no cadinho Branco. Diferencia-se, apenas, o cadinho 
+para o qual a proveta com água deve ser movida. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a haste de vidro para o béquer de 100 mL clicando com o botão direito do mouse 
+na haste de vidro e selecione com o botão esquerdo do mouse a opção “Mover para o 
+béquer”. 
+ 
+ 
+ 
+Mova  o frasco  com  peróxido  de  hidrogênio  para  o  béquer  de  100  mL  clicando  com  o 
+botão  direito  do  mouse  no  frasco  e  selecionando  com  o  botão  esquerdo  do  mouse  a 
+opção “Mover para o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Coloque uma amostra de cerca de 20 mL peróxido de hidrogênio no béquer de 100 mL 
+clicando  com  o  botão  esquerdo  do  mouse  no  frasco  com  a  substância  até  atingir  o 
+volume   necessário.   Visualize   o   volume   de   peróxido   de   hidrogênio  na   janela   de 
+graduação do béquer. 
+ 
+ 
+ 
+Retorne o frasco com o peróxido de hidrogênio para a bancada clicando com o botão 
+direito  do  mouse  no  frasco  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Devolver à mesa”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne  na  haste  de  vidro  para  a  bancada  clicando  com  o  botão  direito  do  mouse  na 
+haste de vidro e selecionando a opção “Devolver à bancada” com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Troque  a ponteira da  micropipeta  para  uma  de 4  mL  clicando  com  o  botão  direito  do 
+mouse na micropipeta, selecionando com o botão esquerdo do mouse a opção “Trocar 
+ponteira” e selecionando “4 ml de capacidade” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A1  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A1” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje 4 mL de peróxido de hidrogênio no cadinho A1 clicando com o botão direito do 
+mouse  na  micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Despejar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A2  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A2” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje 4 mL de peróxido de hidrogênio no cadinho A2 clicando com o botão direito do 
+mouse  na  micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Despejar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A3  clicando  com  o  botão direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A3” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje 4 mL de peróxido de hidrogênio no cadinho A3 clicando com o botão direito do 
+mouse  na  micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Despejar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na   opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a micropipeta para o cadinho Branco clicando com o botão direito do mouse na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com  o  botão  esquerdo  do  mouse  em  “Cadinhos”  e  selecionando  a  opção  “Cadinho 
+Branco” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje 4 mL de peróxido de hidrogênio no cadinho Branco clicando com o botão direito 
+do  mouse  na  micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Despejar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne   a   micropipeta   ao   suporte   clicando   com   o   botão   direito   do   mouse   na 
+micropipeta, clicando com o botão esquerdo do mouse em “Mover” e selecionando com 
+o botão esquerdo do mouse a opção “Devolver ao suporte”. 
+ 
+ 
+ 
+Esvazie  e  limpe  o  béquer  clicando  com  o  botão  direito  do  mouse  no  béquer  e 
+selecionando com o botão esquerdo do mouse a opção “Esvaziar e limpar vidraria”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Limpe a haste de vidro clicando com o botão direito do mouse na haste e selecionando 
+com o botão esquerdo do mouse a opção “Limpar vidraria”. 
+ 
+ 
+ 
+Troque   a   ponteira   da   micropipeta   clicando   com   o   botão   direito   do   mouse   na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Trocar ponteira” 
+e clicando com o botão esquerdo do mouse na opção “4 mL de capacidade”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a haste de vidro para o béquer de 100 mL clicando com o botão direito do mouse 
+na haste de vidro e selecione com o botão esquerdo do mouse a opção “Mover para o 
+béquer”. 
+ 
+ 
+ 
+Mova  o  frasco  contendo  ácido  nítrico  para  o  béquer  clicando  com  o  botão  direito  do 
+mouse no frasco e selecionando com o botão esquerdo do mouse na opção “Mover para 
+o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Coloque  uma  amostra  de  cerca  de  20  mL  ácido  nítrico  no  béquer  de  100  mL  clicando 
+com  o  botão  esquerdo  do  mouse  no  frasco  com  a  substância  até  atingir  o  volume 
+necessário. Visualize o volume de ácido nítrico na janela de graduação do béquer. 
+ 
+ 
+ 
+Retorne o frasco com o peróxido de hidrogênio para a bancada clicando com o botão 
+direito  do  mouse  no  frasco  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Devolver à mesa”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Devolva a haste de vidro para a bancada clicando com o botão direito do mouse na haste 
+e selecionando com o botão esquerdo do mouse na opção “Devolver à bancada”. 
+ 
+ 
+ 
+Mova a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  cadinho  A1  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A1” 
+com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje 4 mL de ácido nítrico no cadinho A1 clicando com o botão direito do mouse na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+ 
+Retorne a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  cadinho  A2  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A2” 
+com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje 4 mL de ácido nítrico no cadinho A2 clicando com o botão direito do mouse na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+ 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na   opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+Mova  a  micropipeta  para  o  cadinho  A3  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A3” 
+com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje 4 mL de ácido nítrico no cadinho A3 clicando com o botão direito do mouse na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+ 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na   opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+Mova a micropipeta para o cadinho Branco clicando com o botão direito do mouse na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com  o  botão  esquerdo  do  mouse  em  “Cadinhos”  e  selecionando  a  opção  “Cadinho 
+Branco” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje 4 mL de ácido nítrico no cadinho Branco clicando com o botão direito do mouse 
+na  micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+ 
+Retorne   a   micropipeta   ao   suporte   clicando   com   o   botão   direito   do   mouse   na 
+micropipeta, clicando com o botão esquerdo do mouse em “Mover” e selecionando com 
+o botão esquerdo do mouse a opção “Devolver ao suporte”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ponha o cadinho A1 na chapa de aquecimento clicando com o botão direito do mouse 
+no  cadinho, selecionando  com o  botão  esquerdo do  mouse na opção  “Mover para” e 
+clicando com o botão esquerdo do mouse em “Chapa de aquecimento”. 
+ 
+ 
+ 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Cadinhos” 
+do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ponha o cadinho A2 na chapa de aquecimento clicando com o botão direito do mouse 
+no  cadinho,  selecionando  com  o botão  esquerdo do  mouse na opção  “Mover para” e 
+clicando com o botão esquerdo do mouse em “Chapa de aquecimento”. 
+ 
+ 
+ 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Cadinhos” 
+do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ponha o cadinho A3 na chapa de aquecimento clicando com o botão direito do mouse 
+no  cadinho, selecionando  com o  botão  esquerdo do  mouse na opção  “Mover para” e 
+clicando com o botão esquerdo do mouse em “Chapa de aquecimento”. 
+ 
+ 
+ 
+Visualize o cadinho restante na bancada clicando com o botão esquerdo do mouse na 
+câmera “Cadinhos” do menu “Visualização” ou utilizando o atalho “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ponha  o  cadinho  Branco  na  chapa  de  aquecimento  clicando  com  o  botão  direito  do 
+mouse  no  cadinho,  selecionando  com o  botão  esquerdo  do  mouse  na  opção  “Mover 
+para” e clicando com o botão esquerdo do mouse em “Chapa de aquecimento”. 
+ 
+ 
+ 
+Ligue  a  chapa  de  aquecimento  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado do equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ajuste a escala de tempo para acelerar o tempo de aquecimento clicando e arrastando 
+para a direita com o botão esquerdo do mouse no botão de rolagem do cronômetro. 
+ 
+ 
+ 
+Após  a  exibição  da  mensagem  de  finalização  do  tempo  de  aquecimento,  pause  o  a 
+contagem clicando com o botão esquerdo do mouse no botão indicado do cronômetro 
+e reinicie o cronômetro, em seguida, clicando com o botão esquerdo do mouse no botão 
+“X” do contador. 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+Abra a mufla clicando com o botão esquerdo do mouse na porta do equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Chapa de 
+aquecimento” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+Coloque  o  cadinho  A1  na  mufla  clicando  com  o  botão  direito  mouse  no  cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Mufla”. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Chapa de 
+aquecimento” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+Coloque  o  cadinho  A2  na  mufla  clicando  com  o  botão  direito  mouse  no  cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Mufla”. 
+ 
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Chapa de 
+aquecimento” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+Coloque  o  cadinho A3  na  mufla  clicando  com  o  botão  direito  mouse  no  cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Mufla”. 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize os cadinhos clicando com o botão esquerdo do mouse na câmera “Chapa de 
+aquecimento” do menu “Visualização” ou utilizando o atalho “Alt+4”. 
+ 
+ 
+ 
+Coloque  o  cadinho  Branco  na  mufla  clicando  com  o  botão  direito  mouse  no  cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Mufla”. 
+ 
+ 
+  
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche a mufla clicando com o botão esquerdo do mouse em sua porta. 
+ 
+ 
+ 
+Ligue  a  mufla  clicando  com  o  botão  esquerdo  do  mouse  no  botão  vermelho  do 
+equipamento. 
+ 
+ 
+ 
+  
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Ajuste a escala de tempo para acelerar o tempo de aquecimento clicando e arrastando 
+para a direita com o botão esquerdo do mouse no botão de rolagem do cronômetro. 
+ 
+ 
+ 
+Após  a  exibição  da  mensagem  de  finalização  do  tempo  de  aquecimento,  pause  o  a 
+contagem clicando com o botão esquerdo do mouse no botão indicado do cronômetro 
+e reinicie o cronômetro, em seguida, clicando com o botão esquerdo do mouse no botão 
+“X” do contador. 
+ 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Abra a mufla clicando com o botão esquerdo do mouse em sua porta. 
+ 
+ 
+ 
+Visualize   o   dessecador   clicando   com   o   botão   esquerdo   do   mouse   na   câmera 
+“Dessecador” do menu “Visualização” ou utilizando o atalho “Alt+6”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Abra o dessecador clicando com o botão esquerdo do mouse no dessecador. 
+ 
+ 
+ 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A1  para  o  dessecador  clicando  com  o  botão  direito  do  mouse  no 
+cadinho,  selecionando  a  opção  “Mover  para”  e  clicando  com  o  botão  esquerdo  do 
+mouse em “Dessecador”. 
+ 
+ 
+ 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A2  para  o  dessecador  clicando  com  o  botão  direito  do  mouse  no 
+cadinho,  selecionando  a  opção  “Mover  para”  e  clicando  com  o botão  esquerdo  do 
+mouse em “Dessecador”. 
+ 
+ 
+ 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  cadinho  A3  para  o  dessecador  clicando  com  o  botão  direito  do  mouse no 
+cadinho,  selecionando  a  opção  “Mover  para”  e  clicando  com  o  botão  esquerdo  do 
+mouse em “Dessecador”. 
+ 
+ 
+ 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova o cadinho Branco para o dessecador clicando com o botão direito do mouse no 
+cadinho,  selecionando  a  opção  “Mover  para”  e  clicando  com  o  botão  esquerdo  do 
+mouse em “Dessecador”. 
+ 
+ 
+ 
+Visualize a mufla clicando com o botão esquerdo do mouse na câmera “Mufla” do menu 
+“Visualização” ou utilizando o atalho “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche a mufla clicando com o botão esquerdo do mouse em sua porta. 
+ 
+ 
+ 
+Visualize   o   dessecador   clicando   com   o   botão   esquerdo   do   mouse   na   câmera 
+“Dessecador” do menu “Visualização” ou utilizando o atalho “Alt+6”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche o dessecador clicando com o botão esquerdo do mouse no dessecador. 
+ 
+ 
+ 
+Ajuste a escala de tempo para acelerar o tempo de resfriamento clicando e arrastando 
+para a direita com o botão esquerdo do mouse no botão de rolagem do cronômetro. 
+ 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Após  a  exibição  da  mensagem  de  finalização  do  tempo  de  resfriamento,  pause  o  a 
+contagem clicando com o botão esquerdo do mouse no botão indicado do cronômetro 
+e reinicie o cronômetro, em seguida, clicando com o botão esquerdo do mouse no botão 
+“X” do contador. 
+ 
+ 
+ 
+Abra o dessecador clicando com o botão esquerdo do mouse no dessecador. 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova o cadinho A1 para a bancada clicando com o botão direito do mouse no cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+ 
+Mova o cadinho A2 para a bancada clicando com o botão direito do mouse no cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova o cadinho A3 para a bancada clicando com o botão direito do mouse no cadinho, 
+selecionando com o botão esquerdo do mouse a opção “Mover para” e clicando com o 
+botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+ 
+Mova  o  cadinho  Branco  para  a bancada  clicando  com  o  botão  direito  do  mouse  no 
+cadinho,  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Mover  para”  e 
+clicando com o botão esquerdo do mouse em “Bancada”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Feche o dessecador clicando com o botão esquerdo do mouse no dessecador. 
+ 
+ 
+ 
+Visualize  a  bancada  principal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Visão Geral” do menu “Visualização” ou utilizando o atalho “Alt+1”. 
+ 
+ 
+  
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+3. SOLUBILIZANDO AS CINZAS EM HCL 0,1 MOL/L 
+ 
+Esvazie  e  limpe  o  béquer  clicando  com  o  botão  direito  do  mouse  no  béquer  e 
+selecionando a opção com o botão esquerdo do mouse “Esvaziar e limpar vidraria”. 
+ 
+ 
+ 
+Limpe a haste de vidro clicando com o botão direito do mouse na haste e selecionando 
+a opção “Limpar vidraria”. 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Coloque a haste de vidro no béquer clicando com o botão direito do mouse na haste e 
+selecionando com o botão esquerdo do mouse a opção “Mover para o béquer”. 
+ 
+ 
+ 
+Mova o frasco contendo HCl para o béquer de 100 mL clicando com o botão direito do 
+mouse no frasco e selecionando com o botão esquerdo do mouse a opção “Mover para 
+o béquer”. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Coloque uma amostra de cerca de 20 mL HCl no béquer de 100 mL clicando com o botão 
+esquerdo  do  mouse  no  frasco  com  a  substância  até  atingir  o  volume  necessário. 
+Visualize o volume de HCl na janela de graduação do béquer. 
+ 
+ 
+ 
+Retorne o frasco com o HCl para a bancada clicando com o botão direito do mouse no 
+frasco e selecionando com o botão esquerdo do mouse a opção “Devolver à mesa”. 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne  na  haste  de  vidro  para  a  bancada  clicando  com  o  botão  direito  do  mouse  na 
+haste de vidro e selecionando a opção “Devolver à bancada” com o botão esquerdo do 
+mouse. 
+ 
+ 
+ 
+Troque  a ponteira da  micropipeta  para  uma  de 5  mL  clicando  com  o botão  direito  do 
+mouse na micropipeta, selecionando com o botão esquerdo do mouse a opção “Trocar 
+ponteira” e selecionando “5 ml de capacidade” com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A1  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A1” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje  4  mL  de  HCl  no  cadinho  A1  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse 
+na  micropipeta,  clicando  com  o  botão  esquerdo  do  mouse  na  opção  “Mover”  e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A2  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A2” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje  4  mL  de  HCl  no  cadinho  A2  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na   opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  a  micropipeta  para  o  cadinho  A3  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com o botão esquerdo do mouse em “Cadinhos” e selecionando a opção “Cadinho A3” 
+com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje  4  mL  de  HCl  no  cadinho  A3  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Leve a micropipeta para o béquer de 100 mL clicando com o botão direito do mouse na 
+micropipeta,   clicando   com   o   botão   esquerdo   do   mouse   na   opção   “Mover”   e 
+selecionando a opção “Béquer de 100 mL” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Succione   o   conteúdo  do  béquer   clicando   com   o   botão   esquerdo  do   mouse   na 
+micropipeta.  
+ 
+ 
+ 
+  
+
+ 
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova a micropipeta para o cadinho Branco clicando com o botão direito do mouse na 
+micropipeta, selecionando com o botão esquerdo do mouse a opção “Mover”, clicando 
+com  o  botão  esquerdo  do  mouse  em  “Cadinhos”  e  selecionando  a  opção  “Cadinho 
+Branco” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Despeje  4  mL  de  HCl  no  cadinho  Branco  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta  e  selecionando  com  o  botão  esquerdo  do mouse  a  opção  “Despejar 
+conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne   a   micropipeta   ao   suporte   clicando   com   o   botão   direito   do   mouse   na 
+micropipeta, clicando com o botão esquerdo do mouse em “Mover” e selecionando com 
+o botão esquerdo do mouse a opção “Devolver ao suporte”. 
+ 
+ 
+ 
+Coloque o funil no balão volumétrico A1 clicando com o botão direito do mouse no funil 
+e selecionando com o botão direito do mouse a opção “Balão A1”. 
+ 
+ 
+  
+
+ 
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Transfira  o  conteúdo  do  cadinho  A1  para  o  balão  A1  clicando  com  botão  direito  do 
+mouse  no  cadinho  e  selecionando  a  opção  “Transferir  para  balão”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Coloque o funil sobre o balão volumétrico A2 clicando com o botão direito do mouse no 
+funil e selecionando com o botão esquerdo do mouse a opção “Balão A2”. 
+ 
+ 
+  
+
+ 
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Transfira  o  conteúdo  do  cadinho  A2  para  o  balão  A2  clicando  com  botão  direito  do 
+mouse  no  cadinho  e  selecionando  a  opção  “Transferir  para  balão”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Coloque o funil sobre o balão volumétrico A3 clicando com o botão direito do mouse no 
+funil e selecionando com o botão esquerdo do mouse a opção “Balão A3”. 
+ 
+ 
+  
+
+ 
+ 
+88 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Transfira  o  conteúdo  do  cadinho  A3  para  o  balão  A3  clicando  com  botão  direito  do 
+mouse  no  cadinho  e  selecionando  a  opção  “Transferir  para  balão”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Coloque o funil sobre o balão volumétrico Branco clicando com o botão direito do mouse 
+no funil e selecionando com o botão esquerdo do mouse a opção “Balão branco”. 
+ 
+ 
+  
+
+ 
+ 
+89 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Transfira o conteúdo do cadinho Branco para o balão Branco clicando com botão direito 
+do  mouse  no  cadinho  e  selecionando  a  opção  “Transferir  para  balão”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Retorne  o  funil  para  bancada  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+90 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Esvazie  e  limpe  a  proveta  clicando  com  o  botão  direito  do  mouse  na  proveta  e 
+selecionando com o botão esquerdo do mouse a opção “Esvaziar e limpar vidraria”. 
+ 
+ 
+ 
+Move o frasco com HCl para a proveta clicando com o botão direito do mouse no frasco 
+e selecionando a opção “Mover para a proveta” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+ 
+ 
+91 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Despeje aproximadamente 40 mL de HCl na proveta clicando com o botão esquerdo do 
+mouse no frasco contendo a substância até que atingir a marca de 40 mL na janela de 
+exibição da graduação da proveta. 
+ 
+ 
+ 
+Retorne o frasco com ácido clorídrico para a bancada clicando com o botão direito do 
+mouse no frasco e selecionando com o botão esquerdo do mouse a opção “Devolver à 
+bancada”. 
+ 
+ 
+  
+
+ 
+ 
+92 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  funil  para  o  balão  A1  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Balão A1”. 
+ 
+ 
+ 
+Transfira um volume do HCl na proveta para o balão A1 clicando com o botão direito do 
+mouse na proveta, clicando com o botão esquerdo do mouse em “Balões volumétricos” 
+e selecionando a opção “Balão A1”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+93 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  funil  para  o  balão  A2  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Balão A2”. 
+ 
+ 
+ 
+Transfira um volume do HCl na proveta para o balão A2 clicando com o botão direito do 
+mouse na proveta, clicando com o botão esquerdo do mouse em “Balões volumétricos” 
+e selecionando a opção “Balão A2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+94 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  funil  para  o  balão  A3  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Balão A3”. 
+ 
+ 
+ 
+Transfira um volume do HCl na proveta para o balão A3 clicando com o botão direito do 
+mouse na proveta, clicando com o botão esquerdo do mouse em “Balões volumétricos” 
+e selecionando a opção “Balão A3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+95 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  funil  para  o  balão  Branco  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Balão Branco”. 
+ 
+ 
+ 
+Transfira um volume do HCl na proveta para o balão Branco clicando com o botão direito 
+do  mouse  na  proveta,  clicando  com  o  botão  esquerdo  do  mouse  em  “Balões 
+volumétricos” e selecionando a opção “Balão Branco”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+96 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne  o  funil  para  a  bancada  clicando  com  o  botão  direito  do  mouse  no  funil  e 
+selecionando com o botão esquerdo do mouse a opção “Bancada”. 
+ 
+ 
+  
+
+ 
+ 
+97 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+4. ANALISANDO AS AMOSTRAS POR ESPECTROMETRIA 
+DE ABSORÇÃO ATÔMICA COM CHAMA (FAAS) 
+ 
+Visualize  o  espectrofotômetro  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+98 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  1”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+99 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie a leitura da absorbância clicando com o botão esquerdo do mouse em “Iniciar” e, 
+em  seguida,  selecionando  com  o  botão  esquerdo  do  mouse  o  botão  “Analisar”.  Note 
+que a chama será ligada e o equipamento já estará configurado para a leitura. 
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+100 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+101 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+102 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+103 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  2”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+104 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+105 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+106 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+107 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+108 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  3”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+109 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+110 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+111 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+112 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+113 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  4”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+114 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+115 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+116 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+117 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+118 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  5”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+119 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+120 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+121 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+122 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+123 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  “Solução  Padrão  6”  para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no balão volumétrico e selecionando com o botão esquerdo do mouse 
+a opção “Espectrofotômetro”. Note que o capilar espectrofotômetro será encaixado no 
+balão volumétrico. 
+ 
+ 
+ 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+124 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+125 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+  
+
+ 
+ 
+126 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+ 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+  
+
+ 
+ 
+127 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+128 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  os  balões  volumétricos  com  as  amostras  clicando  com  o  botão esquerdo  do 
+mouse na câmera “Visão Geral” do menu “Visualização” ou utilizando o atalho “Alt+1”. 
+ 
+ 
+ 
+Mova o balão volumétrico A1 para a bancada de análise clicando com o botão direito do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+129 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova o balão volumétrico A2 para a bancada de análise clicando com o botão direito do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+Mova o balão volumétrico A3 para a bancada de análise clicando com o botão direito do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+130 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  balão  volumétrico  Branco  para  a  bancada  de análise  clicando  com  o  botão 
+direito  do  mouse  no  balão  e  selecionando  com  o  botão  esquerdo  do  mouse  a  opção 
+“Bancada de análise”. 
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+131 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+ 
+Inicie  a  etapa  de  análise  das  amostras  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Iniciar análise das amostras”. 
+ 
+ 
+  
+
+ 
+ 
+132 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Mova  o balão  volumétrico  Branco  clicando  com  o  botão  direito  do  mouse  no  balão  e 
+selecionando com o botão esquerdo do mouse a opção “Espectrofotômetro”. Note que 
+o capilar espectrofotômetro será encaixado no balão volumétrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+133 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+ 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+134 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+  
+
+ 
+ 
+135 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+ 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+  
+
+ 
+ 
+136 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+137 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+Mova  o  balão  volumétrico  A1  clicando  com  o  botão  direito  do  mouse  no  balão  e 
+selecionando com o botão esquerdo do mouse a opção “Espectrofotômetro”. Note que 
+o capilar espectrofotômetro será encaixado no balão volumétrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+138 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+ 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+139 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+  
+
+ 
+ 
+140 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+ 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+  
+
+ 
+ 
+141 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+142 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+Mova  o  balão  volumétrico  A2  clicando  com  o  botão  direito  do  mouse  no  balão  e 
+selecionando com o botão esquerdo do mouse a opção “Espectrofotômetro”. Note que 
+o capilar espectrofotômetro será encaixado no balão volumétrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+143 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+ 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+144 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+  
+
+ 
+ 
+145 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+ 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+  
+
+ 
+ 
+146 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+ 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+147 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Retorne o béquer com água para a bancada clicando com o botão direito do mouse no 
+béquer e selecionando com o botão esquerdo do mouse a opção “Bancada de análise”. 
+ 
+ 
+ 
+Mova  o  balão  volumétrico  A3  clicando  com  o  botão  direito  do  mouse  no  balão  e 
+selecionando com o botão esquerdo do mouse a opção “Espectrofotômetro”. Note que 
+o capilar espectrofotômetro será encaixado no balão volumétrico. 
+ 
+ 
+ 
+  
+
+ 
+ 
+148 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  tela  do  monitor  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera “Monitor de Análise” do menu “Visualização” ou utilizando o atalho “Alt+8”. 
+ 
+ 
+ 
+Inicie  a  leitura  da  absorbância  clicando  com  o  botão  esquerdo  do  mouse  o  botão 
+“Analisar”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+149 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Visualize  a  bancada  de  análise  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+“Bancada de Análise” do menu “Visualização” ou utilizando o atalho “Alt+7”. 
+ 
+ 
+ 
+Retire  o  balão  volumétrico  do  espectrofotômetro  clicando  com  o  botão  direito  do 
+mouse no balão e selecionando com o botão esquerdo do mouse a opção “Bancada de 
+análise”. 
+ 
+ 
+  
+
+ 
+ 
+150 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Mova  o  béquer da  água  deionizada para  o  espectrofotômetro  clicando  com  o  botão 
+direito do mouse no béquer e selecionando com o botão esquerdo do mouse a opção 
+“Espectrofotômetro”. 
+ 
+ 
+ 
+Visualize o monitor do espectrofotômetro clicando com o botão esquerdo do mouse na 
+câmera “Monitor de análise do menu “Visualização” ou utilizando o atalho “Alt+8”. Note 
+que o capilar será posicionado dentro do béquer. 
+ 
+ 
+  
+
+ 
+ 
+151 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+Realize a limpeza do capilar clicando com o botão esquerdo do mouse no botão “Limpar 
+tubo capilar”. 
+ 
+ 
+ 
+Visualize os resultados das leituras das soluções e das amostras clicando com o botão 
+esquerdo do mouse no botão “Iniciar análise das amostras”. 
+ 
+ 
+  
+
+ 
+ 
+152 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA QUANTITATIVA 
+DETERMINAÇÃO DE FERRO EM LEITE EM PÓ POR ESPECTROMETRIA DE ABSORÇÃO ATÔMICA 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 

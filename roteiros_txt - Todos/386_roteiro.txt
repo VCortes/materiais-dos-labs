@@ -1,0 +1,779 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá realizar o procedimento para verificar a qualidade 
+do feixe de raios X em função da camada semirredutora. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Equipamento convencional de raios X; 
+• Lâminas de alumínio; 
+• Câmara de ionização; 
+• Eletrômetro; 
+• Trena; 
+• Tripé. 
+ 
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO A CÂMARA DE IONIZAÇÃO 
+ 
+Abra  o  armário  e  utilize  a  trena  para  verificar  a  distância  do  ponto  focal  do 
+equipamento até a câmara de ionização.  Ajuste pelo tripé a distância para um 
+metro. Guarde a régua no armário. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+2. AJUSTANDO A ÁREA DE COLIMAÇÃO  
+ 
+Acione  o  campo  luminoso  e  ajuste  a  posição  horizontal  e  transversal  do 
+equipamento de raios X de forma que o sensor da câmara de ionização (ponta 
+preta do equipamento) esteja no centro da região iluminada. Utilize os knobs do 
+equipamento de raios X para ajustar o campo irradiado de forma que ele cubra 
+apenas o sensor da câmara de ionização. 
+ 
+3. DEFININDO PAINEL DE CONTROLE E ELETRÔMETRO 
+ 
+Selecione no painel uma tensão de 80 kVp, uma corrente de 200 mA e um tempo 
+de  exposição  de  1 segundo. Pressione  o  botão  preparar. Ligue  o eletrômetro 
+(botão ON/OFF). 
+ 
+4. REALIZANDO A EXPOSIÇÃO 
+ 
+Pressione o botão de exposição no painel de controle e insira o valor da medição 
+exibida no eletrômetro na Tabela 1. Pressione o botão reset do equipamento. 
+ 
+5. REPETINDO A EXPOSIÇÃO  
+ 
+Repita  os  passos  3  e  4  realizando  um  total  de  três  exposições.  Adicione  os 
+valores medidos no eletrômetro na Tabela 1. 
+ 
+6. ADICIONANDO LÂMINAS DE ALUMÍNIO 
+ 
+Adicione  uma  lâmina  de  alumínio  no  suporte  e  repita  os  passos  3 e  4  para 
+realizar   um   total   de   três   exposições.   Adicione   os   valores   medidos   no 
+eletrômetro na Tabela 1. 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+7. ADICIONANDO MAIS LÂMINAS E COLETA DE DADOS 
+ 
+Repita  o  passo  6  até  obter  uma  medição  no  eletrômetro  que  seja  inferior  a 
+metade do valor da dose obtida no passo 4 (sem a utilização de atenuadores). 
+ 
+8. REMOVENDO AS LÂMINAS E REALIZANDO EXPOSIÇÃO 
+ 
+Remova todas as lâminas de alumínio e realize três exposições e verifique se os 
+valores  obtidos  neste  passo  são  condizentes  com  aqueles  obtidos  no  passo  5. 
+Caso exista uma discrepância, reinicie o experimento. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado nos experimentos. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Determine  a  média  dos  valores  de  dose  obtidos  para  cada  série  de  medições 
+realizadas. 
+ 
+ 
+ 
+2. Calcule o  valor  da  camada  semirredutora (CSR)  utilizando  os  valores  obtidos 
+durante a coleta dos dados experimentais. 
+ 
+ 
+ 
+Espessura do 
+Alumínio (mm) 
+Exp 1 
+(mGy) 
+Exp 2 
+(mGy) 
+Exp 3 
+(mGy) 
+Média 
+(mGy) 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+Tabela 1 – Dados experimentais. 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AJUSTANDO A CÂMARA DE IONIZAÇÃO 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário”  localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Meça  a  distância  do  medidor  clicando  com  o  botão  direito  do  mouse sobre  a  trena  e 
+selecionando a opção “Meça a distância do medidor”. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize  o  tripé  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ajuste a altura do tripé clicando com o botão direito do mouse sobre ele e selecionando 
+a opção “Ajustar altura”. 
+ 
+ 
+ 
+Ajuste  tripé  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  barra  de  ajuste  e 
+arrastando para os lados. 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Feche a câmera de observação de medição clicando com o botão esquerdo do mouse 
+sobre o X vermelho. 
+ 
+ 
+ 
+Guarde a trena clicando com o botão direito do mouse sobre ela e selecionando a opção 
+“Guardar no armário”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+2. AJUSTANDO A ÁREA DE COLIMAÇÃO 
+ 
+Visualize a estativa porta-tubo clicando com o botão esquerdo do mouse na câmera com 
+o nome “Estativa porta-tubo” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Ligue  o  colimador  luminoso  clicando  com  o  botão  esquerdo  do mouse  sobre  o  botão 
+com ícone de lâmpada. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Trave o freio longitudinal clicando com o botão esquerdo do mouse sobre o botão com 
+as setas pra esquerda e pra direita. 
+ 
+ 
+ 
+Posicione o campo luminoso horizontalmente centralizando com a marcação na parte 
+superior  do  medidor  de  kVp  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  cabo 
+manopla e arrastando o mouse para os lados. 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Trave o freio transversal clicando com o botão esquerdo do mouse sobre o botão com 
+as setas na diagonal. 
+ 
+ 
+ 
+Posicione o campo luminoso transversalmente centralizando com a marcação na parte 
+superior  do  medidor  de  kVp  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  cabo 
+manopla e arrastando o mouse para cima e para baixo. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ajuste o campo irradiado horizontal clicando com o botão esquerdo do mouse sobre o 
+botão de ajuste esquerdo. 
+ 
+ 
+ 
+Ajuste  o  campo  irradiado  horizontalmente  centralizando  com  a  marcação  na  parte 
+superior do medidor de kVp clicando com o botão esquerdo do mouse sobre a barra de 
+ajuste e arrastando para os lados. 
+ 
+  
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ajuste o campo irradiado transversal clicando com o botão esquerdo do mouse sobre o 
+botão de ajuste direito. 
+ 
+  
+ 
+Ajuste  o  campo  irradiado  transversalmente  centralizando  com  a  marcação  na  parte 
+superior do medidor de kVp clicando com o botão esquerdo do mouse sobre a barra de 
+ajuste e arrastando para os lados. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Feche a câmera de observação de medição clicando com o botão esquerdo do mouse 
+sobre o X vermelho. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+3. DEFININDO PAINEL DE CONTROLE E ELETRÔMETRO 
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+  
+ 
+Ligue o painel clicando com o botão esquerdo do mouse sobre o botão de liga/desliga. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ajuste o valor de 200 mA clicando com o botão esquerdo do mouse sobre o botão de 
+mA e gire-o. 
+ 
+ 
+ 
+Ajuste o valor de 80 Kv clicando com o botão esquerdo do mouse sobre o botão de Kv e 
+gire-o. 
+ 
+  
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ajuste o tempo de 1 segundo clicando com o botão esquerdo do mouse sobre o botão 
+de tempo e gire-o. 
+ 
+ 
+ 
+Visualize eletrômetro clicando com o botão esquerdo do mouse na câmera com o nome 
+“Eletrômetro” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Ligue  o  eletrômetro  clicando  com  o botão  esquerdo  do  mouse  sobre  o  botão  de 
+liga/desliga. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+4. REALIZANDO A EXPOSIÇÃO 
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Prepare  o  equipamento  clicando  com  o  botão  esquerdo  do  mouse  sobre  o  botão 
+preparar. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Exponha o medidor a radiação clicando com o botão esquerdo do mouse sobre o botão 
+exposição e anote o valor encontrado. 
+ 
+ 
+ 
+Resete o eletrometro clicando com o botão esquerdo do mouse sobre o botão reset. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+5. REPETINDO A EXPOSIÇÃO 
+ 
+Repita os passos 4 e 5 realizando um total de 4 exposições de acordo com a Tabela 1. 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+6. ADICIONANDO LÂMINAS DE ALUMÍNIO  
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Mesa de exames” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Adicione  a  lâmina  de  alumínio  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar sobre o suporte”. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Repita os passos 3 e 4 para realizar um total de três exposições. 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+7. ADICIONANDO MAIS LÂMINAS E COLETA DE DADOS 
+ 
+Repita o passo 6 até obter uma medição no eletrômetro que seja inferior a metade do 
+valor da dose obtida no passo 4 (sem a utilização de atenuadores). 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+8. REMOVENDO AS LÂMINAS E REALIZANDO EXPOSIÇÃO 
+ 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Mesa de exames” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Retire  as  lâminas  de  alumínio  clicando  com  o  botão  direito  do  mouse  sobre  ela  e 
+selecionando a opção “Colocar na posição inicial”. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+Visualize  o  painel  de  comandos  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Painel de comandos” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Repita os passos 3 e 4 para realizar um total de três exposições. 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE CONTROLE DE QUALIDADE EM EQUIPAMENTOS RADIOLÓGICOS 
+VERIFICAÇÃO DA QUALIDADE DO FEIXE DE RAIOS X EM FUNÇÃO DA CAMADA SEMIRREDUTORA 
+ 
+9. AVALIANDO O RESULTADO 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
+JA1_LU1_TAC1 

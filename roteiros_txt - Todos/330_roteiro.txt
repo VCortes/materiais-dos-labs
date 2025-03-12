@@ -1,0 +1,473 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da 
+experiência virtual e para respostas às perguntas frequentes a respeito do 
+VirtuaLab.  
+ 
+2. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+3. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir, apresentamos  as  duas principais  dúvidas na  utilização  dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte.  Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o uso do disco no Gerenciador de Tarefas (Ctrl + Shift + Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros  aplicativos  ou  reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção  e  reinicie  o  navegador.  Caso  persista,  desative  a  opção  e  tente 
+novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+x Atenuadores de cobre e de alumínio; 
+x Suporte para atenuadores; 
+x Eletrômetro; 
+x Painel de controle; 
+x Câmara de ionização; 
+x Fonte de raio gama; 
+x Medidor de temperatura, pressão e umidade. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. INICIANDO O SISTEMA 
+ 
+Ligue o painel de controle e o eletrômetro. 
+ 
+2. POSICIONAMENTO DA CÂMARA DE IONIZAÇÃO 
+ 
+Posicione a câmara de ionização, conecte o cabo ao eletrômetro.  
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+3. POLARIZAÇÃO 
+ 
+Polarize a câmara de ionização, programe o painel de controle do raio-X, acione 
+o feixe e anote o valore obtido. 
+ 
+4. ANALISANDO OS ATENUADRES 
+ 
+Faça  três  exposições  com  os  atenuadores  de  cobre  e  alumínio,  com  as 
+espessuras definidas para cada um, e, anote os valores. 
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de 
+acordo com o que foi observado na prática.  
+ 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o objetivo dos atenuadores de cobre e alumínio? 
+ 
+ 
+ 
+2. A camada semirredutora pode ser medida sob quais condições específicas? 
+ 
+ 
+ 
+3. Cite exemplos práticos da aplicabilidade da camada semirredutora. 
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. INICIANDO O SISTEMA 
+ 
+Com o botão esquerdo do mouse ligue o painel de comando, clicando na chave. No 
+menu “VISUALIZAÇÃO”, clique com o botão esquerdo do mouse sobre “ELETRÔMETRO”. 
+ 
+Ligue o eletrômetro com o botão esquerdo do mouse. Em seguida, zere o aparelho 
+clicando com o botão esquerdo do mouse em “ZERO”. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+2. POSICIONAMENTO DA CÂMARA DE IONIZAÇÃO 
+ 
+Vá para a menu de visualização e selecione a opção “CÂMERA”. Aperte o botão “TARA” 
+com o botão esquerdo do mouse, para posicionar a câmara de ionização no sistema de 
+trilhos a 1,0 m de distância da fonte. Direcione-se ao menu “VISUALIZAÇÃO” e clique em 
+“BANCADA”. 
+ 
+Calibre a esfera. Para isso, com o botão direito do mouse, conecte o cabo entre a câmara 
+e o eletrômetro. Em seguida, com o botão esquerdo do mouse, clique sobre a esfera 
+para ativar a calibração. 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Com o botão esquerdo do mouse clique nas setas para efetuar a calibração, observando 
+a posição do feixe, o qual deve ser posicionado na horizontal. Direcione-se ao menu 
+“VISUALIZAÇÃO” e clique em “ELETRÔMETRO”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+3. POLARIZAÇÃO 
+ 
+Com o botão esquerdo do mouse gire o botão do eletrômetro a 300KV, em seguida 
+clique  em  “MEDIR”.  Direcione-se  ao  menu  “VISUALIZAÇÃO”  e  clique  em “PAINEL  DE 
+CONTROLE”. 
+ 
+ 
+ 
+Com o botão esquerdo do mouse clique sobre os botões abaixo da tela, cada botão 
+corresponde a um parâmetro, “60,0 kV” e “1 mA”, além do tempo de irradiação para 10 
+segundos.  Para  efetuar  a  programação  clique  em  cada número  correspondente  no 
+painel numérico, e em seguida clique no “ENTER”. 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Posicione a  chave  de  segurança  na  opção  “ON”, clicando com o botão esquerdo do 
+mouse, e acione o botão verde (“SALA LIVRE”). Direcione-se ao menu “VISUALIZAÇÃO” 
+e clique em “ELETRÔMETRO”. 
+ 
+ 
+ 
+Anote o valor obtido, zere o eletrômetro clicando com o botão esquerdo do mouse no 
+botão  “ZERO”,  em  seguida,  direcione-se  ao  menu  “VISUALIZAÇÃO”  e  clique  em 
+“BANCADA”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+ 
+4. ANALISANDO OS ATENUADORES 
+ 
+Com o botão direito do mouse clique na haste de fixação da placa atenuadora para 
+“COLOCAR PLACA ATENUADORA”. 
+ 
+ 
+ 
+Em  seguida,  com  o  botão  esquerdo  do  mouse  clique  em “COLOCAR   PLACA 
+ATENUADORA DE COBRE” ou “COLOCAR PLACA ATENUADORA DE ALUMÍNIO”.  
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Com o botão esquerdo do mouse, selecione a espessura a ser calculada, direcione-se ao 
+menu “VISUALIZAÇÃO” e clique em “ELETRÔMETRO”. 
+ 
+ 
+ 
+Clique   em   “MEDIR”   com   o   botão   esquerdo   do   mouse, direcione-se  ao  menu 
+“VISUALIZAÇÃO” e clique em “PAINEL DE CONTROLE”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Acione a emissão de raios com o botão esquerdo do mouse no botão “SALA LIVRE”, e 
+direcione-se ao menu “VISUALIZAÇÃO” e clique em “ELETRÔMETRO”. 
+ 
+ 
+ 
+Anote o valor obtido, zere o eletrômetro clicando com o botão esquerdo do mouse no 
+botão  “ZERO”,  em  seguida,  direcione-se  ao  menu  “VISUALIZAÇÃO”  e  clique  em 
+“BANCADA”. 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Com o botão direito do mouse clique na haste de fixação da placa atenuadora para 
+“COLOCAR PLACA ATENUADORA”, e em seguida, com o botão esquerdo do mouse clique 
+em “REMOVER TODAS PLACAS”. 
+ 
+ 
+ 
+Em   seguida,   com   o   botão   esquerdo   do   mouse   clique   em   “COLOCAR   PLACA 
+ATENUADORA DE COBRE” ou “COLOCAR PLACA ATENUADORA DE ALUMÍNIO”. Com o 
+botão esquerdo do mouse, selecione a espessura a ser calculada e direcione-se ao menu 
+“VISUALIZAÇÃO” e clique em “ELETRÔMETRO”. 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Clique   em   “MEDIR”   com   o   botão   esquerdo   do   mouse, direcione-se  ao  menu 
+“VISUALIZAÇÃO” e clique em “PAINEL DE CONTROLE”. 
+ 
+ 
+ 
+Acione a emissão de raios com o botão esquerdo do mouse no botão “SALA LIVRE”, e 
+direcione-se ao menu “VISUALIZAÇÃO” e clique em “ELETRÔMETRO”. 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CÁLCULO DA CAMADA SEMIRREDUTORA 
+ 
+Anote  o valor  obtido,  realize  as  exposições  seguintes  com  as  espessuras  definidas 
+conforme procedimento descrito no item 4. 
+ 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado na prática.  
+ 

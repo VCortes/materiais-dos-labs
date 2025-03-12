@@ -1,0 +1,485 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá aprimorar  seus  conhecimentos  sobre reatores 
+tubulares. Os  reatores  tubulares  são  de  amplo  uso industrial, comumente 
+aplicados a reações que se processam em fase gasosa, mas também podendo ser 
+utilizados em fase líquida. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  + Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agulhas raqui; 
+• Azul de Metileno: Corante traçador (Solução 1,0 g/L); 
+• Béquer 500 mL; 
+• Cronômetro; 
+• Seringas para injeção (10 mL). 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas de procedimento, óculos de proteção 
+e máscara. 
+ 
+2. PREPARANDO O REATOR 
+ 
+Direcione a água para o reator tubular, abra a válvula VB1 e ligue o banho termostático. Em 
+seguida, direcione a válvula VR1 para o reator tubular e ligue a bomba peristáltica e regule sua 
+vazão. Deixe encher o reator tubular com água. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+  
+3. COLETANDO AMOSTRAS DO REATOR 
+ 
+Após o reator ser preparado, colete 1 mL de traçador e injete no reator. Em seguida, colete 
+amostras da saída do reator em tempos pré-definidos de 25, 50, 65, 85, 100, 120, 150, 200, 
+250 e 300 segundos. Feito isso, realize a leitura de cada amostra no fotocolorímetro e visualize 
+o resultado.  
+ 
+4. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”, localizada  na  página  07  deste  roteiro,  e 
+responda de acordo com o que foi observado nos experimentos, associando também com os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Construa as curvas de concentração C(t) versus tempo (t) para o reator tubular. 
+ 
+ 
+ 
+2. Calcule o tempo médio de residência (푡
+푚
+) e o tempo espacial (푇) para o reator 
+tubular. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos, máscara 
+e as luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize a válvula VB1 clicando com o botão esquerdo do mouse na câmera com o nome 
+“Válvula VB1” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+2. PREPARANDO O REATOR 
+ 
+Abra  a  válvula  clicando  com  o  botão direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Abrir válvula”. 
+ 
+ 
+ 
+Visualize o  banho  termostático  clicando  com  o  botão  esquerdo  do  mouse na  câmera 
+com o nome “Banho termostático” ou através do atalho do teclado “Alt+9”. 
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Ligue o banho clicando com o botão direito do mouse sobre o botão “Ligar/Desligar”. 
+ 
+ 
+ 
+Visualize o reator tubular clicando com o botão esquerdo do mouse na câmera com o 
+nome “Reator tubular” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Direcione a água clicando com o botão direito do mouse sobre a válvula VR1 e selecione 
+a opção “Direcionar para reator tubular”. 
+ 
+ 
+ 
+Visualize a bomba peristáltica clicando com o botão esquerdo do mouse na câmera com 
+o nome “Bomba Peristáltica” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Regule a vazão clicando com o botão esquerdo do mouse sobre os botões de aumentar 
+e diminuir porcentagem. 
+ 
+ 
+ 
+Ligue a bomba clicando com o botão direito do mouse sobre o botão de ligar. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+3. COLETANDO AMOSTRAS DO REATOR 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada do laboratório” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Insira a seringa de 1 mL clicando com o botão direito do mouse sobre o local indicado e 
+selecione a opção “Colocar no béquer”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Puxe  o  êmbolo  da  seringa clicando  com  o  botão  direito  do  mouse  sobre  a  seringa  e 
+selecione a opção “Puxar o êmbolo”. 
+ 
+ 
+ 
+Insira  a  seringa  clicando com  o  botão  direito  do mouse  sobre  ela e  selecione  a  opção 
+“Colocar na base do reator”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Insira o traçador clicando com o botão direito do mouse sobre a seringa e selecione a 
+opção “Pressionar êmbolo”. 
+ 
+ 
+ 
+Ligue o cronômetro clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Colete as amostras do reator sequencialmente até finalizar as  10  seringas em  tempos 
+predefinidos de 25, 50, 65, 85, 100, 120, 150, 200, 250 e 300 segundos clicando com o 
+botão  direito  do  mouse  sobre  as  seringas  e  selecione  a  opção  “Coletar  amostra  no 
+reator”. Obs.: Os  tempos  pré-definidos  são  uma  sugestão.  Coletar  as  amostras  em 
+outros intervalos de tempo não prejudica o experimento.  
+ 
+ 
+ 
+Após coletar as amostras mova a seringa 1 clicando com o botão direito do mouse sobre 
+a seringa e selecione a opção “Colocar amostra no fotocolorímetro”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+Mova  o  recipiente clicando  com  o  botão  direito  do  mouse  sobre o  recipiente  do 
+fotocolorímetro e selecione a opção “Colocar no fotocolorímetro”. 
+ 
+ 
+ 
+Meça  a  concentração  de  líquido  traçador  clicando  com  o  botão esquerdo  do  mouse 
+sobre   o   botão   “Medir”.   Repita   os   procedimentos   anteriores   de   medição   da 
+concentração de líquido traçador para as outras nove seringas. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA QUÍMICA 
+DISTRIBUIÇÃO DE TEMPOS DE RESIDÊNCIA (DTR) EM REATOR TUBULAR 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

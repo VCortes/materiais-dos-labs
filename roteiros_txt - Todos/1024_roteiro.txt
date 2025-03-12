@@ -1,0 +1,1509 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste experimento, você irá aprender a identificar insaturações em compostos 
+orgânicos através de testes químicos. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido Sulfúrico (H2SO4) 98% concentrado; 
+• Béquer 500 mL; 
+• Capela com exaustor; 
+• Cicloexeno (alceno); 
+• Hexano (alcano); 
+• Pipeta de Pasteur de 3 mL; 
+• Pipeta graduada de 5 ml; 
+• Solução com água de bromo; 
+• Solução de hidróxido de sódio (NaOH) 6,0M; 
+• Solução formaldeído 37%; 
+• Solução permanganato de potássio (KMnO4) 0,01 M; 
+• Tolueno (aromático); 
+• Tubo de ensaio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque os equipamentos de proteção individual localizados 
+no “Armário de EPIs”. 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+2. PREPARANDO A AMOSTRA 
+ 
+Abra a capela, ligue a luz e o exaustor. Mova os suportes com os tubos de ensaio para 
+o  interior  da  capela.  Mova  as  pipetas  de Pasteur, a pipeta graduada,  o  béquer  de 
+500mL e os reagentes para o interior da capela. 
+ 
+3. REALIZANDO O TESTE COM ÁGUA DE BROMO 
+ 
+Mova  a  pipeta  de Pasteur para  o  recipiente  contendo  hexano.  Pipete  a  solução  e 
+transfira 10 gotas para o tubo de ensaio 1, em seguida descarte a pipeta. Com outra 
+pipeta de Pasteur, pipete o cicloexeno e transfira 10 gostas para o tubo de ensaio 2; 
+depois descarte a pipeta. Pegue outra pipeta de Pasteur e pipete o tolueno, transfira 
+10 gostas para o tubo de ensaio 3 e descarte a ponteira. Com outra piepta de Pasteur 
+pipete 1,5 mL da água de bromo e transfira 10 gotas em cada tubo e descarte a pipeta. 
+Agite os tubos e observe os resultados.  
+ 
+4. REALIZANDO O TESTE DE BAYER  
+ 
+Mova  a  pipeta  de Pasteur para  o  recipiente  contendo  hexano.  Pipete  a  solução  e 
+transfira 10 gotas para o tubo de ensaio 4, em seguida descarte a pipeta. Com outra 
+pipeta de Pasteur, pipete o cicloexeno e transfira 10 gostas para o tubo de ensaio 5; 
+depois descarte a pipeta. Pegue outra pipeta de Pasteur e pipete o tolueno, transfira 
+10 gostas para o tubo de ensaio 6 e descarte a ponteira. Com outra pipeta de Pasteur 
+pipete  1,5  mL  de  permanganato  de  potássio  e  transfira  10  gotas  em  cada  tubo  de 
+ensaio e descarte a pipeta. Pipete 1,5 mL de hidróxido de sódio com a pipeta graduada 
+e  transfira  10  gotas  em  cada  tubo.  Em  seguida,  limpe  a  pipeta.  Agite  os  tubos  e 
+observe o resultado após 1 minuto e depois após 5 minutos. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+ 
+ 
+  
+5. REALIZANDO O TESTE DE LE ROSEN 
+ 
+Mova  a  pipeta  de Pasteur para  o  recipiente  contendo  hexano.  Pipete  a  solução  e 
+transfira 10 gotas para o tubo de ensaio 7, em seguida descarte a pipeta. Com outra 
+pipeta de Pasteur, pipete o cicloexeno e transfira 10 gostas para o tubo de ensaio 8; 
+depois descarte a pipeta. Pegue outra pipeta de Pasteur e pipete o tolueno, transfira 
+10 gostas para o tubo de ensaio 9 e descarte a ponteira. Com outra pipeta de Pasteur 
+pipete 1 mL de formaldeído 37% e transfira 2 gotas em cada tubo de ensaio e descarte 
+a pipeta. Pipete 1,5mL de ácido sulfúrico com a pipeta graduada e transfira 10 gotas 
+em cada tubo. Em seguida, limpe a pipeta. Agite os tubos e observe os resultados. 
+ 
+6. AVALIANDO OS RESULTADOS 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento associando, também com 
+os conhecimentos aprendidos sobre o tema. 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. O que pode ser observado nos testes para identificação de insaturação? 
+ 
+ 
+ 
+2. O que é uma insaturação em uma molécula orgânica? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”."; 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira e passe o mouse 
+sobre a água. 
+ 
+ 
+ 
+Visualize  o  armário  de  EPIs  clicando  com  o  botão  esquerdo  do mouse  na  câmera 
+“Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione o EPI necessário para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos, máscara 
+e luvas. 
+ 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Exterior da capela” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Ligue a luz da capela clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Ligue o exaustor clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Abra a capela clicando com o botão esquerdo do mouse sobre a porta da capela. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova os suportes com tubo de ensaio para a capela clicando com o botão esquerdo do 
+mouse sobre eles. 
+ 
+ 
+ 
+Mova as pipetas de Pasteur para a capela clicando com o botão direito do mouse sobre 
+elas e selecionando a opção “Mover para a capela”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova o suporte com a pipeta graduada para a capela clicando com o botão esquerdo 
+do mouse sobre eles. 
+ 
+ 
+ 
+Mova o béquer para a capela clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova os reagentes para a capela clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+3. REALIZANDO O TESTE COM ÁGUA DE BROMO 
+ 
+Mova uma pipeta de Pasteur para o recipiente com Hexano clicando com o botão direito 
+do mouse sobre ela e selecione a opção “Hexano”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 1”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+Mova uma  pipeta  de Pasteur para  o  recipiente  com  cicloexeno clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Cicloexeno”. 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 2 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova uma pipeta  de Pasteur para  o  recipiente  com  Tolueno  clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Tolueno”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 3 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 3”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+Mova uma pipeta de Pasteur para o recipiente com Água de bromo clicando com o botão 
+direito do mouse sobre ela e selecione a opção “Água de bromo”. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 1 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 1”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 1 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 2 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 2”. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 2 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 3 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 3”. 
+ 
+  
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 3 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+  
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Homogeneíze os tubos clicando com o botão esquerdo do mouse sobre cada um deles. 
+ 
+ 
+ 
+Observe o resultado dos tubos clicando com o botão direito do mouse sobre cada um 
+deles. 
+ 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+4. REALIZANDO O TESTE DE BAYER 
+ 
+Mova uma pipeta de Pasteur para o recipiente com Hexano clicando com o botão direito 
+do mouse sobre ela e selecione a opção “Hexano”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 4 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 4”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+Mova uma  pipeta  de Pasteur para  o  recipiente  com  cicloexeno  clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Cicloexeno”. 
+ 
+  
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 5 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 5”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova uma pipeta  de Pasteur para  o  recipiente  com  Tolueno  clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Tolueno”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 6 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 6”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+  
+ 
+Mova uma pipeta de Pasteur para o recipiente com Permanganato de potássio clicando 
+com o botão direito do mouse sobre ela e selecione a opção “Permanganato de potássio 
+0,01M”. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete  a  solução  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 4 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 4”. 
+ 
+  
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 4 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 5 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 5”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 5 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 6 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 6”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje 10 gotas no tubo de ensaio 6 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova  a  pipeta  de  graduada  para  o  recipiente  com Hidróxido de sódio  clicando  com o 
+botão  direito  do  mouse  sobre  ela  e  selecione  a  opção  “Mover  para  béquer  com 
+reagente” e depois “Hidróxido de sódio 6,0M”. 
+ 
+  
+ 
+Visualize  a  pera  clicando  com  o  botão direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar pera”. 
+ 
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Esvazie a pipeta clicando com o botão esquerdo do mouse na parte “A” da pera. 
+ 
+ 
+ 
+Introduza a piepta  no reagente  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  e 
+selcionando a opção “Intriduzir pipeta no reagente”. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Pipete a solução clicando com o botão esquerdo do mouse sobre a parte “S” da pera.  
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 4 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 4”. 
+ 
+ 
+ 
+Despeje 10 gotas da solução no tubo de ensaio clicando com o botão esquerdo do mouse 
+sobre a parte “E” da pera. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 5 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 5”. 
+ 
+ 
+ 
+Despeje 10 gotas da solução no tubo de ensaio clicando com o botão esquerdo do mouse 
+sobre a parte “E” da pera. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 6 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 6”. 
+ 
+ 
+ 
+Despeje 10 gotas da solução no tubo de ensaio clicando com o botão esquerdo do mouse 
+sobre a parte “E” da pera. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Limpe a pipeta graduada clicando com o botão direito do mouse e selecione a opção 
+“Limpar vidraria”. 
+ 
+ 
+ 
+Homogeneíze os tubos clicando com o botão esquerdo do mouse sobre cada um deles. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Observe  o resultado  dos  tubos  após  1  e  5  minutos  clicando  com  o  botão  direito  do 
+mouse sobre cada um deles. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+5. REALIZANDO O TESTE DE LE ROSEN 
+ 
+Mova uma pipeta de Pasteur para o recipiente com Hexano clicando com o botão direito 
+do mouse sobre ela e selecione a opção “Hexano”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 7 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 7”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar. 
+ 
+ 
+ 
+Mova  uma  pipeta  de Pasteur para  o  recipiente  com  cicloexeno  clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Cicloexeno”. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 8 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 8”. 
+ 
+ 
+  
+
+  
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+  
+
+  
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova  uma  pipeta  de Pasteur para  o  recipiente  com  Tolueno  clicando  com  o  botão 
+direito do mouse sobre ela e selecione a opção “Tolueno”. 
+ 
+ 
+ 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+  
+
+  
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 9 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 9”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Despejar”. 
+ 
+  
+  
+
+  
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+ 
+Mova  uma  pipeta  de Pasteur para o  recipiente  com  Formaldeído  37%  clicando  com o 
+botão direito do mouse sobre ela e selecione a opção “Solução de Formaldeído 37%”. 
+ 
+ 
+  
+
+  
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Pipete o reagente clicando com o botão direito do mouse sobre a pipeta de Pasteur e 
+selecione a opção “Pipetar solução”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 7 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 7”. 
+ 
+ 
+  
+
+  
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje  2  gotas  no  tubo  de  ensaio  7  clicando  com  o  botão  direito  do  mouse  sobre  a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 8 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 8”. 
+ 
+  
+  
+
+  
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje  2  gotas  no  tubo  de  ensaio  8  clicando  com  o  botão  direito  do  mouse  sobre  a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Mova a pipeta para o tubo de ensaio 9 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para tubo de ensaio” e depois “Mover para tubo 9”. 
+ 
+ 
+  
+
+  
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Despeje  2  gotas  no  tubo  de  ensaio  9  clicando  com  o  botão  direito  do  mouse  sobre  a 
+pipeta e selecione a opção “Despejar”. 
+ 
+ 
+ 
+Descarte a pipeta clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Descartar”. 
+ 
+ 
+  
+
+  
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta de graduada para o recipiente com Ácido sulfúrico clicando com o botão 
+direito do mouse sobre ela e selecione a opção “Mover para béquer com reagente” e 
+depois “Ácido sulfúrico concentrado”.  
+ 
+ 
+ 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e  selecione  a 
+opção “Visualizar pera”. 
+ 
+ 
+  
+
+  
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Esvazie a pipeta clicando com o botão esquerdo do mouse na parte “A” da pera. 
+ 
+ 
+ 
+Introduza a piepta  no reagente  clicando  com  o  botão  esquerdo  do  mouse  sobre  ela  e 
+selcionando a opção “Intriduzir pipeta no reagente”. 
+ 
+ 
+  
+
+  
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Visualize  a  pera  clicando  com  o  botão  direito  do  mouse  sobre  a  pipeta  e selecione  a 
+opção “Visualizar pera”. 
+ 
+ 
+ 
+Pipete a solução clicando com o botão esquerdo do mouse sobre a parte “S” da pera.  
+ 
+ 
+  
+
+  
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 7 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 7”. 
+ 
+ 
+ 
+Despeje 10  gotas  da  solução  no  tubo  de  ensaio  clicando  com  o  botão  esquerdo  do 
+mouse sobre a parte “E” da pera. 
+ 
+ 
+  
+
+  
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 8 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 8”. 
+ 
+ 
+ 
+Despeje 10 gotas da solução no tubo de ensaio clicando com o botão esquerdo do mouse 
+sobre a parte “E” da pera. 
+ 
+ 
+ 
+  
+
+  
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Mova a pipeta para o tubo de ensaio 9 clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Mover para o tubo de ensaio” e depois “Mover para tubo 9”. 
+ 
+ 
+ 
+Despeje 10 gotas da solução no tubo de ensaio clicando com o botão esquerdo do mouse 
+sobre a parte “E” da pera. 
+ 
+ 
+  
+
+  
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Limpe a pipeta graduada clicando com o botão direito do mouse e selecione a opção 
+“Limpar vidraria”. 
+ 
+ 
+ 
+Homogeneíze os tubos clicando com o botão esquerdo do mouse sobre cada um deles. 
+ 
+  
+  
+
+  
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+Observe o resultado dos tubos clicando com o botão direito do mouse sobre cada um 
+deles. 
+ 
+ 
+ 
+  
+
+  
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ORGÂNICA 
+IDENTIFICAÇÃO DE INSATURAÇÕES EM COMPOSTOS ORGÂNICOS 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

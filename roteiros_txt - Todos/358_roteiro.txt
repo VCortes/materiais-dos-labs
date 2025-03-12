@@ -1,0 +1,497 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender a realizar a técnica de drenagem linfática 
+manual facial com bombeamento dos linfonodos da face e cabeça 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Algodão; 
+• Caneta; 
+• Carrinho acessório; 
+• Escadinha de três degraus; 
+• Higienizante facial; 
+• Lenço umedecido; 
+• Lençol descartável; 
+• Maca; 
+• Máscara descartável;  
+• Mocho; 
+• Touca descartável. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize  as  mãos  na  pia.  Coloque  os  equipamentos  de  proteção  individual  localizados  no 
+“Armário de EPIs”. Nesse experimento, é obrigatório o uso de jaleco branco, luvas, máscara e 
+touca. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+  
+2. LIMPANDO A FACE DA PACIENTE 
+ 
+Remova a sujidade da face com o lenço umedecido e, em seguida, higienize a face da paciente 
+com o sabonete facial. 
+ 
+3. IDENTIFICANDO SUBDIVISÕES DA FACE 
+ 
+Marque com a caneta demográfica as subdivisões da face em regiões de drenagem associadas 
+aos seus linfonodos. 
+ 
+4. REALIZANDO DRENAGEM LINFÁRICA 
+ 
+Realize, primeiramente, a drenagem linfática na região inferior da face, em seguida, na região 
+mediana da face e, por último, na região superior da face. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos Resultados”,  localizada  na  página  07 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância de subdividir a face com uma caneta demográfica? 
+ 
+ 
+ 
+2. Tente realizar a sequência de drenagem em um familiar ou amigo.  
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior esquerdo  da  tela.  Se 
+preferir utilize o atalho do teclado “Alt+9”. 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a pia. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e touca. 
+ 
+ 
+ 
+Visualize a  maca  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Maca – Visão geral” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+2. LIMPANDO A FACE DA PACIENTE 
+ 
+Coloque o lençol descartável clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque  a  touca  descartável  na  paciente  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ela.  
+ 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa com equipamentos - 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Remova a sujidade da pele da paciente clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa com equipamentos - 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Higienize a face da paciente clicando com o botão esquerdo do mouse sobre o sabonete 
+de emulsão de limpeza. 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa com equipamentos - 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Limpe a face da paciente clicando com o botão esquerdo do mouse sobre o algodão. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+3. IDENTIFICANDO AS SUBDIVISÕES DA FACE 
+ 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa com equipamentos - 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Mova a caneta vermelha para a paciente clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Modelo”. 
+ 
+ 
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Marque  os  linfonodos  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  caneta  e 
+selecione a opção “Marcar linfonodos” 
+ 
+ 
+ 
+Marque as linhas de drenagem clicando com o botão esquerdo do mouse sobre a caneta 
+e selecione a opção “Marcar linhas de drenagem”. 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Mova a caneta para a mesa clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mesa”. 
+ 
+ 
+ 
+Visualize  a  mesa  auxiliar  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Mesa com equipamentos - 1” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Mova a caneta preta para a paciente clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Modelo”. 
+ 
+ 
+ 
+Marque as linhas de drenagem clicando com o botão esquerdo do mouse sobre a caneta 
+e selecione a opção “Marcar linhas de drenagem”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+Mova a caneta para a mesa clicando com o botão direito do mouse sobre ela e selecione 
+a opção “Mesa”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+4. REALIZANDO A DRENAGEM LINFÁTICA 
+ 
+Realize a drenagem clicando com o botão esquerdo do mouse sobre a face da paciente. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRINCÍPIOS E PRÁTICAS DE DRENAGEM LINFÁTICA FACIAL 
+BOMBEAMENTO E DRENAGEM LINFÁTICA DA FACE 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 07 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

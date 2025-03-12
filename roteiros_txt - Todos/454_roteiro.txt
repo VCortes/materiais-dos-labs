@@ -1,0 +1,525 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você aprimorará sua conhecimentos sobre os processos de 
+escoamento de líquido no solo. Esta técnica permite a observação do movimento 
+de água em três diferentes composições de solo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Proveta; 
+• Béquer; 
+• Funil; 
+• Bastão de vidro; 
+• Água destilada; 
+• Algodão; 
+• Amostra de solo. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente, coloque os equipamentos de proteção individual localizados no “Armário 
+de EPIs”. 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Coloque as duas amostras de solo dentro da estufa para realizar secagem do material.  
+ 
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+  
+3. ANALISANDO A AMOSTRA 
+ 
+Adicione um  chumaço de  algodão  na base do  funil.  Transfira 50  mL de cada  amostra 
+para o béquer, e transfira a amostra de solo para o funil e, em seguida, despeje 100 mL 
+de água.  Observe o volume de água escoado na proveta até que pare de sair água pelo 
+funil. Realize o procedimento com as duas amostras.  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Calcule a capacidade de campo de cada solo utilizando a fórmula abaixo: 
+퐶푐 (%)= 
+á푔푢푎 푟푒푡푖푑푎 푛표 푠표푙표 (푚퐿) 푥 100
+푣표푙푢푚푒 푑표 푠표푙표 (푚퐿).
+ 
+ 
+ 
+ 
+2. Monte um gráfico de escoamento (água x tempo) 
+ 
+ 
+ 
+3. Qual solo tem a maior capacidade de campo e qual tem a menor? Justifique 
+sua resposta. 
+ 
+ 
+ 
+  
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e as luvas. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Visualize a bancada e vidrarias clicando com o botão esquerdo do mouse na câmera com 
+o nome “Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Mova as duas amostras de solo para a estufa para realizar secagem do material clicando 
+em  cada béquer com o botão  direito  do  mouse para  “selecionar”, em seguida, com o 
+botão esquerdo do mouse clique em “mover para estufa”. 
+ 
+ 
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Ligue a estufa clicando no interruptor com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Após  o  tempo,  desligue a  estufa  clicando  com  o  botão  esquerdo  do  mouse  no 
+interruptor. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Abra a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+ 
+Mova o béquer com as amostras para a mesa clicando no béquer com o botão direito 
+do  mouse para  “selecionar”, em seguida, com o botão  esquerdo do  mouse clique em 
+“mover para bancada”. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Feche a estufa clicando com o botão esquerdo do mouse sobre a porta da estufa. 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+3. ANALISANDO A AMOSTRA 
+ 
+Adicione  um  chumaço  de  algodão  na  base  do  funil clicando  no  algodão  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Coloque a amostra de solo argiloso (béquer 1) clicando no béquer com o botão direito 
+do mouse, em seguida, clique com o botão esquerdo do mouse em “Despejar no béquer 
+3”. 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Transfira  50  mL  da amostra  para  o  béquer clicando  no  béquer  de  50mL  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Coloque  a  amostra  de  areia  (béquer  2)  clicando  no  béquer  com  o botão  direito  do 
+mouse, em seguida, clique com o botão esquerdo do mouse em “Despejar no béquer 
+3”. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Transfira  50  mL  da amostra  para  o  béquer clicando  no  béquer  de  50mL  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+Transfira a amostra do béquer 1 (amostra de argila) para a proveta clicando no béquer 
+com o botão direito do mouse, em seguida, clique com o botão esquerdo do mouse em 
+“Despejar na proveta 1”. 
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Visualize a bancada e vidrarias clicando com o botão esquerdo do mouse na câmera com 
+o nome “Visão geral” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Transfira a amostra do béquer 2 (amostra de areia) para a proveta clicando no béquer 
+com o botão direito do mouse, em seguida, clique com o botão esquerdo do mouse em 
+“Despejar na proveta 2”.  
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Transfira a amostra do béquer 3 (amostra de argila e areia) para a proveta clicando no 
+béquer  com  o  botão  direito  do  mouse,  em  seguida,  clique  com  o  botão  esquerdo  do 
+mouse em “Despejar na proveta 3”. 
+ 
+ 
+ 
+Despeje água destilada na proveta de 100 mL clicando na proveta de 500mL com o botão 
+direito  do  mouse,  em  seguida,  com  o  botão  esquerdo  do  mouse  clique  na  proveta  a 
+despejar água. 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+Acelere o cronômetro pressionando o cursor com o botão esquerdo do mouse, repita a 
+operação para a proveta 2 e 3, ao término da filtração. 
+ 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANATOMOFISIOLOGIA VEGETATIVA BÁSICA 
+OBSERVAÇÃO DO MOVIMENTO DE ÁGUA EM DIFERENTES TIPOS DE SOLO 
+  
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado nos experimentos. 
+ 
+IL1_TAC2_MD1 

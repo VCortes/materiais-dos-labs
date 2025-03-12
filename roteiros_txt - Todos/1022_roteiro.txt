@@ -1,0 +1,962 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento, você  irá  aprender o  processo  de  formulação  de uma 
+nanoemulsão cosmética. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver   em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agitador mecânico; 
+• Água purificada; 
+• Aquecedor magnético; 
+• Béquer (100 mL); 
+• Béquer (50 mL); 
+• Cubeta; 
+• Monoestearato de sorbitano; 
+• Monoleato de polioxietilenosorbitano; 
+• Pano de limpeza; 
+• Pipeta graduada (1 mL); 
+• Pipeta Pasteur; 
+• Polymol; 
+• Proveta (100 mL); 
+• Proveta (5 mL); 
+• Termômetro; 
+• Vitamina E; 
+• Zetasize nano sz. 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na “Pia” e coloque o equipamento de proteção individual localizado no 
+“Armário de EPIs”. 
+ 
+2. PREPARANDO A FASE AQUOSA E OLEOSA 
+ 
+Abra os frascos contendo Span 80, Tween 80, Polymol e Vitamina E.  Colete 2,5 mL de 
+Span 80 na proveta de 5 mL e adicione ao béquer de 100 mL.  Colete 2,5 mL de Tween 
+80 em uma nova proveta de 5 mL e adicione ao mesmo béquer de 100 mL.  Utilizando 
+uma  proveta  de  10  mL,  colete  10  mL  de  Polymol  e  adicione  ao  béquer  de  100 mL.  
+Transfira a vitamina E para o béquer de 50 mL.  Com a pipeta graduada de 1 mL, colete 
+1 mL de vitamina E do béquer de 50 mL e adicione ao béquer de 100 mL.  Abra o frasco 
+contendo  água  purificada  e  colete,  na  proveta  de  100  mL,  85  mL.   Transfira  a  água 
+purificada da proveta para um novo béquer de 100 mL. 
+3. MANIPULANDO A EMULSÃO 
+ 
+Leve os dois béqueres de 100 mL para os seus respectivos aquecedores magnéticos e 
+coloque  um  termômetro  em  cada.  Ligue  os  aquecedores  e  aguarde  3  minutos  até 
+atingir  a  temperatura  de  75  °C.  Posicione  o  agitador  mecânico  e  ligue  o  aparelho.  
+Ainda em aquecimento, use a pipeta Pasteur para transferir a fase oleosa para a fase 
+aquosa gotejando.  Repita o procedimento de transferência da fase oleosa 5 vezes até 
+que todo o conteúdo do béquer seja transferido.  Desligue o aquecedor da fase oleosa.  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+  
+Mantenha  a  agitação  em  aquecimento  durante 5  minutos. Desligue  o  aquecedor  e 
+mantenha a agitação por mais 5 minutos. 
+ 
+4. ANALISANDO O TAMANHO DAS PARTÍCULAS 
+ 
+Desligue o agitador mecânico e eleve o equipamento. Com uma nova pipeta Pasteur, 
+colete uma quantidade da emulsão no béquer e transfira para a cubeta. Limpe a parte 
+externa da cubeta com o pano de limpeza.  Ligue o computador e o aparelho ZetaSizer 
+Nano zs.  Abra tampa do ZetaSizer Nano zs. Insira a cubeta no local indicado e feche a 
+tampa.  Pressione  o  botão  na  frente  da  tampa  para  iniciar  a  análise.  Observe  o 
+resultado clicando o ícone na tela do computador. 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento associando, também, 
+com os conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são os agentes emulsionantes utilizados na formulação de uma nanoemulsão? 
+ 
+ 
+ 
+2. Cite três características específicas das nanoemulsões?  
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+localizada  dentro  do  painel  de  visualização  no  canto  superior  esquerdo  da  tela.  Se 
+preferir, também pode ser utilizado o atalho do teclado “Alt+1”. 
+ 
+  
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Lave as mãos clicando com o botão esquerdo do mouse sobre a torneira. 
+ 
+ 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco branco, luvas de 
+procedimento, máscara e óculos. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+  
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+3”. 
+ 
+  
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+2. PREPARANDO A FASE AQUOSA E OLEOSA 
+ 
+Abra os frascos contendo Span 80, Tween 80, Polymol e Vitamina E clicando com o botão 
+direito do mouse sobre os frascos e selecione a opção “Tampar/Destampar”. 
+ 
+ 
+ 
+Mova o frasco de Span 80 para proveta de 5mL clicando com o botão direito do mouse 
+sobre o frasco e selecione a opção “Mover para proveta”. 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Preencha até a marca de 2,5 mL de Span na proveta clicando com o botão esquerdo do 
+mouse sobre o frasco. 
+ 
+ 
+ 
+Mova o frasco para bancada clicando com o botão direito do mouse e selecione a opção 
+“Mover para bancada”. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Mova o conteúdo da proveta para o béquer de 100 ml na bancada clicando com o botão 
+direito do mouse e selecione a opção “Mover para béquer”. 
+ 
+ 
+ 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Limpe a proveta clicando com o botão direito do mouse e selecione a opção “Limpar”. 
+ 
+ 
+ 
+Mova  a  proveta  para  bancada  clicando  com  o  botão  direito  do  mouse  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Mova o frasco contendo Tween 80 para proveta de 5 mL clicando com o botão direito 
+do mouse sobre o frasco e selecione a opção “Mover para proveta”. 
+ 
+ 
+ 
+Despeje 2,5 mL de Tween 80 na proveta clicando com o botão esquerdo do mouse sobre 
+o frasco. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Mova o frasco para bancada clicando com o botão direito do mouse e selecione a opção 
+“Mover para bancada”. 
+ 
+  
+ 
+Mova o conteúdo da proveta para o béquer de 100 ml na bancada clicando com o botão 
+direito do mouse e selecione a opção “Mover para béquer”. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Despeje o conteúdo clicando com o botão esquerdo do mouse sobre a proveta. 
+ 
+ 
+ 
+Mova  a  proveta  para  bancada  clicando  com  o  botão  direito  do  mouse  e  selecione  a 
+opção “Mover para bancada”. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Mova o frasco contendo Polymol para proveta de 10 mL clicando com o botão direito 
+do mouse sobre o frasco e selecione a opção “Mover para proveta”. 
+ 
+  
+ 
+Preencha a proveta até a marca de 10 mL de Polymol clicando com o botão esquerdo do 
+mouse sobre o frasco. 
+ 
+  
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Retorne o frasco para bancada clicando com o botão direito do mouse sobre o frasco e 
+selecione a opção “Mover para bancada”. 
+ 
+  
+ 
+Mova  a  proveta  de  10  mL  para  o  béquer  de 100  mL clicando  com o  botão  direito  do 
+mouse sobre a proveta e selecione a opção “Mover para béquer”. 
+ 
+  
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Transfira a vitamina E para o béquer de 50 mL clicando com o botão direito do mouse 
+sobre o frasco e selecione a opção “Mover para béquer”. 
+ 
+  
+ 
+Despeje a vitamina E para o béquer clicando com o botão esquerdo do mouse. 
+ 
+  
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Com a pipeta graduada de 1 mL, colete 1 mL de vitamina E do béquer de 50 mL clicando 
+com o botão direito do mouse sobre a pipeta e selecione a opção “Béquer 50 mL”. 
+ 
+  
+ 
+Aspire  o  conteúdo  do  béquer  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+compartimento “E” da pipeta. 
+ 
+  
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Despeja o conteúdo aspirado para o béquer de 100 mL clicando com o botão esquerdo 
+do mouse sobre o compartimento “E” da pera. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  suporte  clicando  com  o botão direito  doo  mouse  e  selecione  a 
+opção “Suporte”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Mova a água purificada para proveta de 100 mL clicando com o botão direito do mouse 
+sobre frasco e selecione a opção “Mover para proveta”. 
+ 
+ 
+ 
+Preencha a proveta até a marca de 85 mL clicando com o botão esquerdo no frasco. 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Transfira a água purificada da proveta para um novo béquer de 100 mL clicando com o 
+botão direito do mouse e selecione a opção “Mover para béquer”. 
+ 
+  
+ 
+Despeje a água purificada para o béquer 1 de 100 mL clicando com o botão esquerdo do 
+mouse sobre a proveta. 
+ 
+  
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+3. MANIPULANDO A EMULSÃO  
+ 
+Leve o béquer 2 de 100 mL para o seu respectivo aquecedor magnético clicando com o 
+botão esquerdo do mouse sobre o béquer. 
+ 
+ 
+ 
+Leve o béquer 1 de 100 mL para o seu respectivo aquecedor magnético clicando com o 
+botão esquerdo do mouse sobre o béquer. 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Visualize os aquecedores clicando com o botão esquerdo do mouse na câmera com o 
+nome  “Aquecedores”  localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+  
+ 
+Coloque um termômetro no béquer 1 clicando com o botão direito do mouse e selecione 
+a opção “Béquer 1” sobre o termômetro. 
+ 
+  
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Coloque um termômetro no béquer 2 clicando com o botão direito do mouse e selecione 
+a opção “Béquer 2” sobre o termômetro. 
+ 
+  
+ 
+Ligue  os  aquecedores clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão  de 
+“Ligar/desligar”. 
+ 
+  
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Aguarde 3 minutos até atingir a temperatura de 75 °C, se preferir, clique com o botão 
+esquerdo do mouse em “Avançar” para acelerar o tempo de aquecimento. 
+ 
+ 
+ 
+Posicione o agitador mecânico no béquer 1 clicando com o botão direito do mouse. 
+ 
+ 
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Ligue o agitador magnético clicando com o botão esquerdo do mouse. 
+ 
+  
+ 
+Ainda em  aquecimento, use  a  pipeta  Pasteur  para  transferir a  fase  oleosa  para  a fase 
+aquosa clicando  com  o  botão  direito  do  mouse sobre  a  pipeta  e  selecione  a  opção 
+“Mover para béquer 2”. 
+ 
+ 
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Pipete a fase oleosa com o botão esquerdo do mouse sobre a pipeta Pasteur. 
+ 
+  
+ 
+Mova o conteúdo pipetado para o béquer 1 clicando com o botão esquerdo do mouse. 
+ 
+  
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Repita o procedimento de transferência da fase oleosa 5 vezes até que todo o conteúdo 
+do béquer seja transferido para o béquer 1. 
+ 
+  
+ 
+Desligue  os aquecedores clicando  com  o  botão  esquerdo  do  mouse sobre  o  botão 
+“Ligar/desligar”, mantendo a agitação em aquecimento durante 5 minutos. 
+ 
+  
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+4. ANALISANDO O TAMANHO DAS PARTÍCULAS  
+ 
+Desligue o agitador mecânico clicando com o botão esquerdo do mouse. 
+ 
+  
+ 
+Eleve o equipamento clicando com o botão direito do mouse sobre o agitador mecânico. 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Limpe  a pipeta  Pasteur clicando  com  o  botão  direito  do  mouse  e  selecione  a  opção 
+“Limpar pipeta”. 
+ 
+ 
+ 
+Mova a pipeta Pasteur para o béquer 1 clicando com o botão direito do mouse sobre a 
+pipeta e selecione a opção “Mover para béquer 1”. 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Colete  uma  quantidade  da emulsão  no  béquer 1 clicando  com  o  botão esquerdo  do 
+mouse sobre a pipeta. 
+ 
+ 
+ 
+Destampe a cubeta clicando com o botão esquerdo do mouse sobre a cubeta. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Transfira  para  a  cubeta o  conteúdo  pipetado clicando  com  o  botão  direito  do  mouse 
+sobre a pipeta e selecione a opção “Mover para cubeta”. 
+ 
+ 
+ 
+Pipete  o  conteúdo  pipetado  para  cubeta clicando  com  o  botão esquerdo do  mouse 
+sobre a pipeta. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Tampe a cubeta clicando com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Abra a tampada do aparelho ZetaSizer Nano zs clicando com o botão esquerdo do mouse 
+sobre a tampa do equipamento. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Limpe a parte externa da cubeta com o pano de limpeza clicando com o botão direito 
+do mouse sobre a cubeta indicada e selecione a opção “Limpar superfície”. 
+ 
+ 
+ 
+Coloque a cubeta no equipamento ZetaSizer Nano ZS clicando com o botão direito do 
+mouse na cubeta e selecione a opção “Adicionar ao ZetaSizer Nano ZS”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Feche o equipamento clicando com o botão esquerdo do mouse sobre a tampa. 
+ 
+ 
+ 
+Ligue   o computador clicando   com   o   botão esquerdo   do   mouse   sobre   o botão 
+“Ligar/desligar”. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Ligue o aparelho ZetaSizer Nano zs clicando com o botão esquerdo do mouse sobre o 
+botão indicado. 
+ 
+ 
+ 
+Inicie a análise clicando com o botão esquerdo do mouse sobre o ícone no notebook. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+Observe o gráfico com os resultados na tela do notebook clicando com o botão esquerdo 
+do mouse na câmera com o nome “notebook” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215 Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE COSMETOLOGIA 
+FORMULANDO UMA NANOEMULSÃO COSMÉTICA 
+ 
+5. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

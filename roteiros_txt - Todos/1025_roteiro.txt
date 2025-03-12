@@ -1,0 +1,3609 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprender os  conceitos  e  as  etapas  da  geração  de 
+energia elétrica utilizando a energia presente no vento. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Aerogerador; 
+• Bateria estacionária; 
+• Botão de emergência; 
+• Carga CA; 
+• Carga teste do aerogerador; 
+• Carga teste do painel solar; 
+• Cargas CC; 
+• Chave seletora (aerogerador); 
+• Chave seletora (liga); 
+• Chave seletora (painel solar); 
+• Controlador de carga; 
+• Disjuntor bifásico; 
+• Dispositivo DR; 
+• Interface homem-máquina (IHM); 
+• Inversor de frequência e de tensão; 
+• Motor de indução trifásico; 
+• Painel solar; 
+• Potenciômetro; 
+• Ventilador; 
+• Voltímetro amperímetro (alicate); 
+• Wattímetro CA; 
+• Wattímetro CC. 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+PROCEDIMENTOS 
+ 
+EXPERIMENTO 5: CURVA DO AEROGERADOR À VAZIO 
+ 
+1. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+2. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida,  rotacione  o  potenciômetro  do  inversor  de  frequência  completamente  no 
+sentido anti-horário e posicione a chave seletora de saída do aerogerador na posição 
+0. 
+ 
+3. ENERGIZANDO A BANCADA 
+ 
+Energize  a  bancada  ligando  os  sistemas  de  proteção, disjuntor  do dispositivo  DR, 
+disjuntor  de  proteção  da  rede  e  disjuntores  de  manobra. Acione  a  chave  seletora 
+(Liga) do conversor de frequência. 
+ 
+4. MEDINDO A TENSÃO 
+ 
+Realize a medição da tensão conectando o multímetro entre duas fases de saída do 
+aerogerador (L1, L2 e L3). 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+5. VARIANDO A FREQUÊNCIA 
+ 
+Varie  a  frequência  da  tensão fornecida  ao  motor  utilizando  o  potenciômetro  do 
+conversor. 
+ 
+6. DESENERGIZANDO A BANCADA 
+ 
+Remova  todos os  cabos  e  desligue  os  disjuntores do  dispositivo  DR,  disjuntor  de 
+proteção da rede e disjuntores de manobra. 
+ 
+EXPERIMENTO 6: CURVA DO AEROGERADOR COM CARGA 
+ 
+7. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+8. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida,  rotacione  o  potenciômetro  do  inversor  de  frequência  completamente  no 
+sentido anti-horário e posicione a chave seletora de saída do aerogerador na posição 
+2. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+9. ENERGIZANDO A BANCADA 
+ 
+Energize  a  bancada  ligando  os  sistemas  de  proteção,  disjuntor  do  dispositivo  DR, 
+disjuntor  de  proteção  da  rede  e  disjuntores  de  manobra.  Acione  a  chave  seletora 
+(Liga) do conversor de frequência. 
+ 
+10. MEDINDO A TENSÃO 
+ 
+Realize a medição da tensão conectando o multímetro entre duas fases de saída do 
+aerogerador (L1, L2 e L3). 
+ 
+11. MEDINDO A CORRENTE 
+ 
+Realize a medição da corrente de linha nos cabos que conduzem a corrente do gerador 
+para  o  painel  frontal  da  bancada  conectando  o  multímetro  na  função  de  medir 
+corrente. 
+ 
+12. VARIANDO A FREQUÊNCIA 
+ 
+Varie  a  frequência  da  tensão  fornecida  ao  motor  utilizando  o  potenciômetro  do 
+conversor. 
+ 
+13. DESENERGIZANDO A BANCADA 
+ 
+Remova  todos  os  cabos  e  desligue  os  disjuntores  do  dispositivo  DR, disjuntor  de 
+proteção da rede e disjuntores de manobra. 
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+EXPERIMENTO 7: RESISTÊNCIA INTERNA DA BATERIA 
+ 
+14. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+15. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida, posicione a chave seletora de saída do aerogerador na posição 1. 
+ 
+16. ENERGIZANDO A BANCADA 
+ 
+Energize  a  bancada  ligando  os  sistemas  de  proteção,  disjuntor  do  dispositivo  DR, 
+disjuntor  de  proteção  da  rede  e  disjuntores  de  manobra.  Acione  a  chave  seletora 
+(Liga) do conversor de frequência. Observe os valores indicados no wattímetro CC. 
+ 
+17. ACIONANDO AS LÂMPADAS NAS CARGAS CC 
+ 
+Acione a chave seletora referente as lâmpadas nas cargas CC fazendo com que uma 
+carga  comece  a  ser  alimentada  pela  bateria.  Observe  os valores  indicados  no 
+wattímetro CC. 
+ 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+18. DESENERGIZANDO A BANCADA 
+ 
+Remova  todos  os  cabos  e  desligue  os  disjuntores  do  dispositivo  DR,  disjuntor  de 
+proteção da rede e disjuntores de manobra. 
+ 
+EXPERIMENTO 8: CURVA DO AEROGERADOR COM CARGAS CC 
+ 
+19. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+20. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida,  rotacione  o  potenciômetro  do  inversor  de  frequência  completamente  no 
+sentido anti-horário, posicione a chave seletora de saída do aerogerador na posição 1 
+e acione a chave seletora referente ao cooler nas cargas CC. 
+ 
+21. ENERGIZANDO A BANCADA 
+ 
+Energize a  bancada  ligando  os  sistemas  de  proteção,  disjuntor  do  dispositivo  DR, 
+disjuntor  de  proteção  da  rede  e  disjuntores  de  manobra.  Acione  a  chave  seletora 
+(Liga) do conversor de frequência. 
+ 
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+22. MEDINDO A TENSÃO 
+ 
+Realize a medição da tensão conectando o multímetro entre duas fases de saída do 
+aerogerador (L1, L2 e L3). 
+ 
+23. MEDINDO A CORRENTE 
+ 
+Realize a medição da corrente de linha nos cabos que conduzem a corrente do gerador 
+para  o  painel  frontal  da  bancada  conectando  o  multímetro  na função  de  medir 
+corrente. 
+ 
+24. VARIANDO A FREQUÊNCIA 
+ 
+Varie  a  frequência  da  tensão  fornecida  ao  motor  utilizando  o  potenciômetro  do 
+conversor. 
+ 
+25. ALTERANDO O CIRCUITO 
+ 
+Desligue o cooler e acione as lâmpadas CC. Em seguida, acione novamente o cooler, 
+mantendo as lâmpadas CC ligadas. 
+ 
+26. DESENERGIZANDO A BANCADA 
+ 
+Desligue as lâmpadas CC e o cooler. Remova todos os cabos e desligue os disjuntores 
+do dispositivo DR, disjuntor de proteção da rede e disjuntores de manobra. 
+ 
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+EXPERIMENTO 9: CURVA DO AEROGERADOR COM CARGAS CA 
+ 
+27. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+28. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida,  rotacione  o  potenciômetro  do  inversor  de  frequência  completamente  no 
+sentido anti-horário, posicione a chave seletora de saída do aerogerador na posição 
+1,  ligue  o  inversor  de  tensão e  acione  a  chave  seletora  referente  ao  ventilador  nas 
+cargas CA. 
+ 
+29. ENERGIZANDO A BANCADA 
+ 
+Energize  a  bancada  ligando  os  sistemas  de  proteção,  dispositivo  DR,  disjuntor  de 
+proteção  da  rede  e  disjuntores  de  manobra.  Acione  a  chave  seletora  (Liga)  do 
+conversor de frequência. 
+ 
+30. MEDINDO A TENSÃO 
+ 
+Realize a medição da tensão conectando o multímetro entre duas fases de saída do 
+aerogerador (L1, L2 e L3). 
+ 
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+31. MEDINDO A CORRENTE 
+ 
+Realize a medição da corrente de linha nos cabos que conduzem a corrente do gerador 
+para  o  painel  frontal  da  bancada conectando  o  multímetro  na  função  de  medir 
+corrente. 
+ 
+32. VARIANDO A FREQUÊNCIA 
+ 
+Varie  a  frequência  da  tensão  fornecida  ao  motor  utilizando  o  potenciômetro  do 
+conversor. Observe os valores indicados no wattímetro CA.  
+ 
+33. ALTERANDO O CIRCUITO 
+ 
+Desligue  o ventilador  e  acione  as  lâmpadas  CA.  Observe  novamente  os  valores 
+indicados no wattímetro CA. Acione o ventilador junto com as lâmpadas CA e repita o 
+mesmo procedimento. 
+ 
+34. DESENERGIZANDO A BANCADA 
+ 
+Desligue  o  ventilador  e  as  lâmpadas  CA. Remova  todos  os  cabos  e  desligue  os 
+disjuntores do dispositivo DR, disjuntor do inversor de tensão, disjuntor de proteção 
+da rede e disjuntores de manobra.  
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+EXPERIMENTO 10: CURVA DO AEROGERADOR COM CARGAS 
+MISTAS 
+ 
+35. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os esquemáticos do  circuito  a  serem implementados para  obter  mais 
+informações sobre o funcionamento. 
+ 
+36. MONTANDO O CIRCUITO 
+ 
+Conecte os bornes U, V e W da saída do inversor com os bornes U1, V1 e W1 do motor 
+de indução trifásico, os bornes L1, L2 e L3 da saída do aerogerador com os bornes U1, 
+V1 e W1 do gerador eólico trifásico, e os bornes da terra nos seus devidos lugares. Em 
+seguida,  rotacione  o  potenciômetro  do  inversor  de  frequência  completamente  no 
+sentido anti-horário, posicione a chave seletora de saída do aerogerador na posição 
+1, ligue o inversor de tensão e acione todas as chaves seletoras referentes as cargas 
+CC e CA. 
+ 
+37. ENERGIZANDO A BANCADA 
+ 
+Energize  a  bancada  ligando  os  sistemas  de  proteção,  dispositivo  DR,  disjuntor  de 
+proteção  da  rede  e disjuntores  de  manobra.  Acione  a  chave  seletora  (Liga)  do 
+conversor de frequência. 
+ 
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+  
+38. MEDINDO A TENSÃO 
+ 
+Realize a medição da tensão conectando o multímetro entre duas fases de saída do 
+aerogerador (L1, L2 e L3). 
+ 
+39. MEDINDO A CORRENTE 
+ 
+Realize a medição da corrente de linha nos cabos que conduzem a corrente do gerador 
+para  o  painel  frontal  da  bancada  conectando  o  multímetro  na  função  de  medir 
+corrente. 
+ 
+40. VARIANDO A FREQUÊNCIA 
+ 
+Varie  a  frequência  da  tensão  fornecida  ao  motor  utilizando  o potenciômetro  do 
+conversor. Observe os valores indicados no wattímetro CA e CC.  
+ 
+41. DESENERGIZANDO A BANCADA 
+ 
+Desligue  todas  as  chaves  seletoras  referentes  as  cargas  CC  e  CA. Remova  todos  os 
+cabos  e  desligue  os  disjuntores  do  dispositivo  DR, disjuntor  do  inversor  de  tensão, 
+disjuntor de proteção da rede e disjuntores de manobra.  
+ 
+42.  AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 16 deste roteiro, e 
+responda de acordo com o que foi observado nos experimentos, associando também 
+com os conhecimentos aprendidos sobre o tema.  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Detalhe a função do inversor de tensão nos circuitos. 
+ 
+ 
+ 
+2. Explique as diferenças observadas nos resultados dos diferentes experimentos. 
+Estão dentro do que se espera na teoria? 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+EXPERIMENTO 5: CURVA DO AEROGERADOR À VAZIO 
+ 
+ 
+1. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+2. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize o painel frontal  clicando  com  o botão esquerdo do  mouse na  câmera  com o 
+nome “Painel  frontal” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne U  da  saída  do  inversor  ao  borne U1 do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  para  os  bornes  V,  W  e  terra conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre e selecione a opção “Abrir/fechar popup”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Rotacione  o  potenciômetro  completamente  no  sentido  anti-horário  clicando  com  o 
+botão esquerdo do mouse sobre o botão e movendo-o para a esquerda. 
+ 
+ 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 0 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 0”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+3. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o popup do inversor de frequência clicando com o botão direito do mouse sobre e 
+selecione a opção “Abrir popup”. 
+ 
+ 
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+4. MEDINDO A TENSÃO 
+ 
+Conecte  o  multímetro  clicando  com o botão direito do  mouse  sobre  ele e  selecione a 
+opção “Medir tensão”. 
+ 
+  
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+5. VARIANDO A FREQUÊNCIA 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Abrir/fechar popup”. 
+ 
+  
+ 
+Varie a frequência clicando com o botão esquerdo do mouse sobre o botão e mova-o 
+para a direita. 
+ 
+ 
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+6. DESENERGIZANDO DA BANCADA 
+ 
+Desligue o multímetro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Desligar”. 
+ 
+ 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+ 
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue  o  disjuntor  de  proteção  da  rede  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+EXPERIMENTO 6: CURVA DO AEROGERADOR COM CARGA 
+ 
+7. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+8. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize  o painel frontal clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  U  da  saída  do  inversor  ao  borne  U1  do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  para  os  bornes  V,  W  e  terra  conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre e selecione a opção “Abrir/fechar popup”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Rotacione  o  potenciômetro  completamente  no  sentido  anti-horário  clicando  com  o 
+botão esquerdo do mouse sobre o botão e movendo-o para a esquerda. 
+ 
+ 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 2 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 2”. 
+ 
+  
+ 
+  
+
+ 
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+9. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o popup do inversor de frequência clicando com o botão direito do mouse sobre e 
+selecione a opção “Abrir popup”. 
+ 
+ 
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+ 
+  
+
+ 
+ 
+55 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+56 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+10. MEDINDO A TENSÃO 
+ 
+Conecte  o  multímetro  clicando  com o botão direito do  mouse  sobre  ele e  selecione a 
+opção “Medir tensão”. 
+ 
+  
+ 
+  
+
+ 
+ 
+57 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+11. MEDINDO A CORRENTE 
+ 
+Meça a corrente clicando com o botão direito do mouse sobre o multímetro e selecione 
+a opção “Medir corrente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+58 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+12. VARIANDO A FREQUÊNCIA 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Abrir/fechar popup”. 
+ 
+  
+ 
+Varie a frequência clicando com o botão esquerdo do mouse sobre o botão e mova-o 
+para a direita. 
+ 
+ 
+
+ 
+ 
+59 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+13. DESENERGIZANDO DA BANCADA 
+ 
+Desligue o multímetro clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Desligar”. 
+ 
+ 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+ 
+
+ 
+ 
+60 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue  o  disjuntor  de  proteção  da  rede  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+61 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+62 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+63 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+64 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+EXPERIMENTO 7: RESISTÊNCIA INTERNA DA BATERIA 
+ 
+14. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+  
+
+ 
+ 
+65 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+66 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+15. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+67 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+68 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  U  da  saída  do  inversor  ao  borne  U1  do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  para  os  bornes  V,  W  e  terra conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+69 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+70 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+71 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 0 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 0”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+72 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+16. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+73 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+74 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+75 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+76 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o popup do inversor de frequência clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Abrir popup”. 
+ 
+ 
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+ 
+  
+
+ 
+ 
+77 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Observe os valores indicados no wattímetro CC clicando com o botão direito do mouse 
+sobre ele e selecione a opção “Abrir popup”. 
+ 
+ 
+  
+
+ 
+ 
+78 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+17. ACIONANDO AS LÂMPADAS NAS CARGAS CC 
+ 
+Acione a chave seletora das lâmpadas nas cargas CC clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+79 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+18. DESENERGIZANDO DA BANCADA 
+ 
+Desligue a chave seletora das lâmpadas nas cargas CC clicando com o botão esquerdo 
+do mouse sobre o local indicado. 
+ 
+ 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+ 
+
+ 
+ 
+80 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue  o  disjuntor  de  proteção  da  rede  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+81 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize  os  disjuntores  de manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+82 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+83 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+84 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+EXPERIMENTO 8: CURVA DO AEROGERADOR COM CARGAS CC 
+ 
+19. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+  
+
+ 
+ 
+85 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+86 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+20. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+87 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+88 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  U  da  saída  do  inversor  ao  borne  U1  do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os procedimentos  anteriores  para  os  bornes  V,  W  e  terra  conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+89 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+90 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+91 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre e selecione a opção “Abrir/fechar popup”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+92 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Rotacione  o  potenciômetro  completamente  no  sentido  anti-horário  clicando  com  o 
+botão esquerdo do mouse sobre o botão e movendo-o para a esquerda. 
+ 
+ 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+93 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 1 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 1”. 
+ 
+  
+ 
+Acione  a  chave  seletora  do  cooler  nas  cargas  CC  clicando  com  o  botão  esquerdo  do 
+mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+94 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+21. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+95 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+96 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+97 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+98 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o pop-up do inversor de frequência clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Abrir pop-up”. 
+ 
+ 
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+ 
+  
+
+ 
+ 
+99 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o pop-up clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+100 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+22. MEDINDO A TENSÃO 
+ 
+Meça a tensão entre duas fases do aerogerador clicando com o botão direito do mouse 
+sobre o multímetro e selecionando a opção “Medir tensão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+101 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+23. MEDINDO A CORRENTE 
+ 
+Meça  a corrente de  linha  dos  cabos do  aerogerador  clicando  com  o  botão  direito  do 
+sobre o multímetro e selecionando a opção “Medir corrente”.  
+ 
+ 
+ 
+  
+
+ 
+ 
+102 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+24. VARIANDO A FREQUÊNCIA 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Abrir/fechar popup”. 
+ 
+  
+ 
+Varie a frequência clicando com o botão esquerdo do mouse sobre o botão e mova-o 
+para a direita. 
+ 
+ 
+
+ 
+ 
+103 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+25. ALTERANDO O CIRCUITO 
+ 
+Desligue  o  cooler  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  chave  seletora 
+indicada. 
+ 
+ 
+ 
+Acione as lâmpadas CC clicando com o botão esquerdo do mouse sobre a chave seletora 
+indicada. 
+ 
+ 
+
+ 
+ 
+104 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione  novamente  o  cooler  clicando  com  o  botão  esquerdo  do  mouse  sobre  a  chave 
+seletora indicada. 
+ 
+ 
+  
+
+ 
+ 
+105 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+26. DESENERGIZANDO A BANCADA 
+ 
+Desligue  as lâmpadas  e  o  cooler  clicando  com  o  botão  esquerdo  do  mouse  sobre  as 
+chaves seletoras indicadas. 
+ 
+ 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+  
+
+ 
+ 
+106 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue  o  disjuntor  de  proteção  da  rede clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+107 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+108 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+109 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+110 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+EXPERIMENTO 9: CURVA DO AEROGERADOR COM CARGAS CA  
+ 
+27. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+  
+
+ 
+ 
+111 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+112 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+28. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+113 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+114 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  U  da  saída  do  inversor  ao  borne  U1  do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  para  os  bornes  V,  W  e  terra  conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+115 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+116 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+117 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre e selecione a opção “Abrir/fechar popup”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+118 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Rotacione  o  potenciômetro  completamente  no  sentido  anti-horário  clicando  com o 
+botão esquerdo do mouse sobre o botão e movendo-o para a esquerda. 
+ 
+ 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+119 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 1 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 1”. 
+ 
+  
+ 
+Ligue o inversor de tensão clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+120 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do ventilador nas cargas CA clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+121 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+29. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+122 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+123 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+124 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+ 
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+ 
+ 
+125 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o popup do inversor de frequência clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Abrir popup”. 
+ 
+ 
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+ 
+  
+
+ 
+ 
+126 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+127 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+30. MEDINDO A TENSÃO 
+ 
+Meça a tensão entre duas fases do aerogerador clicando com o botão direito do mouse 
+sobre o multímetro e selecione a opção “Medir tensão”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+128 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+31. MEDINDO A CORRENTE 
+ 
+Meça  a corrente de linha  dos  cabos do  aerogerador  clicando  com  o  botão  direito  do 
+mouse sobre o multímetro e selecione a opção “Medir corrente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+129 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+32. VARIANDO A FREQUÊNCIA 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Abrir/fechar popup”. 
+ 
+  
+ 
+Varie a frequência clicando com o botão esquerdo do mouse sobre o botão e mova-o 
+para a direita. 
+ 
+ 
+
+ 
+ 
+130 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+33. ALTERANDO O CIRCUITO 
+ 
+Desligue o ventilador clicando com o botão esquerdo do mouse sobre a chave seletora. 
+ 
+ 
+ 
+Acione as lâmpadas CA clicando com o botão esquerdo do mouse sobre a chave seletora 
+indicada. 
+ 
+ 
+  
+
+ 
+ 
+131 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione novamente o  ventilador clicando  com  o  botão  esquerdo  do  mouse  na  chave 
+seletora indicada. 
+ 
+ 
+  
+
+ 
+ 
+132 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+34. DESENERGIZANDO A BANCADA 
+ 
+Desligue o ventilador e as lâmpadas CA clicando com o botão esquerdo do mouse sobre 
+as chaves seletoras indicadas. 
+ 
+ 
+ 
+Desligue  o  inversor  de  tensão  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado. 
+ 
+ 
+
+ 
+ 
+133 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+  
+ 
+Desligue  o  disjuntor  de  proteção  da  rede  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+134 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+135 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+136 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+137 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+EXPERIMENTO 10: CURVA DO AEROGERADOR COM CARGAS MISTAS  
+ 
+35. VISUALIZANDO OS ESQUEMÁTICOS 
+ 
+Visualize    os    esquemáticos    clicando    com    o    botão    esquerdo    do    mouse    em 
+“Esquemáticos”. 
+ 
+ 
+  
+
+ 
+ 
+138 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o segundo esquemático clicando com o botão esquerdo do mouse sobre o local 
+indicado. 
+ 
+ 
+ 
+Feche a visualização dos esquemáticos clicando com o botão esquerdo do mouse sobre 
+o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+139 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+36. MONTANDO O CIRCUITO 
+ 
+Selecione  o  visual  didático  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+clássico”. 
+ 
+ 
+ 
+Visualize  o painel frontal  clicando  com  o botão esquerdo do  mouse  na  câmera  com o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+
+ 
+ 
+140 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  borne  U  da  saída  do  inversor  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+141 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  U  da  saída  do  inversor  ao  borne  U1  do  motor  de  indução  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita  os  procedimentos  anteriores  para  os  bornes  V,  W  e  terra conectando-os  aos 
+bornes V1, W1 e terra do motor de indução trifásico. 
+ 
+ 
+  
+
+ 
+ 
+142 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione o borne L1 da saída do aerogerador clicando com o botão esquerdo do mouse 
+sobre ele. 
+ 
+ 
+ 
+Visualize  o  aerogerador  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com o 
+nome “Aerogerador” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+143 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Conecte  o  borne  L1  da  saída  do  aerogerador  ao  borne  U1  do  gerador  eólico  trifásico 
+clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores para os bornes L2 e L3 conectando-os aos bornes 
+V1 e W1 do gerador eólico trifásico. 
+ 
+ 
+  
+
+ 
+ 
+144 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Selecione  o  visual  clássico  clicando  com  o  botão  esquerdo  do  mouse  em  “Visual 
+didático”. 
+ 
+ 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre e selecione a opção “Abrir/fechar popup”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+145 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Rotacione  o  potenciômetro  completamente  no  sentido  anti-horário  clicando  com  o 
+botão esquerdo do mouse sobre o botão e movendo-o para a esquerda. 
+ 
+ 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+146 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Posicione a chave seletora da saída do aerogerador na posição 1 clicando com o botão 
+direito do mouse sobre a chave e selecionando a opção “Colocar na posição 1”. 
+ 
+  
+ 
+Ligue o inversor de tensão clicando com o botão esquerdo do mouse no local indicado. 
+ 
+ 
+  
+
+ 
+ 
+147 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione  todas  as  chaves  seletoras  referentes  as  cargas  CC  e  CA  clicando  com  o  botão 
+esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+148 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+37. ENERGIZANDO A BANCADA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Acione  o  disjuntor  do  dispositivo  DR  clicando  com  o  botão  esquerdo  do  mouse  sobre 
+ele. 
+ 
+ 
+
+ 
+ 
+149 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Acione os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+150 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Acione o disjuntor de proteção da rede clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+  
+  
+
+ 
+ 
+151 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Acione a chave seletora do conversor de frequência clicando com o botão esquerdo do 
+mouse sobre ela. 
+ 
+  
+ 
+Abra o inversor de frequência clicando com o botão direito do mouse sobre ele. 
+ 
+  
+ 
+  
+
+ 
+ 
+152 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Abra o popup do inversor de frequência clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Abrir popup”. 
+ 
+  
+ 
+Ligue o inversor de frequência clicando com o botão esquerdo do mouse sobre o botão 
+“RUN”. 
+ 
+  
+  
+
+ 
+ 
+153 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Feche o popup clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+  
+ 
+  
+
+ 
+ 
+154 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+38. MEDINDO A TENSÃO 
+ 
+Meça a tensão entre duas fases do aerogerador clicando com o botão direito do mouse 
+sobre o multímetro e selecione a opção “Medir tensão”. 
+ 
+ 
+  
+
+ 
+ 
+155 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+39. MEDINDO A CORRENTE 
+ 
+Meça  a corrente de  linha  dos  cabos do  aerogerador  clicando  com  o  botão  direito  do 
+mouse sobre o multímetro e selecione a opção “Medir corrente”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+156 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+40. VARIANDO A FREQUÊNCIA 
+ 
+Abra o popup do potenciômetro do inversor de frequência clicando com o botão direito 
+do mouse sobre ele e selecione a opção “Abrir/fechar popup”. 
+ 
+  
+ 
+Varie a frequência clicando com o botão esquerdo do mouse sobre o botão e mova-o 
+para a direita. 
+ 
+  
+
+ 
+ 
+157 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+41. DESENERGIZANDO A BANCADA 
+ 
+Desligue as chaves seletoras referentes as cargas CC e CA clicando com o botão esquerdo 
+do mouse sobre elas. 
+ 
+ 
+ 
+Desligue  o  inversor  de  tensão  clicando  com  o  botão  esquerdo  do  mouse  no  local 
+indicado. 
+ 
+ 
+ 
+
+ 
+ 
+158 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Desligue a chave seletora do conversor de frequência clicando com o botão esquerdo 
+do mouse sobre ela. 
+ 
+  
+ 
+Desligue  o  disjuntor  de  proteção  da  rede  clicando  com  o  botão  esquerdo  do  mouse 
+sobre ele. 
+ 
+ 
+  
+
+ 
+ 
+159 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize o dispositivo DR clicando com o botão esquerdo do mouse na câmera com o 
+nome “Dispositivo DR” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Desligue o disjuntor do dispositivo DR clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+160 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  os  disjuntores  de  manobra  clicando  com  o  botão  esquerdo  do  mouse  na 
+câmera com o nome “Disjuntores de manobra” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Desligue os disjuntores CC e CA clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+ 
+ 
+161 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+Visualize  painel  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o 
+nome “Painel frontal” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Remova os cabos clicando com o botão esquerdo do mouse em “Remover cabos”. 
+ 
+ 
+  
+
+ 
+ 
+162 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE AG-RNV 
+CURVA DO AEROGERADOR À VAZIO E COM CARGA 
+ 
+ 
+42. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 16 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 

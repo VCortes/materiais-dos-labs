@@ -1,0 +1,467 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Neste experimento você irá explorar as curvas características de leds a partir da 
+variação da tensão e corrente elétrica de circuitos montados em um protoboard. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Bateria 9V; 
+• Protoboard; 
+• Dois multímetros; 
+• Cabos para multímetros e protoboard; 
+• Potenciômetro de 100 kiloohms; 
+• Diodo emissor de luz vermelha; 
+• Resistor de 300 ohms. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. POSICIONANDO OS COMPONENTES NA PROTOBOARD 
+ 
+Posicione  no  protoboard  o  potenciômetro,  o  diodo  e  o  resistor  que  estão  na 
+maleta  conforme  o  circuito  elétrico  disponibilizado  no  laboratório  para  este 
+experimento. 
+ 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+2. VARIANDO A TENSÃO 
+ 
+Gire o potenciômetro para regular a voltagem. Anote os valores indicados nos 
+multímetros para algumas voltagens específicas e observe o comportamento do 
+led em cada caso. 
+ 
+3. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos. 
+ 
+4. FINALIZANDO O EXPERIMENTO 
+ 
+Regule o potenciômetro de volta a zero e devolva o potenciômetro, o diodo e o 
+resistor à maleta. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+Anote na tabela apresentada abaixo os valores da corrente elétrica apresentado pelo 
+multímetro ajustado para medir a corrente elétrica que passa pelo led. 
+ 
+ 
+Utilizando os dados obtidos no experimento, construa a curva característica do led 
+(tensão apresentada pelo multímetro x corrente elétrica). 
+Em seguida, responda os questionamentos a seguir: 
+  
+Medição 
+Tensão na fonte 
+(V) 
+Tensão no 
+multímetro (V) 
+Corrente elétrica 
+(A) 
+1 0   
+2 0,2   
+3 0,4   
+4 0,6   
+5 0,8   
+6 1   
+7 1,2   
+8 1,4   
+9 1,6   
+10 1,8   
+11 2   
+12 2,2   
+13 2,4   
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+1. A  partir  de  que  valor  de  corrente  elétrica  o  led acendeu?  Sua  intensidade 
+luminosa aumentou ao com o aumento da corrente elétrica? Explique. 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Qual a relação observada na curva característica do led com relação à tensão e 
+corrente elétrica? 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. POSICIONANDO OS COMPONENTES NA PROTOBOARD 
+ 
+Faz-se necessário conhecer o circuito a ser montado no protoboard para a realização 
+do experimento. Para isso, acesse a opção “Circuitos” disposta ao canto superior 
+direito da tela. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Observe o circuito a ser montado. 
+ 
+ 
+ 
+Para  visualizar  os  componentes  a  serem  utilizados  na montagem  do  circuito,  acesse a 
+opção de câmera “Maleta”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Os  componentes  podem  ser  identificados  na  caixa  de  informação  que  aparece  ao  se 
+posicionar a seta do mouse sobre ele. 
+ 
+ 
+ 
+Inicialmente, posicione o potenciômetro no protoboard. Para isso, clique com o botão 
+esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Selecione a posição de acordo com o circuito apresentado. 
+ 
+ 
+ 
+Observe que o potenciômetro se posiciona no protoboard. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Em seguida acesse novamente a opção de câmera “Maleta” e selecione o diodo emissor 
+de luz vermelha para posicioná-lo no protoboard. 
+ 
+ 
+ 
+Escolha a posição correta para o diodo. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Observe que o diodo é posicionado no protoboard. 
+ 
+ 
+ 
+Por fim, posicione o resistor de 300 Ohms no protoboard. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Escolha a posição correta para o resistor. 
+ 
+ 
+ 
+Observe que o resistor é posicionado no protoboard. 
+ 
+ 
+ 
+Agora o sistema está montado para a realização do experimento. 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+2. VARIANDO A TENSÃO 
+ 
+Observe  os  multímetros  posicionados  atrás  do  protoboard.  Utilize-os  para  observar  o 
+valor das medições. 
+ 
+ 
+ 
+O  multímetro  destacado  em  amarelo  será  utilizado  como  amperímetro  e  mostrará  o 
+valor  da  corrente  que  passa  pelo  led,  já  o  multímetro  destacado  em  vermelho,  será 
+utilizado como voltímetro e mostrará a tensão do circuito. 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+Neste circuito o potenciômetro atua como divisor de tensão e para ajustar o valor desta 
+no circuito elétrico, clique com o botão esquerdo do mouse no botão azul indicado pela 
+seta vermelha e movimente-o sobre o círculo cinza. 
+ 
+ 
+ 
+Comece aplicando uma variação de tensão de 0,2 V. Observe os valores apresentados 
+pelos multímetros e o comportamento do led (destacado em amarelo). 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE FÍSICA 
+LEDS E DIODOS 
+ 
+3. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. 
+ 
+ 
+4. FINALIZANDO O EXPERIMENTO 
+ 
+Regule o potenciômetro de volta a zero e devolva o potenciômetro, o diodo e o resistor 
+à maleta. 

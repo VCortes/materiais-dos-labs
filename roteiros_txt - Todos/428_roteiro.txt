@@ -1,0 +1,829 @@
+
+
+1 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você aprimorará  seus  conhecimentos  sobre  a  extração  e 
+quantificação  de  ácidos  nucleicos  (DNA).  Essa  técnica permite  a obtenção de 
+DNA em amostra de sangue, realizar sua quantificação e avaliar o grau de pureza. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Furador de amostra; 
+• Eppendorf; 
+• Centrífuga; 
+• Vórtex; 
+• Banho-maria; 
+• Micropipeta; 
+• Água ultra pura; 
+• Água destilada; 
+• Espectrofotômetro; 
+• Tampão TE; 
+• Chelex. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente, higienize  as  mãos  e coloque  os  equipamentos  de  proteção  individual 
+localizados no armário de EPIs. 
+ 
+
+6 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+  
+2. PREPARANDO A AMOSTRA 
+ 
+Recorte um fragmento do tecido que contém sangue e coloque dentro do eppendorf. 
+Adicione  1000 μl  do  tampão  TE, deixe  agir por 30  minutos e,  em  seguida,  leve  a 
+amostra  para  centrífuga  por  3  minutos (13000  rpm/min).  Descarte 950 μl do 
+sobrenadante e adicione 150 μl Chelex obtendo um volume final de 200 μl. Incube no 
+banho  maria  por  30  minutos  e  depois  homogeneíze  no  vórtex  por  10  segundos. 
+Retorne a amostra para incubação por mais 8 minutos e depois homogeneíze por 10 
+segundos. Centrifugue a amostra por 3 minutos (13000 rpm/min) e reserve 200 μl do 
+sobrenadante que contém o DNA que será quantificado.  
+ 
+3. DILUINDO A AMOSTRA 
+ 
+Transfira o  volume  total  para  o  eppendorf  identificado  como “Tubo  1:  amostra 
+original”. Pipete 100 μl da amostra do “Tubo 1”, despreze no segundo tubo e adicione 
+900 μl de água destilada. Adicione 1000 μl de água ultra pura no tubo padrão branco. 
+ 
+4. LEITURA DA AMOSTRA 
+ 
+Ligue  o  espectrofotômetro  e  aguarde  por  10  minutos.  Calibre  o  equipamento  para 
+comprimento  de  onda  de  260  nm.  Adicione  a  cubeta  com  água  destilada  e  zere  o 
+equipamento.  Depois  transfira  a  amostra  do  tubo 2 para  sua  respectiva  cubeta  e 
+realize a leitura no equipamento. Anote o valor observado. 
+ 
+5. REPETINDO LEITURA COM OUTROS PARÂMETROS 
+ 
+Repita o procedimento de leitura alterando o comprimento de onda para 280 nm e 
+anote o valore observado. 
+ 
+
+7 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+  
+6. LAVANDO AS CUBETAS 
+ 
+Após conclusão da leitura no comprimento de onda de 280 nm, realize a lavagem das 
+cubetas com água destilada. 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+8 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Calcule a concentração de DNA extraído da amostra. 
+ 
+ 
+ 
+ 
+2. Determine o grau de pureza da amostra analisada. 
+ 
+ 
+ 
+  
+
+9 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse sobre a torneira da pia. 
+ 
+ 
+ 
+  
+
+10 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPIs” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+  
+
+11 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco e luvas de látex. 
+ 
+ 
+ 
+  
+
+12 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+2. PREPARANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Experimento” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Recorte um fragmento do tecido que contém a amostra de sangue clicando com o botão 
+esquerdo do mouse sobre o furador de amostra. 
+ 
+  
+
+13 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Aspire 1000 μl do tampão TE clicando na micropipeta com o botão direito do mouse e 
+selecionando a opção “Colocar em tampão TE”. 
+ 
+ 
+ 
+Transfira a solução pipetada para o tubo eppendorf que contém o fragmento de tecido 
+clicando  com  o  botão  direito  do  mouse  sobre  a  micropipeta  e  selecionando  a  opção 
+“Colocar em tubo eppendorf”. 
+ 
+ 
+ 
+  
+
+14 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Troque a ponteira e retorne a micropipeta para o suporte clicando com o botão direito 
+do mouse sobre a micropipeta e selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+Aguarde por 30 minutos. Se preferir, avance o tempo clicando com o botão esquerdo 
+do mouse na opção “Avançar tempo”. 
+ 
+ 
+ 
+  
+
+15 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Coloque a amostra na centrifuga clicando com o botão direito do mouse sobre o tubo 
+eppendorf. 
+ 
+ 
+ 
+Feche a tampa da centrífuga clicando com o botão esquerdo do mouse sobre o botão 
+“Open”. 
+ 
+ 
+ 
+  
+
+16 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Configure o tempo e a rotação da centrífuga clicando com o botão esquerdo do mouse 
+nos  botões  do  painel.  Os  botões  esquerdos  configuram  o  tempo  e  os direitos  a 
+velocidade.  Para  essa  técnica  utilizaremos  uma  rotação  de  13.000  rpm  durante  3 
+minutos. 
+ 
+ 
+ 
+Ligue a centrífuga clicando com o botão esquerdo do mouse sobre o botão “Start”. 
+ 
+ 
+ 
+Velocidade 
+Tempo 
+
+17 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Aguarde por 3 minutos e abra a tampa da centrífuga clicando com o botão esquerdo do 
+mouse no botão “Open”. 
+ 
+ 
+ 
+Retire o tubo eppendorf da centrífuga clicando com o botão direito do mouse sobre o 
+equipamento e selecionando a opção “Retirar objetos”. 
+ 
+ 
+ 
+  
+
+18 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Ajuste  o  volume  da  micropipeta  para  950 μl  clicando  com  o  botão  direito  do  mouse 
+sobre ela e selecionando a opção “Reajustar volume”. 
+ 
+ 
+ 
+Perceba que irá abrir uma caixa de texto onde deve ser inserido o volume desejado. 
+ 
+ 
+ 
+  
+
+19 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Coloque a micropipeta sobre o eppendorf clicando com o botão direto do mouse sobre 
+ela e selecionando a opção “Colocar em Tubo Eppendorf”. 
+ 
+ 
+ 
+Aspire  o sobrenadante  do  tubo  e  troque  a  ponteira  clicando  com  o  botão  direito  do 
+mouse sobre a micropipeta e selecionando a opção “Trocar ponteira”. 
+ 
+ 
+ 
+  
+
+20 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Ajuste o volume da micropipeta para 150 μl e coloque-a sobre o recipiente que contém 
+Chelex clicando com o botão direito do mouse sobre ela e selecionando a opção “Colocar 
+em Chelex 5%”. 
+ 
+ 
+ 
+Mova a micropipeta para o eppendorf e despreze a solução clicando com o botão direito 
+do  mouse  na  micropipeta  e  selecionando  a  opção  “Colocar  em  tubo  eppendorf”. 
+Lembre-se de descartar a ponteira após o uso. 
+ 
+ 
+  
+
+21 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Feche a tampa do eppendorf clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque  o tubo  dentro do  banho  maria  clicando  com  o  botão direito  do mouse  sobre 
+ele. 
+ 
+ 
+ 
+  
+
+22 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Retire  o  eppendorf  do  banho  maria clicando  com  o  botão  direito  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Coloque o eppendorf no vórtex clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+23 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Retire  o  eppendorf  do  vórtex  clicando  com  o  botão  direito  do  mouse  sobre  o 
+equipamento. 
+ 
+ 
+ 
+Repita o processo de incubação no banho maria e homogeneização no vórtex mais uma 
+vez. Centrifugue a amostra e reserve o sobrenadante. 
+ 
+  
+
+24 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+ 
+3. DILUINDO A AMOSTRA 
+ 
+Ajuste o volume da micropipeta para 150 μl e coloque-a sobre o eppendorf clicando com 
+o  botão  direito  do  mouse  sobre  ela  e  selecionando  a  opção  “Colocar  em  tubo 
+eppendorf”. 
+ 
+ 
+ 
+  
+
+25 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Transfira  a  solução  pipetada  para  o  Tubo  1:Amostra  clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecionando a opção “Colocar em Tubo 1: Amostra”. Lembre-
+se de descartar a ponteira após o uso. 
+ 
+ 
+ 
+Ajuste o volume da micropipeta para 100 μl e aspire o conteúdo do tubo 1 clicando na 
+micropipeta com o botão direito do mouse e selecionando a opção “Colocar em Tubo 1: 
+Amostra”. 
+ 
+ 
+ 
+  
+
+26 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Deposite  o  líquido  aspirado no  Tubo  2  clicando  com  o  botão  direito  do  mouse  na 
+micropipeta e selecionando a opção “Colocar no Tubo 2: 1:10”. Troque a ponteira após 
+o uso. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  para  900 μl  e pipete água  ultrapura  clicando  na 
+micropipeta com o botão direito e selecionando a opção “Colocar em água ultra pura”. 
+ 
+ 
+ 
+  
+
+27 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Complete  o  volume  do  tubo  2  com  a  água  ultrapura  clicando  na  micropipeta  e 
+selecionando a opção “Colocar em Tubo 2: 1:10”. Troque a ponteira após o uso. 
+ 
+ 
+ 
+Ajuste  o  volume  da  micropipeta  para 1000 μl  e pipete  água  ultrapura  clicando  na 
+micropipeta com o botão direito e selecionando a opção “Colocar em água ultra pura”. 
+ 
+ 
+ 
+  
+
+28 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Deposite  o  líquido  aspirado no tubo padrão  branco clicando  com  o  botão  direito  do 
+mouse na micropipeta e selecionando a opção “Colocar em tubo padrão branco”. 
+ 
+ 
+ 
+  
+
+29 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+4. LEITURA DA AMOSTRA 
+ 
+Ligue o espectrofotômetro clicando com o botão direito do mouse sobre o equipamento 
+e selecionando a opção “Ligar” e aguarde por 10 minutos. 
+ 
+ 
+ 
+Mova a micropipeta para o tubo padrão branco clicando com o botão direito do mouse 
+sobre ela e selecionando a opção “Colocar em tubo padrão branco”. 
+ 
+  
+
+30 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Transfira o líquido aspirado para cubeta clicando com o botão direito do mouse sobre a 
+micropipeta  e selecionando  a  opção  “Colocar  em  cubeta  padrão”. Troque  a  ponteira 
+após o uso. 
+ 
+ 
+ 
+Repita o passo anterior com o tubo 2, transferindo o líquido para sua respectiva cubeta. 
+ 
+ 
+ 
+  
+
+31 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Regule  o  comprimento  de  onda  do  espectrofotômetro  para  260  nm  clicando  com  o 
+botão direito do mouse sobre o equipamento e selecionando a opção “Programar para 
+onda de 260 nm”. 
+ 
+ 
+ 
+Abra o equipamento clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+  
+
+32 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Mova a cubeta que contém o padrão branco para o espectrofotômetro clicando com o 
+botão direito do mouse sobre a cubeta. 
+ 
+ 
+ 
+Feche   o   espectrofotômetro   clicando   com   o  botão   esquerdo  do   mouse   sobre   o 
+equipamento. 
+ 
+ 
+ 
+  
+
+33 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Regule  a  absorbância  do  equipamento  clicando  o  botão  direito  do  mouse  sobre  ele  e 
+selecionando a opção “Regular absorbância para zero”. 
+ 
+ 
+ 
+Abra  o  espectrofotômetro  e  retire  a  cubeta  clicando  com  o  botão  direito  sobre  o 
+equipamento e selecionando a opção “Retirar cubeta”. 
+ 
+ 
+ 
+  
+
+34 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Mova a cubeta que contém a amostra do tubo 2 para o espectrofotômetro clicando com 
+o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Feche o equipamento e realize a leitura da amostra clicando com o botão direito sobre 
+o espectrofotômetro e selecionando a opção “Fazer análise”. 
+ 
+ 
+ 
+  
+
+35 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+Visualize o resultado clicando com o botão esquerdo do mouse na câmera com o nome 
+“Resultado Espectrofotômetro” ou através do atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Espectrofotômetro” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+  
+
+36 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+5. REPETINDO LEITURA COM OUTROS PARÂMETROS 
+ 
+Configure  o  espectrofotômetro  para  o  comprimento  de  onda  de  280  nm,  regule  a 
+absorbância com o padrão branco e realize a leitura da cubeta que contém a amostra. 
+Anote o resultado observado. 
+ 
+ 
+  
+
+37 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+6. LAVANDO AS CUBETAS 
+ 
+Lave cada uma das cubetas clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+38 ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE GENÉTICA FORENSE 
+EXTRAÇÃO DE DNA, QUANTIFICAÇÃO E ANÁLISE DE PUREZA POR ESPECTROFOTOMETRIA 
+  
+ 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado no experimento. 
+ 

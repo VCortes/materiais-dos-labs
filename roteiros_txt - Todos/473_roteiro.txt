@@ -1,0 +1,845 @@
+
+
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você irá aprimorar seus  conhecimentos  sobre  vidrarias 
+volumétricas. Esta prática permite compreender a importância da calibração de 
+vidrarias e executar as técnicas aplicadas nesse processo. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Erlenmeyer de 125 mL; 
+• Béquer de 100 mL e 150 mL; 
+• Pipeta volumétrica de 25 mL; 
+• Pipetador de segurança 3 vias (tipo pera); 
+• Termômetro; 
+• Bureta de 25 mL; 
+• Garras; 
+• Suporte; 
+• Funil de 25 mL; 
+• Balança analítica; 
+• Água destilada. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Inicialmente,   coloque   os   equipamentos   de   proteção   individual   localizados   no 
+“Armário de EPIs”. 
+ 
+
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+  
+2. CALIBRANDO A PIPETA VOLUMÉTRICA 
+ 
+Encha um béquer com água destilada. Coloque o pipetador na pipeta volumétrica e 
+aspire  25  mL  da  água  destilada.  Retire  o  pipetador  e  tampe  o  orifício  superior  da 
+pipeta  com o dedo.  Transfira  a pipeta  para um béquer  vazio  e,  em  seguida, deixe  o 
+líquido dentro da pipeta escorrer. Meça o tempo de escoamento com um cronômetro. 
+Repita esse processo mais duas vezes. Pese um Erlenmeyer de 100 mL seco. Pipete 25 
+mL de água e transfira para o Erlenmeyer e pese-o novamente. Repita esse processo 
+mais duas vezes.  
+ 
+3. CALIBRANDO A BURETA 
+ 
+Meça  a  temperatura  da  água  contida  no  béquer.  Pese  um  Erlenmeyer  de  100 mL. 
+Encha a bureta com água até o menisco atingir a marca do zero. Abra a torneira da 
+bureta  e  deixe  a  água  escorrer  de  gota  a  gota  volumes  ímpares  para  dentro  do 
+Erlenmeyer.  Pese  a  massa  de  cada  gota e  subtraia  da  massa  do  frasco  vazio. Repita 
+esse processo mais duas vezes.  
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual a importância da calibração de pipetas, buretas e outros equipamentos de 
+precisão? 
+ 
+ 
+ 
+2. Construa  um  gráfico  de  calibração  com  as  informações  de  volume  lido  (VL)  x 
+volume corrigido (VC). 
+ 
+ 
+ 
+  
+
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+6”. 
+ 
+ 
+ 
+  
+
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Abra o armário de EPI clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, máscara 
+e óculos. 
+ 
+ 
+ 
+  
+
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Feche as portas do armário de EPIs clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+  
+
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+2. CALIBRANDO A PIPETA VOLUMÉTRICA 
+ 
+Visualize a as  vidrarias e  equipamentos clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  béquer  1  clicando  na  pipeta  com  o  botão  direito  do  mouse,  e 
+selecione a opção “Béquer 1”. 
+ 
+  
+
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Visualize  a  pera clicando  na  pipeta  com  o  botão  direito  do  mouse  e,  com  o  botão 
+esquerdo do mouse selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Opere a pipeta: com o botão esquerdo do mouse clique no meio para expirar o ar, “A” 
+para  ejetar  o  líquido  continuamente,  “S”  para  sucção  e  “E”  para  expirar  o  líquido  de 
+forma gradual. 
+ 
+ 
+ 
+  
+
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Expire o ar da pera clicando com o botão esquerdo do mouse no meio da pera. 
+ 
+ 
+ 
+Aspire 25 mL da água destilada clicando com o botão esquerdo do mouse em “S”. 
+ 
+ 
+ 
+  
+
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova  a  pipeta  para  o  béquer 2  clicando  na  pipeta  com  o  botão  direito,  e  selecione  a 
+opção “Béquer 2”. 
+ 
+ 
+ 
+Libere a água destilada no béquer clicando na mão com o botão esquerdo do mouse. O 
+cronômetro será ativado. 
+ 
+ 
+ 
+  
+
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Feche a aba do cronômetro clicando como botão esquerdo do mouse no “X”. 
+ 
+ 
+ 
+Mova  a  pipeta  para  o  suporte  clicando  na  pipeta  com  o  botão  direito  do  mouse,  e 
+selecione com o botão esquerdo do mouse a opção “Suporte”. 
+ 
+ 
+ 
+  
+
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Visualize a  as  vidrarias  e  equipamentos  clicando  com  o  botão  esquerdo  do  mouse na 
+câmera com o nome “Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Limpe o béquer 2 clicando no béquer com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova a pipeta para o béquer contendo água clicando na pipeta com o botão direito, em 
+seguida, com o botão esquerdo do mouse clique em “Béquer 1”. 
+ 
+ 
+ 
+Visualize a pera clicando com o botão direito do mouse na pipeta, em seguida, com o 
+botão esquerdo selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+  
+
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Repita o processo de pipetar 25mL de água destilada no béquer 2 por mais duas vezes. 
+Lembre-se  de  anotar  o tempo transcorrido no  cronômetro  em  cada  etapa,  e  limpar o 
+béquer 2 utilizado. 
+ 
+ 
+ 
+Visualize a balança clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Ligue a balança clicando no botão “on/off” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova o Erlenmeyer seco para a balança clicando no Erlenmeyer com o botão direito do 
+mouse, e com o botão esquerdo do mouse clique em “Mover para balança”. 
+ 
+ 
+ 
+Tare a balança clicando no botão “TARA” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova o Erlenmeyer para a bancada clicando com o botão direito do mouse. 
+ 
+ 
+ 
+Mova a pipeta para o béquer 1 clicando com o botão direito do mouse, e com o botão 
+esquerdo do mouse selecione a opção “Béquer 1”. 
+ 
+ 
+ 
+  
+
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Pipete  25mL  de  água  destilada  e  mova  a  pipeta para o Erlenmeyer  clicando na  pipeta 
+com  o  botão  direito  do  mouse,  com  o  botão  esquerdo  do  mouse  selecione  a  opção 
+“Erlenmeyer”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Visualize  a  pera  clicando  na  pipeta  com  o  botão  direito  do  mouse  e,  com  o  botão 
+esquerdo do mouse selecione a opção “Visualizar pera”. 
+ 
+ 
+ 
+Libere a água destilada no béquer, clique e pressione o botão “E” da pera, com o botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova  a  pipeta  para  o  suporte  clicando  na  pipeta  com  o  botão  direito  do  mouse,  e 
+selecione com o botão esquerdo do mouse a opção “Suporte”. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Realize a pesagem movendo o Erlenmeyer para a balança clicando no Erlenmeyer como 
+botão direito do mouse. 
+ 
+ 
+ 
+Após pesagem, mova o Erlenmeyer para a bancada clicando no Erlenmeyer com o botão 
+direito do mouse. 
+ 
+ 
+ 
+  
+
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Limpe o Erlenmeyer clicando com o botão esquerdo do mouse no Erlenmeyer. 
+ 
+ 
+ 
+Repita  o  processo  de  pipetar  25mL  de  água  destilada  no  Erlenmeyer  por  mais  duas 
+vezes.  Lembre-se  de  anotar  o  peso  obtido  em  cada  etapa,  e  limpar  o  Erlenmeyer 
+utilizado. 
+ 
+ 
+ 
+  
+
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+3. CALIBRANDO A BURETA 
+ 
+Mova a pisseta com água destilada clicando na pisseta com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Pressione a pisseta para colocar água no béquer com o botão esquerdo do mouse. 
+ 
+ 
+  
+
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova a pisseta para a bancada clicando na pisseta com o botão direito do mouse. 
+ 
+ 
+ 
+Meça a temperatura da água contida no béquer clicando com o botão direito do mouse 
+no termômetro, selecione a opção “Colocar sobre o béquer”. 
+ 
+ 
+ 
+  
+
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Verifique a temperatura clicando no termômetro com o botão esquerdo do mouse. 
+ 
+ 
+ 
+Visualize a escola movendo a barra de rolagem com o botão esquerdo do mouse. Após 
+verificar  temperatura,  fecha  a  escala  de  temperatura  clicando  no  “X”  com  o  botão 
+esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova  o  termômetro  para  a  bancada  clicando  o  botão  direito  do  mouse,  em  seguida, 
+com o botão esquerdo do mouse clique em “Colocar na posição inicial”. 
+ 
+ 
+ 
+Mova o funil para a bureta clicando no funil com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Preencha  a  bureta  com  água  até  o  menisco até atingir  a  marca  do  zero clicando  no 
+béquer com água destila com o botão direito do mouse. 
+ 
+ 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Mova o Erlenmeyer para a bureta clicando no Erlenmeyer com o botão direito do mouse, 
+em seguida, com o botão esquerdo do mouse selecione a opção “Mover para bureta”. 
+ 
+ 
+ 
+Abra a torneira da bureta clicando na válvula com o botão esquerdo do mouse e deixe 
+contabilizar volumes ímpares. 
+ 
+ 
+ 
+  
+
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Pese a massa de cada volume ímpar movendo o Erlenmeyer para a balança clicando com 
+o botão direito do mouse. Subtraia o valor da massa da gota com o valor do frasco vazio. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  para  a  bancada clicando  no  Erlenmeyer  com  o  botão  direito  do 
+mouse. 
+ 
+ 
+ 
+  
+
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Realize o processo por mais duas vezes: mova o Erlenmeyer para a bureta clicando no 
+Erlenmeyer com o botão direito do mouse, em seguida, com o botão esquerdo do mouse 
+selecione a opção “Mover para bureta”. 
+ 
+ 
+ 
+Abra a torneira da bureta clicando na válvula com o botão esquerdo do mouse e deixe 
+contabilizar volumes ímpares. 
+ 
+ 
+ 
+  
+
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Pese a massa do volume ímpar movendo o Erlenmeyer para a balança clicando com o 
+botão direito do mouse. Subtraia o valor da massa da gota com o valor do frasco vazio. 
+ 
+ 
+ 
+Mova  o  Erlenmeyer  para  a  bancada  clicando  no  Erlenmeyer  com  o  botão  direito  do 
+mouse. 
+ 
+ 
+ 
+  
+
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Balança” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Desligue a balança clicando no botão “on/off” com o botão esquerdo do mouse. 
+ 
+ 
+ 
+  
+
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA ANALÍTICA FARMACÊUTICA 
+CALIBRAÇÃO DE VIDRARIAS VOLUMÉTRICAS 
+  
+ 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 

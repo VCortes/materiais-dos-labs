@@ -1,0 +1,659 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Nesta prática, você utilizará o aparelho de Vicat para estimar o tempo de início 
+e de fim de pega. Este tempo é o intervalo que o cimento leva para endurecer 
+após a adição de água. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com   o   botão   direito  do   mouse.   Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Agulha para tempo de fim de pega; 
+• Agulha para tempo de início de pega; 
+• Aparelho de Vicat; 
+• Concha; 
+• Espátula; 
+• Pasta de cimento; 
+• Sonda. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. AJUSTANDO O INDICADOR NA MARCA ZERO DA ESCALA 
+ 
+Encaixe a sonda na parte superior da haste e a agulha para tempo de início de pega na parte 
+inferior  da  haste.  Com  a  base  posicionada  no  aparelho  de Vicat,  solte  a  haste  para  que  o 
+marcador seja posicionado no ponto zero da escala graduada. Eleve a haste móvel e retorne 
+a base para a mesa. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+  
+2. MOVENDO O CORPO DE PROVA PARA O APARELHO 
+ 
+Posicione  o  molde  sobre  a  base.  Adicione  a  pasta  de  cimento  no  corpo de  prova  e  utilize  a 
+espátula  para  assentar  e  rasar  o  conteúdo  do  molde.  Posicione  o  corpo  de  prova  sobre  o 
+aparelho  de  Vicat.  Guarde  o  tempo  exibido  no  relógio  como  o  horário  do  início  do  ensaio. 
+Aguarde 30 minutos. 
+ 
+3. PENETRANDO A AGULHA DE TEMPO DE INÍCIO DE PEGA 
+ 
+Solte a haste. Após 30 segundos, verifique a escala graduada para obter a medida e eleve a 
+haste. Mude o molde de posição e guarde 15 minutos. 
+ 
+4. VERIFICANDO O TEMPO DE INÍCIO DE PEGA 
+ 
+Repita o passo 3 até que a medida encontrada seja de que a agulha está a 6 mm ± 2 mm da 
+placa do molde. Remova o corpo de prova do aparelho. 
+ 
+5. TROCANDO A AGULHA 
+ 
+Remova a agulha para tempo de início de pega e posicione no aparelho de Vicat a agulha para 
+tempo de fim de pega. 
+ 
+6. ROTACIONANDO O MOLDE 
+ 
+Posicione a outra base sobre o corpo de prova e rotacione o conjunto. Remova a antiga base 
+do corpo de prova e posicione o corpo de prova no aparelho de Vicat. Aguarde 30 minutos. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+  
+7. PENETRANDO A AGULHA DE TEMPO DE FIM DE PEGA 
+ 
+Solte a haste. Após 30 segundos, verifique a escala graduada para obter a medida e eleve a 
+haste. Mude o molde de posição e guarde 30 minutos. 
+ 
+8. VERIFICANDO O TEMPO DE FIM DE PEGA 
+ 
+Repita  o  passo  7  até  que  a  medida  encontrada  do  quanto  a  agulha  penetrou  na  pasta  de 
+cimento seja menor ou igual a 0,5 mm. 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08  deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Qual o horário inicial do ensaio identificado no passo 2?  
+ 
+ 
+2. Construa uma tabela com os dados obtidos para cada medição do deslocamento 
+da agulha com seu determinado horário para determinar o tempo de início de 
+pega. Utilize  a  diferença  entre  o  horário  inicial  do  ensaio  e  o  último  tempo 
+encontrado  no  passo  4  para  determinar  qual foi  o  tempo  de início de  pega 
+encontrado?  
+ 
+ 
+3. Construa uma tabela com os dados obtidos para cada medição do deslocamento 
+da  agulha  com  seu  determinado  horário para  determinar  o  tempo  de  fim  de 
+pega. Utilize  a  diferença  entre  o  horário  inicial  do  ensaio  e  o  último  tempo 
+encontrado  no  passo  8  para  determinar  qual foi  o  tempo  de  fim  de  pega 
+encontrado?  
+ 
+ 
+4. Quais  conclusões  sobre a  amostra  podem  ser  tomadas  ao estimar  o  tempo  de 
+início de pega e o tempo de fim de pega? 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AJUSTANDO O INDICADOR NA MARCA ZERO DA ESCALA 
+ 
+Encaixe a sonda clicando com o botão direito do mouse sobre ela e selecione a opção 
+“Encaixar”. 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Coloque a agulha para tempo de pega clicando com o botão direito do mouse sobre ela 
+e selecione a opção “Colocar”. 
+ 
+ 
+ 
+Visualize o  Vicat  (frente)  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o 
+nome “Vicat  (frente)” localizada  dentro  do  painel  de  visualização  no  canto  superior 
+esquerdo da tela. Se preferir, também pode ser utilizado o atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Solte a haste clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Soltar a haste”. 
+ 
+ 
+ 
+Arraste  o  parafuso  indicador  para  a  posição  zero  clicando  com  o  botão  esquerdo  do 
+mouse sobre ele e arraste para baixo. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Eleve a haste clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Elevar haste”. 
+ 
+ 
+ 
+Mova a placa para a mesa clicando com o botão direito do mouse na placa de base e 
+selecione a opção “Mover para a mesa”. 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Visualize a visão principal clicando com o botão esquerdo do mouse na câmera com o 
+nome “Visão Principal” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+2. MOVENDO O CORPO DE PROVA PARA O APARELHO 
+ 
+Mova o molde para a placa clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Mover para a placa”. 
+ 
+ 
+ 
+Derrame  o  cimento  clicando com  o  botão  direito  do  mouse  na  concha  e  selecione a 
+opção “Derramar”. 
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Ajuste o molde clicando com o botão direito do mouse sobre a espátula e selecione a 
+opção “Ajustar molde”. 
+ 
+ 
+ 
+Mova a placa de base para o aparelho clicando com o botão direito do mouse sobre a 
+ela e selecione a opção “Mover para o aparelho”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Aguarde 30 minutos clicando com o botão esquerdo do mouse na seta indicada. 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+3. PENETRANDO A AGULHA DE TEMPO DE INÍCIO DE PEGA 
+ 
+Solte a haste clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Soltar haste”. 
+ 
+ 
+ 
+Visualize a  régua  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Régua” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Eleve a haste clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Elevar haste”. 
+ 
+ 
+ 
+Mude a posição clicando com o botão direito do mouse na placa de base e selecione a 
+opção “Mudar posição”. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Aguarde 15 minutos clicando com o botão esquerdo do mouse na seta indicada. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+4. VERIFICANDO O TEMPO DE INÍCIO DE PEGA 
+ 
+Repita o passo 3 até que a medida obtida da distância entre a ponta da agulha e a placa 
+base seja 6 mm ± 2 mm.  
+ 
+Mova a placa para a mesa com o botão direito do mouse na placa de base e selecione 
+a opção “Mover para a mesa”. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+5. TROCANDO A AGULHA 
+ 
+Remova a agulha para tempo de início de pega clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Remover”. 
+ 
+ 
+ 
+Coloque a agulha para tempo de fim de pega clicando com o botão direito do mouse 
+sobre ela e selecione a opção “Colocar”. 
+ 
+ 
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+6. ROTACIONANDO O MOLDE 
+ 
+Rotacione  o  molde  clicando com  o  botão  direito  do  mouse  na  outra  placa  de  base e 
+selecione a opção “Cobrir molde”. 
+ 
+ 
+ 
+Remova  a  primeira  placa  de  base  clicando com  o  botão  direito  do  mouse sobre ela  e 
+selecione a opção “Remover”. 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Mova o cimento para o aparelho clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Mover para o aparelho”. 
+ 
+ 
+ 
+Aguarde 30 minutos clicando com o botão esquerdo do mouse na seta indicada. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+7. PENETRANDO A AGULHA DE TEMPO DE FIM DE PEGA 
+ 
+Solte a agulha clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Soltar haste”. 
+ 
+ 
+ 
+Visualize a  régua  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Régua” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+\ 
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Eleve a haste clicando com o botão direito do mouse no parafuso limitador e selecione 
+a opção “Elevar haste”. 
+ 
+ 
+ 
+Mude de posição clicando com o botão direito do mouse na placa de base e selecione 
+a opção “Mudar posição”. 
+ 
+ 
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+Aguarde 30 minutos clicando com o botão esquerdo do mouse na seta indicada. 
+ 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+8. VERIFICANDO O TEMPO DE FIM DE PEGA 
+ 
+Repita o passo 7 até que a medida obtida seja aproximadamente 0,5 mm. 
+ 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA 
+ENSAIO DE TEMPO DE PEGA 
+ 
+9. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

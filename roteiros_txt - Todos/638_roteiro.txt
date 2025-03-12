@@ -1,0 +1,987 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprimorar seus conhecimentos sobre a pesquisa de 
+anticorpos irregulares. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Albumina bovina; 
+• Álcool 70%; 
+• Amostra de plasma sanguíneo; 
+• Antiglobulina humana poliespecífica (IgG+C3d); 
+• Banho-maria; 
+• Béquer de 100 mL; 
+• Béquer de 500 mL; 
+• Caneta; 
+• Centrífuga; 
+• Gaze; 
+• Hemácia controle Coombs; 
+• Hemácias de triagem I e II; 
+• Hipoclorito de sódio; 
+• Papel toalha; 
+• Pipeta Pasteur 3 mL; 
+• Prancheta; 
+• Salina fisiológica; 
+• Tubo de ensaio. 
+  
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos na pia. Coloque os equipamentos de proteção individual localizados 
+no  “Armário  de  EPIs”. Nesse  experimento,  é  obrigatório  o  uso de  jaleco,  luvas, 
+máscara e óculos. Higienize a bancada com hipoclorito de sódio e álcool 70%. 
+ 
+2. REALIZANDO A FASE DE SALINA IMEDIATA 
+ 
+Identifique os tubos de ensaio da seguinte forma: “I” e “II”. Pipete cerca de 1 mL da 
+amostra de plasma e adicione em cada tubo. Descarte a pipeta Pasteur no recipiente 
+com  hipoclorito  de  sódio.  Adicione  uma  gota  da  hemácia  de  triagem  I  no  tubo  I. 
+Homogeneíze  o  tubo  I.  Adicione  uma  gota  da  hemácia  de  triagem  II  no  tubo  II. 
+Homogeneíze  o  tubo  II.  Abra  a  centrífuga.  Coloque  os  tubos  na  centrífuga.  Ligue  o 
+equipamento.  Aguarde  por  20  segundos.  Abra  a  centrífuga  e  retire  os  tubos. 
+Ressuspenda os botões de hemácia dos dois tubos. Observe a presença ou ausência 
+de aglutinação. 
+ 
+3. REALIZANDO A FASE DE POTENCIALIZADORES 
+ 
+Adicione  duas  gotas  de  albumina  bovina  à  22%  no  tubo  I.  Homogeneíze  o  tubo  I. 
+Adicione duas gotas de albumina bovina à 22% no tubo II. Homogeneíze o tubo II. Abra 
+a centrífuga. Coloque os tubos na centrífuga. Ligue o equipamento. Aguarde por 20 
+segundos. Abra a centrífuga e retire os tubos. Ressuspenda os botões de hemácia nos 
+dois tubos. Observe a presença ou ausência de aglutinação. 
+ 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+4. REALIZANDO A FASE TÉRMICA 
+ 
+Mova os tubos I e II para o banho-maria. Aguarde por 15 minutos. Retire os tubos do 
+banho-maria. Seque  os  tubos  com  a  gaze. Coloque  os  tubos  na  centrífuga e  ligue  o 
+equipamento. Aguarde  por  20  segundos.  Abra  a centrífuga  e  retire  os  tubos. 
+Ressuspenda os botões de hemácia nos dois tubos. Observe a presença ou ausência 
+de aglutinação. 
+ 
+5. REALIZANDO A FASE DE ANTIGLOBULINA HUMANA 
+ 
+Adicione salina fisiológica nos tubos I e II. Homogeneíze os tubos. Seque os tubos com 
+a gaze. Mova os tubos para centrífuga. Centrifugue os tubos por 20 segundos. Retire 
+os tubos da centrífuga. Descarte o sobrenadante no béquer de 100 mL vazio. Repita 
+essa  etapa  de  lavagem  mais  duas  vezes.  Adicione  duas  gotas  de  soro  antiglobulina 
+humana no tubo I. Homogeneíze o tubo I. Adicione duas gotas de soro antiglobulina 
+humana  no  tubo  II.  Homogeneíze  o  tubo  II.  Abra  a  centrífuga.  Coloque  os  tubos  na 
+centrífuga e ligue o equipamento. Aguarde por 20 segundos. Abra a centrífuga e retire 
+os tubos. Ressuspenda os botões de hemácia nos dois tubos. Observe a presença ou 
+ausência de aglutinação. 
+ 
+6. REALIZANDO A FASE DE CONTROLE 
+ 
+Adicione  uma  gota  do  reagente  com  hemácias  sensibilizadas  para  o  controle  de 
+Coombs  no  tubo  com  resultado  negativo. Homogeneíze  o  tubo.  Abra  a  centrífuga. 
+Coloque o tubo na centrífuga e ligue o equipamento. Aguarde por 20 segundos. Abra 
+a centrífuga e retire os tubos. Ressuspenda o botão de hemácia no tubo. Observe a 
+presença ou ausência de aglutinação. Ao final, preencha o antigrama com o resultado 
+encontrado. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+  
+7. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de  acordo  com  o que  foi  observado no  experimento,  associando também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Diferencie o Teste de Coombs direto do indireto.  
+ 
+ 
+ 
+2. Cite situações em que a pesquisa de anticorpos irregulares pode ser utilizada na 
+rotina laboratorial. 
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Lave as mãos na pia clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela, ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Selecione os  EPIs necessários  para  a  realização do  experimento  clicando com  o botão 
+esquerdo do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas, 
+máscara e óculos. 
+ 
+ 
+ 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Bancada” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse sobre a pisseta indicada.  
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Passe o papel toalha clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Higienize a bancada clicando com o botão esquerdo do mouse sobre a pisseta indicada.  
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+2. REALIZANDO A FASE SALINA IMEDIATA 
+ 
+Identifique os tubos de ensaio clicando com o botão esquerdo do mouse sobre a caneta 
+marcadora. 
+ 
+ 
+ 
+Mova a pipeta Pasteur clicando com o botão esquerdo do mouse sobre ela. 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Descarte a pipeta Pasteur clicando com o botão direito do mouse sobre ela. 
+ 
+ 
+ 
+Adicione  uma  gota  da  hemácia clicando  com  o  botão  esquerdo  sobre  o  recipiente 
+indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Homogeneíze o  tubo  I clicando  com  o  botão  direito  sobre  ele  e  selecione  a  opção 
+“Homogeneizar tubo”. 
+ 
+ 
+ 
+Adicione  uma  gota  da  hemácia clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+recipiente indicado. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Homogeneíze  o  tubo  II  clicando  com  o  botão  direito  sobre  ele  e  selecione  a  opção 
+“Homogeneizar tubo”. 
+ 
+ 
+ 
+Mova os tubos clicando com o botão direito do mouse sobre o tubo I e selecione a opção 
+“Centrifugar”. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Visualize os tubos de ensaio clicando com o botão direito do mouse no tubo I e selecione 
+a opção “Observar conteúdo”. 
+ 
+ 
+ 
+Mova os tubos clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+3. REALIZANDO A FASE DE POTENCIALIZADORES 
+ 
+Adicione a albumina bovina 22% clicando com o botão direito do mouse no recipiente 
+indicado e selecione a opção “Adicionar no Tubo I”. 
+ 
+ 
+ 
+Homogeneíze  o  tubo  I  clicando  com  o  botão  direito  sobre  ele  e  selecione  a  opção 
+“Homogeneizar tubo”. 
+ 
+ 
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Adicione a albumina bovina 22% clicando com o botão direito do mouse no recipiente 
+indicado e selecione a opção “Adicionar no tubo II”. 
+ 
+ 
+ 
+Homogeneíze  o  tubo  II clicando  com  o  botão  direito  sobre  ele  e  selecione  a  opção 
+“Homogeneizar tubo”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova os tubos clicando com o botão direito do mouse sobre o tubo I e selecione a opção 
+“Centrifugar”. 
+ 
+ 
+ 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão direito do mouse no tubo e selecione 
+a opção “Observar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova os tubos clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+4. REALIZANDO A FASE TÉRMICA 
+ 
+Mova o tubo I clicando com o botão direito do mouse sobre o tubo e selecione a opção 
+“Levar a banho-maria”. 
+ 
+ 
+ 
+Ligue o banho-maria clicando com o botão esquerdo do mouse sobre o local indicado.  
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Aguarde ou avance o tempo clicando com o botão esquerdo do mouse em “Avançar”. 
+ 
+ 
+ 
+Seque  os tubos clicando  com o botão  direito do mouse  sobre ele  e  selecione  a opção 
+“Secar tubos”. 
+ 
+ 
+  
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova o tubo clicando com o botão direito do mouse sobre o tubo I e selecione a opção 
+“Centrifugar”. 
+ 
+ 
+ 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Visualize os tubos de ensaio clicando com o botão direito do mouse no tubo e selecione 
+a opção “Observar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova os tubos clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+5. REALIZANDO A FASE DE ANTIGLOBULINA HUMANA 
+ 
+Adicione salina fisiológica clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Homogeneíze o tubo I clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Homogeneizar tubo”. 
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Repita o procedimento anterior, homogeneíze o tubo II. 
+ 
+ 
+ 
+Seque  os tubos clicando  com o botão  direito do mouse  sobre ele e  selecione  a opção 
+“Secar tubos”. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova o tubo clicando com o botão direito do mouse sobre o tubo I e selecione a opção 
+“Centrifugar”. 
+ 
+ 
+ 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Descarte  o  sobrenadante  clicando  com  o  botão  direito  do  mouse  sobre  o tubo  e 
+selecione a opção “Retirar salina”. 
+ 
+ 
+  
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Repita  os  procedimentos  anteriores  mais  duas  vezes, adicione  salina  fisiológica  nos 
+tubos  I  e  II, homogeneíze  os  tubos e seque  os  tubos  com  a  gaze. Mova  os  tubos  para 
+centrífuga, centrifugue  os  tubos  por 20  segundos e retire  os  tubos  da  centrífuga. 
+Descarte o sobrenadante no béquer de 100 mL vazio. 
+ 
+ 
+ 
+Adicione soro antiglobulina humana clicando com o botão direito do mouse sobre ele e 
+selecione a opção “Adicionar ao tubo I”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Repita o procedimento anterior, adicione soro antiglobulina humana no tubo II. 
+ 
+ 
+ 
+Homogeneíze o tubo I clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Homogeneizar tubo”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Repita o procedimento anterior, homogeneíze o tubo II.  
+ 
+ 
+ 
+Mova  os tubos de  ensaio clicando  com  o  botão  direito  do  mouse  sobre  o  tubo  I  e 
+selecione a opção “Centrifugar”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+ 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Visualize os tubos de ensaio clicando com o botão direito do mouse no tubo e selecione 
+a opção “Observar conteúdo”. 
+ 
+ 
+ 
+Mova os tubos clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+6. REALIZANDO A FASE DE CONTROLE 
+ 
+Adicione a hemácia controle de Coombs clicando com o botão direito do mouse sobre o 
+recipiente indicado e selecione a opção “Adicionar no tubo II”. 
+ 
+ 
+ 
+Homogeneíze o tubo II clicando com o botão direito do mouse sobre ele e selecione a 
+opção “Homogeneizar tubo”. 
+ 
+ 
+
+ 
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova  os tubos de  ensaio clicando  com  o  botão  direito  do  mouse  sobre  o  tubo II  e 
+selecione a opção “Centrifugar”. 
+ 
+ 
+ 
+Ligue a centrífuga clicando com o botão esquerdo do mouse no botão indicado. 
+ 
+ 
+  
+
+ 
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Aguarde a centrifugação ou avance o tempo clicando com o botão esquerdo do mouse 
+em “Avançar”. 
+ 
+ 
+ 
+Visualize  os tubos de  ensaio clicando com  o  botão  direito  do  mouse  sobre  o tubo  e 
+selecione a opção “Observar conteúdo”. 
+ 
+ 
+  
+
+ 
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Mova os tubos clicando com o botão esquerdo do mouse sobre o botão indicado. 
+ 
+ 
+ 
+Abra o antigrama clicando com o botão esquerdo do mouse no ícone “Tabela”. 
+ 
+ 
+  
+
+ 
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+Insira a resposta clicando com o botão esquerdo do mouse sobre cada campo da tabela 
+e digite através do teclado da sua máquina. 
+ 
+ 
+ 
+Complete  a  tabela  clicando  com  o  botão  esquerdo  do  mouse  sobre  cada  campo  e 
+selecione a opção correta. 
+ 
+ 
+  
+
+ 
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE HEMATOLOGIA CLÍNICA E HEMOTERAPIA  
+PESQUISA DE ANTICORPOS IRREGULARES (PAI) 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 09 deste roteiro, e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 

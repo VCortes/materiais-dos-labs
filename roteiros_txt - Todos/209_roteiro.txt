@@ -1,0 +1,320 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento, você irá aprender sobre atividades educativas associadas ao 
+exercício   da   memorização   são   frequentemente   utilizadas,   esse   campo   do 
+desenvolvimento    das    habilidades    cognitivas    auxilia    outras    áreas    do 
+conhecimento. O estímulo correto dessa capacidade possibilita ao aluno pensar 
+em diferentes alternativas ao desenvolver uma atividade e estabelecer técnicas 
+de aprendizagem. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. AMBIENTE VIRTUAL 
+ 
+Os   exercícios   de   memorização   podem   ser   associados   a   outras   atividades   educativas, 
+potencializando  o  alcance  da  proposta  ao  desenvolver  outras  habilidades  em  conjunto, 
+trabalhando  as  capacidades  do  aluno  e  utilizando  os  resultados  obtidos  para  aprimorar  o 
+planejamento  pedagógico.  O  ambiente  de  aprendizagem  virtual  reproduz  um  jogo  da 
+memória  digital,  onde  é  possível  selecionar  as  alternativas  mais  adequadas  a  atividade 
+proposta para a sala de aula. 
+ 
+2. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página 06 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. De acordo com Kishimoto (1994), qual é a importância de considerar o contexto 
+ao definir o que é um jogo? 
+ 
+ 
+2. Como são as regras do jogo da memória? 
+ 
+ 
+3. Por que o jogo da memória não é considerado um jogo competitivo? 
+ 
+ 
+4. Qual é a importância dos jogos, como o jogo da memória, na educação especial? 
+ 
+ 
+5. Como  os  jogos, incluindo  o  jogo  da  memória,  podem  beneficiar  alunos  com 
+superdotação e altas habilidades na educação especial? 
+  
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. AMBIENTE VIRTUAL 
+ 
+Configure a  dificuldade  do  jogo,  o  modo,  a  temática  e  a  quantidade  de  jogadores 
+clicando com o botão esquerdo do mouse sobre o menu de configurações. 
+ 
+ 
+ 
+  
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+Após configurado, inicie o jogo da memória clicando com o botão esquerdo do mouse 
+em começar. 
+ 
+ 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+2. INTEGRAÇÃO PEDAGÓGICA 
+ 
+Exercícios   de   memorização   auxiliam   o   desenvolvimento   da   atenção,   através   de 
+atividades com essa finalidade é possível avaliar a atenção que o aluno mantém durante 
+a prática, quais objetivos esperados e os resultados obtidos.  
+ 
+Objetivos principais ao trabalhar memorização:  
+1. Estimular a atenção dos alunos;  
+2. Avaliar a concentração em cada atividade;  
+3. Estimular atenção aos detalhes.  
+ 
+Estimular a atenção dos alunos:  
+O desenvolvimento da atenção nos alunos deve estar relacionado a uma atividade com 
+proposta  definida,  o  exercício  da  atenção  deve  direcionar  o  aluno  a  obtenção  de  um 
+resultado educativo, onde o estudante é capaz de perceber sua evolução.  
+ 
+Avaliar a concentração em cada atividade:  
+O  aluno  deve  ser  avaliado  de  acordo  com  o  grau  de  atenção  disponibilizado  em  cada 
+atividade, através da atenção é possível mensurar quais atividades retêm mais atenção 
+e envolvimento dos estudantes.  
+ 
+Estimular atenção aos detalhes:  
+A  elaboração  das  atividades  propostas  pode  utilizar  perguntas  que  desenvolvam  a 
+curiosidade dos alunos aos detalhes da atividade e a sua relação com outros aspectos 
+acessíveis ao seu contexto 
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+3. COMO  TRABALHAR  A  PRÁTICA  “MEMORIZAÇÃO”  NO 
+AMBIENTE ESCOLAR OU FORA DELE? 
+ 
+Este roteiro apresenta algumas possibilidades para trabalhar “MEMORIZAÇÃO”. O 
+educador deve observar:  
+ 
+1. O que chamou a atenção do aluno para realizar a atividade?  
+2. O desenvolvimento foi mais positivo com a utilização de imagens ou textos?  
+3. O aluno conseguiu prestar atenção ao longo de toda a atividade?  
+4. Como relacionar as associações visuais com outros objetivos?  
+ 
+As observações indicadas foram pensadas considerando o aluno atual, que requer 
+identificação de qual objetivo das atividades levadas para a sala de aula e a capacidade 
+de identificar o está sendo aprendido e qual a sua colaboração na construção da 
+aprendizagem.  
+ 
+Os alunos devem ser capazes de identificar como a sua participação é crucial para o 
+desenvolvimento da atividade e a importância da observação dos elementos presentes 
+no seu cotidiano 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE PRÁTICAS DE EDUCAÇÃO ESPECIAL 
+JOGO DA MEMÓRIA 
+ 
+4. AVALIANDO OS RESULTADOS 
+ 
+Siga para  a  seção “Avaliação dos Resultados”, localizada na página 06 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema. 
+ 
+ 

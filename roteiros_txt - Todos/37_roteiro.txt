@@ -1,0 +1,858 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos a  identificação  de 
+substâncias ácidas e básicas através do uso de diferentes indicadores. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver em   100%,   feche   outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de 50 mL; 
+• Pipeta Pasteur; 
+• Solução de Ácido clorídrico (HCL) a 0,1 mol. L-1; 
+• Solução de Hidróxido de sódio (NaOH) a 0,1 mol. L-1; 
+• Solução hidroalcóolica de Alaranjado de Metila (C14H14N3NaO3S) a 1%; 
+• Solução hidroalcóolica de Azul de Bromotimol (C27H28Br2O5S) a 1%; 
+• Solução hidroalcóolica de Fenolftaleína (C20H14O4) a 1%; 
+• Tubos de ensaio. 
+ 
+  
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco branco, luvas e máscara. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Ligue a luz e o exaustor da capela e, em seguida abra a janela e mova os materiais necessários 
+para o interior da capela. 
+ 
+3. ANALISANDO OS INDICADORES EM ÁCIDO FORTE 
+ 
+Transfira o ácido clorídrico para o béquer 1, pipete uma amostra dessa solução para colocar 
+tubo de ensaio 1. Colete mais solução e, repita o procedimento anterior para os tubos 2 e 3. 
+Adicione  o  indicador  de  cor  Fenolftaleína,  ao  tubo  de  ensaio  1  e  homogeneíze  o  tubo.  Em 
+seguida, adicione o indicador de cor Alaranjado de metila ao tubo de ensaio 2 e homogeneíze 
+o tubo. Por fim, adicione o Azul de bromotimol ao tubo de ensaio 3 e homogeneíze o tubo. 
+Observe os resultados apresentados nos tubos de ensaio. Realize a limpeza dos béqueres e da 
+pipeta Pasteur. 
+ 
+4. ANALISANDO OS INDICADORES EM BASE FORTE 
+ 
+Coloque o  Hidróxido de sódio  no béquer 2, pipete uma  amostra  dessa  solução para  colocar 
+tubo de ensaio 4. Colete mais solução e repita o procedimento anterior para os tubos 5 e 6. 
+Adicione  o  indicador  de  cor  Fenolftaleína  ao  tubo  de  ensaio  4  homogeneíze o  tubo. Em 
+seguida, adicione o indicador de cor Alaranjado de metila ao tubo de ensaio 5 e homogeneíze 
+o tubo. Por fim, adicione o Azul de bromotimol ao tubo de ensaio 6 e homogeneíze o tubo. 
+Observe os resultados apresentados. 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Realize a  limpeza  de todos  os  materiais utilizados,  guarde-os  no  armário,  feche  a janela da 
+capela, desligue a luz e exaustor, guarde os EPIs no armário e encerre o experimento. 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+  
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Com  relação  a  mistura  promovida  ao  adicionar  os  indicadores  de  cor  ao  ácido 
+clorídrico, descreva as mudanças de cor, caso observada, para: 
+• Fenolftaleína 
+ 
+• Alaranjado de Metila 
+ 
+• Azul de Bromotimol 
+ 
+2. Com  relação  a  mistura  promovida  ao  adicionar  os indicadores  de  cor  ao 
+hidróxido de sódio, descreva as mudanças de cor, caso observada, para: 
+• Fenolftaleína 
+ 
+• Alaranjado de Metila 
+ 
+• Azul de Bromotimol 
+ 
+  
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “EPI” localizada dentro do painel de visualização no canto superior esquerdo da 
+tela. Se preferir utilize o atalho do teclado “Alt+5”. 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e máscara. 
+ 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize o painel da capela clicando com o botão esquerdo do mouse na câmera com o 
+nome “Painel” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Ligue  o exaustor  da  capela  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+interruptor. 
+ 
+ 
+ 
+Ligue a luz da capela clicando com o botão esquerdo do mouse no local indicado. 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Abra a janela da capela clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Abra o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Mova os itens necessários para o interior da capela clicando com o botão esquerdo do 
+mouse sobre eles e selecione a opção “Colocar na mesa”. 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Feche o armário clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+3. ANALISANDO OS INDICADORES EM ÁCIDO FORTE 
+ 
+Mova o HCl para o béquer 1 clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Colocar no béquer 1”. 
+ 
+ 
+ 
+Aspire  a  solução  do  béquer  1  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta 
+Pasteur e selecione a opção “Succionar do béquer 1”. 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Colocar no tubo de ensaio 1”. 
+ 
+ 
+ 
+Colete  mais  solução  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Coletar mais solução”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Colocar no tubo de ensaio 2”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, succione mais solução e despeje no tubo de ensaio 
+3. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Adicione a fenolftaleína ao tubo 1 clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Selecione o tubo de ensaio desejado clicando com o botão esquerdo do mouse sobre o 
+botão indicado e arraste o mouse para a direita.  
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Deposite o conteúdo clicando com o botão esquerdo do mouse em “Depositar Líquido”. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse em “Retornar”. 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Adicione o alaranjado de metila ao tubo 2 clicando com o botão direito do mouse sobre 
+ele e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, selecione o tubo de interesse e deposite o líquido. 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Visualize o interior da capela clicando com o botão esquerdo do mouse em “Retornar”. 
+ 
+ 
+ 
+Adicione o azul de bromotimol ao tubo 3 clicando com o botão direito do mouse sobre 
+ela e selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+  
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Repita os procedimentos anteriores, selecione o tubo de interesse e deposite o líquido. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse em “Retornar”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Misture o conteúdo do tubo de ensaio clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Misturar tubo de ensaio 1”. 
+ 
+ 
+ 
+Repita o procedimento anterior, misture os tubos de ensaio 2 e 3. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Observe os resultados. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Limpe  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Remover solução e limpar”. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+4. ANALISANDO OS INDICADORES EM BASE FORTE 
+ 
+Mova o  NaOH  para  o  béquer  2  clicando  com  o  botão  direito  do  mouse  sobre  ele  e 
+selecione a opção “Colocar no béquer 2”. 
+ 
+ 
+ 
+Aspire  a  solução  do  béquer  2 clicando  com  o  botão  direito  do  mouse  sobre  a pipeta 
+Pasteur e selecione a opção “Succionar no béquer 2”. 
+ 
+ 
+
+ 
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Colocar no tubo de ensaio 4”. 
+ 
+ 
+ 
+Colete  mais  solução  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Coletar mais solução”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Despeje  o  conteúdo  clicando  com  o  botão  direito  do  mouse  sobre  a pipeta  Pasteur e 
+selecione a opção “Colocar no tubo de ensaio 5”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, succione mais solução e deposite no tubo de ensaio 
+6. 
+ 
+ 
+  
+
+ 
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Adicione a fenolfitaleína ao tubo 1 clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Colocar no tubo de ensaio”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, selecione o tubo de interesse e deposite o líquido. 
+ 
+ 
+  
+
+ 
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Visualize o interior da capela clicando com o botão esquerdo do mouse em “Retornar”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, mova o conta-gotas do alaranjado de metila e azul 
+de bromotimol e deposite nos tubos 5 e 6 respectivamente.  
+ 
+ 
+  
+
+ 
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Misture o conteúdo do tubo de ensaio clicando com o botão direito do mouse sobre ele 
+e selecione a opção “Misturar tubo de ensaio 4”. 
+ 
+ 
+ 
+Repita o procedimento anterior, misture os tubos de ensaio 5 e 6. 
+ 
+ 
+  
+
+ 
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Visualize os tubos de ensaio clicando com o botão esquerdo do mouse na câmera com 
+o nome “Tubos de ensaio” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Observe os resultados. 
+ 
+ 
+  
+
+ 
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+5. FINALIZANDO O EXPERIMENTO 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Limpe o béquer 1 clicando com o botão direito do mouse sobre ele e selecione a opção 
+“Remover solução e limpar béquer”. Repita o mesmo para o béquer 2. 
+ 
+ 
+
+ 
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Limpe os tubos de ensaio clicando com o botão esquerdo do mouse sobre eles e 
+selecione a opção “Remover soluções”. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Abra as portas do armário clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+ 
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Coloque  o  azul  de  bromotimol  de  volta  no  armário  clicando  com  o  botão  direito  do 
+mouse sobre ela e selecione a opção “Colocar no armário”. Repita o procedimento para 
+os demais itens da bancada. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+  
+
+ 
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+Feche as portas do armário clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+ 
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUÍMICA GERAL 
+INDICADORES ÁCIDO-BASE 
+ 
+6. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda  de  acordo  com  o  que  foi  observado  nos  experimentos,  associando  também 
+com os conhecimentos aprendidos sobre o tema.  
+ 
+ 

@@ -1,0 +1,1187 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  observar  o  deslocamento  do  equilíbrio  químico 
+entre Co
+2+
+ e CoCl
+4
+2-
+. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos   ou   reinicie   o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Ácido clorídrico (HCl) (12 M e concentrado); 
+• Ácido sulfúrico (H
+2
+SO
+4
+); 
+• Banho de gelo; 
+• Béquer; 
+• Cloreto de Hexaaquocobalto (II) [Co(H
+2
+O)
+6
+]
+2+
+; 
+• Cloreto de potássio (KCl) (sólido e líquido); 
+• Equipamento para banho-maria; 
+• Espátula; 
+• Nitrato de prata (AgNO
+3
+); 
+• Pipeta Pasteur; 
+• Pisseta com água destilada; 
+• Suporte com tubos de ensaio; 
+• Vidro de relógio. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque  os  equipamentos  de  proteção  individual  localizados  no  “Armário  de  EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+2. POSICIONANDO OS OBJETOS NA MESA 
+ 
+Abra a janela da capela e os armários. Mova todos os objetos necessários ao experimento que 
+estão no armário para a mesa. Ligue a luz e o exaustor da capela. 
+ 
+3. PREPARANDO OS TUBOS DE ENSAIO 
+ 
+Despeje cloreto  de  hexaaquocobalto  (II) no  béquer  com  o  auxílio  do  bastão  de  vidro.  Em 
+seguida, prepare 10 tubos de ensaio colocando, com o auxílio da pipeta Pasteur, 10 gotas da 
+solução  em  cada  um.  Limpe  o  béquer  e  a  pipeta.  Em  sequência,  despeje  o  ácido  clorídrico 
+concentrado no béquer, usando o bastão de vidro, e utilize novamente a pipeta para transferir 
+a solução para os tubos de ensaio 2 e 3. Observe os resultados de cor nas vidrarias. 
+ 
+4. TESTANDO O EQUILÍBRIO COM A TEMPERATURA 
+ 
+Leve o tubo 2 para o banho-maria e o tubo 3 para o banho de gelo, ambos por 20 segundos. 
+Retorne os tubos para o suporte e, em seguida, inverta o procedimento, levando o tubo 2 para 
+o banho de gelo e o tubo 3 para o banho-maria. Compare as cores das soluções desses tubos 
+com a referência do tubo 1. 
+ 
+5. COMPARANDO O DESLOCAMENTO COM KCL 
+ 
+Limpe o béquer e a pipeta Pasteur. Então, com o auxílio do bastão de vidro, adicione a solução 
+de  cloreto  de  potássio  no  béquer.  Em  seguida,  com a pipeta  Pasteur,  pipete  a  solução  nos 
+tubos  4  e  5.  Posteriormente,  realize  a  limpeza  do  béquer  e  da  pipeta,  e  adicione  o  ácido 
+sulfúrico concentrado no béquer utilizando o bastão de vidro para guiar o despejamento da 
+solução. Com a pipeta Pasteur, coloque a solução apenas no tubo 5. Com o auxílio da espátula, 
+despeje  alguns  cristais  de  cloreto  de  potássio  sólido  no  vidro  do  relógio,  transferindo  o 
+conteúdo em seguida para o tubo 6. Sequencialmente, também coloque o cloreto de potássio 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+  
+sólido no tubo de ensaio 7. Depois, pipete a solução de ácido sulfúrico concentrado apenas no 
+tubo de ensaio 7. Compare a cor das soluções dos tubos 4, 5, 6 e 7 com o tubo 1. 
+ 
+6. COMPARANDO COM OUTROS REAGENTES 
+ 
+Limpe  o  béquer  e  a pipeta  Pasteur.  Coloque,  com  o  auxílio  do  bastão de  vidro,  a  solução 
+concentrada de ácido clorídrico no béquer. Posteriormente, pipete, com a pipeta Pasteur, a 
+solução no tubo de ensaio 8. Então, limpe o béquer e a pipeta e adicione a solução de nitrato 
+de prata ao béquer. Em seguida, pipete a solução no tubo de ensaio 9. Novamente, realize a 
+limpeza da pipeta e do béquer. Finalmente, coloque a água armazenada na pisseta no béquer 
+e, com a pipeta Pasteur, pipete a água no tubo de ensaio 10. Compare as cores dos tubos de 
+ensaio 8 ao 10 com o tubo de ensaio 1. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  na  página  08 deste  roteiro,  e 
+responda de  acordo  com  o  que  foi  observado no  experimento,  associando  também  com  os 
+conhecimentos aprendidos sobre o tema. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Deslocamento de equilibro ocorre quando o sistema for submetido a uma ação 
+externa,  conhecido  como  princípio  de  Le  Chatelier.  No  caso  do  procedimento 
+realizado  anteriormente,  em  quais  situações  obteve-se  deslocamento  para 
+direita e esquerda, e quais condições promoveram esse deslocamento? 
+ 
+ 
+ 
+2. Como a variação da pressão promove o deslocamento de equilíbrio? 
+ 
+ 
+ 
+3. É possível obter uma reação em constante equilíbrio, em quais condições pode-
+se determinar o equilíbrio da reação? 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize o armário de EPIs clicando com o botão esquerdo do mouse na câmera com o 
+nome “Armário de EPIs” localizada dentro do painel de visualização no canto superior 
+esquerdo da tela. Se preferir utilize o atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, luvas e óculos. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Feche o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+ 
+Visualize a  capela  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+2. POSICIONANDO OS OBJETOS NA MESA 
+ 
+Abra o vidro da capela clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Visualize o armário clicando com o botão esquerdo do mouse na câmera com o nome 
+“Armário” ou através do atalho do teclado “Alt+4”. 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Abra as portas do armário clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Mova os itens para a capela clicando com o botão esquerdo do mouse sobre eles. 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Feche as portas dos armários clicando como botão esquerdo do mouse sobre elas. 
+ 
+ 
+ 
+Ligue  a  luz  e  o  exaustor  da  capela  clicando  com  o  botão  esquerdo  do  mouse  nos 
+interruptores. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+3. PREPARANDO OS TUBOS DE ENSAIO 
+ 
+Despeje o cloreto de hexaaquocobalto (II) no béquer clicando com o botão esquerdo do 
+mouse sobre a garrafa âmbar. 
+ 
+ 
+ 
+Pipete o cloreto de hexaaquocobalto (II) do béquer clicando com o botão esquerdo do 
+mouse sobre a pipeta Pasteur. 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Transfira o conteúdo clicando com o botão direito do mouse sobre a pipeta e selecione 
+a opção “Colocar nos tubos de ensaio 1-6”. 
+ 
+ 
+ 
+Selecione o tubo de ensaio clicando com o botão esquerdo do mouse em um deles. 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete  o  cloreto  de  hexaaquocobalto  (II)  do  béquer  clicando  com  o  botão  direito  do 
+mouse sobre a pipeta Pasteur e selecione a opção “Coletar mais da última solução”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, pipete a solução de cloreto de hexaaquocobalto (II) 
+e transfira para os tubos de ensaio de 2 a 6. 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Repita os procedimentos anteriores, pipete a solução de cloreto de hexaaquocobalto (II) 
+e transfira para os tubos de ensaio de 7 a 12. 
+ 
+ 
+ 
+Limpe o béquer clicando com o botão esquerdo do mouse nele. 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Limpe  a  pipeta  clicando com  o  botão  direito  do mouse  na  pipeta e  selecione a  opção 
+“Remover solução e limpar”. 
+ 
+ 
+ 
+Despeje o ácido clorídrico no béquer clicando com o botão esquerdo do mouse sobre a 
+garrafa indicada. 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete a solução do béquer clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+ 
+Despeje o HCl concentrado clicando com o botão direito do mouse sobre pipeta Pasteur 
+e selecione a opção “Colocar nos tubos de ensaio 1-6”. 
+ 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Selecione o tubo de ensaio 2 clicando com o botão esquerdo do mouse sobre a opção. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete  a  solução  do  béquer  clicando  com  o  botão direito  do  mouse  sobre  a  pipeta e 
+selecione a opção “Coletar mais da última solução”. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, pipete o ácido clorídrico e transfira para o tubo de 
+ensaio 3. 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Observe a mudança de coloração. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+4. TESTANDO O EQUILÍBRIO COM A TEMPERATURA 
+ 
+Mova um tubo ao banho-maria clicando com o botão direito do mouse sobre o suporte 
+e selecione a opção “Mover um tubo para o banho-maria”. 
+ 
+ 
+ 
+Selecione  o tubo  de  ensaio  2  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado abaixo. 
+ 
+ 
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Aguarde por 20 segundos. 
+ 
+ 
+ 
+Mova um tubo de ensaio para o banho de gelo clicando com o botão direito do mouse 
+no suporte e selecione a opção “Mover um tubo para o gelo”. 
+ 
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Selecione o  tubo de  ensaio 3  clicando  com  o  botão  esquerdo  do  mouse  no  botão 
+indicado abaixo. 
+ 
+ 
+ 
+Aguarde por 20 segundos. 
+ 
+ 
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos anteriores, mova o  tubo  2  no  banho  de  gelo  e o tubo  3  no 
+banho-maria, ambos por 20 segundos. 
+ 
+ 
+ 
+Compare as cores das soluções com a referência do tubo de ensaio 1. 
+ 
+ 
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+5. COMPARANDO O DESLOCAMENTO COM KCL 
+ 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Limpe a pipeta Pasteur clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Remover solução e limpar”. 
+ 
+ 
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque o cloreto de potássio no béquer clicando com o botão esquerdo do mouse no 
+frasco contendo a solução. 
+ 
+ 
+ 
+Pipete a solução do béquer clicando com o botão esquerdo do mouse na pipeta Pasteur. 
+ 
+ 
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque a solução no tubo de ensaio clicando com o botão direito do mouse na pipeta 
+e selecione a opção “Colocar nos tubos de ensaio 1-6”. 
+ 
+ 
+ 
+Despeje a  solução  no  tubo  de  ensaio  4  clicando  com  o  botão  esquerdo  do  mouse  no 
+botão indicado. 
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Pipete o cloreto de potássio do béquer clicando com o botão direito do mouse sobre a 
+pipeta Pasteur e selecione a opção “Coletar mais da última solução”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Repita os procedimentos anteriores, pipete a solução de cloreto de potássio e transfira 
+para o tubo de ensaio 5. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Limpe a pipeta Pasteur clicando com o botão direito do mouse sobre ela e selecione a 
+opção “Remover solução e limpar”. 
+ 
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque  o  ácido  sulfúrico  no  béquer  clicando  com o  botão  esquerdo  do  mouse sobre 
+ele. 
+ 
+ 
+ 
+Pipete o ácido sulfúrico do béquer clicando com o botão esquerdo do mouse na pipeta 
+Pasteur. 
+ 
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque  o  ácido  sulfúrico no  tubo de  ensaio  clicando  com  o  botão  direito  do  mouse 
+sobre pipeta e selecione a opção “Colocar nos tubos de ensaio 1-6”. 
+ 
+ 
+ 
+Pipete  o  conteúdo  da  pipeta  no  tubo 5 clicando  com  o  botão  esquerdo  do  mouse  no 
+botão indicado. 
+ 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Recolha  o  menu  de  visualização  clicando  com  o  botão  esquerdo  do  mouse  em 
+“Visualização”. 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Destampe o frasco com o cloreto de potássio sólido clicando com o botão esquerdo do 
+mouse nele. 
+ 
+ 
+ 
+Despeje  alguns  cristais  de  KCl  no  vidro  de  relógio  clicando  com  o  botão  esquerdo  do 
+mouse no frasco contendo a substância. 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Despeje o cloreto de potássio sólido no tubo de ensaio clicando com o botão direito do 
+mouse sobre o vidro de relógio e selecione a opção “Despejar no tubo de ensaio 1-6”. 
+ 
+ 
+ 
+Despeje o KCl no tubo de ensaio 6 clicando com o botão esquerdo do mouse no botão 
+indicado. 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Visualize o   menu   de câmeras clicando   com   o   botão   esquerdo   do   mouse   em 
+“Visualização”. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Repita  os  procedimentos anteriores,  despeje  os  cristais  de  KCl  no  vidro  de  relógio  e 
+transfira para o tubo de ensaio 7. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Tampe o frasco com o KCl sólido clicando com o botão direito do mouse sobre ele. 
+ 
+ 
+ 
+Repita os procedimentos anteriores, pipete a solução de ácido sulfúrico e transfira para 
+o tubo de ensaio 7. 
+ 
+ 
+  
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+6. COMPARANDO COM OUTROS REAGENTES 
+ 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Limpe  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Remover solução e limpar”. 
+ 
+ 
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque  a  solução  de  ácido  clorídrico  concentrado  no  béquer  clicando  com  o  botão 
+esquerdo do mouse sobre a garrafa indicada. 
+ 
+ 
+ 
+Pipeta  a  solução  concentrada  de  HCl  do  béquer  clicando  com  o  botão  esquerdo  do 
+mouse na pipeta. 
+ 
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete o HCl no tubo de ensaio clicando com o botão direito do mouse na pipeta Pasteur 
+e selecione a opção “Colocar nos tubos de ensaio 7-12”. 
+ 
+ 
+ 
+Pipete o ácido no tubo 8 clicando com o botão esquerdo do mouse no botão indicado 
+abaixo. 
+ 
+ 
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Limpe  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Remover solução e limpar”. 
+ 
+ 
+ 
+Coloque nitrato de prata no béquer clicando com o botão esquerdo do mouse sobre a 
+garrafa indicada. 
+ 
+ 
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete  o  nitrato  de  prata  clicando  com  o  botão  esquerdo  do  mouse  sobre  a pipeta 
+Pasteur. 
+ 
+ 
+ 
+Coloque o  nitrato de  prata no tubo  de  ensaio  clicando  com  o botão direito do mouse 
+sobre a pipeta Pasteur e selecione a opção “Colocar nos tubos de ensaio 7-12”. 
+ 
+ 
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Pipete o nitrato de prata no tubo 09 clicando com o botão esquerdo do mouse no botão 
+indicado abaixo. 
+ 
+ 
+ 
+Visualize o interior da capela clicando com o botão esquerdo do mouse na câmera com 
+o nome “Capela” ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+  
+
+  
+ 
+50 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Limpe o béquer clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Limpe  a  pipeta  clicando  com  o  botão  direito  do  mouse  sobre  ela  e  selecione  a  opção 
+“Remover solução e limpar”. 
+ 
+ 
+  
+
+  
+ 
+51 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque a água destilada no béquer clicando com o botão esquerdo do mouse sobre a 
+pisseta. 
+ 
+ 
+ 
+Pipete a água do béquer clicando com o botão esquerdo do mouse sobre a pipeta. 
+ 
+ 
+  
+
+  
+ 
+52 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Coloque  a  água  da  pipeta  no  tubo  de  ensaio  clicando  com  o  botão  direito do mouse 
+sobre a pipeta Pasteur e selecione a opção “Colocar nos tubos de ensaio 7-12”. 
+ 
+ 
+ 
+Pipete o nitrato de prata no tubo 10 clicando com o botão esquerdo do mouse no botão 
+indicado abaixo. 
+ 
+ 
+  
+
+  
+ 
+53 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+Compare os resultados de cor dos tubos de ensaio 8 ao 10 com o tubo de ensaio 1. 
+ 
+ 
+  
+
+  
+ 
+54 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE TRANSFORMAÇÕES QUÍMICAS 
+DESLOCAMENTO DE EQUILÍBRIO QUÍMICO 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada na página 08 deste  roteiro,  e 
+responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+ 

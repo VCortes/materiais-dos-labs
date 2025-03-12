@@ -1,0 +1,582 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste experimento você irá aprender como ocorre um método de separação de 
+misturas heterogêneas através do processo de filtração simples. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Béquer de capacidade volumétrica de 250mL; 
+• Bastão de vidro; 
+• Suporte universal com argola; 
+• Espátula de aço inox; 
+• Solução aquosa de Sulfato de cobre II a 0,3 mol.L
+-1
+ (0,3M) 
+• Dióxido de silício; 
+• Papel de filtro qualitativo; 
+• Funil analítico liso de haste curta com ângulo de 60°. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no armário de EPIs. 
+ 
+2. PREPARANDO O EXPERIMENTO 
+ 
+Coloque todos  os  itens  necessários  ao  experimento,  que  se  encontram nas 
+gavetas e no armário. 
+Posicione o funil analítico na argola, realize o processo de dobragem do papel 
+filtro qualitativo e posicione-o no funil. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+3. PROMOVENDO A MISTURA 
+ 
+Coloque  uma  amostra  da solução  aquosa  de  Sulfato  de  cobre  II  a  0,3 mol.L
+-1
+ 
+(0,3M) no béquer 1, e, logo após, acrescente 3g de dióxido de silício ao béquer 
+1. Promova a mistura no béquer 1 com o bastão de vidro.  
+ 
+4. REALIZANDO A FILTRAÇÃO 
+ 
+Posicione o béquer 2, vazio, embaixo do funil analítico e coloque a mistura do 
+béquer 1 em cima do funil analítico. Visualize o funil e o filtro de separação.  
+ 
+5. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo 
+com o que foi observado nos experimentos.  
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Coloque o bastão de vidro na mesa e feche o pote de dióxido de silício. 
+Retorne o filtro analítico para a mesa, troque o papel filtro e retire o béquer do 
+funil. Por fim, remova o conteúdo dos béqueres. 
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+1. Qual  a  função  do  papel  filtro  no  experimento e  o  que  foi  observado  nele  após  a 
+separação? 
+ 
+ 
+2. Com base em seus conhecimentos, como a porosidade do filtro poderia interferir no 
+processo de filtração? 
+ 
+ 
+3. Quantas fases você consegue observar no experimento?  
+ 
+ 
+4. Qual o precipitado formado nesta mistura? Explique sua resposta. 
+ 
+ 
+5. Identifique as fases presentes no béquer e as suas respectivas fórmulas. 
+ 
+ 
+6. O que foi observado no béquer após a separação? 
+ 
+ 
+7. Com base nos resultados obtidos após a filtração, o que você poderia afirmar sobre 
+as  moléculas  da  solução  aquosa  de  sulfato  de  cobre  e  de  dióxido  de  silício,  em 
+relação ao filtro de papel utilizado? 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Acesse a câmera “EPI”, clicando no menu localizado na lateral superior esquerda. 
+ 
+ 
+ 
+Abra o armário, clicando com o botão esquerdo do sobre suas portas. 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Coloque os  EPIs  necessários  para  a  realização  do  experimento,  clicando  sobre  eles  e 
+selecionando a opção “Usar este item”. Nesse experimento serão necessários jaleco e 
+luvas. 
+ 
+ 
+ 
+Note  que  na  parte  inferior  da  tela  estão  presentes  todos  os  EPIs  anteriormente 
+selecionados. Para que o EPI retorne ao armário, clique com o botão esquerdo do mouse 
+sobre  eles.  O  não  uso  do  EPI pode  ocasionar  a  não  permissão  para  a  execução  do 
+experimento. 
+ 
+ 
+ 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+2. MONTANDO O EXPERIMENTO 
+ 
+Visualize as vidrarias e acessórios, acessando a câmera “Gavetas”. 
+ 
+ 
+ 
+Abra as gavetas, clicando com o botão esquerdo do mouse sobre elas. 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Coloque os materiais sobre a mesa, clicando sobre eles e selecionando a opção “Colocar 
+na mesa”. Em seguida, feche as gavetas, clicando com o botão esquerdo do mouse sobre 
+elas. 
+ 
+ 
+ 
+Acesse a câmera “Armário” para visualizá-lo. 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Abra o armário, clicando com o botão esquerdo do mouse sobre ele. 
+ 
+ 
+ 
+Coloque  o  papel  filtro qualitativo,  a  espátula  de  aço  inox  e  o  bastão  de  vidro  sobre  a 
+mesa,  clicando  com o  botão  esquerdo  do  mouse sobre  eles e  selecionando a  opção 
+“Colocar  na  mesa”. Acesse  a  câmera “Mesa”,  clicando  na  opção  exibida  no  canto 
+superior esquerdo do mouse. 
+ 
+ 
+ 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Posicione o funil analítico na argola, clicando com o botão esquerdo do mouse sobre ele 
+e selecionando a opção “Posicionar na argola”. 
+ 
+ 
+ 
+Observe a posição do funil analítico. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Dobre o papel filtro qualitativo, clicando com o botão esquerdo do mouse sobre ele e 
+selecionando a opção “Dobrar”. Em seguida, clique 3 vezes com o  botão esquerdo do 
+mouse na opção “Próximo” para realizar o processo de dobramento.  
+ 
+ 
+ 
+Conclua, para continuar  o experimento, clicando  com  o botão esquerdo do mouse na 
+opção “Concluir”. 
+ 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Posicione o papel no funil analítico, clicando com o botão esquerdo do mouse no papel 
+filtro e selecionando a opção “Posicionar no funil”. 
+ 
+ 
+  
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+3. PROMOVENDO A MISTURA 
+ 
+Acesse a câmera “Soluções”. Em seguida, coloque a solução aquosa de Sulfato de cobre 
+II a 0,3 mol.L-1 (0,3M) sobre a mesa, clicando com o botão esquerdo do mouse sobre a 
+solução e selecionando a opção “Colocar na mesa”. Volte para a câmera “Mesa”. 
+ 
+ 
+Coloque uma amostra da solução aquosa de Sulfato de cobre II a 0,3 mol.L-1 (0,3M) no 
+béquer 1, clicando com o botão esquerdo do mouse na solução e selecionando a opção 
+“Colocar no béquer 1”. 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Guarde a solução  aquosa  de  Sulfato  de  cobre  II  a  0,3  mol.L-1  (0,3M) de cobre  na 
+prateleira, clicando com o botão esquerdo do mouse sobre a solução e selecionando a 
+opção “Colocar na prateleira”. 
+ 
+ 
+ 
+Abra o pote de dióxido de silício, clicando com o botão esquerdo do mouse sobre ele e 
+selecionando a opção “Abrir pote”. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Acrescente  3  g  de  dióxido  de  silício  no  béquer  1,  clicando  com  o  botão  esquerdo  do 
+mouse na espátula de aço inox e selecionando a opção “Acrescentar dióxido de silício 
+no Béquer 1”. Considere que cada espátula transporta em média 1g de dióxido de silício. 
+ 
+ 
+ 
+Promova a mistura no béquer 1, clicando com o botão esquerdo do mouse no bastão de 
+vidro  e  selecionando a  opção  “Misturar  béquer  1”. Observe o  que  acontece  e,  em 
+seguida,  examine  o  conteúdo,  passando o  mouse  sobre  o  béquer  para  obter  algumas 
+informações. Ao terminar, retorne. 
+ 
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+4. REALIZANDO A FILTRAÇÃO 
+ 
+Coloque o béquer 2, vazio, embaixo do funil analítico, clicando com o botão esquerdo 
+do mouse no béquer e selecionando a opção “Colocar embaixo do funil”. 
+ 
+ 
+ 
+Coloque o bastão de vidro no funil analítico, clicando com o botão esquerdo do mouse 
+sobre ele e selecionando a opção “Colocar no funil”. 
+ 
+ 
+ 
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+Coloque a mistura em cima do funil analítico, clicando com o botão esquerdo do mouse 
+no béquer 1, que contém a mistura, e selecionando a opção “Colocar em cima do funil”. 
+ 
+ 
+ 
+Acesse  a câmera  “Funil”  para  poder  visualizá-lo,  aproxime  o  funil analítico rolando  o 
+botão do meio do mouse. Verifique o filtro de separação. 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE QUIMICA GERAL 
+SEPARAÇÃO DE MISTURA HETEROGÊNEA 
+FILTRAÇÃO SIMPLES 
+ 
+5. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação de Resultados”, neste roteiro, e responda de acordo com o 
+que foi observado no experimento. Caso seja necessário, retorne ao experimento para 
+auxiliar a avaliação dos resultados.  
+ 
+ 
+6. FINALIZANDO O EXPERIMENTO 
+ 
+Coloque o bastão de vidro na mesa, clicando com o botão esquerdo do mouse sobre o 
+ele e selecionando a opção “Colocar na mesa”.  
+Feche o pote de dióxido de silício, clicando sobre ele e selecionando a opção desejada. 
+Retorne o filtro analítico para a mesa, clicando com o botão esquerdo do mouse sobre 
+o ele e selecionando a opção “Retornar para a mesa”. Troque o papel filtro qualitativo, 
+clicando sobre ele. 
+Retire o béquer do funil analítico, clicando com o botão esquerdo do mouse no béquer 
+que está no aparato de filtração e escolha opção “Retirar de baixo do funil”. Remova o 
+conteúdo dos béqueres. 
+ 
+ 

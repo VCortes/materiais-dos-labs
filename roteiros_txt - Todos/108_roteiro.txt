@@ -1,0 +1,556 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Nesta  prática,  você  verificará  a  perda  de  carga  distribuída  em  tubulações  de 
+diferentes diâmetros, materiais e vazões.  
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade  com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Tubulação de PVC 32 mm; 
+• Tubulação de PVC 25 mm; 
+• Tubulação de cobre 28 mm; 
+• Tubulação de acrílico 25 mm; 
+• Manômetro em U; 
+• Rotâmetro; 
+• Válvulas; 
+• Quadro elétrico; 
+• Bombas. 
+ 
+PROCEDIMENTOS 
+ 
+1. ENTENDENDO O FUNCIONAMENTO DA PRÁTICA  
+ 
+Para   dar   início   ao laboratório   virtual   de   Perda   de   Carga   Distribuída,   é 
+recomendado que se explore os principais recursos disponíveis. 
+ 
+2. POSICIONANDO AS VÁLVULAS DAS BOMBAS  
+ 
+Posicione as válvulas na seguinte posição: válvulas A1 e B2 abertas e válvulas B1 
+e A2 fechadas. 
+ 
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+3. POSICIONANDO AS VÁLVULAS DAS LINHAS 
+ 
+Configure    as   válvulas   correspondentes   a   linha   que   deseja   realizar    o 
+experimento. As configurações de cada linha estão disponíveis abaixo: 
+ 
+Linha 1 - Tubo de PVC 32mm 
+• Válvulas abertas: C2, V03 
+• Válvulas fechadas: V04, V05, V06, V07, V08, V09, V10, V11 
+Linha 2 - Tubo de PVC 25mm 
+• Válvulas abertas: C2, V04 
+• Válvulas fechadas: V03, V05, V06, V07, V08, V09, V10, V11 
+Linha 3 - Tubo de Cobre 28mm 
+• Válvulas abertas: C2, V05 
+• Válvulas fechadas: V03, V04, V06, V07, V08, V09, V10, V11 
+Linha 4 - Tubo de Acrílico 25mm 
+• Válvulas abertas: C2, V06 
+• Válvulas fechadas: V03, V04, V05, V07, V08, V09, V10, V11 
+ 
+4. CONECTANDO AS MANGUEIRAS  
+ 
+Conecte  as  mangueiras  de  tomada  de  pressão  na  linha  a  qual  o  experimento 
+será realizado. A distância entre os pontos de tomada de pressão é de um metro 
+em qualquer uma das linhas. 
+ 
+5. LIGANDO A BOMBA 
+ 
+Mantenha o botão de emergência desativado. Habilite a bomba 2. Posicione o 
+potenciômetro de vazão no centro da sua escala. Ligue o sistema. 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+6. VARIANDO A VAZÃO 
+ 
+Varie  a  vazão  utilizando  o  potenciômetro  e  anote-a,  assim  como  a  perda  de 
+carga correspondente. Você precisará de cinco pontos. Calcule o desvio relativo 
+em relação às perdas de cargas obtidas teoricamente. 
+ 
+7. REALIZANDO A PRÁTICA EM OUTRA LINHA  
+ 
+Desligue o painel elétrico, desabilite a bomba 2 e desconecte a mangueira. Em 
+seguida, configure a bancada para realizar a prática com outra linha. Verifique 
+as  configurações  necessárias  no  item  3  deste  roteiro  ou  no  esquemático  da 
+prática.  
+ 
+8. AVALIANDO O RESULTADO 
+ 
+Desabilite a bomba 2, desligue o sistema, desconecte as mangueiras e retorne 
+as válvulas para a sua posição inicial para finalizar a prática.   
+ 
+ 
+ 
+  
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Quais são as principais fontes de erros para este experimento? A discrepância foi 
+grande  entre  os  valores  teóricos  e  experimentais? Para  os  cálculos,  considere 
+que  a  distância  entre  os  pontos  de  tomada  de  pressão  é  de  um  metro  em 
+qualquer uma das linhas. 
+ 
+ 
+ 
+ 
+2. Analise os dados para cada tubulação e responda. Qual a influência do diâmetro 
+da  tubulação,  do  material  e  da  vazão  na  perda  de carga  distribuída?  Se 
+necessário plote os valores de Vazão x Perda de Carga num papel milimetrado 
+ou software gráfico para uma análise mais completa. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ENTENDENDO O FUNCIONAMENTO DA PRÁTICA 
+ 
+Durante a realização do laboratório virtual, estarão disponíveis na tela algumas opções 
+de atalhos para auxiliar durante o experimento. 
+Inicialmente, explore o menu de visualização clicando com o botão esquerdo do mouse 
+sobre  cada  câmera.  A visualização  será  alterada.  Note  que  atalhos  também  são 
+disponibilizados para facilitar a transição de uma câmera para outra.  
+ 
+ 
+ 
+No canto superior direito da tela está o botão da engrenagem que representa o menu 
+de  opções,  onde  a  prática  pode  ser  reiniciada. Já  o  botão  com  o  caderno  fornece o 
+esquemático  da  bancada  didática,  onde  podem  ser  visualizados  todos  os  acessórios  a 
+serem ensaiados e dispositivos auxiliares. Clique com o botão esquerdo do mouse sobre 
+cada opção para visualizar. 
+ 
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+Para facilitar na realização dos experimentos, janelas de pop-up podem ser acessadas 
+no  rotâmetro  (medidor  de  vazão)  e  no  manômetro  em  U  (medidor  diferencial  de 
+pressão).   Para   acessá-las,   basta   clicar   com   o   botão   direito   do   mouse   sobre   os 
+dispositivos e as janelas serão abertas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+2. POSICIONANDO AS VÁLVULAS DAS BOMBAS 
+ 
+Mude  a  câmera  para “Bombas”,  “Alt+4”. Em  seguida, realize  o  posicionamento  das 
+válvulas clicando com o botão esquerdo do mouse sobre a manopla (parte laranja).  
+ 
+ 
+ 
+Posicione as válvulas de acordo com o que segue:  
+• Válvulas abertas: A1 e B2;  
+• Válvulas Fechadas: B1 e A2. 
+ 
+ 
+ 
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+3. POSICIONANDO AS VÁLVULAS DAS LINHAS  
+ 
+Agora, posicione as válvulas da parte frontal da bancada. Comece a prática com a linha 
+1  (tubulação  de  PVC com  32  mm). Posicione  as  válvulas  de  acordo  com  as  seguintes 
+configurações: 
+• Válvulas abertas: C2 e V03; 
+• Válvulas fechadas: V04, V05, V06, V07, V08, V09, V10 e V11. 
+ 
+ 
+ 
+Abra   o   esquemático   e   verifique   se   as   configurações   estão de   acordo   com o 
+recomendado clicando no símbolo do esquemático com o botão esquerdo do mouse. 
+ 
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+4. CONECTANDO AS MANGUEIRAS 
+ 
+Agora que as válvulas estão posicionadas, conecte as mangueiras de tomada de pressão 
+na linha em que o experimento será realizado clicando no manômetro em U com o botão 
+esquerdo  do  mouse. Em  seguida, clique  na  tubulação  que  será  ensaiada. A  distância 
+entre os pontos de tomada de pressão é de um metro em qualquer uma das linhas. 
+ 
+ 
+ 
+Logo depois, clique na tubulação que será ensaiada (tubo de PVC de 32 mm) também 
+com o botão esquerdo do mouse.  
+ 
+ 
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+5. LIGANDO A BOMBA 
+ 
+Mude a visualização para o painel elétrico, “Alt+3”. 
+Inicialmente, observe se o botão de emergência está desativado. Nesta condição, a luz 
+verde “Painel Energizado” permanece acionada.  
+ 
+ 
+ 
+Habilite a bomba 2 clicando com o botão esquerdo do mouse sobre a chave seletora da 
+bomba 2. Note que a luz vermelha referente a “Bomba 2 operando”, acenderá.  
+ 
+ 
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+Posicione  o  potenciômetro  de  controle  de  vazão  aproximadamente  no  centro  da  sua 
+escala. Para facilitar o manuseio, habilite a janela de pop-up.  
+ 
+ 
+ 
+Posicione o potenciômetro na posição indicada clicando na barra com o botão esquerdo 
+do e arrastando para um dos lados. 
+ 
+ 
+ 
+Após realizar a configuração, feche a janela.  
+ 
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+Ligue a bomba clicando no botão “LIGA” com o botão esquerdo do mouse. Note que a 
+luz verde do inversor será ativada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+6. VARIANDO A VAZÃO 
+ 
+Mude a visualização para as válvulas de controle, “Alt+5” e ative as janelas de pop-up 
+clicando no rotâmetro e no manômetro em U com o botão direito do mouse. 
+ 
+ 
+ 
+Varie a vazão alterando o posicionamento do potenciômetro clicando nele com o botão 
+esquerdo do mouse. Observe as alterações no rotâmetro e no manômetro em U. Repita 
+esse procedimento algumas vezes.  
+ 
+ 
+ 
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+ 
+7. REALIZANDO A PRÁTICA EM OUTRA LINHA 
+ 
+O  mesmo  procedimento  executado  anteriormente  com a  tubulação de  PVC 32 mm 
+deverá ser executado nas demais linhas.  
+Inicialmente, mude a visualização para o painel de controle, “Alt+3”.  
+Em  seguida, desligue  a  bomba clicando com  o  botão  esquerdo  do  mouse  no  botão 
+“DESLIGA”. Note que a luz verde do inversor será apagada. 
+ 
+ 
+ 
+Agora, desconecte as mangueiras. Com o cursor do mouse sobre a mangueira, note que 
+aparecerá um “x” vermelho. Clique nele com o botão esquerdo do mouse.  
+ 
+ 
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ENGENHARIA  
+PERDA DE CARGA DISTRIBUÍDA 
+Altere a posição das válvulas para realizar o procedimento com a tubulação de PVC de 
+25 mm. Volte ao passo 3 do procedimento geral deste roteiro ou consulte o esquemático 
+2 para verificar o posicionamento das válvulas.  
+ 
+ 
+ 
+Repita  todo  procedimento  mostrado  anteriormente com  a  tubulação  de  PVC  25  mm, 
+observe o resultado e execute o mesmo procedimento com as outras linhas.  
+ 
+ 
+ 
+8. AVALIANDO OS RESULTADOS 
+ 
+Desabilite  a  bomba  2, desligue  o  sistema, desconecte  as  mangueiras e  retorne  as 
+válvulas para a sua posição inicial para finalizar a prática.   
+ 

@@ -1,0 +1,640 @@
+
+
+ 
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+1. Neste  experimento,  você  irá  aprimorar  seus  conhecimentos  sobre  o  ensaio 
+Jominy. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+ 
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS  ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+ 
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique  o  uso  do  disco  no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche  outros   aplicativos  ou   reinicie   o 
+computador. 
+  
+
+ 
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+ 
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• 2 Placas de Petri; 
+• 5  Tarugos  de  metal  dos  respectivos  aços  (SAE  1020,  SAE  1045,  SAE  4140,  SAE 
+4340, SAE 8620); 
+• Ácido clorídrico; 
+• Ácido nítrico; 
+• Dispositivo de ensaio Jominy; 
+• Durômetro Rockwell; 
+• Mufla; 
+• Pinça tenaz; 
+• Traçador de altura; 
+• Vaso para mergulho. 
+ 
+PROCEDIMENTOS 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Coloque os equipamentos de proteção individual localizados no “Armário de EPIs”. Nesse 
+experimento, é obrigatório o uso de jaleco, óculos e luvas. 
+ 
+
+ 
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+2. USINANDO O CORPO DE PROVA 
+ 
+Usine o tarugo de aço SAE 1020 para utilizar no ensaio. 
+ 
+3. AQUECENDO A PEÇA 
+ 
+Selecione a temperatura de 900 ºC, ligue a mufla e espere aquecer. Abra a mufla. Mova a 
+peça para a mufla e feche a porta do equipamento.  
+ 
+4. PREPARANDO O DISPOSITIVO DE ENSAIO JOMINY 
+ 
+Abra a válvula da saída de água para o resfriamento da peça e ajuste o jato de água até a 
+altura de 65mm. Feche a válvula da saída de água e seque o dispositivo de ensaio Jominy. 
+ 
+5. RESFRIANDO A PEÇA 
+ 
+Abra a mufla. Mova a peça para o dispositivo de ensaio Jominy e ligue o jato de água para 
+o resfriamento da peça até alcançar temperatura ambiente. 
+ 
+6. DETERMINANDO A DUREZA 
+ 
+Retire  a  peça  do  dispositivo  Jominy  e certifique  que seja  possível  fazer  as  medições  na 
+peça. Lave a peça em água quente. Mova a peça para o recipiente contendo ácido nítrico 
+e  solução  de  ácido  clorídrico  concentrado. Lave  novamente  em  água  quente.  Realize 
+marcações  na  peça, com  auxílio  do  traçador  de  altura.  Posicione  o  corpo  de  prova  no 
+
+ 
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+  
+durômetro  de  Rockwell  e  realize  as  medições  de  dureza.  Repita os  procedimentos 
+anteriores com as demais peças. 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga para a seção “Avaliação dos Resultados”, localizada nas páginas 08 e 09 deste roteiro, 
+e responda de acordo com o que foi observado no experimento, associando também com 
+os conhecimentos aprendidos sobre o tema.  
+ 
+
+ 
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Preencha a tabela abaixo para cada corpo de prova e trace um gráfico em papel 
+milimetrado  ou  utilize  o  Excel  para  comparar  as  curvas  de  Distância  (mm)  x 
+Dureza (HRC). 
+ 
+Dureza obtida HRC 
+Distância 
+(mm) 
+Dureza 
+(HRC) 
+Distância 
+(mm) 
+Dureza 
+(HRC) 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+ 
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+    
+ 
+ 
+ 
+2. Quais   são   as   principais   diferenças   identificadas   em   termos   de   durezas   e 
+prováveis microestruturas? 
+ 
+ 
+ 
+3. Por que se deve aquecer as peças até 900 °C? 
+ 
+ 
+ 
+4. Podemos considerar o aço SAE 4340 um aço de fácil temperabilidade? Por quê?  
+ 
+ 
+ 
+  
+
+ 
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Abra o armário de EPIs clicando com o botão esquerdo do mouse sobre as portas. 
+ 
+ 
+  
+
+ 
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Selecione os EPIs necessários para a realização do ensaio clicando com o botão esquerdo 
+do mouse sobre eles. Nesse experimento, é obrigatório o uso de jaleco, óculos e luvas. 
+ 
+ 
+ 
+  
+
+ 
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+2. USINANDO O CORPO DE PROVA 
+ 
+Usine  o tarugo  de  aço  SAE  1020 clicando  com  o  botão  direito  do  mouse  no  corpo de 
+prova indicado e selecione a opção “Usinar corpo de prova”. 
+ 
+ 
+  
+
+ 
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+3. AQUECENDO A PEÇA 
+ 
+Selecione a temperatura da mufla clicando com o botão direito do mouse sobre ela e 
+selecione a opção “900 °C”. 
+ 
+ 
+ 
+Abra a mufla clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+
+ 
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Mova a peça clicando com o botão direito sobre o corpo de prova e selecione a opção 
+“Enviar para mufla”. 
+ 
+ 
+ 
+Feche a mufla clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+  
+
+ 
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Ligue a mufla clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+ 
+Aguarde por 60 minutos ou acelere o tempo clicando com o botão esquerdo do mouse 
+no local indicado e arraste para a direita. 
+ 
+ 
+ 
+  
+
+ 
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+4. PREPARANDO O DISPOSITIVO DE ENSAIO JOMINY 
+ 
+Visualize o dispositivo de  Ensaio Jominy clicando  com o botão  esquerdo do  mouse na 
+câmera  com  o  nome “Dispositivo  de  Ensaio  Jominy”  ou  através  do  atalho  do  teclado 
+“Alt+4”. 
+ 
+ 
+ 
+Abra a válvula clicando com o botão direito do mouse sobre o local indicado e selecione 
+a opção “Abrir válvula”. 
+ 
+ 
+
+ 
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Ajuste  a altura  do  jato  de  água  clicando  com  o  botão  esquerdo  do  mouse no  local 
+indicado e arraste para a direita. 
+ 
+ 
+ 
+Feche  o jato  de  água  clicando  com  o botão  direito  do  mouse  sobre o  local  indicado  e 
+selecione a opção “Fechar válvula”. 
+ 
+ 
+  
+
+ 
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Seque o dispositivo de ensaio Jominy clicando com o botão esquerdo do mouse sobre 
+ele. 
+ 
+ 
+  
+
+ 
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+5. RESFRIANDO A PEÇA 
+ 
+Visualize a  mufla  clicando  com  o  botão  esquerdo  do  mouse na  câmera  com  o  nome 
+“Mufla” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Abra a mufla clicando com o botão esquerdo do mouse sobre o local indicado. 
+ 
+ 
+  
+
+ 
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Mova a peça ao dispositivo Jominy clicando com o botão direito do mouse sobre ela e 
+selecione a opção “Leve a peça ao dispositivo”. 
+ 
+ 
+ 
+Abra a válvula clicando com o botão direito do mouse sobre o local indicado e selecione 
+a opção “Abrir válvula”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Aguarde por 10 minutos ou acelere o tempo clicando com o botão esquerdo do mouse 
+no local indicado e arraste para a direita. 
+ 
+ 
+ 
+Feche  o jato  de  água  clicando  com  o botão  direito  do  mouse sobre o  local  indicado  e 
+selecione a opção “Fechar válvula”. 
+ 
+ 
+ 
+  
+
+ 
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+6. DETERMINANDO A DUREZA 
+ 
+Retifique o corpo de prova clicando com o botão direito do mouse sobre ele e selecione 
+a opção “Retificar corpo de prova”. 
+ 
+ 
+ 
+Abra a torneira clicando com o botão direito do mouse sobre a pia e selecione a opção 
+“Abrir torneira”. 
+ 
+ 
+
+ 
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Feche a torneira clicando com o botão direito do mouse sobre a pia e selecione a opção 
+“Fechar torneira”. 
+ 
+ 
+ 
+Mova a  peça  clicando  com  o  botão  direito  sobre  ela  e  selecione  a  opção  “Passar  nas 
+placas de petri”. 
+ 
+ 
+  
+
+ 
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Abra a torneira clicando com o botão direito do mouse sobre a pia e selecione a opção 
+“Abrir torneira”. 
+ 
+ 
+ 
+Feche a torneira clicando com o botão direito do mouse sobre a pia e selecione a opção 
+“Fechar torneira”. 
+ 
+ 
+  
+
+ 
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Realize as marcações na peça clicando com o botão direito sobre ela e selecione a opção 
+“Realizar marcações”. 
+ 
+ 
+ 
+Realize as medições de dureza clicando com o botão direito do mouse sobre a peça e 
+selecione a opção “Realizar medição da dureza”. 
+ 
+ 
+  
+
+ 
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+Repita os procedimentos anteriores com os demais corpos de prova. 
+ 
+ 
+  
+
+ 
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE MATERIAIS E TRATAMENTO TÉRMICO 
+TEMPERABILIDADE - ENSAIO JOMINY 
+ 
+7. AVALIANDO OS RESULTADOS 
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  localizada  nas  páginas  08  e  09  deste 
+roteiro,  e  responda  de  acordo  com  o  que  foi  observado  no  experimento,  associando 
+também com os conhecimentos aprendidos sobre o tema. 
+ 

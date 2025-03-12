@@ -1,0 +1,1412 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+INSTRUÇÕES GERAIS 
+ 
+ 
+ 
+1. Utilize a seção “Recomendações de Acesso” para melhor aproveitamento da 
+experiência virtual e para respostas às perguntas frequentes a respeito do 
+VirtuaLab.  
+ 
+2. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+3. Caso já possua familiaridade com o Laboratório Virtual, você encontrará as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+4. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na  página  a  seguir, apresentamos  as  duas principais  dúvidas na  utilização  dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste mesmo link, você poderá usar o chat ou abrir um chamado para o contato com 
+nossa central de suporte.  Se preferir, utilize os QR CODEs para um contato direto por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU PRIMEIRO ACESSO SERÁ UM POUCO MAIS LENTO, POIS ALGUNS PLUGINS SÃO 
+BUSCADOS NO SEU NAVEGADOR. A PARTIR DO SEGUNDO ACESSO, A VELOCIDADE DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção e reinicie o navegador. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o uso do disco no Gerenciador de Tarefas (Ctrl + Shift + Esc) -> 
+“Detalhes”.  Se  estiver  em  100%,  feche outros  aplicativos  ou  reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar aceleração de hardware sempre que estiver disponível”. Habilite a 
+opção  e  reinicie  o  navegador.  Caso  persista,  desative  a  opção  e  tente 
+novamente. 
+ 
+b) Verifique as configurações do driver de vídeo ou equivalente. Na área de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas” e procure pela configuração de performance. Escolha a opção de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+x Simuladores de fonte de raios gama; 
+x Simuladores de arranjo de calibração;  
+x Simuladores de atenuadores de chumbo;  
+x Simuladores de medidor de temperatura, pressão e umidade; 
+x Computadores com Excel. 
+ 
+ 
+PROCEDIMENTOS 
+ 
+1. PREPARANDO OS EQUIPAMENTOS 
+ 
+Ligue o computador e o eletrômetro. Em seguida, ligue o painel de controle.  
+Posteriormente, posicione a câmara de ionização a 1,0 m de distância da fonte 
+e conecte o cabo entre a câmara e o eletrômetro. Volte a sala de comando e 
+feche a porta. 
+  
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+2. REALIZANDO A CALIBRAÇÃO 
+ 
+Posicione a câmara de ionização a 2,5m. Em seguida, selecione os parâmetros 
+de qualidade do ISO N40. Polarize o eletrômetro a + 300 KV, zere e clique em 
+medir. Coloque as métricas de calibração, gire a chave para a posição ON no 
+painel e aperte o botão de sala livre. Repita esse procedimento 4 vezes para 
+cada filtro. 
+ 
+3. AVALIANDO OS RESULTADOS  
+ 
+Siga Ɖaƌa a ƐeçãŽ ͞AǀaůiaçãŽ de ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ 
+com o que foi observado nos experimentos.  
+ 
+4. FINALIZANDO O EXPERIMENTO 
+ 
+Selecione novamente a distância de 1,0 m e posicione 1,0 m a fonte de raio X a 
+câmara de ionização do usuário.     
+ 
+ 
+  
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Você terá que utilizar funções estatísticas como média e desvio para calcular o valor 
+médio das leituras para cada valor de taxa equivalente de dose escolhido como 
+referência, verificando se este valor médio se encontra dentro da faixa de ± 10% da 
+Taxa de Equivalente de Dose trabalhada. Caso o valor médio esteja dentro da faixa 
+de ± 10% do valor de referência, anotar APROVADO. Se estiver fora do intervalo 
+aceitável, anotar REPROVADO. 
+ 
+ 
+ 
+2. Se a calibração foi APROVADA em todos os intervalos adotados como referência, 
+gerar um Certificado de Calibração (sumário teórico). Se em um valor de referência 
+qualquer  os  resultados  estiverem  fora  de  ± 10%  da  Taxa Equivalente  de  Dose 
+trabalhada, o  monitor  não  foi  calibrado  e  não  será  gerado  um  certificado  de 
+calibração. 
+ 
+  
+
+  
+ 
+8 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+TUTORIAL VIRTUALAB 
+ 
+1. PREPARANDO OS EQUIPAMENTOS 
+ 
+Ligue o painel de controle, clicando com o botão esquerdo do mouse em cima da 
+chave. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ esquerdo do mouse sobre o 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+
+  
+ 
+9 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Ligue o eletrômetro, clicando com o botão esquerdo do mouse em cima do botão de 
+ligar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+2. REALIZANDO O EXPERIMENTO 
+ 
+ViƐƵaůinje a câŵeƌa ͞BaŶcada͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнκ͘͟ 
+ 
+ 
+ 
+Conecte o cabo entre a câmara e o eletrômetro, clicando com o botão direito do 
+mouse  sobre a câmera e  ƐeůeciŽŶaŶdŽ  a  ŽƉçãŽ  ͞CŽŶecƚaƌͬDeƐcŽŶecƚaƌ  aŽ 
+eleƚƌƀŵeƚƌŽ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+Calibre a posição dos feixes, clicando com o botão direito do mouse sobre a câmara 
+e ƐeůeciŽŶaŶdŽ a ŽƉçãŽ ͞Caůibƌaƌ ƉŽƐiçãŽ͘͟ 
+ 
+ 
+ 
+Posicione os feixes no meio da câmara, clicando com o botão esquerdo do mouse 
+sobre o botão com seta pra baixo. 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Visualize a ͞Câŵeƌa͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ ůaƚeƌaů 
+eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+Tare a posição dos trilhos a 1,0 m, clicando com o botão esquerdo do mouse sobre o 
+bŽƚãŽ ͞Taƌa͘͟ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Posicione os trilhos a 2,5 m de distância, clicando com o botão esquerdo do mouse sobre 
+o botão de seta para esquerda. 
+ 
+ 
+ 
+Visualize a Roda de Filtros, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞ϯ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-40, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞N-κϬ͘͟ 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de CŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Coloque as medidas do ͞KV͟ no parâmetro de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel. 
+ 
+ 
+ 
+Coloque as medidas do ͞KV͟ no parâmetro de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 4 e 0, consecutivamente. 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Coloque as medidas do ͞mA͟ no parâmetro de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel. 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 7 e +0,1, consecutivamente. 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ de ͞Ɛ͟ ŶŽ ƉaƌâŵeƚƌŽ de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre o terceiro botão no canto inferior direito do painel. 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ de ͞Ɛ͟ ŶŽ ƉaƌâŵeƚƌŽ de N-40 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1 e 0, consecutivamente e aperte o 
+botãŽ ͞ENTER͟. 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+Polarize a câmara de ionização com + 300 KV no eletrômetro, clicando com o botão 
+esquerdo do mouse sobre o knob e girando-o para a direita. 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Zere o eletrômetro, cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞njeƌŽ͟ dŽ 
+eletrômetro.  
+ 
+ 
+ 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞Medir͟ dŽ eůeƚƌƀŵeƚƌŽ. 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de CŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+PŽƐiciŽŶe a chaǀe Ŷa ŽƉçãŽ ͞ON͕͟ clicando com o botão esquerdo do mouse sobre a 
+chave. 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞ZERO͟ dŽ eůeƚƌƀmetro. 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-60 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-60 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 6 e 0, consecutivamente. 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-60 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͟. 
+ 
+ 
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-60 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 9 e +0,1, consecutivamente e aperte 
+Ž bŽƚãŽ ͞ENTER͟. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞Câmera͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚ+2͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-60, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞N-ςϬ͘͟ 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+menu lateral esquerdo, ou apertando ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞Medir͟ dŽ eůeƚƌƀŵeƚƌŽ. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+o menu lateral esquerdo, ou aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+menu lateral eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞ZERO͟ dŽ eůeƚƌƀŵeƚƌŽ͘ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-80 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-80 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 8 e 0, consecutivamente. 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-80 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel e em 
+segƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+4 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-80 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 0 e +0,1, consecutivamente e 
+aƉeƌƚe Ž bŽƚãŽ ͞ENTER͟. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞Câŵeƌa͕͟ clicando com o botão esquerdo do mouse sobre o menu 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-80, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞N-8Ϭ͘͟ 
+ 
+ 
+ 
+Visualize a câmera ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞MEDIR͟ dŽ eůeƚƌƀŵeƚƌŽ. 
+ 
+ 
+ 
+Visualize a câmeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+Visualinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞njeƌŽ͟ dŽ eůeƚƌƀŵeƚƌŽ͘ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+o menu ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-100 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Coloque as medidas dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-100 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 0 e 0, consecutivamente. 
+ 
+  
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-100 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+4 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-100 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 0 e +0,1, consecutivamente e 
+aperte o bŽƚãŽ ͞ENTER͟. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞Câŵeƌa͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-100, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞N-
+10Ϭ͘͟ 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞MEDIR͟ dŽ eůeƚƌƀŵeƚƌŽ. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞njeƌŽ͟ dŽ eůeƚƌƀŵeƚƌŽ͘ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-120 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-120 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 2 e 0, consecutivamente. 
+ 
+  
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-120 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+4 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-120 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 0 e +0,1, consecutivamente e 
+aƉeƌƚe Ž bŽƚãŽ ͞ENTER͟. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞Câŵeƌa͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-120, clicando com o botão eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž bŽƚãŽ ͞N-
+ϭϮϬ͘͟ 
+ 
+ 
+ 
+VisƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞MEDIR͟ dŽ eletrômetro. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞njeƌŽ͟ dŽ eůeƚƌƀŵeƚƌŽ͘ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe sobre 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-150 do painel, clicando com o botão 
+esquerdo do mouse sobre o primeiro botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ColoqƵe aƐ ŵedidaƐ dŽ ͞KV͟ ŶŽ ƉaƌâŵeƚƌŽ de N-150 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 1, 5 e 0, consecutivamente. 
+ 
+  
+ 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-150 do painel, clicando com o botão 
+esquerdo do mouse sobre o segundo botão no canto inferior direito do painel e em 
+ƐegƵida Ž bŽƚãŽ ͞CL͘͟ 
+ 
+  
+ 
+ 
+
+  
+ 
+4 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+CŽůŽƋƵe aƐ ŵedidaƐ dŽ ͞ŵA͟ ŶŽ ƉaƌâŵeƚƌŽ de N-150 do painel, clicando com o botão 
+esquerdo do mouse sobre os botões dos números 9 e +0,1, consecutivamente e aperte 
+Ž bŽƚãŽ ͞ENTER͟. 
+ 
+  
+ 
+ViƐƵaůinje a câŵeƌa ͞Câŵeƌa͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž ŵeŶƵ 
+ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+  
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Selecione o filtro N-150, clicando com o botão esquerdo do mouse sobre o bŽƚãŽ ͞N-
+15Ϭ͘͟ 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϯ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+6 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Faça a medição dos parâmetros selecionados, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞MEDIR͟ dŽ eůeƚƌƀŵeƚƌŽ. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de cŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+7 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Acione o feixe de raio X, clicando com o botão esquerdo do mouse sobre a luz verde no 
+canto superior direito do painel. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞EůeƚƌƀŵeƚƌŽ͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Anote o valor encontrado no Eletrômetro e repita mais 3x essa mesma medição do 
+parâmetro, totalizando 4 medições. 
+ 
+ 
+ 
+Após a última medição, zere o eletrômetro, clicando com o botão esquerdo do mouse 
+ƐŽbƌe Ž bŽƚãŽ ͞njeƌŽ͟ dŽ eůeƚƌƀŵeƚƌŽ͘ 
+ 
+  
+ 
+ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 
+3. ANALISANDO OS RESULTADOS 
+ 
+Siga para a seçãŽ ͞AǀaůiaçãŽ dos ReƐƵůƚadŽƐ͕͟ ŶeƐƚe ƌŽƚeiƌŽ͕ e ƌeƐƉŽŶda de acŽƌdŽ cŽŵ 
+o que foi observado no experimento. 
+ 
+4. FINALIZANDO O EXPERIMENTO 
+ 
+Polarize a câmara de ionização com 0 V no eletrômetro, clicando com o botão esquerdo 
+do mouse sobre o knob e girando-o para a direita. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+2 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Desligue o eletrômetro, clicando com o botão esquerdo do mouse em cima do botão 
+de ligar. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞PaiŶeů de CŽŶƚƌŽůe͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdo do mouse sobre 
+Ž ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнϭ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+3 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Desligue o painel de controle, clicando 2 vezes com o botão esquerdo do mouse em 
+cima da chave. 
+ 
+ 
+ 
+ViƐƵaůinje a câŵeƌa ͞Câŵeƌa͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+menu lateƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞AůƚнϮ͘͟ 
+ 
+ 
+ 
+ 
+
+  
+ 
+4 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+Visualize os trilhos, clicando com o botão esquerdo do mouse sobre o botão com o 
+número 1. 
+ 
+ 
+ 
+Retorne os trilhos a distância de 1,0 m, clicando 3 vezes com o botão esquerdo do mouse 
+sobre o botão com seta para direita. 
+ 
+ 
+ 
+ 
+
+  
+ 
+5 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ViƐƵaůinje a câŵeƌa ͞BaŶcada͕͟ cůicaŶdŽ cŽŵ Ž bŽƚãŽ eƐƋƵeƌdŽ dŽ ŵŽƵƐe ƐŽbƌe Ž 
+ŵeŶƵ ůaƚeƌaů eƐƋƵeƌdŽ͕ ŽƵ aƉeƌƚaŶdŽ ͞Aůƚнκ͘͟ 
+ 
+ 
+ 
+Desconecte o cabo entre a câmara e o eletrômetro, clicando com o botão direito do 
+mouse  sobre  a  câmera  e  seleciŽŶaŶdŽ  a  ŽƉçãŽ  ͞CŽŶecƚaƌͬDeƐcŽŶecƚaƌ  aŽ 
+eůeƚƌƀŵeƚƌŽ͘͟ 
+ 
+
+  
+ 
+1 
+ALGETEC ʹ SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE RADIOBIOLOGIA E DOSIMETRIA 
+CALIBRAÇÃO DE MONITORES DE ÁREA 
+ 

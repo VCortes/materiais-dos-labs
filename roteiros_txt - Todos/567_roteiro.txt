@@ -1,0 +1,1108 @@
+
+
+  
+ 
+1 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+INSTRUÇÕES GERAIS 
+ 
+1. Neste  experimento, você irá aprender  a  realizar  o  método direto a fresco e 
+exame de sedimentação espontânea – método de Hoffmann. 
+ 
+2. Utilize  a  seção “Recomendações de Acesso” para  melhor  aproveitamento  da 
+experiência  virtual  e  para  respostas  às  perguntas  frequentes  a  respeito  do 
+VirtuaLab.  
+ 
+3. Caso  não  saiba  como  manipular  o  Laboratório  Virtual,  utilize  o “Tutorial 
+VirtuaLab” presente neste Roteiro. 
+ 
+4. Caso  já  possua  familiaridade com  o  Laboratório  Virtual,  você  encontrará  as 
+instruções para realização desta prática na subseção “Procedimentos”. 
+ 
+5. Ao finalizar o experimento, responda aos questionamentos da seção “Avaliação 
+de Resultados”.  
+
+  
+ 
+2 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+RECOMENDAÇÕES DE ACESSO 
+ 
+PARA ACESSAR O VIRTUALAB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Caso utilize o Windows 10, dê preferência ao navegador Google Chrome; 
+2. Caso utilize o Windows 7, dê preferência ao navegador Mozilla Firefox; 
+3. Feche outros programas que podem sobrecarregar o seu computador; 
+4. Verifique se o seu navegador está atualizado; 
+5. Realize teste de velocidade da internet. 
+ 
+Na   página   a   seguir,   apresentamos   as   duas   principais   dúvidas   na   utilização   dos 
+Laboratórios Virtuais. Caso elas não se apliquem ao seu problema, consulte a nossa seção 
+de “Perguntas Frequentes”, disponível em: https://algetec.movidesk.com/kb/pt-br/ 
+Neste  mesmo  link,  você  poderá usar  o chat ou abrir  um  chamado para  o  contato  com 
+nossa  central  de  suporte.  Se  preferir,  utilize  os  QR  CODEs  para  um  contato  direto  por 
+Whatsapp (8h às 18h) ou para direcionamento para a central de suporte. Conte conosco! 
+ATENÇÃO: 
+O LABORATÓRIO VIRTUAL DEVE SER ACESSADO POR COMPUTADOR. ELE NÃO DEVE SER 
+ACESSADO POR CELULAR OU TABLET.  
+O REQUISITO MÍNIMO PARA O SEU COMPUTADOR É UMA MEMÓRIA RAM DE 4 GB. 
+SEU  PRIMEIRO  ACESSO  SERÁ  UM  POUCO  MAIS  LENTO,  POIS ALGUNS  PLUGINS  SÃO 
+BUSCADOS  NO  SEU  NAVEGADOR.  A  PARTIR  DO  SEGUNDO  ACESSO,  A  VELOCIDADE  DE 
+ABERTURA DOS EXPERIMENTOS SERÁ MAIS RÁPIDA. 
+
+  
+ 
+3 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+PERGUNTAS FREQUENTES 
+ 
+ 
+1)  O laboratório virtual está lento, o que devo fazer? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção e reinicie o navegador. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,  clique  com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Feche outros aplicativos e abas que podem sobrecarregar o seu computador. 
+ 
+d) Verifique o  uso  do  disco no  Gerenciador  de  Tarefas  (Ctrl  +  Shift  +  Esc) -> 
+“Detalhes”.   Se   estiver  em   100%,  feche outros   aplicativos   ou   reinicie o 
+computador. 
+  
+
+  
+ 
+4 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+2) O laboratório apresentou tela preta, como proceder? 
+ 
+a) No Google Chrome, clique em “Configurações” -> “Avançado” -> “Sistema” -> 
+“Utilizar  aceleração  de  hardware  sempre  que  estiver  disponível”.  Habilite  a 
+opção   e   reinicie   o   navegador.   Caso   persista,   desative   a   opção   e   tente 
+novamente. 
+ 
+b) Verifique  as  configurações  do  driver  de  vídeo  ou  equivalente.  Na  área  de 
+trabalho,   clique   com  o  botão  direito  do  mouse.  Escolha  “Configurações 
+gráficas”  e  procure  pela  configuração  de  performance.  Escolha  a  opção  de 
+máximo desempenho.  
+Obs.: Os atalhos e procedimentos podem variar de acordo com o driver de 
+vídeo instalado na máquina. 
+ 
+c) Verifique se o navegador está atualizado. 
+ 
+ 
+  
+
+  
+ 
+5 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+DESCRIÇÃO DO LABORATÓRIO 
+ 
+MATERIAIS NECESSÁRIOS 
+ 
+• Jaleco; 
+• Luvas de procedimento; 
+• Máscara; 
+• Óculos; 
+• Amostra de Fezes; 
+• Solução Salina 0,85%; 
+• Bastão de vidro; 
+• Hipoclorito de sódio; 
+• Lâmina; 
+• Lamínula; 
+• Pipeta de Pasteur; 
+• Proveta de 150 mL com água destilada. 
+• Funil; 
+• Gaze; 
+• Cálice 250 mL; 
+• Béquer de 250 mL; 
+• Microscópio; 
+• Lugol. 
+  
+
+  
+ 
+6 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+  
+PROCEDIMENTOS 
+ 
+1. ESCOLHENDO O EXPERIMENTO 
+ 
+Escolha  o  experimento  que  deseja  realizar:  (1)  Método  Hoffmann ou (2)  Método 
+Direto. 
+ 
+MÉTODO HOFFMANN 
+ 
+1. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+2. HOMOGENEIZANDO A AMOSTRA 
+ 
+Identifique o coletor e a lâmina, depois abra o coletor e coloque a amostra no béquer. 
+Coloque 50 mL de água destilada no béquer e homogeneíze com auxílio do bastão de 
+vidro. Mova o funil de vidro e gaze para o cálice. 
+ 
+
+  
+ 
+7 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+  
+3. FILTRANDO A AMOSTRA 
+ 
+Filtre a solução no cálice, em seguida coloque 50 mL de água destilada. Deixe o cálice 
+em decantação por duas horas. Pingue uma gota do sedimento formado na lâmina, 
+com auxílio da pipeta Pasteur e cubra com a lamínula.  
+ 
+4. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Direcione  a  lâmina  de  vidro  para  o  microscópio. Ligue  o  microscópio  e  posicione a 
+lâmina sobre a platina.  Visualize a lâmina na objetiva de 40 X. Atente-se à instrução 
+que,   para   movimentação   do   revólver   ou   para   efetuar   as   configurações   de 
+posicionamento  dos  parafusos,  condensador  ou  diafragma,  deve-se clicar  com  o 
+botão  esquerdo  do  mouse  sobre  a  área  desejada  e  movimentar  o  cursor  do  mouse 
+para direita ou esquerda. Retire a lâmina da platina. 
+MÉTODO DIRETO 
+ 
+5. SEGURANÇA DO EXPERIMENTO 
+ 
+Higienize as mãos e coloque os equipamentos de proteção individual localizados no 
+“Armário de EPIs”. 
+ 
+6. DILUINDO A AMOSTRA 
+ 
+Identifique o coletor e a lâmina, depois abra o coletor, coloque a amostra no béquer 
+e dilua a amostra com solução salina da pisseta. Em seguida, homogeneíze com bastão 
+de vidro. 
+ 
+
+  
+ 
+8 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+  
+7. PREPARANDO A LÂMINA 
+ 
+Transfira uma gota (1 mL) da amostra diluída para a lâmina, com auxílio da pipeta de 
+Pasteur. Em seguida, adicione uma gota de lugol na lâmina e coloque a lamínula por 
+cima. 
+8. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Direcione  a  lâmina  de  vidro  para  o  microscópio. Ligue  o  microscópio  e  posicione a 
+lâmina sobre a platina.  Visualize a lâmina na objetiva de 40 X. Atente-se à instrução 
+que,   para   movimentação   do   revólver   ou   para   efetuar   as   configurações   de 
+posicionamento  dos  parafusos,  condensador  ou  diafragma,  deve-se  clicar  com  o 
+botão  esquerdo  do  mouse  sobre  a  área  desejada  e  movimentar  o  cursor  do  mouse 
+para direita ou esquerda. Retire a lâmina da platina. 
+ 
+9. AVALIANDO OS RESULTADOS  
+ 
+Siga  para  a  seção  “Avaliação  dos  Resultados”,  neste  roteiro,  e  responda  de  acordo 
+com o que foi observado nos experimentos. 
+ 
+
+  
+ 
+9 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+AVALIAÇÃO DOS RESULTADOS 
+ 
+ 
+ 
+1. Para quais ovos é mais indicado esse método? 
+ 
+ 
+ 
+2. Há diferença no tipo de ovo encontrado se a amostra estiver diarreica? 
+ 
+ 
+ 
+3. Quais formas evolutivas podem ser identificadas através do método de Hoffmann? 
+ 
+ 
+ 
+4. Faça um resumo da técnica analisada e cite dois benefícios da sua aplicação. 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+10 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+TUTORIAL VIRTUALAB 
+ 
+ 
+1. ESCOLHENDO O EXPERIMENTO 
+ 
+Escolha a prática que deseja realizar clicando com o botão esquerdo do mouse no botão 
+referente à sua escolha. (1) Método Hoffmann ou (2) Método direto. 
+ 
+ 
+ 
+  
+
+  
+ 
+11 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+MÉTODO HOFFMANN 
+ 
+2. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+2”. 
+ 
+ 
+ 
+Higienize as mãos clicando com o botão esquerdo do mouse na pia. 
+ 
+  
+
+  
+ 
+12 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize  os  EPIs  clicando  com  o  botão  esquerdo  do mouse  na  câmera  com  o  nome 
+“Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+ 
+ 
+Abra o armário clicando com o botão esquerdo do mouse em cada uma das portas. 
+ 
+ 
+ 
+  
+
+  
+ 
+13 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque a luva, a máscara, o jaleco e os óculos clicando com o botão esquerdo do mouse 
+em cada um dos itens. 
+ 
+ 
+ 
+  
+
+  
+ 
+14 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+3. HOMOGENEIZANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Faça  a  identificação  do  coletor  clicando  com  o botão  esquerdo  do  mouse  sobre  o 
+marcador. 
+ 
+  
+
+  
+ 
+15 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Faça  a  identificação  da  lâmina  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+marcador. 
+ 
+ 
+ 
+Abra o coletor clicando com o botão esquerdo do mouse sobre sua tampa. 
+ 
+ 
+ 
+  
+
+  
+ 
+16 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque a amostra no béquer clicando com o botão esquerdo do mouse sobre a pá. 
+ 
+ 
+ 
+Feche o coletor clicando com o botão esquerdo do mouse sobre a sua tampa. 
+ 
+ 
+ 
+  
+
+  
+ 
+17 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque  50  mL de  água  destilada  no  béquer  com  a  amostra  clicando  com  o  botão 
+esquerdo do mouse na proveta que contém a água. 
+ 
+ 
+ 
+Homogeneíze o conteúdo do béquer clicando com o botão esquerdo do mouse sobre o 
+bastão de vidro. 
+ 
+ 
+ 
+  
+
+  
+ 
+18 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize  o  cálice clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Cálice” ou através do atalho do teclado “Alt+7”. 
+ 
+ 
+ 
+Coloque o funil de vidro no cálice clicando com o botão esquerdo do mouse nele. 
+ 
+ 
+ 
+  
+
+  
+ 
+19 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque a gaze no cálice clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+20 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+4. FILTRANDO A AMOSTRA 
+ 
+Visualize a bancada clicando com o botão esquerdo do mouse na câmera com o nome 
+“Visão geral” ou através do atalho do teclado “Alt+5”. 
+ 
+ 
+ 
+Filtre a amostra no cálice clicando com o botão esquerdo do mouse no béquer com o 
+conteúdo. 
+ 
+  
+
+  
+ 
+21 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque 50 mL de água destilada no cálice clicando com o botão esquerdo do mouse na 
+proveta com a água. 
+ 
+ 
+ 
+Descarte o funil e a gaze clicando com o botão esquerdo do mouse sobre o funil. 
+ 
+ 
+  
+
+  
+ 
+22 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Aguarde  a  amostra  decantar  por  duas  horas. Avance  o  tempo  clicando  com  o  botão 
+esquerdo do mouse em “Pular”. 
+ 
+ 
+ 
+Pipete a amostra decantada na lâmina clicando com o botão esquerdo do mouse sobre 
+a pipeta de Pasteur. 
+ 
+ 
+ 
+  
+
+  
+ 
+23 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize  a  lâmina clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Lâmina” ou através do atalho do teclado “Alt+8”. 
+ 
+ 
+ 
+Cubra  a  lâmina  com  a  lamínula  clicando  com  o  botão  esquerdo  do  mouse  sobre  a 
+lamínula. 
+ 
+ 
+ 
+  
+
+  
+ 
+24 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+5. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Mova a lâmina de vidro para o microscópio clicando na lâmina com o botão esquerdo 
+do mouse. 
+ 
+ 
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+   
+
+  
+ 
+25 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize  o  microscópio  frontal clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Microscópio (frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+26 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando  com  o 
+botão esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do  mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+27 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+  
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+  
+
+  
+ 
+28 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+  
+  
+
+  
+ 
+29 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Realize os ajustes no diafragma, para regular a iluminação, no charriot para controlar a 
+posição  da  lâmina,  e  nos  botões  macro  e  micrométrico,  para  focalizar  a  imagem. 
+Visualize a lâmina na objetiva de 40x. 
+ 
+ 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+  
+  
+
+  
+ 
+30 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize o microscópio lateral clicando com o botão esquerdo do mouse na câmera com 
+o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Desligue o microscópio clicando no interruptor com o botão esquerdo do mouse. 
+ 
+  
+  
+
+  
+ 
+31 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize as opções de procedimento clicando com o botão esquerdo do mouse sobre o 
+ícone “Opções” localizado no canto superior direito da tela. 
+ 
+ 
+ 
+Reinicie  a  plataforma  clicando  com  o  botão  esquerdo  do  mouse  sobre  “Reiniciar 
+experimento”.  
+ 
+ 
+  
+
+  
+ 
+32 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Selecione o método direto clicando com o botão esquerdo do mouse sobre a opção “2 
+Método direto”. 
+ 
+ 
+  
+
+  
+ 
+33 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+MÉTODO DIRETO 
+ 
+6. SEGURANÇA DO EXPERIMENTO 
+ 
+Visualize a pia clicando com o botão esquerdo do mouse na câmera com o nome “Pia” 
+ou através do atalho do teclado “Alt+2”. 
+ 
+  
+ 
+  
+
+  
+ 
+34 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Higienize as mãos clicando com o botão esquerdo do mouse na pia. 
+ 
+ 
+ 
+Visualize  os  EPIs  clicando  com  o  botão  esquerdo  do  mouse  na  câmera  com  o  nome 
+“Armário de EPIs” ou através do atalho do teclado “Alt+1”. 
+ 
+  
+ 
+  
+
+  
+ 
+35 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Abra o armário clicando com o botão esquerdo do mouse em cada uma das portas. 
+ 
+  
+ 
+Coloque a luva, a máscara, o jaleco e os óculos clicando com o botão esquerdo do mouse 
+em cada um dos itens. 
+ 
+  
+ 
+  
+
+  
+ 
+36 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+7. DILUINDO A AMOSTRA 
+ 
+Volte para a bancada clicando com o botão esquerdo do mouse na câmera “Visão geral” 
+do menu “Visualização” o utilizando o atalho “Alt+5”. 
+ 
+  
+ 
+Faça  a  identificação  do  coletor  clicando  com  o  botão  esquerdo  do  mouse  sobre  o 
+marcador. 
+ 
+  
+
+  
+ 
+37 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Faça  a  identificação  da  lâmina  clicando  com  o  botão  esquerdo  do mouse  sobre  o 
+marcador. 
+ 
+ 
+ 
+Abra o coletor clicando com o botão esquerdo do mouse sobre sua tampa. 
+ 
+ 
+ 
+  
+
+  
+ 
+38 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque a amostra no béquer clicando com o botão esquerdo do mouse na pá. 
+ 
+ 
+ 
+Feche o coletor clicando com o botão esquerdo do mouse sobre sua tampa. 
+ 
+ 
+ 
+  
+
+  
+ 
+39 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Adicione  a  solução  salina  ao  recipiente  contendo  a  amostra  clicando  com  o  botão 
+esquerdo do mouse sobre a pisseta. 
+ 
+ 
+ 
+Homogeneíze  a  amostra  e  a  solução  salina  clicando  com  o  botão  esquerdo  do  mouse 
+sobre o bastão de vidro. 
+ 
+ 
+ 
+  
+
+  
+ 
+40 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+8. PREPARANDO A LÂMINA 
+ 
+Transfira  1  mL  da  amostra  diluída  para  a  lâmina  clicando  com  o  botão  esquerdo  do 
+mouse na pipeta de Pasteur. 
+ 
+ 
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse na câmera “Amostra” do 
+menu “Visualização” ou utilizando o atalho “Alt+6”. 
+ 
+  
+
+  
+ 
+41 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Coloque o lugol sobre a lâmina clicando com o botão esquerdo do mouse no frasco que 
+contém a solução. 
+ 
+ 
+ 
+Coloque a lamínula sobre a lâmina clicando com o botão esquerdo do mouse sobre ela. 
+ 
+ 
+ 
+  
+
+  
+ 
+42 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+9. VISUALIZANDO A LÂMINA NO MICROSCÓPIO 
+ 
+Mova a lâmina de vidro para o microscópio clicando na lâmina com o botão esquerdo 
+do mouse. 
+ 
+  
+ 
+Ligue o microscópio clicando com o botão esquerdo do mouse no interruptor localizado 
+na base do equipamento. 
+ 
+   
+
+  
+ 
+43 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize  o  microscópio  frontal  clicando  com  o  botão  esquerdo  do  mouse  na  câmera 
+com o nome “Microscópio (frontal)” ou através do atalho do teclado “Alt+3”. 
+ 
+ 
+ 
+Movimente as lentes objetivas pressionando com o botão esquerdo do mouse sobre o 
+revólver e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+  
+
+  
+ 
+44 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Se  for  necessário  ajustar  a  iluminação,  movimente  o  diafragma  pressionando  com  o 
+botão esquerdo do mouse sobre ele e arrastando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+Realize  o  ajuste  do  foco  pressionando  o  botão  esquerdo  do mouse  sobre  o  parafuso 
+macrométrico e movimentando o cursor à direita ou à esquerda. 
+ 
+  
+ 
+  
+
+  
+ 
+45 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Se   for  necessário   um   ajuste   mais   apurado  do   foco,   gire   o  botão  micrométrico 
+pressionando o botão esquerdo do mouse sobre ele e movimentando o cursor à direita 
+ou à esquerda. 
+ 
+  
+ 
+Para  movimentar  a  lâmina  à  direita  ou  à  esquerda,  gire  a  peça  inferior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+  
+
+  
+ 
+46 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Para  movimentar  a  lâmina  à  frente  ou  para  trás,  gire  a  peça  superior  do  charriot 
+pressionando  com o botão  esquerdo do  mouse  sobre ela  e  movimentando  o  cursor à 
+direita ou à esquerda. 
+ 
+  
+ 
+Visualize a lâmina clicando com o botão esquerdo do mouse sobre o ícone “ver ocular” 
+localizado abaixo do ícone da engrenagem no canto superior direito da tela. 
+ 
+  
+  
+
+  
+ 
+47 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Realize os ajustes no diafragma, para regular a iluminação, no charriot para controlar a 
+posição  da  lâmina,  e  nos  botões  macro  e  micrométrico,  para  focalizar  a  imagem. 
+Visualize a lâmina na objetiva de 40x. 
+ 
+ 
+ 
+Retire a lâmina do microscópio clicando com o botão esquerdo do mouse na lâmina de 
+vidro. 
+ 
+  
+  
+
+  
+ 
+48 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+Visualize o microscópio lateral clicando com o botão esquerdo do mouse na câmera com 
+o nome “Microscópio (Lateral)” ou através do atalho do teclado “Alt+4”. 
+ 
+ 
+ 
+Desligue o microscópio clicando no interruptor com o botão esquerdo do mouse. 
+ 
+  
+  
+
+  
+ 
+49 
+ALGETEC – SOLUÇÕES TECNOLÓGICAS EM EDUCAÇÃO  
+CEP: 40260-215  Fone: 71 3272-3504   
+E-mail: contato@algetec.com.br  |  Site: www.algetec.com.br 
+ 
+LABORATÓRIO DE ANÁLISES PARASITOLÓGICAS 
+EXAME DIRETO A FRESCO E EXAME DE SEDIMENTAÇÃO ESPONTÂNEA – MÉTODO DE HOFFMANN 
+ 
+10. AVALIANDO OS RESULTADOS  
+ 
+Siga para a seção “Avaliação dos Resultados”, neste roteiro, e responda de acordo com 
+o que foi observado nos experimentos. 
+ 
